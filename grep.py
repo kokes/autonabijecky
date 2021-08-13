@@ -28,6 +28,13 @@ def eon():
         data = json.load(r)
 
     data = [j for j in data if j["country_code"] == "CZ"]
+    # musime umazat informace o tom, jestli se zrovna nabiji
+    for station in data:
+        station["last_updated"] = "RESET"
+        for ev in station["evses"]:
+            ev["status"] = "RESET"
+            ev["last_updated"] = "RESET"
+
     return data
 
 
