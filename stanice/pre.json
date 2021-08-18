@@ -11236,76 +11236,6 @@
       "region": "Hlavní město Praha",
       "street": "Urbánkova"
     },
-    "CZ*PRE*E1R8075*1": {
-      "additionalInfo": "In den Hotelgaragen",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
-        ]
-      },
-      "city": "Praha",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ1002726",
-      "csName": "Ladestation Hotel Ambassador Zlatá Husa",
-      "csStatus": "operable",
-      "csType": "charger",
-      "enAdditionalInfo": "In the hotel garages",
-      "enCsname": "Charger Hotel Ambassador Zlatá Husa",
-      "evseId": "CZ*PRE*E1R8075*1",
-      "geoCoord": {
-        "latitude": "50.083881",
-        "longitude": "14.424700"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "plug": "Type 2 Outlet"
-        }
-      ],
-      "postalCode": "11000",
-      "region": "Hlavní město Praha",
-      "street": "Václavské náměstí 5"
-    },
-    "CZ*PRE*E1R8075*2": {
-      "additionalInfo": "In den Hotelgaragen",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
-        ]
-      },
-      "city": "Praha",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ1002726",
-      "csName": "Ladestation Hotel Ambassador Zlatá Husa",
-      "csStatus": "operable",
-      "csType": "charger",
-      "enAdditionalInfo": "In the hotel garages",
-      "enCsname": "Charger Hotel Ambassador Zlatá Husa",
-      "evseId": "CZ*PRE*E1R8075*2",
-      "geoCoord": {
-        "latitude": "50.083881",
-        "longitude": "14.424700"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "plug": "Type 2 Outlet"
-        }
-      ],
-      "postalCode": "11000",
-      "region": "Hlavní město Praha",
-      "street": "Václavské náměstí 5"
-    },
     "CZ*PRE*E1R8076*1": {
       "additionalInfo": "In der Hotelgarage",
       "chargingFacilities": {
@@ -18480,6 +18410,76 @@
       "postalCode": "15500",
       "region": "Hlavní město Praha",
       "street": "Fantova 1797"
+    },
+    "CZ*PRE*E1S8075*1": {
+      "additionalInfo": "In den Hotelgaragen",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1002726",
+      "csName": "Ladestation Hotel Ambassador Zlatá Husa",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "In the hotel garages",
+      "enCsname": "Charger Hotel Ambassador Zlatá Husa",
+      "evseId": "CZ*PRE*E1S8075*1",
+      "geoCoord": {
+        "latitude": "50.083881",
+        "longitude": "14.424700"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "11000",
+      "region": "Hlavní město Praha",
+      "street": "Václavské náměstí 5"
+    },
+    "CZ*PRE*E1S8075*2": {
+      "additionalInfo": "In den Hotelgaragen",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1002726",
+      "csName": "Ladestation Hotel Ambassador Zlatá Husa",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "In the hotel garages",
+      "enCsname": "Charger Hotel Ambassador Zlatá Husa",
+      "evseId": "CZ*PRE*E1S8075*2",
+      "geoCoord": {
+        "latitude": "50.083881",
+        "longitude": "14.424700"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "11000",
+      "region": "Hlavní město Praha",
+      "street": "Václavské náměstí 5"
     },
     "CZ*PRE*E1S8077*1": {
       "additionalInfo": "In der Garage des Hotels",
