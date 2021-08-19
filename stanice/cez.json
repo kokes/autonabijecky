@@ -3535,7 +3535,7 @@
         "connectors": [
           {
             "amperage": 32,
-            "chargePointIdentity": "",
+            "chargePointIdentity": "T54-HU1-4020-003",
             "connectorID": 1,
             "format": "CABLE",
             "powerOutput": null,
@@ -3543,13 +3543,13 @@
             "voltage": 400
           }
         ],
-        "physicalReference": ""
+        "physicalReference": "R313"
       },
       {
         "connectors": [
           {
             "amperage": null,
-            "chargePointIdentity": "",
+            "chargePointIdentity": "T54-HU1-4020-003",
             "connectorID": 2,
             "format": "CABLE",
             "powerOutput": 50,
@@ -3558,7 +3558,7 @@
           },
           {
             "amperage": null,
-            "chargePointIdentity": "",
+            "chargePointIdentity": "T54-HU1-4020-003",
             "connectorID": 3,
             "format": "CABLE",
             "powerOutput": 50,
@@ -3566,7 +3566,7 @@
             "voltage": null
           }
         ],
-        "physicalReference": ""
+        "physicalReference": "R313"
       }
     ],
     "images": [
@@ -3575,7 +3575,7 @@
       }
     ],
     "instructions": null,
-    "name": "Mladá Boleslav - McDonald´s - 2",
+    "name": "R313 - Mladá Boleslav - McDonald´s - 2",
     "visible": true
   },
   {
@@ -3604,7 +3604,7 @@
         "connectors": [
           {
             "amperage": 32,
-            "chargePointIdentity": "",
+            "chargePointIdentity": "T54-IT1-3220-025",
             "connectorID": 1,
             "format": "CABLE",
             "powerOutput": null,
@@ -3618,7 +3618,7 @@
         "connectors": [
           {
             "amperage": null,
-            "chargePointIdentity": "",
+            "chargePointIdentity": "T54-IT1-3220-025",
             "connectorID": 2,
             "format": "CABLE",
             "powerOutput": 50,
@@ -3627,7 +3627,7 @@
           },
           {
             "amperage": null,
-            "chargePointIdentity": "",
+            "chargePointIdentity": "T54-IT1-3220-025",
             "connectorID": 3,
             "format": "CABLE",
             "powerOutput": 50,
@@ -3644,7 +3644,7 @@
       }
     ],
     "instructions": null,
-    "name": "Mladá Boleslav - McDonald´s - 1",
+    "name": "R312 - Mladá Boleslav - McDonald´s - 1",
     "visible": true
   },
   {
@@ -3673,7 +3673,7 @@
         "connectors": [
           {
             "amperage": 32,
-            "chargePointIdentity": "",
+            "chargePointIdentity": "T54-IT1-3320-010",
             "connectorID": 1,
             "format": "CABLE",
             "powerOutput": null,
@@ -3687,7 +3687,7 @@
         "connectors": [
           {
             "amperage": null,
-            "chargePointIdentity": "",
+            "chargePointIdentity": "T54-IT1-3320-010",
             "connectorID": 2,
             "format": "CABLE",
             "powerOutput": 50,
@@ -3696,7 +3696,7 @@
           },
           {
             "amperage": null,
-            "chargePointIdentity": "",
+            "chargePointIdentity": "T54-IT1-3320-010",
             "connectorID": 3,
             "format": "CABLE",
             "powerOutput": 50,
@@ -3713,7 +3713,7 @@
       }
     ],
     "instructions": null,
-    "name": "Hustopeče u Brna - Benzina",
+    "name": "R306 - Hustopeče u Brna - Benzina",
     "visible": true
   },
   {
@@ -4405,7 +4405,7 @@
         "connectors": [
           {
             "amperage": 32,
-            "chargePointIdentity": "",
+            "chargePointIdentity": "T54-HU1-3120-020",
             "connectorID": 1,
             "format": "CABLE",
             "powerOutput": null,
@@ -4413,13 +4413,13 @@
             "voltage": 400
           }
         ],
-        "physicalReference": ""
+        "physicalReference": "R314"
       },
       {
         "connectors": [
           {
             "amperage": null,
-            "chargePointIdentity": "",
+            "chargePointIdentity": "T54-HU1-3120-020",
             "connectorID": 2,
             "format": "CABLE",
             "powerOutput": 50,
@@ -4428,7 +4428,7 @@
           },
           {
             "amperage": null,
-            "chargePointIdentity": "",
+            "chargePointIdentity": "T54-HU1-3120-020",
             "connectorID": 3,
             "format": "CABLE",
             "powerOutput": 50,
@@ -4436,7 +4436,7 @@
             "voltage": null
           }
         ],
-        "physicalReference": ""
+        "physicalReference": "R314"
       }
     ],
     "images": [
@@ -4445,7 +4445,7 @@
       }
     ],
     "instructions": null,
-    "name": "Soběslav",
+    "name": "R314 - Soběslav",
     "visible": true
   },
   {
@@ -4514,7 +4514,7 @@
       }
     ],
     "instructions": null,
-    "name": "Humpolec - Kaufland 2",
+    "name": "R292 - Humpolec - Kaufland 2",
     "visible": true
   },
   {
@@ -4583,7 +4583,7 @@
       }
     ],
     "instructions": null,
-    "name": "Humpolec - Kaufland 1",
+    "name": "R291 - Humpolec - Kaufland 1",
     "visible": true
   },
   {
@@ -4652,7 +4652,7 @@
       }
     ],
     "instructions": null,
-    "name": "Písek - Kaufland",
+    "name": "R290 - Písek - Kaufland",
     "visible": true
   },
   {
@@ -4721,7 +4721,7 @@
       }
     ],
     "instructions": null,
-    "name": "Vimperk - Národní park Šumava",
+    "name": "R293 - Vimperk - Národní park Šumava",
     "visible": true
   },
   {
@@ -4790,7 +4790,7 @@
       }
     ],
     "instructions": null,
-    "name": "Hradec Králové - Kaufland 2",
+    "name": "R304 - Hradec Králové - Kaufland 2",
     "visible": true
   },
   {
@@ -4859,7 +4859,7 @@
       }
     ],
     "instructions": null,
-    "name": "Hradec Králové - Kaufland 1",
+    "name": "R303 - Hradec Králové - Kaufland 1",
     "visible": true
   },
   {
@@ -4928,7 +4928,7 @@
       }
     ],
     "instructions": null,
-    "name": "Litomyšl",
+    "name": "R297 - Litomyšl",
     "visible": true
   },
   {
@@ -4957,7 +4957,7 @@
         "connectors": [
           {
             "amperage": 32,
-            "chargePointIdentity": "",
+            "chargePointIdentity": "T54-IT1-3220-019",
             "connectorID": 1,
             "format": "CABLE",
             "powerOutput": null,
@@ -4971,7 +4971,7 @@
         "connectors": [
           {
             "amperage": null,
-            "chargePointIdentity": "",
+            "chargePointIdentity": "T54-IT1-3220-019",
             "connectorID": 2,
             "format": "CABLE",
             "powerOutput": 50,
@@ -4980,7 +4980,7 @@
           },
           {
             "amperage": null,
-            "chargePointIdentity": "",
+            "chargePointIdentity": "T54-IT1-3220-019",
             "connectorID": 3,
             "format": "CABLE",
             "powerOutput": 50,
@@ -4997,7 +4997,7 @@
       }
     ],
     "instructions": null,
-    "name": "Pardubice - EVČ",
+    "name": "R298 - Pardubice - EVČ",
     "visible": true
   },
   {
@@ -5066,7 +5066,7 @@
       }
     ],
     "instructions": null,
-    "name": "Český Těšín",
+    "name": "R301 - Český Těšín",
     "visible": true
   },
   {
@@ -5135,7 +5135,7 @@
       }
     ],
     "instructions": null,
-    "name": "Opava - McDonald´s 2",
+    "name": "R300 - Opava - McDonald´s 2",
     "visible": true
   },
   {
@@ -5204,7 +5204,7 @@
       }
     ],
     "instructions": null,
-    "name": "Opava - McDonald´s 1",
+    "name": "R299 - Opava - McDonald´s 1",
     "visible": true
   },
   {
@@ -5273,7 +5273,7 @@
       }
     ],
     "instructions": null,
-    "name": "Jičín - Kaufland",
+    "name": "R282 - Jičín - Kaufland",
     "visible": true
   },
   {
@@ -5342,7 +5342,7 @@
       }
     ],
     "instructions": null,
-    "name": "Praha Kobylisy - Kaufland 2",
+    "name": "R287 - Praha Kobylisy - Kaufland 2",
     "visible": true
   },
   {
@@ -5411,7 +5411,7 @@
       }
     ],
     "instructions": null,
-    "name": "Praha Kobylisy - Kaufland 1",
+    "name": "R286 - Praha Kobylisy - Kaufland 1",
     "visible": true
   },
   {
@@ -5480,7 +5480,7 @@
       }
     ],
     "instructions": null,
-    "name": "Praha - Stodůlky - Kaufland",
+    "name": "R285 - Praha - Stodůlky - Kaufland",
     "visible": true
   },
   {
@@ -5549,7 +5549,7 @@
       }
     ],
     "instructions": null,
-    "name": "Zábřeh na Moravě - Kaufland",
+    "name": "R148 - Zábřeh na Moravě - Kaufland",
     "visible": true
   },
   {
@@ -5618,7 +5618,7 @@
       }
     ],
     "instructions": null,
-    "name": "Brno - Science VIDA! Centrum 2",
+    "name": "R284 - Brno - Science VIDA! Centrum 2",
     "visible": true
   },
   {
@@ -5687,7 +5687,7 @@
       }
     ],
     "instructions": null,
-    "name": "Brno - Science VIDA! Centrum 1",
+    "name": "R283 - Brno - Science VIDA! Centrum 1",
     "visible": true
   },
   {
@@ -5756,7 +5756,7 @@
       }
     ],
     "instructions": null,
-    "name": "Uničov",
+    "name": "R262 - Uničov",
     "visible": true
   },
   {
@@ -5825,7 +5825,7 @@
       }
     ],
     "instructions": null,
-    "name": "Roudnice nad Labem - Shell 2",
+    "name": "R281 - Roudnice nad Labem - Shell 2",
     "visible": true
   },
   {
@@ -5894,7 +5894,7 @@
       }
     ],
     "instructions": null,
-    "name": "Roudnice nad Labem - Shell - 1",
+    "name": "R280 - Roudnice nad Labem - Shell - 1",
     "visible": true
   },
   {
@@ -5963,7 +5963,7 @@
       }
     ],
     "instructions": null,
-    "name": "Nupaky - Shell - D1 - 3",
+    "name": "R278 - Nupaky - Shell - D1 - 3",
     "visible": true
   },
   {
@@ -6032,7 +6032,7 @@
       }
     ],
     "instructions": null,
-    "name": "Nupaky - Shell - D1 - 2",
+    "name": "R277 - Nupaky - Shell - D1 - 2",
     "visible": true
   },
   {
@@ -6101,7 +6101,7 @@
       }
     ],
     "instructions": null,
-    "name": "Nupaky - Shell - D1 - 1",
+    "name": "R276 - Nupaky - Shell - D1 - 1",
     "visible": true
   },
   {
@@ -6161,7 +6161,7 @@
       }
     ],
     "instructions": null,
-    "name": "Benešov - Zámek Konopiště",
+    "name": "N117 - Benešov - Zámek Konopiště",
     "visible": true
   },
   {
@@ -6221,7 +6221,7 @@
       }
     ],
     "instructions": null,
-    "name": "Jeseník - Lipová-lázně 2",
+    "name": "N119 - Jeseník - Lipová-lázně 2",
     "visible": true
   },
   {
@@ -6281,7 +6281,7 @@
       }
     ],
     "instructions": null,
-    "name": "Jeseník - Lipová-lázně 1",
+    "name": "N118 - Jeseník - Lipová-lázně 1",
     "visible": true
   },
   {
@@ -6350,7 +6350,7 @@
       }
     ],
     "instructions": null,
-    "name": "Přerov",
+    "name": "R265 - Přerov",
     "visible": true
   },
   {
@@ -6419,7 +6419,7 @@
       }
     ],
     "instructions": null,
-    "name": "Zlín - Samohýl Mercedes Benz - 3",
+    "name": "R268 - Zlín - Samohýl Mercedes Benz - 3",
     "visible": true
   },
   {
@@ -6488,7 +6488,7 @@
       }
     ],
     "instructions": null,
-    "name": "Zlín - Samohýl Mercedes Benz - 2",
+    "name": "R267 - Zlín - Samohýl Mercedes Benz - 2",
     "visible": true
   },
   {
@@ -6557,7 +6557,7 @@
       }
     ],
     "instructions": null,
-    "name": "Zlín - Samohýl Mercedes Benz - 1",
+    "name": "R266 - Zlín - Samohýl Mercedes Benz - 1",
     "visible": true
   },
   {
@@ -6626,7 +6626,7 @@
       }
     ],
     "instructions": null,
-    "name": "Olomouc - Samohýl Motor - 3",
+    "name": "R252 - Olomouc - Samohýl Motor - 3",
     "visible": true
   },
   {
@@ -6695,7 +6695,7 @@
       }
     ],
     "instructions": null,
-    "name": "Olomouc - Samohýl Motor - 2",
+    "name": "R251 - Olomouc - Samohýl Motor - 2",
     "visible": true
   },
   {
@@ -6764,7 +6764,7 @@
       }
     ],
     "instructions": null,
-    "name": "Olomouc - Samohýl Motor - 1",
+    "name": "R250 - Olomouc - Samohýl Motor - 1",
     "visible": true
   },
   {
@@ -6833,7 +6833,7 @@
       }
     ],
     "instructions": null,
-    "name": "Ostrava-Zábřeh - Kaufland - 3",
+    "name": "R275 - Ostrava-Zábřeh - Kaufland - 3",
     "visible": true
   },
   {
@@ -6902,7 +6902,7 @@
       }
     ],
     "instructions": null,
-    "name": "Ostrava-Zábřeh - Kaufland - 2",
+    "name": "R274 - Ostrava-Zábřeh - Kaufland - 2",
     "visible": true
   },
   {
@@ -6971,7 +6971,7 @@
       }
     ],
     "instructions": null,
-    "name": "Ostrava-Zábřeh - Kaufland - 1",
+    "name": "R273 - Ostrava-Zábřeh - Kaufland - 1",
     "visible": true
   },
   {
@@ -7040,7 +7040,7 @@
       }
     ],
     "instructions": null,
-    "name": "Ostrava - Krajský úřad Moravskoslezského kraje 2",
+    "name": "R270 - Ostrava - Krajský úřad Moravskoslezského kraje 2",
     "visible": true
   },
   {
@@ -7109,7 +7109,7 @@
       }
     ],
     "instructions": null,
-    "name": "Ostrava - Krajský úřad Moravskoslezského kraje 1",
+    "name": "R269 - Ostrava - Krajský úřad Moravskoslezského kraje 1",
     "visible": true
   },
   {
@@ -7178,7 +7178,7 @@
       }
     ],
     "instructions": null,
-    "name": "Vrbová Lhota - McDonald´s - 2",
+    "name": "R264 - Vrbová Lhota - McDonald´s - 2",
     "visible": true
   },
   {
@@ -7247,7 +7247,7 @@
       }
     ],
     "instructions": null,
-    "name": "Vrbová Lhota - McDonald´s - 1",
+    "name": "R263 - Vrbová Lhota - McDonald´s - 1",
     "visible": true
   },
   {
@@ -7316,7 +7316,7 @@
       }
     ],
     "instructions": null,
-    "name": "Bruntál - Kaufland",
+    "name": "R258 - Bruntál - Kaufland",
     "visible": true
   },
   {
@@ -7385,7 +7385,7 @@
       }
     ],
     "instructions": null,
-    "name": "České Budějovice - Retail Park Okružní - 2",
+    "name": "R261 - České Budějovice - Retail Park Okružní - 2",
     "visible": true
   },
   {
@@ -7454,7 +7454,7 @@
       }
     ],
     "instructions": null,
-    "name": "České Budějovice - Retail Park Okružní - 1",
+    "name": "R260 - České Budějovice - Retail Park Okružní - 1",
     "visible": true
   },
   {
@@ -7523,7 +7523,7 @@
       }
     ],
     "instructions": null,
-    "name": "Jeseník - Kaufland",
+    "name": "R259 - Jeseník - Kaufland",
     "visible": true
   },
   {
@@ -7592,7 +7592,7 @@
       }
     ],
     "instructions": null,
-    "name": "Rychnov nad Kněžnou - Kaufland - 2",
+    "name": "R255 - Rychnov nad Kněžnou - Kaufland - 2",
     "visible": true
   },
   {
@@ -7661,7 +7661,7 @@
       }
     ],
     "instructions": null,
-    "name": "Rychnov nad Kněžnou - Kaufland - 1",
+    "name": "R254 - Rychnov nad Kněžnou - Kaufland - 1",
     "visible": true
   },
   {
@@ -7730,7 +7730,7 @@
       }
     ],
     "instructions": null,
-    "name": "Brandýs nad Labem - Kaufland",
+    "name": "R241 - Brandýs nad Labem - Kaufland",
     "visible": true
   },
   {
@@ -7799,7 +7799,7 @@
       }
     ],
     "instructions": null,
-    "name": "Bohumín - Kaufland",
+    "name": "R253 - Bohumín - Kaufland",
     "visible": true
   },
   {
@@ -7868,7 +7868,7 @@
       }
     ],
     "instructions": null,
-    "name": "Prachatice - Kaufland",
+    "name": "R257 - Prachatice - Kaufland",
     "visible": true
   },
   {
@@ -7937,7 +7937,7 @@
       }
     ],
     "instructions": null,
-    "name": "Třeboň - Kaufland",
+    "name": "R243 - Třeboň - Kaufland",
     "visible": true
   },
   {
@@ -8006,7 +8006,7 @@
       }
     ],
     "instructions": null,
-    "name": "Hradec Králové - Shell - 2",
+    "name": "R246 - Hradec Králové - Shell - 2",
     "visible": true
   },
   {
@@ -8075,7 +8075,7 @@
       }
     ],
     "instructions": null,
-    "name": "Hradec Králové - Shell - 1",
+    "name": "R245 - Hradec Králové - Shell - 1",
     "visible": true
   },
   {
@@ -8144,7 +8144,7 @@
       }
     ],
     "instructions": null,
-    "name": "Hradec Králové – Hučák",
+    "name": "R256 - Hradec Králové – Hučák",
     "visible": true
   },
   {
@@ -8213,7 +8213,7 @@
       }
     ],
     "instructions": null,
-    "name": "Železný Brod",
+    "name": "R242 - Železný Brod",
     "visible": true
   },
   {
@@ -8282,7 +8282,7 @@
       }
     ],
     "instructions": null,
-    "name": "Brno - NC Královo Pole - 4",
+    "name": "R239 - Brno - NC Královo Pole - 4",
     "visible": true
   },
   {
@@ -8351,7 +8351,7 @@
       }
     ],
     "instructions": null,
-    "name": "Brno - NC Královo Pole - 3",
+    "name": "R238 - Brno - NC Královo Pole - 3",
     "visible": true
   },
   {
@@ -8420,7 +8420,7 @@
       }
     ],
     "instructions": null,
-    "name": "Brno - NC Královo Pole - 2",
+    "name": "R237 - Brno - NC Královo Pole - 2",
     "visible": true
   },
   {
@@ -8489,7 +8489,7 @@
       }
     ],
     "instructions": null,
-    "name": "Brno - NC Královo Pole - 1",
+    "name": "R236 - Brno - NC Královo Pole - 1",
     "visible": true
   },
   {
@@ -8558,7 +8558,7 @@
       }
     ],
     "instructions": null,
-    "name": "Praha - Horní Měcholupy - Kaufland",
+    "name": "R249 - Praha - Horní Měcholupy - Kaufland",
     "visible": true
   },
   {
@@ -8627,7 +8627,7 @@
       }
     ],
     "instructions": null,
-    "name": "Siřejovice - D8 - McDonald´s- 2",
+    "name": "R248 - Siřejovice - D8 - McDonald´s- 2",
     "visible": true
   },
   {
@@ -8696,7 +8696,7 @@
       }
     ],
     "instructions": null,
-    "name": "Siřejovice - D8 - McDonald´s- 1",
+    "name": "R247 - Siřejovice - D8 - McDonald´s- 1",
     "visible": true
   },
   {
@@ -8765,7 +8765,7 @@
       }
     ],
     "instructions": null,
-    "name": "Rakovník - Kaufland",
+    "name": "R240 - Rakovník - Kaufland",
     "visible": true
   },
   {
@@ -8834,7 +8834,7 @@
       }
     ],
     "instructions": null,
-    "name": "Beroun - Kaufland - 2",
+    "name": "R228 - Beroun - Kaufland - 2",
     "visible": true
   },
   {
@@ -8903,7 +8903,7 @@
       }
     ],
     "instructions": null,
-    "name": "Beroun - Kaufland - 1",
+    "name": "R227 - Beroun - Kaufland - 1",
     "visible": true
   },
   {
@@ -8972,7 +8972,7 @@
       }
     ],
     "instructions": null,
-    "name": "Praha - Palmovka - Kaufland",
+    "name": "R235 - Praha - Palmovka - Kaufland",
     "visible": true
   },
   {
