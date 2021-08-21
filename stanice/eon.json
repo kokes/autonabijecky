@@ -2759,7 +2759,7 @@
       {
         "category": "OTHER",
         "type": "jpg",
-        "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/14299/197301628616865.jpg"
+        "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/14299/5325121629447935.jpg"
       }
     ],
     "last_updated": "RESET",
@@ -12285,7 +12285,7 @@
           "longitude": "13.921643"
         },
         "evse_id": "CZ*EON*E31035475*1",
-        "last_seen_as_planned": "2021-02-08T16:00:04.513Z",
+        "last_seen_as_planned": "2021-08-20T18:41:49.74Z",
         "last_updated": "RESET",
         "status": "RESET",
         "uid": "35475"
@@ -12320,11 +12320,14 @@
           "longitude": "13.921643"
         },
         "evse_id": "CZ*EON*E31035475*2",
-        "last_seen_as_planned": "2021-02-08T16:00:04.513Z",
+        "last_seen_as_planned": "2021-08-20T18:41:49.74Z",
         "last_updated": "RESET",
         "status": "RESET",
         "uid": "35476"
       }
+    ],
+    "facilities": [
+      "FUEL_STATION"
     ],
     "id": "35475",
     "last_updated": "RESET",
