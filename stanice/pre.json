@@ -14512,6 +14512,41 @@
       "region": "Hlavní město Praha",
       "street": "Smrčkova 2512/29"
     },
+    "CZ*PRE*E1S1234*1": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Wien",
+      "country": "AUT",
+      "cpoId": "CZ*PRE",
+      "csId": "AT0902038",
+      "csName": "Ladestation Office [TEST3]",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Office [TEST3]",
+      "enExtra": "SMATRICS Test charging station",
+      "evseId": "CZ*PRE*E1S1234*1",
+      "extra": "SMATRICS Testladestation",
+      "geoCoord": {
+        "latitude": "50.069165",
+        "longitude": "14.481265"
+      },
+      "hotline": "+4972172586594",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "Test",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "1150",
+      "region": "Wien",
+      "street": "Europaplatz 2/4/3"
+    },
     "CZ*PRE*E1S7001*1": {
       "additionalInfo": "Bei der Transformatorstation 108",
       "chargingFacilities": {

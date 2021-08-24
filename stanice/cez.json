@@ -1,6 +1,66 @@
 [
   {
     "address": {
+      "city": "Železná Ruda",
+      "country": "CZE",
+      "email": null,
+      "floor": null,
+      "houseNumber": "23",
+      "latitude": 49.1371633,
+      "longitude": 13.2333022,
+      "phoneNumber": null,
+      "postalCode": null,
+      "street": "Javorská",
+      "url": ""
+    },
+    "customID": "149251",
+    "description": [
+      {
+        "language": "cs",
+        "text": ""
+      }
+    ],
+    "evses": [
+      {
+        "connectors": [
+          {
+            "amperage": 32,
+            "chargePointIdentity": "",
+            "connectorID": 1,
+            "format": "CABLE",
+            "powerOutput": 22,
+            "standard": "MENNEKES_TYPE_2",
+            "voltage": 400
+          }
+        ],
+        "physicalReference": "N125"
+      },
+      {
+        "connectors": [
+          {
+            "amperage": 32,
+            "chargePointIdentity": "",
+            "connectorID": 2,
+            "format": "CABLE",
+            "powerOutput": 22,
+            "standard": "MENNEKES_TYPE_2",
+            "voltage": 400
+          }
+        ],
+        "physicalReference": "N125"
+      }
+    ],
+    "images": [
+      {
+        "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/08/dsnd-zelezna-ruda.jpg"
+      }
+    ],
+    "instructions": null,
+    "name": "N125 - Železná Ruda - Rezidence Javor",
+    "visible": true
+  },
+  {
+    "address": {
       "city": "Dobřany - Šlovice 321 00",
       "country": "CZE",
       "email": null,

@@ -9377,7 +9377,7 @@
           "longitude": "14.546742"
         },
         "evse_id": "CZ*EON*E11009158*1",
-        "last_seen_as_planned": null,
+        "last_seen_as_planned": "2021-08-23T05:21:34.657Z",
         "last_updated": "RESET",
         "status": "RESET",
         "uid": "9158"
@@ -9428,7 +9428,7 @@
           "longitude": "14.546742"
         },
         "evse_id": "CZ*EON*E11009158*2",
-        "last_seen_as_planned": null,
+        "last_seen_as_planned": "2021-08-23T05:21:34.657Z",
         "last_updated": "RESET",
         "status": "RESET",
         "uid": "9159"
@@ -16817,6 +16817,181 @@
     "parking_type": "PARKING_LOT",
     "party_id": "EON",
     "postal_code": "37001",
+    "publish": true,
+    "state": "Česká republika",
+    "suboperator": {
+      "name": "E.ON Energie, a.s."
+    },
+    "time_zone": "Europe/Prague"
+  },
+  {
+    "address": "Rožmberk nad Vltavuou",
+    "city": "Přízeř 15",
+    "coordinates": {
+      "latitude": "48.66078",
+      "longitude": "14.360545"
+    },
+    "country": "CZE",
+    "country_code": "CZ",
+    "energy_mix": {
+      "is_green_energy": false
+    },
+    "evses": [
+      {
+        "capabilities": [
+          "CONTACTLESS_CARD_SUPPORT",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER",
+          "UNLOCK_CAPABLE"
+        ],
+        "connectors": [
+          {
+            "format": "CABLE",
+            "id": "1",
+            "last_updated": "2021-08-23T07:07:22.35Z",
+            "max_amperage": 16,
+            "max_electric_power": 11000,
+            "max_voltage": 400,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "tariff_ids": [
+              "101",
+              "102"
+            ]
+          }
+        ],
+        "coordinates": {
+          "latitude": "48.66078",
+          "longitude": "14.360545"
+        },
+        "evse_id": "CZ*EON*E22049024*1",
+        "last_seen_as_planned": "2021-08-23T07:00:09.933Z",
+        "last_updated": "RESET",
+        "status": "RESET",
+        "uid": "49024"
+      }
+    ],
+    "facilities": [
+      "HOTEL",
+      "RESTAURANT",
+      "SPORT",
+      "RECREATION_AREA",
+      "NATURE"
+    ],
+    "id": "49024",
+    "last_updated": "RESET",
+    "name": "(P) Hotel Studenec",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "E.ON Energie, a.s."
+    },
+    "owner": {
+      "name": "DJ reality s.r.o."
+    },
+    "parking_type": "PARKING_LOT",
+    "party_id": "EON",
+    "postal_code": "38218",
+    "publish": true,
+    "state": "Česká republika",
+    "suboperator": {
+      "name": "E.ON Energie, a.s."
+    },
+    "time_zone": "Europe/Prague"
+  },
+  {
+    "address": "Dlouhý Bor 12",
+    "city": "Nová Pec",
+    "coordinates": {
+      "latitude": "48.7905",
+      "longitude": "13.946583"
+    },
+    "country": "CZE",
+    "country_code": "CZ",
+    "energy_mix": {
+      "is_green_energy": false
+    },
+    "evses": [
+      {
+        "capabilities": [
+          "CONTACTLESS_CARD_SUPPORT",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER",
+          "UNLOCK_CAPABLE"
+        ],
+        "connectors": [],
+        "coordinates": {
+          "latitude": "48.7905",
+          "longitude": "13.946583"
+        },
+        "evse_id": "CZ*EON*E22066424*1",
+        "last_seen_as_planned": "2021-08-23T07:48:45.45Z",
+        "last_updated": "RESET",
+        "status": "RESET",
+        "uid": "66424"
+      }
+    ],
+    "facilities": [
+      "HOTEL",
+      "RESTAURANT",
+      "SPORT",
+      "RECREATION_AREA",
+      "NATURE",
+      "TRAIN_STATION"
+    ],
+    "id": "66424",
+    "last_updated": "RESET",
+    "name": "(P) Statek u Medvěda",
+    "opening_times": {
+      "regular_hours": [
+        {
+          "period_begin": "08:00",
+          "period_end": "18:00",
+          "weekday": 7
+        },
+        {
+          "period_begin": "08:00",
+          "period_end": "18:00",
+          "weekday": 6
+        },
+        {
+          "period_begin": "08:00",
+          "period_end": "18:00",
+          "weekday": 5
+        },
+        {
+          "period_begin": "08:00",
+          "period_end": "18:00",
+          "weekday": 4
+        },
+        {
+          "period_begin": "08:00",
+          "period_end": "18:00",
+          "weekday": 3
+        },
+        {
+          "period_begin": "08:00",
+          "period_end": "18:00",
+          "weekday": 2
+        },
+        {
+          "period_begin": "08:00",
+          "period_end": "18:00",
+          "weekday": 1
+        }
+      ],
+      "twentyfourseven": false
+    },
+    "operator": {
+      "name": "E.ON Energie, a.s."
+    },
+    "owner": {
+      "name": "Jaromír Bůbal"
+    },
+    "parking_type": "PARKING_LOT",
+    "party_id": "EON",
+    "postal_code": "384 62",
     "publish": true,
     "state": "Česká republika",
     "suboperator": {
