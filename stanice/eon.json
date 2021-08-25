@@ -9696,19 +9696,19 @@
     }
   },
   "35469": {
-    "name": "E.ON Kvilda",
-    "sha1": "db1c9bc987f7ce00058d1b0f1999d9e478001448",
+    "name": "E.ON Landal Marina Lipno",
+    "sha1": "cc3ba5b169b4cfa03b9a15c9104710c8ae0acf07",
     "station": {
-      "address": "Kvilda 195",
-      "city": "Kvilda",
+      "address": "Lipno nad Vltavou 310",
+      "city": "Lipno nad Vltavou",
       "coordinates": {
-        "latitude": "49.01770854",
-        "longitude": "13.58040449"
+        "latitude": "48.6419305",
+        "longitude": "14.21849516"
       },
       "country": "CZE",
       "country_code": "CZ",
       "energy_mix": {
-        "is_green_energy": true
+        "is_green_energy": false
       },
       "evses": [
         {
@@ -9737,8 +9737,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "49.01770854",
-            "longitude": "13.58040449"
+            "latitude": "48.6419305",
+            "longitude": "14.21849516"
           },
           "evse_id": "CZ*EON*E31035469*1",
           "last_seen_as_planned": "2021-05-31T12:25:05.297Z",
@@ -9772,8 +9772,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "49.01770854",
-            "longitude": "13.58040449"
+            "latitude": "48.6419305",
+            "longitude": "14.21849516"
           },
           "evse_id": "CZ*EON*E31035469*2",
           "last_seen_as_planned": "2021-05-31T12:25:05.297Z",
@@ -9787,11 +9787,14 @@
         "CAFE",
         "SPORT",
         "RECREATION_AREA",
-        "NATURE"
+        "NATURE",
+        "HOTEL",
+        "BIKE_SHARING",
+        "PARKING_LOT"
       ],
       "id": "35469",
       "last_updated": "RESET",
-      "name": "E.ON Kvilda",
+      "name": "E.ON Landal Marina Lipno",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -9803,7 +9806,7 @@
       },
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
-      "postal_code": "384 93",
+      "postal_code": "38278",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
@@ -10163,6 +10166,121 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "386 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "35477": {
+    "name": "(P) Marina Lipno",
+    "sha1": "d482dd1ac73be365b133fcfbecfcb81092f1be96",
+    "station": {
+      "address": "Lipno nad Vltavou 310",
+      "city": "Lipno nad Vltavou",
+      "coordinates": {
+        "latitude": "48.64190657",
+        "longitude": "14.21850455"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-08-24T13:50:02.49Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "105",
+                "106"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.64190657",
+            "longitude": "14.21850455"
+          },
+          "evse_id": "CZ*EON*E35477",
+          "last_seen_as_planned": "2021-08-24T13:51:47.56Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35477"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-08-24T13:50:02.49Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "105",
+                "106"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.64190657",
+            "longitude": "14.21850455"
+          },
+          "evse_id": "CZ*EON*E35478",
+          "last_seen_as_planned": "2021-08-24T13:51:47.56Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35478"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "SPORT",
+        "RECREATION_AREA",
+        "NATURE",
+        "BIKE_SHARING"
+      ],
+      "id": "35477",
+      "last_updated": "RESET",
+      "name": "(P) Marina Lipno",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "Marina Lipno, družstvo"
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "38278",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
@@ -12497,7 +12615,7 @@
   },
   "49024": {
     "name": "(P) Hotel Studenec",
-    "sha1": "9ef7e91b2a7cdcc1be558e1a0767e6d16210e2aa",
+    "sha1": "a50f9175e58fa6fb6d8f25444f52b3d25a8ba534",
     "station": {
       "address": "Rožmberk nad Vltavuou",
       "city": "Přízeř 15",
@@ -12553,6 +12671,13 @@
         "NATURE"
       ],
       "id": "49024",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/75020/5508101629783784.jpg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "(P) Hotel Studenec",
       "opening_times": {
