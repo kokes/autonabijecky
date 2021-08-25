@@ -73,6 +73,7 @@ if __name__ == "__main__":
     funcs = [pre, cez, eon]
     changelog = []
     stats = [0, 0, 0]
+    total = 0
 
     for func in funcs:
         tfn = os.path.join(tdir, func.__name__ + ".json")
@@ -81,6 +82,7 @@ if __name__ == "__main__":
             with open(tfn, "rt", encoding="utf-8") as f:
                 existing = json.load(f)
         new_data = func()
+        total += len(new_data)
 
         old_ids = set(existing.keys())
         new_ids = set(new_data.keys())
@@ -106,5 +108,7 @@ if __name__ == "__main__":
             json.dump(new_data, fw, indent=2, ensure_ascii=False, sort_keys=True)
 
     if len(changelog) > 0:
-        print(f"Nové: {stats[0]}, zrušené: {stats[1]}, změněné: {stats[2]}")
+        print(
+            f"Nové: {stats[0]}, zrušené: {stats[1]}, změněné: {stats[2]}. Celkem: {total}"
+        )
         print("\n".join(sorted(changelog)))
