@@ -10176,7 +10176,7 @@
   },
   "35477": {
     "name": "(P) Marina Lipno",
-    "sha1": "d482dd1ac73be365b133fcfbecfcb81092f1be96",
+    "sha1": "d1d17c9841311368a2d8618ebed69b4958224427",
     "station": {
       "address": "Lipno nad Vltavou 310",
       "city": "Lipno nad Vltavou",
@@ -10217,7 +10217,7 @@
             "latitude": "48.64190657",
             "longitude": "14.21850455"
           },
-          "evse_id": "CZ*EON*E35477",
+          "evse_id": "CZ*EON*E31035477*1",
           "last_seen_as_planned": "2021-08-24T13:51:47.56Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -10250,7 +10250,7 @@
             "latitude": "48.64190657",
             "longitude": "14.21850455"
           },
-          "evse_id": "CZ*EON*E35478",
+          "evse_id": "CZ*EON*E31035477*2",
           "last_seen_as_planned": "2021-08-24T13:51:47.56Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -10267,6 +10267,13 @@
         "BIKE_SHARING"
       ],
       "id": "35477",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/76966/2306411629868642.jpg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "(P) Marina Lipno",
       "opening_times": {
