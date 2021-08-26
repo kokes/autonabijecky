@@ -25,6 +25,7 @@ def pre():
             "station": el,
         }
         for el in raw["results"].values()
+        if el["country"] == "CZE"
     }
 
 
