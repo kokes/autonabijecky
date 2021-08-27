@@ -8896,7 +8896,7 @@
   },
   "33222": {
     "name": "E.ON ČS Benzina Mikulov",
-    "sha1": "376619dac5547f12e0c876c31b37e011e71049b4",
+    "sha1": "e6527174d3d989e964cb1409c0b66f12713b8a31",
     "station": {
       "address": "Brněnská 1532",
       "city": "Mikulov",
@@ -8940,7 +8940,7 @@
             "longitude": "16.629599"
           },
           "evse_id": "CZ*EON*E11033222*1",
-          "last_seen_as_planned": "2020-12-18T10:49:26.72Z",
+          "last_seen_as_planned": "2021-08-26T09:34:01.2Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "33222"
@@ -8991,7 +8991,7 @@
             "longitude": "16.629599"
           },
           "evse_id": "CZ*EON*E11033222*2",
-          "last_seen_as_planned": "2020-12-18T11:35:46.283Z",
+          "last_seen_as_planned": "2021-08-26T09:34:01.2Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "33223"
