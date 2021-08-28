@@ -12707,6 +12707,477 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "51498": {
+    "name": "E.ON Dolní Dvořiště",
+    "sha1": "78fa5ca187546b678aa921b687d51701482db34e",
+    "station": {
+      "address": "Dolní Dvořiště 225",
+      "city": "Dolní Dvořiště",
+      "coordinates": {
+        "latitude": "48.64843814",
+        "longitude": "14.45338264"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.64843814",
+            "longitude": "14.45338264"
+          },
+          "evse_id": "CZ*EON*E32051498*1",
+          "last_seen_as_planned": "2021-08-27T13:06:20.01Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51498"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.64843814",
+            "longitude": "14.45338264"
+          },
+          "evse_id": "CZ*EON*E32051498*2",
+          "last_seen_as_planned": "2021-08-27T13:06:20.01Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51499"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.64843814",
+            "longitude": "14.45338264"
+          },
+          "evse_id": "CZ*EON*E32051498*3",
+          "last_seen_as_planned": "2021-08-27T13:06:20.01Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51500"
+        }
+      ],
+      "id": "51498",
+      "last_updated": "RESET",
+      "name": "E.ON Dolní Dvořiště",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51501": {
+    "name": "E.ON Terno Český Krumlov",
+    "sha1": "de9388ffe8187947ace14b9933f63d45e334af03",
+    "station": {
+      "address": "Tovární 164",
+      "city": "Český Krumlov",
+      "coordinates": {
+        "latitude": "48.82634602",
+        "longitude": "14.3340531"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.82634602",
+            "longitude": "14.3340531"
+          },
+          "evse_id": "CZ*EON*E32051501*1",
+          "last_seen_as_planned": "2021-08-27T13:20:59.667Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51501"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.82634602",
+            "longitude": "14.3340531"
+          },
+          "evse_id": "CZ*EON*E32051501*2",
+          "last_seen_as_planned": "2021-08-27T13:20:59.667Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51502"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.82634602",
+            "longitude": "14.3340531"
+          },
+          "evse_id": "CZ*EON*E32051501*3",
+          "last_seen_as_planned": "2021-08-27T13:20:59.667Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51503"
+        }
+      ],
+      "id": "51501",
+      "last_updated": "RESET",
+      "name": "E.ON Terno Český Krumlov",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "party_id": "EON",
+      "postal_code": "38101",
+      "publish": true,
+      "state": "Česká republika",
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51504": {
+    "name": "E.ON HochŠpalíček České Budějovice",
+    "sha1": "62b7fabc02f765324831d59b815cb2ccaee486c9",
+    "station": {
+      "address": "Vltavské nábř. 688/3",
+      "city": "České Budějovice",
+      "coordinates": {
+        "latitude": "48.97708753",
+        "longitude": "14.46528768"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.97708753",
+            "longitude": "14.46528768"
+          },
+          "evse_id": "CZ*EON*E32051504*1",
+          "last_seen_as_planned": "2021-08-27T13:58:47.757Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51504"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.97708753",
+            "longitude": "14.46528768"
+          },
+          "evse_id": "CZ*EON*E32051504*2",
+          "last_seen_as_planned": "2021-08-27T13:58:47.757Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51505"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.97708753",
+            "longitude": "14.46528768"
+          },
+          "evse_id": "CZ*EON*E32051504*3",
+          "last_seen_as_planned": "2021-08-27T13:58:47.757Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51506"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "SPORT"
+      ],
+      "id": "51504",
+      "last_updated": "RESET",
+      "name": "E.ON HochŠpalíček České Budějovice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "37005",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51507": {
+    "name": "E.ON KIA České Budějovice",
+    "sha1": "5d7d7bd3a1a0a5627a7968295d94ee2b6bbb9edc",
+    "station": {
+      "address": "Okružní 2824",
+      "city": "České Budějovice",
+      "coordinates": {
+        "latitude": "48.99968863",
+        "longitude": "14.49222646"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.99968863",
+            "longitude": "14.49222646"
+          },
+          "evse_id": "CZ*EON*E32051507*1",
+          "last_seen_as_planned": "2021-08-27T14:05:28.5Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51507"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.99968863",
+            "longitude": "14.49222646"
+          },
+          "evse_id": "CZ*EON*E32051507*2",
+          "last_seen_as_planned": "2021-08-27T14:05:28.5Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51508"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.99968863",
+            "longitude": "14.49222646"
+          },
+          "evse_id": "CZ*EON*E32051507*3",
+          "last_seen_as_planned": "2021-08-27T14:05:28.5Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51509"
+        }
+      ],
+      "id": "51507",
+      "last_updated": "RESET",
+      "name": "E.ON KIA České Budějovice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "37001",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51510": {
+    "name": "E.ON Penny České Budějovice",
+    "sha1": "6b6aefedb23ce23ebc943edb5a6f31e130886177",
+    "station": {
+      "address": "Novohradská 1810",
+      "city": "České Budějovice",
+      "coordinates": {
+        "latitude": "48.95524816",
+        "longitude": "14.49704612"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.95524816",
+            "longitude": "14.49704612"
+          },
+          "evse_id": "CZ*EON*E32051510*1",
+          "last_seen_as_planned": "2021-08-27T14:14:07.84Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51510"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.95524816",
+            "longitude": "14.49704612"
+          },
+          "evse_id": "CZ*EON*E32051510*2",
+          "last_seen_as_planned": "2021-08-27T14:14:07.84Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51511"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.95524816",
+            "longitude": "14.49704612"
+          },
+          "evse_id": "CZ*EON*E32051510*3",
+          "last_seen_as_planned": "2021-08-27T14:14:07.84Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51512"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "SUPERMARKET",
+        "NATURE"
+      ],
+      "id": "51510",
+      "last_updated": "RESET",
+      "name": "E.ON Penny České Budějovice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "37008",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "53154": {
     "name": "(P) Město Brandýs nad Labem-Stará Boleslav",
     "sha1": "d0cec085524a782cc5a85620164269c17cce744c",
