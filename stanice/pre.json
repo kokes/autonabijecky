@@ -6840,7 +6840,7 @@
   },
   "CZ5302904": {
     "name": "Schnellladestation EuroOil Pardubice",
-    "sha1": "78feb7acf5603c01851566361483965bbd01bf85",
+    "sha1": "3efeeeeae192fcdec9aa60720196e4c1d7c8f7db",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -6852,7 +6852,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ5302904",
       "csName": "Schnellladestation EuroOil Pardubice",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
       "enCsname": "Fast charger EuroOil Pardubice",
       "enExtra": "By the EuroOil gas station",
@@ -6864,6 +6864,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_pardubice.jpeg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
