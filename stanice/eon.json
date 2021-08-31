@@ -13178,6 +13178,105 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "51513": {
+    "name": "E.ON VETO Písek",
+    "sha1": "81c9f9a2cbd2e3e5db06c437efae2682cef97e16",
+    "station": {
+      "address": "Hradišťská 2532/39",
+      "city": "Písek",
+      "coordinates": {
+        "latitude": "49.3039355",
+        "longitude": "14.13948901"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.3039355",
+            "longitude": "14.13948901"
+          },
+          "evse_id": "CZ*EON*E32051513*1",
+          "last_seen_as_planned": "2021-08-30T17:56:43.74Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51513"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.3039355",
+            "longitude": "14.13948901"
+          },
+          "evse_id": "CZ*EON*E32051513*2",
+          "last_seen_as_planned": "2021-08-30T17:56:43.74Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51514"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.3039355",
+            "longitude": "14.13948901"
+          },
+          "evse_id": "CZ*EON*E32051513*3",
+          "last_seen_as_planned": "2021-08-30T17:56:43.74Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51515"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "MALL"
+      ],
+      "id": "51513",
+      "last_updated": "RESET",
+      "name": "E.ON VETO Písek",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "39701",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "53154": {
     "name": "(P) Město Brandýs nad Labem-Stará Boleslav",
     "sha1": "d0cec085524a782cc5a85620164269c17cce744c",
