@@ -5118,7 +5118,7 @@
   },
   "25200": {
     "name": "E.ON Globus Liberec",
-    "sha1": "467dbad311f1d5683649c8347f550e9553875767",
+    "sha1": "425a9a1d6884dad922d2c70ce839703101c2a73d",
     "station": {
       "address": "Sousedská 600",
       "city": "Liberec",
@@ -5226,13 +5226,6 @@
         "MALL"
       ],
       "id": "25200",
-      "images": [
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/14299/5325121629447935.jpg"
-        }
-      ],
       "last_updated": "RESET",
       "name": "E.ON Globus Liberec",
       "opening_times": {
@@ -13269,6 +13262,1352 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "39701",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51519": {
+    "name": "E.ON Havlíčkův Brod",
+    "sha1": "6aa9ce9feb99424b30af7c069a218401c409f00a",
+    "station": {
+      "address": "Strojírenská 3681",
+      "city": "Havlíčkův Brod",
+      "coordinates": {
+        "latitude": "49.6061709",
+        "longitude": "15.60053455"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.6061709",
+            "longitude": "15.60053455"
+          },
+          "evse_id": "CZ*EON*E32051519*1",
+          "last_seen_as_planned": "2021-08-31T05:06:03.76Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51519"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.6061709",
+            "longitude": "15.60053455"
+          },
+          "evse_id": "CZ*EON*E32051519*2",
+          "last_seen_as_planned": "2021-08-31T05:06:03.76Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51520"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.6061709",
+            "longitude": "15.60053455"
+          },
+          "evse_id": "CZ*EON*E32051519*3",
+          "last_seen_as_planned": "2021-08-31T05:06:03.76Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51521"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.6061709",
+            "longitude": "15.60053455"
+          },
+          "evse_id": "CZ*EON*E32051522*1",
+          "last_seen_as_planned": "2021-08-31T05:06:03.76Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51522"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.6061709",
+            "longitude": "15.60053455"
+          },
+          "evse_id": "CZ*EON*E32051522*2",
+          "last_seen_as_planned": "2021-08-31T05:06:03.76Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51523"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.6061709",
+            "longitude": "15.60053455"
+          },
+          "evse_id": "CZ*EON*E32051522*3",
+          "last_seen_as_planned": "2021-08-31T05:06:03.76Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51524"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET",
+        "FUEL_STATION"
+      ],
+      "id": "51519",
+      "last_updated": "RESET",
+      "name": "E.ON Havlíčkův Brod",
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "580 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51525": {
+    "name": "E.ON Penny Znojmo",
+    "sha1": "37dbeab489d2b3f1fd273657150d02cb3702cd2e",
+    "station": {
+      "address": "Přímětická 2625/76",
+      "city": "Znojmo",
+      "coordinates": {
+        "latitude": "48.87124609",
+        "longitude": "16.04012374"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.87124609",
+            "longitude": "16.04012374"
+          },
+          "evse_id": "CZ*EON*E32051525*1",
+          "last_seen_as_planned": "2021-08-31T05:26:21.603Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51525"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.87124609",
+            "longitude": "16.04012374"
+          },
+          "evse_id": "CZ*EON*E32051525*2",
+          "last_seen_as_planned": "2021-08-31T05:26:21.603Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51526"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.87124609",
+            "longitude": "16.04012374"
+          },
+          "evse_id": "CZ*EON*E32051525*3",
+          "last_seen_as_planned": "2021-08-31T05:26:21.603Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51527"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET",
+        "SPORT",
+        "NATURE"
+      ],
+      "id": "51525",
+      "last_updated": "RESET",
+      "name": "E.ON Penny Znojmo",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "66902",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51528": {
+    "name": "E.ON ČS Benzina Horní Folmava",
+    "sha1": "55d87ccca3df9099d708d10a5d3775850a79cd8c",
+    "station": {
+      "address": "Horní Folmava 16",
+      "city": "Česká Kubice",
+      "coordinates": {
+        "latitude": "49.34915456",
+        "longitude": "12.85477955"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.34915456",
+            "longitude": "12.85477955"
+          },
+          "evse_id": "CZ*EON*E32051528*1",
+          "last_seen_as_planned": "2021-08-31T11:38:25.35Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51528"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.34915456",
+            "longitude": "12.85477955"
+          },
+          "evse_id": "CZ*EON*E32051528*2",
+          "last_seen_as_planned": "2021-08-31T11:38:25.35Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51529"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.34915456",
+            "longitude": "12.85477955"
+          },
+          "evse_id": "CZ*EON*E32051528*3",
+          "last_seen_as_planned": "2021-08-31T11:38:25.35Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51530"
+        }
+      ],
+      "facilities": [
+        "FUEL_STATION"
+      ],
+      "id": "51528",
+      "last_updated": "RESET",
+      "name": "E.ON ČS Benzina Horní Folmava",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "345 32",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51531": {
+    "name": "E.ON ČS Benzina Klatovy",
+    "sha1": "2f206c151d8b9fcc3d2ca81fdcc64ad5ae2a8af4",
+    "station": {
+      "address": "Plzeňská 918",
+      "city": "Klatovy",
+      "coordinates": {
+        "latitude": "49.40807685",
+        "longitude": "13.29376791"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.40807685",
+            "longitude": "13.29376791"
+          },
+          "evse_id": "CZ*EON*E32051531*1",
+          "last_seen_as_planned": "2021-08-31T12:05:09.77Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51531"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.40807685",
+            "longitude": "13.29376791"
+          },
+          "evse_id": "CZ*EON*E32051531*2",
+          "last_seen_as_planned": "2021-08-31T12:05:09.77Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51532"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.40807685",
+            "longitude": "13.29376791"
+          },
+          "evse_id": "CZ*EON*E32051531*3",
+          "last_seen_as_planned": "2021-08-31T12:05:09.77Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51533"
+        }
+      ],
+      "facilities": [
+        "FUEL_STATION"
+      ],
+      "id": "51531",
+      "last_updated": "RESET",
+      "name": "E.ON ČS Benzina Klatovy",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "33901",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51534": {
+    "name": "E.ON Area Bory Plzeň",
+    "sha1": "d97e65bbeab7aa53077030535a5471bab22652fa",
+    "station": {
+      "address": "Sukova 2895/23",
+      "city": "Plzeň 3-Jižní Předměstí",
+      "coordinates": {
+        "latitude": "49.72951112",
+        "longitude": "13.3626384"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.72951112",
+            "longitude": "13.3626384"
+          },
+          "evse_id": "CZ*EON*E32051534*1",
+          "last_seen_as_planned": "2021-08-31T14:50:09.143Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51534"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.72951112",
+            "longitude": "13.3626384"
+          },
+          "evse_id": "CZ*EON*E32051534*2",
+          "last_seen_as_planned": "2021-08-31T14:50:09.143Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51535"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.72951112",
+            "longitude": "13.3626384"
+          },
+          "evse_id": "CZ*EON*E32051534*3",
+          "last_seen_as_planned": "2021-08-31T14:50:09.143Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51536"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "MALL",
+        "SUPERMARKET"
+      ],
+      "id": "51534",
+      "last_updated": "RESET",
+      "name": "E.ON Area Bory Plzeň",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "301 00",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51537": {
+    "name": "E.ON ČS Benzina Plzeň",
+    "sha1": "a2b1de036a33a75a61be84f5ce703a6c8607576e",
+    "station": {
+      "address": "Nepomucká 791/198",
+      "city": "Plzeň 8-Černice",
+      "coordinates": {
+        "latitude": "49.69885991",
+        "longitude": "13.42413012"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.69885991",
+            "longitude": "13.42413012"
+          },
+          "evse_id": "CZ*EON*E32051537*1",
+          "last_seen_as_planned": "2021-08-31T15:01:58.393Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51537"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.69885991",
+            "longitude": "13.42413012"
+          },
+          "evse_id": "CZ*EON*E32051537*2",
+          "last_seen_as_planned": "2021-08-31T15:01:58.393Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51538"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.69885991",
+            "longitude": "13.42413012"
+          },
+          "evse_id": "CZ*EON*E32051537*3",
+          "last_seen_as_planned": "2021-08-31T15:01:58.393Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51539"
+        }
+      ],
+      "facilities": [
+        "FUEL_STATION"
+      ],
+      "id": "51537",
+      "last_updated": "RESET",
+      "name": "E.ON ČS Benzina Plzeň",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "326 00",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51540": {
+    "name": "E.ON Krupá",
+    "sha1": "5fefc2b60ea742f66652c3dbd507a7f34d064af5",
+    "station": {
+      "address": "Krupá",
+      "city": "Krupá",
+      "coordinates": {
+        "latitude": "50.17197656",
+        "longitude": "13.7385435"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.17197656",
+            "longitude": "13.7385435"
+          },
+          "evse_id": "CZ*EON*E32051540*1",
+          "last_seen_as_planned": "2021-08-31T16:41:21.567Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51540"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.17197656",
+            "longitude": "13.7385435"
+          },
+          "evse_id": "CZ*EON*E32051540*2",
+          "last_seen_as_planned": "2021-08-31T16:41:21.567Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51541"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.17197656",
+            "longitude": "13.7385435"
+          },
+          "evse_id": "CZ*EON*E32051540*3",
+          "last_seen_as_planned": "2021-08-31T16:41:21.567Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51542"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.17197656",
+            "longitude": "13.7385435"
+          },
+          "evse_id": "CZ*EON*E32051543*1",
+          "last_seen_as_planned": "2021-08-31T16:41:21.567Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51543"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.17197656",
+            "longitude": "13.7385435"
+          },
+          "evse_id": "CZ*EON*E32051543*2",
+          "last_seen_as_planned": "2021-08-31T16:41:21.567Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51544"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.17197656",
+            "longitude": "13.7385435"
+          },
+          "evse_id": "CZ*EON*E32051543*3",
+          "last_seen_as_planned": "2021-08-31T16:41:21.567Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51545"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT"
+      ],
+      "id": "51540",
+      "last_updated": "RESET",
+      "name": "E.ON Krupá",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "270 09",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51552": {
+    "name": "E.ON NC Géčko Liberec",
+    "sha1": "d18f7d37d1ec936b11367ca2f56e2fa6dbeffdd4",
+    "station": {
+      "address": "Sousedská 599",
+      "city": "Liberec",
+      "coordinates": {
+        "latitude": "50.77521771",
+        "longitude": "15.02887406"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.77521771",
+            "longitude": "15.02887406"
+          },
+          "evse_id": "CZ*EON*E32051552*1",
+          "last_seen_as_planned": "2021-08-31T16:56:18.993Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51552"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.77521771",
+            "longitude": "15.02887406"
+          },
+          "evse_id": "CZ*EON*E32051552*2",
+          "last_seen_as_planned": "2021-08-31T16:56:18.993Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51553"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.77521771",
+            "longitude": "15.02887406"
+          },
+          "evse_id": "CZ*EON*E32051552*3",
+          "last_seen_as_planned": "2021-08-31T16:56:18.993Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51554"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.77521771",
+            "longitude": "15.02887406"
+          },
+          "evse_id": "CZ*EON*E32051555*1",
+          "last_seen_as_planned": "2021-08-31T16:56:18.993Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51555"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.77521771",
+            "longitude": "15.02887406"
+          },
+          "evse_id": "CZ*EON*E32051555*2",
+          "last_seen_as_planned": "2021-08-31T16:56:18.993Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51556"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.77521771",
+            "longitude": "15.02887406"
+          },
+          "evse_id": "CZ*EON*E32051555*3",
+          "last_seen_as_planned": "2021-08-31T16:56:18.993Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51557"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "MALL",
+        "SUPERMARKET"
+      ],
+      "id": "51552",
+      "last_updated": "RESET",
+      "name": "E.ON NC Géčko Liberec",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "460 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51558": {
+    "name": "E.ON ČS EuroOil Benátky nad Jizerou",
+    "sha1": "7351f0afa23b7e2660b27eb68c6269587fbb1724",
+    "station": {
+      "address": "Mladská 570",
+      "city": "Benátky nad Jizerou",
+      "coordinates": {
+        "latitude": "50.28429456",
+        "longitude": "14.83067746"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.28429456",
+            "longitude": "14.83067746"
+          },
+          "evse_id": "CZ*EON*E32051558*1",
+          "last_seen_as_planned": "2021-08-31T17:07:04.213Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51558"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.28429456",
+            "longitude": "14.83067746"
+          },
+          "evse_id": "CZ*EON*E32051558*2",
+          "last_seen_as_planned": "2021-08-31T17:07:04.213Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51559"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.28429456",
+            "longitude": "14.83067746"
+          },
+          "evse_id": "CZ*EON*E32051558*3",
+          "last_seen_as_planned": "2021-08-31T17:07:04.213Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51560"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.28429456",
+            "longitude": "14.83067746"
+          },
+          "evse_id": "CZ*EON*E32051561*1",
+          "last_seen_as_planned": "2021-08-31T17:07:04.213Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51561"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.28429456",
+            "longitude": "14.83067746"
+          },
+          "evse_id": "CZ*EON*E32051561*2",
+          "last_seen_as_planned": "2021-08-31T17:07:04.213Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51562"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.28429456",
+            "longitude": "14.83067746"
+          },
+          "evse_id": "CZ*EON*E32051561*3",
+          "last_seen_as_planned": "2021-08-31T17:07:04.213Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51563"
+        }
+      ],
+      "facilities": [
+        "FUEL_STATION"
+      ],
+      "id": "51558",
+      "last_updated": "RESET",
+      "name": "E.ON ČS EuroOil Benátky nad Jizerou",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "294 71",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51564": {
+    "name": "E.ON Miličín",
+    "sha1": "ff3a56769d1f2acbbbd926ff417e711cc7ae51ce",
+    "station": {
+      "address": "Miličín 1257/29",
+      "city": "Miličín",
+      "coordinates": {
+        "latitude": "49.57265189",
+        "longitude": "14.6587234"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.57265189",
+            "longitude": "14.6587234"
+          },
+          "evse_id": "CZ*EON*E32051564*1",
+          "last_seen_as_planned": "2021-08-31T17:13:45.093Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51564"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.57265189",
+            "longitude": "14.6587234"
+          },
+          "evse_id": "CZ*EON*E32051564*2",
+          "last_seen_as_planned": "2021-08-31T17:13:45.093Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51565"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.57265189",
+            "longitude": "14.6587234"
+          },
+          "evse_id": "CZ*EON*E32051564*3",
+          "last_seen_as_planned": "2021-08-31T17:13:45.093Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51566"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.57265189",
+            "longitude": "14.6587234"
+          },
+          "evse_id": "CZ*EON*E32051567*1",
+          "last_seen_as_planned": "2021-08-31T17:13:45.093Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51567"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.57265189",
+            "longitude": "14.6587234"
+          },
+          "evse_id": "CZ*EON*E32051567*2",
+          "last_seen_as_planned": "2021-08-31T17:13:45.093Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51568"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.57265189",
+            "longitude": "14.6587234"
+          },
+          "evse_id": "CZ*EON*E32051567*3",
+          "last_seen_as_planned": "2021-08-31T17:13:45.093Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51569"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "FUEL_STATION"
+      ],
+      "id": "51564",
+      "last_updated": "RESET",
+      "name": "E.ON Miličín",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "257 86",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51570": {
+    "name": "E.ON Autobond Opava",
+    "sha1": "189abdb3f0d005dbf6fc1b9138e686235d628aaf",
+    "station": {
+      "address": "Krnovská 2851/108",
+      "city": "Opava",
+      "coordinates": {
+        "latitude": "49.94678137",
+        "longitude": "17.88495054"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.94678137",
+            "longitude": "17.88495054"
+          },
+          "evse_id": "CZ*EON*E32051570*1",
+          "last_seen_as_planned": "2021-08-31T17:21:29.123Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51570"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.94678137",
+            "longitude": "17.88495054"
+          },
+          "evse_id": "CZ*EON*E32051570*2",
+          "last_seen_as_planned": "2021-08-31T17:21:29.123Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51571"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.94678137",
+            "longitude": "17.88495054"
+          },
+          "evse_id": "CZ*EON*E32051570*3",
+          "last_seen_as_planned": "2021-08-31T17:21:29.123Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51572"
+        }
+      ],
+      "facilities": [
+        "FUEL_STATION"
+      ],
+      "id": "51570",
+      "last_updated": "RESET",
+      "name": "E.ON Autobond Opava",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "746 01",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
