@@ -313,7 +313,7 @@
   },
   "CZ1002603": {
     "name": "Schnellladestation OC Stromovka",
-    "sha1": "cc75d43c3ca46c149cecd8672d4620058901c73e",
+    "sha1": "0f91a8df9a302eab58969e0e9c5dc3a068eccaae",
     "station": {
       "additionalInfo": "Von der Veletrní Straße, in der Etage 2PP und 3PP",
       "chargingFacilities": {
@@ -334,8 +334,8 @@
       "evseId": "CZ*PRE*E1R0009*2",
       "extra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>",
       "geoCoord": {
-        "latitude": "50.101965",
-        "longitude": "14.429668"
+        "latitude": "50.101800",
+        "longitude": "14.429680"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -2554,7 +2554,7 @@
   },
   "CZ1002676": {
     "name": "Ladestation SMIGHT Jugoslávská",
-    "sha1": "342a160fdc66d678a7b4870f3b81320e259f904e",
+    "sha1": "05c87209b534d477dcb137b834de6494c22746df",
     "station": {
       "additionalInfo": "Vor dem Rathaus",
       "chargingFacilities": {
@@ -2569,7 +2569,7 @@
       "csName": "Ladestation SMIGHT Jugoslávská",
       "csStatus": "operable",
       "csType": "charger",
-      "enAdditionalInfo": "In front of the city hall",
+      "enAdditionalInfo": "In front of the city hall\r\nBeRider PROMOKÓD: PRE45",
       "enCsname": "Charger SMIGHT Jugoslávská",
       "enExtra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>",
       "evseId": "CZ*PRE*E2S0005*2",
@@ -2845,7 +2845,7 @@
   },
   "CZ1002683": {
     "name": "Ultra-Highspeed-Ladestation Metropole Zličín",
-    "sha1": "577fdcfb86d4856e73f2e3da650c0fa82e2918f7",
+    "sha1": "1261b1c39a709b9eec2dec41bde9c7f3bb6134c7",
     "station": {
       "additionalInfo": "Am Ende des Parkplatzes",
       "chargingFacilities": {
@@ -2875,7 +2875,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_metropole_zlicin.jpg"
+          "uri": "https://smatrics.com/sites/default/files/pre_app_oc_stromovka.jpg"
         }
       ],
       "isOpen24Hours": "true",

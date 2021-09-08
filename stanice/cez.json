@@ -6524,6 +6524,139 @@
       "visible": true
     }
   },
+  "149925": {
+    "name": "R349 - Svitavy - Kaufland",
+    "sha1": "cbd0e717e7b47d7bfc5db4339cda08dcb9e5bdb4",
+    "station": {
+      "address": {
+        "city": "568 02 Svitavy – Lány",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Slavíčka 892/1",
+        "latitude": 49.7531969,
+        "longitude": 16.4765286,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Antonína",
+        "url": ""
+      },
+      "customID": "149925",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-0421-011",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R349"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0421-011",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0421-011",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R349"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/09/kaufland-svitavy-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R349 - Svitavy - Kaufland",
+      "visible": true
+    }
+  },
+  "149926": {
+    "name": "N147 - Havlíčkův Brod",
+    "sha1": "69425044066dae5004034d94c9e1a2ec3efcb330",
+    "station": {
+      "address": {
+        "city": "Havlíčkův Brod",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "4344",
+        "latitude": 49.6043686,
+        "longitude": 15.5827167,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Žižkova",
+        "url": ""
+      },
+      "customID": "149926",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N147"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N147"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "N147 - Havlíčkův Brod",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "2da7972d18c9991b34f0873112d7f23d1a4db7dc",
