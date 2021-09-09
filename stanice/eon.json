@@ -3676,7 +3676,7 @@
   },
   "19930": {
     "name": "(P) Areál Slatina II",
-    "sha1": "d6af737f644d50eb7fe70b5525a2c39b628bfdcf",
+    "sha1": "362c6c6f3b87ad99229033c88348b412f58b7ad6",
     "station": {
       "address": "Tuřanka 1222/115",
       "city": "Brno",
@@ -3899,6 +3899,146 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "56015"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-09-08T22:00:38.32Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "25",
+                "84",
+                "83",
+                "26"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.16759",
+            "longitude": "16.680522"
+          },
+          "evse_id": "CZ*EON*E68494",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "68494"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-09-08T22:00:38.32Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "25",
+                "84",
+                "83",
+                "26"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.16759",
+            "longitude": "16.680522"
+          },
+          "evse_id": "CZ*EON*E68495",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "68495"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-09-08T22:00:38.32Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "25",
+                "84",
+                "83",
+                "26"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.16759",
+            "longitude": "16.680522"
+          },
+          "evse_id": "CZ*EON*E77519",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "77519"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-09-08T22:00:38.32Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "25",
+                "84",
+                "83",
+                "26"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.16759",
+            "longitude": "16.680522"
+          },
+          "evse_id": "CZ*EON*E77520",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "77520"
         }
       ],
       "id": "19930",
@@ -11319,7 +11459,7 @@
   },
   "39572": {
     "name": "(P) Hotel Augustiánský dům",
-    "sha1": "e253d2eb97a9f46d9e988f58c94581fb3314abd2",
+    "sha1": "e6e3018e1925ae40168843655cb6b1ef33cd15dc",
     "station": {
       "address": "Antonína Václavíka 241",
       "city": "Luhačovice",
@@ -11344,9 +11484,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2021-05-24T09:43:56.277Z",
+              "last_updated": "2021-09-08T22:00:38.32Z",
               "max_amperage": 32,
-              "max_electric_power": 22000,
+              "max_electric_power": 11000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
