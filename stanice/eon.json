@@ -12842,7 +12842,7 @@
   },
   "51498": {
     "name": "E.ON Dolní Dvořiště",
-    "sha1": "78fa5ca187546b678aa921b687d51701482db34e",
+    "sha1": "035ad4cc95f540377fb7436d37d5e1e4b22265ce",
     "station": {
       "address": "Dolní Dvořiště 225",
       "city": "Dolní Dvořiště",
@@ -12869,7 +12869,7 @@
             "longitude": "14.45338264"
           },
           "evse_id": "CZ*EON*E32051498*1",
-          "last_seen_as_planned": "2021-08-27T13:06:20.01Z",
+          "last_seen_as_planned": "2021-09-09T20:19:14.5Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51498"
@@ -12887,7 +12887,7 @@
             "longitude": "14.45338264"
           },
           "evse_id": "CZ*EON*E32051498*2",
-          "last_seen_as_planned": "2021-08-27T13:06:20.01Z",
+          "last_seen_as_planned": "2021-09-09T20:19:14.5Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51499"
@@ -12905,11 +12905,14 @@
             "longitude": "14.45338264"
           },
           "evse_id": "CZ*EON*E32051498*3",
-          "last_seen_as_planned": "2021-08-27T13:06:20.01Z",
+          "last_seen_as_planned": "2021-09-09T20:19:14.5Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51500"
         }
+      ],
+      "facilities": [
+        "HOTEL"
       ],
       "id": "51498",
       "last_updated": "RESET",
@@ -12918,14 +12921,19 @@
         "twentyfourseven": true
       },
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "E.ON Česká republika, s. r. o."
       },
       "owner": {
         "name": "E.ON Česká republika, s. r. o."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
+      "postal_code": "38272",
       "publish": true,
       "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
       "time_zone": "Europe/Prague"
     }
   },
