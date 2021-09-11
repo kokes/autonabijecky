@@ -4570,7 +4570,7 @@
   },
   "CZ1003038": {
     "name": "Schnellladestation Radnice Modřany",
-    "sha1": "5642147dd0da2ebd2617d8b483ef630db1af0d1b",
+    "sha1": "07130a68503b41535187d056977cccce8ed4d8d6",
     "station": {
       "additionalInfo": "Neben dem Stadtamt Prag 12",
       "chargingFacilities": {
@@ -4583,7 +4583,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1003038",
       "csName": "Schnellladestation Radnice Modřany",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the Prague 12 City Hall",
       "enCsname": "Fast charger Radnice Modřany",
@@ -4594,6 +4594,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_radnice_modrany_1.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
@@ -7012,6 +7019,52 @@
       "postalCode": "58001",
       "region": "Kraj Vysočina",
       "street": "Humpolecká 20"
+    }
+  },
+  "CZ6303078": {
+    "name": "Schnellladestation EuroOil Jihlava",
+    "sha1": "7f46ca6a4b73e7c8537e1e432ccee4b2f0d308e5",
+    "station": {
+      "additionalInfo": "Auf dem Parkplatz der Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Jihlava",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ6303078",
+      "csName": "Schnellladestation EuroOil Jihlava",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "At the parking lot of the gas station",
+      "enCsname": "Fast charger EuroOil Jihlava",
+      "evseId": "CZ*PRE*E1R5090*3",
+      "geoCoord": {
+        "latitude": "49.397637",
+        "longitude": "15.604927"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_jihlava.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "58601",
+      "region": "Kraj Vysočina",
+      "street": "Brněnská 4955/65a"
     }
   },
   "CZ6402613": {

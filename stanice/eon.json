@@ -12842,7 +12842,7 @@
   },
   "51498": {
     "name": "E.ON Dolní Dvořiště",
-    "sha1": "035ad4cc95f540377fb7436d37d5e1e4b22265ce",
+    "sha1": "c93819386cd20f8de70bfea2226a3563fec6d6f7",
     "station": {
       "address": "Dolní Dvořiště 225",
       "city": "Dolní Dvořiště",
@@ -12863,7 +12863,24 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2021-09-10T13:27:35.47Z",
+              "max_amperage": 250,
+              "max_electric_power": 75000,
+              "max_voltage": 1000,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "63",
+                "60",
+                "5",
+                "2"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.64843814",
             "longitude": "14.45338264"
@@ -12881,7 +12898,24 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2021-09-10T13:25:49.14Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "63",
+                "60",
+                "5",
+                "2"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.64843814",
             "longitude": "14.45338264"
@@ -12899,7 +12933,24 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2021-09-10T13:25:49.14Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "62",
+                "59",
+                "4"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.64843814",
             "longitude": "14.45338264"
