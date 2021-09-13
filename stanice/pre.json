@@ -4699,6 +4699,162 @@
       "street": "Smrčkova 2512/29"
     }
   },
+  "CZ1003079": {
+    "name": "Ladestation TS 4607 Šímova",
+    "sha1": "0136e796071121c363874a5fc679591bda311421",
+    "station": {
+      "additionalInfo": "Bei der Transformatorstation TS 4607",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003079",
+      "csName": "Ladestation TS 4607 Šímova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "By the transformation station TS 4607",
+      "enCsname": "Charger TS 4607 Šímova",
+      "evseId": "CZ*PRE*E1S8019*1",
+      "geoCoord": {
+        "latitude": "50.064294",
+        "longitude": "14.314028"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16300",
+      "region": "Hlavní město Praha",
+      "street": "Šímova"
+    }
+  },
+  "CZ1003080": {
+    "name": "Ladestation TS 2629 Květinková",
+    "sha1": "e6befccb7950bdc86bf1d70b31057c847127c2ae",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 2629",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003080",
+      "csName": "Ladestation TS 2629 Květinková",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "By the transformation station TS 2629",
+      "enCsname": "Charger TS 2629 Květinková",
+      "evseId": "CZ*PRE*E1S8011*2",
+      "geoCoord": {
+        "latitude": "50.089280",
+        "longitude": "14.492612"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Květinková"
+    }
+  },
+  "CZ1003081": {
+    "name": "Ladestation TS 3467 Butovická",
+    "sha1": "b4f5a212c42161fb71f721ad17ed191926c7bcac",
+    "station": {
+      "additionalInfo": "Bei der Transformationsstation TS 3467",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003081",
+      "csName": "Ladestation TS 3467 Butovická",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "By the transformation station TS 3467",
+      "enCsname": "Charger TS 3467 Butovická",
+      "evseId": "CZ*PRE*E1S8014*1",
+      "geoCoord": {
+        "latitude": "50.051111",
+        "longitude": "14.363842"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15800",
+      "region": "Hlavní město Praha",
+      "street": "Butovická"
+    }
+  },
+  "CZ1003082": {
+    "name": "Ladestation TS 5079 Krupná",
+    "sha1": "45f30f118f56dcc32dfc18fbb065f8e89b5defac",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 5079",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003082",
+      "csName": "Ladestation TS 5079 Krupná",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "By the transformation station TS 5079",
+      "enCsname": "Charger TS 5079 Krupná",
+      "evseId": "CZ*PRE*E1S8021*2",
+      "geoCoord": {
+        "latitude": "49.989354",
+        "longitude": "14.409499"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14300",
+      "region": "Hlavní město Praha",
+      "street": "Krupná"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
