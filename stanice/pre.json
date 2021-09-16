@@ -4855,6 +4855,52 @@
       "street": "Krupná"
     }
   },
+  "CZ1003084": {
+    "name": "Schnellladestation EuroOil Praha 9",
+    "sha1": "e94c85198e14e76dc3632ac2c04b668a2ff9ac49",
+    "station": {
+      "additionalInfo": "Bei der EuroOil Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003084",
+      "csName": "Schnellladestation EuroOil Praha 9",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the EuroOil gas station",
+      "enCsname": "Fast charger EuroOil Praha 9",
+      "evseId": "CZ*PRE*E1R5103*2",
+      "geoCoord": {
+        "latitude": "50.102580",
+        "longitude": "14.513999"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_praha_9.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Poděbradská 279/34"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
@@ -7572,6 +7618,45 @@
       "postalCode": "66405",
       "region": "Jihomoravský kraj",
       "street": "Tvarožná 352"
+    }
+  },
+  "CZ6403085": {
+    "name": "Schnellladestation EuroOil Brno Lesná",
+    "sha1": "645be6ae72ddfe5c4e65bb57c9d4821856858aa2",
+    "station": {
+      "additionalInfo": "Bei der EuroOil Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Brno, Lesná",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ6403085",
+      "csName": "Schnellladestation EuroOil Brno Lesná",
+      "csStatus": "under_construction",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the EuroOil gas station",
+      "enCsname": "Fast charger EuroOil Brno Lesná",
+      "evseId": "CZ*PRE*E1R5082*3",
+      "geoCoord": {
+        "latitude": "49.232806",
+        "longitude": "16.622111"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "63800",
+      "region": "Jihomoravský kraj",
+      "street": "Okružní 898/12"
     }
   },
   "CZ7102740": {
