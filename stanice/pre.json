@@ -313,9 +313,9 @@
   },
   "CZ1002603": {
     "name": "Schnellladestation OC Stromovka",
-    "sha1": "f770e7cf5f12db518b21f6f977850667059486ca",
+    "sha1": "c6cff5f1e16a18d13f4b4de6b31a4fc708e242a2",
     "station": {
-      "additionalInfo": "Von der Veletrní Straße, in der Etage 2PP und 3PP\r\nBeRider Promotion Code: PRE45",
+      "additionalInfo": "Von der Veletrní Straße, in der Etage 2PP und 3PP",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -328,11 +328,11 @@
       "csName": "Schnellladestation OC Stromovka",
       "csStatus": "operable",
       "csType": "fast_charger",
-      "enAdditionalInfo": "From the Veletržní street, in the floor 2PP and 3PP\r\nBeRider PROMOKÓD: PRE45",
+      "enAdditionalInfo": "From the Veletržní street, in the floor 2PP and 3PP",
       "enCsname": "Fast charger OC Stromovka",
-      "enExtra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>",
+      "enExtra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>\r\n<b><span style=\"color:#73df00\">Promocode: 45PRE</span></b>",
       "evseId": "CZ*PRE*E1R0009*2",
-      "extra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>",
+      "extra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>\r\n<b><span style=\"color:#73df00\">Promocode: 45PRE</span></b>",
       "geoCoord": {
         "latitude": "50.101800",
         "longitude": "14.429680"
@@ -342,8 +342,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_oc_stromovka.jpg"
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/pre_45pre_1.png"
         }
       ],
       "isOpen24Hours": "false",
@@ -1687,9 +1687,9 @@
   },
   "CZ1002651": {
     "name": "Ladestation TS 2665 Jihlavská",
-    "sha1": "01fceec27c8ff474cca39844389b56a978b69705",
+    "sha1": "48652742b887281de6c9eec3cb997c0c9ece9ca3",
     "station": {
-      "additionalInfo": "Bei der Transformatorstation 2665\r\nBeRider Promotion Code: PRE45",
+      "additionalInfo": "Bei der Transformatorstation 2665",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -1702,11 +1702,11 @@
       "csName": "Ladestation TS 2665 Jihlavská",
       "csStatus": "operable",
       "csType": "charger",
-      "enAdditionalInfo": "By the transformation station 2665\r\nBeRider PROMOKÓD: PRE45",
+      "enAdditionalInfo": "By the transformation station 2665",
       "enCsname": "Charger TS 2665 Jihlavská",
-      "enExtra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>",
+      "enExtra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>\r\n<b><span style=\"color:#73df00\">Promocode: 45PRE</span></b>",
       "evseId": "CZ*PRE*E1S7012*1",
-      "extra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>",
+      "extra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>\r\n<b><span style=\"color:#73df00\">Promocode: 45PRE</span></b>",
       "geoCoord": {
         "latitude": "50.042737",
         "longitude": "14.460954"
@@ -1716,8 +1716,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_2665_jihlavska.jpg"
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/pre_45pre_1.png"
         }
       ],
       "isOpen24Hours": "true",
@@ -2554,9 +2554,9 @@
   },
   "CZ1002676": {
     "name": "Ladestation SMIGHT Jugoslávská",
-    "sha1": "bb8f71ad68d7250c44668189647813e97b03f010",
+    "sha1": "d3b8a4f637241877df727dc9cdf765fec436a355",
     "station": {
-      "additionalInfo": "Vor dem Rathaus\r\nBeRider Promotion Code: PRE45",
+      "additionalInfo": "Vor dem Rathaus",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2569,11 +2569,11 @@
       "csName": "Ladestation SMIGHT Jugoslávská",
       "csStatus": "operable",
       "csType": "charger",
-      "enAdditionalInfo": "In front of the city hall\r\nBeRider PROMOKÓD: PRE45",
+      "enAdditionalInfo": "In front of the city hall",
       "enCsname": "Charger SMIGHT Jugoslávská",
-      "enExtra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>",
+      "enExtra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>\r\n<b><span style=\"color:#73df00\">Promocode: 45PRE</span></b>",
       "evseId": "CZ*PRE*E2S0005*2",
-      "extra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>",
+      "extra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>\r\n<b><span style=\"color:#73df00\">Promocode: 45PRE</span></b>",
       "geoCoord": {
         "latitude": "50.075379",
         "longitude": "14.434315"
@@ -2583,8 +2583,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_smight_jugoslavska.jpg"
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/pre_45pre_1.png"
         }
       ],
       "isOpen24Hours": "true",
@@ -2602,9 +2602,9 @@
   },
   "CZ1002677": {
     "name": "Ladestation SMIGHT Polská",
-    "sha1": "ad14d01ec393fa98c6eee059a374e7449f137875",
+    "sha1": "5f349001773ab37b77a32bf85b96bb723f92238f",
     "station": {
-      "additionalInfo": "Bei dem Park\r\nBeRider Promotion Code: PRE45",
+      "additionalInfo": "Bei dem Park",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2617,11 +2617,11 @@
       "csName": "Ladestation SMIGHT Polská",
       "csStatus": "operable",
       "csType": "charger",
-      "enAdditionalInfo": "By the park\r\nBeRider PROMOKÓD: PRE45",
+      "enAdditionalInfo": "By the park",
       "enCsname": "Charger SMIGHT Polská",
-      "enExtra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>",
+      "enExtra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>\r\n<b><span style=\"color:#73df00\">Promocode: 45PRE</span></b>/b>",
       "evseId": "CZ*PRE*E2S0006*2",
-      "extra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>",
+      "extra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>\r\n<b><span style=\"color:#73df00\">Promocode: 45PRE</span></b>",
       "geoCoord": {
         "latitude": "50.078389",
         "longitude": "14.443423"
@@ -2631,8 +2631,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_smight_polska.jpg"
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/pre_45pre_1.png"
         }
       ],
       "isOpen24Hours": "true",
@@ -2845,9 +2845,9 @@
   },
   "CZ1002683": {
     "name": "Ultra-Highspeed-Ladestation Metropole Zličín",
-    "sha1": "109b4be503f4432acfe638129d1eb48a84cc218c",
+    "sha1": "4d7c1569b03fddf9394faf5d98cd93eaa4a017ee",
     "station": {
-      "additionalInfo": "Am Ende des Parkplatzes\r\nBeRider Promotion Code: PRE45",
+      "additionalInfo": "Am Ende des Parkplatzes",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2860,11 +2860,11 @@
       "csName": "Ultra-Highspeed-Ladestation Metropole Zličín",
       "csStatus": "operable",
       "csType": "ultra_fast_charger",
-      "enAdditionalInfo": "At the end of the parking lot\r\nBeRider PROMOKÓD: PRE45",
+      "enAdditionalInfo": "At the end of the parking lot",
       "enCsname": "Ultra-highspeed charger Metropole Zličín",
-      "enExtra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>",
+      "enExtra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>\r\n<b><span style=\"color:#73df00\">Promocode: 45PRE</span></b>",
       "evseId": "CZ*PRE*E1S0006*2",
-      "extra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>",
+      "extra": "<a style=\"color:#90ff3c\" href=\"https://play.google.com/store/apps/details?id=com.berider.app\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On Google Play</span></b>\r\n\r\n<a style=\"color:#90ff3c\" href=\"https://apps.apple.com/us/app/berider-scooter-sharing/id1465804731?ls=1\"><b>BeRider</b></a> - <b><span style=\"color:#73df00\">On App Store</span></b>\r\n<b><span style=\"color:#73df00\">Promocode: 45PRE</span></b>",
       "geoCoord": {
         "latitude": "50.052194",
         "longitude": "14.286194"
@@ -2874,8 +2874,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_oc_stromovka.jpg"
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/pre_45pre_1.png"
         }
       ],
       "isOpen24Hours": "true",
@@ -4570,7 +4570,7 @@
   },
   "CZ1003038": {
     "name": "Schnellladestation Radnice Modřany",
-    "sha1": "92184fe5be4739a5a313f2749931a3408f160e97",
+    "sha1": "dfa705c9e26b60984bf4adef43bc55ba72630b3b",
     "station": {
       "additionalInfo": "Neben dem Stadtamt Prag 12",
       "chargingFacilities": {
@@ -4589,8 +4589,8 @@
       "enCsname": "Fast charger Radnice Modřany",
       "evseId": "CZ*PRE*E1S8084*2",
       "geoCoord": {
-        "latitude": "50.002292",
-        "longitude": "14.415206"
+        "latitude": "50.002214",
+        "longitude": "14.413741"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -4899,6 +4899,45 @@
       "postalCode": "19000",
       "region": "Hlavní město Praha",
       "street": "Poděbradská 279/34"
+    }
+  },
+  "CZ1003086": {
+    "name": "Ladestation Radnice Modřany",
+    "sha1": "3b24cc8aa58a40de36f2f19170bbc93693958143",
+    "station": {
+      "additionalInfo": "Neben dem Stadtamt Prag 12",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003086",
+      "csName": "Ladestation Radnice Modřany",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "By the Prague 12 City Hall",
+      "enCsname": "Charger Radnice Modřany",
+      "evseId": "CZ*PRE*E1S8086*2",
+      "geoCoord": {
+        "latitude": "50.002447",
+        "longitude": "14.415356"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14300",
+      "region": "Hlavní město Praha",
+      "street": "Pískova 830/25"
     }
   },
   "CZ2002608": {
@@ -7622,7 +7661,7 @@
   },
   "CZ6403085": {
     "name": "Schnellladestation EuroOil Brno Lesná",
-    "sha1": "645be6ae72ddfe5c4e65bb57c9d4821856858aa2",
+    "sha1": "ab03c2b973ef25825a3381586002c919a67ff4c0",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "chargingFacilities": {
@@ -7635,7 +7674,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ6403085",
       "csName": "Schnellladestation EuroOil Brno Lesná",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the EuroOil gas station",
       "enCsname": "Fast charger EuroOil Brno Lesná",
@@ -7646,6 +7685,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_brno_lesna_1.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
