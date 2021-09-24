@@ -4940,6 +4940,52 @@
       "street": "Pískova 830/25"
     }
   },
+  "CZ1003088": {
+    "name": "Ladestation Německá škola v Praze",
+    "sha1": "fca66b4c0044755a488685d0b6d1b7629aaa0938",
+    "station": {
+      "additionalInfo": "Auf dem Parkplatz neben der Deutschen Schule",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003088",
+      "csName": "Ladestation Německá škola v Praze",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Parking lot next to the German school",
+      "enCsname": "Charger Německá škola v Praze",
+      "evseId": "CZ*PRE*E1S8168*2",
+      "geoCoord": {
+        "latitude": "50.055109",
+        "longitude": "14.354211"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_nemecka_skola.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15800",
+      "region": "Hlavní město Praha",
+      "street": "Schwarzenberská"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
