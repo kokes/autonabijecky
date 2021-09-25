@@ -6679,7 +6679,7 @@
   },
   "CZ4203002": {
     "name": "Schnellladestation EuroOil Louny",
-    "sha1": "ff0eeea611a6e3f6ccfd43bc562e1ce9129817e3",
+    "sha1": "61755f904e653978843f4e65783ac8a9290cee3e",
     "station": {
       "additionalInfo": "Neben der EuroOil Tankstelle",
       "chargingFacilities": {
@@ -6692,7 +6692,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ4203002",
       "csName": "Schnellladestation EuroOil Louny",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "Next to the EuroOil gas station",
       "enCsname": "Fast charger EuroOil Louny",
@@ -6703,6 +6703,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_louny.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
