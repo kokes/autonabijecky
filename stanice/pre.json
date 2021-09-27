@@ -3166,7 +3166,7 @@
   },
   "CZ1002771": {
     "name": "Ladestation Hamr Záběhlice",
-    "sha1": "3c5f443fcc138be4010bc8bb73a635f7f6ff489a",
+    "sha1": "6d706ae5f5aa96de7cef2238b5afeb55b08f551e",
     "station": {
       "additionalInfo": "Auf dem Parkplatz des Sportzentrums",
       "chargingFacilities": {
@@ -3185,8 +3185,8 @@
       "enCsname": "Charger Hamr Záběhlice",
       "evseId": "CZ*PRE*E1S0053*2",
       "geoCoord": {
-        "latitude": "50.054236",
-        "longitude": "14.486421"
+        "latitude": "50.055074",
+        "longitude": "14.486033"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -5339,9 +5339,9 @@
   },
   "CZ2002729": {
     "name": "Ladestation Hotel SEN",
-    "sha1": "3914819f84d77bd7aa7f112c64b175f17c9adaf9",
+    "sha1": "2de8925dac41b20df92f5a68e8392151308cee0e",
     "station": {
-      "additionalInfo": "In der Hotelgarage",
+      "additionalInfo": "Beim Hotelparkplatz",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -5354,7 +5354,7 @@
       "csName": "Ladestation Hotel SEN",
       "csStatus": "operable",
       "csType": "charger",
-      "enAdditionalInfo": "In the hotel garages",
+      "enAdditionalInfo": "At the parking lot povided by Hotel Sen",
       "enCsname": "Charger Hotel SEN",
       "evseId": "CZ*PRE*E1S8083*2",
       "geoCoord": {
