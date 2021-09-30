@@ -6657,6 +6657,75 @@
       "visible": true
     }
   },
+  "150691": {
+    "name": "R370 - Polička - Benzina",
+    "sha1": "9f6ea61fd35702c7c9f74eb2add3ba44fea58d9e",
+    "station": {
+      "address": {
+        "city": "Polička",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "582",
+        "latitude": 49.71437,
+        "longitude": 16.25649,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Starohradská",
+        "url": ""
+      },
+      "customID": "150691",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1921-010",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R370"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1921-010",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1921-010",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R370"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "R370 - Polička - Benzina",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "2da7972d18c9991b34f0873112d7f23d1a4db7dc",

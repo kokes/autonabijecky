@@ -12840,6 +12840,135 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "51409": {
+    "name": "E.ON Stará Paka",
+    "sha1": "a8c001623ede70bc229f6a53b9dc6f46b8b695c9",
+    "station": {
+      "address": "Nádražní",
+      "city": "Stará Paka",
+      "coordinates": {
+        "latitude": "50.51601469",
+        "longitude": "15.48748068"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-09-29T05:35:00.067Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.51601469",
+            "longitude": "15.48748068"
+          },
+          "evse_id": "CZ*EON*E11051409*1",
+          "last_seen_as_planned": "2021-09-29T05:35:00.067Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51409"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2021-09-29T05:35:00.067Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2021-09-29T05:35:00.067Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.51601469",
+            "longitude": "15.48748068"
+          },
+          "evse_id": "CZ*EON*E11051409*2",
+          "last_seen_as_planned": "2021-09-29T05:35:00.067Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51410"
+        }
+      ],
+      "facilities": [
+        "TRAIN_STATION"
+      ],
+      "id": "51409",
+      "last_updated": "RESET",
+      "name": "E.ON Stará Paka",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "507 91",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "51498": {
     "name": "E.ON Dolní Dvořiště",
     "sha1": "c93819386cd20f8de70bfea2226a3563fec6d6f7",
@@ -13372,7 +13501,7 @@
   },
   "51513": {
     "name": "E.ON VETO Písek",
-    "sha1": "81c9f9a2cbd2e3e5db06c437efae2682cef97e16",
+    "sha1": "1b0d37a7a88979c74e8f6264a1192c0d445f8084",
     "station": {
       "address": "Hradišťská 2532/39",
       "city": "Písek",
@@ -13393,13 +13522,46 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2021-09-29T15:12:13.857Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2021-09-29T15:12:13.857Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.3039355",
             "longitude": "14.13948901"
           },
           "evse_id": "CZ*EON*E32051513*1",
-          "last_seen_as_planned": "2021-08-30T17:56:43.74Z",
+          "last_seen_as_planned": "2021-09-29T19:54:04.123Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51513"
@@ -13417,7 +13579,8 @@
             "longitude": "14.13948901"
           },
           "evse_id": "CZ*EON*E32051513*2",
-          "last_seen_as_planned": "2021-08-30T17:56:43.74Z",
+          "floor_level": "0",
+          "last_seen_as_planned": "2021-09-29T19:50:41.47Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51514"
@@ -13429,13 +13592,30 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2021-09-29T15:12:13.857Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.3039355",
             "longitude": "14.13948901"
           },
           "evse_id": "CZ*EON*E32051513*3",
-          "last_seen_as_planned": "2021-08-30T17:56:43.74Z",
+          "last_seen_as_planned": "2021-09-29T19:54:04.123Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51515"
@@ -13453,7 +13633,7 @@
         "twentyfourseven": true
       },
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "E.ON Česká republika, s. r. o."
       },
       "owner": {
         "name": "E.ON Česká republika, s. r. o."
