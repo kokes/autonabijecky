@@ -15109,8 +15109,8 @@
     }
   },
   "53782": {
-    "name": "E.ON Náchod Penny",
-    "sha1": "a7c7c0cf768c368ffc048cafc1eb2b130629bafa",
+    "name": "E.ON Penny Náchod",
+    "sha1": "1fe748462bbca73c8fa911892cf9923957b6e92c",
     "station": {
       "address": "Pražská 373",
       "city": "Náchod",
@@ -15170,7 +15170,7 @@
             "longitude": "16.1583272"
           },
           "evse_id": "CZ*EON*E98053782*1",
-          "last_seen_as_planned": "2021-03-31T10:51:48.95Z",
+          "last_seen_as_planned": "2021-09-30T19:29:44.27Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53782"
@@ -15198,6 +15198,22 @@
                 "59",
                 "4"
               ]
+            },
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2021-09-30T22:01:03.04Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62"
+              ]
             }
           ],
           "coordinates": {
@@ -15205,7 +15221,7 @@
             "longitude": "16.1583272"
           },
           "evse_id": "CZ*EON*E98053782*2",
-          "last_seen_as_planned": "2021-03-26T08:08:57.403Z",
+          "last_seen_as_planned": "2021-09-30T19:29:44.27Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53783"
@@ -15214,18 +15230,16 @@
       "facilities": [
         "HOTEL",
         "RESTAURANT",
-        "SUPERMARKET",
-        "SPORT",
-        "BUS_STOP"
+        "SUPERMARKET"
       ],
       "id": "53782",
       "last_updated": "RESET",
-      "name": "E.ON Náchod Penny",
+      "name": "E.ON Penny Náchod",
       "opening_times": {
         "twentyfourseven": true
       },
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "E.ON Česká republika, s. r. o."
       },
       "owner": {
         "name": "E.ON Česká republika, s. r. o."
@@ -15896,7 +15910,7 @@
   },
   "53794": {
     "name": "E.ON Penny Jaroměř",
-    "sha1": "693c484cbd808c0969f2341f416baa67f85d9c7f",
+    "sha1": "a00817ad961be863b401e1db5857696cdb264018",
     "station": {
       "address": "Na Cihelnách 13",
       "city": "Jaroměř - Pražské Předměstí",
@@ -15956,7 +15970,7 @@
             "longitude": "15.9127453"
           },
           "evse_id": "CZ*EON*E98053794*1",
-          "last_seen_as_planned": "2021-03-31T10:55:59.753Z",
+          "last_seen_as_planned": "2021-09-30T19:32:46.773Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53794"
@@ -15991,7 +16005,7 @@
             "longitude": "15.9127453"
           },
           "evse_id": "CZ*EON*E98053794*2",
-          "last_seen_as_planned": "2021-03-29T09:53:14.857Z",
+          "last_seen_as_planned": "2021-09-30T19:32:46.773Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53795"
@@ -16007,7 +16021,7 @@
         "twentyfourseven": true
       },
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "E.ON Česká republika, s. r. o."
       },
       "owner": {
         "name": "E.ON Česká republika, s. r. o."
