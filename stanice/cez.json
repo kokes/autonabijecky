@@ -5586,7 +5586,7 @@
   },
   "148516": {
     "name": "R348 - Janské Lázně",
-    "sha1": "a607d69af62ebade46cdfa915c77865d59225c50",
+    "sha1": "b3df2b755c19d9f7bb4e1aabb7731585ff1167ac",
     "station": {
       "address": {
         "city": "Janské Lázně",
@@ -5613,7 +5613,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1021-093",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -5627,7 +5627,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1021-093",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -5636,7 +5636,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1021-093",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -6170,7 +6170,7 @@
   },
   "148567": {
     "name": "R347 - Červený Kostelec",
-    "sha1": "c488390261bf72bbf25d96c4311d2b4e1d794b9c",
+    "sha1": "788a113547b82d83610e8c68d24e57499a1e6395",
     "station": {
       "address": {
         "city": "Červený Kostelec",
@@ -6197,7 +6197,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-0421-019",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -6211,7 +6211,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-0421-019",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -6220,7 +6220,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-0421-019",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
