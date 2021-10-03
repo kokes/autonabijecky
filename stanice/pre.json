@@ -7074,6 +7074,52 @@
       "street": "Hostovského 955"
     }
   },
+  "CZ5203091": {
+    "name": "Schnellladestation OMV Hradec Králové (sever)",
+    "sha1": "50f2d568dfe167d91fdafd73d9bf0a172ba72671",
+    "station": {
+      "additionalInfo": "Bei der OMV Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Hradec Králové",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ5203091",
+      "csName": "Schnellladestation OMV Hradec Králové (sever)",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the OMV gas station",
+      "enCsname": "Fast charger OMV Hradec Králové (sever)",
+      "evseId": "CZ*PRE*E1R5037*2",
+      "geoCoord": {
+        "latitude": "50.218091",
+        "longitude": "15.833807"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_hradec_kralove_sever.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "50002",
+      "region": "Královéhradecký kraj",
+      "street": "Okružní"
+    }
+  },
   "CZ5302630": {
     "name": "Ladestation Alza Pardubice",
     "sha1": "9035df9b6a45d62cb05644d926ef5c6e97f588f6",
