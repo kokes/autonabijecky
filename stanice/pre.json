@@ -5617,6 +5617,52 @@
       "street": "E65 Odpočívka, Naháč"
     }
   },
+  "CZ2003096": {
+    "name": "Schnellladestation OMV Vrbová Lhota (jih)",
+    "sha1": "fabc76a4365fa27119503b4bffa5818c0ba3de21",
+    "station": {
+      "additionalInfo": "Bei der OMV Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Vrbová Lhota",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2003096",
+      "csName": "Schnellladestation OMV Vrbová Lhota (jih)",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the OMV gas station",
+      "enCsname": "Fast charger OMV Vrbová Lhota (jih)",
+      "evseId": "CZ*PRE*E1R5030*2",
+      "geoCoord": {
+        "latitude": "50.120500",
+        "longitude": "15.081750"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_vrbova_lhota_jih_2.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "28911",
+      "region": "Středočeský kraj",
+      "street": "Čerpací stanice D11 35.km"
+    }
+  },
   "CZ3102615": {
     "name": "Schnellladestation ČEPRO Sedlice",
     "sha1": "d72e776f81ed7c666327c9b1dff01ff8bbdbc49d",
