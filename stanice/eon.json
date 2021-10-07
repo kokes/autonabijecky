@@ -12373,6 +12373,70 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "45157": {
+    "name": "(P) Apartmány Antonínov",
+    "sha1": "7a158d7ad6e2277f74febe0ed14dce053917b08f",
+    "station": {
+      "address": "Antonínov 70",
+      "city": "Josefův Důl",
+      "coordinates": {
+        "latitude": "50.77627764",
+        "longitude": "15.24367172"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.77627764",
+            "longitude": "15.24367172"
+          },
+          "evse_id": "CZ*EON*E22045157*1",
+          "last_seen_as_planned": "2021-10-06T14:58:34.21Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "45157"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "SPORT",
+        "RECREATION_AREA",
+        "NATURE"
+      ],
+      "id": "45157",
+      "last_updated": "RESET",
+      "name": "(P) Apartmány Antonínov",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Libor Kyjonka"
+      },
+      "owner": {
+        "name": "Libor Kyjonka"
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "46844",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "45158": {
     "name": "(P) Jarošovský pivovar",
     "sha1": "6892d0aafae4075fc39282f3f90a6337ef6ecfa2",
@@ -16818,14 +16882,14 @@
     }
   },
   "53808": {
-    "name": "E.ON Penny Znojmo",
-    "sha1": "877c90bf84138ac7d7b11a9aac35d381c9223bc0",
+    "name": "E.ON Koupaliště Soběslav",
+    "sha1": "95c34447b85ca92c028f92ddb9f8e6deb8e954dc",
     "station": {
-      "address": "Přímětická 2625/76",
-      "city": "Znojmo",
+      "address": "Tyršova",
+      "city": "Soběslav",
       "coordinates": {
-        "latitude": "48.8712286",
-        "longitude": "16.0401419"
+        "latitude": "49.26302873",
+        "longitude": "14.72217426"
       },
       "country": "CZE",
       "country_code": "CZ",
@@ -16875,8 +16939,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "48.8712286",
-            "longitude": "16.0401419"
+            "latitude": "49.26302873",
+            "longitude": "14.72217426"
           },
           "evse_id": "CZ*EON*E98053808*1",
           "last_seen_as_planned": "2021-03-29T14:12:52.35Z",
@@ -16910,8 +16974,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "48.8712286",
-            "longitude": "16.0401419"
+            "latitude": "49.26302873",
+            "longitude": "14.72217426"
           },
           "evse_id": "CZ*EON*E98053808*2",
           "last_seen_as_planned": "2021-03-29T14:13:08.253Z",
@@ -16925,7 +16989,7 @@
       ],
       "id": "53808",
       "last_updated": "RESET",
-      "name": "E.ON Penny Znojmo",
+      "name": "E.ON Koupaliště Soběslav",
       "opening_times": {
         "twentyfourseven": true
       },

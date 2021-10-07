@@ -5183,7 +5183,7 @@
   },
   "CZ2002685": {
     "name": "Schnellladestation Penny Beroun",
-    "sha1": "63acef9c4a49d83b46d44dc1d7a52df09431236a",
+    "sha1": "de96676b72f10ba40f65cc658dd79d2a4a5c209c",
     "station": {
       "additionalInfo": "Parkplatz des Penny-Marktes",
       "chargingFacilities": {
@@ -5207,6 +5207,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_penny_beroun_1.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
