@@ -4857,7 +4857,7 @@
   },
   "CZ1003084": {
     "name": "Schnellladestation EuroOil Praha 9",
-    "sha1": "e94c85198e14e76dc3632ac2c04b668a2ff9ac49",
+    "sha1": "c34719d36d38393798a83a2be47e9b40fb70f65a",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "chargingFacilities": {
@@ -4890,7 +4890,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -5229,7 +5229,7 @@
   },
   "CZ2002718": {
     "name": "Schnellladestation EuroOil Mladá Boleslav",
-    "sha1": "9eac5d336e313748e48d1585c8e9791928703b7c",
+    "sha1": "3f86188fa2d8bfbe6550f278e80c2a4b1c9cfb34",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "chargingFacilities": {
@@ -5255,7 +5255,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -5268,7 +5268,7 @@
   },
   "CZ2002721": {
     "name": "Schnellladestation EuroOil Břežany",
-    "sha1": "b34b05801ee264b02b80457240481088de56f1c4",
+    "sha1": "6bb5ecb0d23f1cd3570a6048daac71c9cdbbd5d9",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "chargingFacilities": {
@@ -5294,7 +5294,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -5509,7 +5509,7 @@
   },
   "CZ2002887": {
     "name": "Schnellladestation EuroOil Nehvizdy",
-    "sha1": "d2058d90fa4ae258591b654425175b3e8e5a6a6c",
+    "sha1": "2d5cef2f9ebea2428ba6e860d86e2bcbd15d265c",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "chargingFacilities": {
@@ -5522,7 +5522,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ2002887",
       "csName": "Schnellladestation EuroOil Nehvizdy",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the EuroOil gas station",
       "enCsname": "Fast charger EuroOil Nehvizdy",
@@ -5533,9 +5533,16 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_nehvizdy.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -5789,7 +5796,7 @@
   },
   "CZ3102741": {
     "name": "Schnellladestation EuroOil České Budějovice",
-    "sha1": "4c94709a3ac65687c577619337df560ba188d878",
+    "sha1": "5f3bb64633ba7b3fe8f2dccc612bad48f6075120",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
@@ -5815,7 +5822,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -5906,7 +5913,7 @@
   },
   "CZ3102889": {
     "name": "Schnellladestation EuroOil Tábor",
-    "sha1": "affb835fee9baf710832af3f0060b20429699be9",
+    "sha1": "8ea66ac4102b61088175c7f8b6390881e7e6f4e8",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "chargingFacilities": {
@@ -5932,7 +5939,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -6140,7 +6147,7 @@
   },
   "CZ3202905": {
     "name": "Schnellladestation EuroOil Manětín",
-    "sha1": "e81bd287c59656a16d60e63840e842638f9a46cb",
+    "sha1": "7fde7d398183f5bd0ae85d5a27bf48e36521698c",
     "station": {
       "additionalInfo": "Die Ladestation befindet bei der EuroOil-Tankstelle.",
       "chargingFacilities": {
@@ -6166,7 +6173,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -6342,7 +6349,7 @@
   },
   "CZ4202612": {
     "name": "Schnellladestation EuroOil Varnsdorf",
-    "sha1": "282e860aec450f6fb38201d9734ac2f91d113588",
+    "sha1": "9cb165fdce9b88999c11d343f03c664715adb0d1",
     "station": {
       "additionalInfo": "Von der Plzenská Straße",
       "chargingFacilities": {
@@ -6368,7 +6375,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -6381,7 +6388,7 @@
   },
   "CZ4202720": {
     "name": "Schnellladestation EuroOil Duchcov",
-    "sha1": "8118ab8439c50bc8cbeb7f982463121433f8e5f4",
+    "sha1": "9ff995c52fbcebec7ead718c6046ffdf921cf9a7",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "chargingFacilities": {
@@ -6407,7 +6414,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -6420,7 +6427,7 @@
   },
   "CZ4202722": {
     "name": "Schnellladestation EuroOil Kadaň",
-    "sha1": "c76f05efb6d9e58aa259876493e5f208b4daeb07",
+    "sha1": "1d4a01adbf75d2e8491e96ed03155668aae58d47",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "chargingFacilities": {
@@ -6446,7 +6453,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -6537,7 +6544,7 @@
   },
   "CZ4202801": {
     "name": "Schnellladestation EuroOil Děčín",
-    "sha1": "34fe35e2b18686e40d814208766247d3643b1ed2",
+    "sha1": "c858452a16f4474d56386b0c01636c4d5beb6ed1",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
@@ -6563,7 +6570,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -6654,7 +6661,7 @@
   },
   "CZ4202809": {
     "name": "Schnellladestation EuroOil Všebořice",
-    "sha1": "771fc169c89d3f303a8cc08c55992ae54e342a89",
+    "sha1": "7b1e9ad5f8627a7ad8109f094f54d07b81813a9f",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
@@ -6680,7 +6687,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -6693,7 +6700,7 @@
   },
   "CZ4202810": {
     "name": "Schnellladestation EuroOil Litoměřice",
-    "sha1": "f21350f86cc99cbf3e4f7068ccc6ac5a8b3897fe",
+    "sha1": "15583ee47a5ba6c258d73426586c442a97ccb4c9",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
@@ -6719,7 +6726,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -6732,7 +6739,7 @@
   },
   "CZ4203002": {
     "name": "Schnellladestation EuroOil Louny",
-    "sha1": "61755f904e653978843f4e65783ac8a9290cee3e",
+    "sha1": "8503f8e3ce887b48ff81c81c8146411743d25fd8",
     "station": {
       "additionalInfo": "Neben der EuroOil Tankstelle",
       "chargingFacilities": {
@@ -6765,7 +6772,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -6895,7 +6902,7 @@
   },
   "CZ5102724": {
     "name": "Schnellladestation EuroOil Jablonec nad Nisou",
-    "sha1": "31d93e6947ffdd6c6de3710fe0932e6ba8b6fd4f",
+    "sha1": "0fd7e5a2312a788d4b0db9a2f21ab87ce66b4d3e",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "chargingFacilities": {
@@ -6921,7 +6928,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -6973,7 +6980,7 @@
   },
   "CZ5202735": {
     "name": "Schnellladestation EuroOil Horní Nová Ves",
-    "sha1": "24b5e698ae0672ef84c0143275d24e09132bb624",
+    "sha1": "f7086f2081f3a12998a9d3d2fe85769e2874bd47",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
@@ -6999,7 +7006,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -7051,7 +7058,7 @@
   },
   "CZ5202997": {
     "name": "Schnellladestation EuroOil Jičín",
-    "sha1": "0b291281774f3ba252ed4f1401a7947a74ea6775",
+    "sha1": "cbc68ae91cd671a24507f7ee3b7e284e6317947a",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "chargingFacilities": {
@@ -7077,7 +7084,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -7090,7 +7097,7 @@
   },
   "CZ5203016": {
     "name": "Schnellladestation EuroOil Hronov",
-    "sha1": "e34980f71be095e5b868b188b3d69f904d3d1258",
+    "sha1": "de06b44c4e8157373b215e065ba7a55ff3d53ecf",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "chargingFacilities": {
@@ -7116,7 +7123,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -7292,7 +7299,7 @@
   },
   "CZ5302904": {
     "name": "Schnellladestation EuroOil Pardubice",
-    "sha1": "3efeeeeae192fcdec9aa60720196e4c1d7c8f7db",
+    "sha1": "09f5df8894131b8050d0c2069bd4caa385f4e956",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -7325,7 +7332,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -7416,7 +7423,7 @@
   },
   "CZ6303078": {
     "name": "Schnellladestation EuroOil Jihlava",
-    "sha1": "7f46ca6a4b73e7c8537e1e432ccee4b2f0d308e5",
+    "sha1": "4b9b5c99cc294e0f743e1c76c885a437f7e8feba",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
@@ -7449,7 +7456,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -7813,7 +7820,7 @@
   },
   "CZ6403085": {
     "name": "Schnellladestation EuroOil Brno Lesná",
-    "sha1": "ab03c2b973ef25825a3381586002c919a67ff4c0",
+    "sha1": "b7c958ddf7edf3e199ef819b390fd0b3bae1a49d",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "chargingFacilities": {
@@ -7846,7 +7853,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -7937,7 +7944,7 @@
   },
   "CZ7103001": {
     "name": "Schnellladestation EuroOil Šumperk",
-    "sha1": "a3c068bda098c9e55529689d72d445bebbfa3e93",
+    "sha1": "9aebe56a0c70eabd32e430e0a370fc64abed20a5",
     "station": {
       "additionalInfo": "Neben der EuroOil Tankstelle",
       "chargingFacilities": {
@@ -7963,7 +7970,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -8054,7 +8061,7 @@
   },
   "CZ7202900": {
     "name": "Schnellladestation EuroOil Vsetín",
-    "sha1": "a9d9864b110929efe02e8989781fd2c1b1a7d73f",
+    "sha1": "4f169abff0d8d6ca7b53fb6ccaa2bb633a2b121c",
     "station": {
       "additionalInfo": "By the EuroOil gas station",
       "chargingFacilities": {
@@ -8080,7 +8087,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -8256,7 +8263,7 @@
   },
   "CZ8002717": {
     "name": "Schnellladestation EuroOil Bílovec",
-    "sha1": "1ae96c73f72c3728fdf3b8c0204de6353ca55eaf",
+    "sha1": "ed4801e4bc4bb248bdc445b8b09c74f468f872c7",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "chargingFacilities": {
@@ -8282,7 +8289,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -8295,7 +8302,7 @@
   },
   "CZ8002736": {
     "name": "Schnellladestation EuroOil Vítkov",
-    "sha1": "10080cb5b6a36d7db682c9ca72d71d592a9fe920",
+    "sha1": "f4270cd8e0ce78db25799d6fc9214f379e3f4e94",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
@@ -8321,7 +8328,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -8334,7 +8341,7 @@
   },
   "CZ8002737": {
     "name": "Schnellladestation EuroOil Ostrava",
-    "sha1": "5c670415728ea93dc67a29f7d5cef528e793eeb3",
+    "sha1": "536db72b9e65a699b3c8c9d5d2c95fd0048212f9",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
@@ -8360,7 +8367,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -8412,7 +8419,7 @@
   },
   "CZ8002739": {
     "name": "Schnellladestation EuroOil Havířov",
-    "sha1": "65b8ceaaa16c0663745fc445850208b564e4378f",
+    "sha1": "da73fd39a95eb817d29ca8f1a9715661f321aebd",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
@@ -8438,7 +8445,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -8490,7 +8497,7 @@
   },
   "CZ8002805": {
     "name": "Schnellladestation EuroOil Petřvald",
-    "sha1": "1cb252aecc3a2027a0b903f45f2b5e71022c4702",
+    "sha1": "ad8638750d1b003d6cf2e422c8755123c1bdfff6",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
@@ -8516,7 +8523,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
@@ -8529,7 +8536,7 @@
   },
   "CZ8002841": {
     "name": "Schnellladestation EuroOil Karviná",
-    "sha1": "915f67673b1701cbd4802b4d1520fe7bd563857c",
+    "sha1": "2f3ac81af5b7f3e710603f07eee963d94e0b3766",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
@@ -8555,7 +8562,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
