@@ -2086,7 +2086,7 @@
   },
   "CZ1002661": {
     "name": "Ladestation TS 4133 Třanovského",
-    "sha1": "0114f3a5163d2ea2dacb4b2395592c6427ac6d2a",
+    "sha1": "fde6f5d83862263d033da0c9830839a849b76437",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4133",
       "chargingFacilities": {
@@ -2103,7 +2103,7 @@
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station 4133",
       "enCsname": "Charger TS 4133 Třanovského",
-      "evseId": "CZ*PRE*E1R7033*1",
+      "evseId": "CZ*PRE*E1S7033*1",
       "geoCoord": {
         "latitude": "50.074323",
         "longitude": "14.317259"
@@ -3010,7 +3010,7 @@
   },
   "CZ1002731": {
     "name": "Ladestation TS 3391 Machuldova",
-    "sha1": "c7b2f0d731bc9b6c69c42f07da753a679f4a7c8b",
+    "sha1": "a8779049ee526445c24a16368fa4c010bb253f6e",
     "station": {
       "additionalInfo": "Bei der Transformatorstation",
       "chargingFacilities": {
@@ -3027,7 +3027,7 @@
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station",
       "enCsname": "Charger TS 3391 Machuldova",
-      "evseId": "CZ*PRE*E1R7080*2",
+      "evseId": "CZ*PRE*E1S7080*2",
       "geoCoord": {
         "latitude": "50.010135",
         "longitude": "14.454057"

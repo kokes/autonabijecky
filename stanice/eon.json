@@ -12375,7 +12375,7 @@
   },
   "45157": {
     "name": "(P) Apartmány Antonínov",
-    "sha1": "7a158d7ad6e2277f74febe0ed14dce053917b08f",
+    "sha1": "b81f41437fba7b0ae8c72c80bb79c6c37c259d76",
     "station": {
       "address": "Antonínov 70",
       "city": "Josefův Důl",
@@ -12396,7 +12396,22 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-10-08T18:49:53.99Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "107",
+                "108"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.77627764",
             "longitude": "15.24367172"
