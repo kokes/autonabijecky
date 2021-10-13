@@ -6599,7 +6599,7 @@
   },
   "149926": {
     "name": "N147 - Havlíčkův Brod",
-    "sha1": "69425044066dae5004034d94c9e1a2ec3efcb330",
+    "sha1": "5219d0e04c7cd43e320bd9b8f1b9a391cfbc9b2e",
     "station": {
       "address": {
         "city": "Havlíčkův Brod",
@@ -6651,7 +6651,11 @@
           "physicalReference": "N147"
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/10/shell-humpolec-3.jpg"
+        }
+      ],
       "instructions": null,
       "name": "N147 - Havlíčkův Brod",
       "visible": true
@@ -6659,7 +6663,7 @@
   },
   "150691": {
     "name": "R370 - Polička - Benzina",
-    "sha1": "9f6ea61fd35702c7c9f74eb2add3ba44fea58d9e",
+    "sha1": "e8d3e3894d89120530e0f7b65d58bf37d5557e50",
     "station": {
       "address": {
         "city": "Polička",
@@ -6720,9 +6724,159 @@
           "physicalReference": "R370"
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/10/shell-humpolec-3.jpg"
+        }
+      ],
       "instructions": null,
       "name": "R370 - Polička - Benzina",
+      "visible": true
+    }
+  },
+  "151063": {
+    "name": "R366 - Humpolec - Shell - 1",
+    "sha1": "afd9fb87b8a9444c82e39efb8fa5ee819dfa44da",
+    "station": {
+      "address": {
+        "city": "Humpolec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "D1 - směr Praha",
+        "latitude": 49.5361514,
+        "longitude": 15.3339711,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "dálnice",
+        "url": ""
+      },
+      "customID": "151063",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-0821-002",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R366"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0821-002",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0821-002",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R366"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/10/shell-humpolec-3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R366 - Humpolec - Shell - 1",
+      "visible": true
+    }
+  },
+  "151064": {
+    "name": "R367 - Humpolec - Shell - 2",
+    "sha1": "5b08698eda9c859aa14069b49587d824363848d4",
+    "station": {
+      "address": {
+        "city": "Humpolec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "D1 - směr Praha",
+        "latitude": 49.5361514,
+        "longitude": 15.3339,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "dálnice",
+        "url": ""
+      },
+      "customID": "151064",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1221-012",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R367"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1221-012",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1221-012",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R367"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/10/shell-humpolec-3-20211012-115921.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R367 - Humpolec - Shell - 2",
       "visible": true
     }
   },
