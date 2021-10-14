@@ -10925,6 +10925,119 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "35923": {
+    "name": "E.ON Letiště Brno",
+    "sha1": "555e851c5930084846d4c9c01c6b8cbf9d6366b9",
+    "station": {
+      "address": "Letiště Brno-Tuřany 904/1",
+      "city": "Brno",
+      "coordinates": {
+        "latitude": "49.15520932",
+        "longitude": "16.69121257"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-10-13T11:04:38.61Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.15520932",
+            "longitude": "16.69121257"
+          },
+          "evse_id": "CZ*EON*E35923",
+          "last_seen_as_planned": "2021-10-13T11:04:38.61Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35923"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-10-13T11:04:38.61Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.15520932",
+            "longitude": "16.69121257"
+          },
+          "evse_id": "CZ*EON*E35924",
+          "last_seen_as_planned": "2021-10-13T11:04:38.61Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35924"
+        }
+      ],
+      "facilities": [
+        "AIRPORT"
+      ],
+      "id": "35923",
+      "last_updated": "RESET",
+      "name": "E.ON Letiště Brno",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Energie, a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "627 00",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "ELEXIM, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "35925": {
     "name": "E.ON Kroměříž",
     "sha1": "87cb8a10401edff171550c5667ce030f506b3cd8",
@@ -15335,8 +15448,8 @@
     }
   },
   "53784": {
-    "name": "E.ON Pardubice Penny",
-    "sha1": "9c3c00f30756263481e19a82c73c16f694530666",
+    "name": "E.ON Penny Pardubice",
+    "sha1": "971217f7a2d69f7634fd6c358bc6945ad251aca4",
     "station": {
       "address": "Teplého 2806",
       "city": "Pardubice V - Zelené Předměstí",
@@ -15396,7 +15509,7 @@
             "longitude": "15.7613447"
           },
           "evse_id": "CZ*EON*E98053784*1",
-          "last_seen_as_planned": "2021-03-31T10:52:35.53Z",
+          "last_seen_as_planned": "2021-10-13T06:28:54.353Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53784"
@@ -15431,7 +15544,7 @@
             "longitude": "15.7613447"
           },
           "evse_id": "CZ*EON*E98053784*2",
-          "last_seen_as_planned": "2021-03-26T08:08:29.9Z",
+          "last_seen_as_planned": "2021-10-13T06:28:54.353Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53785"
@@ -15443,12 +15556,12 @@
       ],
       "id": "53784",
       "last_updated": "RESET",
-      "name": "E.ON Pardubice Penny",
+      "name": "E.ON Penny Pardubice",
       "opening_times": {
         "twentyfourseven": true
       },
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "E.ON Česká republika, s. r. o."
       },
       "owner": {
         "name": "E.ON Česká republika, s. r. o."
@@ -16898,7 +17011,7 @@
   },
   "53808": {
     "name": "E.ON Koupaliště Soběslav",
-    "sha1": "95c34447b85ca92c028f92ddb9f8e6deb8e954dc",
+    "sha1": "b0ebd5422f1db7cd3a97438d6f99de48316a4dce",
     "station": {
       "address": "Tyršova",
       "city": "Soběslav",
@@ -16958,7 +17071,7 @@
             "longitude": "14.72217426"
           },
           "evse_id": "CZ*EON*E98053808*1",
-          "last_seen_as_planned": "2021-03-29T14:12:52.35Z",
+          "last_seen_as_planned": "2021-10-13T06:26:30.75Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53808"
@@ -16993,14 +17106,16 @@
             "longitude": "14.72217426"
           },
           "evse_id": "CZ*EON*E98053808*2",
-          "last_seen_as_planned": "2021-03-29T14:13:08.253Z",
+          "last_seen_as_planned": "2021-10-13T06:26:30.75Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53809"
         }
       ],
       "facilities": [
-        "SUPERMARKET"
+        "SPORT",
+        "RECREATION_AREA",
+        "NATURE"
       ],
       "id": "53808",
       "last_updated": "RESET",
@@ -17009,7 +17124,7 @@
         "twentyfourseven": true
       },
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "E.ON Česká republika, s. r. o."
       },
       "owner": {
         "name": "E.ON Česká republika, s. r. o."
@@ -18062,13 +18177,13 @@
   },
   "53826": {
     "name": "E.ON Pelhřimov centrum",
-    "sha1": "8a77c3651196911f274e92bc8f2e211ced4a6846",
+    "sha1": "40b1de2caf8cdb194f8cc45501ccccfbc34af650",
     "station": {
       "address": "Solní",
       "city": "Pelhřimov",
       "coordinates": {
-        "latitude": "49.4318806",
-        "longitude": "15.2223469"
+        "latitude": "49.43184892",
+        "longitude": "15.22218281"
       },
       "country": "CZE",
       "country_code": "CZ",
@@ -18118,11 +18233,11 @@
             }
           ],
           "coordinates": {
-            "latitude": "49.4318806",
-            "longitude": "15.2223469"
+            "latitude": "49.43184892",
+            "longitude": "15.22218281"
           },
           "evse_id": "CZ*EON*E98053826*1",
-          "last_seen_as_planned": "2021-03-30T13:33:43.35Z",
+          "last_seen_as_planned": "2021-10-13T06:24:52.807Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53826"
@@ -18153,11 +18268,11 @@
             }
           ],
           "coordinates": {
-            "latitude": "49.4318806",
-            "longitude": "15.2223469"
+            "latitude": "49.43184892",
+            "longitude": "15.22218281"
           },
           "evse_id": "CZ*EON*E98053826*2",
-          "last_seen_as_planned": "2021-03-30T13:33:55.323Z",
+          "last_seen_as_planned": "2021-10-13T06:24:52.807Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53827"
@@ -18167,7 +18282,8 @@
         "HOTEL",
         "RESTAURANT",
         "CAFE",
-        "MALL"
+        "MALL",
+        "MUSEUM"
       ],
       "id": "53826",
       "last_updated": "RESET",
@@ -18176,7 +18292,7 @@
         "twentyfourseven": true
       },
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "E.ON Česká republika, s. r. o."
       },
       "owner": {
         "name": "E.ON Česká republika, s. r. o."
