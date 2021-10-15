@@ -1376,7 +1376,7 @@
   },
   "15025": {
     "name": "E.ON Vystrkov",
-    "sha1": "a93df5d19d4eeda5b82f8b3f8a3a495181aac295",
+    "sha1": "e0a0f3f7e96b08d64554f1927c1367e3d86c3210",
     "station": {
       "address": "Čerpací stanice Benzina na E551",
       "city": "Vystrkov",
@@ -1420,6 +1420,7 @@
             "longitude": "15.34748317"
           },
           "evse_id": "CZ*EON*E31015025*1",
+          "floor_level": "0",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -18177,7 +18178,7 @@
   },
   "53826": {
     "name": "E.ON Pelhřimov centrum",
-    "sha1": "40b1de2caf8cdb194f8cc45501ccccfbc34af650",
+    "sha1": "5ad587820dc1915857b4831dc0e2293158afd52c",
     "station": {
       "address": "Solní",
       "city": "Pelhřimov",
@@ -18237,7 +18238,7 @@
             "longitude": "15.22218281"
           },
           "evse_id": "CZ*EON*E98053826*1",
-          "last_seen_as_planned": "2021-10-13T06:24:52.807Z",
+          "last_seen_as_planned": "2021-10-14T07:40:15.477Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53826"
@@ -18272,7 +18273,7 @@
             "longitude": "15.22218281"
           },
           "evse_id": "CZ*EON*E98053826*2",
-          "last_seen_as_planned": "2021-10-13T06:24:52.807Z",
+          "last_seen_as_planned": "2021-10-14T07:40:15.477Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53827"
