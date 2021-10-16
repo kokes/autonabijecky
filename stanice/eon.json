@@ -16622,7 +16622,7 @@
   },
   "53802": {
     "name": "E.ON Penny Hořovice",
-    "sha1": "05cdc79b8213c4bc409a5de9ecfe2276acb17c75",
+    "sha1": "b96df65ad686be9b1d6d32b97ee2f1aa666ec36c",
     "station": {
       "address": "Masarykova 1458/29",
       "city": "Hořovice",
@@ -16682,7 +16682,7 @@
             "longitude": "13.8970447"
           },
           "evse_id": "CZ*EON*E98053802*1",
-          "last_seen_as_planned": "2021-03-29T13:47:43.21Z",
+          "last_seen_as_planned": "2021-10-15T07:36:10.417Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53802"
@@ -16717,7 +16717,7 @@
             "longitude": "13.8970447"
           },
           "evse_id": "CZ*EON*E98053802*2",
-          "last_seen_as_planned": "2021-03-29T13:47:57.673Z",
+          "last_seen_as_planned": "2021-10-15T07:36:10.417Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53803"
@@ -17143,7 +17143,7 @@
   },
   "53810": {
     "name": "E.ON Penny Dobřany",
-    "sha1": "7f48678676f0c7d04ada74a49ef0e4a5d4c4fcb7",
+    "sha1": "67c8ce115dc7af7c2d71af1d88076dbfd4570e97",
     "station": {
       "address": "tř. 1. máje 1300",
       "city": "Dobřany",
@@ -17203,7 +17203,7 @@
             "longitude": "13.2963183"
           },
           "evse_id": "CZ*EON*E98053810*1",
-          "last_seen_as_planned": "2021-03-29T14:17:46.323Z",
+          "last_seen_as_planned": "2021-10-15T07:37:11.473Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53810"
@@ -17238,7 +17238,7 @@
             "longitude": "13.2963183"
           },
           "evse_id": "CZ*EON*E98053810*2",
-          "last_seen_as_planned": "2021-03-29T14:18:01.627Z",
+          "last_seen_as_planned": "2021-10-15T07:37:11.473Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53811"
