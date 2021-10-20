@@ -11155,7 +11155,7 @@
   },
   "35953": {
     "name": "E.ON Kraví hora",
-    "sha1": "8f6ac6468ec121f5583472d9f5b8e3cfb8b806a3",
+    "sha1": "41dca30201a83ebad29f6482989c15dc021a55e7",
     "station": {
       "address": "Bořetice 510",
       "city": "Bořetice",
@@ -11199,7 +11199,7 @@
             "longitude": "16.84634932"
           },
           "evse_id": "CZ*EON*E25035953*1",
-          "last_seen_as_planned": "2021-02-08T15:50:13.513Z",
+          "last_seen_as_planned": "2021-10-19T17:26:58.907Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35953"
@@ -11234,7 +11234,7 @@
             "longitude": "16.84634932"
           },
           "evse_id": "CZ*EON*E25035953*2",
-          "last_seen_as_planned": "2021-02-08T15:50:13.513Z",
+          "last_seen_as_planned": "2021-10-19T17:26:58.907Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35954"
