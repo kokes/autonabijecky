@@ -11458,7 +11458,7 @@
   },
   "36614": {
     "name": "(P) Autodružstvo Znojmo",
-    "sha1": "53e019d72e4088fa8f73b77d3691809ee5c5ed7f",
+    "sha1": "93377ace0463bd5f7c92bf58921d2e9f1a0c5655",
     "station": {
       "address": "Vídeňská tř. 2573",
       "city": "Znojmo",
@@ -11545,11 +11545,6 @@
           "category": "OTHER",
           "type": "jpg",
           "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/45883/1603367195.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/45883/1603367216.jpg"
         }
       ],
       "last_updated": "RESET",
@@ -19411,7 +19406,7 @@
   },
   "65928": {
     "name": "(P) Milan Král a.s.",
-    "sha1": "7a7342aaaec9f29157a4ac666906d25dd90b2a1b",
+    "sha1": "cbd9f7f5964dd979d3926929241dd30919e73ddf",
     "station": {
       "address": "Pod Stromovkou 201",
       "city": "Litvínovice",
@@ -19432,13 +19427,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-10-20T09:20:46.75Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "99",
+                "100"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.964291",
             "longitude": "14.458477"
           },
           "evse_id": "CZ*EON*E22065927*1",
-          "last_seen_as_planned": "2021-07-21T05:46:58.68Z",
+          "last_seen_as_planned": "2021-10-20T09:17:08.517Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "65927"
@@ -19450,13 +19460,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-10-20T09:20:46.75Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "99",
+                "100"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.964291",
             "longitude": "14.458477"
           },
           "evse_id": "CZ*EON*E22065928*1",
-          "last_seen_as_planned": "2021-07-21T05:46:58.68Z",
+          "last_seen_as_planned": "2021-10-20T09:17:08.517Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "65928"
@@ -19466,6 +19491,13 @@
         "FUEL_STATION"
       ],
       "id": "65928",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/73904/485701634722473.jpg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "(P) Milan Král a.s.",
       "opening_times": {
