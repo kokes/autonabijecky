@@ -13157,6 +13157,267 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "51415": {
+    "name": "E.ON Malenovice",
+    "sha1": "483324bee902a4993a0644f1ae599a222e233382",
+    "station": {
+      "address": "Tečovská 1131",
+      "city": "Zlín - Malenovice",
+      "coordinates": {
+        "latitude": "49.2122124",
+        "longitude": "17.59286048"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-10-22T08:38:10.533Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.2122124",
+            "longitude": "17.59286048"
+          },
+          "evse_id": "CZ*EON*E11051415*1",
+          "last_seen_as_planned": "2021-10-22T08:38:10.533Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51415"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2021-10-22T08:38:10.533Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2021-10-22T08:38:10.533Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.2122124",
+            "longitude": "17.59286048"
+          },
+          "evse_id": "CZ*EON*E11051415*2",
+          "last_seen_as_planned": "2021-10-22T08:38:10.533Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51416"
+        }
+      ],
+      "facilities": [
+        "CAFE"
+      ],
+      "id": "51415",
+      "last_updated": "RESET",
+      "name": "E.ON Malenovice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "76302",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51417": {
+    "name": "E.ON NC Haná Prostějov",
+    "sha1": "287d2203192c3b19132dfb5076115558aa20c981",
+    "station": {
+      "address": "Plumlovská 4126",
+      "city": "Prostějov",
+      "coordinates": {
+        "latitude": "49.4722039",
+        "longitude": "17.09623066"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-10-22T08:29:56.623Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.4722039",
+            "longitude": "17.09623066"
+          },
+          "evse_id": "CZ*EON*E11051417*1",
+          "last_seen_as_planned": "2021-10-22T08:29:56.623Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51417"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2021-10-22T08:29:56.623Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2021-10-22T08:29:56.623Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.4722039",
+            "longitude": "17.09623066"
+          },
+          "evse_id": "CZ*EON*E11051417*2",
+          "last_seen_as_planned": "2021-10-22T08:29:56.623Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51418"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "MALL",
+        "SUPERMARKET"
+      ],
+      "id": "51417",
+      "last_updated": "RESET",
+      "name": "E.ON NC Haná Prostějov",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "79604",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "51498": {
     "name": "E.ON Dolní Dvořiště",
     "sha1": "c93819386cd20f8de70bfea2226a3563fec6d6f7",
@@ -19802,6 +20063,112 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "384 62",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "66856": {
+    "name": "(P) Teplárna Liberec a.s.",
+    "sha1": "9260e71775ad9a8117d1ce4a0048e7582953b0aa",
+    "station": {
+      "address": "Dr. Milady Horákové 641/34a",
+      "city": "Liberec IV-Perštýn",
+      "coordinates": {
+        "latitude": "50.758022",
+        "longitude": "15.059655"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2021-10-22T10:25:53.657Z",
+              "max_amperage": 250,
+              "max_electric_power": 75000,
+              "max_voltage": 1000,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "110",
+                "112"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.758022",
+            "longitude": "15.059655"
+          },
+          "evse_id": "CZ*EON*E32066856*1",
+          "last_seen_as_planned": "2021-10-22T10:25:53.657Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "66856"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-10-22T10:23:05.2Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "109",
+                "111"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.758022",
+            "longitude": "15.059655"
+          },
+          "evse_id": "CZ*EON*E32066856*2",
+          "last_seen_as_planned": "2021-10-22T10:23:05.2Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "66857"
+        }
+      ],
+      "id": "66856",
+      "last_updated": "RESET",
+      "name": "(P) Teplárna Liberec a.s.",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Teplárna Liberec, a.s."
+      },
+      "owner": {
+        "name": "Teplárna Liberec, a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "46001",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {

@@ -16308,6 +16308,70 @@
       "visible": true
     }
   },
+  "59564": {
+    "name": "Loket - Ultrarychlá dobíjecí stanice - McDonalds, D1/66. km - 1",
+    "sha1": "8014cdcb94b1da5be543021c859105785bee26e3",
+    "station": {
+      "address": {
+        "city": "Čechtice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "63",
+        "latitude": 49.6585,
+        "longitude": 15.1183,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Čechtice",
+        "url": ""
+      },
+      "customID": "59564",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "Ultra URDS"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "Ultra URDS"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/dukovany.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "Loket - Ultrarychlá dobíjecí stanice - McDonalds, D1/66. km - 1",
+      "visible": true
+    }
+  },
   "59565": {
     "name": "Praha-Evropská - Mc Donald's",
     "sha1": "bda81015101eaab23dfdabc60e088ca9bd4d4c28",
