@@ -6024,7 +6024,7 @@
   },
   "CZ3202877": {
     "name": "Schnellladestation Rentiro SE 2",
-    "sha1": "0d7dc052e956f0e0ed3a6f2b8ab1d62cea847ae5",
+    "sha1": "2c3084a98a412511e5aa8e6e7c1d62ec58b31544",
     "station": {
       "additionalInfo": "Bei der Rentiro Zentrale",
       "chargingFacilities": {
@@ -6048,6 +6048,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_rentiro_se_2_3.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
@@ -6063,7 +6070,7 @@
   },
   "CZ3202886": {
     "name": "Ladestation Rentiro SE 1",
-    "sha1": "688e47ab745f9e2e5418c83a7ae0ceb738a1c9ab",
+    "sha1": "106dce200a6fa5436cdf02c0b84bb7454f58ae30",
     "station": {
       "additionalInfo": "Bei der Rentiro Zentrale",
       "chargingFacilities": {
@@ -6087,6 +6094,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_rentiro_se_2_3.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
