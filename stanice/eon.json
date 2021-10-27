@@ -13159,7 +13159,7 @@
   },
   "51415": {
     "name": "E.ON Malenovice",
-    "sha1": "483324bee902a4993a0644f1ae599a222e233382",
+    "sha1": "f8e8bbf8412107294e6f0ca6cf297598de17b3b9",
     "station": {
       "address": "Tečovská 1131",
       "city": "Zlín - Malenovice",
@@ -13219,12 +13219,12 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2021-10-22T08:38:10.533Z",
+              "last_updated": "2021-10-26T22:01:14.017Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
               "power_type": "DC",
-              "standard": "CHADEMO",
+              "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
                 "2",
                 "5",
@@ -13235,12 +13235,12 @@
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2021-10-22T08:38:10.533Z",
+              "last_updated": "2021-10-26T22:01:14.017Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
               "power_type": "DC",
-              "standard": "IEC_62196_T2_COMBO",
+              "standard": "CHADEMO",
               "tariff_ids": [
                 "2",
                 "5",
