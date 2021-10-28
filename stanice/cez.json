@@ -6880,9 +6880,69 @@
       "visible": true
     }
   },
+  "151545": {
+    "name": "N153 - Sepetná - Horský hotel",
+    "sha1": "c849b7067ed1b1dbd5c0388d4be8c3fa0740fc56",
+    "station": {
+      "address": {
+        "city": "Sepetná",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.5497099,
+        "longitude": 18.4050232,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "",
+        "url": ""
+      },
+      "customID": "151545",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N153"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N153"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "N153 - Sepetná - Horský hotel",
+      "visible": true
+    }
+  },
   "59409": {
-    "name": "Ostrava - Úřad Moravskoslezského kraje",
-    "sha1": "2da7972d18c9991b34f0873112d7f23d1a4db7dc",
+    "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
+    "sha1": "b57b81fd6ee9b18afc4845f94aaa97f75ce4f86a",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -6909,7 +6969,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "41",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -6917,13 +6977,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "41"
+          "physicalReference": "N116"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "41",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 22,
@@ -6931,7 +6991,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "41"
+          "physicalReference": "N116"
         }
       ],
       "images": [
@@ -6940,13 +7000,13 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrava - Úřad Moravskoslezského kraje",
+      "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
       "visible": true
     }
   },
   "59410": {
-    "name": "Praha 8 - AAA Auto",
-    "sha1": "cb5a50e9cf85dbcfc2d9f89ae99d4000974c5669",
+    "name": "N023 - Praha 8 - AAA Auto",
+    "sha1": "4bf42fb1632e88c150c2efc0bca48fcdbd602517",
     "station": {
       "address": {
         "city": "Praha 8",
@@ -6981,7 +7041,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "23"
+          "physicalReference": "N023"
         },
         {
           "connectors": [
@@ -6995,7 +7055,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "23"
+          "physicalReference": "N023"
         }
       ],
       "images": [
@@ -7004,7 +7064,7 @@
         }
       ],
       "instructions": null,
-      "name": "Praha 8 - AAA Auto",
+      "name": "N023 - Praha 8 - AAA Auto",
       "visible": true
     }
   },
@@ -7082,8 +7142,8 @@
     }
   },
   "59415": {
-    "name": "Kladno - V-Group",
-    "sha1": "67bf00ba55ec9c633d90b06f488bd2a1ab9cf2d0",
+    "name": "R124 - Kladno - V-Group",
+    "sha1": "aa863f2c4af046ad733d4ed0921dfad3ad9d9e03",
     "station": {
       "address": {
         "city": "Kladno",
@@ -7150,7 +7210,7 @@
         }
       ],
       "instructions": null,
-      "name": "Kladno - V-Group",
+      "name": "R124 - Kladno - V-Group",
       "visible": true
     }
   },
@@ -7474,70 +7534,6 @@
       "visible": true
     }
   },
-  "59427": {
-    "name": "Praha - Národní divadlo",
-    "sha1": "f7a189d240acc09a40093b5cc478adc3bd943a0f",
-    "station": {
-      "address": {
-        "city": "Praha 1",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "225/1",
-        "latitude": 50.0806396,
-        "longitude": 14.414286599999969,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Ostrovní",
-        "url": ""
-      },
-      "customID": "59427",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "27",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "27"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "27",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "27"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/narodni-divadlo.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "Praha - Národní divadlo",
-      "visible": true
-    }
-  },
   "59428": {
     "name": "N012 - Praha - Novodvorská Plaza",
     "sha1": "b04950d8471ee40004ebe7fe763a309887c12cef",
@@ -7667,8 +7663,8 @@
     }
   },
   "59430": {
-    "name": "Plzeň - OC Plaza",
-    "sha1": "8988bc21977cc366dd04edf0cbe4e02b9ce3359f",
+    "name": "N122 - Plzeň - OC Plaza",
+    "sha1": "a0d2863bcfbc0d7eb39371afac1c2d37355b9e0c",
     "station": {
       "address": {
         "city": "Plzeň",
@@ -7703,7 +7699,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "6"
+          "physicalReference": "N122"
         },
         {
           "connectors": [
@@ -7717,7 +7713,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "6"
+          "physicalReference": "N122"
         }
       ],
       "images": [
@@ -7726,13 +7722,13 @@
         }
       ],
       "instructions": null,
-      "name": "Plzeň - OC Plaza",
+      "name": "N122 - Plzeň - OC Plaza",
       "visible": true
     }
   },
   "59433": {
-    "name": "Praha - Arkády Pankrác",
-    "sha1": "c2f9c1d92ebb85556fe4151c8c03c56d4b5c55c3",
+    "name": "N025 - Praha - Arkády Pankrác",
+    "sha1": "a6794af31a1cc26720d98f7ff1228b69a8342703",
     "station": {
       "address": {
         "city": "Praha",
@@ -7759,7 +7755,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "25",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 11,
@@ -7767,13 +7763,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "25"
+          "physicalReference": "N025"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "25",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 11,
@@ -7781,7 +7777,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "25"
+          "physicalReference": "N025"
         }
       ],
       "images": [
@@ -7790,13 +7786,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha - Arkády Pankrác",
+      "name": "N025 - Praha - Arkády Pankrác",
       "visible": true
     }
   },
   "59437": {
-    "name": "Sedlec-Prčice",
-    "sha1": "9afce8925ca2772f2ae13c91d015e569392d5c76",
+    "name": "N037 - Sedlec-Prčice",
+    "sha1": "30aa508df1bf6f92da84eb302e95f48c3c10ab3d",
     "station": {
       "address": {
         "city": "Sedlec-Prčice",
@@ -7823,7 +7819,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "37",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 11,
@@ -7831,13 +7827,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "37"
+          "physicalReference": "N037"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "37",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 11,
@@ -7845,7 +7841,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "37"
+          "physicalReference": "N037"
         }
       ],
       "images": [
@@ -7854,13 +7850,13 @@
         }
       ],
       "instructions": null,
-      "name": "Sedlec-Prčice",
+      "name": "N037 - Sedlec-Prčice",
       "visible": true
     }
   },
   "59438": {
-    "name": "Trutnov - Autostyl",
-    "sha1": "cb9c5fb4f5178fc599344a29a696a75410a11393",
+    "name": "N018 - Trutnov - Autostyl",
+    "sha1": "f1fc56f6d2018e0010b64a321d24acb64fdd3140",
     "station": {
       "address": {
         "city": "Trutnov",
@@ -7895,7 +7891,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "18"
+          "physicalReference": "N018"
         },
         {
           "connectors": [
@@ -7909,7 +7905,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "18"
+          "physicalReference": "N018"
         }
       ],
       "images": [
@@ -7918,7 +7914,7 @@
         }
       ],
       "instructions": null,
-      "name": "Trutnov - Autostyl",
+      "name": "N018 - Trutnov - Autostyl",
       "visible": true
     }
   },
@@ -8124,8 +8120,8 @@
     }
   },
   "59442": {
-    "name": "Praha - Chodov Park",
-    "sha1": "fa8964a42fe7eba7d4a9d3c9b56eaefd232c3f4e",
+    "name": "N129 - Praha - Chodov Park",
+    "sha1": "aebed9d00b9cb3797b1d2370b85e9d11697415a3",
     "station": {
       "address": {
         "city": "Praha 4 - Chodov",
@@ -8152,7 +8148,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "2",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 11,
@@ -8160,13 +8156,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "2"
+          "physicalReference": "N129"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "2",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 11,
@@ -8174,7 +8170,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "2"
+          "physicalReference": "N129"
         }
       ],
       "images": [
@@ -8183,7 +8179,7 @@
         }
       ],
       "instructions": null,
-      "name": "Praha - Chodov Park",
+      "name": "N129 - Praha - Chodov Park",
       "visible": true
     }
   },
@@ -9037,8 +9033,8 @@
     }
   },
   "59460": {
-    "name": "Hrušovany",
-    "sha1": "63083991701136b445a6b228bacfc97d40c9b5e3",
+    "name": "N019 - Hrušovany",
+    "sha1": "fd86b71339d0c9f56cca6800d7837242f855bef2",
     "station": {
       "address": {
         "city": "Vysočany",
@@ -9065,7 +9061,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "19",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -9073,13 +9069,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "19"
+          "physicalReference": "N019"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "19",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 22,
@@ -9087,7 +9083,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "19"
+          "physicalReference": "N019"
         }
       ],
       "images": [
@@ -9096,7 +9092,7 @@
         }
       ],
       "instructions": null,
-      "name": "Hrušovany",
+      "name": "N019 - Hrušovany",
       "visible": true
     }
   },
@@ -10370,8 +10366,8 @@
     }
   },
   "59479": {
-    "name": "Bílina - Elektrárna Ledvice - 2",
-    "sha1": "febb5f9d639ad43960b7e08e048666961d23a44c",
+    "name": "N015 - Bílina - Elektrárna Ledvice - 2",
+    "sha1": "ba879d25062be06fb9016fb7f37c04c2fcb1ff22",
     "station": {
       "address": {
         "city": "Bílina",
@@ -10398,7 +10394,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "15",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -10406,13 +10402,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "15"
+          "physicalReference": "N015"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "15",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 22,
@@ -10420,7 +10416,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "15"
+          "physicalReference": "N015"
         }
       ],
       "images": [
@@ -10429,13 +10425,13 @@
         }
       ],
       "instructions": null,
-      "name": "Bílina - Elektrárna Ledvice - 2",
+      "name": "N015 - Bílina - Elektrárna Ledvice - 2",
       "visible": true
     }
   },
   "59481": {
-    "name": "Praha - OC Nový Smíchov - 1",
-    "sha1": "e70586d652763d9eaea3c25bd5daa31dc906a37a",
+    "name": "N138 - Praha - OC Nový Smíchov - 1",
+    "sha1": "08386e1b7828390a55bade5c946135cce7d1e24f",
     "station": {
       "address": {
         "city": "Praha 5",
@@ -10470,7 +10466,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "4"
+          "physicalReference": "N138"
         },
         {
           "connectors": [
@@ -10484,7 +10480,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "4"
+          "physicalReference": "N138"
         }
       ],
       "images": [
@@ -10493,7 +10489,7 @@
         }
       ],
       "instructions": null,
-      "name": "Praha - OC Nový Smíchov - 1",
+      "name": "N138 - Praha - OC Nový Smíchov - 1",
       "visible": true
     }
   },
@@ -10562,8 +10558,8 @@
     }
   },
   "59483": {
-    "name": "Trmice - Teplárna Trmice",
-    "sha1": "917be3d23eab699d3e81e072402e799be482964f",
+    "name": "R125 - Trmice - Teplárna Trmice",
+    "sha1": "361199de7747ba8909bba08fc6385e590bb3b19a",
     "station": {
       "address": {
         "city": "Trmice",
@@ -10630,13 +10626,13 @@
         }
       ],
       "instructions": null,
-      "name": "Trmice - Teplárna Trmice",
+      "name": "R125 - Trmice - Teplárna Trmice",
       "visible": true
     }
   },
   "59484": {
-    "name": "Bílina - Elektrárna Ledvice",
-    "sha1": "f47b0f95d2f4a1e1f270abd0ec23abeb06e73a7c",
+    "name": "R113 - Bílina - Elektrárna Ledvice",
+    "sha1": "cb90e04fe1fcaf16fc615ae71ced567ffa5fd76a",
     "station": {
       "address": {
         "city": "Bílina",
@@ -10703,13 +10699,13 @@
         }
       ],
       "instructions": null,
-      "name": "Bílina - Elektrárna Ledvice",
+      "name": "R113 - Bílina - Elektrárna Ledvice",
       "visible": true
     }
   },
   "59485": {
-    "name": "Mělník-Horní Počaply - Elektrárna Mělník - 2",
-    "sha1": "f5d8bf677d9d58213c99a4a9edceff762156e8ba",
+    "name": "N034 - Mělník-Horní Počaply - Elektrárna Mělník - 2",
+    "sha1": "ea454750d245da0a9f09bb45dbe4ded1bc2de6ce",
     "station": {
       "address": {
         "city": "",
@@ -10736,7 +10732,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "34",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -10744,13 +10740,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "34"
+          "physicalReference": "N034"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "34",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 22,
@@ -10758,7 +10754,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "34"
+          "physicalReference": "N034"
         }
       ],
       "images": [
@@ -10767,13 +10763,13 @@
         }
       ],
       "instructions": null,
-      "name": "Mělník-Horní Počaply - Elektrárna Mělník - 2",
+      "name": "N034 - Mělník-Horní Počaply - Elektrárna Mělník - 2",
       "visible": true
     }
   },
   "59486": {
-    "name": "Ostrava - OC Fórum Nová Karolína",
-    "sha1": "64c6e53ea17bc7a505fbbe3583ea434239a8edf6",
+    "name": "N115 - Ostrava - OC Fórum Nová Karolína",
+    "sha1": "c70862ee9f503857db1a253f3cdb543827edc0a5",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -10808,7 +10804,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "51"
+          "physicalReference": "N115"
         },
         {
           "connectors": [
@@ -10822,7 +10818,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "51"
+          "physicalReference": "N115"
         }
       ],
       "images": [
@@ -10831,7 +10827,7 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrava - OC Fórum Nová Karolína",
+      "name": "N115 - Ostrava - OC Fórum Nová Karolína",
       "visible": true
     }
   },
@@ -11046,8 +11042,8 @@
     }
   },
   "59490": {
-    "name": "Teplice - OC Galerie",
-    "sha1": "8d5664fde3b81267194d4f619bf51554c1cf5109",
+    "name": "N121 - Teplice - OC Galerie",
+    "sha1": "2d67a3eed567f370b57e2750a96025b6c36fa467",
     "station": {
       "address": {
         "city": "Teplice",
@@ -11082,7 +11078,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "16"
+          "physicalReference": "N121"
         },
         {
           "connectors": [
@@ -11096,7 +11092,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "16"
+          "physicalReference": "N121"
         }
       ],
       "images": [
@@ -11105,13 +11101,13 @@
         }
       ],
       "instructions": null,
-      "name": "Teplice - OC Galerie",
+      "name": "N121 - Teplice - OC Galerie",
       "visible": true
     }
   },
   "59491": {
-    "name": "Brno - Janáčkovo divadlo - 1",
-    "sha1": "dc520d9fd692bdaf2fb5656dbe1e1403d3effec9",
+    "name": "N130 - Brno - Janáčkovo divadlo - 1",
+    "sha1": "7cd16dfb1ea68aab693293ead0c4842ce3690ffe",
     "station": {
       "address": {
         "city": "Brno",
@@ -11138,7 +11134,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "22",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 11,
@@ -11146,13 +11142,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "22"
+          "physicalReference": "N130"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "22",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 11,
@@ -11160,7 +11156,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "22"
+          "physicalReference": "N130"
         }
       ],
       "images": [
@@ -11169,13 +11165,13 @@
         }
       ],
       "instructions": null,
-      "name": "Brno - Janáčkovo divadlo - 1",
+      "name": "N130 - Brno - Janáčkovo divadlo - 1",
       "visible": true
     }
   },
   "59492": {
-    "name": "Brno - Janáčkovo divadlo - 2",
-    "sha1": "0aaab3ea615c2dbc3b65d4820faf76b4aa162977",
+    "name": "N131 - Brno - Janáčkovo divadlo - 2",
+    "sha1": "09ed767f3fb32720ef08ed901d27c5d66964536e",
     "station": {
       "address": {
         "city": "Brno",
@@ -11202,7 +11198,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "20",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 11,
@@ -11210,13 +11206,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "20"
+          "physicalReference": "N131"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "20",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 11,
@@ -11224,7 +11220,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "20"
+          "physicalReference": "N131"
         }
       ],
       "images": [
@@ -11233,13 +11229,13 @@
         }
       ],
       "instructions": null,
-      "name": "Brno - Janáčkovo divadlo - 2",
+      "name": "N131 - Brno - Janáčkovo divadlo - 2",
       "visible": true
     }
   },
   "59493": {
-    "name": "Karlovy Vary - Dycom BMW",
-    "sha1": "443875dd8285b7deb192dac27a7b5ef897934dd7",
+    "name": "R106 - Karlovy Vary - Dycom BMW",
+    "sha1": "39855c68fa66a132094df1ae8d4bddb5ef7c28e7",
     "station": {
       "address": {
         "city": "Karlovy Vary",
@@ -11306,13 +11302,13 @@
         }
       ],
       "instructions": null,
-      "name": "Karlovy Vary - Dycom BMW",
+      "name": "R106 - Karlovy Vary - Dycom BMW",
       "visible": true
     }
   },
   "59494": {
-    "name": "Kuřim-Jinačovice - Golf - 1",
-    "sha1": "bd10d338354fc02f321720d9394e144d47611736",
+    "name": "N102 - Kuřim-Jinačovice - Golf - 1",
+    "sha1": "8b72b4ab3bdc03299d5d8526da7fca35b0ce706c",
     "station": {
       "address": {
         "city": "Kuřim",
@@ -11347,7 +11343,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK002"
+          "physicalReference": "N102"
         }
       ],
       "images": [
@@ -11356,13 +11352,13 @@
         }
       ],
       "instructions": null,
-      "name": "Kuřim-Jinačovice - Golf - 1",
+      "name": "N102 - Kuřim-Jinačovice - Golf - 1",
       "visible": true
     }
   },
   "59495": {
-    "name": "Liberec - OC Nisa - 2",
-    "sha1": "00df12881ec5578754a15885118dbec7ec51c080",
+    "name": "N040 - Liberec - OC Nisa - 2",
+    "sha1": "88c05dec13115464d761c6009ed8788e4cb2774b",
     "station": {
       "address": {
         "city": "Liberec",
@@ -11389,7 +11385,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "40",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 11,
@@ -11397,13 +11393,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "40"
+          "physicalReference": "N040"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "40",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 11,
@@ -11411,7 +11407,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "40"
+          "physicalReference": "N040"
         }
       ],
       "images": [
@@ -11420,13 +11416,13 @@
         }
       ],
       "instructions": null,
-      "name": "Liberec - OC Nisa - 2",
+      "name": "N040 - Liberec - OC Nisa - 2",
       "visible": true
     }
   },
   "59496": {
-    "name": "Vestec - 1",
-    "sha1": "209be224b0e6bd33570ea9e73bad0cea0e83ef38",
+    "name": "R130 - Vestec - 1",
+    "sha1": "d04ad0cf9a3b1ecf95a19533520911c4743567c8",
     "station": {
       "address": {
         "city": "Vestec",
@@ -11493,13 +11489,13 @@
         }
       ],
       "instructions": null,
-      "name": "Vestec - 1",
+      "name": "R130 - Vestec - 1",
       "visible": true
     }
   },
   "59497": {
-    "name": "Pardubice - Auto Louda - 1",
-    "sha1": "7699bee9c2474257c458dbf1fa2a0d52c30e64ac",
+    "name": "R134 - Pardubice - Auto Louda - 1",
+    "sha1": "f8f806bebc75a91b5c3c171546587d6ed8789e7b",
     "station": {
       "address": {
         "city": "530 09 Pardubice",
@@ -11566,13 +11562,13 @@
         }
       ],
       "instructions": null,
-      "name": "Pardubice - Auto Louda - 1",
+      "name": "R134 - Pardubice - Auto Louda - 1",
       "visible": true
     }
   },
   "59498": {
-    "name": "Ostrovačice - Jerex, D1/178. km - 2",
-    "sha1": "2b1ff134586fb40708fec38efdab83b2dfde1b17",
+    "name": "R144 - Ostrovačice - Jerex, D1/178. km - 2",
+    "sha1": "cd342db0b8187645c5da8e2eb5a8b30d5bf3d486",
     "station": {
       "address": {
         "city": "664 81 Ostrovačice",
@@ -11639,13 +11635,13 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrovačice - Jerex, D1/178. km - 2",
+      "name": "R144 - Ostrovačice - Jerex, D1/178. km - 2",
       "visible": true
     }
   },
   "59499": {
-    "name": "Olomouc - 2",
-    "sha1": "19f16aec739e4fd347191b0865a3af313a8731f4",
+    "name": "R142 - Olomouc - 2",
+    "sha1": "60091262e92256fcdd601f1f63cdebc213442bff",
     "station": {
       "address": {
         "city": "Olomouc",
@@ -11712,13 +11708,13 @@
         }
       ],
       "instructions": null,
-      "name": "Olomouc - 2",
+      "name": "R142 - Olomouc - 2",
       "visible": true
     }
   },
   "59500": {
-    "name": "Frýdek-Místek - OC Frýda - 1",
-    "sha1": "aa3ee2718489620d4aa6d7afe336729b77cf96a4",
+    "name": "R138 - Frýdek-Místek - OC Frýda - 1",
+    "sha1": "28dba9defb8a017780b2bfd190513b3d48534806",
     "station": {
       "address": {
         "city": "Frýdek-Místek",
@@ -11785,13 +11781,13 @@
         }
       ],
       "instructions": null,
-      "name": "Frýdek-Místek - OC Frýda - 1",
+      "name": "R138 - Frýdek-Místek - OC Frýda - 1",
       "visible": true
     }
   },
   "59501": {
-    "name": "Frýdek-Místek - OC Frýda - 3",
-    "sha1": "4f7f7d2348a3e7fad26449239deb9608f5c55892",
+    "name": "N104 - Frýdek-Místek - OC Frýda - 3",
+    "sha1": "ec85ec35f82cd9df5bff564e63ea160976b5ba4d",
     "station": {
       "address": {
         "city": "Frýdek-Místek",
@@ -11826,7 +11822,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK004"
+          "physicalReference": "N104"
         },
         {
           "connectors": [
@@ -11840,7 +11836,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK004"
+          "physicalReference": "N104"
         }
       ],
       "images": [
@@ -11849,7 +11845,7 @@
         }
       ],
       "instructions": null,
-      "name": "Frýdek-Místek - OC Frýda - 3",
+      "name": "N104 - Frýdek-Místek - OC Frýda - 3",
       "visible": true
     }
   },
@@ -11927,8 +11923,8 @@
     }
   },
   "59503": {
-    "name": "Brno - AAA Auto",
-    "sha1": "005eced729784a5533feef512f90c507e013efa5",
+    "name": "R128 - Brno - AAA Auto",
+    "sha1": "62ea2b37a68d9d970f9f0d3d36847549edd59154",
     "station": {
       "address": {
         "city": "Brno",
@@ -11995,7 +11991,7 @@
         }
       ],
       "instructions": null,
-      "name": "Brno - AAA Auto",
+      "name": "R128 - Brno - AAA Auto",
       "visible": true
     }
   },
@@ -12073,8 +12069,8 @@
     }
   },
   "59505": {
-    "name": "Praha-Kunratice - AUTO JAROV",
-    "sha1": "52ebd7b9a30a7e4f7582548f868124c7708803f4",
+    "name": "R105 - Praha-Kunratice - AUTO JAROV",
+    "sha1": "77eccbbbea383d3f52fdbec6f27c1e74cacc24cd",
     "station": {
       "address": {
         "city": "Praha 4 - Kunratice",
@@ -12141,13 +12137,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Kunratice - AUTO JAROV",
+      "name": "R105 - Praha-Kunratice - AUTO JAROV",
       "visible": true
     }
   },
   "59506": {
-    "name": "Mělník-Horní Počaply - Elektrárna Mělník",
-    "sha1": "26bed6cefc7df61d73309c811fcef05eabb72c40",
+    "name": "R114 - Mělník-Horní Počaply - Elektrárna Mělník",
+    "sha1": "4dc3f5315e452930410cef08252c9df19658008f",
     "station": {
       "address": {
         "city": "",
@@ -12214,13 +12210,13 @@
         }
       ],
       "instructions": null,
-      "name": "Mělník-Horní Počaply - Elektrárna Mělník",
+      "name": "R114 - Mělník-Horní Počaply - Elektrárna Mělník",
       "visible": true
     }
   },
   "59507": {
-    "name": "Ostrava-Vítkovice - Teplárna Vítkovice",
-    "sha1": "5594934523884fb7ecdd8c798a8a695c3eb47762",
+    "name": "R122 - Ostrava-Vítkovice - Teplárna Vítkovice",
+    "sha1": "11bb85083cedbbe2d15b2274ae2a824e6d0ffeef",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -12287,13 +12283,13 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrava-Vítkovice - Teplárna Vítkovice",
+      "name": "R122 - Ostrava-Vítkovice - Teplárna Vítkovice",
       "visible": true
     }
   },
   "59508": {
-    "name": "Zlín - OC Zlaté jablko",
-    "sha1": "f686848697fdf1f949a3ae08fdf4b96a8f22244f",
+    "name": "N123 - Zlín - OC Zlaté jablko",
+    "sha1": "dc520d316f8fdfca098d38f90b1da4dbcdfcad6b",
     "station": {
       "address": {
         "city": "Zlín",
@@ -12320,7 +12316,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "50",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 11,
@@ -12328,13 +12324,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "50"
+          "physicalReference": "N123"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "50",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 11,
@@ -12342,7 +12338,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "50"
+          "physicalReference": "N123"
         }
       ],
       "images": [
@@ -12351,13 +12347,13 @@
         }
       ],
       "instructions": null,
-      "name": "Zlín - OC Zlaté jablko",
+      "name": "N123 - Zlín - OC Zlaté jablko",
       "visible": true
     }
   },
   "59509": {
-    "name": "Praha - Vinci Park - Hlavní nádraží",
-    "sha1": "59616728e2038265541aa978cc0df5b7e80fbade",
+    "name": "N035 - Praha - Vinci Park - Hlavní nádraží",
+    "sha1": "7a06f81eac3ccbe1387d9858392738f13f0b10e4",
     "station": {
       "address": {
         "city": "Praha 1",
@@ -12384,7 +12380,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "35",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 11,
@@ -12392,13 +12388,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "35"
+          "physicalReference": "N035"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "35",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 11,
@@ -12406,7 +12402,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "35"
+          "physicalReference": "N035"
         }
       ],
       "images": [
@@ -12415,13 +12411,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha - Vinci Park - Hlavní nádraží",
+      "name": "N035 - Praha - Vinci Park - Hlavní nádraží",
       "visible": true
     }
   },
   "59510": {
-    "name": "Zlín - BMW - Synot Auto",
-    "sha1": "78c1867a97f562ffdc8f4492f610fc62f070341a",
+    "name": "R103 - Zlín - BMW - Synot Auto",
+    "sha1": "94e9feb133b09a59d03a5e182771d2591aa005ce",
     "station": {
       "address": {
         "city": "Zlín",
@@ -12448,7 +12444,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "T53-HU1-0416-002 ",
+              "chargePointIdentity": "T53-HU1-0416-003",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -12456,13 +12452,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "R104"
+          "physicalReference": "R103"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T53-HU1-0416-002 ",
+              "chargePointIdentity": "T53-HU1-0416-003",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -12471,7 +12467,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "T53-HU1-0416-002 ",
+              "chargePointIdentity": "T53-HU1-0416-003",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -12479,7 +12475,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": "R104"
+          "physicalReference": "R103"
         }
       ],
       "images": [
@@ -12488,13 +12484,13 @@
         }
       ],
       "instructions": null,
-      "name": "Zlín - BMW - Synot Auto",
+      "name": "R103 - Zlín - BMW - Synot Auto",
       "visible": true
     }
   },
   "59511": {
-    "name": "Ostrovačice - Jerex, D1/178. km - 1",
-    "sha1": "bd879eb60668cb43c398cc779bf900b71457fc3b",
+    "name": "R143 - Ostrovačice - Jerex, D1/178. km - 1",
+    "sha1": "bc41dd85b4aa783b9d23d7052dbeed3cf9ab4e9b",
     "station": {
       "address": {
         "city": "664 81 Ostrovačice",
@@ -12561,7 +12557,7 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrovačice - Jerex, D1/178. km - 1",
+      "name": "R143 - Ostrovačice - Jerex, D1/178. km - 1",
       "visible": true
     }
   },
@@ -12630,8 +12626,8 @@
     }
   },
   "59513": {
-    "name": "Hrušovany",
-    "sha1": "3e5516285f027600b3b1ce60f24e302dce905d4d",
+    "name": "R108 - Hrušovany",
+    "sha1": "317a7148ceac86bae1e0e4531f36a63a88b14041",
     "station": {
       "address": {
         "city": "Vysočany",
@@ -12698,13 +12694,13 @@
         }
       ],
       "instructions": null,
-      "name": "Hrušovany",
+      "name": "R108 - Hrušovany",
       "visible": true
     }
   },
   "59514": {
-    "name": "Most - Autodrom",
-    "sha1": "41deb2a082a0b119e7c27728ba5b8a75b17b49b3",
+    "name": "N024 - Most - Autodrom",
+    "sha1": "0253d6da2c0d67b2c768d2022405095f4ae4afd1",
     "station": {
       "address": {
         "city": "Most",
@@ -12739,7 +12735,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "24"
+          "physicalReference": "N024"
         },
         {
           "connectors": [
@@ -12753,7 +12749,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "24"
+          "physicalReference": "N024"
         }
       ],
       "images": [
@@ -12762,13 +12758,13 @@
         }
       ],
       "instructions": null,
-      "name": "Most - Autodrom",
+      "name": "N024 - Most - Autodrom",
       "visible": true
     }
   },
   "59515": {
-    "name": "Liberec - OC Nisa - 1",
-    "sha1": "b35e2801d03430573fd226ef7ef49506df61251f",
+    "name": "R127 - Liberec - OC Nisa - 1",
+    "sha1": "1ec714027112526e776c4b5a222a8e7c5f85b0ad",
     "station": {
       "address": {
         "city": "Liberec",
@@ -12835,13 +12831,13 @@
         }
       ],
       "instructions": null,
-      "name": "Liberec - OC Nisa - 1",
+      "name": "R127 - Liberec - OC Nisa - 1",
       "visible": true
     }
   },
   "59516": {
-    "name": "Praha - BB centrum - budova Delta",
-    "sha1": "c1c430b0bd145f8398f482afb2d286ae0a0e56aa",
+    "name": "N008 - Praha - BB centrum - budova Delta",
+    "sha1": "af4f9969388ca46ec6cb83b34df521bf159bbea5",
     "station": {
       "address": {
         "city": "Praha 4",
@@ -12868,7 +12864,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "8",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -12876,13 +12872,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "8"
+          "physicalReference": "N008"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "8",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 22,
@@ -12890,7 +12886,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "8"
+          "physicalReference": "N008"
         }
       ],
       "images": [
@@ -12899,13 +12895,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha - BB centrum - budova Delta",
+      "name": "N008 - Praha - BB centrum - budova Delta",
       "visible": true
     }
   },
   "59517": {
-    "name": "Praha - BB centrum - budova Filadelfie",
-    "sha1": "d4913776229f63e7b09acfe320764f537c42fc79",
+    "name": "N048 - Praha - BB centrum - budova Filadelfie",
+    "sha1": "9b8cc7a9282a93926b86f5488b7862408119222f",
     "station": {
       "address": {
         "city": "Praha 4",
@@ -12940,7 +12936,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "48"
+          "physicalReference": "N048"
         },
         {
           "connectors": [
@@ -12954,7 +12950,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "48"
+          "physicalReference": "N048"
         }
       ],
       "images": [
@@ -12963,13 +12959,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha - BB centrum - budova Filadelfie",
+      "name": "N048 - Praha - BB centrum - budova Filadelfie",
       "visible": true
     }
   },
   "59518": {
-    "name": "Pardubice - nádraží",
-    "sha1": "531670f74bc7a7923a3a04f796e5f60ed58799af",
+    "name": "N009 - Pardubice - nádraží",
+    "sha1": "2eca29411741bcb935a588b692da3aee33b05d68",
     "station": {
       "address": {
         "city": "Pardubice",
@@ -12996,7 +12992,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "9",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -13004,13 +13000,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "9"
+          "physicalReference": "N009"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "9",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 22,
@@ -13018,7 +13014,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "9"
+          "physicalReference": "N009"
         }
       ],
       "images": [
@@ -13027,13 +13023,13 @@
         }
       ],
       "instructions": null,
-      "name": "Pardubice - nádraží",
+      "name": "N009 - Pardubice - nádraží",
       "visible": true
     }
   },
   "59519": {
-    "name": "Vestec - 2",
-    "sha1": "f4e241ace1243b82be7f8b860bfa17f86b8b95e0",
+    "name": "R131 - Vestec - 2",
+    "sha1": "c23f369d9c3084c91b1917889ac2fc15d891a1c3",
     "station": {
       "address": {
         "city": "Vestec",
@@ -13100,13 +13096,13 @@
         }
       ],
       "instructions": null,
-      "name": "Vestec - 2",
+      "name": "R131 - Vestec - 2",
       "visible": true
     }
   },
   "59520": {
-    "name": "Vestec - 3",
-    "sha1": "385105b080fcd9856513c30b2b0aa03e34b91855",
+    "name": "R133 - Vestec - 3",
+    "sha1": "fdbefc8686badcab9d9216c8c796362d01aa68fc",
     "station": {
       "address": {
         "city": "Vestec",
@@ -13173,13 +13169,13 @@
         }
       ],
       "instructions": null,
-      "name": "Vestec - 3",
+      "name": "R133 - Vestec - 3",
       "visible": true
     }
   },
   "59521": {
-    "name": "Frýdek-Místek - OC Frýda - 2",
-    "sha1": "dcc9eba8d89c2e3cada8510a54610b354b608789",
+    "name": "N105 - Frýdek-Místek - OC Frýda - 2",
+    "sha1": "9583db9baa409d7ea4402549c1f7c3acaf5c9933",
     "station": {
       "address": {
         "city": "Frýdek-Místek",
@@ -13214,7 +13210,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK005"
+          "physicalReference": "N105"
         },
         {
           "connectors": [
@@ -13228,7 +13224,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK005"
+          "physicalReference": "N105"
         }
       ],
       "images": [
@@ -13237,13 +13233,13 @@
         }
       ],
       "instructions": null,
-      "name": "Frýdek-Místek - OC Frýda - 2",
+      "name": "N105 - Frýdek-Místek - OC Frýda - 2",
       "visible": true
     }
   },
   "59522": {
-    "name": "Kuřim - Kaufland",
-    "sha1": "2c7a6315151bedd22004da07a1f5cb8bdac35cf6",
+    "name": "R136 - Kuřim - Kaufland",
+    "sha1": "b3d65a460b41d0cd203aae76236f2fbcf4b00fe0",
     "station": {
       "address": {
         "city": "664 34 Kuřim",
@@ -13310,13 +13306,13 @@
         }
       ],
       "instructions": null,
-      "name": "Kuřim - Kaufland",
+      "name": "R136 - Kuřim - Kaufland",
       "visible": true
     }
   },
   "59523": {
-    "name": "Neratovice",
-    "sha1": "55826444a8db2e9287d249427a7eba2072862464",
+    "name": "N106 - Neratovice",
+    "sha1": "ea94d59ca2c1744ba4e50cbe110d4ac06daf8926",
     "station": {
       "address": {
         "city": "Neratovice",
@@ -13351,7 +13347,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK006"
+          "physicalReference": "N106"
         },
         {
           "connectors": [
@@ -13365,7 +13361,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK006"
+          "physicalReference": "N106"
         }
       ],
       "images": [
@@ -13374,7 +13370,7 @@
         }
       ],
       "instructions": null,
-      "name": "Neratovice",
+      "name": "N106 - Neratovice",
       "visible": true
     }
   },
@@ -13525,8 +13521,8 @@
     }
   },
   "59526": {
-    "name": "Dvůr Králové - ZOO - 1",
-    "sha1": "c412331acc1a98081fc8ffafa4e604ded67a3150",
+    "name": "N107 - Dvůr Králové - ZOO - 1",
+    "sha1": "9357e0f668de3fe15a85b62486696f55e9728fde",
     "station": {
       "address": {
         "city": "Dvůr Králové",
@@ -13561,7 +13557,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK007"
+          "physicalReference": "N107"
         },
         {
           "connectors": [
@@ -13575,7 +13571,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK007"
+          "physicalReference": "N107"
         }
       ],
       "images": [
@@ -13584,13 +13580,13 @@
         }
       ],
       "instructions": null,
-      "name": "Dvůr Králové - ZOO - 1",
+      "name": "N107 - Dvůr Králové - ZOO - 1",
       "visible": true
     }
   },
   "59527": {
-    "name": "Ústí nad Labem - OC Forum",
-    "sha1": "df34e43e615b70bc2ea655ffb9df4b7c981999b4",
+    "name": "N120 - Ústí nad Labem - OC Forum",
+    "sha1": "b9b4c8124b4bc184831dbbf7a9ce08e5870555b0",
     "station": {
       "address": {
         "city": "Ústí nad Labem",
@@ -13617,7 +13613,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "43",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 11,
@@ -13625,13 +13621,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "43"
+          "physicalReference": "N120"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "43",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 11,
@@ -13639,7 +13635,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "43"
+          "physicalReference": "N120"
         }
       ],
       "images": [
@@ -13648,7 +13644,7 @@
         }
       ],
       "instructions": null,
-      "name": "Ústí nad Labem - OC Forum",
+      "name": "N120 - Ústí nad Labem - OC Forum",
       "visible": true
     }
   },
@@ -13726,8 +13722,8 @@
     }
   },
   "59529": {
-    "name": "Třinec - Nemocnice - 1",
-    "sha1": "98e092053fd75158e3192ef0a7a983b0a4e7d2f4",
+    "name": "N111 - Třinec - Nemocnice - 1",
+    "sha1": "96a18fa2f185413d13e3101eba5174ca72ad6570",
     "station": {
       "address": {
         "city": "Třinec 1",
@@ -13762,7 +13758,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK011"
+          "physicalReference": "N111"
         },
         {
           "connectors": [
@@ -13776,7 +13772,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK011"
+          "physicalReference": "N111"
         }
       ],
       "images": [
@@ -13785,13 +13781,13 @@
         }
       ],
       "instructions": null,
-      "name": "Třinec - Nemocnice - 1",
+      "name": "N111 - Třinec - Nemocnice - 1",
       "visible": true
     }
   },
   "59530": {
-    "name": "Praha-Průmyslová - Mc Donald's - 1",
-    "sha1": "4d439e4009d4e9b1bc15e9b153bef979a2687e63",
+    "name": "R168 - Praha-Průmyslová - Mc Donald's - 1",
+    "sha1": "da16720618b07fc9cdc92663f6049515aebabbe1",
     "station": {
       "address": {
         "city": "Praha 10",
@@ -13858,7 +13854,7 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Průmyslová - Mc Donald's - 1",
+      "name": "R168 - Praha-Průmyslová - Mc Donald's - 1",
       "visible": true
     }
   },
@@ -13936,8 +13932,8 @@
     }
   },
   "59532": {
-    "name": "Praha-Černý Most - Mc Donald's",
-    "sha1": "7c6970ef37e429c43b83f8cf1f11e758f16561ed",
+    "name": "R175 - Praha-Černý Most - Mc Donald's",
+    "sha1": "8161ceb54c6a03c8eeabb05ef782c57a598045f5",
     "station": {
       "address": {
         "city": "Praha 15",
@@ -14004,7 +14000,7 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Černý Most - Mc Donald's",
+      "name": "R175 - Praha-Černý Most - Mc Donald's",
       "visible": true
     }
   },
@@ -14155,8 +14151,8 @@
     }
   },
   "59535": {
-    "name": "Mariánské Lázně 2",
-    "sha1": "c73d19c00db02c3abb1173b096953ba7a8a3d604",
+    "name": "R173 - Mariánské Lázně 2",
+    "sha1": "c67b9ecdd855c5edc2470923fdb3c9997df09621",
     "station": {
       "address": {
         "city": "Mariánské Lázně",
@@ -14223,13 +14219,13 @@
         }
       ],
       "instructions": null,
-      "name": "Mariánské Lázně 2",
+      "name": "R173 - Mariánské Lázně 2",
       "visible": true
     }
   },
   "59536": {
-    "name": "Žebrák - V-Auto, D5/34. km - 2",
-    "sha1": "0b917e46094c879bbf9a57a557570b8768ec4670",
+    "name": "R154 - Žebrák - V-Auto, D5/34. km - 2",
+    "sha1": "062e4588589bd8c033940491b6db8fc5e23f42ee",
     "station": {
       "address": {
         "city": "Žebrák",
@@ -14296,13 +14292,13 @@
         }
       ],
       "instructions": null,
-      "name": "Žebrák - V-Auto, D5/34. km - 2",
+      "name": "R154 - Žebrák - V-Auto, D5/34. km - 2",
       "visible": true
     }
   },
   "59537": {
-    "name": "Trutnov - Hotel Davídek",
-    "sha1": "e8ffdd9bae5a72a7b45b3ed4c623de004a168297",
+    "name": "R157 - Trutnov - Hotel Davídek",
+    "sha1": "6fe497f32d53fdaab74bf003de70268f0d3389d3",
     "station": {
       "address": {
         "city": "Trutnov",
@@ -14369,7 +14365,7 @@
         }
       ],
       "instructions": null,
-      "name": "Trutnov - Hotel Davídek",
+      "name": "R157 - Trutnov - Hotel Davídek",
       "visible": true
     }
   },
@@ -14447,8 +14443,8 @@
     }
   },
   "59539": {
-    "name": "Praha-Evropská - Mc Donald's - 2",
-    "sha1": "258fcaf7eeddfb40771ca5ad869055c2075c1e87",
+    "name": "R161 - Praha-Evropská - Mc Donald's - 2",
+    "sha1": "4eb60a56732e16352cb478bd59475eaa1728b2c4",
     "station": {
       "address": {
         "city": "Praha 6",
@@ -14515,13 +14511,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Evropská - Mc Donald's - 2",
+      "name": "R161 - Praha-Evropská - Mc Donald's - 2",
       "visible": true
     }
   },
   "59540": {
-    "name": "Praha-Vypich - Kaufland - 3",
-    "sha1": "78c4f714fc279da5930a232e3c149fc3b0880e21",
+    "name": "R179 - Praha-Vypich - Kaufland - 3",
+    "sha1": "c4e95d4e581cb317a3472cf3ecf257b2121e9498",
     "station": {
       "address": {
         "city": "Praha 6-Břevnov",
@@ -14588,13 +14584,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Vypich - Kaufland - 3",
+      "name": "R179 - Praha-Vypich - Kaufland - 3",
       "visible": true
     }
   },
   "59541": {
-    "name": "Přeštice",
-    "sha1": "d177c7c824a565899017ff1b0300bbed5f6122df",
+    "name": "R182 - Přeštice",
+    "sha1": "2f0c879e2523a3ebb17a72e688d320ff123af338",
     "station": {
       "address": {
         "city": "Přeštice",
@@ -14661,7 +14657,7 @@
         }
       ],
       "instructions": null,
-      "name": "Přeštice",
+      "name": "R182 - Přeštice",
       "visible": true
     }
   },
@@ -14739,8 +14735,8 @@
     }
   },
   "59543": {
-    "name": "Třinec - Nemocnice - 2",
-    "sha1": "9cd5f36f108e3bdf9214a8f50b5ad2164f572dac",
+    "name": "N112 - Třinec - Nemocnice - 2",
+    "sha1": "0df5c3a669efac28ed0445b7c604556f5a7e1a1a",
     "station": {
       "address": {
         "city": "Třinec 1",
@@ -14775,7 +14771,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK012"
+          "physicalReference": "N112"
         },
         {
           "connectors": [
@@ -14789,7 +14785,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK012"
+          "physicalReference": "N112"
         }
       ],
       "images": [
@@ -14798,13 +14794,13 @@
         }
       ],
       "instructions": null,
-      "name": "Třinec - Nemocnice - 2",
+      "name": "N112 - Třinec - Nemocnice - 2",
       "visible": true
     }
   },
   "59544": {
-    "name": "Hradec nad Svitavou - Benzina",
-    "sha1": "8ac76c85e3b1ac8d251b118e9e566e97228c2d80",
+    "name": "R184 - Hradec nad Svitavou - Benzina",
+    "sha1": "6586c448d08de8e716d440e6be10fe7133086215",
     "station": {
       "address": {
         "city": "Hradec nad Svitavou",
@@ -14871,13 +14867,13 @@
         }
       ],
       "instructions": null,
-      "name": "Hradec nad Svitavou - Benzina",
+      "name": "R184 - Hradec nad Svitavou - Benzina",
       "visible": true
     }
   },
   "59545": {
-    "name": "České Budějovice - Benzina",
-    "sha1": "257c1654391406c5f0a1ec0a2297069d38e8e531",
+    "name": "R180 - České Budějovice - Benzina",
+    "sha1": "2cfe5827fe31d13b70eba61e56f8e3fd28cef0ad",
     "station": {
       "address": {
         "city": "České Budějovice",
@@ -14944,13 +14940,13 @@
         }
       ],
       "instructions": null,
-      "name": "České Budějovice - Benzina",
+      "name": "R180 - České Budějovice - Benzina",
       "visible": true
     }
   },
   "59546": {
-    "name": "Ostrava - Benzina",
-    "sha1": "985d9cbc76d855c58966c7e2510264051144c2e5",
+    "name": "R177 - Ostrava - Benzina",
+    "sha1": "97418d24917d16df5a2cbc99869d0f416d6abdf9",
     "station": {
       "address": {
         "city": "Ostrava-Zábřeh",
@@ -15017,13 +15013,13 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrava - Benzina",
+      "name": "R177 - Ostrava - Benzina",
       "visible": true
     }
   },
   "59547": {
-    "name": "Most - McDonald´s - 1",
-    "sha1": "019ff4fc9ea137da080b1f2fbf9ee9b3e5015eb3",
+    "name": "R185 - Most - McDonald´s - 1",
+    "sha1": "08917f2bde6fcb428c7986850a9cd7405637eda8",
     "station": {
       "address": {
         "city": "Most",
@@ -15090,86 +15086,13 @@
         }
       ],
       "instructions": null,
-      "name": "Most - McDonald´s - 1",
-      "visible": true
-    }
-  },
-  "59548": {
-    "name": "Loket - McDonalds, D1/66. km - 2",
-    "sha1": "737f71df4dd1df96234db46e589cd361f13e45f2",
-    "station": {
-      "address": {
-        "city": "Čechtice",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "63",
-        "latitude": 49.65855,
-        "longitude": 15.11835,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Čechtice",
-        "url": ""
-      },
-      "customID": "59548",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T53-IT1-4517-008 ",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R166"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-IT1-4517-008 ",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-IT1-4517-008 ",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R166"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/urds-mcd-loket.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "Loket - McDonalds, D1/66. km - 2",
+      "name": "R185 - Most - McDonald´s - 1",
       "visible": true
     }
   },
   "59549": {
-    "name": "Most - McDonald´s - 2",
-    "sha1": "c198ead4a78103413ac566dc19189d7ae48a9253",
+    "name": "R186 - Most - McDonald´s - 2",
+    "sha1": "082ba4970b65360f8fb86f6ffa10c53f5934ba62",
     "station": {
       "address": {
         "city": "Most",
@@ -15236,13 +15159,13 @@
         }
       ],
       "instructions": null,
-      "name": "Most - McDonald´s - 2",
+      "name": "R186 - Most - McDonald´s - 2",
       "visible": true
     }
   },
   "59550": {
-    "name": "Ostrov nad Ohří - Kaufland",
-    "sha1": "5180f7bb8c607e897f8c7f0f4d205a7deb0eb379",
+    "name": "R192 - Ostrov nad Ohří - Kaufland",
+    "sha1": "87c131fa854a28af9335ca2e75dbb321a5a0f31a",
     "station": {
       "address": {
         "city": "Ostrov nad Ohří",
@@ -15309,13 +15232,13 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrov nad Ohří - Kaufland",
+      "name": "R192 - Ostrov nad Ohří - Kaufland",
       "visible": true
     }
   },
   "59551": {
-    "name": "Valašské Meziříčí",
-    "sha1": "1c7bcccb73176036d9ff2d237db2257a1babc1c8",
+    "name": "R156 - Valašské Meziříčí - 2",
+    "sha1": "81b9e0a1c05e1c4d34ba7b28bb6437fee65339a8",
     "station": {
       "address": {
         "city": "757 01 Valašské Meziříčí 1",
@@ -15382,13 +15305,13 @@
         }
       ],
       "instructions": null,
-      "name": "Valašské Meziříčí",
+      "name": "R156 - Valašské Meziříčí - 2",
       "visible": true
     }
   },
   "59552": {
-    "name": "Třinec",
-    "sha1": "c6902363d046a818d296f6307c0ac1c14f468903",
+    "name": "R165 - Třinec",
+    "sha1": "95a5bf63990d953b91b6a5337a80ce0cccb39777",
     "station": {
       "address": {
         "city": "Třinec 1",
@@ -15455,13 +15378,13 @@
         }
       ],
       "instructions": null,
-      "name": "Třinec",
+      "name": "R165 - Třinec",
       "visible": true
     }
   },
   "59553": {
-    "name": "Praha-Hloubětín - Kaufland",
-    "sha1": "314c40a774b416a1174b5323e5e6ab75b145968e",
+    "name": "R159 - Praha-Hloubětín - Kaufland",
+    "sha1": "110f0641839cf78c2eb6a2bea5a4f9143cab269e",
     "station": {
       "address": {
         "city": "Praha",
@@ -15528,13 +15451,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Hloubětín - Kaufland",
+      "name": "R159 - Praha-Hloubětín - Kaufland",
       "visible": true
     }
   },
   "59554": {
-    "name": "Praha-Jarov - Kaufland - 1",
-    "sha1": "dba481eaca610b0f103947a588bfe7485ae31e84",
+    "name": "R189 - Praha-Jarov - Kaufland - 1",
+    "sha1": "929092ce6d153f6ea4a178c32cf4c21224bf54a9",
     "station": {
       "address": {
         "city": "Praha 3 - Jarov-Hrdlořezy",
@@ -15601,13 +15524,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Jarov - Kaufland - 1",
+      "name": "R189 - Praha-Jarov - Kaufland - 1",
       "visible": true
     }
   },
   "59555": {
-    "name": "Praha-Jarov - Kaufland - 2",
-    "sha1": "b5e48733c5a227ba65a5c7fa299edba5e9a8e317",
+    "name": "R190 - Praha-Jarov - Kaufland - 2",
+    "sha1": "1d1896c34e9bec157d1c732452414cccf8b71884",
     "station": {
       "address": {
         "city": "Praha 3 - Jarov-Hrdlořezy",
@@ -15674,13 +15597,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Jarov - Kaufland - 2",
+      "name": "R190 - Praha-Jarov - Kaufland - 2",
       "visible": true
     }
   },
   "59556": {
-    "name": "Řež - ÚJV",
-    "sha1": "105d86fe1ab19a153449aa1229012d604e2edf89",
+    "name": "N113 - Řež - ÚJV",
+    "sha1": "d309a47b245443e0b66f287eb5c1a1912295d05f",
     "station": {
       "address": {
         "city": "Husinec-Řež",
@@ -15715,7 +15638,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK013"
+          "physicalReference": "N113"
         },
         {
           "connectors": [
@@ -15729,7 +15652,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK013"
+          "physicalReference": "N113"
         }
       ],
       "images": [
@@ -15738,13 +15661,13 @@
         }
       ],
       "instructions": null,
-      "name": "Řež - ÚJV",
+      "name": "N113 - Řež - ÚJV",
       "visible": true
     }
   },
   "59557": {
-    "name": "Písek - McDonalds - 1",
-    "sha1": "ccfe7b058c2b22d6cd66cbcc97c94e267aef73b2",
+    "name": "R160 - Písek - McDonalds - 1",
+    "sha1": "a958c00077101acbf67db990c9a61eca66412cd5",
     "station": {
       "address": {
         "city": "Písek",
@@ -15811,13 +15734,13 @@
         }
       ],
       "instructions": null,
-      "name": "Písek - McDonalds - 1",
+      "name": "R160 - Písek - McDonalds - 1",
       "visible": true
     }
   },
   "59558": {
-    "name": "Písek - McDonalds - 2",
-    "sha1": "8a7d7ea120075ec50f1d207c817df970f45bb631",
+    "name": "R162 - Písek - McDonalds - 2",
+    "sha1": "e30dec70994c4931906e5b73e215f4e1ed8bf710",
     "station": {
       "address": {
         "city": "Písek",
@@ -15884,13 +15807,13 @@
         }
       ],
       "instructions": null,
-      "name": "Písek - McDonalds - 2",
+      "name": "R162 - Písek - McDonalds - 2",
       "visible": true
     }
   },
   "59559": {
-    "name": "Praha-Vypich - Kaufland - 1",
-    "sha1": "08c5a245016b918ddf368deeac48278fb3af4b17",
+    "name": "R176 - Praha-Vypich - Kaufland - 1",
+    "sha1": "19231cca4a243aac56d494829535f6e36029a671",
     "station": {
       "address": {
         "city": "Praha 6-Břevnov",
@@ -15957,13 +15880,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Vypich - Kaufland - 1",
+      "name": "R176 - Praha-Vypich - Kaufland - 1",
       "visible": true
     }
   },
   "59560": {
-    "name": "Praha-Vypich - Kaufland - 2",
-    "sha1": "d21feaeacfb885938cf73defeee0b5af56faabdc",
+    "name": "R178 - Praha-Vypich - Kaufland - 2",
+    "sha1": "d5965bf5c81a3c38f4d38444db3d3663c0b04424",
     "station": {
       "address": {
         "city": "Praha 6-Břevnov",
@@ -16030,13 +15953,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Vypich - Kaufland - 2",
+      "name": "R178 - Praha-Vypich - Kaufland - 2",
       "visible": true
     }
   },
   "59561": {
-    "name": "Kolín - Kaufland",
-    "sha1": "ca0f30c18824f7745d66559c3bcaffaeb6c1cac7",
+    "name": "R150 - Kolín - Kaufland",
+    "sha1": "b2f642c3f9fc3c7bcaf11f51c73ca48806e3cbdc",
     "station": {
       "address": {
         "city": "Kolín",
@@ -16103,13 +16026,13 @@
         }
       ],
       "instructions": null,
-      "name": "Kolín - Kaufland",
+      "name": "R150 - Kolín - Kaufland",
       "visible": true
     }
   },
   "59562": {
-    "name": "Klášterec nad Ohří",
-    "sha1": "46199a520362ffb57f78cda692d2361bacbcc26c",
+    "name": "N109 - Klášterec nad Ohří",
+    "sha1": "12a0562df28e84e8776fe2231ab31fb53dd91bfd",
     "station": {
       "address": {
         "city": "Klášterec nad Ohří",
@@ -16144,7 +16067,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK009"
+          "physicalReference": "N109"
         },
         {
           "connectors": [
@@ -16158,7 +16081,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK009"
+          "physicalReference": "N109"
         }
       ],
       "images": [
@@ -16167,13 +16090,13 @@
         }
       ],
       "instructions": null,
-      "name": "Klášterec nad Ohří",
+      "name": "N109 - Klášterec nad Ohří",
       "visible": true
     }
   },
   "59563": {
-    "name": "Žebrák - V-Auto, D5/34. km",
-    "sha1": "58a574fdc2ab0a164b3fb33857ae4832d83a38e8",
+    "name": "R153 - Žebrák - V-Auto, D5/34. km",
+    "sha1": "a3ed7532e1ecd5fd69d848a3ea8d61d4617ab839",
     "station": {
       "address": {
         "city": "Žebrák",
@@ -16240,13 +16163,13 @@
         }
       ],
       "instructions": null,
-      "name": "Žebrák - V-Auto, D5/34. km",
+      "name": "R153 - Žebrák - V-Auto, D5/34. km",
       "visible": true
     }
   },
   "59564": {
     "name": "Loket - Ultrarychlá dobíjecí stanice - McDonalds, D1/66. km - 1",
-    "sha1": "814c480aebb0f5e57b8b4318ddee0b9f5b54f2d3",
+    "sha1": "151d2a900f60c2ca75028cf7bca3558f51454a79",
     "station": {
       "address": {
         "city": "Čechtice",
@@ -16300,7 +16223,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/jerex-mala.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/foto-sternberk-mala.jpg"
         }
       ],
       "instructions": null,
@@ -16309,8 +16232,8 @@
     }
   },
   "59565": {
-    "name": "Praha-Evropská - Mc Donald's",
-    "sha1": "bda81015101eaab23dfdabc60e088ca9bd4d4c28",
+    "name": "R163 - Praha-Evropská - Mc Donald's",
+    "sha1": "3ee7d09bb4c7fb076f7bc1eeb9e8bd1bba838f4b",
     "station": {
       "address": {
         "city": "Praha 6",
@@ -16377,13 +16300,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Evropská - Mc Donald's",
+      "name": "R163 - Praha-Evropská - Mc Donald's",
       "visible": true
     }
   },
   "59566": {
-    "name": "Karviná - Kaufland",
-    "sha1": "720ef2b07ad123a4c54c37afffd66a3a89678a9e",
+    "name": "R169 - Karviná - Kaufland",
+    "sha1": "a9d291877cbc1cc2d7589f076a70d934644a8d94",
     "station": {
       "address": {
         "city": "Karviná",
@@ -16450,13 +16373,13 @@
         }
       ],
       "instructions": null,
-      "name": "Karviná - Kaufland",
+      "name": "R169 - Karviná - Kaufland",
       "visible": true
     }
   },
   "59567": {
-    "name": "Litoměřice",
-    "sha1": "c59a5a6871361dacb061d08c7f1ba8a14da0279b",
+    "name": "R174 - Litoměřice",
+    "sha1": "0ba1d2f9ff59bb046c95a427671cac584c445a5a",
     "station": {
       "address": {
         "city": "Litoměřice",
@@ -16523,13 +16446,13 @@
         }
       ],
       "instructions": null,
-      "name": "Litoměřice",
+      "name": "R174 - Litoměřice",
       "visible": true
     }
   },
   "59568": {
-    "name": "Teplice - Kaufland",
-    "sha1": "a331fc67badacfe9d8f324e1631634fbb6afcb66",
+    "name": "R183 - Teplice - Kaufland",
+    "sha1": "104697c2882ba876ee91e60599be000381f334e1",
     "station": {
       "address": {
         "city": "Teplice",
@@ -16596,13 +16519,13 @@
         }
       ],
       "instructions": null,
-      "name": "Teplice - Kaufland",
+      "name": "R183 - Teplice - Kaufland",
       "visible": true
     }
   },
   "68112": {
-    "name": "Ostrava-Vítkovice - Kaufland",
-    "sha1": "14550e430efdc05663e1b3efa82e002e03e516e6",
+    "name": "R218 - Ostrava-Vítkovice - Kaufland",
+    "sha1": "4f86c7e0b37b2e05007664aa945ed81e9d981d4f",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -16637,13 +16560,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R218"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54_HU1_2019_022",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -16660,7 +16583,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R218"
         }
       ],
       "images": [
@@ -16669,13 +16592,13 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrava-Vítkovice - Kaufland",
+      "name": "R218 - Ostrava-Vítkovice - Kaufland",
       "visible": true
     }
   },
   "68113": {
-    "name": "Klimkovice",
-    "sha1": "1ed47297344a180d8ce8efdcc19cb0d33e751ec8",
+    "name": "R219 - Klimkovice",
+    "sha1": "89f704c998fae255b990786244c967018630c911",
     "station": {
       "address": {
         "city": "Klimkovice",
@@ -16702,7 +16625,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-2019-024",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -16710,13 +16633,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R219"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-2019-024",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -16725,7 +16648,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-2019-024",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -16733,7 +16656,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R219"
         }
       ],
       "images": [
@@ -16742,13 +16665,13 @@
         }
       ],
       "instructions": null,
-      "name": "Klimkovice",
+      "name": "R219 - Klimkovice",
       "visible": true
     }
   },
   "68114": {
-    "name": "Vysoké Mýto - Benzina - 2",
-    "sha1": "f6c6410aecaa2f12576667cc53278b148dee326f",
+    "name": "R214 - Vysoké Mýto - Benzina - 2",
+    "sha1": "5a47ea68c60a75db5022b0ee877f5c38dc4d5e2c",
     "station": {
       "address": {
         "city": "Vysoké Mýto",
@@ -16775,7 +16698,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-2019-023",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -16783,13 +16706,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R214"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-2019-023",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -16798,7 +16721,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-2019-023",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -16806,7 +16729,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R214"
         }
       ],
       "images": [
@@ -16815,13 +16738,13 @@
         }
       ],
       "instructions": null,
-      "name": "Vysoké Mýto - Benzina - 2",
+      "name": "R214 - Vysoké Mýto - Benzina - 2",
       "visible": true
     }
   },
   "68115": {
-    "name": "Vysoké Mýto - Benzina - 1",
-    "sha1": "a1e448842ba0de86606d5cb61bc7f0f2644a8a57",
+    "name": "R213 - Vysoké Mýto - Benzina - 1",
+    "sha1": "f0d03647596655dce3e454189abe3aaf5ad36f37",
     "station": {
       "address": {
         "city": "Vysoké Mýto",
@@ -16848,7 +16771,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1019-025",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -16856,13 +16779,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R213"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1019-025",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -16871,7 +16794,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1019-025",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -16879,7 +16802,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R213"
         }
       ],
       "images": [
@@ -16888,13 +16811,13 @@
         }
       ],
       "instructions": null,
-      "name": "Vysoké Mýto - Benzina - 1",
+      "name": "R213 - Vysoké Mýto - Benzina - 1",
       "visible": true
     }
   },
   "68116": {
-    "name": "Jaroměř - Benzina",
-    "sha1": "d68b2c09670d9609ecf20f0d4e321ef346a07f78",
+    "name": "R217 - Jaroměř - Benzina",
+    "sha1": "ed149de8edf4d8c786ba283d2161aeca2fa05dfb",
     "station": {
       "address": {
         "city": "Jaroměř",
@@ -16929,13 +16852,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R217"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1119-060",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -16952,7 +16875,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R217"
         }
       ],
       "images": [
@@ -16961,13 +16884,13 @@
         }
       ],
       "instructions": null,
-      "name": "Jaroměř - Benzina",
+      "name": "R217 - Jaroměř - Benzina",
       "visible": true
     }
   },
   "68117": {
-    "name": "Kolín - Autobusový terminál - 2",
-    "sha1": "2b8c6b9048969006dd20829194b0f0be8cbf1e22",
+    "name": "R216 - Kolín - Autobusový terminál - 2",
+    "sha1": "5223f03d02d3f1025e41a1948fcc18a15116a4f3",
     "station": {
       "address": {
         "city": "Kolín",
@@ -17008,7 +16931,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T53-HU1-3218-010",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -17034,13 +16957,13 @@
         }
       ],
       "instructions": null,
-      "name": "Kolín - Autobusový terminál - 2",
+      "name": "R216 - Kolín - Autobusový terminál - 2",
       "visible": true
     }
   },
   "68118": {
-    "name": "Kolín - Autobusový terminál - 1",
-    "sha1": "1524daa41b51ce118bb67838db082c101f387a88",
+    "name": "R215 - Kolín - Autobusový terminál - 1",
+    "sha1": "5e900f57b9c4601f27974f3548fb0c636a922b3f",
     "station": {
       "address": {
         "city": "Kolín",
@@ -17081,7 +17004,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T53-HU1-3218-013",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -17107,13 +17030,13 @@
         }
       ],
       "instructions": null,
-      "name": "Kolín - Autobusový terminál - 1",
+      "name": "R215 - Kolín - Autobusový terminál - 1",
       "visible": true
     }
   },
   "68119": {
-    "name": "Most - Autodrom - 2",
-    "sha1": "552c689ba2464986592361c0514b7525a32f41a1",
+    "name": "R202 - Most - Autodrom - 2",
+    "sha1": "29d3e258da55aa13b849af0b5598054b31ed2a58",
     "station": {
       "address": {
         "city": "Most",
@@ -17154,7 +17077,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1019-110",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -17180,13 +17103,13 @@
         }
       ],
       "instructions": null,
-      "name": "Most - Autodrom - 2",
+      "name": "R202 - Most - Autodrom - 2",
       "visible": true
     }
   },
   "68120": {
-    "name": "Blansko - Kaufland",
-    "sha1": "4c98074579fedc6d24085a755a7af2ccc205d173",
+    "name": "R204 - Blansko - Kaufland",
+    "sha1": "607e445eb55eb105f7bde5bf93cf142be2f629c4",
     "station": {
       "address": {
         "city": "Blansko",
@@ -17227,7 +17150,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1019-116",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -17253,13 +17176,13 @@
         }
       ],
       "instructions": null,
-      "name": "Blansko - Kaufland",
+      "name": "R204 - Blansko - Kaufland",
       "visible": true
     }
   },
   "68141": {
-    "name": "Hlinsko - Benzina",
-    "sha1": "879bbad58c5bc1800cb2902ca612651c7c8797d1",
+    "name": "R199 - Hlinsko - Benzina",
+    "sha1": "96035a43ff6ea0fe0aa10ad511593b762904e2ab",
     "station": {
       "address": {
         "city": "Hlinsko",
@@ -17300,7 +17223,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T53-HU1-3318-010",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -17326,13 +17249,13 @@
         }
       ],
       "instructions": null,
-      "name": "Hlinsko - Benzina",
+      "name": "R199 - Hlinsko - Benzina",
       "visible": true
     }
   },
   "68142": {
-    "name": "Siřejovice - Benzina, D8/46. km",
-    "sha1": "36a43b8fb664a735300d399e59c8e20639c452c7",
+    "name": "R212 - Siřejovice - Benzina, D8/46. km",
+    "sha1": "fdd7a371d8ad4da6129f5f1ac9a3665f7f292cff",
     "station": {
       "address": {
         "city": "Siřejovice",
@@ -17373,7 +17296,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1119-004",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -17399,13 +17322,13 @@
         }
       ],
       "instructions": null,
-      "name": "Siřejovice - Benzina, D8/46. km",
+      "name": "R212 - Siřejovice - Benzina, D8/46. km",
       "visible": true
     }
   },
   "68143": {
-    "name": "McDonalds Karlovy Vary 2",
-    "sha1": "4c88a2c7a560ffea6c82b2a7612b8f2cf857c7d2",
+    "name": "R206 - McDonalds Karlovy Vary 2",
+    "sha1": "25c23388cb200bb8214ad056ac104724dfa02bab",
     "station": {
       "address": {
         "city": "Karlovy Vary",
@@ -17446,7 +17369,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-0719-082",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -17472,13 +17395,13 @@
         }
       ],
       "instructions": null,
-      "name": "McDonalds Karlovy Vary 2",
+      "name": "R206 - McDonalds Karlovy Vary 2",
       "visible": true
     }
   },
   "68144": {
-    "name": "Karlovy Vary - McDonalds - 1",
-    "sha1": "8f2ef0ef0b5a9460d3523ecce96d833cc6018f21",
+    "name": "R205 - Karlovy Vary - McDonalds - 1",
+    "sha1": "df642ee24e094bda815c45722a87c470d4c4d9f6",
     "station": {
       "address": {
         "city": "Karlovy Vary",
@@ -17519,7 +17442,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-4018-102",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -17545,13 +17468,13 @@
         }
       ],
       "instructions": null,
-      "name": "Karlovy Vary - McDonalds - 1",
+      "name": "R205 - Karlovy Vary - McDonalds - 1",
       "visible": true
     }
   },
   "68145": {
-    "name": "Choťánky 3",
-    "sha1": "204e63b5e232770390706e65547fb826d05e1b75",
+    "name": "R209 - Choťánky 3",
+    "sha1": "3be0bfc63b257a2e0e58f913858fc87014c4df63",
     "station": {
       "address": {
         "city": "Choťánky u Poděbrad",
@@ -17618,13 +17541,13 @@
         }
       ],
       "instructions": null,
-      "name": "Choťánky 3",
+      "name": "R209 - Choťánky 3",
       "visible": true
     }
   },
   "68146": {
-    "name": "Choťánky 2",
-    "sha1": "298f4f96b8a621bf56173e8e0f4b8dcc3f6a7c8a",
+    "name": "R207 - Choťánky 2",
+    "sha1": "50e98e4cad83902ba174c004e2d1029178a3451d",
     "station": {
       "address": {
         "city": "290 01 Choťánky u Poděbrad",
@@ -17691,13 +17614,13 @@
         }
       ],
       "instructions": null,
-      "name": "Choťánky 2",
+      "name": "R207 - Choťánky 2",
       "visible": true
     }
   },
   "68147": {
-    "name": "Choťánky 1",
-    "sha1": "3471253660e5db25aef853a6a63f7f4fc3578c45",
+    "name": "R208 - Choťánky 1",
+    "sha1": "5e160ec6b0863061e89efa5ccafde3a595af4d0c",
     "station": {
       "address": {
         "city": "290 01 Choťánky u Poděbrad",
@@ -17764,13 +17687,13 @@
         }
       ],
       "instructions": null,
-      "name": "Choťánky 1",
+      "name": "R208 - Choťánky 1",
       "visible": true
     }
   },
   "68148": {
-    "name": "Praha - Poděbradská",
-    "sha1": "ecac51e8f67fcd444eb9ef39a1bcdf7bd8516880",
+    "name": "R191 - Praha - Poděbradská",
+    "sha1": "e06ac1f800d8a17a463e7122fb344e47256d95f0",
     "station": {
       "address": {
         "city": "Praha 9",
@@ -17837,13 +17760,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha - Poděbradská",
+      "name": "R191 - Praha - Poděbradská",
       "visible": true
     }
   },
   "68149": {
-    "name": "Domažlice - Benzina - 2",
-    "sha1": "bd42ca96891603a60440b25f20ca19f7416ef866",
+    "name": "R211 - Domažlice - Benzina - 2",
+    "sha1": "c759bdaa505f800930d9ebe1f4091ea55238d1f0",
     "station": {
       "address": {
         "city": "Domažlice",
@@ -17870,7 +17793,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "T54-IT1-0819-056",
+              "chargePointIdentity": "T54-IT1-0819-057",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -17884,7 +17807,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-0819-057",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -17893,7 +17816,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "T54-IT1-0819-056",
+              "chargePointIdentity": "T54-IT1-0819-057",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -17910,13 +17833,13 @@
         }
       ],
       "instructions": null,
-      "name": "Domažlice - Benzina - 2",
+      "name": "R211 - Domažlice - Benzina - 2",
       "visible": true
     }
   },
   "68150": {
-    "name": "Domažlice - Benzina - 1",
-    "sha1": "689c44f0e7b873958c9763d52605dbd5e53b99b8",
+    "name": "R210 - Domažlice - Benzina - 1",
+    "sha1": "481a50575d37d577185faaee623343561220778c",
     "station": {
       "address": {
         "city": "Domažlice",
@@ -17943,7 +17866,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "T54-IT1-1019-110",
+              "chargePointIdentity": "T54-IT1-0819-056",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -17957,7 +17880,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-0819-056",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -17966,7 +17889,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "T54-IT1-1019-110",
+              "chargePointIdentity": "T54-IT1-0819-056",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -17983,13 +17906,13 @@
         }
       ],
       "instructions": null,
-      "name": "Domažlice - Benzina - 1",
+      "name": "R210 - Domažlice - Benzina - 1",
       "visible": true
     }
   },
   "68151": {
-    "name": "Beroun 2",
-    "sha1": "c74cec7e3dacf88383d30462be328ba3f411a99d",
+    "name": "R201 - Beroun 2",
+    "sha1": "d0a9791937a89796f9550e1fbd6bf9b9f8557a27",
     "station": {
       "address": {
         "city": "Beroun",
@@ -18030,7 +17953,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1019-120",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -18056,13 +17979,13 @@
         }
       ],
       "instructions": null,
-      "name": "Beroun 2",
+      "name": "R201 - Beroun 2",
       "visible": true
     }
   },
   "68152": {
-    "name": "Beroun 1",
-    "sha1": "7985d77ccf89f5728684339b1450fe95ecbe0ff2",
+    "name": "R200 - Beroun 1",
+    "sha1": "b8b8eb964dca80ea1fbcb0b8b6b3a2839decf442",
     "station": {
       "address": {
         "city": "Beroun",
@@ -18103,7 +18026,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1119-099",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -18129,13 +18052,13 @@
         }
       ],
       "instructions": null,
-      "name": "Beroun 1",
+      "name": "R200 - Beroun 1",
       "visible": true
     }
   },
   "68153": {
-    "name": "Břeclav",
-    "sha1": "1cf2ac776035dd32ae7c685017c679d0e2d2f59f",
+    "name": "R198 - Břeclav - Benzina",
+    "sha1": "331c7272733c90e7ac95b5e042e51c1122063cdd",
     "station": {
       "address": {
         "city": "Břeclav",
@@ -18176,7 +18099,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1119-001",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -18202,13 +18125,13 @@
         }
       ],
       "instructions": null,
-      "name": "Břeclav",
+      "name": "R198 - Břeclav - Benzina",
       "visible": true
     }
   },
   "68154": {
-    "name": "Kašperské Hory",
-    "sha1": "b9bb4bb17d8e045b4fd7c95acec391ee0f31113e",
+    "name": "R203 - Kašperské Hory",
+    "sha1": "855fde955674ef03221b1f8b20abcdfe485ac1b5",
     "station": {
       "address": {
         "city": "Kašperské Hory",
@@ -18249,7 +18172,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1119-001",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -18275,13 +18198,13 @@
         }
       ],
       "instructions": null,
-      "name": "Kašperské Hory",
+      "name": "R203 - Kašperské Hory",
       "visible": true
     }
   },
   "68155": {
-    "name": "Kladruby - Benzina - 2",
-    "sha1": "d797b12a51b5f3b8707781d478cc34dcd69bbb4b",
+    "name": "R195 - Kladruby - Benzina - 2",
+    "sha1": "504bd25e3224a20b0ab13d8531c40904d1fc1e0c",
     "station": {
       "address": {
         "city": "Kladruby",
@@ -18322,7 +18245,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T53-HU1-3318-007",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -18348,13 +18271,13 @@
         }
       ],
       "instructions": null,
-      "name": "Kladruby - Benzina - 2",
+      "name": "R195 - Kladruby - Benzina - 2",
       "visible": true
     }
   },
   "68156": {
-    "name": "Kladruby - Benzina - 1",
-    "sha1": "92bfa730935a92724a250b9215c1064cb767ec9c",
+    "name": "R194 - Kladruby - Benzina - 1",
+    "sha1": "79fa0b0ae2228aa86e80c4bbc3add74f5f808a75",
     "station": {
       "address": {
         "city": "Kladruby",
@@ -18395,7 +18318,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T53-HU1-3218-002",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -18421,13 +18344,13 @@
         }
       ],
       "instructions": null,
-      "name": "Kladruby - Benzina - 1",
+      "name": "R194 - Kladruby - Benzina - 1",
       "visible": true
     }
   },
   "68157": {
-    "name": "Ostrava - Letiště Leoše Janáčka - 2",
-    "sha1": "c81533052bf11864af21f3c0650abbb67e0e778d",
+    "name": "R197 - Ostrava - Letiště Leoše Janáčka - 2",
+    "sha1": "8dbe1cc72e898a70edc3b4ba961a86b972197240",
     "station": {
       "address": {
         "city": "Ostrava Mošnov",
@@ -18468,7 +18391,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T53-HU1-3318-030",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -18494,13 +18417,13 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrava - Letiště Leoše Janáčka - 2",
+      "name": "R197 - Ostrava - Letiště Leoše Janáčka - 2",
       "visible": true
     }
   },
   "68158": {
-    "name": "Ostrava - Letiště Leoše Janáčka - 1",
-    "sha1": "bf44f96241be5b2719846f5ebc814ec29b62eef6",
+    "name": "R196 - Ostrava - Letiště Leoše Janáčka - 1",
+    "sha1": "dc220ada955ab0a26481e80087b2a896fe904fdb",
     "station": {
       "address": {
         "city": "Ostrava Mošnov",
@@ -18541,7 +18464,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T53-HU1-3318-024",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -18567,13 +18490,13 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrava - Letiště Leoše Janáčka - 1",
+      "name": "R196 - Ostrava - Letiště Leoše Janáčka - 1",
       "visible": true
     }
   },
   "68159": {
-    "name": "Bochov - Benzina",
-    "sha1": "2dda35e73cecae2d669d13e7d2b1b69cdc8d93cd",
+    "name": "R181 - Bochov - Benzina",
+    "sha1": "f82aa354da4913c5ae6423a704111dcb4b0398b1",
     "station": {
       "address": {
         "city": "Bochov",
@@ -18614,7 +18537,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T53-HU1-3318-005",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -18640,13 +18563,13 @@
         }
       ],
       "instructions": null,
-      "name": "Bochov - Benzina",
+      "name": "R181 - Bochov - Benzina",
       "visible": true
     }
   },
   "68160": {
-    "name": "Olomouc - McDonald´s - 2",
-    "sha1": "cec6f3dab0afa5dcaab82e972e9370711f71f275",
+    "name": "R188 - Olomouc - McDonald´s - 2",
+    "sha1": "860c6c224b15d92884601e5a338dcfa060c81cbd",
     "station": {
       "address": {
         "city": "Olomouc",
@@ -18687,7 +18610,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T53-HU1-3318-015",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -18713,13 +18636,13 @@
         }
       ],
       "instructions": null,
-      "name": "Olomouc - McDonald´s - 2",
+      "name": "R188 - Olomouc - McDonald´s - 2",
       "visible": true
     }
   },
   "68161": {
-    "name": "Olomouc - McDonald´s - 1",
-    "sha1": "7f496687cc61c0e883bdfd0fa42823e6ea7a4d47",
+    "name": "R187 - Olomouc - McDonald´s - 1",
+    "sha1": "01f7a1b561f236c44cab23d8beb73e89f7d7248c",
     "station": {
       "address": {
         "city": "Olomouc",
@@ -18760,7 +18683,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T53-HU1-3318-016",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -18786,13 +18709,13 @@
         }
       ],
       "instructions": null,
-      "name": "Olomouc - McDonald´s - 1",
+      "name": "R187 - Olomouc - McDonald´s - 1",
       "visible": true
     }
   },
   "68331": {
-    "name": "Osice - Benzina Plus - 1",
-    "sha1": "594f51a34a7efb4311f0a9b5138468e14a30e89f",
+    "name": "R221 - Osice - Benzina Plus - 1",
+    "sha1": "5d0da03aeb7a20852abda2ba4fbc8f86c11a9d85",
     "station": {
       "address": {
         "city": "50326 Osice",
@@ -18859,13 +18782,13 @@
         }
       ],
       "instructions": null,
-      "name": "Osice - Benzina Plus - 1",
+      "name": "R221 - Osice - Benzina Plus - 1",
       "visible": true
     }
   },
   "68333": {
-    "name": "Osice - Benzina Plus - 2",
-    "sha1": "7051a4c2de3eb9ed77d8cc8f65ba15892bffa58d",
+    "name": "R220 - Osice - Benzina Plus - 2",
+    "sha1": "f901364d59007b381530d9c9bd9930a82df34b12",
     "station": {
       "address": {
         "city": "50326 Osice",
@@ -18932,13 +18855,13 @@
         }
       ],
       "instructions": null,
-      "name": "Osice - Benzina Plus - 2",
+      "name": "R220 - Osice - Benzina Plus - 2",
       "visible": true
     }
   },
   "68545": {
-    "name": "Praha - Zličín - McDonalds",
-    "sha1": "219186ec2aac321a76f8630cb3faf83dc7f44933",
+    "name": "R222 - Praha - Zličín - McDonalds",
+    "sha1": "b4ef8b2792185e8eb56b4d62bbdc362967aed930",
     "station": {
       "address": {
         "city": "",
@@ -19005,13 +18928,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha - Zličín - McDonalds",
+      "name": "R222 - Praha - Zličín - McDonalds",
       "visible": true
     }
   },
   "68546": {
-    "name": "Liberec - Vratislavice",
-    "sha1": "e026f897b7342ae4cbf6899e547edd6a55498cfa",
+    "name": "R115 - Liberec - Vratislavice",
+    "sha1": "b020db2c315c7dda5ac944d4fe62e059f06e8178",
     "station": {
       "address": {
         "city": "",
@@ -19078,13 +19001,13 @@
         }
       ],
       "instructions": null,
-      "name": "Liberec - Vratislavice",
+      "name": "R115 - Liberec - Vratislavice",
       "visible": true
     }
   },
   "68667": {
-    "name": "Ždírec nad Doubravou - Benzina",
-    "sha1": "0b7a779018d17be9f32dd821bc15500aa2b8550f",
+    "name": "R223 - Ždírec nad Doubravou - Benzina",
+    "sha1": "d9683b282f6c2bde99565d3bdeddfbc4c5865a09",
     "station": {
       "address": {
         "city": "Ždírec nad Doubravou",
@@ -19151,13 +19074,13 @@
         }
       ],
       "instructions": null,
-      "name": "Ždírec nad Doubravou - Benzina",
+      "name": "R223 - Ždírec nad Doubravou - Benzina",
       "visible": true
     }
   },
   "68855": {
-    "name": "Velké Meziříčí - Kaufland",
-    "sha1": "3864e549cbc7099edcd5464472337f408b93c050",
+    "name": "R224 - Velké Meziříčí - Kaufland",
+    "sha1": "e37f39fcc820350b5c5b9d60c0330206b5c0c3ef",
     "station": {
       "address": {
         "city": "Velké Meziříčí",
@@ -19224,13 +19147,13 @@
         }
       ],
       "instructions": null,
-      "name": "Velké Meziříčí - Kaufland",
+      "name": "R224 - Velké Meziříčí - Kaufland",
       "visible": true
     }
   },
   "69118": {
-    "name": "Velká Dobrá - D6 - KFC - 2",
-    "sha1": "8a3fc6de4a5c124c7cba5cae15f04e3085d5a023",
+    "name": "R232 - Velká Dobrá - D6 - KFC - 2",
+    "sha1": "00589e489e6ce47500da4888a288ed7fa0896843",
     "station": {
       "address": {
         "city": "Velká Dobrá",
@@ -19297,13 +19220,13 @@
         }
       ],
       "instructions": null,
-      "name": "Velká Dobrá - D6 - KFC - 2",
+      "name": "R232 - Velká Dobrá - D6 - KFC - 2",
       "visible": true
     }
   },
   "69126": {
-    "name": "Velká Dobrá - D6 - KFC - 1",
-    "sha1": "563044adbdceab5df317b76f1b8e4ca771ead343",
+    "name": "R231 - Velká Dobrá - D6 - KFC - 1",
+    "sha1": "6078e2bb3a5a3d2ae2f6101857f7e71bf8e50351",
     "station": {
       "address": {
         "city": "Velká Dobrá",
@@ -19370,13 +19293,13 @@
         }
       ],
       "instructions": null,
-      "name": "Velká Dobrá - D6 - KFC - 1",
+      "name": "R231 - Velká Dobrá - D6 - KFC - 1",
       "visible": true
     }
   },
   "69134": {
-    "name": "Police nad Metují",
-    "sha1": "d944e77adf97d58ae7c2efc06f5799bfe86f6ab9",
+    "name": "R226 - Police nad Metují",
+    "sha1": "6527658d8b54952ebda6f30b4f0f076c30cfb674",
     "station": {
       "address": {
         "city": "Police nad Metují",
@@ -19443,13 +19366,13 @@
         }
       ],
       "instructions": null,
-      "name": "Police nad Metují",
+      "name": "R226 - Police nad Metují",
       "visible": true
     }
   },
   "69137": {
-    "name": "Dukovany - Jaderná elektrárnaJaderná elektrárna Dukovany",
-    "sha1": "c30b01ae3227aac6e64d43fcddb209cc861800bf",
+    "name": "R229 - Dukovany - Jaderná elektrárna",
+    "sha1": "7c3694a36285a8957fdb4c0bd9f0e79a562967b1",
     "station": {
       "address": {
         "city": "Dukovany",
@@ -19516,13 +19439,13 @@
         }
       ],
       "instructions": null,
-      "name": "Dukovany - Jaderná elektrárnaJaderná elektrárna Dukovany",
+      "name": "R229 - Dukovany - Jaderná elektrárna",
       "visible": true
     }
   },
   "69202": {
-    "name": "Dukovany - Jaderná elektrárna",
-    "sha1": "73c7c27505d5d0903535ed7a21f0f70c03893c61",
+    "name": "N114 - Dukovany - Jaderná elektrárna",
+    "sha1": "5a251c496774ecb33dc3846cd11db9636a15c230",
     "station": {
       "address": {
         "city": "Dukovany",
@@ -19557,7 +19480,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK014"
+          "physicalReference": "N114"
         },
         {
           "connectors": [
@@ -19571,7 +19494,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "SVK014"
+          "physicalReference": "N114"
         }
       ],
       "images": [
@@ -19580,13 +19503,13 @@
         }
       ],
       "instructions": null,
-      "name": "Dukovany - Jaderná elektrárna",
+      "name": "N114 - Dukovany - Jaderná elektrárna",
       "visible": true
     }
   },
   "69263": {
-    "name": "Telč",
-    "sha1": "b2cd74884963ee32d74d9f069ff7063aa3afeaf6",
+    "name": "R230 - Telč",
+    "sha1": "6d606033aa40054e17c6e76680cdf4d3ed284621",
     "station": {
       "address": {
         "city": "Telč",
@@ -19613,7 +19536,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-2119-005",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -19621,13 +19544,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R230"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-2119-005",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -19636,7 +19559,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-2119-005",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -19644,7 +19567,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R230"
         }
       ],
       "images": [
@@ -19653,13 +19576,13 @@
         }
       ],
       "instructions": null,
-      "name": "Telč",
+      "name": "R230 - Telč",
       "visible": true
     }
   },
   "80138": {
-    "name": "Moravská Třebová",
-    "sha1": "c118562e5a3a6ea8955b8eed64de0665a3dcdbb9",
+    "name": "R234 - Moravská Třebová",
+    "sha1": "50b48d13700d1483eb19e212b8ac893514224847",
     "station": {
       "address": {
         "city": "Moravská Třebová",
@@ -19726,13 +19649,13 @@
         }
       ],
       "instructions": null,
-      "name": "Moravská Třebová",
+      "name": "R234 - Moravská Třebová",
       "visible": true
     }
   },
   "80547": {
-    "name": "Praha-Modřany - Kaufland",
-    "sha1": "c75d0e6123ea8376cb12fa977f43de9fc11901ff",
+    "name": "R225 - Praha-Modřany - Kaufland",
+    "sha1": "da99971dc396c8fc02a0325cbb9566e02cd8a08e",
     "station": {
       "address": {
         "city": "Praha 4",
@@ -19759,7 +19682,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1819-020",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -19767,13 +19690,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R225"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1819-020",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -19782,7 +19705,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-1819-020",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -19790,7 +19713,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R225"
         }
       ],
       "images": [
@@ -19799,13 +19722,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Modřany - Kaufland",
+      "name": "R225 - Praha-Modřany - Kaufland",
       "visible": true
     }
   },
   "80548": {
-    "name": "Praha-Podbaba - Kaufland",
-    "sha1": "b8a4a73f33b5e90a7e36fb7042a9eab6c2363993",
+    "name": "R233 - Praha-Podbaba - Kaufland",
+    "sha1": "3863ce511fc59742b9b85c79df884da8588780af",
     "station": {
       "address": {
         "city": "Praha 6",
@@ -19832,7 +19755,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-2019-021",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -19840,13 +19763,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R233"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-2019-021",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -19855,7 +19778,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-2019-021",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -19863,7 +19786,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R233"
         }
       ],
       "images": [
@@ -19872,7 +19795,7 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Podbaba - Kaufland",
+      "name": "R233 - Praha-Podbaba - Kaufland",
       "visible": true
     }
   },
@@ -21045,8 +20968,8 @@
     }
   },
   "84906": {
-    "name": "R257 - Prachatice - Kaufland",
-    "sha1": "25409df6c39d2e3988c9750066040ca14a956989",
+    "name": "R244 - Prachatice - Kaufland",
+    "sha1": "782d3588ff6d44b3a07e15658b1bd7edfc0bf368",
     "station": {
       "address": {
         "city": "Prachatice",
@@ -21081,7 +21004,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "R257"
+          "physicalReference": "R244"
         },
         {
           "connectors": [
@@ -21104,7 +21027,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": "R257"
+          "physicalReference": "R244"
         }
       ],
       "images": [
@@ -21113,7 +21036,7 @@
         }
       ],
       "instructions": null,
-      "name": "R257 - Prachatice - Kaufland",
+      "name": "R244 - Prachatice - Kaufland",
       "visible": true
     }
   },

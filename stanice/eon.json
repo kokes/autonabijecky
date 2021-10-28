@@ -8591,7 +8591,7 @@
   },
   "33214": {
     "name": "E.ON ČS MOL Vyškov",
-    "sha1": "fdea6e5a3588e37cdce232afe4ca7e48674ab240",
+    "sha1": "af8cbfd26fe1022d25a697912b3f00a693f515c2",
     "station": {
       "address": "Kroměřížská 709",
       "city": "Vyškov",
@@ -8635,7 +8635,7 @@
             "longitude": "17.019908"
           },
           "evse_id": "CZ*EON*E11033214*1",
-          "last_seen_as_planned": "2020-12-16T13:07:14.737Z",
+          "last_seen_as_planned": "2021-10-27T20:18:11.247Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "33214"
@@ -8686,7 +8686,7 @@
             "longitude": "17.019908"
           },
           "evse_id": "CZ*EON*E11033214*2",
-          "last_seen_as_planned": "2020-12-16T13:07:14.737Z",
+          "last_seen_as_planned": "2021-10-27T20:18:11.247Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "33215"
@@ -8738,7 +8738,7 @@
           },
           "evse_id": "CZ*EON*E11033232*1",
           "floor_level": "",
-          "last_seen_as_planned": "2020-12-18T08:53:45Z",
+          "last_seen_as_planned": "2021-10-27T20:18:11.247Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "33232"
@@ -20063,6 +20063,126 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "384 62",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "66781": {
+    "name": "(P) K-Drives CZ s.r.o.",
+    "sha1": "a0be2a08954c2426d40b38cca35b41861598b2b9",
+    "station": {
+      "address": "Družstevní 1200/20",
+      "city": "Mohelnice",
+      "coordinates": {
+        "latitude": "49.77360228",
+        "longitude": "16.93277148"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2021-10-27T13:27:38.12Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "115",
+                "116"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2021-10-27T13:27:38.12Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "115",
+                "116"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.77360228",
+            "longitude": "16.93277148"
+          },
+          "evse_id": "CZ*EON*E98066781*1",
+          "last_seen_as_planned": "2021-10-27T13:27:38.12Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "66781"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2021-10-27T13:27:38.12Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "113",
+                "114"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.77360228",
+            "longitude": "16.93277148"
+          },
+          "evse_id": "CZ*EON*E98066781*2",
+          "last_seen_as_planned": "2021-10-27T13:27:38.12Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "66782"
+        }
+      ],
+      "id": "66781",
+      "last_updated": "RESET",
+      "name": "(P) K-Drives CZ s.r.o.",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "K-Drives CZ s.r.o."
+      },
+      "owner": {
+        "name": "K-Drives CZ s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "789 85",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
