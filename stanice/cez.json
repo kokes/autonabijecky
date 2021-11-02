@@ -6940,6 +6940,444 @@
       "visible": true
     }
   },
+  "151631": {
+    "name": "N145 - Praha - Štěrboholy",
+    "sha1": "1d577374d172078132c72eac59f1aec50320f898",
+    "station": {
+      "address": {
+        "city": "Praha - Štěrboholy",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.0674758,
+        "longitude": 14.5434882,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "",
+        "url": ""
+      },
+      "customID": "151631",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N145"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N145"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "N145 - Praha - Štěrboholy",
+      "visible": true
+    }
+  },
+  "151650": {
+    "name": "N152 - Zašová - Kulturní středisko",
+    "sha1": "9497688289e762f07f83cbd71c9bd772e7fcfc34",
+    "station": {
+      "address": {
+        "city": "",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.4763422,
+        "longitude": 18.0443819,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "",
+        "url": ""
+      },
+      "customID": "151650",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N152"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N152"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "N152 - Zašová - Kulturní středisko",
+      "visible": true
+    }
+  },
+  "151651": {
+    "name": "N148 - Lipník nad Bečvou",
+    "sha1": "8995d97418c341329df4ffad22a98b6a8836b5fc",
+    "station": {
+      "address": {
+        "city": "",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.5280494,
+        "longitude": 17.5850049,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Losertova",
+        "url": ""
+      },
+      "customID": "151651",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": ""
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": ""
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "N148 - Lipník nad Bečvou",
+      "visible": true
+    }
+  },
+  "151652": {
+    "name": "R368 - Vamberk",
+    "sha1": "a250ec3055f18b5d59408fab0d7eed414ead909d",
+    "station": {
+      "address": {
+        "city": "Vamberk",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "48",
+        "latitude": 50.1143806,
+        "longitude": 16.2759056,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dvořákova",
+        "url": ""
+      },
+      "customID": "151652",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3021-017",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R368"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3021-017",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3021-017",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R368"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "R368 - Vamberk",
+      "visible": true
+    }
+  },
+  "151653": {
+    "name": "R369 - Vamberk",
+    "sha1": "9687b1cf2dff00d2555089c3abb69d3c4057f111",
+    "station": {
+      "address": {
+        "city": "Vamberk",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "48",
+        "latitude": 50.1143806,
+        "longitude": 16.275905,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dvořákova",
+        "url": ""
+      },
+      "customID": "151653",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3021-015",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R369"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3021-015",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3021-015",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R369"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "R369 - Vamberk",
+      "visible": true
+    }
+  },
+  "151654": {
+    "name": "N151 - Liberec - OC Nisa",
+    "sha1": "d09698c47482a668361021d54442ebf47eba1c34",
+    "station": {
+      "address": {
+        "city": "Liberec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "mládeže 456",
+        "latitude": 50.741242,
+        "longitude": 15.048296,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "České",
+        "url": ""
+      },
+      "customID": "151654",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N151"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N151"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "N151 - Liberec - OC Nisa",
+      "visible": true
+    }
+  },
+  "151656": {
+    "name": "N154 - BB Centrum Filadelfie",
+    "sha1": "c23bb6db3de0ffcddea979a9bb6aed06c05c34dd",
+    "station": {
+      "address": {
+        "city": "Praha",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1525/1",
+        "latitude": 50.0488004,
+        "longitude": 14.4536031,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Želetavská",
+        "url": ""
+      },
+      "customID": "151656",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N154"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N154"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "N154 - BB Centrum Filadelfie",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "b57b81fd6ee9b18afc4845f94aaa97f75ce4f86a",
@@ -10831,73 +11269,9 @@
       "visible": true
     }
   },
-  "59487": {
-    "name": "Ostrava-Vítkovice - Teplárna",
-    "sha1": "209c8150c473fd2d4b4c3f2e8292ddbb16f57801",
-    "station": {
-      "address": {
-        "city": "Ostrava",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "1144/103",
-        "latitude": 49.81523,
-        "longitude": 18.2738394,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Výstavní",
-        "url": ""
-      },
-      "customID": "59487",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "13",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "13"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "13",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "13"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/dsnd-vitkovice-mala.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "Ostrava-Vítkovice - Teplárna",
-      "visible": true
-    }
-  },
   "59488": {
-    "name": "Praha - Corso Court Karlín 1",
-    "sha1": "bd441188afe932da052e665a02d1625779f6126a",
+    "name": "R110 - Praha - Corso Court Karlín 1",
+    "sha1": "f683e94a54eca50ee477e85d347b7039927a21b5",
     "station": {
       "address": {
         "city": "Praha 8",
@@ -10964,13 +11338,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha - Corso Court Karlín 1",
+      "name": "R110 - Praha - Corso Court Karlín 1",
       "visible": true
     }
   },
   "59489": {
-    "name": "Praha - Corso Court Karlín - 2",
-    "sha1": "facb1910746c83af169717c2a1a2c08668f38502",
+    "name": "R111 - Praha - Corso Court Karlín - 2",
+    "sha1": "563739d8c88830db176b5ae048e4c317c0a6f1c9",
     "station": {
       "address": {
         "city": "Praha 8",
@@ -11037,7 +11411,7 @@
         }
       ],
       "instructions": null,
-      "name": "Praha - Corso Court Karlín - 2",
+      "name": "R111 - Praha - Corso Court Karlín - 2",
       "visible": true
     }
   },
@@ -11850,8 +12224,8 @@
     }
   },
   "59502": {
-    "name": "Praha-Holešovice - Visionary - 2",
-    "sha1": "9642906ed9bad3d277edf398e1ed3ebee112a15a",
+    "name": "R272 - Praha-Holešovice - Visionary - 2",
+    "sha1": "985db07551b60a92160e4abb246589171bdf0aee",
     "station": {
       "address": {
         "city": "Praha",
@@ -11878,7 +12252,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "T53-IT1-0318-024 ",
+              "chargePointIdentity": "T54-HU1-2119-010 ",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -11886,13 +12260,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "R148"
+          "physicalReference": "R272"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T53-IT1-0318-024 ",
+              "chargePointIdentity": "T54-HU1-2119-010",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -11901,7 +12275,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "T53-IT1-0318-024 ",
+              "chargePointIdentity": "T54-HU1-2119-010",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -11909,7 +12283,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": "R148"
+          "physicalReference": "R272"
         }
       ],
       "images": [
@@ -11918,7 +12292,7 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Holešovice - Visionary - 2",
+      "name": "R272 - Praha-Holešovice - Visionary - 2",
       "visible": true
     }
   },
@@ -11996,8 +12370,8 @@
     }
   },
   "59504": {
-    "name": "Praha-Michle - Burger King",
-    "sha1": "ada5e62c2e579cbade33c7f0c659b7e22c9f4833",
+    "name": "R109 - Praha-Michle - Burger King",
+    "sha1": "0c69d58f67a2f59d0e9fdf630448ee21e99a6545",
     "station": {
       "address": {
         "city": "Praha 4 - Michle",
@@ -12064,7 +12438,7 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Michle - Burger King",
+      "name": "R109 - Praha-Michle - Burger King",
       "visible": true
     }
   },
@@ -12562,8 +12936,8 @@
     }
   },
   "59512": {
-    "name": "Prunéřov - Elektrárna Prunéřov",
-    "sha1": "65fa8aea52e0f192848b8176986b9c08ac5ce141",
+    "name": "N029 - Prunéřov - Elektrárna Prunéřov",
+    "sha1": "772afea1386e9df995e5f476c02ca20f7b9f7954",
     "station": {
       "address": {
         "city": "Kadaň",
@@ -12590,7 +12964,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "29",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -12598,13 +12972,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "29"
+          "physicalReference": "N029"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "29",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 22,
@@ -12612,7 +12986,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "29"
+          "physicalReference": "N029"
         }
       ],
       "images": [
@@ -12621,7 +12995,7 @@
         }
       ],
       "instructions": null,
-      "name": "Prunéřov - Elektrárna Prunéřov",
+      "name": "N029 - Prunéřov - Elektrárna Prunéřov",
       "visible": true
     }
   },
@@ -13375,8 +13749,8 @@
     }
   },
   "59524": {
-    "name": "Praha-Holešovice - Visionary - 1",
-    "sha1": "9e26efa10e17b4807694f61b1364dd7bc8a47ee3",
+    "name": "R271 - Praha-Holešovice - Visionary - 1",
+    "sha1": "03f6b623d3b2da90e9eca3fd8746d6594d831f69",
     "station": {
       "address": {
         "city": "Praha",
@@ -13403,7 +13777,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "T53-IT1-0118-008 ",
+              "chargePointIdentity": "T54-HU1-1820-008 ",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -13411,13 +13785,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "R145"
+          "physicalReference": "R271"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T53-IT1-0118-008 ",
+              "chargePointIdentity": "T54-HU1-1820-008 ",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -13426,7 +13800,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "T53-IT1-0118-008 ",
+              "chargePointIdentity": "T54-HU1-1820-008 ",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -13434,7 +13808,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": "R145"
+          "physicalReference": "R271"
         }
       ],
       "images": [
@@ -13443,13 +13817,13 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Holešovice - Visionary - 1",
+      "name": "R271 - Praha-Holešovice - Visionary - 1",
       "visible": true
     }
   },
   "59525": {
-    "name": "Hodonín - Kaufland - 1",
-    "sha1": "3ca43963037dfff96f0d3453a57b68ea0678e2d7",
+    "name": "R146 - Hodonín - Kaufland - 1",
+    "sha1": "f11a32a0b7a5b0fb0b7559aa0f5cc6ec228ac4dd",
     "station": {
       "address": {
         "city": "Hodonín",
@@ -13516,7 +13890,7 @@
         }
       ],
       "instructions": null,
-      "name": "Hodonín - Kaufland - 1",
+      "name": "R146 - Hodonín - Kaufland - 1",
       "visible": true
     }
   },
@@ -13649,8 +14023,8 @@
     }
   },
   "59528": {
-    "name": "Šternberk - Kaufland",
-    "sha1": "f6fe04805c63de42acf67fc54a6f7c6bec2f7394",
+    "name": "R158 - Šternberk - Kaufland",
+    "sha1": "d78039c0a229d352719373c4cd3a77eeb3dd32cd",
     "station": {
       "address": {
         "city": "Šternberk",
@@ -13717,7 +14091,7 @@
         }
       ],
       "instructions": null,
-      "name": "Šternberk - Kaufland",
+      "name": "R158 - Šternberk - Kaufland",
       "visible": true
     }
   },
@@ -13859,8 +14233,8 @@
     }
   },
   "59531": {
-    "name": "Praha-Průmyslová - Mc Donald's - 2",
-    "sha1": "955eee6b91125e2ce0c7497a2ba456752bcb1e40",
+    "name": "R167 - Praha-Průmyslová - Mc Donald's - 2",
+    "sha1": "492cba20c0d7852be76a9dc195ef38b79da9c8f9",
     "station": {
       "address": {
         "city": "Praha 10",
@@ -13927,7 +14301,7 @@
         }
       ],
       "instructions": null,
-      "name": "Praha-Průmyslová - Mc Donald's - 2",
+      "name": "R167 - Praha-Průmyslová - Mc Donald's - 2",
       "visible": true
     }
   },
@@ -14005,8 +14379,8 @@
     }
   },
   "59533": {
-    "name": "Plzeň - Benzina",
-    "sha1": "8c4e5cdb3c8180de9c935ed444e7a0e6fdd4bc2f",
+    "name": "R171 - Plzeň - Benzina",
+    "sha1": "1a4ed4a4bb915bb9a0ac64eb8dab3af7bb5ff1bc",
     "station": {
       "address": {
         "city": "Plzeň",
@@ -14073,13 +14447,13 @@
         }
       ],
       "instructions": null,
-      "name": "Plzeň - Benzina",
+      "name": "R171 - Plzeň - Benzina",
       "visible": true
     }
   },
   "59534": {
-    "name": "Hradec Králové - Jaguar",
-    "sha1": "7f36c24f60669aeae09eb475e11b041e0b87ed9b",
+    "name": "R193 - Hradec Králové - Jaguar",
+    "sha1": "9f0b44716ae19652063857ff8fa2e3b24c6e3be2",
     "station": {
       "address": {
         "city": "Hradec Králové",
@@ -14146,7 +14520,7 @@
         }
       ],
       "instructions": null,
-      "name": "Hradec Králové - Jaguar",
+      "name": "R193 - Hradec Králové - Jaguar",
       "visible": true
     }
   },
@@ -14370,8 +14744,8 @@
     }
   },
   "59538": {
-    "name": "Ostrava - Autolaros Speed",
-    "sha1": "a340cf243dd1e1c613db4be1a269411fd91a5eec",
+    "name": "R170 - Ostrava - Autolaros Speed",
+    "sha1": "5c3643a83cc2a3cc4ab604a34dcdf5afcf8061a3",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -14438,7 +14812,7 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrava - Autolaros Speed",
+      "name": "R170 - Ostrava - Autolaros Speed",
       "visible": true
     }
   },
@@ -14662,8 +15036,8 @@
     }
   },
   "59542": {
-    "name": "Mariánské Lázně - 1",
-    "sha1": "38983770f0b2371a3c553efd0cfb8e1329741356",
+    "name": "R172 - Mariánské Lázně - 1",
+    "sha1": "406f7b4ed6a7f2b782ddfb4ba63b30ec58d43a6c",
     "station": {
       "address": {
         "city": "Mariánské Lázně",
@@ -14730,7 +15104,7 @@
         }
       ],
       "instructions": null,
-      "name": "Mariánské Lázně - 1",
+      "name": "R172 - Mariánské Lázně - 1",
       "visible": true
     }
   },
@@ -16169,7 +16543,7 @@
   },
   "59564": {
     "name": "Loket - Ultrarychlá dobíjecí stanice - McDonalds, D1/66. km - 1",
-    "sha1": "151d2a900f60c2ca75028cf7bca3558f51454a79",
+    "sha1": "74b97e7c98c1a48ccac90cf63d88b3bf91efd09f",
     "station": {
       "address": {
         "city": "Čechtice",
@@ -16223,7 +16597,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/foto-sternberk-mala.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/urds-kaufland-vitkovice-1.jpg"
         }
       ],
       "instructions": null,
