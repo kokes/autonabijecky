@@ -13028,6 +13028,120 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "50153": {
+    "name": "(P) Mamaison Residence Downtown Prague",
+    "sha1": "86f8a3e5e9bdf6b1f1b03d8d4b7c8aa99d4ea068",
+    "station": {
+      "address": "Na Rybníčku 1329/5",
+      "city": "Praha 2",
+      "coordinates": {
+        "latitude": "50.07651",
+        "longitude": "14.426336"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-11-02T13:49:00.557Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "35",
+                "36"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.07651",
+            "longitude": "14.426336"
+          },
+          "evse_id": "CZ*EON*E50153",
+          "last_seen_as_planned": "2021-11-02T13:49:00.557Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "50153"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-11-02T13:49:00.557Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "35",
+                "36"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.07651",
+            "longitude": "14.426336"
+          },
+          "evse_id": "CZ*EON*E66033",
+          "last_seen_as_planned": "2021-11-02T13:49:00.557Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "66033"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT"
+      ],
+      "id": "50153",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/78669/9429181630912574.jpg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) Mamaison Residence Downtown Prague",
+      "operator": {
+        "name": "COM Electric s.r.o."
+      },
+      "owner": {
+        "name": "CPI Hotels, a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "12000",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "51409": {
     "name": "E.ON Stará Paka",
     "sha1": "66cc532e75ad6d9ad23edca9de68614fd97e39a0",
@@ -13159,13 +13273,13 @@
   },
   "51415": {
     "name": "E.ON Malenovice",
-    "sha1": "f8e8bbf8412107294e6f0ca6cf297598de17b3b9",
+    "sha1": "f495a2a5f9bd02687942e3bb71fb1a9e67dd0fad",
     "station": {
       "address": "Tečovská 1131",
       "city": "Zlín - Malenovice",
       "coordinates": {
-        "latitude": "49.2122124",
-        "longitude": "17.59286048"
+        "latitude": "49.21237992",
+        "longitude": "17.59357539"
       },
       "country": "CZE",
       "country_code": "CZ",
@@ -13199,8 +13313,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "49.2122124",
-            "longitude": "17.59286048"
+            "latitude": "49.21237992",
+            "longitude": "17.59357539"
           },
           "evse_id": "CZ*EON*E11051415*1",
           "last_seen_as_planned": "2021-10-22T08:38:10.533Z",
@@ -13250,8 +13364,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "49.2122124",
-            "longitude": "17.59286048"
+            "latitude": "49.21237992",
+            "longitude": "17.59357539"
           },
           "evse_id": "CZ*EON*E11051415*2",
           "last_seen_as_planned": "2021-10-22T08:38:10.533Z",
@@ -20422,6 +20536,218 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "67401",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "80621": {
+    "name": "(P) Borák Development s.r.o.",
+    "sha1": "27473e1790779eca1ccc5c9200f5671e45ef7a5e",
+    "station": {
+      "address": "Vlčnovská 2066",
+      "city": "Uherský Brod",
+      "coordinates": {
+        "latitude": "49.019741",
+        "longitude": "17.64941"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-11-02T13:22:32.237Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "117",
+                "118"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.019741",
+            "longitude": "17.64941"
+          },
+          "evse_id": "CZ*EON*E80621",
+          "last_seen_as_planned": "2021-11-02T13:23:21.38Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "80621"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-11-02T13:22:32.237Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "117",
+                "118"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.019741",
+            "longitude": "17.64941"
+          },
+          "evse_id": "CZ*EON*E80622",
+          "last_seen_as_planned": "2021-11-02T13:23:21.38Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "80622"
+        }
+      ],
+      "id": "80621",
+      "last_updated": "RESET",
+      "name": "(P) Borák Development s.r.o.",
+      "operator": {
+        "name": "BORÁK DEVELOPMENT, s.r.o."
+      },
+      "owner": {
+        "name": "BORÁK DEVELOPMENT, s.r.o."
+      },
+      "party_id": "EON",
+      "postal_code": "68801",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "COM Electric s.r.o."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "87558": {
+    "name": "(P) Amenity Hotel & Resort Špindlerův Mlýn",
+    "sha1": "4ea6e7221d7cd3f540ffbb37447afab3949f92ab",
+    "station": {
+      "address": "Špindlerův Mlýn 117",
+      "city": "Špindlerův Mlýn",
+      "coordinates": {
+        "latitude": "50.716344",
+        "longitude": "15.574373"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-11-02T13:55:32.573Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "15",
+                "16"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.716344",
+            "longitude": "15.574373"
+          },
+          "evse_id": "CZ*EON*E87558",
+          "last_seen_as_planned": "2021-11-02T13:55:32.573Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "87558"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-11-02T13:55:32.573Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "15",
+                "16"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.716344",
+            "longitude": "15.574373"
+          },
+          "evse_id": "CZ*EON*E87559",
+          "last_seen_as_planned": "2021-11-02T13:55:32.573Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "87559"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT"
+      ],
+      "id": "87558",
+      "last_updated": "RESET",
+      "name": "(P) Amenity Hotel & Resort Špindlerův Mlýn",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "COM Electric s.r.o."
+      },
+      "owner": {
+        "name": "Amenity Resorts s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "543 51",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
