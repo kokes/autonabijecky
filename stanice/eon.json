@@ -11948,7 +11948,7 @@
   },
   "42078": {
     "name": "E.ON ČS Benzina Břeclav",
-    "sha1": "d7d3215a559af5c3c974c2b7e50b97c4261fde16",
+    "sha1": "cd08be1f1ffbadcc0d7e21e54fed43af6fdff650",
     "station": {
       "address": "Lidická 3121",
       "city": "Břeclav",
@@ -12047,6 +12047,42 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "42079"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.777464",
+            "longitude": "16.898568"
+          },
+          "evse_id": "CZ*EON*E11051411*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51411"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.777464",
+            "longitude": "16.898568"
+          },
+          "evse_id": "CZ*EON*E11051411*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51412"
         }
       ],
       "facilities": [

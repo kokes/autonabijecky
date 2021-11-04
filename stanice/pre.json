@@ -6240,12 +6240,12 @@
   },
   "CZ4102732": {
     "name": "Schnellladestation OMV Mariánské Lázně",
-    "sha1": "ceba0169f274180a4dc346e6e84234ed65a39d9b",
+    "sha1": "603c05a932c56885fa5a7130520bc08849524869",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
         "chargingFacility": [
-          "Unspecified"
+          "DC Charging ≤50kW"
         ]
       },
       "city": "Mariánské Lázně",
@@ -6253,7 +6253,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ4102732",
       "csName": "Schnellladestation OMV Mariánské Lázně",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "At the gas station parking lot",
       "enCsname": "Fast charger OMV Mariánské Lázně",
@@ -6264,6 +6264,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_marianske_lazne.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
