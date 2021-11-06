@@ -7378,6 +7378,282 @@
       "visible": true
     }
   },
+  "151867": {
+    "name": "Teplice - OC Olympia – 3",
+    "sha1": "9e847280e8ea1ee0513f75838f11a0f7011888b2",
+    "station": {
+      "address": {
+        "city": "Teplice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "464",
+        "latitude": 50.6608595,
+        "longitude": 13.8663998,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Srbická",
+        "url": ""
+      },
+      "customID": "151867",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1821-007",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R373"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1821-007",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1821-007",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R373"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Teplice - OC Olympia – 3",
+      "visible": true
+    }
+  },
+  "151868": {
+    "name": "Teplice - OC Olympia – 4",
+    "sha1": "60d6f229c5b0c290b56009d167cf65a4e89ce0e6",
+    "station": {
+      "address": {
+        "city": "Teplice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "464",
+        "latitude": 50.6608595,
+        "longitude": 13.86634,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Srbická",
+        "url": ""
+      },
+      "customID": "151868",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1821-005",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R374"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1821-005",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1821-005",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R374"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Teplice - OC Olympia – 4",
+      "visible": true
+    }
+  },
+  "151886": {
+    "name": "Teplice - OC Olympia - 1",
+    "sha1": "fd8278a9f4090b32a26448e4a87f8abe78e05ecf",
+    "station": {
+      "address": {
+        "city": "Teplice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "464",
+        "latitude": 50.6608595,
+        "longitude": 13.8663982,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Srbická",
+        "url": ""
+      },
+      "customID": "151886",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1921-011",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R371"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1921-011",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1921-011",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R371"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Teplice - OC Olympia - 1",
+      "visible": true
+    }
+  },
+  "151887": {
+    "name": "Teplice - OC Olympia – 2",
+    "sha1": "3cb5651ffdc07821e761c6601930125f95712322",
+    "station": {
+      "address": {
+        "city": "Teplice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "464",
+        "latitude": 50.6608595,
+        "longitude": 13.866399,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Srbická",
+        "url": ""
+      },
+      "customID": "151887",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1921-009",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R372"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1921-009",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1921-009",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R372"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Teplice - OC Olympia – 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "b57b81fd6ee9b18afc4845f94aaa97f75ce4f86a",
