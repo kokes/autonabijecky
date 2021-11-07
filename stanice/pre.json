@@ -5223,7 +5223,7 @@
   },
   "CZ2002721": {
     "name": "Schnellladestation EuroOil Břežany",
-    "sha1": "6bb5ecb0d23f1cd3570a6048daac71c9cdbbd5d9",
+    "sha1": "0990456eff23a6b35daf5982ec7878c0b9ac5859",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "chargingFacilities": {
@@ -5247,6 +5247,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_brezany.jpg"
+        },
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_brezany_partner_1.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "ČEPRO a.s.",
@@ -8632,6 +8644,52 @@
       "postalCode": "73801",
       "region": "Moravskoslezský kraj",
       "street": "Beskydská"
+    }
+  },
+  "CZ8003140": {
+    "name": "Schnellladestation Penny Market Třinec",
+    "sha1": "03e6e79dbeb4782db352c15997f9d163cf8ecbcb",
+    "station": {
+      "additionalInfo": "Auf dem Penny Parkplatz",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Třinec",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8003140",
+      "csName": "Schnellladestation Penny Market Třinec",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "On the Penny Parking lot",
+      "enCsname": "Fast charger Penny Market Třinec",
+      "evseId": "CZ*PRE*E1R5055*2",
+      "geoCoord": {
+        "latitude": "49.676721",
+        "longitude": "18.667723"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_penny_market_trinec.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "73961",
+      "region": "Moravskoslezský kraj",
+      "street": "Lidická 146"
     }
   }
 }
