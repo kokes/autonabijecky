@@ -11948,7 +11948,7 @@
   },
   "42078": {
     "name": "E.ON ČS Benzina Břeclav",
-    "sha1": "a810411fc45a69d097ceb06b8ad603c9ffc36e20",
+    "sha1": "ee814127798d0c6acf71623e482c91eb55103888",
     "station": {
       "address": "Lidická 3121",
       "city": "Břeclav",
@@ -12059,9 +12059,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2021-11-04T23:00:54.197Z",
+              "last_updated": "2021-11-08T23:01:02.387Z",
               "max_amperage": 63,
-              "max_electric_power": 43000,
+              "max_electric_power": 22000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
@@ -12141,6 +12141,13 @@
         "FUEL_STATION"
       ],
       "id": "42078",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "JPG",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/45302/7098431636380289.JPG"
+        }
+      ],
       "last_updated": "RESET",
       "name": "E.ON ČS Benzina Břeclav",
       "opening_times": {
@@ -20728,6 +20735,191 @@
       "state": "Česká republika",
       "suboperator": {
         "name": "COM Electric s.r.o."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "81650": {
+    "name": "(P) Terno Hradec Králové",
+    "sha1": "d1ed310198e81830512c47bc7803c8682bfdd202",
+    "station": {
+      "address": "Bratří Štefanů 994",
+      "city": "Hradec Králové - Slezské Předměstí",
+      "coordinates": {
+        "latitude": "50.218151",
+        "longitude": "15.877231"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-11-08T07:53:12.507Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "119",
+                "120"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.218151",
+            "longitude": "15.877231"
+          },
+          "evse_id": "CZ*EON*E31081650*1",
+          "last_seen_as_planned": "2021-11-08T07:53:12.507Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81650"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-11-08T07:53:12.507Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "119",
+                "120"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.218151",
+            "longitude": "15.877231"
+          },
+          "evse_id": "CZ*EON*E31081650*2",
+          "last_seen_as_planned": "2021-11-08T07:53:12.507Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81651"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-11-08T07:53:12.507Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "119",
+                "120"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.218151",
+            "longitude": "15.877231"
+          },
+          "evse_id": "CZ*EON*E31081652*1",
+          "last_seen_as_planned": "2021-11-08T07:53:12.507Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81652"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-11-08T07:53:12.507Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "119",
+                "120"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.218151",
+            "longitude": "15.877231"
+          },
+          "evse_id": "CZ*EON*E31081652*2",
+          "last_seen_as_planned": "2021-11-08T07:53:12.507Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81653"
+        }
+      ],
+      "facilities": [
+        "CAFE",
+        "MALL",
+        "SUPERMARKET",
+        "FUEL_STATION"
+      ],
+      "id": "81650",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/81697/1754291636357107.jpg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) Terno Hradec Králové",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "JEDNOTA, spotřební družstvo České Budějovice"
+      },
+      "owner": {
+        "name": "JEDNOTA, spotřební družstvo České Budějovice"
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "500 03",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
       },
       "time_zone": "Europe/Prague"
     }
