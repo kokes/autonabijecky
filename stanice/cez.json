@@ -7380,7 +7380,7 @@
   },
   "151867": {
     "name": "Teplice - OC Olympia – 3",
-    "sha1": "9e847280e8ea1ee0513f75838f11a0f7011888b2",
+    "sha1": "b91e1386786a474a55f226e264dee63cfcad00ab",
     "station": {
       "address": {
         "city": "Teplice",
@@ -7389,7 +7389,7 @@
         "floor": null,
         "houseNumber": "464",
         "latitude": 50.6608595,
-        "longitude": 13.8663998,
+        "longitude": 13.86635,
         "phoneNumber": null,
         "postalCode": null,
         "street": "Srbická",
@@ -7449,7 +7449,7 @@
   },
   "151868": {
     "name": "Teplice - OC Olympia – 4",
-    "sha1": "60d6f229c5b0c290b56009d167cf65a4e89ce0e6",
+    "sha1": "738357a7450883bbb8d604af04752bc94a6f3e8c",
     "station": {
       "address": {
         "city": "Teplice",
@@ -7458,7 +7458,7 @@
         "floor": null,
         "houseNumber": "464",
         "latitude": 50.6608595,
-        "longitude": 13.86634,
+        "longitude": 13.86633,
         "phoneNumber": null,
         "postalCode": null,
         "street": "Srbická",
@@ -7587,7 +7587,7 @@
   },
   "151887": {
     "name": "Teplice - OC Olympia – 2",
-    "sha1": "3cb5651ffdc07821e761c6601930125f95712322",
+    "sha1": "7a288c4e6f7ed3efd5fe19e8cf73bb833f8c754b",
     "station": {
       "address": {
         "city": "Teplice",
@@ -7596,7 +7596,7 @@
         "floor": null,
         "houseNumber": "464",
         "latitude": 50.6608595,
-        "longitude": 13.866399,
+        "longitude": 13.86637,
         "phoneNumber": null,
         "postalCode": null,
         "street": "Srbická",
@@ -7651,6 +7651,384 @@
       "images": [],
       "instructions": null,
       "name": "Teplice - OC Olympia – 2",
+      "visible": true
+    }
+  },
+  "151920": {
+    "name": "Teplice - OC Olympia – 5",
+    "sha1": "60c04bdc0d8a4102a4803129fc05e6d85db110c2",
+    "station": {
+      "address": {
+        "city": "Teplice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "464",
+        "latitude": 50.6608595,
+        "longitude": 13.86631,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Srbická",
+        "url": ""
+      },
+      "customID": "151920",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "SVK056",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N156"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "SVK056",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N156"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Teplice - OC Olympia – 5",
+      "visible": true
+    }
+  },
+  "151921": {
+    "name": "Teplice - OC Olympia – 6",
+    "sha1": "dec66ba2558768a490a49bfa1f84dd71bb3283ee",
+    "station": {
+      "address": {
+        "city": "Teplice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "464",
+        "latitude": 50.6608595,
+        "longitude": 13.86629,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Srbická",
+        "url": ""
+      },
+      "customID": "151921",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "SVK057",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N157"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "SVK057",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N157"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Teplice - OC Olympia – 6",
+      "visible": true
+    }
+  },
+  "151923": {
+    "name": "Ostrava - Outlet Arena Moravia - 3",
+    "sha1": "db846e3f43a53b8dc2b25ee00630b3e09cfd32e5",
+    "station": {
+      "address": {
+        "city": "Ostrava",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1173",
+        "latitude": 49.86021,
+        "longitude": 18.2573,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Hlučínská",
+        "url": ""
+      },
+      "customID": "151923",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": ""
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": ""
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Ostrava - Outlet Arena Moravia - 3",
+      "visible": true
+    }
+  },
+  "152020": {
+    "name": "Teplice - OC Olympia – 7",
+    "sha1": "954a22693216a2595b64d91f4d7d75228a264a53",
+    "station": {
+      "address": {
+        "city": "Teplice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "464",
+        "latitude": 50.6608595,
+        "longitude": 13.86627,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Srbická",
+        "url": ""
+      },
+      "customID": "152020",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "SVK058",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N158"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "SVK058",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N158"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Teplice - OC Olympia – 7",
+      "visible": true
+    }
+  },
+  "152024": {
+    "name": "Ostrava - Outlet Arena Moravia - 1",
+    "sha1": "5ddaa8c59be3970e5db534d379934953c6311087",
+    "station": {
+      "address": {
+        "city": "Ostrava",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1173",
+        "latitude": 49.86021,
+        "longitude": 18.25734,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Hlučínská",
+        "url": ""
+      },
+      "customID": "152024",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": ""
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": ""
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Ostrava - Outlet Arena Moravia - 1",
+      "visible": true
+    }
+  },
+  "152025": {
+    "name": "Ostrava - Outlet Arena Moravia - 2",
+    "sha1": "0473129f3c9a6a900bfe47caebe0043776227e7a",
+    "station": {
+      "address": {
+        "city": "Ostrava",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1173",
+        "latitude": 49.86021,
+        "longitude": 18.25732,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Hlučínská",
+        "url": ""
+      },
+      "customID": "152025",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": ""
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": ""
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Ostrava - Outlet Arena Moravia - 2",
       "visible": true
     }
   },

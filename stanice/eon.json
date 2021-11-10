@@ -11270,6 +11270,206 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "35955": {
+    "name": "E.ON Hotel Farma",
+    "sha1": "66b3a249d088afe555979b46a056e4ddd0ec2446",
+    "station": {
+      "address": "Služátky 25",
+      "city": "Pelhřimov",
+      "coordinates": {
+        "latitude": "49.46082222",
+        "longitude": "15.2430547"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.46082222",
+            "longitude": "15.2430547"
+          },
+          "evse_id": "CZ*EON*E25035955*1",
+          "last_seen_as_planned": "2021-11-09T06:36:25.23Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35955"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.46082222",
+            "longitude": "15.2430547"
+          },
+          "evse_id": "CZ*EON*E25035955*2",
+          "last_seen_as_planned": "2021-11-09T06:36:25.23Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35956"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "SPORT"
+      ],
+      "id": "35955",
+      "last_updated": "RESET",
+      "name": "E.ON Hotel Farma",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Energie, a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "393 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "35959": {
+    "name": "E.ON Chata Rovina",
+    "sha1": "73fe81fd695a5d4254567acdae9a765788117c23",
+    "station": {
+      "address": "Dobrá Voda 16",
+      "city": "Hartmanice",
+      "coordinates": {
+        "latitude": "49.15716649",
+        "longitude": "13.42137479"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-11-09T06:26:52.917Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.15716649",
+            "longitude": "13.42137479"
+          },
+          "evse_id": "CZ*EON*E25035959*1",
+          "last_seen_as_planned": "2021-11-09T06:26:52.917Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35959"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-11-09T06:26:52.917Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.15716649",
+            "longitude": "13.42137479"
+          },
+          "evse_id": "CZ*EON*E25035959*2",
+          "last_seen_as_planned": "2021-11-09T06:26:52.917Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35960"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "SPORT",
+        "RECREATION_AREA",
+        "NATURE",
+        "BIKE_SHARING"
+      ],
+      "id": "35959",
+      "last_updated": "RESET",
+      "name": "E.ON Chata Rovina",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Energie, a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "342 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "35984": {
     "name": "(P) BabyhotelKarolinka.cz",
     "sha1": "ff18f7881302bac1505b97d7335dd320e0860a2b",
@@ -11948,7 +12148,7 @@
   },
   "42078": {
     "name": "E.ON ČS Benzina Břeclav",
-    "sha1": "ee814127798d0c6acf71623e482c91eb55103888",
+    "sha1": "c9a1451aefaf304dd7caf9d558efe8461af77746",
     "station": {
       "address": "Lidická 3121",
       "city": "Břeclav",
@@ -12057,10 +12257,10 @@
           ],
           "connectors": [
             {
-              "format": "CABLE",
+              "format": "SOCKET",
               "id": "1",
-              "last_updated": "2021-11-08T23:01:02.387Z",
-              "max_amperage": 63,
+              "last_updated": "2021-11-09T06:42:41.833Z",
+              "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",

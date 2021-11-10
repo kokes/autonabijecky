@@ -4941,6 +4941,54 @@
       "street": "Schwarzenberská"
     }
   },
+  "CZ1003145": {
+    "name": "Ladestation PREpoint e-SALON 2021",
+    "sha1": "9c8211c89f92dc861e2835936488ab200376766a",
+    "station": {
+      "additionalInfo": "Stanice se nachází na parkovišti u vchodu D od 11. do 14. listopadu.",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003145",
+      "csName": "Ladestation PREpoint e-SALON 2021",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Station is located at the parking lot near the entrance D from 11th to 14th of Novemeber.",
+      "enCsname": "Charger PREpoint e-SALON 2021",
+      "enExtra": "Temporary charging station for visitors of e-SALON 2021",
+      "evseId": "CZ*PRE*E0S0017*2",
+      "extra": "Dočasná dobíjecí stanice pro návštěvníky e-SALON 2021",
+      "geoCoord": {
+        "latitude": "50.129786",
+        "longitude": "14.517158"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_prepoit_e-salon_2021.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19900",
+      "region": "Hlavní město Praha",
+      "street": "Beranových 667"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
@@ -6252,7 +6300,7 @@
   },
   "CZ4102732": {
     "name": "Schnellladestation OMV Mariánské Lázně",
-    "sha1": "603c05a932c56885fa5a7130520bc08849524869",
+    "sha1": "b8ef91fb2eae5e44707fe4f7a91ca59e4a696250",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
@@ -6280,7 +6328,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_marianske_lazne.jpg"
+          "uri": "https://smatrics.com/sites/default/files/pre_app_marianske_lazne.jpg"
         }
       ],
       "isOpen24Hours": "true",
