@@ -11272,7 +11272,7 @@
   },
   "35955": {
     "name": "E.ON Hotel Farma",
-    "sha1": "66b3a249d088afe555979b46a056e4ddd0ec2446",
+    "sha1": "346cd4fa7ca4b87443c108ae3e2548c64f3f08d8",
     "station": {
       "address": "Služátky 25",
       "city": "Pelhřimov",
@@ -11293,13 +11293,30 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-11-10T23:00:54.65Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.46082222",
             "longitude": "15.2430547"
           },
           "evse_id": "CZ*EON*E25035955*1",
-          "last_seen_as_planned": "2021-11-09T06:36:25.23Z",
+          "last_seen_as_planned": "2021-11-10T23:00:54.65Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35955"
@@ -11311,13 +11328,30 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-11-10T23:00:54.65Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.46082222",
             "longitude": "15.2430547"
           },
           "evse_id": "CZ*EON*E25035955*2",
-          "last_seen_as_planned": "2021-11-09T06:36:25.23Z",
+          "last_seen_as_planned": "2021-11-10T23:00:54.65Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35956"

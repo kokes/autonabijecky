@@ -4943,7 +4943,7 @@
   },
   "CZ1003145": {
     "name": "Ladestation PREpoint e-SALON 2021",
-    "sha1": "9c8211c89f92dc861e2835936488ab200376766a",
+    "sha1": "9ae2cfc765863567e622c7c202a49fdce27b4d90",
     "station": {
       "additionalInfo": "Stanice se nachází na parkovišti u vchodu D od 11. do 14. listopadu.",
       "chargingFacilities": {
@@ -4974,6 +4974,11 @@
           "class": "locationPhoto",
           "type": "jpg",
           "uri": "https://smatrics.com/sites/default/files/pre_app_prepoit_e-salon_2021.jpg"
+        },
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_partner_e-salon.jpg"
         }
       ],
       "isOpen24Hours": "true",
