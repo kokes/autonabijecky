@@ -4943,12 +4943,12 @@
   },
   "CZ1003145": {
     "name": "Ladestation PREpoint e-SALON 2021",
-    "sha1": "9ae2cfc765863567e622c7c202a49fdce27b4d90",
+    "sha1": "46ec38a6ad9733a9a11a06e0f29ec2be9ea77f2d",
     "station": {
       "additionalInfo": "Stanice se nachází na parkovišti u vchodu D od 11. do 14. listopadu.",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "380 - 480V, 3-Phase ≤16A"
         ]
       },
       "city": "Praha",
@@ -4981,7 +4981,7 @@
           "uri": "https://smatrics.com/sites/default/files/pre_app_partner_e-salon.jpg"
         }
       ],
-      "isOpen24Hours": "true",
+      "isOpen24Hours": "false",
       "isPartnerCs": false,
       "partnerName": "PRE",
       "plugs": [
@@ -4992,6 +4992,98 @@
       "postalCode": "19900",
       "region": "Hlavní město Praha",
       "street": "Beranových 667"
+    }
+  },
+  "CZ1003151": {
+    "name": "Ladestation TS 3932 Pod Vartou",
+    "sha1": "7a730a131f2a0c6e56a87d692d6b4de8d03b6b7e",
+    "station": {
+      "additionalInfo": "Bei der Transformatorstation TS 3932",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003151",
+      "csName": "Ladestation TS 3932 Pod Vartou",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 3932",
+      "enCsname": "Charger TS 3932 Pod Vartou",
+      "evseId": "CZ*PRE*E1S8093*1",
+      "geoCoord": {
+        "latitude": "50.043946",
+        "longitude": "14.557000"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_3932_pod_vartou_1.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10900",
+      "region": "Hlavní město Praha",
+      "street": "Pod Vartou 509/410"
+    }
+  },
+  "CZ1003152": {
+    "name": "Ladestation TS 3672 Na Křivce",
+    "sha1": "97ba78976dfc7fd83f082277a0ebfc24fc194601",
+    "station": {
+      "additionalInfo": "Bei der Transformatorstation TS 3672",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003152",
+      "csName": "Ladestation TS 3672 Na Křivce",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 3672",
+      "enCsname": "Charger TS 3672 Na Křivce",
+      "evseId": "CZ*PRE*E1S8094*2",
+      "geoCoord": {
+        "latitude": "50.061687",
+        "longitude": "14.468016"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_3672_na_krivce.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10100",
+      "region": "Hlavní město Praha",
+      "street": "Na Křivce"
     }
   },
   "CZ2002608": {
@@ -6861,6 +6953,52 @@
       "postalCode": "41145",
       "region": "Ústecký kraj",
       "street": "Konojedská 278"
+    }
+  },
+  "CZ4203153": {
+    "name": "Schnellladestation Penny Market Teplice",
+    "sha1": "787a7b5098d3f1cde5805e42f31744a65d25cabf",
+    "station": {
+      "additionalInfo": "Beim Penny Markt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Teplice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ4203153",
+      "csName": "Schnellladestation Penny Market Teplice",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the Penny market",
+      "enCsname": "Fast charger Penny Market Teplice",
+      "evseId": "CZ*PRE*E1R5013*3",
+      "geoCoord": {
+        "latitude": "50.635610",
+        "longitude": "13.841380"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_penny_market_teplice.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "41501",
+      "region": "Ústecký kraj",
+      "street": "Plynárenská 3281"
     }
   },
   "CZ5102596": {
