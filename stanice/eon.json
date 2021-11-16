@@ -20514,7 +20514,7 @@
   },
   "66781": {
     "name": "(P) K-Drives CZ s.r.o.",
-    "sha1": "a0be2a08954c2426d40b38cca35b41861598b2b9",
+    "sha1": "a9b15d806dea1e915f1b540e094f63231977cc39",
     "station": {
       "address": "Družstevní 1200/20",
       "city": "Mohelnice",
@@ -20608,6 +20608,10 @@
           "status": "RESET",
           "uid": "66782"
         }
+      ],
+      "facilities": [
+        "MALL",
+        "SUPERMARKET"
       ],
       "id": "66781",
       "last_updated": "RESET",
