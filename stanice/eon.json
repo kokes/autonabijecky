@@ -20636,6 +20636,86 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "66854": {
+    "name": "(P) Zásobování teplem Vsetín a.s.",
+    "sha1": "c95fc2c163192e0718584ca98f5bd171aedcd919",
+    "station": {
+      "address": "Jasenická 295",
+      "city": "Vsetín",
+      "coordinates": {
+        "latitude": "49.331558",
+        "longitude": "18.005767"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.331558",
+            "longitude": "18.005767"
+          },
+          "evse_id": "CZ*EON*E32066854*1",
+          "last_seen_as_planned": "2021-11-16T07:59:20.877Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "66854"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.331558",
+            "longitude": "18.005767"
+          },
+          "evse_id": "CZ*EON*E32066854*2",
+          "last_seen_as_planned": "2021-11-16T07:59:20.877Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "66855"
+        }
+      ],
+      "facilities": [
+        "MALL",
+        "SUPERMARKET"
+      ],
+      "id": "66854",
+      "last_updated": "RESET",
+      "name": "(P) Zásobování teplem Vsetín a.s.",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Zásobování teplem Vsetín a.s."
+      },
+      "owner": {
+        "name": "Zásobování teplem Vsetín a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "75501",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "66856": {
     "name": "(P) Teplárna Liberec a.s.",
     "sha1": "9260e71775ad9a8117d1ce4a0048e7582953b0aa",
