@@ -6358,7 +6358,7 @@
   },
   "CZ4102727": {
     "name": "Ladestation Hotel Esplanade",
-    "sha1": "8310e394aa0b356b8bcd6451de4df6b033b3babd",
+    "sha1": "e83998b172350b5091e1b61e225bee2fe03b52f2",
     "station": {
       "additionalInfo": "In der Hotelgarage",
       "chargingFacilities": {
@@ -6375,7 +6375,7 @@
       "csType": "charger",
       "enAdditionalInfo": "In the hotel garages",
       "enCsname": "Charger Hotel Esplanade",
-      "evseId": "CZ*PRE*E1R8076*2",
+      "evseId": "CZ*PRE*E1S8076*2",
       "geoCoord": {
         "latitude": "49.976750",
         "longitude": "12.713373"
@@ -7361,12 +7361,12 @@
   },
   "CZ5302630": {
     "name": "Ladestation Alza Pardubice",
-    "sha1": "9035df9b6a45d62cb05644d926ef5c6e97f588f6",
+    "sha1": "446836ba549ed8a99c1e76e5b661e4411cc170dd",
     "station": {
       "additionalInfo": "Vor dem Alza-Geschäft",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "380 - 480V, 3-Phase ≤16A"
         ]
       },
       "city": "Pardubice",
