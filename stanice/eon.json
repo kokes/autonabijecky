@@ -19243,6 +19243,248 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "55612": {
+    "name": "(P) Parkovací dům Nádražní Brandýs nad Labem",
+    "sha1": "7d44f40185e7f074fff275ba29665c7f02c1f0b4",
+    "station": {
+      "address": "Nádražní",
+      "city": "Brandýs nad Labem",
+      "coordinates": {
+        "latitude": "50.184166",
+        "longitude": "14.653588"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-11-18T13:59:24.237Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "75",
+                "76"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.184166",
+            "longitude": "14.653588"
+          },
+          "evse_id": "CZ*EON*E22055612*1",
+          "last_seen_as_planned": "2021-11-18T14:56:42.683Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "55612"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-11-18T13:59:24.237Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "75",
+                "76"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.184166",
+            "longitude": "14.653588"
+          },
+          "evse_id": "CZ*EON*E22055612*2",
+          "last_seen_as_planned": "2021-11-18T14:56:42.683Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "55613"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-11-18T13:59:24.237Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "75",
+                "76"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.184166",
+            "longitude": "14.653588"
+          },
+          "evse_id": "CZ*EON*E22055614*1",
+          "last_seen_as_planned": "2021-11-18T14:56:42.683Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "55614"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-11-18T13:59:24.237Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "75",
+                "76"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.184166",
+            "longitude": "14.653588"
+          },
+          "evse_id": "CZ*EON*E22055614*2",
+          "last_seen_as_planned": "2021-11-18T14:56:42.683Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "55615"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-11-18T13:59:24.237Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "75",
+                "76"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.184166",
+            "longitude": "14.653588"
+          },
+          "evse_id": "CZ*EON*E22055616*1",
+          "last_seen_as_planned": "2021-11-18T14:56:42.683Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "55616"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-11-18T13:59:24.237Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "75",
+                "76"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.184166",
+            "longitude": "14.653588"
+          },
+          "evse_id": "CZ*EON*E22055616*2",
+          "last_seen_as_planned": "2021-11-18T14:56:42.683Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "55617"
+        }
+      ],
+      "facilities": [
+        "BUS_STOP",
+        "TRAIN_STATION"
+      ],
+      "id": "55612",
+      "last_updated": "RESET",
+      "name": "(P) Parkovací dům Nádražní Brandýs nad Labem",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Město Brandýs nad Labem-Stará Boleslav"
+      },
+      "owner": {
+        "name": "Město Brandýs nad Labem-Stará Boleslav"
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "25001",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "56530": {
     "name": "(P) Cafe Sun Benedicto",
     "sha1": "a009ef8bf8672eabff4d4b9b6358e9cd3a51ad86",
@@ -20638,7 +20880,7 @@
   },
   "66854": {
     "name": "(P) Zásobování teplem Vsetín a.s.",
-    "sha1": "c95fc2c163192e0718584ca98f5bd171aedcd919",
+    "sha1": "b1b9c56257b1e822016fb9eb16eac7cf5c30928b",
     "station": {
       "address": "Jasenická 295",
       "city": "Vsetín",
@@ -20659,13 +20901,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2021-11-18T13:50:38.86Z",
+              "max_amperage": 250,
+              "max_electric_power": 75000,
+              "max_voltage": 1000,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "123",
+                "124"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.331558",
             "longitude": "18.005767"
           },
           "evse_id": "CZ*EON*E32066854*1",
-          "last_seen_as_planned": "2021-11-16T07:59:20.877Z",
+          "last_seen_as_planned": "2021-11-18T13:49:43.663Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "66854"
@@ -20677,13 +20934,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-11-18T13:49:43.663Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "121",
+                "122"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.331558",
             "longitude": "18.005767"
           },
           "evse_id": "CZ*EON*E32066854*2",
-          "last_seen_as_planned": "2021-11-16T07:59:20.877Z",
+          "last_seen_as_planned": "2021-11-18T13:49:43.663Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "66855"
@@ -20694,6 +20966,13 @@
         "SUPERMARKET"
       ],
       "id": "66854",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/82212/6358931637245504.jpg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "(P) Zásobování teplem Vsetín a.s.",
       "opening_times": {
