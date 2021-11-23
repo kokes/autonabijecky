@@ -19485,6 +19485,123 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "55618": {
+    "name": "(P) Obec Dražice",
+    "sha1": "ae44fe491f3cf46dae69cff96eab4041967ebaac",
+    "station": {
+      "address": "Dražice 166",
+      "city": "Dražice",
+      "coordinates": {
+        "latitude": "49.429632",
+        "longitude": "14.588163"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-11-22T14:48:45.163Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "129",
+                "130"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.429632",
+            "longitude": "14.588163"
+          },
+          "evse_id": "CZ*EON*E22055618*1",
+          "last_seen_as_planned": "2021-11-22T14:48:45.163Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "55618"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-11-22T14:48:45.163Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "129",
+                "130"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.429632",
+            "longitude": "14.588163"
+          },
+          "evse_id": "CZ*EON*E22055618*2",
+          "last_seen_as_planned": "2021-11-22T14:48:45.163Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "55619"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE"
+      ],
+      "id": "55618",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/82556/1730951637591927.jpg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) Obec Dražice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Obec Dražice"
+      },
+      "owner": {
+        "name": "Obec Dražice"
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "391 31",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "56530": {
     "name": "(P) Cafe Sun Benedicto",
     "sha1": "a009ef8bf8672eabff4d4b9b6358e9cd3a51ad86",
