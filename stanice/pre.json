@@ -5086,6 +5086,52 @@
       "street": "Na Křivce"
     }
   },
+  "CZ1003160": {
+    "name": "Schnellladestation Hotel Stages Praha",
+    "sha1": "17a625fe8de0d7ad80c94cba6c8799483381751d",
+    "station": {
+      "additionalInfo": "Vor dem Stages Hotel",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003160",
+      "csName": "Schnellladestation Hotel Stages Praha",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "Infront of the Hotel Stages",
+      "enCsname": "Fast charger Hotel Stages Praha",
+      "evseId": "CZ*PRE*E1R0033*2",
+      "geoCoord": {
+        "latitude": "50.104244",
+        "longitude": "14.496326"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_hotel_stages.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Českomoravská 19a"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
