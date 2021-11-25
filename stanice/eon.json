@@ -12182,7 +12182,7 @@
   },
   "42078": {
     "name": "E.ON ČS Benzina Břeclav",
-    "sha1": "c9a1451aefaf304dd7caf9d558efe8461af77746",
+    "sha1": "6a82709567cc2c1cc0da8148212aca5f4541acc8",
     "station": {
       "address": "Lidická 3121",
       "city": "Břeclav",
@@ -12328,12 +12328,12 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2021-11-04T23:00:54.197Z",
+              "last_updated": "2021-11-24T23:01:34.573Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
               "power_type": "DC",
-              "standard": "CHADEMO",
+              "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
                 "2",
                 "5",
@@ -12344,12 +12344,12 @@
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2021-11-04T23:00:54.197Z",
+              "last_updated": "2021-11-24T23:01:34.573Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
               "power_type": "DC",
-              "standard": "IEC_62196_T2_COMBO",
+              "standard": "CHADEMO",
               "tariff_ids": [
                 "2",
                 "5",
