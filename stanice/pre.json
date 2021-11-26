@@ -196,7 +196,7 @@
   },
   "CZ1002599": {
     "name": "Schnellladestation IKEA Černý Most",
-    "sha1": "06a376f8a85c80fa754d327bc96df5535af1fd73",
+    "sha1": "863a3a12695bb3d47ca96f6eb7787e2e6beebb07",
     "station": {
       "additionalInfo": "In der IKEA-Garage",
       "chargingFacilities": {
@@ -222,6 +222,43 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "openingTimes": [
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "MO"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "TU"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "WE"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "TH"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "FR"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "SA"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -235,7 +272,7 @@
   },
   "CZ1002600": {
     "name": "Schnellladestation OC Chodov",
-    "sha1": "cb0ef8d15b0c6cc1da5ca0029020392a2fe271f4",
+    "sha1": "9b2effc9a394f89b2b3905b0b5046e068ff5f5a6",
     "station": {
       "additionalInfo": "In den Garagen von OC Chodov",
       "chargingFacilities": {
@@ -261,6 +298,43 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "openingTimes": [
+        {
+          "from": "06:30",
+          "to": "23:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "06:30",
+          "to": "23:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "06:30",
+          "to": "23:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "06:30",
+          "to": "23:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "06:30",
+          "to": "23:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "06:30",
+          "to": "23:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "06:30",
+          "to": "23:00",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -313,7 +387,7 @@
   },
   "CZ1002603": {
     "name": "Schnellladestation OC Stromovka",
-    "sha1": "3b8660d1537c0e4c988d36381e88805328861ec6",
+    "sha1": "e4bce15e2cad5a1465e27d4f04621d7c6358d5c1",
     "station": {
       "additionalInfo": "Von der Veletrní Straße, in der Etage 2PP und 3PP",
       "chargingFacilities": {
@@ -339,6 +413,43 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "openingTimes": [
+        {
+          "from": "06:00",
+          "to": "22:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "06:00",
+          "to": "22:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "06:00",
+          "to": "22:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "06:00",
+          "to": "22:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "06:00",
+          "to": "22:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "06:00",
+          "to": "22:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "06:00",
+          "to": "22:00",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -352,7 +463,7 @@
   },
   "CZ1002604": {
     "name": "Ladestation OC Stromovka",
-    "sha1": "856d92d9b5e13587f28fd8f4b53c066f9d84fe1a",
+    "sha1": "da33e19de3fd1737ac2d14cb07a6b75bfefd8f89",
     "station": {
       "additionalInfo": "Von der Veletrní Straße, in der Etage 2PP und 3PP",
       "chargingFacilities": {
@@ -378,6 +489,43 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "openingTimes": [
+        {
+          "from": "06:00",
+          "to": "22:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "06:00",
+          "to": "22:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "06:00",
+          "to": "22:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "06:00",
+          "to": "22:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "06:00",
+          "to": "22:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "06:00",
+          "to": "22:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "06:00",
+          "to": "22:00",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -430,7 +578,7 @@
   },
   "CZ1002606": {
     "name": "Schnellladestation Lidl Čakovice",
-    "sha1": "32c6e9936a9ce013a1db839ee73b017759dbb811",
+    "sha1": "29fc6d6d393f8d3339a368befce9d0cbb472206a",
     "station": {
       "additionalInfo": "Von der Schoellerova Straße und auf dem Parkplatz des Supermarktes Lidl",
       "chargingFacilities": {
@@ -456,6 +604,43 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "openingTimes": [
+        {
+          "from": "05:00",
+          "to": "00:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "05:00",
+          "to": "00:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "05:00",
+          "to": "00:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "05:00",
+          "to": "00:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "05:00",
+          "to": "00:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "05:00",
+          "to": "00:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "05:00",
+          "to": "00:00",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -547,7 +732,7 @@
   },
   "CZ1002610": {
     "name": "Ultra-Highspeed-Ladestation Fashion Outlet",
-    "sha1": "fbf2831254fd8a9db54521feb96bfd192f2047e2",
+    "sha1": "5d639cdb01bbc6e542c105e0029760f5cc719280",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Fashion arena",
       "chargingFacilities": {
@@ -573,6 +758,43 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "openingTimes": [
+        {
+          "from": "10:00",
+          "to": "20:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "10:00",
+          "to": "20:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "10:00",
+          "to": "20:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "10:00",
+          "to": "20:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "10:00",
+          "to": "20:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "10:00",
+          "to": "20:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "10:00",
+          "to": "20:00",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -586,7 +808,7 @@
   },
   "CZ1002611": {
     "name": "Ladestation OC Krakov",
-    "sha1": "e0226fd1d49f5aca40729a37668d46c80fbcaaa9",
+    "sha1": "2a55889c6c8b08444504f8731374004ecabeb0d2",
     "station": {
       "additionalInfo": "Zugang von der Straße Hnezdenská",
       "chargingFacilities": {
@@ -612,6 +834,43 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "openingTimes": [
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "MO"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "TU"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "WE"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "TH"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "FR"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "SA"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -742,7 +1001,7 @@
   },
   "CZ1002619": {
     "name": "Ladestation Galerie Butovice",
-    "sha1": "31c758a15660104b0d8ec71a663e90d2f47de96c",
+    "sha1": "ad809749566774d1a1a3b470d38e75c222bd254d",
     "station": {
       "additionalInfo": "In den Garagen der OC Galerie Butovice",
       "chargingFacilities": {
@@ -768,6 +1027,43 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "openingTimes": [
+        {
+          "from": "05:45",
+          "to": "00:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "05:45",
+          "to": "00:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "05:45",
+          "to": "00:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "05:45",
+          "to": "00:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "05:45",
+          "to": "00:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "05:45",
+          "to": "00:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "05:45",
+          "to": "00:00",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -937,7 +1233,7 @@
   },
   "CZ1002627": {
     "name": "Ladestation Centrum Černý most",
-    "sha1": "94d73d96b58b1d010e3635a14769ce43f775f685",
+    "sha1": "4c9ac8ecf47db73c26b47fbbb24bf0cc24b33c33",
     "station": {
       "additionalInfo": "Garage des Einkaufszentrums Cerný most",
       "chargingFacilities": {
@@ -963,6 +1259,43 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "openingTimes": [
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "MO"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "TU"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "WE"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "TH"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "FR"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "SA"
+        },
+        {
+          "from": "07:00",
+          "to": "00:30",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -976,7 +1309,7 @@
   },
   "CZ1002628": {
     "name": "Ladestation Galerie Harfa",
-    "sha1": "a69fbd8069f4c9b2943686a8e67b3e811c539c05",
+    "sha1": "7f7d6c1d094694d36b6cd578cc4d15ded2464094",
     "station": {
       "additionalInfo": "Ladestation im 2. Untergeschoss in der Nähe der Autowaschanlage (U 704)",
       "chargingFacilities": {
@@ -1002,6 +1335,43 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "openingTimes": [
+        {
+          "from": "06:00",
+          "to": "21:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "06:00",
+          "to": "21:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "06:00",
+          "to": "21:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "06:00",
+          "to": "21:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "06:00",
+          "to": "21:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "06:00",
+          "to": "21:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "06:00",
+          "to": "21:00",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4943,7 +5313,7 @@
   },
   "CZ1003145": {
     "name": "Ladestation PREpoint e-SALON 2021",
-    "sha1": "46ec38a6ad9733a9a11a06e0f29ec2be9ea77f2d",
+    "sha1": "b69d434887e90033d126562e4d4be64993b51a89",
     "station": {
       "additionalInfo": "Stanice se nachází na parkovišti u vchodu D od 11. do 14. listopadu.",
       "chargingFacilities": {
@@ -4983,6 +5353,28 @@
       ],
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "openingTimes": [
+        {
+          "from": "10:00",
+          "to": "18:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "10:00",
+          "to": "18:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "10:00",
+          "to": "18:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "10:00",
+          "to": "18:00",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5290,7 +5682,7 @@
   },
   "CZ2002670": {
     "name": "Ladestation OC Central Kladno",
-    "sha1": "15cb5e8ab4a69571bdb11ad26ca4f67c84dbe0b9",
+    "sha1": "a5a66ee1f87da25a66a953754e41b79630ef6b26",
     "station": {
       "additionalInfo": "In den Garage des Einkaufszentrums",
       "chargingFacilities": {
@@ -5316,6 +5708,43 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "openingTimes": [
+        {
+          "from": "06:30",
+          "to": "23:30",
+          "wDay": "MO"
+        },
+        {
+          "from": "06:30",
+          "to": "23:30",
+          "wDay": "TU"
+        },
+        {
+          "from": "06:30",
+          "to": "23:30",
+          "wDay": "WE"
+        },
+        {
+          "from": "06:30",
+          "to": "23:30",
+          "wDay": "TH"
+        },
+        {
+          "from": "06:30",
+          "to": "23:30",
+          "wDay": "FR"
+        },
+        {
+          "from": "06:30",
+          "to": "23:30",
+          "wDay": "SA"
+        },
+        {
+          "from": "06:30",
+          "to": "23:30",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7088,7 +7517,7 @@
   },
   "CZ5102669": {
     "name": "Ladestation OC Central Jablone",
-    "sha1": "c5f5cb5e10474cbf5c2382d0c2d2fedd0e562634",
+    "sha1": "3bd2995185eb43d2a19e6b89c1c9fb2ff92a6af6",
     "station": {
       "additionalInfo": "In den Garage der Einkaufspassage",
       "chargingFacilities": {
@@ -7114,6 +7543,43 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "openingTimes": [
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
