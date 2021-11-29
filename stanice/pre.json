@@ -5524,6 +5524,52 @@
       "street": "Českomoravská 19a"
     }
   },
+  "CZ1003162": {
+    "name": "Ladestation OC Bořislavka",
+    "sha1": "7c0fa61c646c2d57a08c49520a8871883ed59566",
+    "station": {
+      "additionalInfo": "In den Tiefgaragen des OC Bořislavka",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003162",
+      "csName": "Ladestation OC Bořislavka",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "In the OC Bořislavka underground garages",
+      "enCsname": "Charger OC Bořislavka",
+      "evseId": "CZ*PRE*E1S8023*2",
+      "geoCoord": {
+        "latitude": "50.098274",
+        "longitude": "14.367268"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_oc_borislavka.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16000",
+      "region": "Hlavní město Praha",
+      "street": "Evropská 866"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
