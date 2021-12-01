@@ -15887,7 +15887,7 @@
   },
   "53154": {
     "name": "(P) Město Brandýs nad Labem-Stará Boleslav",
-    "sha1": "d0cec085524a782cc5a85620164269c17cce744c",
+    "sha1": "40e724a7f356626956520fffe8ed45e5abc6a6ff",
     "station": {
       "address": "Třebízského 1605",
       "city": "Brandýs nad Labem-Stará Boleslav",
@@ -15912,9 +15912,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2021-02-19T08:07:21.737Z",
+              "last_updated": "2021-11-30T12:47:32.727Z",
               "max_amperage": 250,
-              "max_electric_power": 75000,
+              "max_electric_power": 22000,
               "max_voltage": 1000,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
@@ -15929,7 +15929,7 @@
             "longitude": "14.676987"
           },
           "evse_id": "CZ*EON*E32053154*1",
-          "last_seen_as_planned": "2021-02-19T08:07:21.737Z",
+          "last_seen_as_planned": "2021-11-30T12:48:49.93Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53154"
@@ -15962,7 +15962,7 @@
             "longitude": "14.676987"
           },
           "evse_id": "CZ*EON*E32053154*2",
-          "last_seen_as_planned": "2021-02-15T11:38:57.317Z",
+          "last_seen_as_planned": "2021-11-30T12:48:49.93Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53155"
@@ -15973,7 +15973,7 @@
         {
           "category": "OTHER",
           "type": "gif",
-          "url": "https://res.cloudinary.com/virta/image/upload//pool/58772/1613140493.gif"
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/58772/1613140493.gif"
         }
       ],
       "last_updated": "RESET",
@@ -15982,7 +15982,7 @@
         "twentyfourseven": true
       },
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "Město Brandýs nad Labem-Stará Boleslav"
       },
       "owner": {
         "name": "Město Brandýs nad Labem-Stará Boleslav"

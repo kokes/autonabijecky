@@ -8595,6 +8595,144 @@
       "visible": true
     }
   },
+  "152971": {
+    "name": "R352 - Brno - Kaufland",
+    "sha1": "cf7771b4bb15409d9293ad43bb07b8fb0c0f1a7d",
+    "station": {
+      "address": {
+        "city": "Brno-Slatina",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1476/27",
+        "latitude": 49.1827564,
+        "longitude": 16.6670853,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Řípská",
+        "url": ""
+      },
+      "customID": "152971",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-IT1-1021-091",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R352"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT1-1021-091",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT1-1021-091",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R352"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "R352 - Brno - Kaufland",
+      "visible": true
+    }
+  },
+  "152985": {
+    "name": "R353 - Brno - Kaufland",
+    "sha1": "810845f316c78e829c9d57948a99130f67f0f9d2",
+    "station": {
+      "address": {
+        "city": "Brno-Slatina",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1476/27",
+        "latitude": 49.1827564,
+        "longitude": 16.667,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Řípská",
+        "url": ""
+      },
+      "customID": "152985",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-0321-019",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R353"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0321-019",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0321-019",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R353"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "R353 - Brno - Kaufland",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "b57b81fd6ee9b18afc4845f94aaa97f75ce4f86a",
