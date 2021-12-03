@@ -1028,8 +1028,8 @@
     }
   },
   "14110": {
-    "name": "E.ON Hotel Farma",
-    "sha1": "f6dc5f444c81eafd92a7993a7ba85884b6336d6d",
+    "name": "E.ON Hotel Farma - zrušená",
+    "sha1": "e9aec84f1e23619dfe21c913504a048a46ade56b",
     "station": {
       "address": "Pelhřimov",
       "city": "Pelhřimov",
@@ -1073,6 +1073,7 @@
             "longitude": "15.242841"
           },
           "evse_id": "CZ*EON*E31000500*1",
+          "floor_level": "0",
           "last_seen_as_planned": "2021-02-01T11:32:57.03Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -1108,6 +1109,7 @@
             "longitude": "15.242841"
           },
           "evse_id": "CZ*EON*E31000500*2",
+          "floor_level": "0",
           "last_seen_as_planned": "2021-02-01T11:32:57.03Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -1124,7 +1126,7 @@
       ],
       "id": "14110",
       "last_updated": "RESET",
-      "name": "E.ON Hotel Farma",
+      "name": "E.ON Hotel Farma - zrušená",
       "opening_times": {
         "twentyfourseven": true
       },
