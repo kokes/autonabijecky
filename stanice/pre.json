@@ -5570,6 +5570,45 @@
       "street": "Evropská 866"
     }
   },
+  "CZ1003174": {
+    "name": "Ladestation Nový Golf",
+    "sha1": "61c70ab4c48c1ed322ffb8bd38338681624a025a",
+    "station": {
+      "additionalInfo": "Auf dem Parkplatz des Nový Golf Hotels",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003174",
+      "csName": "Ladestation Nový Golf",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Parking lot next to the hotel Nový Golf",
+      "enCsname": "Charger Nový Golf",
+      "evseId": "CZ*PRE*E1S8096*2",
+      "geoCoord": {
+        "latitude": "50.067170",
+        "longitude": "14.344332"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15000",
+      "region": "Hlavní město Praha",
+      "street": "Plzeňská 103/215a"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
