@@ -6349,6 +6349,52 @@
       "street": "Čerpací stanice D11 35.km"
     }
   },
+  "CZ2003177": {
+    "name": "Ladestation Mníšek parkoviště Pražská",
+    "sha1": "ed20a4caa525d5a3d0d58846f94eba9ae06e30eb",
+    "station": {
+      "additionalInfo": "P+R Mníšek pod Brdy",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Mníšek pod Brdy",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2003177",
+      "csName": "Ladestation Mníšek parkoviště Pražská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "P+R Mníšek pod Brdy",
+      "enCsname": "Charger Mníšek parkoviště Pražská",
+      "evseId": "CZ*PRE*E1S8117*2",
+      "geoCoord": {
+        "latitude": "49.867653",
+        "longitude": "14.265505"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_mnisek_parkoviste_prazska_1.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "25210",
+      "region": "Středočeský kraj",
+      "street": "Pražská 98"
+    }
+  },
   "CZ3102615": {
     "name": "Schnellladestation ČEPRO Sedlice",
     "sha1": "d72e776f81ed7c666327c9b1dff01ff8bbdbc49d",
