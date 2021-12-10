@@ -3553,8 +3553,8 @@
     }
   },
   "19884": {
-    "name": "(P) Citroen Carling",
-    "sha1": "1c20e5d31a7d21003ea180ad534902fd2e22cab7",
+    "name": "(P) Citroen Carling New",
+    "sha1": "b71b1be852ed137d1088a0fbc70b85619fcdfec4",
     "station": {
       "address": "Hviezdoslavova 1308/51",
       "city": "Brno",
@@ -3633,6 +3633,72 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "19885"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2021-12-09T23:00:55.583Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "23",
+                "24"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.182665",
+            "longitude": "16.68509"
+          },
+          "evse_id": "CZ*EON*E91820",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "91820"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2021-12-09T23:00:55.583Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "23",
+                "24"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.182665",
+            "longitude": "16.68509"
+          },
+          "evse_id": "CZ*EON*E91821",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "91821"
         }
       ],
       "id": "19884",
@@ -3659,7 +3725,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Citroen Carling",
+      "name": "(P) Citroen Carling New",
       "operator": {
         "name": "E.ON Energie, a.s."
       },
