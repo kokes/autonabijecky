@@ -3554,7 +3554,7 @@
   },
   "19884": {
     "name": "(P) Citroen Carling New",
-    "sha1": "b71b1be852ed137d1088a0fbc70b85619fcdfec4",
+    "sha1": "e443e9af68929ade9c4747371c8f39631f74b6e3",
     "station": {
       "address": "Hviezdoslavova 1308/51",
       "city": "Brno",
@@ -3645,9 +3645,9 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2021-12-09T23:00:55.583Z",
+              "last_updated": "2021-12-10T23:00:52.78Z",
               "max_amperage": 32,
-              "max_electric_power": 22000,
+              "max_electric_power": 16000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
@@ -3678,9 +3678,9 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2021-12-09T23:00:55.583Z",
+              "last_updated": "2021-12-10T23:00:52.78Z",
               "max_amperage": 32,
-              "max_electric_power": 22000,
+              "max_electric_power": 16000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
