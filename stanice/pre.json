@@ -5311,81 +5311,6 @@
       "street": "Schwarzenberská"
     }
   },
-  "CZ1003145": {
-    "name": "Ladestation PREpoint e-SALON 2021",
-    "sha1": "5906c1f1763d87b496669c7411aeacabc8c4d7f0",
-    "station": {
-      "additionalInfo": "Stanice se nachází na parkovišti u vchodu D od 11. do 14. listopadu.",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
-        ]
-      },
-      "city": "Praha",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ1003145",
-      "csName": "Ladestation PREpoint e-SALON 2021",
-      "csStatus": "inoperable",
-      "csType": "charger",
-      "enAdditionalInfo": "Station is located at the parking lot near the entrance D from 11th to 14th of Novemeber.",
-      "enCsname": "Charger PREpoint e-SALON 2021",
-      "enExtra": "Temporary charging station for visitors of e-SALON 2021",
-      "evseId": "CZ*PRE*E0S0017*2",
-      "extra": "Dočasná dobíjecí stanice pro návštěvníky e-SALON 2021",
-      "geoCoord": {
-        "latitude": "50.129786",
-        "longitude": "14.517158"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "images": [
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_prepoit_e-salon_2021.jpg"
-        },
-        {
-          "class": "otherLogo",
-          "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_partner_e-salon.jpg"
-        }
-      ],
-      "isOpen24Hours": "false",
-      "isPartnerCs": false,
-      "openingTimes": [
-        {
-          "from": "10:00",
-          "to": "18:00",
-          "wDay": "TH"
-        },
-        {
-          "from": "10:00",
-          "to": "18:00",
-          "wDay": "FR"
-        },
-        {
-          "from": "10:00",
-          "to": "18:00",
-          "wDay": "SA"
-        },
-        {
-          "from": "10:00",
-          "to": "18:00",
-          "wDay": "SU"
-        }
-      ],
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "plug": "Type 2 Outlet"
-        }
-      ],
-      "postalCode": "19900",
-      "region": "Hlavní město Praha",
-      "street": "Beranových 667"
-    }
-  },
   "CZ1003151": {
     "name": "Ladestation TS 3932 Pod Vartou",
     "sha1": "7a730a131f2a0c6e56a87d692d6b4de8d03b6b7e",
@@ -5607,6 +5532,54 @@
       "postalCode": "15000",
       "region": "Hlavní město Praha",
       "street": "Plzeňská 103/215a"
+    }
+  },
+  "CZ1003183": {
+    "name": "Ladestation P+R Černý Most",
+    "sha1": "31cca67a2ca873c243a980be20d89199d15bdea0",
+    "station": {
+      "additionalInfo": "P+R Černý Most, nach dem Eingangstor.",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003183",
+      "csName": "Ladestation P+R Černý Most",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "P+R Černý Most, after entrance gate. Free time component for 8 hours",
+      "enCsname": "Charger P+R Černý Most",
+      "enExtra": "Volná časová složka po dobu 8 hodin",
+      "evseId": "CZ*PRE*E1S0061*2",
+      "extra": "Volná časová složka po dobu 8 hodin",
+      "geoCoord": {
+        "latitude": "50.110235",
+        "longitude": "14.579391"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_pr_cerny_most.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19800",
+      "region": "Hlavní město Praha",
+      "street": "Chlumecká 2398"
     }
   },
   "CZ2002608": {
@@ -9049,6 +9022,45 @@
       "postalCode": "76701",
       "region": "Zlínský kraj",
       "street": "Kaplanova 1803/2c"
+    }
+  },
+  "CZ7203184": {
+    "name": "Schnellladestation EuroOil Napajedla",
+    "sha1": "74c0b0f1e057e349271bffcee06f322a3b5cce69",
+    "station": {
+      "additionalInfo": "Bei der EuroOil Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Jičín",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ7203184",
+      "csName": "Schnellladestation EuroOil Napajedla",
+      "csStatus": "under_construction",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "Next to the EuroOil gas station",
+      "enCsname": "Fast charger EuroOil Napajedla",
+      "evseId": "CZ*PRE*E1R5070*3",
+      "geoCoord": {
+        "latitude": "49.191037",
+        "longitude": "17.528724"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "ČEPRO a.s.",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "76361",
+      "region": "Zlínský kraj",
+      "street": "Kvítkovická 1383"
     }
   },
   "CZ8002602": {
