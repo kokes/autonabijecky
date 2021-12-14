@@ -18813,8 +18813,8 @@
     }
   },
   "53824": {
-    "name": "E.ON Penny Rousínovec",
-    "sha1": "6735e3dd6edabeb75e831476a6912556545f3fa1",
+    "name": "E.ON Penny Rousínov",
+    "sha1": "ae603fda3fc99114de00cc119ae402c7f68f9ebe",
     "station": {
       "address": "Slavkovská 1205",
       "city": "Rousínovec",
@@ -18874,7 +18874,7 @@
             "longitude": "16.8759631"
           },
           "evse_id": "CZ*EON*E98053824*1",
-          "last_seen_as_planned": "2021-03-30T13:27:47.56Z",
+          "last_seen_as_planned": "2021-12-13T14:21:04.617Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53824"
@@ -18909,7 +18909,7 @@
             "longitude": "16.8759631"
           },
           "evse_id": "CZ*EON*E98053824*2",
-          "last_seen_as_planned": "2021-03-30T13:28:09.39Z",
+          "last_seen_as_planned": "2021-12-13T14:21:04.617Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53825"
@@ -18920,7 +18920,7 @@
       ],
       "id": "53824",
       "last_updated": "RESET",
-      "name": "E.ON Penny Rousínovec",
+      "name": "E.ON Penny Rousínov",
       "opening_times": {
         "twentyfourseven": true
       },

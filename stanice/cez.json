@@ -8733,6 +8733,617 @@
       "visible": true
     }
   },
+  "153360": {
+    "name": "UR - Průhonice – 3",
+    "sha1": "34a206580149f812b1ef7cb03ac337bf35bafcd3",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.0052414,
+        "longitude": 14.56326,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153360",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": ""
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "UR - Průhonice – 3",
+      "visible": true
+    }
+  },
+  "153361": {
+    "name": "UR - Průhonice – 4",
+    "sha1": "3e0648ccf1928aa81e239b66b1d150576027ac6f",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.0052414,
+        "longitude": 14.56322,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153361",
+      "description": [
+        {
+          "language": "cs",
+          "text": "ABB Terra 184"
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": ""
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "UR - Průhonice – 4",
+      "visible": true
+    }
+  },
+  "153362": {
+    "name": "Průhonice – 2",
+    "sha1": "24608232199ee621b7e4f38393d174fe7a096b84",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.0052414,
+        "longitude": 14.56314,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153362",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": ""
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": ""
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Průhonice – 2",
+      "visible": true
+    }
+  },
+  "153363": {
+    "name": "Průhonice – 3",
+    "sha1": "bbd26e3c49c6d528202f6562fdce41b8ac78b969",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.00482,
+        "longitude": 14.5633414,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153363",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "OTHER",
+              "voltage": null
+            }
+          ],
+          "physicalReference": ""
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Průhonice – 3",
+      "visible": true
+    }
+  },
+  "153367": {
+    "name": "UR - Průhonice - 1",
+    "sha1": "315f0b4dc1dd75726db4e9ab5bbafe07ba60825f",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.0052414,
+        "longitude": 14.563345,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153367",
+      "description": [
+        {
+          "language": "cs",
+          "text": "ABB Terra 184"
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": ""
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "UR - Průhonice - 1",
+      "visible": true
+    }
+  },
+  "153368": {
+    "name": "UR - Průhonice – 2",
+    "sha1": "573ff0aa99430bf096e4649e422c879cbbe92f6f",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.0052414,
+        "longitude": 14.5633,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153368",
+      "description": [
+        {
+          "language": "cs",
+          "text": "ABB Terra 184"
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": ""
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "UR - Průhonice – 2",
+      "visible": true
+    }
+  },
+  "153369": {
+    "name": "Průhonice – 1",
+    "sha1": "421c29cf5cce6bbbbb76069792a821d47537ff9b",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.0052414,
+        "longitude": 14.56318,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153369",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": ""
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": ""
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Průhonice – 1",
+      "visible": true
+    }
+  },
+  "153371": {
+    "name": "Průhonice – 4",
+    "sha1": "10075573da4d10b46ad9783afd0c11fa47d089e4",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.00482,
+        "longitude": 14.56338,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153371",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": ""
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": ""
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Průhonice – 4",
+      "visible": true
+    }
+  },
+  "153372": {
+    "name": "Průhonice – 5",
+    "sha1": "82888512187b529b5ffe6b028d5d4944e4a99b75",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.00482,
+        "longitude": 14.56342,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153372",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": ""
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": ""
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Průhonice – 5",
+      "visible": true
+    }
+  },
+  "153373": {
+    "name": "Průhonice – 6",
+    "sha1": "072eaf8bbd0cd68b3e5cdf43cebf640b5f3681c5",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.00482,
+        "longitude": 14.56346,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153373",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": ""
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": ""
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "Průhonice – 6",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "b57b81fd6ee9b18afc4845f94aaa97f75ce4f86a",
