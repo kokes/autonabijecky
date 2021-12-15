@@ -5536,7 +5536,7 @@
   },
   "CZ1003183": {
     "name": "Ladestation P+R Černý Most",
-    "sha1": "31cca67a2ca873c243a980be20d89199d15bdea0",
+    "sha1": "74da8c420c52497487c8563701751edf4ddb38d5",
     "station": {
       "additionalInfo": "P+R Černý Most, nach dem Eingangstor.",
       "chargingFacilities": {
@@ -5551,11 +5551,11 @@
       "csName": "Ladestation P+R Černý Most",
       "csStatus": "operable",
       "csType": "charger",
-      "enAdditionalInfo": "P+R Černý Most, after entrance gate. Free time component for 8 hours",
+      "enAdditionalInfo": "P+R Černý Most, after entrance gate. Free time component for 12 hours",
       "enCsname": "Charger P+R Černý Most",
-      "enExtra": "Volná časová složka po dobu 8 hodin",
+      "enExtra": "Volná časová složka po dobu 12 hodin",
       "evseId": "CZ*PRE*E1S0061*2",
-      "extra": "Volná časová složka po dobu 8 hodin",
+      "extra": "Volná časová složka po dobu 12 hodin",
       "geoCoord": {
         "latitude": "50.110235",
         "longitude": "14.579391"
