@@ -5228,7 +5228,7 @@
   },
   "CZ1003086": {
     "name": "Ladestation Radnice Modřany",
-    "sha1": "3b24cc8aa58a40de36f2f19170bbc93693958143",
+    "sha1": "a8471d1d8f8a5756d203e1937e0dd71d7a871024",
     "station": {
       "additionalInfo": "Neben dem Stadtamt Prag 12",
       "chargingFacilities": {
@@ -5247,8 +5247,8 @@
       "enCsname": "Charger Radnice Modřany",
       "evseId": "CZ*PRE*E1S8086*2",
       "geoCoord": {
-        "latitude": "50.002447",
-        "longitude": "14.415356"
+        "latitude": "50.002658",
+        "longitude": "14.415086"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -5580,6 +5580,137 @@
       "postalCode": "19800",
       "region": "Hlavní město Praha",
       "street": "Chlumecká 2398"
+    }
+  },
+  "CZ1003197": {
+    "name": "Ladestation Restaurace Rozmarýna I.",
+    "sha1": "be26ec3e07ba89d747203bb003bee9015674a5ae",
+    "station": {
+      "additionalInfo": "Parkplatz neben dem Restaurant Rozmarýna",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003197",
+      "csName": "Ladestation Restaurace Rozmarýna I.",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enAdditionalInfo": "Parking lot next to the Restaurant Rozmarýna",
+      "enCsname": "Charger Restaurace Rozmarýna I.",
+      "evseId": "CZ*PRE*E1S8120*2",
+      "geoCoord": {
+        "latitude": "50.013375",
+        "longitude": "14.398606"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15800",
+      "region": "Hlavní město Praha",
+      "street": "Vltavanů"
+    }
+  },
+  "CZ1003198": {
+    "name": "Ladestation TS 2283 Nad lesním divadlem",
+    "sha1": "8cbc5a874a341866f7f88b7a2bd841b4e9e3073f",
+    "station": {
+      "additionalInfo": "Neben der Transformationsstation TS 2283",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003198",
+      "csName": "Ladestation TS 2283 Nad lesním divadlem",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 2283",
+      "enCsname": "Charger TS 2283 Nad lesním divadlem",
+      "evseId": "CZ*PRE*E1S8119*1",
+      "geoCoord": {
+        "latitude": "50.026222",
+        "longitude": "14.434357"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_2283_nad_lesnim_divadlem.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14200",
+      "region": "Hlavní město Praha",
+      "street": "Nad lesním divadlem"
+    }
+  },
+  "CZ1003199": {
+    "name": "Ladestation TS 3075 Bachova",
+    "sha1": "d9134cd731e82a7d968e05166117007d0d215b1f",
+    "station": {
+      "additionalInfo": "Neben der Transformationsstation TS 3075",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003199",
+      "csName": "Ladestation TS 3075 Bachova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 3075",
+      "enCsname": "Charger TS 3075 Bachova",
+      "evseId": "CZ*PRE*E1S8116*1",
+      "geoCoord": {
+        "latitude": "50.030761",
+        "longitude": "14.509899"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_3075_bachova.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Bachova"
     }
   },
   "CZ2002608": {
@@ -7580,6 +7711,52 @@
       "street": "Plynárenská 3281"
     }
   },
+  "CZ4203193": {
+    "name": "Ladestation Alza Chomutov",
+    "sha1": "b15a1882d0ca62a33b9eec5c444dac26f9b6ceb1",
+    "station": {
+      "additionalInfo": "Auf dem Parkplatz neben Alza Chomutov",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Chomutov",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ4203193",
+      "csName": "Ladestation Alza Chomutov",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "On the parking lot next to Alza Chomutov",
+      "enCsname": "Charger Alza Chomutov",
+      "evseId": "CZ*PRE*E1S8118*2",
+      "geoCoord": {
+        "latitude": "50.461182",
+        "longitude": "13.415207"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_alza_chomutov.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "43001",
+      "region": "Ústecký kraj",
+      "street": "Žižkovo náměstí 5762"
+    }
+  },
   "CZ5102596": {
     "name": "Schnellladestation Česká Lípa Fehrer",
     "sha1": "dd60a25b2f0adcce751d16d79ae37fe46df61071",
@@ -8861,6 +9038,52 @@
       "street": "Jesenická 2965/2c"
     }
   },
+  "CZ7103194": {
+    "name": "Schnellladestation EuroOil Zlaté Hory",
+    "sha1": "8693dffb37f20e047d5f912e149c1c293cdf2565",
+    "station": {
+      "additionalInfo": "Bei der EuroOil Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Zlaté Hory",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ7103194",
+      "csName": "Schnellladestation EuroOil Zlaté Hory",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "Next to the EuroOil gas station",
+      "enCsname": "Fast charger EuroOil Zlaté Hory",
+      "evseId": "CZ*PRE*E1R5046*2",
+      "geoCoord": {
+        "latitude": "50.254750",
+        "longitude": "17.399694"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_zlate_hory.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "ČEPRO a.s.",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "79376",
+      "region": "Olomoucký kraj",
+      "street": "Krnovská 225"
+    }
+  },
   "CZ7202811": {
     "name": "Schnellladestation OMV Rožnov pod Radhoštěm",
     "sha1": "93ac2c0346a972d386577ee1a0b1d2322ca1af88",
@@ -9026,7 +9249,7 @@
   },
   "CZ7203184": {
     "name": "Schnellladestation EuroOil Napajedla",
-    "sha1": "74c0b0f1e057e349271bffcee06f322a3b5cce69",
+    "sha1": "7678d71d80c374bd2148865f4eca27033693da9c",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "chargingFacilities": {
@@ -9039,7 +9262,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ7203184",
       "csName": "Schnellladestation EuroOil Napajedla",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "Next to the EuroOil gas station",
       "enCsname": "Fast charger EuroOil Napajedla",
@@ -9050,6 +9273,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_napajedla.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "ČEPRO a.s.",

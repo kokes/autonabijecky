@@ -21717,6 +21717,90 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "81654": {
+    "name": "(P) Rokytnice Centrum",
+    "sha1": "7c08d7da03b2026e928d68ea8b766a6c25606f4c",
+    "station": {
+      "address": "Horská",
+      "city": "Rokytnice v Orlických horách",
+      "coordinates": {
+        "latitude": "50.166929",
+        "longitude": "16.46704"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.166929",
+            "longitude": "16.46704"
+          },
+          "evse_id": "CZ*EON*E31081654*1",
+          "last_seen_as_planned": "2021-12-16T12:46:01.76Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81654"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.166929",
+            "longitude": "16.46704"
+          },
+          "evse_id": "CZ*EON*E31081654*2",
+          "last_seen_as_planned": "2021-12-16T12:46:01.76Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81655"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "SUPERMARKET",
+        "SPORT",
+        "RECREATION_AREA",
+        "NATURE",
+        "MUSEUM"
+      ],
+      "id": "81654",
+      "last_updated": "RESET",
+      "name": "(P) Rokytnice Centrum",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "RT Investment, s.r.o."
+      },
+      "owner": {
+        "name": "RT Investment, s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "517 61",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "87558": {
     "name": "(P) Amenity Hotel & Resort Špindlerův Mlýn",
     "sha1": "4ea6e7221d7cd3f540ffbb37447afab3949f92ab",
