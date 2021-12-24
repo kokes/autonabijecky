@@ -4854,45 +4854,6 @@
       "street": "Fantova 1797"
     }
   },
-  "CZ1002926": {
-    "name": "Ladestation Transfer Energy Letňany",
-    "sha1": "408039970ea848ba4ec685a6f679c64fb6f2df4a",
-    "station": {
-      "additionalInfo": "Hinter dem Eingang zum Areal Letov auf der rechten Seite",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
-        ]
-      },
-      "city": "Praha",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ1002926",
-      "csName": "Ladestation Transfer Energy Letňany",
-      "csStatus": "operable",
-      "csType": "charger",
-      "enAdditionalInfo": "After entrance to Letov area by the right hand side",
-      "enCsname": "Charger Transfer Energy Letňany",
-      "evseId": "CZ*PRE*E1S0056*1",
-      "geoCoord": {
-        "latitude": "50.134958",
-        "longitude": "14.514575"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "plug": "Type 2 Outlet"
-        }
-      ],
-      "postalCode": "19900",
-      "region": "Hlavní město Praha",
-      "street": "Beranových 65"
-    }
-  },
   "CZ1003038": {
     "name": "Schnellladestation Radnice Modřany",
     "sha1": "dfa705c9e26b60984bf4adef43bc55ba72630b3b",
@@ -5583,8 +5544,8 @@
     }
   },
   "CZ1003197": {
-    "name": "Ladestation Restaurace Rozmarýna I.",
-    "sha1": "be26ec3e07ba89d747203bb003bee9015674a5ae",
+    "name": "Ladestation Restaurace Rozmarýna",
+    "sha1": "e77d88441950caee043b59aa99847d70aebc9caf",
     "station": {
       "additionalInfo": "Parkplatz neben dem Restaurant Rozmarýna",
       "chargingFacilities": {
@@ -5596,18 +5557,25 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003197",
-      "csName": "Ladestation Restaurace Rozmarýna I.",
-      "csStatus": "under_construction",
+      "csName": "Ladestation Restaurace Rozmarýna",
+      "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Parking lot next to the Restaurant Rozmarýna",
-      "enCsname": "Charger Restaurace Rozmarýna I.",
-      "evseId": "CZ*PRE*E1S8120*2",
+      "enCsname": "Charger Restaurace Rozmarýna",
+      "evseId": "CZ*PRE*E1R0034*3",
       "geoCoord": {
         "latitude": "50.013375",
         "longitude": "14.398606"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_restaurace_rozmaryna_i.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
