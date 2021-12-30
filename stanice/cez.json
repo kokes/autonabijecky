@@ -6599,7 +6599,7 @@
   },
   "149926": {
     "name": "N147 - Havlíčkův Brod",
-    "sha1": "5219d0e04c7cd43e320bd9b8f1b9a391cfbc9b2e",
+    "sha1": "58a02fce788010dafa072846178d154f767c424d",
     "station": {
       "address": {
         "city": "Havlíčkův Brod",
@@ -6653,7 +6653,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/10/shell-humpolec-3.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/havl-brod-1.jpg"
         }
       ],
       "instructions": null,
@@ -7758,8 +7758,8 @@
     }
   },
   "151923": {
-    "name": "Ostrava - Outlet Arena Moravia - 3",
-    "sha1": "6f7420005df419da3055cf5b3ce9cc8eaef551db",
+    "name": "N160 - Ostrava - Outlet Arena Moravia - 3",
+    "sha1": "13a28681152a9bffc10e8f566143cb495e75c020",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -7786,7 +7786,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "SVK060",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -7794,13 +7794,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "N160"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "SVK060",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 22,
@@ -7808,7 +7808,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "N160"
         }
       ],
       "images": [
@@ -7817,7 +7817,7 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrava - Outlet Arena Moravia - 3",
+      "name": "N160 - Ostrava - Outlet Arena Moravia - 3",
       "visible": true
     }
   },
@@ -7886,8 +7886,8 @@
     }
   },
   "152024": {
-    "name": "Ostrava - Outlet Arena Moravia - 1",
-    "sha1": "5f0f090044359cf6e484e943ed0770af0efcac89",
+    "name": "R385 - Ostrava - Outlet Arena Moravia - 1",
+    "sha1": "939e6e43c2fd0dc89bb93ff606b478f6c0a79c14",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -7914,7 +7914,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3021-016",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -7922,13 +7922,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R385"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3021-016",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -7937,7 +7937,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3021-016",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -7945,7 +7945,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R385"
         }
       ],
       "images": [
@@ -7954,13 +7954,13 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrava - Outlet Arena Moravia - 1",
+      "name": "R385 - Ostrava - Outlet Arena Moravia - 1",
       "visible": true
     }
   },
   "152025": {
-    "name": "Ostrava - Outlet Arena Moravia - 2",
-    "sha1": "6877e8de668cb5f26907b6ff60035e9aa5fea012",
+    "name": "R386 - Ostrava - Outlet Arena Moravia - 2",
+    "sha1": "e86ffaaebce9bac59ae6cf9401a4c50998b8a02b",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -7987,7 +7987,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-1921-012",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -7995,13 +7995,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R386"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-1921-012",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -8010,7 +8010,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-1921-012",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -8018,7 +8018,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R386"
         }
       ],
       "images": [
@@ -8027,13 +8027,13 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrava - Outlet Arena Moravia - 2",
+      "name": "R386 - Ostrava - Outlet Arena Moravia - 2",
       "visible": true
     }
   },
   "152147": {
-    "name": "Ostrava - Outlet Arena Moravia - 4",
-    "sha1": "11ca8c9b32fb54d0bd4236efa201f22f9fbd0075",
+    "name": "N161 - Ostrava - Outlet Arena Moravia - 4",
+    "sha1": "55f5a41cec86c909f207d68a4810295120c3bbcc",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -8060,7 +8060,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "SVK061",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -8074,7 +8074,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "SVK061",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 22,
@@ -8091,13 +8091,13 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrava - Outlet Arena Moravia - 4",
+      "name": "N161 - Ostrava - Outlet Arena Moravia - 4",
       "visible": true
     }
   },
   "152148": {
-    "name": "Ostrava - Outlet Arena Moravia - 5",
-    "sha1": "700170ffd38179a6bd16af9e7363cb4138406f03",
+    "name": "N162 - Ostrava - Outlet Arena Moravia - 5",
+    "sha1": "6caeb5ab8c2162ff2b675c6cc12466a1f615e1a9",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -8124,7 +8124,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "SVK062",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -8132,13 +8132,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "N162"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "SVK062",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 22,
@@ -8146,7 +8146,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "N162"
         }
       ],
       "images": [
@@ -8155,13 +8155,13 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrava - Outlet Arena Moravia - 5",
+      "name": "N162 - Ostrava - Outlet Arena Moravia - 5",
       "visible": true
     }
   },
   "152149": {
-    "name": "Ostrava - Outlet Arena Moravia - 6",
-    "sha1": "9f7421463905453f10766d009b8d47eb3b5ace2e",
+    "name": "N163 - Ostrava - Outlet Arena Moravia - 6",
+    "sha1": "9842f1e8757612a515cb038ffadea7b005b71c09",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -8188,7 +8188,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "SVK063",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -8196,13 +8196,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "N163"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "SVK063",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 22,
@@ -8210,7 +8210,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "N163"
         }
       ],
       "images": [
@@ -8219,7 +8219,7 @@
         }
       ],
       "instructions": null,
-      "name": "Ostrava - Outlet Arena Moravia - 6",
+      "name": "N163 - Ostrava - Outlet Arena Moravia - 6",
       "visible": true
     }
   },
@@ -8348,7 +8348,7 @@
   },
   "152557": {
     "name": "R340 - Kroměříž - Kaufland",
-    "sha1": "a3cd77a06643a771399f880dcb09a17dac6c6156",
+    "sha1": "b616d9a61a45140e700eabb0d518deeb3c066d92",
     "station": {
       "address": {
         "city": "Kroměříž",
@@ -8411,7 +8411,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/kaufland_brno_bohunice-20211229-130955.jpg"
         }
       ],
       "instructions": null,
@@ -8421,7 +8421,7 @@
   },
   "152586": {
     "name": "N146 - Hlinsko",
-    "sha1": "28dcb12bff0817924da39da24b8f5edca06b45a5",
+    "sha1": "da6d32bf6848b215935c03b07f64c9417007519b",
     "station": {
       "address": {
         "city": "Hlinsko",
@@ -8475,7 +8475,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/kaufland_brno_bohunice-20211229-130955.jpg"
         }
       ],
       "instructions": null,
@@ -8485,7 +8485,7 @@
   },
   "152587": {
     "name": "N155 - Nová Paka",
-    "sha1": "3a0b188669e0c2bcc6c716e9dafd04a6c1b2aa86",
+    "sha1": "9d1c8a1107c6bfb71ac223caa25c91078120fd7b",
     "station": {
       "address": {
         "city": "Nová Paka",
@@ -8539,7 +8539,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/kaufland_brno_bohunice-20211229-130955.jpg"
         }
       ],
       "instructions": null,
@@ -8549,7 +8549,7 @@
   },
   "152670": {
     "name": "N164 - Bílovec",
-    "sha1": "52df7dc1f5ac70b3286cc4e26ba2f56f038e63c3",
+    "sha1": "dbb79459914c75f3934b4079132d44868db7fce9",
     "station": {
       "address": {
         "city": "Bílovec",
@@ -8603,7 +8603,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/kaufland_brno_bohunice-20211229-130955.jpg"
         }
       ],
       "instructions": null,
@@ -8613,7 +8613,7 @@
   },
   "152971": {
     "name": "R352 - Brno - Kaufland",
-    "sha1": "25a97dedb458692eacfc93c4918c33cfa9c8656b",
+    "sha1": "73f555d047405f466f5c1ec4fc359d24313c1e35",
     "station": {
       "address": {
         "city": "Brno-Slatina",
@@ -8676,7 +8676,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/kaufland_brno_bohunice-20211229-130955.jpg"
         }
       ],
       "instructions": null,
@@ -8686,7 +8686,7 @@
   },
   "152985": {
     "name": "R353 - Brno - Kaufland",
-    "sha1": "d0324902afd17581205d8466475fa5c8e900aca2",
+    "sha1": "9be723f1e48d21a1f89762f515f44a5064ac3ee8",
     "station": {
       "address": {
         "city": "Brno-Slatina",
@@ -8749,7 +8749,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/kaufland_brno_bohunice-20211229-130848.jpg"
         }
       ],
       "instructions": null,
@@ -8758,8 +8758,8 @@
     }
   },
   "153360": {
-    "name": "UR - Průhonice – 3",
-    "sha1": "002d1f59c0192cba34f73ccd92246a4f9c376702",
+    "name": "UR105 - Průhonice – 3",
+    "sha1": "e06675aeb2d8a2f396da9901881dfa2f5544d69a",
     "station": {
       "address": {
         "city": "Průhonice",
@@ -8786,7 +8786,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T184-IT1-3421-083",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 180,
@@ -8795,7 +8795,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T184-IT1-3421-083",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 180,
@@ -8803,81 +8803,22 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "UR105"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/ultrafast-dobijeci-stanice-pruhonice-2-20211229-120519.jpg"
         }
       ],
       "instructions": null,
-      "name": "UR - Průhonice – 3",
-      "visible": true
-    }
-  },
-  "153361": {
-    "name": "UR - Průhonice – 4",
-    "sha1": "39fd35ed8c5951a08a4ae8cf240f2d62d8f245de",
-    "station": {
-      "address": {
-        "city": "Průhonice",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "Dálnicí 570",
-        "latitude": 50.0052414,
-        "longitude": 14.56322,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Za",
-        "url": ""
-      },
-      "customID": "153361",
-      "description": [
-        {
-          "language": "cs",
-          "text": "ABB Terra 184"
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 180,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 180,
-              "standard": "CHADEMO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": ""
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "UR - Průhonice – 4",
+      "name": "UR105 - Průhonice – 3",
       "visible": true
     }
   },
   "153362": {
-    "name": "Průhonice – 2",
-    "sha1": "be8eaae1d75aad786799b34b8b82619d0aaf73b3",
+    "name": "R380 - Průhonice – 2",
+    "sha1": "0bf1be58ec8afa1155bfc4d97e06fe79291a4871",
     "station": {
       "address": {
         "city": "Průhonice",
@@ -8904,7 +8845,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3321-004",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -8912,13 +8853,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R380"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3321-004",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": null,
@@ -8927,7 +8868,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3321-004",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -8935,22 +8876,22 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R380"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/ultrafast-dobijeci-stanice-pruhonice-2-20211229-120109.jpg"
         }
       ],
       "instructions": null,
-      "name": "Průhonice – 2",
+      "name": "R380 - Průhonice – 2",
       "visible": true
     }
   },
   "153363": {
-    "name": "Průhonice – 3",
-    "sha1": "7a08564d5e9a8a6ce70c01d85a4f7c4157ff20c7",
+    "name": "R381 - Průhonice – 3",
+    "sha1": "68355cc23d209ce7fd1a22b3c00c0944e8d3132b",
     "station": {
       "address": {
         "city": "Průhonice",
@@ -8976,31 +8917,54 @@
         {
           "connectors": [
             {
-              "amperage": null,
-              "chargePointIdentity": "",
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3321-002",
               "connectorID": 1,
               "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R381"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-002",
+              "connectorID": 2,
+              "format": "CABLE",
               "powerOutput": null,
-              "standard": "OTHER",
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-002",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R381"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/ultrafast-dobijeci-stanice-pruhonice-2-20211229-115733.jpg"
         }
       ],
       "instructions": null,
-      "name": "Průhonice – 3",
+      "name": "R381 - Průhonice – 3",
       "visible": true
     }
   },
   "153367": {
-    "name": "UR - Průhonice - 1",
-    "sha1": "c8a0659106b6d0436a5e350bf64c805fbb2381b1",
+    "name": "UR103 - Průhonice - 1",
+    "sha1": "d00a8c2be7aa55f92bef2ca54f615ecb8aa7ca1f",
     "station": {
       "address": {
         "city": "Průhonice",
@@ -9027,7 +8991,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T184-IT1-3521-228",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 180,
@@ -9036,7 +9000,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T184-IT1-3521-228",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 180,
@@ -9044,22 +9008,22 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "UR103"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/ultrafast-dobijeci-stanice-pruhonice-2-20211229-125659.jpg"
         }
       ],
       "instructions": null,
-      "name": "UR - Průhonice - 1",
+      "name": "UR103 - Průhonice - 1",
       "visible": true
     }
   },
   "153368": {
-    "name": "UR - Průhonice – 2",
-    "sha1": "f12de8cf8c47e2fc928d6a0dad236c02b179d2a1",
+    "name": "UR104 - Průhonice – 2",
+    "sha1": "cb897d954c4c56a89192f4a51423b89fda548b50",
     "station": {
       "address": {
         "city": "Průhonice",
@@ -9086,7 +9050,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T184-IT1-3321-151",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 180,
@@ -9095,7 +9059,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T184-IT1-3321-151",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 180,
@@ -9103,95 +9067,22 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "UR104"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/ultrafast-dobijeci-stanice-pruhonice-2-20211229-125403.jpg"
         }
       ],
       "instructions": null,
-      "name": "UR - Průhonice – 2",
-      "visible": true
-    }
-  },
-  "153369": {
-    "name": "Průhonice – 1",
-    "sha1": "95b56b81dec289f83f191429889f79063399c46c",
-    "station": {
-      "address": {
-        "city": "Průhonice",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "Dálnicí 570",
-        "latitude": 50.0052414,
-        "longitude": 14.56318,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Za",
-        "url": ""
-      },
-      "customID": "153369",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": ""
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": ""
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "Průhonice – 1",
+      "name": "UR104 - Průhonice – 2",
       "visible": true
     }
   },
   "153371": {
-    "name": "Průhonice – 4",
-    "sha1": "bbe8e8b3b47ae45e7fb3f198ea8fbc3040b2b28f",
+    "name": "R382 - Průhonice – 4",
+    "sha1": "19315b092db2a7c5644d8bd561b899f5695c5e72",
     "station": {
       "address": {
         "city": "Průhonice",
@@ -9218,7 +9109,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3121-002",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -9226,13 +9117,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R382"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3121-002",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": null,
@@ -9241,7 +9132,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3121-002",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -9249,22 +9140,22 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R382"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/ultrafast-dobijeci-stanice-pruhonice-2-20211229-115546.jpg"
         }
       ],
       "instructions": null,
-      "name": "Průhonice – 4",
+      "name": "R382 - Průhonice – 4",
       "visible": true
     }
   },
   "153372": {
-    "name": "Průhonice – 5",
-    "sha1": "b06772fb834eb8aa9b3f6921e62319b27adf876e",
+    "name": "R383 - Průhonice – 5",
+    "sha1": "0c35049aae0d429902cc9d17da2b4bf67353c058",
     "station": {
       "address": {
         "city": "Průhonice",
@@ -9291,7 +9182,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3121-010",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -9299,13 +9190,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R383"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3121-010",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": null,
@@ -9314,7 +9205,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3121-010",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -9322,22 +9213,22 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R383"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/ultrafast-dobijeci-stanice-pruhonice-2-20211229-115404.jpg"
         }
       ],
       "instructions": null,
-      "name": "Průhonice – 5",
+      "name": "R383 - Průhonice – 5",
       "visible": true
     }
   },
   "153373": {
-    "name": "Průhonice – 6",
-    "sha1": "df580f9ff7148b788ba69e2a21c7f3030e5fe77b",
+    "name": "R384 - Průhonice – 6",
+    "sha1": "ac6b108698c9d0f83fd00486cc60eb1195ef6bcc",
     "station": {
       "address": {
         "city": "Průhonice",
@@ -9364,7 +9255,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3321-003",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -9372,13 +9263,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R384"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3321-003",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": null,
@@ -9387,7 +9278,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3321-003",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -9395,16 +9286,16 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R384"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/ultrafast-dobijeci-stanice-pruhonice-2-20211229-115021.jpg"
         }
       ],
       "instructions": null,
-      "name": "Průhonice – 6",
+      "name": "R384 - Průhonice – 6",
       "visible": true
     }
   },
@@ -10047,9 +9938,82 @@
       "visible": true
     }
   },
+  "153662": {
+    "name": "R394 - Brno - Bohunice - Kaufland 3",
+    "sha1": "d71b783c6705f86e6d2c7a3c8ed441d50e0a54f4",
+    "station": {
+      "address": {
+        "city": "Brno - Bohunice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "745/1",
+        "latitude": 49.1739667,
+        "longitude": 16.58219,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Kamenice",
+        "url": ""
+      },
+      "customID": "153662",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3321-046",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R394"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-046",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-046",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R394"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/kaufland_brno_bohunice.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R394 - Brno - Bohunice - Kaufland 3",
+      "visible": true
+    }
+  },
   "153670": {
     "name": "R392 - Brno - Bohunice - Kaufland 1",
-    "sha1": "d8f64aaebd1e6dca79a1bc6cbcd45857505960d3",
+    "sha1": "057fea3257f372fc18f1c88e1c2631d5e8dc7e91",
     "station": {
       "address": {
         "city": "Brno - Bohunice",
@@ -10110,7 +10074,11 @@
           "physicalReference": "R392"
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/kaufland_brno_bohunice-20211229-113743.jpg"
+        }
+      ],
       "instructions": null,
       "name": "R392 - Brno - Bohunice - Kaufland 1",
       "visible": true
@@ -10118,7 +10086,7 @@
   },
   "153671": {
     "name": "R393 - Brno - Bohunice - Kaufland 2",
-    "sha1": "508b5367433e03688973a0043052552ac26b8908",
+    "sha1": "44bdd43f6310d6a15796c0be76cff083bb9251b2",
     "station": {
       "address": {
         "city": "Brno - Bohunice",
@@ -10179,9 +10147,534 @@
           "physicalReference": "R393"
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/kaufland_brno_bohunice-20211229-113222.jpg"
+        }
+      ],
       "instructions": null,
       "name": "R393 - Brno - Bohunice - Kaufland 2",
+      "visible": true
+    }
+  },
+  "153755": {
+    "name": "N166 - Praha - Národní Divadlo",
+    "sha1": "40ce51b54664ea17dd581ca3ec7fb6877486adae",
+    "station": {
+      "address": {
+        "city": "Praha",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "223/2",
+        "latitude": 50.0811583,
+        "longitude": 14.41345,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Národní",
+        "url": ""
+      },
+      "customID": "153755",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "SVK066",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N166"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/narodni_divadlo-20211229-133924.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N166 - Praha - Národní Divadlo",
+      "visible": true
+    }
+  },
+  "153756": {
+    "name": "N167 - Praha - Národní Divadlo",
+    "sha1": "726e4d961f7d8d168406819502c8477b20c03abd",
+    "station": {
+      "address": {
+        "city": "Praha",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "223/2",
+        "latitude": 50.0811583,
+        "longitude": 14.41341,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Národní",
+        "url": ""
+      },
+      "customID": "153756",
+      "description": [
+        {
+          "language": "cs",
+          "text": "Podzemní parkoviště Národního divadla"
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "SVK067",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N167"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/narodni_divadlo-20211229-134949.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N167 - Praha - Národní Divadlo",
+      "visible": true
+    }
+  },
+  "153757": {
+    "name": "R401 - Ostrava-Poruba - Kaufland",
+    "sha1": "061a17fac0d4309453591908410e206024f0025f",
+    "station": {
+      "address": {
+        "city": "Ostrava-Poruba",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "6191/21",
+        "latitude": 49.8205646,
+        "longitude": 18.1894766,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Polská",
+        "url": ""
+      },
+      "customID": "153757",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3321-054",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R401"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-054",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-054",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R401"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "R401 - Ostrava-Poruba - Kaufland",
+      "visible": true
+    }
+  },
+  "153779": {
+    "name": "R351 - Kaufland Most",
+    "sha1": "beede12684a0e2f619c143d1ad5c1fb1ff6a1237",
+    "station": {
+      "address": {
+        "city": "Most",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1701",
+        "latitude": 50.5120011,
+        "longitude": 13.6468219,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Kabátnická",
+        "url": ""
+      },
+      "customID": "153779",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-0321-020",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R351"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0321-020",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0321-020",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R351"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/citypark_jihlava_2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R351 - Kaufland Most",
+      "visible": true
+    }
+  },
+  "153780": {
+    "name": "R388 - Ústí nad Labem – Klíše",
+    "sha1": "e05023ce5d3de36e64459aad1e50f4c5be2e749c",
+    "station": {
+      "address": {
+        "city": "Ústí nad Labem – Klíše",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3368/7",
+        "latitude": 50.6633283,
+        "longitude": 14.0214772,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Okružní",
+        "url": ""
+      },
+      "customID": "153780",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3321-047",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R388"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-047",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-047",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R388"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/citypark_jihlava_2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R388 - Ústí nad Labem – Klíše",
+      "visible": true
+    }
+  },
+  "153781": {
+    "name": "R356 - Jihlava - Citypark",
+    "sha1": "088fb48d8d0d91de71d9258b107f9ccf7e5da6f5",
+    "station": {
+      "address": {
+        "city": "Jihlava",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "5440/1",
+        "latitude": 49.3926964,
+        "longitude": 15.5925675,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Hradební",
+        "url": ""
+      },
+      "customID": "153781",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-0321-016",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R356"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0321-016",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0321-016",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R356"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/citypark_jihlava_2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R356 - Jihlava - Citypark",
+      "visible": true
+    }
+  },
+  "153782": {
+    "name": "N165 - Praha - Národní Divadlo",
+    "sha1": "9e96b4b5c0e0e86c35201300bc5cf8bb0b07e5c4",
+    "station": {
+      "address": {
+        "city": "Praha",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "223/2",
+        "latitude": 50.0811583,
+        "longitude": 14.4134967,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Národní",
+        "url": ""
+      },
+      "customID": "153782",
+      "description": [
+        {
+          "language": "cs",
+          "text": "Podzemní parkoviště Národního divadla"
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "SVK065",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N165"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "SVK065",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N165"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/narodni_divadlo.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N165 - Praha - Národní Divadlo",
+      "visible": true
+    }
+  },
+  "153783": {
+    "name": "R402 - Ostrava-Poruba - Kaufland",
+    "sha1": "2250ea3390fa62d1db4e063e95d1dc8f0492a305",
+    "station": {
+      "address": {
+        "city": "Ostrava-Poruba",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "6191/21",
+        "latitude": 49.8205646,
+        "longitude": 18.18943,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Polská",
+        "url": ""
+      },
+      "customID": "153783",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3321-042",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R402"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-042",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-042",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R402"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "R402 - Ostrava-Poruba - Kaufland",
       "visible": true
     }
   },
