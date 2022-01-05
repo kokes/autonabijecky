@@ -5,13 +5,14 @@ import os
 from urllib.request import urlopen, Request
 
 tdir = "stanice"
+HTTP_TIMEOUT = 30
 
 # "csStatus": "under_construction"... resolve?
 def pre():
     url = "https://chargepre.smatrics.com/cs/map/pois?operator%5B%5D=CZ*PRE"
     req = Request(url)
     req.add_header("Referer", "https://chargepre.smatrics.com/cs/")
-    with urlopen(req) as r:
+    with urlopen(req, timeout=HTTP_TIMEOUT) as r:
         raw = json.load(r)
 
     # TODO: dataclass for this? or maybe wrap in a helper that takes arguments of nameID, idID
@@ -31,7 +32,7 @@ def pre():
 
 def cez():
     url = "https://www.elektromobilita.cz/cs/charging-stations-markery-pay.json"
-    with urlopen(url) as r:
+    with urlopen(url, timeout=HTTP_TIMEOUT) as r:
         raw = json.load(r)
 
     return {
@@ -46,7 +47,7 @@ def cez():
 
 def eon():
     url = "https://www.eon-drive.cz/api/v1/locations"
-    with urlopen(url) as r:
+    with urlopen(url, timeout=HTTP_TIMEOUT) as r:
         data = json.load(r)
 
     data = [j for j in data if j["country_code"] == "CZ"]
