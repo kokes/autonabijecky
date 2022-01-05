@@ -21719,7 +21719,7 @@
   },
   "81654": {
     "name": "(P) Rokytnice Centrum",
-    "sha1": "7c08d7da03b2026e928d68ea8b766a6c25606f4c",
+    "sha1": "dbc9710899f5782113876f40a51cd14b757f643a",
     "station": {
       "address": "Horská",
       "city": "Rokytnice v Orlických horách",
@@ -21740,13 +21740,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-01-04T15:59:34.8Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "131",
+                "132"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.166929",
             "longitude": "16.46704"
           },
           "evse_id": "CZ*EON*E31081654*1",
-          "last_seen_as_planned": "2021-12-16T12:46:01.76Z",
+          "last_seen_as_planned": "2022-01-04T15:59:34.8Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "81654"
@@ -21758,13 +21773,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-01-04T15:59:34.8Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "131",
+                "132"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.166929",
             "longitude": "16.46704"
           },
           "evse_id": "CZ*EON*E31081654*2",
-          "last_seen_as_planned": "2021-12-16T12:46:01.76Z",
+          "last_seen_as_planned": "2022-01-04T15:59:34.8Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "81655"
