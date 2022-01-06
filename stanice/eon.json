@@ -13116,6 +13116,85 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "45162": {
+    "name": "(P) Kněžice",
+    "sha1": "9e94807265287b7cd178a58868967a31de2dfa5d",
+    "station": {
+      "address": "Kněžice 25",
+      "city": "Vrchlabí",
+      "coordinates": {
+        "latitude": "50.639653",
+        "longitude": "15.582055"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-01-05T14:37:10.457Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "133",
+                "134"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.639653",
+            "longitude": "15.582055"
+          },
+          "evse_id": "CZ*EON*E22045162*1",
+          "last_seen_as_planned": "2022-01-05T14:37:10.457Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "45162"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "SPORT",
+        "NATURE"
+      ],
+      "id": "45162",
+      "last_updated": "RESET",
+      "name": "(P) Kněžice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Miroslav Matucha"
+      },
+      "owner": {
+        "name": "Miroslav Matucha"
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "54301",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "49015": {
     "name": "(P) LOCKAR Automotive s.r.o.",
     "sha1": "6938aac71506c56711152b3d3ee8f410ef2844f0",
@@ -21719,7 +21798,7 @@
   },
   "81654": {
     "name": "(P) Rokytnice Centrum",
-    "sha1": "dbc9710899f5782113876f40a51cd14b757f643a",
+    "sha1": "5a71e191d5f5fa783bfe97e81a4ab371e38d8efb",
     "station": {
       "address": "Horská",
       "city": "Rokytnice v Orlických horách",
@@ -21809,6 +21888,13 @@
         "MUSEUM"
       ],
       "id": "81654",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/84028/301281641393754.jpg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "(P) Rokytnice Centrum",
       "opening_times": {

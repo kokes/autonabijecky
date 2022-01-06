@@ -6467,6 +6467,52 @@
       "street": "Pražská 98"
     }
   },
+  "CZ2003209": {
+    "name": "Schnellladestation EuroOil Mníšek pod Brdy",
+    "sha1": "84cf167ce588d4496f9bd3912f609612ebfa94bb",
+    "station": {
+      "additionalInfo": "Bei der EuroOil Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Mníšek po Brdy",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2003209",
+      "csName": "Schnellladestation EuroOil Mníšek pod Brdy",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the EuroOil gas station",
+      "enCsname": "Fast charger EuroOil Mníšek pod Brdy",
+      "evseId": "CZ*PRE*E1R5102*2",
+      "geoCoord": {
+        "latitude": "49.859528",
+        "longitude": "14.264528"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_mnisek_pod_brdy.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "ČEPRO a.s.",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "25210",
+      "region": "Středočeský kraj",
+      "street": "Mníšek pod Brdy 1036"
+    }
+  },
   "CZ3102615": {
     "name": "Schnellladestation ČEPRO Sedlice",
     "sha1": "d72e776f81ed7c666327c9b1dff01ff8bbdbc49d",
