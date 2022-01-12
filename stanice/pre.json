@@ -7966,7 +7966,7 @@
   },
   "CZ5202735": {
     "name": "Schnellladestation EuroOil Horní Nová Ves",
-    "sha1": "f7086f2081f3a12998a9d3d2fe85769e2874bd47",
+    "sha1": "aa57726ed09ad54110597723e6f9efc31eeecf35",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
@@ -7979,7 +7979,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ5202735",
       "csName": "Schnellladestation EuroOil Horní Nová Ves",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "At the gas station parking lot",
       "enCsname": "Fast charger EuroOil Horní Nová Ves",
@@ -7990,6 +7990,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_horni_nova_ves.png"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "ČEPRO a.s.",
