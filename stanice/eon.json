@@ -13118,7 +13118,7 @@
   },
   "45162": {
     "name": "(P) Kněžice",
-    "sha1": "9e94807265287b7cd178a58868967a31de2dfa5d",
+    "sha1": "2e49abffa3652d6179ed066da93e483bd88b08a3",
     "station": {
       "address": "Kněžice 25",
       "city": "Vrchlabí",
@@ -13173,6 +13173,13 @@
         "NATURE"
       ],
       "id": "45162",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/85125/2100101641393725.jpg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "(P) Kněžice",
       "opening_times": {
