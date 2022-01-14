@@ -5681,6 +5681,52 @@
       "street": "Bachova"
     }
   },
+  "CZ1003218": {
+    "name": "Ladestation Pivovar Spojovna",
+    "sha1": "d628b13557f45c0fd5e79bec68ab271bc6140b1d",
+    "station": {
+      "additionalInfo": "Vor dem Restaurant Pivovar Spojovna",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging >50kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003218",
+      "csName": "Ladestation Pivovar Spojovna",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Infront of the Pivovar Spojovna restaurant",
+      "enCsname": "Charger Pivovar Spojovna",
+      "evseId": "CZ*PRE*E1R0035*3",
+      "geoCoord": {
+        "latitude": "50.020435",
+        "longitude": "14.498698"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_pivovar_spojovna.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "14800",
+      "region": "Hlavní město Praha",
+      "street": "U Kunratického lesa 1801"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
@@ -6784,6 +6830,52 @@
       "postalCode": "39003",
       "region": "Jihočeský kraj",
       "street": "Benešovská 105"
+    }
+  },
+  "CZ3103217": {
+    "name": "Schnellladestation OMV Český Krumlov",
+    "sha1": "a7d8a3e20d8e5791beaa3a8675ac7a399f616413",
+    "station": {
+      "additionalInfo": "Bei der OMV Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Český Krumlov",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ3103217",
+      "csName": "Schnellladestation OMV Český Krumlov",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the OMV gas station",
+      "enCsname": "Fast charger OMV Český Krumlov",
+      "evseId": "CZ*PRE*E1R5117*2",
+      "geoCoord": {
+        "latitude": "48.824556",
+        "longitude": "14.334167"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_cesky_krumlov.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "38001",
+      "region": "Jihočeský kraj",
+      "street": "Domoradická"
     }
   },
   "CZ3202594": {

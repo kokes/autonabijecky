@@ -10678,6 +10678,393 @@
       "visible": true
     }
   },
+  "154290": {
+    "name": "N176 - Dolní Břežany - Parkovací dům",
+    "sha1": "139977e6a01de5a76be0b74d1b0623c1bf7df8a4",
+    "station": {
+      "address": {
+        "city": "Dolní Břežany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Hodkovicům",
+        "latitude": 49.9660911,
+        "longitude": 14.46094,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K",
+        "url": ""
+      },
+      "customID": "154290",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N176"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N176"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "N176 - Dolní Břežany - Parkovací dům",
+      "visible": true
+    }
+  },
+  "154307": {
+    "name": "R400 - Prostějov - Kubus",
+    "sha1": "191858bc490be5e84bdb83985b6e0f730cc6ac33",
+    "station": {
+      "address": {
+        "city": "Prostějov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "4167/18",
+        "latitude": 49.4732956,
+        "longitude": 17.1047545,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Plumlovská",
+        "url": ""
+      },
+      "customID": "154307",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R400"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R400"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "R400 - Prostějov - Kubus",
+      "visible": true
+    }
+  },
+  "154308": {
+    "name": "R399 - Stonařov",
+    "sha1": "e55ef95a05630c39f5f169595eae79f0bea667db",
+    "station": {
+      "address": {
+        "city": "Stonařov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "70",
+        "latitude": 49.2811778,
+        "longitude": 15.5855383,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Stonařov",
+        "url": ""
+      },
+      "customID": "154308",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R399"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R399"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "R399 - Stonařov",
+      "visible": true
+    }
+  },
+  "154309": {
+    "name": "R396 - Štětí",
+    "sha1": "d2fd8b34728cbb510c30ccd0e82ebf300c52138f",
+    "station": {
+      "address": {
+        "city": "Štětí",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "náměstí",
+        "latitude": 50.4543293,
+        "longitude": 14.3727336,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Mírové",
+        "url": ""
+      },
+      "customID": "154309",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R396"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R396"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "R396 - Štětí",
+      "visible": true
+    }
+  },
+  "154314": {
+    "name": "N177 - Železný Brod",
+    "sha1": "b550a7fbd31bb85b78d9d453d3d23eefcc3cd6f9",
+    "station": {
+      "address": {
+        "city": "Železný Brod",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "nábřeží",
+        "latitude": 50.6417092,
+        "longitude": 15.2561031,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jiráskovo",
+        "url": ""
+      },
+      "customID": "154314",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N177"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N177"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "N177 - Železný Brod",
+      "visible": true
+    }
+  },
+  "154315": {
+    "name": "N175 - Dolní Břežany - Parkovací dům",
+    "sha1": "91114c1931f2d2fd7531f82efcbfd91c559fa8b0",
+    "station": {
+      "address": {
+        "city": "Dolní Břežany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Hodkovicům",
+        "latitude": 49.9660911,
+        "longitude": 14.4609141,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K",
+        "url": ""
+      },
+      "customID": "154315",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N175"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N175"
+        }
+      ],
+      "images": [],
+      "instructions": null,
+      "name": "N175 - Dolní Břežany - Parkovací dům",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "b57b81fd6ee9b18afc4845f94aaa97f75ce4f86a",

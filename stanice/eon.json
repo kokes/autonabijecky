@@ -21268,7 +21268,7 @@
   },
   "66856": {
     "name": "(P) Teplárna Liberec a.s.",
-    "sha1": "fa6cf0a970b81dc7ff00465a9b45775b74b12cc2",
+    "sha1": "3d7b0cc0ffba1c943aaa51565e4889fd3ca62a09",
     "station": {
       "address": "Dr. Milady Horákové 641/34a",
       "city": "Liberec IV-Perštýn",
@@ -21293,7 +21293,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2021-11-19T14:17:25.57Z",
+              "last_updated": "2022-01-13T13:53:02.143Z",
               "max_amperage": 250,
               "max_electric_power": 75000,
               "max_voltage": 1000,
@@ -21301,9 +21301,7 @@
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
                 "110",
-                "112",
-                "127",
-                "128"
+                "112"
               ]
             }
           ],
@@ -21328,7 +21326,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2021-11-19T14:14:28.51Z",
+              "last_updated": "2022-01-13T13:53:12.32Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -21336,9 +21334,7 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "109",
-                "111",
-                "125",
-                "126"
+                "111"
               ]
             }
           ],
