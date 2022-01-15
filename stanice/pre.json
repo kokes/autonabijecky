@@ -5682,8 +5682,8 @@
     }
   },
   "CZ1003218": {
-    "name": "Ladestation Pivovar Spojovna",
-    "sha1": "d628b13557f45c0fd5e79bec68ab271bc6140b1d",
+    "name": "Ultra-Highspeed-Ladestation Pivovar Spojovna",
+    "sha1": "015807586b77236def32f124145de5a6e30a4b01",
     "station": {
       "additionalInfo": "Vor dem Restaurant Pivovar Spojovna",
       "chargingFacilities": {
@@ -5695,11 +5695,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003218",
-      "csName": "Ladestation Pivovar Spojovna",
+      "csName": "Ultra-Highspeed-Ladestation Pivovar Spojovna",
       "csStatus": "operable",
-      "csType": "charger",
+      "csType": "ultra_fast_charger",
       "enAdditionalInfo": "Infront of the Pivovar Spojovna restaurant",
-      "enCsname": "Charger Pivovar Spojovna",
+      "enCsname": "Ultra-highspeed charger Pivovar Spojovna",
       "evseId": "CZ*PRE*E1R0035*3",
       "geoCoord": {
         "latitude": "50.020435",
