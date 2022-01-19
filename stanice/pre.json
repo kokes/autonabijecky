@@ -9681,7 +9681,7 @@
   },
   "CZ8002739": {
     "name": "Schnellladestation EuroOil Havířov",
-    "sha1": "da73fd39a95eb817d29ca8f1a9715661f321aebd",
+    "sha1": "8d151aa76901543a2bf9dcaf207122946cfd8f0b",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
@@ -9694,7 +9694,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ8002739",
       "csName": "Schnellladestation EuroOil Havířov",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "At the gas station parking lot",
       "enCsname": "Fast charger EuroOil Havířov",
@@ -9705,6 +9705,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_havirov.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "ČEPRO a.s.",
@@ -9918,6 +9925,52 @@
       "postalCode": "73961",
       "region": "Moravskoslezský kraj",
       "street": "Lidická 146"
+    }
+  },
+  "CZ8003222": {
+    "name": "Schnellladestation Benzina Nový Jičín",
+    "sha1": "9118459c129cec68fd963d848517ee95ebabac66",
+    "station": {
+      "additionalInfo": "Bei der Benzina Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Nový Jičín",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8003222",
+      "csName": "Schnellladestation Benzina Nový Jičín",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the Benzina gas station",
+      "enCsname": "Fast charger Benzina Nový Jičín",
+      "evseId": "CZ*PRE*E1R5058*3",
+      "geoCoord": {
+        "latitude": "48.906611",
+        "longitude": "15.974111"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_benzina_novy_jicin.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "74101",
+      "region": "Moravskoslezský kraj",
+      "street": "Suvorovova 664"
     }
   }
 }
