@@ -23670,7 +23670,7 @@
   },
   "81654": {
     "name": "(P) Rokytnice Centrum",
-    "sha1": "5a71e191d5f5fa783bfe97e81a4ab371e38d8efb",
+    "sha1": "bbd726de484336f9875abe82cde58d710388de8a",
     "station": {
       "address": "Horská",
       "city": "Rokytnice v Orlických horách",
@@ -23712,6 +23712,7 @@
             "longitude": "16.46704"
           },
           "evse_id": "CZ*EON*E31081654*1",
+          "floor_level": "0",
           "last_seen_as_planned": "2022-01-04T15:59:34.8Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -23745,6 +23746,7 @@
             "longitude": "16.46704"
           },
           "evse_id": "CZ*EON*E31081654*2",
+          "floor_level": "0",
           "last_seen_as_planned": "2022-01-04T15:59:34.8Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -23891,6 +23893,69 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "543 51",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "88568": {
+    "name": "(P) B4B INKASSO s.r.o.",
+    "sha1": "fb83f17882cef8a380eecdbd3195944a3475e5d8",
+    "station": {
+      "address": "Kollárova 1653/2b",
+      "city": "Havířov",
+      "coordinates": {
+        "latitude": "49.77182",
+        "longitude": "18.44916"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.77182",
+            "longitude": "18.44916"
+          },
+          "evse_id": "CZ*EON*E22088568*1",
+          "last_seen_as_planned": "2022-01-19T06:39:44.683Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "88568"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "MALL"
+      ],
+      "id": "88568",
+      "last_updated": "RESET",
+      "name": "(P) B4B INKASSO s.r.o.",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "B4B INKASSO s.r.o."
+      },
+      "owner": {
+        "name": "B4B INKASSO s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "73601",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
