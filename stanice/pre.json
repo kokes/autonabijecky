@@ -9844,7 +9844,7 @@
   },
   "CZ8002869": {
     "name": "Schnellladestation OMV Frýdek-Místek",
-    "sha1": "2e88a473f471f9e904e2b4bb75829efb4f9de58c",
+    "sha1": "063074199c200394ff5838c74edfe30b7bf05ed9",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "chargingFacilities": {
@@ -9868,6 +9868,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_frydek_mistek.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
