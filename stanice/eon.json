@@ -1263,7 +1263,7 @@
   },
   "14122": {
     "name": "E.ON kavárna Lanna",
-    "sha1": "604d2234c605da5cd9d05925d4ca2bab623a1ec8",
+    "sha1": "eab28f767554d4639c4a1c4dd6dfb8a6a2f97fd3",
     "station": {
       "address": "Jiráskovo nábř. 45e",
       "city": "České Budějovice",
@@ -1277,6 +1277,41 @@
         "is_green_energy": true
       },
       "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-01-24T23:02:56.473Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.978666",
+            "longitude": "14.466984"
+          },
+          "evse_id": "CZ*EON*E31109635*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "109635"
+        },
         {
           "capabilities": [
             "CONTACTLESS_CARD_SUPPORT",
