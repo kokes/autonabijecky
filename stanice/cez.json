@@ -10259,7 +10259,7 @@
   },
   "153757": {
     "name": "R401 - Ostrava-Poruba - Kaufland",
-    "sha1": "061a17fac0d4309453591908410e206024f0025f",
+    "sha1": "ad190c851ec2549d0176c71f0b6797c0ef7638ac",
     "station": {
       "address": {
         "city": "Ostrava-Poruba",
@@ -10320,7 +10320,11 @@
           "physicalReference": "R401"
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/3.jpg"
+        }
+      ],
       "instructions": null,
       "name": "R401 - Ostrava-Poruba - Kaufland",
       "visible": true
@@ -10611,7 +10615,7 @@
   },
   "153783": {
     "name": "R402 - Ostrava-Poruba - Kaufland",
-    "sha1": "2250ea3390fa62d1db4e063e95d1dc8f0492a305",
+    "sha1": "6c4ef206c2ac2ff5f78c054046dd0616fe034c9a",
     "station": {
       "address": {
         "city": "Ostrava-Poruba",
@@ -10672,7 +10676,11 @@
           "physicalReference": "R402"
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/3.jpg"
+        }
+      ],
       "instructions": null,
       "name": "R402 - Ostrava-Poruba - Kaufland",
       "visible": true
@@ -10740,7 +10748,7 @@
   },
   "154307": {
     "name": "R400 - Prostějov - Kubus",
-    "sha1": "191858bc490be5e84bdb83985b6e0f730cc6ac33",
+    "sha1": "04e06eccc58b78df5aa8ff0514379a3b3d12e250",
     "station": {
       "address": {
         "city": "Prostějov",
@@ -10801,7 +10809,11 @@
           "physicalReference": "R400"
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/3.jpg"
+        }
+      ],
       "instructions": null,
       "name": "R400 - Prostějov - Kubus",
       "visible": true
@@ -10809,7 +10821,7 @@
   },
   "154308": {
     "name": "R399 - Stonařov",
-    "sha1": "e55ef95a05630c39f5f169595eae79f0bea667db",
+    "sha1": "743a7dbfe258977b2edf7f89ff50a939c539c515",
     "station": {
       "address": {
         "city": "Stonařov",
@@ -10870,7 +10882,11 @@
           "physicalReference": "R399"
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/3.jpg"
+        }
+      ],
       "instructions": null,
       "name": "R399 - Stonařov",
       "visible": true
@@ -10878,7 +10894,7 @@
   },
   "154309": {
     "name": "R396 - Štětí",
-    "sha1": "d2fd8b34728cbb510c30ccd0e82ebf300c52138f",
+    "sha1": "4686ab6d855ca743fc78c75342a56c2ceb2e0918",
     "station": {
       "address": {
         "city": "Štětí",
@@ -10905,7 +10921,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3721-002",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -10919,7 +10935,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3721-002",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": null,
@@ -10928,7 +10944,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3721-002",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -10939,7 +10955,11 @@
           "physicalReference": "R396"
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/3.jpg"
+        }
+      ],
       "instructions": null,
       "name": "R396 - Štětí",
       "visible": true
@@ -10947,7 +10967,7 @@
   },
   "154314": {
     "name": "N177 - Železný Brod",
-    "sha1": "b550a7fbd31bb85b78d9d453d3d23eefcc3cd6f9",
+    "sha1": "c751de9b88089b4d110afa19fcd8015177da9214",
     "station": {
       "address": {
         "city": "Železný Brod",
@@ -10999,7 +11019,11 @@
           "physicalReference": "N177"
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/3-20220125-132827.jpg"
+        }
+      ],
       "instructions": null,
       "name": "N177 - Železný Brod",
       "visible": true

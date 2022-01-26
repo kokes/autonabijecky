@@ -913,6 +913,237 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "109565": {
+    "name": "(P) Olympia Brno - Parkovací dům",
+    "sha1": "470972e6b1982ee46639e5063d6af072a6a5b631",
+    "station": {
+      "address": "U Dálnice 777",
+      "city": "Modřice",
+      "coordinates": {
+        "latitude": "49.140384",
+        "longitude": "16.632541"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.140384",
+            "longitude": "16.632541"
+          },
+          "evse_id": "CZ*EON*E220109565*1",
+          "last_seen_as_planned": "2022-01-25T06:19:04.643Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "109565"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.140384",
+            "longitude": "16.632541"
+          },
+          "evse_id": "CZ*EON*E220109566*1",
+          "last_seen_as_planned": "2022-01-25T06:19:04.643Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "109566"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.140384",
+            "longitude": "16.632541"
+          },
+          "evse_id": "CZ*EON*E220109567*1",
+          "last_seen_as_planned": "2022-01-25T06:19:04.643Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "109567"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.140384",
+            "longitude": "16.632541"
+          },
+          "evse_id": "CZ*EON*E220109568*1",
+          "last_seen_as_planned": "2022-01-25T06:19:04.643Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "109568"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.140384",
+            "longitude": "16.632541"
+          },
+          "evse_id": "CZ*EON*E220109569*1",
+          "last_seen_as_planned": "2022-01-25T06:19:04.643Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "109569"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.140384",
+            "longitude": "16.632541"
+          },
+          "evse_id": "CZ*EON*E220109570*1",
+          "last_seen_as_planned": "2022-01-25T06:19:04.643Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "109570"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.140384",
+            "longitude": "16.632541"
+          },
+          "evse_id": "CZ*EON*E220109571*1",
+          "last_seen_as_planned": "2022-01-25T06:19:04.643Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "109571"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.140384",
+            "longitude": "16.632541"
+          },
+          "evse_id": "CZ*EON*E220109572*1",
+          "last_seen_as_planned": "2022-01-25T06:19:04.643Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "109572"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "MALL",
+        "SUPERMARKET",
+        "BUS_STOP",
+        "TAXI_STAND",
+        "PARKING_LOT",
+        "WIFI"
+      ],
+      "id": "109565",
+      "last_updated": "RESET",
+      "name": "(P) Olympia Brno - Parkovací dům",
+      "opening_times": {
+        "regular_hours": [
+          {
+            "period_begin": "06:00",
+            "period_end": "23:00",
+            "weekday": 7
+          },
+          {
+            "period_begin": "06:00",
+            "period_end": "23:00",
+            "weekday": 6
+          },
+          {
+            "period_begin": "06:00",
+            "period_end": "23:00",
+            "weekday": 5
+          },
+          {
+            "period_begin": "06:00",
+            "period_end": "23:00",
+            "weekday": 4
+          },
+          {
+            "period_begin": "06:00",
+            "period_end": "23:00",
+            "weekday": 3
+          },
+          {
+            "period_begin": "06:00",
+            "period_end": "23:00",
+            "weekday": 2
+          },
+          {
+            "period_begin": "06:00",
+            "period_end": "23:00",
+            "weekday": 1
+          }
+        ],
+        "twentyfourseven": false
+      },
+      "operator": {
+        "name": "Olympia Brno s.r.o."
+      },
+      "owner": {
+        "name": "Olympia Brno s.r.o."
+      },
+      "parking_type": "PARKING_GARAGE",
+      "party_id": "EON",
+      "postal_code": "66442",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "14028": {
     "name": "E.ON Český Krumlov autobusové nádraží",
     "sha1": "dea5ca485eb03a6c897cd75c70438333364ea0e7",
@@ -23938,7 +24169,7 @@
   },
   "88568": {
     "name": "(P) B4B INKASSO s.r.o.",
-    "sha1": "fb83f17882cef8a380eecdbd3195944a3475e5d8",
+    "sha1": "920dd6d44cb4063eb807f08058460c43b1c1fe25",
     "station": {
       "address": "Kollárova 1653/2b",
       "city": "Havířov",
@@ -23959,13 +24190,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2022-01-25T15:57:49.057Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "135",
+                "136"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.77182",
             "longitude": "18.44916"
           },
           "evse_id": "CZ*EON*E22088568*1",
-          "last_seen_as_planned": "2022-01-19T06:39:44.683Z",
+          "last_seen_as_planned": "2022-01-25T15:57:49.057Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "88568"
@@ -23977,6 +24223,13 @@
         "MALL"
       ],
       "id": "88568",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/92846/3936211642574633.jpg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "(P) B4B INKASSO s.r.o.",
       "opening_times": {

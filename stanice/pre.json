@@ -5727,6 +5727,45 @@
       "street": "U Kunratického lesa 1801"
     }
   },
+  "CZ1003239": {
+    "name": "Schnellladestation ČSOB Výmolova",
+    "sha1": "cebd601d7131d8f2903ce3ec8c123ad1f2ef01ad",
+    "station": {
+      "additionalInfo": "Dobíjecí stanice je přístupná pouze zákazníkům ČSOB s platným povolením vjezdu",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003239",
+      "csName": "Schnellladestation ČSOB Výmolova",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit.",
+      "enCsname": "Fast charger ČSOB Výmolova",
+      "evseId": "CZ*PRE*E0S0003*2",
+      "geoCoord": {
+        "latitude": "50.056905",
+        "longitude": "14.388696"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "ČSOB",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "15000",
+      "region": "Hlavní město Praha",
+      "street": "Výmolova 353"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
@@ -7170,6 +7209,45 @@
       "postalCode": "31800",
       "region": "Plzeňský kraj",
       "street": "Domažlická 1130/170"
+    }
+  },
+  "CZ3203241": {
+    "name": "Ladestation ČSOB Plzeň",
+    "sha1": "b3ab2e0e0965758a464b972bdef51517e7bb1e3f",
+    "station": {
+      "additionalInfo": "Dobíjecí stanice je přístupná pouze zákazníkům ČSOB s platným povolením vjezdu",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Plzeň",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ3203241",
+      "csName": "Ladestation ČSOB Plzeň",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit",
+      "enCsname": "Charger ČSOB Plzeň",
+      "evseId": "CZ*PRE*E0S0010*1",
+      "geoCoord": {
+        "latitude": "49.742499",
+        "longitude": "13.381995"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "ČSOB",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "30555",
+      "region": "Plzeňský kraj",
+      "street": "Americká 60"
     }
   },
   "CZ4102727": {
@@ -9978,6 +10056,45 @@
       "postalCode": "74101",
       "region": "Moravskoslezský kraj",
       "street": "Suvorovova 664"
+    }
+  },
+  "CZ8003240": {
+    "name": "Ladestation ČSOB Ostrava",
+    "sha1": "4100cb8f708dd09e21812521f512bdf37d736208",
+    "station": {
+      "additionalInfo": "Dobíjecí stanice je přístupná pouze zákazníkům ČSOB s platným povolením vjezdu",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Ostrava",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8003240",
+      "csName": "Ladestation ČSOB Ostrava",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit",
+      "enCsname": "Charger ČSOB Ostrava",
+      "evseId": "CZ*PRE*E0S0009*2",
+      "geoCoord": {
+        "latitude": "49.834899",
+        "longitude": "18.285786"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "ČSOB",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "70200",
+      "region": "Moravskoslezský kraj",
+      "street": "Hollarova 5"
     }
   }
 }
