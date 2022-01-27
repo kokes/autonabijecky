@@ -10688,7 +10688,7 @@
   },
   "154290": {
     "name": "N176 - Dolní Břežany - Parkovací dům",
-    "sha1": "139977e6a01de5a76be0b74d1b0623c1bf7df8a4",
+    "sha1": "d39c986b6c623e441ce08cee14c33c767e99667e",
     "station": {
       "address": {
         "city": "Dolní Břežany",
@@ -10740,7 +10740,11 @@
           "physicalReference": "N176"
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/img_1342.jpg"
+        }
+      ],
       "instructions": null,
       "name": "N176 - Dolní Břežany - Parkovací dům",
       "visible": true
@@ -11031,7 +11035,7 @@
   },
   "154315": {
     "name": "N175 - Dolní Břežany - Parkovací dům",
-    "sha1": "91114c1931f2d2fd7531f82efcbfd91c559fa8b0",
+    "sha1": "767efc1b0ea8f9bc64ce9996ad7e4b06ca1be1a0",
     "station": {
       "address": {
         "city": "Dolní Břežany",
@@ -11083,9 +11087,398 @@
           "physicalReference": "N175"
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/img_1342.jpg"
+        }
+      ],
       "instructions": null,
       "name": "N175 - Dolní Břežany - Parkovací dům",
+      "visible": true
+    }
+  },
+  "154617": {
+    "name": "R400 - Prostějov",
+    "sha1": "7f7158d3e38991ad3b2b7c73831e171d4d81718e",
+    "station": {
+      "address": {
+        "city": "Prostějov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "4167/18",
+        "latitude": 49.4732956,
+        "longitude": 17.1047545,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Plumlovská",
+        "url": ""
+      },
+      "customID": "154617",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-001",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R400"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-001",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-001",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R400"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/r400-.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R400 - Prostějov",
+      "visible": true
+    }
+  },
+  "154618": {
+    "name": "R402 - KAUFLAND - OSTRAVA PORUBA",
+    "sha1": "4d50ec3d50458cc1e5f9358d2e8d2bd6a889fe2b",
+    "station": {
+      "address": {
+        "city": "OSTRAVA PORUBA",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "6191/21",
+        "latitude": 49.8205646,
+        "longitude": 18.1894766,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Polská",
+        "url": ""
+      },
+      "customID": "154618",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3321-054",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R402"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-054",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R402"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-054",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R402"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/r401_402.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R402 - KAUFLAND - OSTRAVA PORUBA",
+      "visible": true
+    }
+  },
+  "154620": {
+    "name": "R403 BENZINA - SVOBODA NAD ÚPOU",
+    "sha1": "6be0158e3de4a9cd65bab33f0c0145c0829cdef0",
+    "station": {
+      "address": {
+        "city": "SVOBODA NAD ÚPOU",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.61841,
+        "longitude": 15.81932,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Úpská",
+        "url": ""
+      },
+      "customID": "154620",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3321-053",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R403"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-053",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R403"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-053",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R403"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/img_1342.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R403 BENZINA - SVOBODA NAD ÚPOU",
+      "visible": true
+    }
+  },
+  "154646": {
+    "name": "R401 - KAUFLAND - OSTRAVA PORUBA",
+    "sha1": "f4ccb52cbf56a32634ac5af101de07bf8bf8d6f0",
+    "station": {
+      "address": {
+        "city": "OSTRAVA PORUBA",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "6191/21",
+        "latitude": 49.8205646,
+        "longitude": 18.1894766,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Polská",
+        "url": ""
+      },
+      "customID": "154646",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3321-054",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R401"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-054",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R401"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-054",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R401"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/r401_402.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R401 - KAUFLAND - OSTRAVA PORUBA",
+      "visible": true
+    }
+  },
+  "154651": {
+    "name": "R404 BENZINA - SVOBODA NAD ÚPOU",
+    "sha1": "edd5b001c4eecc92ed0847498e617c38a8a6af7d",
+    "station": {
+      "address": {
+        "city": "SVOBODA NAD ÚPOU",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.61841,
+        "longitude": 15.81932,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Úpská",
+        "url": ""
+      },
+      "customID": "154651",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4721-026",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R404"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-026",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R404"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-026",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R404"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/img_1342.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R404 BENZINA - SVOBODA NAD ÚPOU",
       "visible": true
     }
   },

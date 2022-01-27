@@ -10096,5 +10096,49 @@
       "region": "Moravskoslezský kraj",
       "street": "Hollarova 5"
     }
+  },
+  "CZ8003243": {
+    "name": "Ladestation Alza Opava",
+    "sha1": "079358b6295d2f0670389c126f16be73a4df6002",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Opava",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8003243",
+      "csName": "Ladestation Alza Opava",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Alza Opava",
+      "evseId": "CZ*PRE*E1S8169*2",
+      "geoCoord": {
+        "latitude": "49.944215",
+        "longitude": "17.904003"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_alza_opava.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "74601",
+      "region": "Moravskoslezský kraj",
+      "street": "Pekařská 2542/56"
+    }
   }
 }
