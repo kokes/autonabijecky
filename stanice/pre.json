@@ -5766,6 +5766,273 @@
       "street": "Výmolova 353"
     }
   },
+  "CZ1003266": {
+    "name": "Ladestation TS 2011 Donovalská",
+    "sha1": "13c84f396be5ff939a7ad8c2438dabf269564126",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 2011",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003266",
+      "csName": "Ladestation TS 2011 Donovalská",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enAdditionalInfo": "By the transformation station TS 2011",
+      "enCsname": "Charger TS 2011 Donovalská",
+      "evseId": "CZ*PRE*E1S8042*1",
+      "geoCoord": {
+        "latitude": "50.036531",
+        "longitude": "14.510685"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Donovalská"
+    }
+  },
+  "CZ1003267": {
+    "name": "Ladestation Na Sádce 19-17",
+    "sha1": "2aa832776858f05be1ba8c905a8af7917f8c4d97",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003267",
+      "csName": "Ladestation Na Sádce 19-17",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enCsname": "Charger Na Sádce 19-17",
+      "evseId": "CZ*PRE*ETBD*2",
+      "geoCoord": {
+        "latitude": "50.031409",
+        "longitude": "14.503435"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Na Sádce 19-17"
+    }
+  },
+  "CZ1003268": {
+    "name": "Ladestation Kunínova",
+    "sha1": "989d8f5220840cf39dca8a420349da00859d8623",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003268",
+      "csName": "Ladestation Kunínova",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enCsname": "Charger Kunínova",
+      "evseId": "CZ*PRE*ETBD1*2",
+      "geoCoord": {
+        "latitude": "50.036747",
+        "longitude": "14.500072"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Kunínova 6"
+    }
+  },
+  "CZ1003270": {
+    "name": "Ladestation TS 3115 Ledvinova",
+    "sha1": "515045ec01403ae2da618b4020dab50649633ca4",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 3115",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003270",
+      "csName": "Ladestation TS 3115 Ledvinova",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enAdditionalInfo": "By the transformation station TS 3115",
+      "enCsname": "Charger TS 3115 Ledvinova",
+      "evseId": "CZ*PRE*E1S8104*2",
+      "geoCoord": {
+        "latitude": "50.033329",
+        "longitude": "14.500664"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Ledvinova"
+    }
+  },
+  "CZ1003271": {
+    "name": "Ladestation Prašná",
+    "sha1": "b66f348b1a64bd8a1017466856b6385b621f688b",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003271",
+      "csName": "Ladestation Prašná",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enCsname": "Charger Prašná",
+      "evseId": "CZ*PRE*ETBD3*4",
+      "geoCoord": {
+        "latitude": "50.034160",
+        "longitude": "14.521582"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Prašná"
+    }
+  },
+  "CZ1003272": {
+    "name": "Ladestation TS 3022 Ocelíkova",
+    "sha1": "d836cfaaa3665a58ec0d52c4b3fda932eb64d49f",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 3022",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003272",
+      "csName": "Ladestation TS 3022 Ocelíkova",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enAdditionalInfo": "By the transformation station TS 3022",
+      "enCsname": "Charger TS 3022 Ocelíkova",
+      "evseId": "CZ*PRE*E1S8103*1",
+      "geoCoord": {
+        "latitude": "50.028726",
+        "longitude": "14.530293"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Ocelíkova"
+    }
+  },
+  "CZ1003273": {
+    "name": "Ladestation TS 3094 Šalounova",
+    "sha1": "0aea1d9cbda4f32548b932e394c4210f37a0b196",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 3094",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003273",
+      "csName": "Ladestation TS 3094 Šalounova",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enAdditionalInfo": "By the transformation station TS 3094",
+      "enCsname": "Charger TS 3094 Šalounova",
+      "evseId": "CZ*PRE*E1S8105*1",
+      "geoCoord": {
+        "latitude": "50.025303",
+        "longitude": "14.510909"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Šalounova"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
