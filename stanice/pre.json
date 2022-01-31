@@ -10407,5 +10407,51 @@
       "region": "Moravskoslezský kraj",
       "street": "Pekařská 2542/56"
     }
+  },
+  "CZ8003276": {
+    "name": "Schnellladestation EuroOil Sviadnov",
+    "sha1": "4fbdb59eb292838b08f1ea867beb1cf34b61307b",
+    "station": {
+      "additionalInfo": "Bei der EuriOil Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Sviadnov",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8003276",
+      "csName": "Schnellladestation EuroOil Sviadnov",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the EuroOil gas station",
+      "enCsname": "Fast charger EuroOil Sviadnov",
+      "evseId": "CZ*PRE*E1R5056*2",
+      "geoCoord": {
+        "latitude": "49.693083",
+        "longitude": "18.323806"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_sviadnov.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "ČEPRO a.s.",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "73925",
+      "region": "Moravskoslezský kraj",
+      "street": "Ostravská 433"
+    }
   }
 }
