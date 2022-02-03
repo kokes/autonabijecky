@@ -5879,6 +5879,45 @@
       "street": "Kunínova 6"
     }
   },
+  "CZ1003269": {
+    "name": "Ladestation Plavecký stadion - Jedenáctka I.",
+    "sha1": "84d3bca58b418299ab946c604df5314598a7b486",
+    "station": {
+      "additionalInfo": "Beim Schwimmbad Prag 11",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003269",
+      "csName": "Ladestation Plavecký stadion - Jedenáctka I.",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enAdditionalInfo": "By the swimming pool at prague 11",
+      "enCsname": "Charger Plavecký stadion - Jedenáctka I.",
+      "evseId": "CZ*PRE*ETBD2*10",
+      "geoCoord": {
+        "latitude": "50.038150",
+        "longitude": "14.500194"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Mírového hnutí"
+    }
+  },
   "CZ1003270": {
     "name": "Ladestation TS 3115 Ledvinova",
     "sha1": "515045ec01403ae2da618b4020dab50649633ca4",
@@ -9707,7 +9746,7 @@
   },
   "CZ7203184": {
     "name": "Schnellladestation EuroOil Napajedla",
-    "sha1": "7678d71d80c374bd2148865f4eca27033693da9c",
+    "sha1": "25aeccfa9d177af3516d514d17ce06c97adcd86f",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "chargingFacilities": {
@@ -9715,7 +9754,7 @@
           "DC Charging ≤50kW"
         ]
       },
-      "city": "Jičín",
+      "city": "Napajedla",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ7203184",
