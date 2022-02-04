@@ -22240,7 +22240,7 @@
   },
   "55612": {
     "name": "(P) Parkovací dům Nádražní Brandýs nad Labem",
-    "sha1": "7d44f40185e7f074fff275ba29665c7f02c1f0b4",
+    "sha1": "691410bf237b2649e9197aed2a41a5aaffdaf56b",
     "station": {
       "address": "Nádražní",
       "city": "Brandýs nad Labem",
@@ -22458,6 +22458,13 @@
         "TRAIN_STATION"
       ],
       "id": "55612",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/82418/5054831637245657.jpg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "(P) Parkovací dům Nádražní Brandýs nad Labem",
       "opening_times": {

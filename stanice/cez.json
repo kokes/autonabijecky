@@ -730,8 +730,8 @@
     }
   },
   "114005": {
-    "name": "R286 - Praha Kobylisy - Kaufland 1",
-    "sha1": "34dbbfb24e738207d580f925b78a9b20ac0e2246",
+    "name": "R286 - Praha - Kobylisy - Kaufland 1",
+    "sha1": "e219111ca57ac88d056c74ec1360628c06f3b043",
     "station": {
       "address": {
         "city": "Praha 8",
@@ -794,17 +794,17 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/10/2xurds-kaufland-kobylisy-2-20201019-104629.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_7875.jpg"
         }
       ],
       "instructions": null,
-      "name": "R286 - Praha Kobylisy - Kaufland 1",
+      "name": "R286 - Praha - Kobylisy - Kaufland 1",
       "visible": true
     }
   },
   "114025": {
-    "name": "R287 - Praha Kobylisy - Kaufland 2",
-    "sha1": "fb3f93bd2a4d960a8a4b8d41622a12d80354b30d",
+    "name": "R287 - Praha - Kobylisy - Kaufland 2",
+    "sha1": "9b98eee3f4ba31e5d801e029954cc2d4a47d5ae9",
     "station": {
       "address": {
         "city": "Praha 8",
@@ -867,11 +867,11 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/10/2xurds-kaufland-kobylisy-2.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_7875-20220203-122225.jpg"
         }
       ],
       "instructions": null,
-      "name": "R287 - Praha Kobylisy - Kaufland 2",
+      "name": "R287 - Praha - Kobylisy - Kaufland 2",
       "visible": true
     }
   },
@@ -1315,7 +1315,7 @@
   },
   "123465": {
     "name": "R303 - Hradec Králové - Kaufland 1",
-    "sha1": "200fb06d047792177f9ea8d4f41e9df1cc254571",
+    "sha1": "5bad11b0034423844ea0a7ef64de468ccac9445d",
     "station": {
       "address": {
         "city": "Hradec Králové",
@@ -1378,7 +1378,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/12/h.kralove-pilnackova.png"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_9306.jpg"
         }
       ],
       "instructions": null,
@@ -1388,7 +1388,7 @@
   },
   "123466": {
     "name": "R304 - Hradec Králové - Kaufland 2",
-    "sha1": "ee582b664bf5f5a67f04a976f329beac4aa667b1",
+    "sha1": "e34687812a490ad127a7b04f024c3d012c4a4140",
     "station": {
       "address": {
         "city": "Hradec Králové",
@@ -1451,7 +1451,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/12/h.kralove-pilnackova-20201207-163824.png"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_9306-20220203-112027.jpg"
         }
       ],
       "instructions": null,
@@ -1607,7 +1607,7 @@
   },
   "123469": {
     "name": "R291 - Humpolec - Kaufland 1",
-    "sha1": "7527e97e3e1f4c434fa7a8fa0fabe55274a6ece4",
+    "sha1": "eb042b2409ecb37271d00bebd9d5adb99547bdd4",
     "station": {
       "address": {
         "city": "Humpolec",
@@ -1670,7 +1670,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/12/urds-obecna-20201216-214816.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/photo-2021-09-30-07-33-312.jpg"
         }
       ],
       "instructions": null,
@@ -1680,7 +1680,7 @@
   },
   "123470": {
     "name": "R292 - Humpolec - Kaufland 2",
-    "sha1": "a0d44239088dea823c94b06bde53f6b920d5e27f",
+    "sha1": "931e0d36bd18047cdd40ea9d948082185c13a9cb",
     "station": {
       "address": {
         "city": "Humpolec",
@@ -1743,7 +1743,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/12/urds-obecna-20201216-214900.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/photo-2021-09-30-07-33-312-20220203-112231.jpg"
         }
       ],
       "instructions": null,
@@ -1753,14 +1753,14 @@
   },
   "123845": {
     "name": "R314 - Soběslav",
-    "sha1": "3748ac9b3afb84a184d5076bfbbda17632ddb1b8",
+    "sha1": "53f7152d9b566fa75221c49671fbc883426f92d8",
     "station": {
       "address": {
         "city": "Soběslav",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "",
+        "houseNumber": "826/13",
         "latitude": 49.26378,
         "longitude": 14.712099,
         "phoneNumber": null,
@@ -1899,14 +1899,14 @@
   },
   "125385": {
     "name": "R305 - Mladá Boleslav - Kaufland",
-    "sha1": "a7b235e4bfcb3a0d350f4dd71f06c8ce290b2a1e",
+    "sha1": "a2d4cdf9eb3cdad082565d9b0bb7efc7ae54f753",
     "station": {
       "address": {
         "city": "Mladá Boleslav",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "stadionu 1276",
+        "houseNumber": "Stadionu 1276 II",
         "latitude": 50.4253009,
         "longitude": 14.9121931,
         "phoneNumber": null,
@@ -2236,8 +2236,8 @@
     }
   },
   "125486": {
-    "name": "R288 - Ústí nad Labem-Všebořice - Kaufland",
-    "sha1": "23cf888ecece5ec1eae56ed3626f697aac50250b",
+    "name": "R288 - Ústí nad Labem - Všebořice - Kaufland",
+    "sha1": "5198e385ae7fc2866168d71b68d0d2087ab25511",
     "station": {
       "address": {
         "city": "Ústí nad Labem",
@@ -2304,7 +2304,7 @@
         }
       ],
       "instructions": null,
-      "name": "R288 - Ústí nad Labem-Všebořice - Kaufland",
+      "name": "R288 - Ústí nad Labem - Všebořice - Kaufland",
       "visible": true
     }
   },
@@ -2456,7 +2456,7 @@
   },
   "125546": {
     "name": "R289 - Slaný - Kaufland",
-    "sha1": "ed00b9fa6539b9e9deb0cd427b8e998d79bb1f2f",
+    "sha1": "401dbe21e2469b1a3a88af32dc9c4c01bc709497",
     "station": {
       "address": {
         "city": "Slaný",
@@ -2519,7 +2519,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/12/kaufland-slany.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/kaufland-slany-2.jpg"
         }
       ],
       "instructions": null,
@@ -2748,14 +2748,14 @@
   },
   "127725": {
     "name": "R316 - Boží Dar - 1",
-    "sha1": "c30fbcaf8bd60491be0264546bd0ecbe56557dc5",
+    "sha1": "0989e5438c32d7a6339faddeadb5ed51f60d59dd",
     "station": {
       "address": {
         "city": "Boží Dar",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "přechod, Boží Dar",
+        "houseNumber": "přechod",
         "latitude": 50.4094919,
         "longitude": 12.9287541,
         "phoneNumber": null,
@@ -2811,7 +2811,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/12/nova-dobijeci-stanice-kratce-po-zprovozneni-20201229-094009.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20201217_121736.jpg"
         }
       ],
       "instructions": null,
@@ -2821,14 +2821,14 @@
   },
   "127726": {
     "name": "R317 - Boží Dar – 2",
-    "sha1": "92a0707775d50864df7208774c4fefb13322850e",
+    "sha1": "6342971c4e5709a0aac00ade6d0e01c2c1bbbf43",
     "station": {
       "address": {
         "city": "Boží Dar",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "přechod, Boží Dar",
+        "houseNumber": "přechod",
         "latitude": 50.4094919,
         "longitude": 12.9287,
         "phoneNumber": null,
@@ -2884,7 +2884,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/12/nova-dobijeci-stanice-kratce-po-zprovozneni-20201229-094256.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20201217_121736-20220203-101538.jpg"
         }
       ],
       "instructions": null,
@@ -3040,7 +3040,7 @@
   },
   "137105": {
     "name": "R296 - Česká Třebová - Kaufland",
-    "sha1": "8018400b50f4cd851bf5352a91328ac8e7212ae5",
+    "sha1": "240cd6e90e08bd41f33cc1bba19cdee1f2e04275",
     "station": {
       "address": {
         "city": "Česká Třebová",
@@ -3103,7 +3103,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/02/shell-brno-2.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_6126.jpg"
         }
       ],
       "instructions": null,
@@ -3113,7 +3113,7 @@
   },
   "137125": {
     "name": "R310 - Nový Jičín - Kaufland - 1",
-    "sha1": "d9414762b59291ac481313d10bd808d6977b40eb",
+    "sha1": "216b7671743bcaece214c8d495ee5ece4b8e7b57",
     "station": {
       "address": {
         "city": "Nový Jičín",
@@ -3176,7 +3176,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/02/shell-brno-2.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/1642060909868.jpg"
         }
       ],
       "instructions": null,
@@ -3186,7 +3186,7 @@
   },
   "137145": {
     "name": "R311 - Nový Jičín - Kaufland - 2",
-    "sha1": "c7e7a52122192436a19c50c7d7de75f5d60b2aff",
+    "sha1": "27c60a62a7eceb4c339a7d9ffc700829a95b40f8",
     "station": {
       "address": {
         "city": "Nový Jičín",
@@ -3249,7 +3249,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/02/shell-brno-2.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/1642060909868-20220203-113613.jpg"
         }
       ],
       "instructions": null,
@@ -3258,11 +3258,11 @@
     }
   },
   "137146": {
-    "name": "R279 - Praha-Michle - Kaufland",
-    "sha1": "17768a927581c7d8d668fea3b9dc897e98b7a633",
+    "name": "R279 - Praha - Michle - Kaufland",
+    "sha1": "e07fd7c41009490c68062b84dd25397519988c1b",
     "station": {
       "address": {
-        "city": "Praha-Michle",
+        "city": "Praha 4",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -3322,11 +3322,11 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/02/shell-brno-2.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/2-20220203-120516.jpg"
         }
       ],
       "instructions": null,
-      "name": "R279 - Praha-Michle - Kaufland",
+      "name": "R279 - Praha - Michle - Kaufland",
       "visible": true
     }
   },
@@ -3769,11 +3769,11 @@
     }
   },
   "140072": {
-    "name": "R324 - Kaufland - Pardubice-Rosice",
-    "sha1": "ac89685f8b7d0646ef68d4b4ec34ce96bdb4de19",
+    "name": "R324 - Pardubice - Rosice - Kaufland",
+    "sha1": "8b9aa7cd4a37df263ba6b90eaca66dd86b2bb915",
     "station": {
       "address": {
-        "city": "Pardubice-Rosice",
+        "city": "Pardubice - Rosice",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -3837,7 +3837,7 @@
         }
       ],
       "instructions": null,
-      "name": "R324 - Kaufland - Pardubice-Rosice",
+      "name": "R324 - Pardubice - Rosice - Kaufland",
       "visible": true
     }
   },
@@ -4272,7 +4272,7 @@
   },
   "144227": {
     "name": "R323 - Nymburk - Kaufland",
-    "sha1": "35af8697ce4f4f761d43a8793cd53e1f6dfbac96",
+    "sha1": "4de815b015c11385d2282b5f98ec7551ba4f1877",
     "station": {
       "address": {
         "city": "Nymburk",
@@ -4335,7 +4335,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/05/gemini-zlin.png"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/k_trinec5.jpg"
         }
       ],
       "instructions": null,
@@ -4345,7 +4345,7 @@
   },
   "144245": {
     "name": "R341 - Třinec - Kaufland",
-    "sha1": "fdf741cf51f2428e7efdedccde56c2a37377728e",
+    "sha1": "af416a92ecf7c59c836a00ed2979a71eeb5a6264",
     "station": {
       "address": {
         "city": "Třinec - Lyžbice",
@@ -4408,7 +4408,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/05/gemini-zlin.png"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/k_trinec5.jpg"
         }
       ],
       "instructions": null,
@@ -4564,10 +4564,10 @@
   },
   "144685": {
     "name": "R327 - Jihlava - Kaufland",
-    "sha1": "7bf4c7c7cc789616597a749c2e3c627c24acb271",
+    "sha1": "98ef99c868deb2ba1aabdcf4b305665fbde21db8",
     "station": {
       "address": {
-        "city": "586 01 Jihlava",
+        "city": "Jihlava",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -4627,7 +4627,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/05/mcd-hk.png"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/k_marianske_hory4.jpg"
         }
       ],
       "instructions": null,
@@ -4636,8 +4636,8 @@
     }
   },
   "144686": {
-    "name": "R331 - Ostrava-Mariánské Hory - Kaufland",
-    "sha1": "74c6985e058c2e1a71618c2b3f6e13cf0be888ae",
+    "name": "R331 - Ostrava - Mariánské Hory - Kaufland",
+    "sha1": "bcad71505c9b853a1dfdc65b0653617bf90e66d1",
     "station": {
       "address": {
         "city": "Ostrava-Mariánské Hory",
@@ -4700,17 +4700,17 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/05/mcd-hk.png"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/k_marianske_hory4.jpg"
         }
       ],
       "instructions": null,
-      "name": "R331 - Ostrava-Mariánské Hory - Kaufland",
+      "name": "R331 - Ostrava - Mariánské Hory - Kaufland",
       "visible": true
     }
   },
   "144687": {
     "name": "R342 - Přerov - Kaufland",
-    "sha1": "0ad7b57b80aba245f6cc46906f0f4f280af8ef04",
+    "sha1": "d6d517741439b89c4b0c4b3db819ce7a66e5fddb",
     "station": {
       "address": {
         "city": "Přerov",
@@ -4773,7 +4773,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/05/mcd-hk.png"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/k_prerov2.jpg"
         }
       ],
       "instructions": null,
@@ -4856,10 +4856,10 @@
   },
   "144844": {
     "name": "R326 - Pelhřimov - Kaufland",
-    "sha1": "485b7f6fe34add2596ac1f55cc2885886498c5c3",
+    "sha1": "7b7457ed82677529de0c8771a79f2d3667df4452",
     "station": {
       "address": {
-        "city": "393 01 Pelhřimov",
+        "city": "Pelhřimov",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -5075,19 +5075,19 @@
   },
   "145751": {
     "name": "R330 - Prostějov - Kaufland",
-    "sha1": "8e185db20241ff68d54c0e3d73cdc6e032ecdb54",
+    "sha1": "534017ee4bb433df8ff47e339b65f6083e34b08e",
     "station": {
       "address": {
         "city": "Prostějov",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "4262/10, 796 01 Prostějov",
+        "houseNumber": "4262/10",
         "latitude": 49.4632424,
         "longitude": 17.1179859,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "Okružní,",
+        "street": "Okružní",
         "url": ""
       },
       "customID": "145751",
@@ -5148,7 +5148,7 @@
   },
   "146969": {
     "name": "R355 - Jihlava - Benzina",
-    "sha1": "97d84471fa578bbbbde08149373f6775c0008cfb",
+    "sha1": "47e41ad79bf7b38208ca1ead774258d34042a37b",
     "station": {
       "address": {
         "city": "Jihlava",
@@ -5211,7 +5211,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/08/benzina-slovice.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8498.jpg"
         }
       ],
       "instructions": null,
@@ -5221,7 +5221,7 @@
   },
   "147125": {
     "name": "R345 - Trutnov - Kaufland - 1",
-    "sha1": "44440209c19a74ef0a766c1f02134d8d41924672",
+    "sha1": "d90b6a35b0c455ece505536b81dd99442cd8d464",
     "station": {
       "address": {
         "city": "Trutnov",
@@ -5284,7 +5284,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/08/benzina-slovice.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8498.jpg"
         }
       ],
       "instructions": null,
@@ -5294,7 +5294,7 @@
   },
   "147126": {
     "name": "R346 - Trutnov - Kaufland - 2",
-    "sha1": "1572e2853e29557e2a3f07b9d5c5e373c179be59",
+    "sha1": "83ef923bfbeca0fb61798a2e2647ef9b6a6d1fdf",
     "station": {
       "address": {
         "city": "Trutnov",
@@ -5357,7 +5357,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/08/benzina-slovice.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8498-20220203-132406.jpg"
         }
       ],
       "instructions": null,
@@ -6526,10 +6526,10 @@
   },
   "149925": {
     "name": "R349 - Svitavy - Kaufland",
-    "sha1": "292a0790906997cb50638b21379b453c4899a181",
+    "sha1": "5a40621d10eb7d58cd88aac6d7c300a155fc89f2",
     "station": {
       "address": {
-        "city": "568 02 Svitavy – Lány",
+        "city": "Svitavy",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -6946,7 +6946,7 @@
   },
   "151631": {
     "name": "N145 - Praha - Štěrboholy",
-    "sha1": "acdfd65ba8faa5abd7870d17a2979801bd3c63ae",
+    "sha1": "b1a2281cc60b6f62a087a316c802a4e39fdbe83f",
     "station": {
       "address": {
         "city": "Praha - Štěrboholy",
@@ -7000,7 +7000,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/11/7x-oc-olympia-teplice-20211112-120548.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/11/7x-oc-olympia-teplice.jpg"
         }
       ],
       "instructions": null,
@@ -7284,7 +7284,7 @@
   },
   "151654": {
     "name": "N151 - Liberec - OC Nisa",
-    "sha1": "94f287fdb2ea74f52ed467a4ba60196dfe0042bc",
+    "sha1": "7f2641e5c0250da324f9b81d7f4ce77e9e6e3253",
     "station": {
       "address": {
         "city": "Liberec",
@@ -7338,7 +7338,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/11/7x-oc-olympia-teplice-20211112-120548.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/11/7x-oc-olympia-teplice.jpg"
         }
       ],
       "instructions": null,
@@ -7348,7 +7348,7 @@
   },
   "151656": {
     "name": "N154 - BB Centrum Filadelfie",
-    "sha1": "0a3749ec104eab48ce325051abcd88e4b8430398",
+    "sha1": "3dff4cc499d3a86fdd51b3cb1865318dc8e88642",
     "station": {
       "address": {
         "city": "Praha",
@@ -7402,7 +7402,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/11/7x-oc-olympia-teplice-20211112-120548.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/11/7x-oc-olympia-teplice.jpg"
         }
       ],
       "instructions": null,
@@ -7556,6 +7556,79 @@
       "visible": true
     }
   },
+  "151886": {
+    "name": "R371 - Teplice - OC Olympia - 1",
+    "sha1": "2159ad0c0e2303680f0d9b7a97977f2890877721",
+    "station": {
+      "address": {
+        "city": "Teplice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "464",
+        "latitude": 50.6608595,
+        "longitude": 13.8663982,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Srbická",
+        "url": ""
+      },
+      "customID": "151886",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1921-011",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R371"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1921-011",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1921-011",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R371"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/11/7x-oc-olympia-teplice.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R371 - Teplice - OC Olympia - 1",
+      "visible": true
+    }
+  },
   "151887": {
     "name": "R372 - Teplice - OC Olympia – 2",
     "sha1": "0bde47a14c196a08f3416d904deacca21a2cc617",
@@ -7695,7 +7768,7 @@
   },
   "151921": {
     "name": "N157 - Teplice - OC Olympia – 6",
-    "sha1": "4c02c36a8c9735bff086ca2d5e1abf0ffa74ab78",
+    "sha1": "822c75ecd76c751a9d51164f575b5ce1a94b0732",
     "station": {
       "address": {
         "city": "Teplice",
@@ -7749,7 +7822,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/11/7x-oc-olympia-teplice-20211112-134332.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/7x-oc-olympia-teplice-20211112-120815.jpg"
         }
       ],
       "instructions": null,
@@ -8348,7 +8421,7 @@
   },
   "152557": {
     "name": "R340 - Kroměříž - Kaufland",
-    "sha1": "b616d9a61a45140e700eabb0d518deeb3c066d92",
+    "sha1": "4d849e332b2af988788c8aecf032051ef6a565cc",
     "station": {
       "address": {
         "city": "Kroměříž",
@@ -8411,7 +8484,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/kaufland_brno_bohunice-20211229-130955.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/1642061639181.jpeg"
         }
       ],
       "instructions": null,
@@ -8421,7 +8494,7 @@
   },
   "152586": {
     "name": "N146 - Hlinsko",
-    "sha1": "da6d32bf6848b215935c03b07f64c9417007519b",
+    "sha1": "23a294e39667de8d563b99770bb1859e028542fc",
     "station": {
       "address": {
         "city": "Hlinsko",
@@ -8475,7 +8548,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/kaufland_brno_bohunice-20211229-130955.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114922.jpg"
         }
       ],
       "instructions": null,
@@ -8485,7 +8558,7 @@
   },
   "152587": {
     "name": "N155 - Nová Paka",
-    "sha1": "9d1c8a1107c6bfb71ac223caa25c91078120fd7b",
+    "sha1": "736b7775cf59a9824b095138bce5642d8496d50d",
     "station": {
       "address": {
         "city": "Nová Paka",
@@ -8539,7 +8612,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/kaufland_brno_bohunice-20211229-130955.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114922.jpg"
         }
       ],
       "instructions": null,
@@ -8549,7 +8622,7 @@
   },
   "152670": {
     "name": "N164 - Bílovec",
-    "sha1": "dbb79459914c75f3934b4079132d44868db7fce9",
+    "sha1": "d7750680527d5f9137ad133c8cba2218f2ae0688",
     "station": {
       "address": {
         "city": "Bílovec",
@@ -8603,7 +8676,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/kaufland_brno_bohunice-20211229-130955.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114922.jpg"
         }
       ],
       "instructions": null,
@@ -8612,11 +8685,11 @@
     }
   },
   "152971": {
-    "name": "R352 - Brno - Kaufland",
-    "sha1": "73f555d047405f466f5c1ec4fc359d24313c1e35",
+    "name": "R352 - Brno - Slatina - Kaufland - 1",
+    "sha1": "ef75a75ad667e1da1222ec72fd70435936efb41c",
     "station": {
       "address": {
-        "city": "Brno-Slatina",
+        "city": "Brno - Slatina",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -8676,17 +8749,17 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/kaufland_brno_bohunice-20211229-130955.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114922.jpg"
         }
       ],
       "instructions": null,
-      "name": "R352 - Brno - Kaufland",
+      "name": "R352 - Brno - Slatina - Kaufland - 1",
       "visible": true
     }
   },
   "152985": {
-    "name": "R353 - Brno - Kaufland",
-    "sha1": "9be723f1e48d21a1f89762f515f44a5064ac3ee8",
+    "name": "R353 - Brno - Slatina - Kaufland - 2",
+    "sha1": "04d0b3d8bc51017ba10fbf99fb9795d6258ef46a",
     "station": {
       "address": {
         "city": "Brno-Slatina",
@@ -8749,135 +8822,17 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/kaufland_brno_bohunice-20211229-130848.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114922.jpg"
         }
       ],
       "instructions": null,
-      "name": "R353 - Brno - Kaufland",
-      "visible": true
-    }
-  },
-  "153360": {
-    "name": "UR105 - Průhonice – 3",
-    "sha1": "60ab547f25f566eb2e8f8cab1a133a445e4c3720",
-    "station": {
-      "address": {
-        "city": "Průhonice",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "Dálnicí 570",
-        "latitude": 50.0052414,
-        "longitude": 14.56326,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Za",
-        "url": ""
-      },
-      "customID": "153360",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T184-IT1-3421-083",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 180,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T184-IT1-3421-083",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 180,
-              "standard": "CHADEMO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "UR105"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "UR105 - Průhonice – 3",
-      "visible": true
-    }
-  },
-  "153361": {
-    "name": "UR106 - Průhonice – 4",
-    "sha1": "2f705fd091b19e6e66b201aa99d49fd4efe46e29",
-    "station": {
-      "address": {
-        "city": "Průhonice",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "Dálnicí 570",
-        "latitude": 50.0052414,
-        "longitude": 14.56322,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Za",
-        "url": ""
-      },
-      "customID": "153361",
-      "description": [
-        {
-          "language": "cs",
-          "text": "ABB Terra 184"
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T184-IT1-3421-097",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 180,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T184-IT1-3421-097",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 180,
-              "standard": "CHADEMO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "UR106"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114801.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "UR106 - Průhonice – 4",
+      "name": "R353 - Brno - Slatina - Kaufland - 2",
       "visible": true
     }
   },
   "153362": {
-    "name": "R380 - Průhonice – 2",
-    "sha1": "a60c6fb69f172100d6d2b84dc2eccbd57b972ae5",
+    "name": "R380 - Praha - Průhonice - PUMPA - 2",
+    "sha1": "474df5ccb975012cba4f030689313e8ae09086f9",
     "station": {
       "address": {
         "city": "Průhonice",
@@ -8944,13 +8899,13 @@
         }
       ],
       "instructions": null,
-      "name": "R380 - Průhonice – 2",
+      "name": "R380 - Praha - Průhonice - PUMPA - 2",
       "visible": true
     }
   },
   "153363": {
-    "name": "R381 - Průhonice – 3",
-    "sha1": "6678f3f69f3848a1d9edb875d9988fb58ed41a6a",
+    "name": "R381 - Praha - Průhonice - PUMPA - 3",
+    "sha1": "fd8fd370c37be6621a5c9eabf01dec4edbe65255",
     "station": {
       "address": {
         "city": "Průhonice",
@@ -9017,75 +8972,16 @@
         }
       ],
       "instructions": null,
-      "name": "R381 - Průhonice – 3",
-      "visible": true
-    }
-  },
-  "153367": {
-    "name": "UR103 - Průhonice - 1",
-    "sha1": "479a86c497325aabcdd950783c6c1b28fee2984d",
-    "station": {
-      "address": {
-        "city": "Průhonice",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "Dálnicí 570",
-        "latitude": 50.0052414,
-        "longitude": 14.563345,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Za",
-        "url": ""
-      },
-      "customID": "153367",
-      "description": [
-        {
-          "language": "cs",
-          "text": "ABB Terra 184"
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T184-IT1-3521-228",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 180,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T184-IT1-3521-228",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 180,
-              "standard": "CHADEMO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "UR103"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114838.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "UR103 - Průhonice - 1",
+      "name": "R381 - Praha - Průhonice - PUMPA - 3",
       "visible": true
     }
   },
   "153368": {
-    "name": "UR104 - Průhonice – 2",
-    "sha1": "9a67babd24d99533a46621316cd79231237aa1ce",
+    "name": "UR104 - Praha - Průhonice – PUMPA - 2",
+    "sha1": "1acc38963078b0d35e517c123aa4dc101ebcadf7",
     "station": {
       "address": {
-        "city": "Průhonice",
+        "city": "Praha - Průhonice",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -9135,13 +9031,13 @@
         }
       ],
       "instructions": null,
-      "name": "UR104 - Průhonice – 2",
+      "name": "UR104 - Praha - Průhonice – PUMPA - 2",
       "visible": true
     }
   },
   "153369": {
-    "name": "R379 - Průhonice – 1",
-    "sha1": "9f862b6192bd3ac272c6c6c9b035d9c1a867d489",
+    "name": "R379 - Praha - Průhonice – PUMPA - 1",
+    "sha1": "270dbb2919e9157aefc3a8af526db28cbe7f38f3",
     "station": {
       "address": {
         "city": "Průhonice",
@@ -9208,226 +9104,7 @@
         }
       ],
       "instructions": null,
-      "name": "R379 - Průhonice – 1",
-      "visible": true
-    }
-  },
-  "153371": {
-    "name": "R382 - Průhonice – 4",
-    "sha1": "eebeab6ea9c4058ef596c0fa89a5120aade33d35",
-    "station": {
-      "address": {
-        "city": "Průhonice",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "Dálnicí 570",
-        "latitude": 50.00482,
-        "longitude": 14.56338,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Za",
-        "url": ""
-      },
-      "customID": "153371",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-3121-002",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R382"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3121-002",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3121-002",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R382"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_9014-2022-01-07-15_24_35-20220202-125524.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R382 - Průhonice – 4",
-      "visible": true
-    }
-  },
-  "153372": {
-    "name": "R383 - Průhonice – 5",
-    "sha1": "77f1b439d2bf8e904d0ae7053d216fd06a1daecb",
-    "station": {
-      "address": {
-        "city": "Průhonice",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "Dálnicí 570",
-        "latitude": 50.00482,
-        "longitude": 14.56342,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Za",
-        "url": ""
-      },
-      "customID": "153372",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-3121-010",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R383"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3121-010",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3121-010",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R383"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_9014-2022-01-07-15_24_35-20220202-125549.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R383 - Průhonice – 5",
-      "visible": true
-    }
-  },
-  "153373": {
-    "name": "R384 - Průhonice – 6",
-    "sha1": "079d9725bc3ea2750041e48ed8df4f4ef779b336",
-    "station": {
-      "address": {
-        "city": "Průhonice",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "Dálnicí 570",
-        "latitude": 50.00482,
-        "longitude": 14.56346,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Za",
-        "url": ""
-      },
-      "customID": "153373",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-3321-003",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R384"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3321-003",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3321-003",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R384"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_9014-2022-01-07-15_24_35.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R384 - Průhonice – 6",
+      "name": "R379 - Praha - Průhonice – PUMPA - 1",
       "visible": true
     }
   },
@@ -10071,8 +9748,8 @@
     }
   },
   "153662": {
-    "name": "R394 - Brno - Bohunice - Kaufland 3",
-    "sha1": "d71b783c6705f86e6d2c7a3c8ed441d50e0a54f4",
+    "name": "R394 - Brno - Bohunice - Kaufland - 3",
+    "sha1": "680fc193378f67347fe24aefea970f920c1d8047",
     "station": {
       "address": {
         "city": "Brno - Bohunice",
@@ -10139,13 +9816,13 @@
         }
       ],
       "instructions": null,
-      "name": "R394 - Brno - Bohunice - Kaufland 3",
+      "name": "R394 - Brno - Bohunice - Kaufland - 3",
       "visible": true
     }
   },
   "153670": {
-    "name": "R392 - Brno - Bohunice - Kaufland 1",
-    "sha1": "057fea3257f372fc18f1c88e1c2631d5e8dc7e91",
+    "name": "R392 - Brno - Bohunice - Kaufland - 1",
+    "sha1": "5adc7ac7656b5d6de496a5ac8b6442493e977918",
     "station": {
       "address": {
         "city": "Brno - Bohunice",
@@ -10212,13 +9889,13 @@
         }
       ],
       "instructions": null,
-      "name": "R392 - Brno - Bohunice - Kaufland 1",
+      "name": "R392 - Brno - Bohunice - Kaufland - 1",
       "visible": true
     }
   },
   "153671": {
-    "name": "R393 - Brno - Bohunice - Kaufland 2",
-    "sha1": "44bdd43f6310d6a15796c0be76cff083bb9251b2",
+    "name": "R393 - Brno - Bohunice - Kaufland - 2",
+    "sha1": "2763614e214ae3ece0e8fb8a74433dd7a0c0738f",
     "station": {
       "address": {
         "city": "Brno - Bohunice",
@@ -10285,7 +9962,7 @@
         }
       ],
       "instructions": null,
-      "name": "R393 - Brno - Bohunice - Kaufland 2",
+      "name": "R393 - Brno - Bohunice - Kaufland - 2",
       "visible": true
     }
   },
@@ -11157,8 +10834,8 @@
     }
   },
   "154618": {
-    "name": "R402 - KAUFLAND - OSTRAVA PORUBA",
-    "sha1": "4d50ec3d50458cc1e5f9358d2e8d2bd6a889fe2b",
+    "name": "R402 - OSTRAVA - PORUBA - KAUFLAND 2",
+    "sha1": "8b2959a2582447536b4cb8b377b24cdd895e60f6",
     "station": {
       "address": {
         "city": "OSTRAVA PORUBA",
@@ -11230,7 +10907,7 @@
         }
       ],
       "instructions": null,
-      "name": "R402 - KAUFLAND - OSTRAVA PORUBA",
+      "name": "R402 - OSTRAVA - PORUBA - KAUFLAND 2",
       "visible": true
     }
   },
@@ -11313,11 +10990,11 @@
     }
   },
   "154646": {
-    "name": "R401 - KAUFLAND - OSTRAVA PORUBA",
-    "sha1": "f4ccb52cbf56a32634ac5af101de07bf8bf8d6f0",
+    "name": "R401 - OSTRAVA - PORUBA - KAUFLAND 1",
+    "sha1": "12a1b6b06da1f9dc4838495202370b143b32eeb0",
     "station": {
       "address": {
-        "city": "OSTRAVA PORUBA",
+        "city": "OSTRAVA - PORUBA",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -11386,7 +11063,7 @@
         }
       ],
       "instructions": null,
-      "name": "R401 - KAUFLAND - OSTRAVA PORUBA",
+      "name": "R401 - OSTRAVA - PORUBA - KAUFLAND 1",
       "visible": true
     }
   },
@@ -13489,7 +13166,7 @@
   },
   "59457": {
     "name": "R107 - Kadaň - Elektrárna Prunéřov",
-    "sha1": "fd20bf3e1ffb080cbb230208f328ba704b7927b4",
+    "sha1": "8b3ba3359085818d671f987aa2efaf230e8f018c",
     "station": {
       "address": {
         "city": "Kadaň",
@@ -13552,7 +13229,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/prunerov-urds.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/75917833-20220203-102538.jpg"
         }
       ],
       "instructions": null,
@@ -13698,20 +13375,20 @@
     }
   },
   "59460": {
-    "name": "N019 - Hrušovany",
-    "sha1": "fd86b71339d0c9f56cca6800d7837242f855bef2",
+    "name": "N171 - Hrušovany",
+    "sha1": "91fdda7557effcee8c1423f72598540c0fc22882",
     "station": {
       "address": {
-        "city": "Vysočany",
+        "city": "Hrušovany",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "",
+        "houseNumber": "1",
         "latitude": 50.3909472,
         "longitude": 13.5283119,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "Hrušovany",
+        "street": "Vysočany",
         "url": ""
       },
       "customID": "59460",
@@ -13734,7 +13411,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N019"
+          "physicalReference": "N171"
         },
         {
           "connectors": [
@@ -13748,16 +13425,16 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N019"
+          "physicalReference": "N171"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/hrusovany.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/1.jpg"
         }
       ],
       "instructions": null,
-      "name": "N019 - Hrušovany",
+      "name": "N171 - Hrušovany",
       "visible": true
     }
   },
@@ -14758,14 +14435,14 @@
   },
   "59475": {
     "name": "R152 - Jablonec nad Nisou - Kaufland",
-    "sha1": "cebda6032ba01dc17f3d3753521e0c0f9083754f",
+    "sha1": "4d4a93fa81c7e69b86c82af1f0ff225e16bd17d5",
     "station": {
       "address": {
         "city": "Jablonec nad Nisou",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "kostela 4754/37",
+        "houseNumber": "Kostela 4754/37",
         "latitude": 50.7393386,
         "longitude": 15.1689544,
         "phoneNumber": null,
@@ -15031,8 +14708,8 @@
     }
   },
   "59479": {
-    "name": "N015 - Bílina - Elektrárna Ledvice - 2",
-    "sha1": "ba879d25062be06fb9016fb7f37c04c2fcb1ff22",
+    "name": "N015 - Bílina - Elektrárna Ledvice",
+    "sha1": "dcae8128a5332dcce84941f08a8f762e33f8e7bd",
     "station": {
       "address": {
         "city": "Bílina",
@@ -15090,7 +14767,7 @@
         }
       ],
       "instructions": null,
-      "name": "N015 - Bílina - Elektrárna Ledvice - 2",
+      "name": "N015 - Bílina - Elektrárna Ledvice",
       "visible": true
     }
   },
@@ -17164,7 +16841,7 @@
   },
   "59512": {
     "name": "N029 - Prunéřov - Elektrárna Prunéřov",
-    "sha1": "772afea1386e9df995e5f476c02ca20f7b9f7954",
+    "sha1": "271ed21410131da325b377f670201159da3c8373",
     "station": {
       "address": {
         "city": "Kadaň",
@@ -17218,7 +16895,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/default-pomala.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/75917833.jpg"
         }
       ],
       "instructions": null,
@@ -17228,19 +16905,19 @@
   },
   "59513": {
     "name": "R108 - Hrušovany",
-    "sha1": "317a7148ceac86bae1e0e4531f36a63a88b14041",
+    "sha1": "8c7a87b4813122b7b48eeafef4c0879fa52749af",
     "station": {
       "address": {
-        "city": "Vysočany",
+        "city": "Hrušovany",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "",
+        "houseNumber": "1",
         "latitude": 50.3909686,
         "longitude": 13.5282517,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "Hrušovany",
+        "street": "Vyšočany",
         "url": ""
       },
       "customID": "59513",
@@ -17291,7 +16968,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/hrusovany-urds.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/1-20220203-103613.jpg"
         }
       ],
       "instructions": null,
@@ -18049,8 +17726,8 @@
     }
   },
   "59525": {
-    "name": "R146 - Hodonín - Kaufland - 1",
-    "sha1": "f2f022a81bb7104f9fa8118a132781373459ce9b",
+    "name": "R146 - Hodonín - Kaufland",
+    "sha1": "671906973ca011669c28db5b5fef5a2e7a6f72d7",
     "station": {
       "address": {
         "city": "Hodonín",
@@ -18117,7 +17794,7 @@
         }
       ],
       "instructions": null,
-      "name": "R146 - Hodonín - Kaufland - 1",
+      "name": "R146 - Hodonín - Kaufland",
       "visible": true
     }
   },
@@ -18251,7 +17928,7 @@
   },
   "59528": {
     "name": "R158 - Šternberk - Kaufland",
-    "sha1": "f55a5c734f0d2296958c4576dea9ddd9f671a419",
+    "sha1": "ff90b06804495d81717a4a3860347fb138d5f666",
     "station": {
       "address": {
         "city": "Šternberk",
@@ -18314,7 +17991,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/foto-sternberk-mala.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_2948.jpg"
         }
       ],
       "instructions": null,
@@ -19117,15 +18794,15 @@
     }
   },
   "59540": {
-    "name": "R179 - Praha-Vypich - Kaufland - 3",
-    "sha1": "528cc61be150d683dbd8d98f42f390a2f58be12d",
+    "name": "R179 - Praha - Vypich - Kaufland - 3",
+    "sha1": "f886188961873675cd7647e1d6ac9639d25c1fa0",
     "station": {
       "address": {
-        "city": "Praha 6-Břevnov",
+        "city": "Praha 6",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "2428/205",
+        "houseNumber": "2426/205",
         "latitude": 50.0771375,
         "longitude": 14.3407161,
         "phoneNumber": null,
@@ -19181,11 +18858,11 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/kaufland-vypich-mala.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/detail-20220203-115752.jpg"
         }
       ],
       "instructions": null,
-      "name": "R179 - Praha-Vypich - Kaufland - 3",
+      "name": "R179 - Praha - Vypich - Kaufland - 3",
       "visible": true
     }
   },
@@ -20057,11 +19734,11 @@
     }
   },
   "59553": {
-    "name": "R159 - Praha-Hloubětín - Kaufland",
-    "sha1": "b4faed71aea31ecb8caa47b14ed0c9199da5f88a",
+    "name": "R159 - Praha - Hloubětín - Kaufland",
+    "sha1": "2bd80ab2d5aa98f000887e36de8915bf16db61c2",
     "station": {
       "address": {
-        "city": "Praha",
+        "city": "Praha 14",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -20121,20 +19798,20 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/mala-urds-hloubetin.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_5173.jpg"
         }
       ],
       "instructions": null,
-      "name": "R159 - Praha-Hloubětín - Kaufland",
+      "name": "R159 - Praha - Hloubětín - Kaufland",
       "visible": true
     }
   },
   "59554": {
-    "name": "R189 - Praha-Jarov - Kaufland - 1",
-    "sha1": "db5cd4cf9f22b28a260a9842da3907aec2dfc4c0",
+    "name": "R189 - Praha - Jarov - Kaufland - 1",
+    "sha1": "0eaedaee0651494375e4e17dc69d337c330a202a",
     "station": {
       "address": {
-        "city": "Praha 3 - Jarov-Hrdlořezy",
+        "city": "Praha 3 - Jarov",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -20194,20 +19871,20 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/kaufland-jarov-mala.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/detail-20220203-120128.jpg"
         }
       ],
       "instructions": null,
-      "name": "R189 - Praha-Jarov - Kaufland - 1",
+      "name": "R189 - Praha - Jarov - Kaufland - 1",
       "visible": true
     }
   },
   "59555": {
-    "name": "R190 - Praha-Jarov - Kaufland - 2",
-    "sha1": "bf34769aca0785d5e817a94ff02aea31a03e8bc2",
+    "name": "R190 - Praha - Jarov - Kaufland - 2",
+    "sha1": "b33ee7e4495d29e75ad8dacc3c59cd60193a3b24",
     "station": {
       "address": {
-        "city": "Praha 3 - Jarov-Hrdlořezy",
+        "city": "Praha 3 - Jarov",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -20267,11 +19944,11 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/kaufland-jarov-mala.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/detail-20220203-120155.jpg"
         }
       ],
       "instructions": null,
-      "name": "R190 - Praha-Jarov - Kaufland - 2",
+      "name": "R190 - Praha - Jarov - Kaufland - 2",
       "visible": true
     }
   },
@@ -20486,15 +20163,15 @@
     }
   },
   "59559": {
-    "name": "R176 - Praha-Vypich - Kaufland - 1",
-    "sha1": "9c6541f9a303d5c7d1154ca3ab1c0342718d901e",
+    "name": "R176 - Praha - Vypich - Kaufland - 1",
+    "sha1": "d93a1697559dc25646a3cb5ba5bc49040f84e5cd",
     "station": {
       "address": {
-        "city": "Praha 6-Břevnov",
+        "city": "Praha 6",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "2428/205",
+        "houseNumber": "2426/205",
         "latitude": 50.0770497,
         "longitude": 14.3407669,
         "phoneNumber": null,
@@ -20550,24 +20227,24 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/kaufland-vypich-mala.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/detail.jpg"
         }
       ],
       "instructions": null,
-      "name": "R176 - Praha-Vypich - Kaufland - 1",
+      "name": "R176 - Praha - Vypich - Kaufland - 1",
       "visible": true
     }
   },
   "59560": {
-    "name": "R178 - Praha-Vypich - Kaufland - 2",
-    "sha1": "396f0ebb95321a1ef5ff852af63c56baa23120a7",
+    "name": "R178 - Praha - Vypich - Kaufland - 2",
+    "sha1": "e1df0bd947edbaeb05aa37066b89b62af1ab0928",
     "station": {
       "address": {
-        "city": "Praha 6-Břevnov",
+        "city": "Praha 6",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "2428/205",
+        "houseNumber": "2426/205",
         "latitude": 50.0770928,
         "longitude": 14.3407375,
         "phoneNumber": null,
@@ -20623,17 +20300,17 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/kaufland-vypich-mala.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/detail-20220203-115715.jpg"
         }
       ],
       "instructions": null,
-      "name": "R178 - Praha-Vypich - Kaufland - 2",
+      "name": "R178 - Praha - Vypich - Kaufland - 2",
       "visible": true
     }
   },
   "59561": {
     "name": "R150 - Kolín - Kaufland",
-    "sha1": "7836d5f5d8432a3045f31c22f86e8c7a95fb9094",
+    "sha1": "3a1826ac25f48bbedd9c37ceab6e2c2791aa55e3",
     "station": {
       "address": {
         "city": "Kolín",
@@ -20645,7 +20322,7 @@
         "longitude": 15.184752974421144,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "Benešova",
+        "street": "Benešovská",
         "url": ""
       },
       "customID": "59561",
@@ -20706,7 +20383,7 @@
   },
   "59562": {
     "name": "N109 - Klášterec nad Ohří",
-    "sha1": "12a0562df28e84e8776fe2231ab31fb53dd91bfd",
+    "sha1": "ff0bb72308be3e6947c2d3f4f7a1e262e081c710",
     "station": {
       "address": {
         "city": "Klášterec nad Ohří",
@@ -20760,7 +20437,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/dsnd-klasterec-mala.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/wp_20180608_09_09_04_pro.jpg"
         }
       ],
       "instructions": null,
@@ -21198,8 +20875,8 @@
     }
   },
   "68112": {
-    "name": "R218 - Ostrava-Vítkovice - Kaufland",
-    "sha1": "4f86c7e0b37b2e05007664aa945ed81e9d981d4f",
+    "name": "R218 - Ostrava - Vítkovice - Kaufland",
+    "sha1": "b83db2c79efc6d3111065b5f52f10c9145f3f4b2",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -21262,11 +20939,11 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/urds-kaufland-vitkovice-1.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/r218_1.jpg"
         }
       ],
       "instructions": null,
-      "name": "R218 - Ostrava-Vítkovice - Kaufland",
+      "name": "R218 - Ostrava - Vítkovice - Kaufland",
       "visible": true
     }
   },
@@ -22001,8 +21678,8 @@
     }
   },
   "68143": {
-    "name": "R206 - McDonalds Karlovy Vary 2",
-    "sha1": "25c23388cb200bb8214ad056ac104724dfa02bab",
+    "name": "R206 - Karlovy Vary - McDonalds 2",
+    "sha1": "88199213d94da18a473e814415480303ae52ff2e",
     "station": {
       "address": {
         "city": "Karlovy Vary",
@@ -22069,7 +21746,7 @@
         }
       ],
       "instructions": null,
-      "name": "R206 - McDonalds Karlovy Vary 2",
+      "name": "R206 - Karlovy Vary - McDonalds 2",
       "visible": true
     }
   },
@@ -23754,14 +23431,14 @@
   },
   "68855": {
     "name": "R224 - Velké Meziříčí - Kaufland",
-    "sha1": "00da58cc8fef2d8017f932584456e76e93edf201",
+    "sha1": "4955ba8cae37500b9a2a830bd8e5dff1476bd0de",
     "station": {
       "address": {
         "city": "Velké Meziříčí",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "tržiště 2204",
+        "houseNumber": "Tržiště 2204",
         "latitude": 49.34856,
         "longitude": 16.023900000000026,
         "phoneNumber": null,
@@ -23817,7 +23494,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2019/12/urds-v-mezirici-b-20191203-110908.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20200408_131835.jpg"
         }
       ],
       "instructions": null,
@@ -24329,7 +24006,7 @@
   },
   "80547": {
     "name": "R225 - Praha-Modřany - Kaufland",
-    "sha1": "5025a76743dda5be09a0e07b16b5678b25af3feb",
+    "sha1": "7479ceb9e6cbaafcee82c4d48b2495f8db6bfabd",
     "station": {
       "address": {
         "city": "Praha 4",
@@ -24392,7 +24069,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/01/kaufland-leden2020-1-20200127-105839.png"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/detail-20220203-115936.jpg"
         }
       ],
       "instructions": null,
@@ -24401,8 +24078,8 @@
     }
   },
   "80548": {
-    "name": "R233 - Praha-Podbaba - Kaufland",
-    "sha1": "cea1597a4c0a81b4c512eddb11303a2bf4b3e338",
+    "name": "R233 - Praha - Podbaba - Kaufland",
+    "sha1": "caaae430d174c6aed47a9c93fe2ebdd6f176968d",
     "station": {
       "address": {
         "city": "Praha 6",
@@ -24469,13 +24146,13 @@
         }
       ],
       "instructions": null,
-      "name": "R233 - Praha-Podbaba - Kaufland",
+      "name": "R233 - Praha - Podbaba - Kaufland",
       "visible": true
     }
   },
   "80861": {
     "name": "R235 - Praha - Palmovka - Kaufland",
-    "sha1": "10f5622091e40d8bb08a3129d57d68483346d37e",
+    "sha1": "eee5a64d54485ed77ce0ac3120a775b6223cd247",
     "station": {
       "address": {
         "city": "Praha 8",
@@ -24538,7 +24215,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/02/img_20200204_094244.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_7837.jpg"
         }
       ],
       "instructions": null,
@@ -24548,7 +24225,7 @@
   },
   "80871": {
     "name": "R227 - Beroun - Kaufland - 1",
-    "sha1": "39b1b8023f276c9410ba7d6524774195c903af0a",
+    "sha1": "6cbca5cfed0dcdafaac565abec2b4e07bf99ab56",
     "station": {
       "address": {
         "city": "Beroun",
@@ -24611,7 +24288,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/04/kaufland_rakovnik.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20200408_112841-kopie.jpg"
         }
       ],
       "instructions": null,
@@ -24621,7 +24298,7 @@
   },
   "80888": {
     "name": "R228 - Beroun - Kaufland - 2",
-    "sha1": "e47737a2bc7923fde279fd8581b3145b14438df5",
+    "sha1": "1073822ae962c212db8632d887c33d37197b44a6",
     "station": {
       "address": {
         "city": "Beroun",
@@ -24684,7 +24361,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/04/kaufland_rakovnik.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20200408_112841-kopie-20220203-104855.jpg"
         }
       ],
       "instructions": null,
@@ -24694,7 +24371,7 @@
   },
   "81598": {
     "name": "R240 - Rakovník - Kaufland",
-    "sha1": "29111b9caef27f074d84b08fee7998cede098545",
+    "sha1": "718c3e32bd2d1b71d756584620bf9249e038d580",
     "station": {
       "address": {
         "city": "Rakovník",
@@ -24757,7 +24434,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/04/kaufland_rakovnik.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/detail-20220203-123856.jpg"
         }
       ],
       "instructions": null,
@@ -24986,14 +24663,14 @@
   },
   "81611": {
     "name": "R249 - Praha - Horní Měcholupy - Kaufland",
-    "sha1": "83f10b0973e1b596a0a387e35ceb1845c8a629e5",
+    "sha1": "44c920ea35043b8a41f6093b36692a3ee7bdc1e7",
     "station": {
       "address": {
         "city": "Praha",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "",
+        "houseNumber": "763/123",
         "latitude": 50.0445067,
         "longitude": 14.5679439,
         "phoneNumber": null,
@@ -25570,7 +25247,7 @@
   },
   "84905": {
     "name": "R243 - Třeboň - Kaufland",
-    "sha1": "125f03fb0940445989a5f556c2aa18482e2b322a",
+    "sha1": "93aa4ee6b577c5cbbf3d9833f29ec1b327c71db8",
     "station": {
       "address": {
         "city": "Třeboň",
@@ -25633,7 +25310,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/05/kaufland-trebon.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20200515_150709.jpg"
         }
       ],
       "instructions": null,
@@ -26227,7 +25904,7 @@
   },
   "89267": {
     "name": "R258 - Bruntál - Kaufland",
-    "sha1": "7b8ae6555b6fa2711df3e812a218d159a7a738c5",
+    "sha1": "f77cc514d437f6df4820c272fbe54c5a4dbdccb4",
     "station": {
       "address": {
         "city": "Bruntál",
@@ -26239,7 +25916,7 @@
         "longitude": 17.462775,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "třída",
+        "street": "Třída",
         "url": ""
       },
       "customID": "89267",
@@ -26591,11 +26268,11 @@
     }
   },
   "92905": {
-    "name": "R273 - Ostrava-Zábřeh - Kaufland - 1",
-    "sha1": "e820055fcfaa12f85fbdbbc25589b5b21224db24",
+    "name": "R273 - Ostrava - Zábřeh - Kaufland - 1",
+    "sha1": "783648ea0638ab8cc9d598275fc73960484da3a6",
     "station": {
       "address": {
-        "city": "Ostrava – Zábřeh",
+        "city": "Ostrava - Zábřeh",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -26655,20 +26332,20 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/07/olomouc01.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20200716_150707.jpg"
         }
       ],
       "instructions": null,
-      "name": "R273 - Ostrava-Zábřeh - Kaufland - 1",
+      "name": "R273 - Ostrava - Zábřeh - Kaufland - 1",
       "visible": true
     }
   },
   "92925": {
-    "name": "R274 - Ostrava-Zábřeh - Kaufland - 2",
-    "sha1": "5b1e65ef51873ea3b7f6ad57030d871125715494",
+    "name": "R274 - Ostrava - Zábřeh - Kaufland - 2",
+    "sha1": "a41721256c8843410523a036d9108db5135fd7a8",
     "station": {
       "address": {
-        "city": "Ostrava-Zábřeh",
+        "city": "Ostrava - Zábřeh",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -26728,20 +26405,20 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/07/olomouc01.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20200716_150707-20220203-114429.jpg"
         }
       ],
       "instructions": null,
-      "name": "R274 - Ostrava-Zábřeh - Kaufland - 2",
+      "name": "R274 - Ostrava - Zábřeh - Kaufland - 2",
       "visible": true
     }
   },
   "92926": {
-    "name": "R275 - Ostrava-Zábřeh - Kaufland - 3",
-    "sha1": "f8228ead30e7375336288ba7c61e40e21af3f6c6",
+    "name": "R275 - Ostrava - Zábřeh - Kaufland - 3",
+    "sha1": "d8e5c17215d080bfd15990bf1e9a7aa3af7fd062",
     "station": {
       "address": {
-        "city": "Ostrava-Zábřeh",
+        "city": "Ostrava - Zábřeh",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -26801,11 +26478,11 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/07/olomouc01.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20200716_150707-20220203-114524.jpg"
         }
       ],
       "instructions": null,
-      "name": "R275 - Ostrava-Zábřeh - Kaufland - 3",
+      "name": "R275 - Ostrava - Zábřeh - Kaufland - 3",
       "visible": true
     }
   },
