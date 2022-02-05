@@ -21459,7 +21459,7 @@
   },
   "53820": {
     "name": "E.ON Penny Příbram",
-    "sha1": "77328b3e82e33f3b35a0f42837e4d044aa08f5a4",
+    "sha1": "0c5606960122e6086edd9928e7fe6547870f19d6",
     "station": {
       "address": "Seifertova 532",
       "city": "Příbram VII",
@@ -21523,7 +21523,7 @@
             "longitude": "13.9984189"
           },
           "evse_id": "CZ*EON*E98053820*1",
-          "last_seen_as_planned": "2022-01-31T13:15:22.027Z",
+          "last_seen_as_planned": "2022-02-04T06:26:02.67Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53820"
@@ -21560,7 +21560,7 @@
             "longitude": "13.9984189"
           },
           "evse_id": "CZ*EON*E98053820*2",
-          "last_seen_as_planned": "2022-01-31T13:08:59.697Z",
+          "last_seen_as_planned": "2022-02-04T06:26:02.67Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53821"

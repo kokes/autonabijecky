@@ -6072,6 +6072,236 @@
       "street": "Šalounova"
     }
   },
+  "CZ1003298": {
+    "name": "Ladestation Radotín - Sídliště",
+    "sha1": "9d53c571fb69a8b61fa2d76ef4155ff1a1dda725",
+    "station": {
+      "additionalInfo": "In der Wohnsiedlung Radotín",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003298",
+      "csName": "Ladestation Radotín - Sídliště",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "At Radotín housing development",
+      "enCsname": "Charger Radotín - Sídliště",
+      "evseId": "CZ*PRE*E1S8095*2",
+      "geoCoord": {
+        "latitude": "49.980032",
+        "longitude": "14.352408"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_radotin_-_sidliste_1.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15300",
+      "region": "Hlavní město Praha",
+      "street": "Sídliště"
+    }
+  },
+  "CZ1003299": {
+    "name": "Ladestation TS 751 Šebelova",
+    "sha1": "160a9c034c51003c4d7ba220e966686eff726f91",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 751",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003299",
+      "csName": "Ladestation TS 751 Šebelova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 751",
+      "enCsname": "Charger TS 751 Šebelova",
+      "evseId": "CZ*PRE*E1S8127*2",
+      "geoCoord": {
+        "latitude": "50.105151",
+        "longitude": "14.570954"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_751_sebelova.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19800",
+      "region": "Hlavní město Praha",
+      "street": "Šebelova"
+    }
+  },
+  "CZ1003300": {
+    "name": "Ladestation TS 4760 Bryksova",
+    "sha1": "b8703413dc2c77e5bb4618998cb7529b3e68a965",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 4760",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003300",
+      "csName": "Ladestation TS 4760 Bryksova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 4760",
+      "enCsname": "Charger TS 4760 Bryksova",
+      "evseId": "CZ*PRE*E1S8130*1",
+      "geoCoord": {
+        "latitude": "50.102251",
+        "longitude": "14.580788"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_4760_bryksova_.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19800",
+      "region": "Hlavní město Praha",
+      "street": "Bryksova"
+    }
+  },
+  "CZ1003301": {
+    "name": "Ladestation TS 753 Generála Janouška",
+    "sha1": "830186e6a4b7a42ede2279ac86125269b5cff901",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 753",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003301",
+      "csName": "Ladestation TS 753 Generála Janouška",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 753",
+      "enCsname": "Charger TS 753 Generála Janouška",
+      "evseId": "CZ*PRE*E1S8128*2",
+      "geoCoord": {
+        "latitude": "50.105830",
+        "longitude": "14.570369"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_753_generala_janouska.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19800",
+      "region": "Hlavní město Praha",
+      "street": "Generála Janouška"
+    }
+  },
+  "CZ1003302": {
+    "name": "Ladestation Dělnická",
+    "sha1": "418a70f19b9b6861ab824f4b2ff2f5ad8fa09639",
+    "station": {
+      "additionalInfo": "An der Kreuzung Dělnická und Osadní",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003302",
+      "csName": "Ladestation Dělnická",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "On crossroad of Dělnická street and Osadní",
+      "enCsname": "Charger Dělnická",
+      "evseId": "CZ*PRE*E1S0062*1",
+      "geoCoord": {
+        "latitude": "50.103026",
+        "longitude": "14.446631"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_delnicka.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "17000",
+      "region": "Hlavní město Praha",
+      "street": "Dělnická 213/12"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
