@@ -1,7 +1,7 @@
 {
   "100585": {
     "name": "R276 - Nupaky - Shell - D1 - 1",
-    "sha1": "332f9412cb57f54a4f71365a48eef4bef2858433",
+    "sha1": "95ad7e90aeeb0f599faa7861da45f9b54640fbb5",
     "station": {
       "address": {
         "city": "Nupaky",
@@ -64,7 +64,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/08/urds-shell-nupaky-d1-b.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/ifup1427.jpg"
         }
       ],
       "instructions": null,
@@ -74,7 +74,7 @@
   },
   "100605": {
     "name": "R277 - Nupaky - Shell - D1 - 2",
-    "sha1": "b0d50c8977dcbef6cfcd81d95dfb0a74f1149f43",
+    "sha1": "1f45d14cfb9d1b3253f1db5436182ec47a2b6f44",
     "station": {
       "address": {
         "city": "Nupaky",
@@ -137,7 +137,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/08/urds-shell-nupaky-d1-b-20200828-094651.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/ifup1427-20220208-144309.jpg"
         }
       ],
       "instructions": null,
@@ -147,7 +147,7 @@
   },
   "100606": {
     "name": "R278 - Nupaky - Shell - D1 - 3",
-    "sha1": "bdfecd45238bc15f23d6cee1dfe37ef3c9ce4b2f",
+    "sha1": "180e20c3c5c31e49358b4bc4e09312dc91a004f8",
     "station": {
       "address": {
         "city": "Nupaky",
@@ -210,7 +210,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/08/urds-shell-nupaky-d1-b-20200828-095028.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/ifup1427-20220208-144325.jpg"
         }
       ],
       "instructions": null,
@@ -366,14 +366,14 @@
   },
   "108305": {
     "name": "R262 - Uničov",
-    "sha1": "359c7b13f64abc23c6130c6db0958bfb16f2196c",
+    "sha1": "aa3660e2e7dabc7d0a52914104a66f20cf4b8256",
     "station": {
       "address": {
         "city": "Uničov",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "",
+        "houseNumber": "538",
         "latitude": 49.775667,
         "longitude": 17.120611,
         "phoneNumber": null,
@@ -950,14 +950,14 @@
   },
   "121265": {
     "name": "R299 - Opava - McDonald´s 1",
-    "sha1": "c4e6474ac46aae2028da6ecb287252eb912ad134",
+    "sha1": "491218dc54cf145ef75b92a2dfcbd6a761f3e593",
     "station": {
       "address": {
         "city": "Opava",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "45-47",
+        "houseNumber": "1702/67",
         "latitude": 49.944343,
         "longitude": 17.92791,
         "phoneNumber": null,
@@ -1023,14 +1023,14 @@
   },
   "121285": {
     "name": "R300 - Opava - McDonald´s 2",
-    "sha1": "f63dd6ee54422cca1b3cc2d332593eafe73d92cb",
+    "sha1": "573f1edd6b84fae19c313ee4978fc29565cce5a8",
     "station": {
       "address": {
         "city": "Opava",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "45-47",
+        "houseNumber": "1702/67",
         "latitude": 49.944343,
         "longitude": 17.92788,
         "phoneNumber": null,
@@ -1168,8 +1168,8 @@
     }
   },
   "122065": {
-    "name": "R298 - Pardubice - EVČ",
-    "sha1": "e8ad466fde6f61fbea79ad095b3ae5aa6bfb7f7f",
+    "name": "R298 - Pardubice - ENESA",
+    "sha1": "098e07fc7b1e8dabe0a008642f8db671ff612189",
     "station": {
       "address": {
         "city": "Pardubice",
@@ -1236,7 +1236,7 @@
         }
       ],
       "instructions": null,
-      "name": "R298 - Pardubice - EVČ",
+      "name": "R298 - Pardubice - ENESA",
       "visible": true
     }
   },
@@ -2602,14 +2602,14 @@
   },
   "127285": {
     "name": "R312 - Mladá Boleslav - McDonald´s - 1",
-    "sha1": "f3b0230f4fa75d363499ff96812bc956ed4cb50d",
+    "sha1": "08801904ee7f35f86db4ee1fb819c9b9c95cbf23",
     "station": {
       "address": {
         "city": "Mladá Boleslav",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "1365",
+        "houseNumber": "1350/III",
         "latitude": 50.408167,
         "longitude": 14.94331,
         "phoneNumber": null,
@@ -2637,7 +2637,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R312"
         },
         {
           "connectors": [
@@ -2660,7 +2660,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R312"
         }
       ],
       "images": [
@@ -2675,14 +2675,14 @@
   },
   "127286": {
     "name": "R313 - Mladá Boleslav - McDonald´s - 2",
-    "sha1": "d09eb448c01388a891b36fee6ff189c4a7fcbcb2",
+    "sha1": "f7a5d3355764ecb86eec4139e78bf495d9c7775c",
     "station": {
       "address": {
         "city": "Mladá Boleslav",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "1365",
+        "houseNumber": "1365/III",
         "latitude": 50.408167,
         "longitude": 14.94335,
         "phoneNumber": null,
@@ -3332,7 +3332,7 @@
   },
   "137165": {
     "name": "R322 - Nové Strašecí - Benzina - D6",
-    "sha1": "7dc7d774c423d216b82676a8741ab4462dfac31c",
+    "sha1": "51ba1438e089e273f890785eac5f791c719ce0ae",
     "station": {
       "address": {
         "city": "Nové Strašecí",
@@ -3395,7 +3395,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/02/shell-brno-2.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/shell_brno_hradecka_001.jpg"
         }
       ],
       "instructions": null,
@@ -3405,7 +3405,7 @@
   },
   "137507": {
     "name": "R318 - Brno - Shell - 1",
-    "sha1": "5f646b5e6d3e0c45c4c2525b4f3b1ba498584a49",
+    "sha1": "dff734a4ea7cb856e1f02d1cd1adb3e8d10d2b2b",
     "station": {
       "address": {
         "city": "Brno",
@@ -3468,7 +3468,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/02/shell-brno-2.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/shell_brno_hradecka_001.jpg"
         }
       ],
       "instructions": null,
@@ -3478,7 +3478,7 @@
   },
   "137508": {
     "name": "R319 - Brno - Shell - 2",
-    "sha1": "ee7450a2c3726a001db18d060187f67d2d34e80e",
+    "sha1": "6f78c2b41eba1d67ecb578368704e54675b45a28",
     "station": {
       "address": {
         "city": "Brno",
@@ -3541,7 +3541,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/02/shell-brno-2-20210225-094349.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/shell_brno_hradecka_001-20220208-144546.jpg"
         }
       ],
       "instructions": null,
@@ -4417,8 +4417,8 @@
     }
   },
   "144446": {
-    "name": "R339 - Zlín - Gemini",
-    "sha1": "3be640eb2f47efc2943b2b8543a5031a22143f25",
+    "name": "R339 - Zlín - klinika Gemini",
+    "sha1": "51c88f665d134f84c0ae8c3239a4c0683fbc2875",
     "station": {
       "address": {
         "city": "Zlín",
@@ -4481,17 +4481,17 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/05/gemini-zlin.png"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_7671.jpg"
         }
       ],
       "instructions": null,
-      "name": "R339 - Zlín - Gemini",
+      "name": "R339 - Zlín - klinika Gemini",
       "visible": true
     }
   },
   "144667": {
     "name": "R343 - Chlumec nad Cidlinou - Benzina",
-    "sha1": "4267f9afe375b7037ab5e4d5f52c2b7dd7fa488a",
+    "sha1": "5a94e7570d75a602655c8b84f9ac8ce2d2292fab",
     "station": {
       "address": {
         "city": "Chlumec nad Cidlinou",
@@ -4554,7 +4554,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/05/mcd-hk.png"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_9312.jpg"
         }
       ],
       "instructions": null,
@@ -4783,14 +4783,14 @@
   },
   "144745": {
     "name": "R344 - Hradec Králové - McDonald´s",
-    "sha1": "13595444667c1ca3b803c8059acdbdec803189f7",
+    "sha1": "5048cd630ae424c25df269f8fe865a422db9262e",
     "station": {
       "address": {
         "city": "Hradec Králové",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "380/3",
+        "houseNumber": "12",
         "latitude": 50.217534,
         "longitude": 15.834505,
         "phoneNumber": null,
@@ -4810,7 +4810,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-0421-020",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -4824,7 +4824,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-0421-020",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -4833,7 +4833,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-0421-020",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -4846,7 +4846,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/05/mcd-hk.png"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_9312.jpg"
         }
       ],
       "instructions": null,
@@ -5586,7 +5586,7 @@
   },
   "148516": {
     "name": "R348 - Janské Lázně",
-    "sha1": "b3df2b755c19d9f7bb4e1aabb7731585ff1167ac",
+    "sha1": "737d06a3583d873c8cce1a8c61d7c1e57e6f87f1",
     "station": {
       "address": {
         "city": "Janské Lázně",
@@ -5649,7 +5649,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/08/benzina-slovice.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8330.jpg"
         }
       ],
       "instructions": null,
@@ -5659,7 +5659,7 @@
   },
   "148517": {
     "name": "R354 - Ústí nad Orlicí",
-    "sha1": "a959250d7f2ff2862eb0bf42bb68f9c37e95857e",
+    "sha1": "d8cdab2bf8161f7b9b0243e6cd87fb999b8e0ab4",
     "station": {
       "address": {
         "city": "Ústí nad Orlicí",
@@ -5722,7 +5722,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/08/benzina-slovice.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_1941.jpg"
         }
       ],
       "instructions": null,
@@ -5731,8 +5731,8 @@
     }
   },
   "148518": {
-    "name": "R358 - Šlovice - Benzina 1",
-    "sha1": "527974b49f97970980b2e65a29e6f707e514476a",
+    "name": "R358 - Šlovice směr Rozvadov - Benzina 1",
+    "sha1": "8b77082a3a7e3ae8667c5d38fd2baf4dff38e0bb",
     "station": {
       "address": {
         "city": "Dobřany - Šlovice 321 00",
@@ -5795,17 +5795,17 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/08/benzina-slovice.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_1941.jpg"
         }
       ],
       "instructions": null,
-      "name": "R358 - Šlovice - Benzina 1",
+      "name": "R358 - Šlovice směr Rozvadov - Benzina 1",
       "visible": true
     }
   },
   "148519": {
-    "name": "R359 - Šlovice - Benzina 2",
-    "sha1": "41db0bda5a0676d35ad35ae22f90a2d07afb5513",
+    "name": "R359 - Šlovice směr Rozvadov - Benzina 2",
+    "sha1": "5486da71d789ce2af2af40b329a043e4b55f53c6",
     "station": {
       "address": {
         "city": "Dobřany - Šlovice 321 00",
@@ -5868,11 +5868,11 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/08/benzina-slovice-20210806-095650.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_1941-20220208-145756.jpg"
         }
       ],
       "instructions": null,
-      "name": "R359 - Šlovice - Benzina 2",
+      "name": "R359 - Šlovice směr Rozvadov - Benzina 2",
       "visible": true
     }
   },
@@ -6243,7 +6243,7 @@
   },
   "148568": {
     "name": "R350 - Hlinsko",
-    "sha1": "7fdd87a335a21eb3fb8f5dd8187774c6e70c9185",
+    "sha1": "1c09100bfbe8c37b18fd04295d83eacf98e2991d",
     "station": {
       "address": {
         "city": "Hlinsko",
@@ -6306,7 +6306,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/08/benzina-slovice.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_1941.jpg"
         }
       ],
       "instructions": null,
@@ -6315,8 +6315,8 @@
     }
   },
   "148569": {
-    "name": "R360 - Šlovice - Benzina 3",
-    "sha1": "858fa25774e08a045908705d22340f8a4214778a",
+    "name": "R360 - Šlovice směr Rozvadov - Benzina 3",
+    "sha1": "0740f69cb176ae01368f90144e1777f132c67b25",
     "station": {
       "address": {
         "city": "Dobřany - Šlovice 321 00",
@@ -6379,17 +6379,17 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/08/benzina-slovice-20210806-095737.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_1941-20220208-145840.jpg"
         }
       ],
       "instructions": null,
-      "name": "R360 - Šlovice - Benzina 3",
+      "name": "R360 - Šlovice směr Rozvadov - Benzina 3",
       "visible": true
     }
   },
   "148570": {
-    "name": "R361 - Šlovice - Benzina 4",
-    "sha1": "ebdc781d79a19e7c6a7d1188371afb1801e96df6",
+    "name": "R361 - Šlovice směr Rozvadov - Benzina 4",
+    "sha1": "c4536d6cadd6b01ffcd0f20c98abba2c457359be",
     "station": {
       "address": {
         "city": "Dobřany - Šlovice 321 00",
@@ -6452,11 +6452,11 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/08/benzina-slovice-20210806-095808.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_1941-20220208-145930.jpg"
         }
       ],
       "instructions": null,
-      "name": "R361 - Šlovice - Benzina 4",
+      "name": "R361 - Šlovice směr Rozvadov - Benzina 4",
       "visible": true
     }
   },
@@ -6663,7 +6663,7 @@
   },
   "150691": {
     "name": "R370 - Polička - Benzina",
-    "sha1": "e8d3e3894d89120530e0f7b65d58bf37d5557e50",
+    "sha1": "9bd2916dee77a21566d804648fe0d03d2116ca34",
     "station": {
       "address": {
         "city": "Polička",
@@ -6726,7 +6726,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/10/shell-humpolec-3.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/12540724.jpeg"
         }
       ],
       "instructions": null,
@@ -7010,19 +7010,19 @@
   },
   "151650": {
     "name": "N152 - Zašová - Kulturní středisko",
-    "sha1": "0ae4eb310a0a17784f756ae0578ba109759d1565",
+    "sha1": "ee58905568dea71892ebd78f1be16ab139a455bc",
     "station": {
       "address": {
-        "city": "",
+        "city": "Zašová",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "",
+        "houseNumber": "809",
         "latitude": 49.4763422,
         "longitude": 18.0443819,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "",
+        "street": "Zašová",
         "url": ""
       },
       "customID": "151650",
@@ -8298,7 +8298,7 @@
   },
   "152154": {
     "name": "R377 - Praha - McDonald´s Kbelská - 2",
-    "sha1": "a7400e54d63a1467eac0e51ad0870b7661960b7b",
+    "sha1": "af5c6adbf08f18af7febc191038350a8fa18a981",
     "station": {
       "address": {
         "city": "Praha",
@@ -8324,12 +8324,35 @@
         {
           "connectors": [
             {
-              "amperage": null,
-              "chargePointIdentity": "",
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3121-003",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
-              "standard": "OTHER",
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R377"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3121-003",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3121-003",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
               "voltage": null
             }
           ],
@@ -8348,7 +8371,7 @@
   },
   "152168": {
     "name": "R376 - Praha - McDonald´s Kbelská - 1",
-    "sha1": "69e4f3c0d73c3dba4f2ab9e48ba8be3d5a93f171",
+    "sha1": "714f07c3346d4d55b7dd229a945039b36a045c19",
     "station": {
       "address": {
         "city": "Praha",
@@ -8375,7 +8398,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3121-001",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -8389,7 +8412,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3121-001",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -8398,7 +8421,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3121-001",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -8494,7 +8517,7 @@
   },
   "152586": {
     "name": "N146 - Hlinsko",
-    "sha1": "23a294e39667de8d563b99770bb1859e028542fc",
+    "sha1": "c56c0f038610e2c65cb3fb45ba532f847fdbc85b",
     "station": {
       "address": {
         "city": "Hlinsko",
@@ -8548,7 +8571,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114922.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/znaceni-ds.jpg"
         }
       ],
       "instructions": null,
@@ -8557,20 +8580,20 @@
     }
   },
   "152587": {
-    "name": "N155 - Nová Paka",
-    "sha1": "736b7775cf59a9824b095138bce5642d8496d50d",
+    "name": "N155 - Nová Paka - autobusové nádraží",
+    "sha1": "822eb43e4642524594116ef07335a89392591505",
     "station": {
       "address": {
         "city": "Nová Paka",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "",
+        "houseNumber": "- autobusové nádraží",
         "latitude": 50.4954367,
         "longitude": 15.5179575,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "",
+        "street": "Biskupská",
         "url": ""
       },
       "customID": "152587",
@@ -8593,7 +8616,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "N155"
         },
         {
           "connectors": [
@@ -8607,22 +8630,22 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "N155"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114922.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/znaceni-ds.jpg"
         }
       ],
       "instructions": null,
-      "name": "N155 - Nová Paka",
+      "name": "N155 - Nová Paka - autobusové nádraží",
       "visible": true
     }
   },
   "152670": {
     "name": "N164 - Bílovec",
-    "sha1": "d7750680527d5f9137ad133c8cba2218f2ae0688",
+    "sha1": "0ccc431026d82e916c17ac78fdbb38042d232647",
     "station": {
       "address": {
         "city": "Bílovec",
@@ -8676,7 +8699,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114922.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/bilovec1.jpg"
         }
       ],
       "instructions": null,
@@ -9182,8 +9205,8 @@
     }
   },
   "153455": {
-    "name": "R390 - Nošovice",
-    "sha1": "de32a1e83a8621102ee89be5db3751aae0243e79",
+    "name": "R390 - Nošovice - 1",
+    "sha1": "abe7a3ffd8db330ae73b4d6032dbe0ad9c6fd649",
     "station": {
       "address": {
         "city": "Nošovice",
@@ -9250,13 +9273,13 @@
         }
       ],
       "instructions": null,
-      "name": "R390 - Nošovice",
+      "name": "R390 - Nošovice - 1",
       "visible": true
     }
   },
   "153472": {
-    "name": "N173 - Chrudim – nádraží",
-    "sha1": "f686e3f2a9fafd593e3755dfe509a62506577cdd",
+    "name": "N173 - Chrudim – nádraží - 1",
+    "sha1": "18c6f798c78302e82cd0a735bae664ae2a73f86e",
     "station": {
       "address": {
         "city": "Chrudim",
@@ -9314,13 +9337,13 @@
         }
       ],
       "instructions": null,
-      "name": "N173 - Chrudim – nádraží",
+      "name": "N173 - Chrudim – nádraží - 1",
       "visible": true
     }
   },
   "153473": {
-    "name": "N174 - Chrudim – nádraží",
-    "sha1": "a4d90105fa471ed1834b617291b45112e1dbf6b5",
+    "name": "N174 - Chrudim – nádraží - 2",
+    "sha1": "c14f0b9c4804d2719cea8d686510e9712e0b8e38",
     "station": {
       "address": {
         "city": "Chrudim",
@@ -9378,13 +9401,13 @@
         }
       ],
       "instructions": null,
-      "name": "N174 - Chrudim – nádraží",
+      "name": "N174 - Chrudim – nádraží - 2",
       "visible": true
     }
   },
   "153474": {
-    "name": "R391 - Nošovice",
-    "sha1": "3ed89896c7ab2c4b00ebfa199ca4b11695af13b9",
+    "name": "R391 - Nošovice - 2",
+    "sha1": "af921892357d2fccac02cce8864dae669f2e081e",
     "station": {
       "address": {
         "city": "Nošovice",
@@ -9451,25 +9474,25 @@
         }
       ],
       "instructions": null,
-      "name": "R391 - Nošovice",
+      "name": "R391 - Nošovice - 2",
       "visible": true
     }
   },
   "153600": {
-    "name": "Panenský Týnec - Benzina",
-    "sha1": "e93b74909cc4de98eb1c28b902b4ec572c299e61",
+    "name": "R395 - Panenský Týnec - Benzina",
+    "sha1": "f45912414abe8b8409e707278c8bed7d10a62244",
     "station": {
       "address": {
         "city": "Panenský Týnec",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "",
+        "houseNumber": "- směr Chomutov",
         "latitude": 50.29578,
         "longitude": 13.91004,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "",
+        "street": "D7",
         "url": ""
       },
       "customID": "153600",
@@ -9484,7 +9507,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3321-045",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -9492,13 +9515,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R395"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3321-045",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": null,
@@ -9507,7 +9530,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3321-045",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -9515,22 +9538,22 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R395"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/panensky-tynec-d7-20211220-122928.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/38745547.jpeg"
         }
       ],
       "instructions": null,
-      "name": "Panenský Týnec - Benzina",
+      "name": "R395 - Panenský Týnec - Benzina",
       "visible": true
     }
   },
   "153602": {
-    "name": "Přelouč - Benzina",
-    "sha1": "51d0ac4094c1448d9bfd33871118c389294d3b91",
+    "name": "R389 - Přelouč - Benzina",
+    "sha1": "a1aad0aa93bf6ceeee630ae0b45e475ec472b945",
     "station": {
       "address": {
         "city": "Přelouč",
@@ -9557,7 +9580,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3321-049",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 22,
@@ -9565,13 +9588,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R389"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3321-049",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": null,
@@ -9580,7 +9603,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-3321-049",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -9588,7 +9611,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R389"
         }
       ],
       "images": [
@@ -9597,7 +9620,7 @@
         }
       ],
       "instructions": null,
-      "name": "Přelouč - Benzina",
+      "name": "R389 - Přelouč - Benzina",
       "visible": true
     }
   },
@@ -10350,8 +10373,8 @@
     }
   },
   "154290": {
-    "name": "N176 - Dolní Břežany - Parkovací dům",
-    "sha1": "d39c986b6c623e441ce08cee14c33c767e99667e",
+    "name": "N176 - Dolní Břežany - Parkovací dům - 2",
+    "sha1": "38b9e80678681b89a1252168b4d35cd736584197",
     "station": {
       "address": {
         "city": "Dolní Břežany",
@@ -10409,13 +10432,13 @@
         }
       ],
       "instructions": null,
-      "name": "N176 - Dolní Břežany - Parkovací dům",
+      "name": "N176 - Dolní Břežany - Parkovací dům - 2",
       "visible": true
     }
   },
   "154307": {
     "name": "R400 - Prostějov - Kubus",
-    "sha1": "04e06eccc58b78df5aa8ff0514379a3b3d12e250",
+    "sha1": "b3141030f969364e39fd8400d700118a2b99e86e",
     "station": {
       "address": {
         "city": "Prostějov",
@@ -10478,7 +10501,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/3.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_0059.jpg"
         }
       ],
       "instructions": null,
@@ -10487,15 +10510,15 @@
     }
   },
   "154308": {
-    "name": "R399 - Stonařov",
-    "sha1": "743a7dbfe258977b2edf7f89ff50a939c539c515",
+    "name": "R399 - Stonařov - parkoviště u úřadu",
+    "sha1": "ad6f2470dba97f17b69bb10423c711d649c78db3",
     "station": {
       "address": {
         "city": "Stonařov",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "70",
+        "houseNumber": "- parkoviště 1225/2",
         "latitude": 49.2811778,
         "longitude": 15.5855383,
         "phoneNumber": null,
@@ -10551,11 +10574,11 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/3.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_0059.jpg"
         }
       ],
       "instructions": null,
-      "name": "R399 - Stonařov",
+      "name": "R399 - Stonařov - parkoviště u úřadu",
       "visible": true
     }
   },
@@ -10697,8 +10720,8 @@
     }
   },
   "154315": {
-    "name": "N175 - Dolní Břežany - Parkovací dům",
-    "sha1": "c75319f847a5b45e0a24845cfc30ba399e7e95f7",
+    "name": "N175 - Dolní Břežany - Parkovací dům - 1",
+    "sha1": "ced3271d78a09f4688116dcccc84d3fe5b6cc4bb",
     "station": {
       "address": {
         "city": "Dolní Břežany",
@@ -10756,7 +10779,7 @@
         }
       ],
       "instructions": null,
-      "name": "N175 - Dolní Břežany - Parkovací dům",
+      "name": "N175 - Dolní Břežany - Parkovací dům - 1",
       "visible": true
     }
   },
@@ -10912,11 +10935,11 @@
     }
   },
   "154620": {
-    "name": "R403 BENZINA - SVOBODA NAD ÚPOU",
-    "sha1": "6be0158e3de4a9cd65bab33f0c0145c0829cdef0",
+    "name": "R403 - Svoboda nad Úpou - Benzina - 1",
+    "sha1": "953c91be621c2e2fbcda03918842bffa2ffa2e80",
     "station": {
       "address": {
-        "city": "SVOBODA NAD ÚPOU",
+        "city": "Svoboda nad Úpou",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -10985,7 +11008,7 @@
         }
       ],
       "instructions": null,
-      "name": "R403 BENZINA - SVOBODA NAD ÚPOU",
+      "name": "R403 - Svoboda nad Úpou - Benzina - 1",
       "visible": true
     }
   },
@@ -11068,11 +11091,11 @@
     }
   },
   "154651": {
-    "name": "R404 BENZINA - SVOBODA NAD ÚPOU",
-    "sha1": "edd5b001c4eecc92ed0847498e617c38a8a6af7d",
+    "name": "R404 - Svoboda nad Úpou - Benzina - 2",
+    "sha1": "56182c4bee9841f0e273be451e5276d8b7a37d7a",
     "station": {
       "address": {
-        "city": "SVOBODA NAD ÚPOU",
+        "city": "Svoboda nad Úpou",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -11141,7 +11164,7 @@
         }
       ],
       "instructions": null,
-      "name": "R404 BENZINA - SVOBODA NAD ÚPOU",
+      "name": "R404 - Svoboda nad Úpou - Benzina - 2",
       "visible": true
     }
   },
@@ -11279,6 +11302,152 @@
       ],
       "instructions": null,
       "name": "R357 - Jihlava - Citypark 2",
+      "visible": true
+    }
+  },
+  "155055": {
+    "name": "R375 - Praha - McDonald´s Kbelská - 3",
+    "sha1": "07c0b1b2250930adbf89c09e6b36e41e03b4f67c",
+    "station": {
+      "address": {
+        "city": "Praha",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "919/31",
+        "latitude": 50.12243,
+        "longitude": 14.51225,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Kbelská",
+        "url": ""
+      },
+      "customID": "155055",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU-3321-050",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R375"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU-3321-050",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU-3321-050",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R375"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/mcdonalds-praha-kbelska-20211220-124006.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R375 - Praha - McDonald´s Kbelská - 3",
+      "visible": true
+    }
+  },
+  "155056": {
+    "name": "R378 - Praha - McDonald´s Kbelská - 4",
+    "sha1": "c2aec917941b905525555eec1c7f8d139a8dd0c1",
+    "station": {
+      "address": {
+        "city": "Praha",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "919/31",
+        "latitude": 50.12243,
+        "longitude": 14.51225,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Kbelská",
+        "url": ""
+      },
+      "customID": "155056",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-006",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R378"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-006",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-006",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R378"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/mcdonalds-praha-kbelska-20211220-124006.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R378 - Praha - McDonald´s Kbelská - 4",
       "visible": true
     }
   },
@@ -11485,7 +11654,7 @@
   },
   "59415": {
     "name": "R124 - Kladno - V-Group",
-    "sha1": "aa863f2c4af046ad733d4ed0921dfad3ad9d9e03",
+    "sha1": "7179b4deb43c2550d9ceea5ffc5caf3bd59a25d1",
     "station": {
       "address": {
         "city": "Kladno",
@@ -11548,7 +11717,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/default-rychla.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/53327651.jpeg"
         }
       ],
       "instructions": null,
@@ -11558,7 +11727,7 @@
   },
   "59420": {
     "name": "N133 - Praha-Radotín - MČ Praha 16",
-    "sha1": "fa765f4385854a91d8edfd59b628e08985f7dcec",
+    "sha1": "54d627e900bfbe7a0966e25b51869c84aa5baa7d",
     "station": {
       "address": {
         "city": "Praha 16",
@@ -11612,7 +11781,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/default-rychla.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/53327651.jpeg"
         }
       ],
       "instructions": null,
@@ -11622,7 +11791,7 @@
   },
   "59421": {
     "name": "N169 - Třinec",
-    "sha1": "2e26f7a347af5501530b544fd64805918c499ec1",
+    "sha1": "cb362589e8d189e0f99939b4ba09ad623916d72d",
     "station": {
       "address": {
         "city": "Třinec",
@@ -11649,7 +11818,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "44",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 11,
@@ -11657,13 +11826,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "44"
+          "physicalReference": "N169"
         },
         {
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "44",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 11,
@@ -11671,12 +11840,12 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "44"
+          "physicalReference": "N169"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/trinec.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/53327651.jpeg"
         }
       ],
       "instructions": null,
@@ -12600,7 +12769,7 @@
   },
   "59443": {
     "name": "R116 - Plzeň - ČEZ",
-    "sha1": "bab9c94c38cdf5e2525e3e533d3a7462b06f62f0",
+    "sha1": "6b9208863c1604e4bb6d46c46d3fa9063bd15d02",
     "station": {
       "address": {
         "city": "Plzeň",
@@ -12613,7 +12782,7 @@
         "phoneNumber": null,
         "postalCode": null,
         "street": "Guldenerova",
-        "url": "http://www.cez.cz"
+        "url": "www.cez.cz"
       },
       "customID": "59443",
       "description": [
@@ -12663,7 +12832,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/plzen-rychlo.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/54313580_small.jpg"
         }
       ],
       "instructions": null,
@@ -12736,8 +12905,8 @@
     }
   },
   "59446": {
-    "name": "R129 - Praha-Radotín - MČ Praha 16 - 2",
-    "sha1": "1a2d844897359916a7baf1bfb9edd5dff1b0b6dd",
+    "name": "R129 - Praha-Radotín - MČ Praha 16",
+    "sha1": "c5833eb5b56a7a1291f0ef1aebce7a1d28b17d97",
     "station": {
       "address": {
         "city": "Praha 16",
@@ -12804,7 +12973,7 @@
         }
       ],
       "instructions": null,
-      "name": "R129 - Praha-Radotín - MČ Praha 16 - 2",
+      "name": "R129 - Praha-Radotín - MČ Praha 16",
       "visible": true
     }
   },
@@ -12883,7 +13052,7 @@
   },
   "59450": {
     "name": "R119 - Ostrava - Orchard Office",
-    "sha1": "387940ec6231caffc85524d73efd49b1bbff8906",
+    "sha1": "02bec6abd0d6354bca84e8e63ba0c3e74a0e202e",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -12946,7 +13115,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/orchard-ostrava-mala.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/r119.jpg"
         }
       ],
       "instructions": null,
@@ -12956,14 +13125,14 @@
   },
   "59453": {
     "name": "R118 - Hradec Králové - ČEZ",
-    "sha1": "100014cdb020a78400cf1c6e089ce23b5e005ce7",
+    "sha1": "b3cf018bff3c4eac721958793afab25b9d9f3be8",
     "station": {
       "address": {
         "city": "Hradec Králové",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "náměstí",
+        "houseNumber": "náměstí 1493",
         "latitude": 50.2150997,
         "longitude": 15.8117419,
         "phoneNumber": null,
@@ -13019,7 +13188,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/hradec-kralove-rychlo.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_2930.jpg"
         }
       ],
       "instructions": null,
@@ -13029,7 +13198,7 @@
   },
   "59454": {
     "name": "N149 - Klimkovice - Město Klimkovice",
-    "sha1": "92a50f2bc8861102cdfaf47ed04e918efe8b46b1",
+    "sha1": "a6c14e2d52cc323b5f28923cfdf0962dc120e75e",
     "station": {
       "address": {
         "city": "Klimkovice",
@@ -13083,7 +13252,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/hradec-kralove-rychlo.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_2930.jpg"
         }
       ],
       "instructions": null,
@@ -13093,7 +13262,7 @@
   },
   "59455": {
     "name": "R117 - Mladá Boleslav - ČEZ",
-    "sha1": "1390ba733e3d0980b463faec31c05f885ece1abf",
+    "sha1": "644a95340c3b4d607754a5934042c6ebef8e319a",
     "station": {
       "address": {
         "city": "Mladá Boleslav",
@@ -13156,7 +13325,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/cez-mlada-boleslav.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/41102088.jpg"
         }
       ],
       "instructions": null,
@@ -13312,7 +13481,7 @@
   },
   "59458": {
     "name": "R112 - Trmice - Teplárna Trmice - 2",
-    "sha1": "56f7cee0bdea87db26c6fd911d8f5f895e049164",
+    "sha1": "624a8604fee7e0ff44f7db0f82989ad0b75ed1bb",
     "station": {
       "address": {
         "city": "Trmice",
@@ -13375,7 +13544,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/trmice-rychla-eu.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8220.jpg"
         }
       ],
       "instructions": null,
@@ -13385,10 +13554,10 @@
   },
   "59459": {
     "name": "N150 - Praha - Žižkovská věž",
-    "sha1": "565529220292ef25bf368b6f0d2a9a85824dd609",
+    "sha1": "b5c6c7707baaa2099be257c046edb3237aaa7c31",
     "station": {
       "address": {
-        "city": "Praha",
+        "city": "Praha 3",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -13439,7 +13608,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/ds-zizkov.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8220.jpg"
         }
       ],
       "instructions": null,
@@ -13513,7 +13682,7 @@
   },
   "59461": {
     "name": "R104 - Brno - J.P.N. Cars Brno",
-    "sha1": "d4ece09310d530ef5a437cfe00bc957b205bfe2e",
+    "sha1": "6c4363ad85bbfa767788a8977d66bea93e195305",
     "station": {
       "address": {
         "city": "Brno",
@@ -13576,7 +13745,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/jpn-cars-brno.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/r104_3_small.jpg"
         }
       ],
       "instructions": null,
@@ -13723,7 +13892,7 @@
   },
   "59464": {
     "name": "N140 - Praha - SOHO",
-    "sha1": "df78f0ee21841ab903569099f58999a4cd2431e6",
+    "sha1": "b2e3d3a34e7c9bc045a6c27220de6742306efdb5",
     "station": {
       "address": {
         "city": "Praha 4",
@@ -13777,7 +13946,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/soho-dsnd-mala.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_2985.jpg"
         }
       ],
       "instructions": null,
@@ -14151,8 +14320,8 @@
     }
   },
   "59470": {
-    "name": "R141 - Olomouc - 1",
-    "sha1": "4ae77f234cddf76e6a82f51b78c94cffaf9a26f8",
+    "name": "R141 - Olomouc - Nemilany - 1",
+    "sha1": "19840bb8b1124019184bac0235f31cf1720f6e92",
     "station": {
       "address": {
         "city": "Olomouc",
@@ -14219,7 +14388,7 @@
         }
       ],
       "instructions": null,
-      "name": "R141 - Olomouc - 1",
+      "name": "R141 - Olomouc - Nemilany - 1",
       "visible": true
     }
   },
@@ -14973,8 +15142,8 @@
     }
   },
   "59483": {
-    "name": "R125 - Trmice - Teplárna Trmice",
-    "sha1": "361199de7747ba8909bba08fc6385e590bb3b19a",
+    "name": "R125 - Trmice - Teplárna Trmice - 1",
+    "sha1": "e452fca1f60a4194ef317c60315853bc6307e121",
     "station": {
       "address": {
         "city": "Trmice",
@@ -15037,11 +15206,11 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/trmice-rychla-eu.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8220-20220208-105358.jpg"
         }
       ],
       "instructions": null,
-      "name": "R125 - Trmice - Teplárna Trmice",
+      "name": "R125 - Trmice - Teplárna Trmice - 1",
       "visible": true
     }
   },
@@ -15184,7 +15353,7 @@
   },
   "59486": {
     "name": "N115 - Ostrava - OC Fórum Nová Karolína",
-    "sha1": "c70862ee9f503857db1a253f3cdb543827edc0a5",
+    "sha1": "8c800723420da9d5db60c9ac1f6577ea61aa711f",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -15211,7 +15380,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "51",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 11,
@@ -15225,7 +15394,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "51",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 11,
@@ -15238,7 +15407,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/oc-nova-karolina-ostrava.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/detail_small.jpg"
         }
       ],
       "instructions": null,
@@ -15248,7 +15417,7 @@
   },
   "59488": {
     "name": "R110 - Praha - Corso Court Karlín 1",
-    "sha1": "f683e94a54eca50ee477e85d347b7039927a21b5",
+    "sha1": "03bc68f76d77ee15ac3bc05a8d943fbc053b37c3",
     "station": {
       "address": {
         "city": "Praha 8",
@@ -15311,7 +15480,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/default-rychla.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/detail-20220208-110609.jpg"
         }
       ],
       "instructions": null,
@@ -15321,7 +15490,7 @@
   },
   "59489": {
     "name": "R111 - Praha - Corso Court Karlín - 2",
-    "sha1": "563739d8c88830db176b5ae048e4c317c0a6f1c9",
+    "sha1": "c24f2300836a230f9131a0c2d1a3ebf2d91afcc3",
     "station": {
       "address": {
         "city": "Praha 8",
@@ -15384,7 +15553,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/default-rychla.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/detail-20220208-110636.jpg"
         }
       ],
       "instructions": null,
@@ -15394,7 +15563,7 @@
   },
   "59490": {
     "name": "N121 - Teplice - OC Galerie",
-    "sha1": "2d67a3eed567f370b57e2750a96025b6c36fa467",
+    "sha1": "c67e60e9039ba930d9e0d74ea0670740446f8c65",
     "station": {
       "address": {
         "city": "Teplice",
@@ -15421,7 +15590,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "16",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 11,
@@ -15435,7 +15604,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "16",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 11,
@@ -15448,7 +15617,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/galerie-teplice.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/65210918.jpeg"
         }
       ],
       "instructions": null,
@@ -15927,8 +16096,8 @@
     }
   },
   "59499": {
-    "name": "R142 - Olomouc - 2",
-    "sha1": "60091262e92256fcdd601f1f63cdebc213442bff",
+    "name": "R142 - Olomouc - Nemilany - 2",
+    "sha1": "7780a29192435f8735242ff1c7a2d5260b974dd9",
     "station": {
       "address": {
         "city": "Olomouc",
@@ -15995,7 +16164,7 @@
         }
       ],
       "instructions": null,
-      "name": "R142 - Olomouc - 2",
+      "name": "R142 - Olomouc - Nemilany - 2",
       "visible": true
     }
   },
@@ -16137,11 +16306,11 @@
     }
   },
   "59502": {
-    "name": "R272 - Praha-Holešovice - Visionary - 2",
-    "sha1": "985db07551b60a92160e4abb246589171bdf0aee",
+    "name": "R272 - Praha - Holešovice - Visionary - 2",
+    "sha1": "fad708ac0fa3141cac54e4f1ad02b2234b05cddc",
     "station": {
       "address": {
-        "city": "Praha",
+        "city": "Praha 7",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -16205,7 +16374,7 @@
         }
       ],
       "instructions": null,
-      "name": "R272 - Praha-Holešovice - Visionary - 2",
+      "name": "R272 - Praha - Holešovice - Visionary - 2",
       "visible": true
     }
   },
@@ -16283,8 +16452,8 @@
     }
   },
   "59504": {
-    "name": "R109 - Praha-Michle - Burger King",
-    "sha1": "0c69d58f67a2f59d0e9fdf630448ee21e99a6545",
+    "name": "R109 - Praha - Michle - Burger King",
+    "sha1": "5a7d0103e5561b6ab02f7a6105f41d0a9b9e0372",
     "station": {
       "address": {
         "city": "Praha 4 - Michle",
@@ -16347,11 +16516,11 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/burger-king.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/detail-20220208-124735.jpg"
         }
       ],
       "instructions": null,
-      "name": "R109 - Praha-Michle - Burger King",
+      "name": "R109 - Praha - Michle - Burger King",
       "visible": true
     }
   },
@@ -16502,8 +16671,8 @@
     }
   },
   "59507": {
-    "name": "R122 - Ostrava-Vítkovice - Teplárna Vítkovice",
-    "sha1": "11bb85083cedbbe2d15b2274ae2a824e6d0ffeef",
+    "name": "R122 - Ostrava - Vítkovice - Teplárna Vítkovice",
+    "sha1": "2565dd27102be1673affe19f1a51c3067e695baf",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -16570,7 +16739,7 @@
         }
       ],
       "instructions": null,
-      "name": "R122 - Ostrava-Vítkovice - Teplárna Vítkovice",
+      "name": "R122 - Ostrava - Vítkovice - Teplárna Vítkovice",
       "visible": true
     }
   },
@@ -16704,7 +16873,7 @@
   },
   "59510": {
     "name": "R103 - Zlín - BMW - Synot Auto",
-    "sha1": "94e9feb133b09a59d03a5e182771d2591aa005ce",
+    "sha1": "60ddadd1ab00816ab1d28b0f8edc83a8254bb680",
     "station": {
       "address": {
         "city": "Zlín",
@@ -16767,7 +16936,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/default-rychla.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/r103_1.jpg"
         }
       ],
       "instructions": null,
@@ -17598,11 +17767,11 @@
     }
   },
   "59524": {
-    "name": "R271 - Praha-Holešovice - Visionary - 1",
-    "sha1": "03f6b623d3b2da90e9eca3fd8746d6594d831f69",
+    "name": "R271 - Praha - Holešovice - Visionary - 1",
+    "sha1": "b359ad0f818fa883145055e3cf091489a2e32859",
     "station": {
       "address": {
-        "city": "Praha",
+        "city": "Praha 7",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -17666,7 +17835,7 @@
         }
       ],
       "instructions": null,
-      "name": "R271 - Praha-Holešovice - Visionary - 1",
+      "name": "R271 - Praha - Holešovice - Visionary - 1",
       "visible": true
     }
   },
@@ -18009,8 +18178,8 @@
     }
   },
   "59530": {
-    "name": "R168 - Praha-Průmyslová - Mc Donald's - 1",
-    "sha1": "da16720618b07fc9cdc92663f6049515aebabbe1",
+    "name": "R168 - Praha-Průmyslová - McDonalds - 1",
+    "sha1": "127d6d79e53a66b36eb495fa4f63240aae8c67b0",
     "station": {
       "address": {
         "city": "Praha 10",
@@ -18073,17 +18242,17 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/mcd-prumyslova.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_7542.jpg"
         }
       ],
       "instructions": null,
-      "name": "R168 - Praha-Průmyslová - Mc Donald's - 1",
+      "name": "R168 - Praha-Průmyslová - McDonalds - 1",
       "visible": true
     }
   },
   "59531": {
-    "name": "R167 - Praha-Průmyslová - Mc Donald's - 2",
-    "sha1": "492cba20c0d7852be76a9dc195ef38b79da9c8f9",
+    "name": "R167 - Praha-Průmyslová - McDonalds - 2",
+    "sha1": "0be573e1221a9547f23d6f245583be07a25bd0b1",
     "station": {
       "address": {
         "city": "Praha 10",
@@ -18146,11 +18315,11 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/mcd-prumyslova.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_7542-20220208-102724.jpg"
         }
       ],
       "instructions": null,
-      "name": "R167 - Praha-Průmyslová - Mc Donald's - 2",
+      "name": "R167 - Praha-Průmyslová - McDonalds - 2",
       "visible": true
     }
   },
@@ -19241,8 +19410,8 @@
     }
   },
   "59547": {
-    "name": "R185 - Most - McDonald´s - 1",
-    "sha1": "08917f2bde6fcb428c7986850a9cd7405637eda8",
+    "name": "R185 - Most - McDonalds - 1",
+    "sha1": "e5b2be6de2e81759d34ff341421a770120c3ea0d",
     "station": {
       "address": {
         "city": "Most",
@@ -19305,29 +19474,29 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/urds-most-nahled.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8413.jpg"
         }
       ],
       "instructions": null,
-      "name": "R185 - Most - McDonald´s - 1",
+      "name": "R185 - Most - McDonalds - 1",
       "visible": true
     }
   },
   "59548": {
     "name": "R166 - Loket - McDonalds, D1/66. km",
-    "sha1": "2218fc26696408627440119b2bbc94833ebe6d6a",
+    "sha1": "64bb02107ecfc289d91d632ab94cdd5debd5d9bd",
     "station": {
       "address": {
-        "city": "Čechtice",
+        "city": "Loket",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "63",
+        "houseNumber": "- 66. km",
         "latitude": 49.65855,
         "longitude": 15.11835,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "Čechtice",
+        "street": "D1",
         "url": ""
       },
       "customID": "59548",
@@ -19387,8 +19556,8 @@
     }
   },
   "59549": {
-    "name": "R186 - Most - McDonald´s - 2",
-    "sha1": "082ba4970b65360f8fb86f6ffa10c53f5934ba62",
+    "name": "R186 - Most - McDonalds - 2",
+    "sha1": "b0a855bd5be007838a525709c484181643203826",
     "station": {
       "address": {
         "city": "Most",
@@ -19451,11 +19620,11 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/urds-most-nahled.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8413-20220208-103138.jpg"
         }
       ],
       "instructions": null,
-      "name": "R186 - Most - McDonald´s - 2",
+      "name": "R186 - Most - McDonalds - 2",
       "visible": true
     }
   },
@@ -20465,19 +20634,19 @@
   },
   "59564": {
     "name": "UR102 - Loket - Ultrarychlá dobíjecí stanice - McDonalds, D1/66. km - 1",
-    "sha1": "2735f9c99708b4db695ca407237845998b8c9b3f",
+    "sha1": "f200ab2f286ffb0a0b69aa75caa346a78c058adb",
     "station": {
       "address": {
-        "city": "Čechtice",
+        "city": "Loket",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "63",
+        "houseNumber": "- 66. km",
         "latitude": 49.6585,
         "longitude": 15.1183,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "Čechtice",
+        "street": "D1",
         "url": ""
       },
       "customID": "59564",
@@ -20492,7 +20661,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "21BZ0487A",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 150,
@@ -20500,13 +20669,13 @@
               "voltage": null
             }
           ],
-          "physicalReference": "Ultra URDS"
+          "physicalReference": "UR102"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "21BZ0487A",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 150,
@@ -20514,7 +20683,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": "Ultra URDS"
+          "physicalReference": "UR102"
         }
       ],
       "images": [
@@ -22354,7 +22523,7 @@
   },
   "68153": {
     "name": "R198 - Břeclav - Benzina",
-    "sha1": "331c7272733c90e7ac95b5e042e51c1122063cdd",
+    "sha1": "aa44331c2e5dda5625080abddea462a2c4f90431",
     "station": {
       "address": {
         "city": "Břeclav",
@@ -22417,7 +22586,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/urds-breclav.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/r198_3.jpg"
         }
       ],
       "instructions": null,
@@ -23010,20 +23179,20 @@
     }
   },
   "68331": {
-    "name": "R221 - Osice - Benzina Plus - 1",
-    "sha1": "5d0da03aeb7a20852abda2ba4fbc8f86c11a9d85",
+    "name": "R221 - Osice - Benzina - D11/80.km - 1",
+    "sha1": "74ce3c95e562dc3e210ef3a68a70649607d049d2",
     "station": {
       "address": {
-        "city": "50326 Osice",
+        "city": "Osice",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "ev. č. 1",
+        "houseNumber": "Osice - D11/80.km pravá strana směr HK",
         "latitude": 50.1374,
         "longitude": 15.69825,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "Osice",
+        "street": "odpočívka",
         "url": ""
       },
       "customID": "68331",
@@ -23074,29 +23243,29 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2019/11/rychlodobijeci-stanice-osice-d11-detail.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_1366.jpg"
         }
       ],
       "instructions": null,
-      "name": "R221 - Osice - Benzina Plus - 1",
+      "name": "R221 - Osice - Benzina - D11/80.km - 1",
       "visible": true
     }
   },
   "68333": {
-    "name": "R220 - Osice - Benzina Plus - 2",
-    "sha1": "f901364d59007b381530d9c9bd9930a82df34b12",
+    "name": "R220 - Osice - Benzina - D11/80.km - 2",
+    "sha1": "78911489f18f7c96b2c8dbb6fb94b63cf553e6fe",
     "station": {
       "address": {
-        "city": "50326 Osice",
+        "city": "Osice",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "ev. č. 1",
+        "houseNumber": "Osice - D11/80.km pravá strana směr HK",
         "latitude": 50.1374,
         "longitude": 15.69825,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "Osice",
+        "street": "odpočívka",
         "url": ""
       },
       "customID": "68333",
@@ -23147,11 +23316,11 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2019/11/img_1368-20191101-113531.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_1366-20220208-103535.jpg"
         }
       ],
       "instructions": null,
-      "name": "R220 - Osice - Benzina Plus - 2",
+      "name": "R220 - Osice - Benzina - D11/80.km - 2",
       "visible": true
     }
   },
@@ -25922,14 +26091,14 @@
   },
   "89268": {
     "name": "R263 - Vrbová Lhota - McDonald´s - 1",
-    "sha1": "71f84cd6fb154d81e210b8dc2b8a22979477d190",
+    "sha1": "b79088cdd8c039fd7fd2433f76b2659e5bb4dd86",
     "station": {
       "address": {
         "city": "Vrbová Lhota",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "Lhota 142",
+        "houseNumber": "Lhota 142 - D11/35,5. km",
         "latitude": 50.1201,
         "longitude": 15.0827,
         "phoneNumber": null,
@@ -25995,14 +26164,14 @@
   },
   "89285": {
     "name": "R264 - Vrbová Lhota - McDonald´s - 2",
-    "sha1": "406e8a7e274cc714fdfb35568d59fea4efc83be5",
+    "sha1": "b3aa2a635d909079a59b81999cb83dfd8fedb3b9",
     "station": {
       "address": {
         "city": "Vrbová Lhota",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "Lhota 142",
+        "houseNumber": "Lhota 142 - D11/35,5. km",
         "latitude": 50.12015,
         "longitude": 15.0827,
         "phoneNumber": null,
@@ -26058,7 +26227,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/06/vrbova_lhota_3.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/1-20220208-131930.jpg"
         }
       ],
       "instructions": null,
@@ -26068,14 +26237,14 @@
   },
   "90786": {
     "name": "R269 - Ostrava - Krajský úřad Moravskoslezského kraje 1",
-    "sha1": "b95fc0fd4abbbe3f1fa74aab1ddea6312ec4927e",
+    "sha1": "5c79939610fcac504317f819059d69234fae5ae1",
     "station": {
       "address": {
         "city": "Ostrava",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "října 2771",
+        "houseNumber": "října 2771/117",
         "latitude": 49.83,
         "longitude": 18.271,
         "phoneNumber": null,
@@ -26141,14 +26310,14 @@
   },
   "90805": {
     "name": "R270 - Ostrava - Krajský úřad Moravskoslezského kraje 2",
-    "sha1": "3d6bf4891cdb868e9f843bf30ba7a2bb473415ac",
+    "sha1": "0bc680f66952c056aa5cfd584753611a57ff1478",
     "station": {
       "address": {
         "city": "Ostrava",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "října 2771",
+        "houseNumber": "října 2771/117",
         "latitude": 49.83,
         "longitude": 18.2711,
         "phoneNumber": null,
@@ -26433,19 +26602,19 @@
   },
   "92927": {
     "name": "R252 - Olomouc - Samohýl Motor - 3",
-    "sha1": "37ce48913118824123cb73946e0808629f82a4fe",
+    "sha1": "f10bdbcde1d4324a69a6f86930549d9001f89a23",
     "station": {
       "address": {
         "city": "Olomouc",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "Kosmonautů 846/2",
+        "houseNumber": "1176/3",
         "latitude": 49.58845,
         "longitude": 17.262937,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "tř.",
+        "street": "Wittgensteinova",
         "url": ""
       },
       "customID": "92927",
@@ -26506,19 +26675,19 @@
   },
   "92945": {
     "name": "R250 - Olomouc - Samohýl Motor - 1",
-    "sha1": "166b16791009e833c302508890ce78f0f4c83edd",
+    "sha1": "74874672536b2a8900ab534bee2b06392ea81a1e",
     "station": {
       "address": {
         "city": "Olomouc",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "Kosmonautů 846/2",
+        "houseNumber": "1176/3",
         "latitude": 49.588331,
         "longitude": 17.262937,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "tř.",
+        "street": "Wittgensteinova",
         "url": ""
       },
       "customID": "92945",
@@ -26579,19 +26748,19 @@
   },
   "92946": {
     "name": "R251 - Olomouc - Samohýl Motor - 2",
-    "sha1": "faf149722f1095a5f70c6c6fec0f3e128dbd22a5",
+    "sha1": "9d7fcb10b335628f6495044ea6ac7777731ff5d4",
     "station": {
       "address": {
         "city": "Olomouc",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "Kosmonautů 846/2",
+        "houseNumber": "1176/3",
         "latitude": 49.5884,
         "longitude": 17.262937,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "tř.",
+        "street": "Wittgensteinova",
         "url": ""
       },
       "customID": "92946",
@@ -26871,7 +27040,7 @@
   },
   "92968": {
     "name": "R265 - Přerov",
-    "sha1": "6bfb47ee0e526c5fddbe6b36fceb148c206c9be2",
+    "sha1": "bc45e19366b865421616456797d3705024b4170a",
     "station": {
       "address": {
         "city": "Přerov",
@@ -26934,7 +27103,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/07/inkedprerov_li.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/20210817_144152.jpg"
         }
       ],
       "instructions": null,

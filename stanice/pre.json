@@ -6302,6 +6302,43 @@
       "street": "Dělnická 213/12"
     }
   },
+  "CZ1003304": {
+    "name": "Ladestation Krkonošská",
+    "sha1": "922983c63533643bb954586306898c2967339ad3",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003304",
+      "csName": "Ladestation Krkonošská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Krkonošská",
+      "evseId": "CZ*PRE*E1S0063*2",
+      "geoCoord": {
+        "latitude": "50.079966",
+        "longitude": "14.446569"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Krkonošská 1471/17"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
