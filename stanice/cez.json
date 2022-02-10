@@ -366,7 +366,7 @@
   },
   "108305": {
     "name": "R262 - Uničov",
-    "sha1": "aa3660e2e7dabc7d0a52914104a66f20cf4b8256",
+    "sha1": "58984bc158c077bf43b21c881a9d25e471bc4fef",
     "station": {
       "address": {
         "city": "Uničov",
@@ -429,7 +429,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/10/kaufland-stodulky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20200818_102453.jpg"
         }
       ],
       "instructions": null,
@@ -439,7 +439,7 @@
   },
   "108325": {
     "name": "R283 - Brno - Science VIDA! Centrum 1",
-    "sha1": "ffc96c7e2f3243e8a72dd70bc6c6083dcd543d25",
+    "sha1": "08ae056aaa3ea3fd91ee22a5e32ce71f1e91c2be",
     "station": {
       "address": {
         "city": "Brno",
@@ -502,7 +502,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/10/kaufland-stodulky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20200818_102453.jpg"
         }
       ],
       "instructions": null,
@@ -512,7 +512,7 @@
   },
   "108345": {
     "name": "R284 - Brno - Science VIDA! Centrum 2",
-    "sha1": "56515cb7d1911075a5efd506b2f4c3f2966d5d8b",
+    "sha1": "c79cdcf14b7e6ab7dded384a6e3202b0abcda408",
     "station": {
       "address": {
         "city": "Brno",
@@ -575,7 +575,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/10/kaufland-stodulky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20200818_102453-20220209-100104.jpg"
         }
       ],
       "instructions": null,
@@ -585,7 +585,7 @@
   },
   "108945": {
     "name": "R148 - Zábřeh na Moravě - Kaufland",
-    "sha1": "03174de6284be0f0106ff7ed1d522f64b8797454",
+    "sha1": "5ff29b3625c618b6124d89c4af6af16c78766baa",
     "station": {
       "address": {
         "city": "Zábřeh na Moravě",
@@ -648,7 +648,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/10/kaufland-stodulky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/2-20220209-113630.jpg"
         }
       ],
       "instructions": null,
@@ -1461,7 +1461,7 @@
   },
   "123467": {
     "name": "R293 - Vimperk - Národní park Šumava",
-    "sha1": "a725a958d9983376d9f17db9f615cecd3143195a",
+    "sha1": "25138c3b06537d498832847c90f860424fb99a7b",
     "station": {
       "address": {
         "city": "Vimperk",
@@ -1524,7 +1524,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/12/urds-vimperk.png"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/lokalita.jpg"
         }
       ],
       "instructions": null,
@@ -1826,14 +1826,14 @@
   },
   "123985": {
     "name": "R315 - Třebíč - Benzina",
-    "sha1": "017d9dba521a241c2c39a5f3bbfdd7266a1ed398",
+    "sha1": "54aa10980f5e4d6dcd3562db017eeffe3593a225",
     "station": {
       "address": {
         "city": "Třebíč",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "",
+        "houseNumber": "189",
         "latitude": 49.209716,
         "longitude": 15.894227,
         "phoneNumber": null,
@@ -2528,15 +2528,15 @@
     }
   },
   "125565": {
-    "name": "R306 - Hustopeče u Brna - Benzina",
-    "sha1": "3ad3d451216abfa50ea47fdb5965d1bd7f55d8af",
+    "name": "R306 - Starovičky - Benzina",
+    "sha1": "9d1048b836cbbe776d48ac60fdc4b000364a1f2d",
     "station": {
       "address": {
-        "city": "Hustopeče u Brna",
+        "city": "Starovičky",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "",
+        "houseNumber": "- D2/31. km směr Bratislava",
         "latitude": 48.906115,
         "longitude": 16.784248,
         "phoneNumber": null,
@@ -2564,7 +2564,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R306"
         },
         {
           "connectors": [
@@ -2587,7 +2587,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R306"
         }
       ],
       "images": [
@@ -2596,7 +2596,7 @@
         }
       ],
       "instructions": null,
-      "name": "R306 - Hustopeče u Brna - Benzina",
+      "name": "R306 - Starovičky - Benzina",
       "visible": true
     }
   },
@@ -5367,7 +5367,7 @@
   },
   "147127": {
     "name": "R338 - Varnsdorf - Kaufland",
-    "sha1": "1a463416d042710717d67040529cc73001f42b96",
+    "sha1": "cac40de5d2400e255fec45e307f5f525ac968598",
     "station": {
       "address": {
         "city": "Varnsdorf",
@@ -5430,7 +5430,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8422.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8335.jpg"
         }
       ],
       "instructions": null,
@@ -5440,7 +5440,7 @@
   },
   "148514": {
     "name": "R332 - Plasy 1",
-    "sha1": "046ba8f07f1ebc73ecea0f2df03d8822de0aaeeb",
+    "sha1": "73ada9b2477264968aa03e4300566b8c386d5d5d",
     "station": {
       "address": {
         "city": "Parkoviště Plasy - Rybník",
@@ -5467,7 +5467,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU10221-018",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -5481,7 +5481,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU10221-018",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -5490,7 +5490,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU10221-018",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -5503,7 +5503,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8422.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8335.jpg"
         }
       ],
       "instructions": null,
@@ -5513,7 +5513,7 @@
   },
   "148515": {
     "name": "R333 - Plasy 2",
-    "sha1": "20c9626bb2fe63c3f229c7478663f3d78b903703",
+    "sha1": "2e79e3e04a58a9a45b09346cd9bdede13e9b8265",
     "station": {
       "address": {
         "city": "Plasy",
@@ -5540,7 +5540,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-0720-007",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -5554,7 +5554,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-0720-007",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -5563,7 +5563,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-0720-007",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -5576,7 +5576,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8422.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8335-20220209-094920.jpg"
         }
       ],
       "instructions": null,
@@ -5659,7 +5659,7 @@
   },
   "148517": {
     "name": "R354 - Ústí nad Orlicí",
-    "sha1": "d8cdab2bf8161f7b9b0243e6cd87fb999b8e0ab4",
+    "sha1": "3fb851ca8ff7dad29f1f908d6adb493abb4a87ad",
     "station": {
       "address": {
         "city": "Ústí nad Orlicí",
@@ -5686,7 +5686,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-0321-017",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -5700,7 +5700,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-0321-017",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -5709,7 +5709,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-HU1-0321-017",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -5722,7 +5722,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_1941.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8486.jpg"
         }
       ],
       "instructions": null,
@@ -6243,7 +6243,7 @@
   },
   "148568": {
     "name": "R350 - Hlinsko",
-    "sha1": "1c09100bfbe8c37b18fd04295d83eacf98e2991d",
+    "sha1": "59db4bc1ac401c36ad4999f1f1c6caf33cbeff08",
     "station": {
       "address": {
         "city": "Hlinsko",
@@ -6270,7 +6270,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-0921-082",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -6284,7 +6284,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-0921-082",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -6293,7 +6293,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "",
+              "chargePointIdentity": "T54-IT1-0921-082",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -6306,7 +6306,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_1941.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8526.jpg"
         }
       ],
       "instructions": null,
@@ -6882,7 +6882,7 @@
   },
   "151545": {
     "name": "N153 - Sepetná - Horský hotel",
-    "sha1": "6182296a7557f094f325b25d1d6c15596ce4e0f6",
+    "sha1": "40adc6014661e24dc8a48a07fb7ca52174edc4a2",
     "station": {
       "address": {
         "city": "Sepetná",
@@ -6936,7 +6936,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/vamberk-hdb.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/lipnik_losertova7.jpg"
         }
       ],
       "instructions": null,
@@ -7010,7 +7010,7 @@
   },
   "151650": {
     "name": "N152 - Zašová - Kulturní středisko",
-    "sha1": "ee58905568dea71892ebd78f1be16ab139a455bc",
+    "sha1": "87648009a21a3a9b3bb36b88bb6a4e198563857b",
     "station": {
       "address": {
         "city": "Zašová",
@@ -7064,7 +7064,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/vamberk-hdb.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/lipnik_losertova7.jpg"
         }
       ],
       "instructions": null,
@@ -7074,10 +7074,10 @@
   },
   "151651": {
     "name": "N148 - Lipník nad Bečvou",
-    "sha1": "8900f2d5e4de3ee7f304137b91f1e8f4e7064383",
+    "sha1": "77316ea04c78c39ffde1d0866c58b10c189783b9",
     "station": {
       "address": {
-        "city": "",
+        "city": "Lipník nad Bečvou",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -7109,7 +7109,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "N148"
         },
         {
           "connectors": [
@@ -7123,12 +7123,12 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "N148"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/vamberk-hdb.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/lipnik_losertova7.jpg"
         }
       ],
       "instructions": null,
@@ -7137,8 +7137,8 @@
     }
   },
   "151652": {
-    "name": "R368 - Vamberk",
-    "sha1": "51282238d4611df9355fb57062d6a446cb1354b2",
+    "name": "R368 - Vamberk - 1",
+    "sha1": "e0e169ef4ec0214ab94dec48e0ae9c5b2104c998",
     "station": {
       "address": {
         "city": "Vamberk",
@@ -7205,13 +7205,13 @@
         }
       ],
       "instructions": null,
-      "name": "R368 - Vamberk",
+      "name": "R368 - Vamberk - 1",
       "visible": true
     }
   },
   "151653": {
-    "name": "R369 - Vamberk",
-    "sha1": "f49036a2f9d01579f0aae29c79ad934d731fff90",
+    "name": "R369 - Vamberk - 2",
+    "sha1": "e7da91d7fd5ec00f9b0f1d2cb7d075b53c093e95",
     "station": {
       "address": {
         "city": "Vamberk",
@@ -7278,7 +7278,7 @@
         }
       ],
       "instructions": null,
-      "name": "R369 - Vamberk",
+      "name": "R369 - Vamberk - 2",
       "visible": true
     }
   },
@@ -7832,7 +7832,7 @@
   },
   "151923": {
     "name": "N160 - Ostrava - Outlet Arena Moravia - 3",
-    "sha1": "13a28681152a9bffc10e8f566143cb495e75c020",
+    "sha1": "855bb13aed07da400843edcfc2924914d8d15bed",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -7886,7 +7886,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/11/outlet-moravia-ostrava-2-20211112-105322.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/opd-di-outlet-moravia-20220209-084110.jpg"
         }
       ],
       "instructions": null,
@@ -7960,7 +7960,7 @@
   },
   "152024": {
     "name": "R385 - Ostrava - Outlet Arena Moravia - 1",
-    "sha1": "939e6e43c2fd0dc89bb93ff606b478f6c0a79c14",
+    "sha1": "4368ea2ab4e6c84649ade4b8019bc59f12f11d20",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -8023,7 +8023,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/11/outlet-moravia-ostrava-2.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/opd-di-outlet-moravia-20220209-084740.jpg"
         }
       ],
       "instructions": null,
@@ -8033,7 +8033,7 @@
   },
   "152025": {
     "name": "R386 - Ostrava - Outlet Arena Moravia - 2",
-    "sha1": "e86ffaaebce9bac59ae6cf9401a4c50998b8a02b",
+    "sha1": "76f6eb30175a7f9a8e1d297f1aa3a0ac9ec340d8",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -8096,7 +8096,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/11/outlet-moravia-ostrava-2-20211112-104925.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/opd-di-outlet-moravia-20220209-084814.jpg"
         }
       ],
       "instructions": null,
@@ -8106,7 +8106,7 @@
   },
   "152147": {
     "name": "N161 - Ostrava - Outlet Arena Moravia - 4",
-    "sha1": "55f5a41cec86c909f207d68a4810295120c3bbcc",
+    "sha1": "8000cf68ed953d00d7c2f3ab0b83f9c0ba747629",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -8141,7 +8141,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "N161"
         },
         {
           "connectors": [
@@ -8155,12 +8155,12 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "N161"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/11/outlet-moravia-ostrava-2-20211112-110001.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/opd-di-outlet-moravia.jpg"
         }
       ],
       "instructions": null,
@@ -8170,7 +8170,7 @@
   },
   "152148": {
     "name": "N162 - Ostrava - Outlet Arena Moravia - 5",
-    "sha1": "6caeb5ab8c2162ff2b675c6cc12466a1f615e1a9",
+    "sha1": "4384f09c5602b5ccc4e16767fbbd9cfec47009ac",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -8224,7 +8224,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/11/outlet-moravia-ostrava-2-20211112-110146.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/opd-di-outlet-moravia-20220209-084850.jpg"
         }
       ],
       "instructions": null,
@@ -8234,7 +8234,7 @@
   },
   "152149": {
     "name": "N163 - Ostrava - Outlet Arena Moravia - 6",
-    "sha1": "9842f1e8757612a515cb038ffadea7b005b71c09",
+    "sha1": "589a34f81f1053bdc7a4b90c94ad5f73eba57313",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -8288,7 +8288,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/11/outlet-moravia-ostrava-2-20211112-110250.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/opd-di-outlet-moravia-20220209-084928.jpg"
         }
       ],
       "instructions": null,
@@ -8517,7 +8517,7 @@
   },
   "152586": {
     "name": "N146 - Hlinsko",
-    "sha1": "c56c0f038610e2c65cb3fb45ba532f847fdbc85b",
+    "sha1": "028858ab0e885f5e6989a02a77836b9deddf197b",
     "station": {
       "address": {
         "city": "Hlinsko",
@@ -8571,7 +8571,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/znaceni-ds.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8521.jpg"
         }
       ],
       "instructions": null,
@@ -8581,7 +8581,7 @@
   },
   "152587": {
     "name": "N155 - Nová Paka - autobusové nádraží",
-    "sha1": "822eb43e4642524594116ef07335a89392591505",
+    "sha1": "4abaa032ae7f0bdc2c7dbda2d96bc18db4eff9d3",
     "station": {
       "address": {
         "city": "Nová Paka",
@@ -8635,7 +8635,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/znaceni-ds.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_9445.jpg"
         }
       ],
       "instructions": null,
@@ -9133,7 +9133,7 @@
   },
   "153454": {
     "name": "R387 - Horka u Staré Paky",
-    "sha1": "dbd5751c6d469258d68d8b936eb2cd160859959f",
+    "sha1": "3be19621602cad6cb1c4e87a5e95bfe4deb88d53",
     "station": {
       "address": {
         "city": "Horka u Staré Paky",
@@ -9196,7 +9196,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/horka-u-stare-paky.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_0158.jpg"
         }
       ],
       "instructions": null,

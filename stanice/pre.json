@@ -5920,7 +5920,7 @@
   },
   "CZ1003270": {
     "name": "Ladestation TS 3115 Ledvinova",
-    "sha1": "515045ec01403ae2da618b4020dab50649633ca4",
+    "sha1": "3744f263a6f0c63bedaa12bf8cc2e7775c85c03a",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3115",
       "chargingFacilities": {
@@ -5933,7 +5933,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1003270",
       "csName": "Ladestation TS 3115 Ledvinova",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station TS 3115",
       "enCsname": "Charger TS 3115 Ledvinova",
@@ -5944,6 +5944,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_3115_ledvinova_1.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
@@ -6304,7 +6311,7 @@
   },
   "CZ1003304": {
     "name": "Ladestation Krkonošská",
-    "sha1": "922983c63533643bb954586306898c2967339ad3",
+    "sha1": "43b34f41e621be72df7c8eb55bf4e290c3f7c0e9",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -6326,6 +6333,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_krkonosska.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
@@ -6337,6 +6351,236 @@
       "postalCode": "13000",
       "region": "Hlavní město Praha",
       "street": "Krkonošská 1471/17"
+    }
+  },
+  "CZ1003309": {
+    "name": "Ladestation TS 3840 Dědinská",
+    "sha1": "202380e94feb010ed806aebffa07aa7900711461",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 3840",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003309",
+      "csName": "Ladestation TS 3840 Dědinská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 3840",
+      "enCsname": "Charger TS 3840 Dědinská",
+      "evseId": "CZ*PRE*E1S8026*1",
+      "geoCoord": {
+        "latitude": "50.090921",
+        "longitude": "14.301223"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_3840_dedinska.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16100",
+      "region": "Hlavní město Praha",
+      "street": "Dědinská"
+    }
+  },
+  "CZ1003310": {
+    "name": "Ladestation TS 2142 Půchovská",
+    "sha1": "5f049892eeaf60e364373a46760e9134574bfa02",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 2142",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003310",
+      "csName": "Ladestation TS 2142 Půchovská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 2142",
+      "enCsname": "Charger TS 2142 Půchovská",
+      "evseId": "CZ*PRE*E1S8109*2",
+      "geoCoord": {
+        "latitude": "50.048297",
+        "longitude": "14.478314"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_2142_puchovska.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14100",
+      "region": "Hlavní město Praha",
+      "street": "Půchovská"
+    }
+  },
+  "CZ1003311": {
+    "name": "Ladestation TS 2134 Bělčická",
+    "sha1": "c395f47e3f2ef340df1e62e433a0ec21c5d729e5",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 2134",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003311",
+      "csName": "Ladestation TS 2134 Bělčická",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 2134",
+      "enCsname": "Charger TS 2134 Bělčická",
+      "evseId": "CZ*PRE*E1S8110*2",
+      "geoCoord": {
+        "latitude": "50.047293",
+        "longitude": "14.491804"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_2134_belcicka.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14100",
+      "region": "Hlavní město Praha",
+      "street": "Bělčická"
+    }
+  },
+  "CZ1003312": {
+    "name": "Ladestation TS 3176 Zárubova",
+    "sha1": "af7f6d5946ed35039f22d34041c35a3a99f53d19",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 3176",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003312",
+      "csName": "Ladestation TS 3176 Zárubova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 3176",
+      "enCsname": "Charger TS 3176 Zárubova",
+      "evseId": "CZ*PRE*E1S8114*2",
+      "geoCoord": {
+        "latitude": "50.014520",
+        "longitude": "14.436658"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_3176_zarubova.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "Praha",
+      "region": "Hlavní město Praha",
+      "street": "Zárubova"
+    }
+  },
+  "CZ1003313": {
+    "name": "Ladestation TS 2131 Hrusická",
+    "sha1": "0eabba9a78067b232a9e8a193ef251fb8569a20f",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 2131",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003313",
+      "csName": "Ladestation TS 2131 Hrusická",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 2131",
+      "enCsname": "Charger TS 2131 Hrusická",
+      "evseId": "CZ*PRE*E1S8124*1",
+      "geoCoord": {
+        "latitude": "50.048520",
+        "longitude": "14.485170"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_2131_hrusicka.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14100",
+      "region": "Hlavní město Praha",
+      "street": "Hrusická"
     }
   },
   "CZ2002608": {
@@ -6957,7 +7201,7 @@
   },
   "CZ2002899": {
     "name": "Schnellladestation Tuchlovice",
-    "sha1": "8cf38d5b5c93b13531841eccff1c1565f23bf9e2",
+    "sha1": "a4c98aa8c1d4013c800032ff9afc1f8546145d64",
     "station": {
       "additionalInfo": "Hinter der EuroOil Tankstelle",
       "chargingFacilities": {
@@ -6965,7 +7209,7 @@
           "DC Charging ≤50kW"
         ]
       },
-      "city": "Tuchoměřice",
+      "city": "Tuchlovice",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ2002899",
