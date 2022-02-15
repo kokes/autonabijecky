@@ -11132,7 +11132,7 @@
   },
   "35477": {
     "name": "(P) Marina Lipno",
-    "sha1": "d1d17c9841311368a2d8618ebed69b4958224427",
+    "sha1": "d004c31be94217b5ee1a423d70f138b8600eae14",
     "station": {
       "address": "Lipno nad Vltavou 310",
       "city": "Lipno nad Vltavou",
@@ -11157,7 +11157,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2021-08-24T13:50:02.49Z",
+              "last_updated": "2022-02-14T10:45:42.477Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -11165,7 +11165,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "105",
-                "106"
+                "106",
+                "151",
+                "152"
               ]
             }
           ],
@@ -11190,7 +11192,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2021-08-24T13:50:02.49Z",
+              "last_updated": "2022-02-14T10:45:42.477Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -11198,7 +11200,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "105",
-                "106"
+                "106",
+                "151",
+                "152"
               ]
             }
           ],
