@@ -1824,7 +1824,7 @@
   },
   "15025": {
     "name": "E.ON Vystrkov",
-    "sha1": "e832d6ab1457dcb298df47216f3e7eb170761e2a",
+    "sha1": "20d9a5ede836aabe3f9407f28d16e1ab37f984b1",
     "station": {
       "address": "Čerpací stanice Benzina na E551",
       "city": "Vystrkov",
@@ -2310,19 +2310,19 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-01-31T13:20:30.13Z",
+              "last_updated": "2022-02-16T23:00:54.953Z",
               "max_amperage": 200,
-              "max_electric_power": 175000,
+              "max_electric_power": 100000,
               "max_voltage": 920,
               "power_type": "DC",
               "standard": "CHADEMO",
               "tariff_ids": [
-                "3",
-                "6",
-                "61",
-                "64",
-                "143",
-                "144"
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
               ]
             }
           ],
@@ -9341,7 +9341,7 @@
   },
   "33214": {
     "name": "E.ON ČS MOL Vyškov",
-    "sha1": "3e481320a3c42b034eaf4c7cec09a6f18f5f44c3",
+    "sha1": "45432262e4515578f1d85f045665c49cec5443cb",
     "station": {
       "address": "Kroměřížská 709",
       "city": "Vyškov",
@@ -9476,19 +9476,19 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-01-31T13:20:30.13Z",
+              "last_updated": "2022-02-16T23:00:54.953Z",
               "max_amperage": 200,
-              "max_electric_power": 175000,
+              "max_electric_power": 100000,
               "max_voltage": 920,
               "power_type": "DC",
               "standard": "CHADEMO",
               "tariff_ids": [
-                "3",
-                "6",
-                "61",
-                "64",
-                "143",
-                "144"
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
               ]
             }
           ],
@@ -10212,7 +10212,7 @@
   },
   "33233": {
     "name": "E.ON ČS MOL Rozvadov",
-    "sha1": "9d2a5c3ab0d3c033fab9a29ccfc0c7bed9d00fbd",
+    "sha1": "8ee0b1532fc310626e13a5843818969b37fc8fe6",
     "station": {
       "address": "Svatá Kateřina 109",
       "city": "Rozvadov",
@@ -10347,19 +10347,19 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-01-31T13:20:30.13Z",
+              "last_updated": "2022-02-16T23:00:54.953Z",
               "max_amperage": 200,
-              "max_electric_power": 175000,
+              "max_electric_power": 100000,
               "max_voltage": 920,
               "power_type": "DC",
               "standard": "CHADEMO",
               "tariff_ids": [
-                "3",
-                "6",
-                "61",
-                "64",
-                "143",
-                "144"
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
               ]
             }
           ],
@@ -14813,8 +14813,8 @@
     }
   },
   "42076": {
-    "name": "E.ON Sulejovice UFC",
-    "sha1": "a83c5610939712ca9aed0c9b5b85350a249fbd06",
+    "name": "E.ON Lovosice 175 kW UFC",
+    "sha1": "29946339b943bce32edb54d0cf87200b9c6bd89d",
     "station": {
       "address": "Siřejovická",
       "city": "Lovosice",
@@ -14857,12 +14857,49 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-01-31T13:20:30.13Z",
+              "last_updated": "2022-02-16T12:26:16.827Z",
               "max_amperage": 200,
-              "max_electric_power": 175000,
+              "max_electric_power": 100000,
               "max_voltage": 920,
               "power_type": "DC",
               "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.5046",
+            "longitude": "14.051669"
+          },
+          "evse_id": "CZ*EON*E11042076*1",
+          "last_seen_as_planned": "2022-02-16T12:40:09.32Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "42076"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2022-02-16T12:19:20.377Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
                 "3",
                 "6",
@@ -14877,11 +14914,196 @@
             "latitude": "50.5046",
             "longitude": "14.051669"
           },
-          "evse_id": "CZ*EON*E11042076*1",
-          "last_seen_as_planned": "2022-01-31T13:20:30.13Z",
+          "evse_id": "CZ*EON*E32051546*1",
+          "last_seen_as_planned": "2022-02-16T12:40:09.32Z",
           "last_updated": "RESET",
           "status": "RESET",
-          "uid": "42076"
+          "uid": "51546"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2022-02-16T12:19:20.377Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.5046",
+            "longitude": "14.051669"
+          },
+          "evse_id": "CZ*EON*E32051546*2",
+          "last_seen_as_planned": "2022-02-16T12:40:09.32Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51547"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2022-02-16T12:19:20.377Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.5046",
+            "longitude": "14.051669"
+          },
+          "evse_id": "CZ*EON*E32051546*3",
+          "last_seen_as_planned": "2022-02-16T12:40:09.32Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51548"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2022-02-16T12:19:20.377Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.5046",
+            "longitude": "14.051669"
+          },
+          "evse_id": "CZ*EON*E32051549*1",
+          "last_seen_as_planned": "2022-02-16T12:40:09.32Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51549"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2022-02-16T12:19:20.377Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.5046",
+            "longitude": "14.051669"
+          },
+          "evse_id": "CZ*EON*E32051549*2",
+          "last_seen_as_planned": "2022-02-16T12:40:09.32Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51550"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2022-02-16T12:19:20.377Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.5046",
+            "longitude": "14.051669"
+          },
+          "evse_id": "CZ*EON*E32051549*3",
+          "last_seen_as_planned": "2022-02-16T12:40:09.32Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51551"
         }
       ],
       "facilities": [
@@ -14890,7 +15112,7 @@
       ],
       "id": "42076",
       "last_updated": "RESET",
-      "name": "E.ON Sulejovice UFC",
+      "name": "E.ON Lovosice 175 kW UFC",
       "opening_times": {
         "twentyfourseven": true
       },
