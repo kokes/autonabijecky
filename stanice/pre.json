@@ -6003,7 +6003,7 @@
   },
   "CZ1003272": {
     "name": "Ladestation TS 3022 Ocelíkova",
-    "sha1": "d836cfaaa3665a58ec0d52c4b3fda932eb64d49f",
+    "sha1": "af9d92fb24591cee773d0c75ae2e16680581e20a",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3022",
       "chargingFacilities": {
@@ -6016,7 +6016,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1003272",
       "csName": "Ladestation TS 3022 Ocelíkova",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station TS 3022",
       "enCsname": "Charger TS 3022 Ocelíkova",
@@ -6027,6 +6027,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ocelikova.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
@@ -6042,7 +6049,7 @@
   },
   "CZ1003273": {
     "name": "Ladestation TS 3094 Šalounova",
-    "sha1": "0aea1d9cbda4f32548b932e394c4210f37a0b196",
+    "sha1": "e6e6687df90ea4051c09f56a0003180361925f59",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3094",
       "chargingFacilities": {
@@ -6055,7 +6062,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1003273",
       "csName": "Ladestation TS 3094 Šalounova",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station TS 3094",
       "enCsname": "Charger TS 3094 Šalounova",
@@ -6581,6 +6588,275 @@
       "postalCode": "14100",
       "region": "Hlavní město Praha",
       "street": "Hrusická"
+    }
+  },
+  "CZ1003334": {
+    "name": "Ladestation TS 4647 Na Moklině",
+    "sha1": "d4ae167f2b0657f3ed97d1e3b007abd86f95d30b",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 4647",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003334",
+      "csName": "Ladestation TS 4647 Na Moklině",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 4647",
+      "enCsname": "Charger TS 4647 Na Moklině",
+      "evseId": "CZ*PRE*E1S8107*1",
+      "geoCoord": {
+        "latitude": "50.066523",
+        "longitude": "14.302187"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_4647_na_mokline.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16300",
+      "region": "Hlavní město Praha",
+      "street": "Na Moklině"
+    }
+  },
+  "CZ1003335": {
+    "name": "Ladestation TS 4654 Makovského",
+    "sha1": "773cf035045f7cc204bca16ed39556383f9752d7",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 4654",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003335",
+      "csName": "Ladestation TS 4654 Makovského",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 4654",
+      "enCsname": "Charger TS 4654 Makovského",
+      "evseId": "CZ*PRE*E1S8108*1",
+      "geoCoord": {
+        "latitude": "50.066523",
+        "longitude": "14.302187"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16300",
+      "region": "Hlavní město Praha",
+      "street": "Makovského"
+    }
+  },
+  "CZ1003336": {
+    "name": "Ladestation TS 467 U Kolejí",
+    "sha1": "228948050e8b4546a91472c736ee344953d578c0",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 467",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003336",
+      "csName": "Ladestation TS 467 U Kolejí",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number  TS 467",
+      "enCsname": "Charger TS 467 U Kolejí",
+      "evseId": "CZ*PRE*E1S8112*1",
+      "geoCoord": {
+        "latitude": "50.090210",
+        "longitude": "14.325960"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_467_u_koleji.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16100",
+      "region": "Hlavní město Praha",
+      "street": "U Kolejí"
+    }
+  },
+  "CZ1003337": {
+    "name": "Ladestation TS 5306 José Martího",
+    "sha1": "bc687de510aac77a5fa2f5491eeb7e7e09ffc02f",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 5306",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003337",
+      "csName": "Ladestation TS 5306 José Martího",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "By the transformation station TS 5306",
+      "enCsname": "Charger TS 5306 José Martího",
+      "evseId": "CZ*PRE*E1S8025*1",
+      "geoCoord": {
+        "latitude": "50.093510",
+        "longitude": "14.339770"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_5306_jose_martiho.png"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16200",
+      "region": "Hlavní město Praha",
+      "street": "José Martího 378/10"
+    }
+  },
+  "CZ1003338": {
+    "name": "Ladestation TS 4658 Nedašovská",
+    "sha1": "c13fef3bad649d7291bfe17d7269011c17fa11d0",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 4658",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003338",
+      "csName": "Ladestation TS 4658 Nedašovská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 4658",
+      "enCsname": "Charger TS 4658 Nedašovská",
+      "evseId": "CZ*PRE*E1S8132*1",
+      "geoCoord": {
+        "latitude": "50.059140",
+        "longitude": "14.292920"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_4658_nedasovska.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15521",
+      "region": "Hlavní město Praha",
+      "street": "Nedašovská"
+    }
+  },
+  "CZ1003339": {
+    "name": "Ladestation TS 2135 Svojšovická",
+    "sha1": "aa319da3348d728e77eeb078614dcfcdda36871b",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 2135",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003339",
+      "csName": "Ladestation TS 2135 Svojšovická",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 2135",
+      "enCsname": "Charger TS 2135 Svojšovická",
+      "evseId": "CZ*PRE*E1S8126*1",
+      "geoCoord": {
+        "latitude": "50.046133",
+        "longitude": "14.488024"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_2135_svojsovicka.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14000",
+      "region": "Hlavní město Praha",
+      "street": "Svojšovická"
     }
   },
   "CZ2002608": {
