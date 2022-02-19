@@ -1824,7 +1824,7 @@
   },
   "15025": {
     "name": "E.ON Vystrkov",
-    "sha1": "20d9a5ede836aabe3f9407f28d16e1ab37f984b1",
+    "sha1": "6879b95c5ecb86a27968c2c0bfdb2e01372fd34b",
     "station": {
       "address": "Čerpací stanice Benzina na E551",
       "city": "Vystrkov",
@@ -2310,19 +2310,19 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-02-16T23:00:54.953Z",
+              "last_updated": "2022-02-18T23:00:53.33Z",
               "max_amperage": 200,
-              "max_electric_power": 100000,
+              "max_electric_power": 175000,
               "max_voltage": 920,
               "power_type": "DC",
               "standard": "CHADEMO",
               "tariff_ids": [
-                "2",
-                "5",
-                "60",
-                "63",
-                "141",
-                "142"
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144"
               ]
             }
           ],
@@ -9341,7 +9341,7 @@
   },
   "33214": {
     "name": "E.ON ČS MOL Vyškov",
-    "sha1": "45432262e4515578f1d85f045665c49cec5443cb",
+    "sha1": "d09258a3be312d4a357521a040393efd77f35913",
     "station": {
       "address": "Kroměřížská 709",
       "city": "Vyškov",
@@ -9476,19 +9476,19 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-02-16T23:00:54.953Z",
+              "last_updated": "2022-02-18T23:00:53.33Z",
               "max_amperage": 200,
-              "max_electric_power": 100000,
+              "max_electric_power": 175000,
               "max_voltage": 920,
               "power_type": "DC",
               "standard": "CHADEMO",
               "tariff_ids": [
-                "2",
-                "5",
-                "60",
-                "63",
-                "141",
-                "142"
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144"
               ]
             }
           ],
@@ -10212,7 +10212,7 @@
   },
   "33233": {
     "name": "E.ON ČS MOL Rozvadov",
-    "sha1": "8ee0b1532fc310626e13a5843818969b37fc8fe6",
+    "sha1": "65e7de45196910f6b6432bb0fb42bd96bccc5a1f",
     "station": {
       "address": "Svatá Kateřina 109",
       "city": "Rozvadov",
@@ -10347,19 +10347,19 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-02-16T23:00:54.953Z",
+              "last_updated": "2022-02-18T23:00:53.33Z",
               "max_amperage": 200,
-              "max_electric_power": 100000,
+              "max_electric_power": 175000,
               "max_voltage": 920,
               "power_type": "DC",
               "standard": "CHADEMO",
               "tariff_ids": [
-                "2",
-                "5",
-                "60",
-                "63",
-                "141",
-                "142"
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144"
               ]
             }
           ],

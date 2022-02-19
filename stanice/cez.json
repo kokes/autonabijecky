@@ -6946,19 +6946,19 @@
   },
   "151631": {
     "name": "N145 - Praha - Štěrboholy",
-    "sha1": "eef348af06ec497f288766652688f8ef411190da",
+    "sha1": "b95d4ac361e85c9e7bdc0f797955ad8f486d238e",
     "station": {
       "address": {
         "city": "Praha - Štěrboholy",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "",
+        "houseNumber": "K Hrušovu",
         "latitude": 50.0674758,
         "longitude": 14.5434882,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "",
+        "street": "parkoviště",
         "url": ""
       },
       "customID": "151631",
@@ -7000,7 +7000,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/48501302.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/7e1b198e-ee6b-4984-acee-908903f6b17b.jpeg"
         }
       ],
       "instructions": null,
@@ -11451,6 +11451,79 @@
       "visible": true
     }
   },
+  "155386": {
+    "name": "R407 - Frýdlant nad Ostravicí",
+    "sha1": "3982f0bb030e92cd2be3293470405e578319fd1e",
+    "station": {
+      "address": {
+        "city": "Frýdlant nad Ostravicí",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Poštovní, parkoviště u dopravního terminálu",
+        "latitude": 49.58803,
+        "longitude": 18.35658,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "ul.",
+        "url": ""
+      },
+      "customID": "155386",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-016",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R407"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-016",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-016",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R407"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_1588.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R407 - Frýdlant nad Ostravicí",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
@@ -12504,7 +12577,7 @@
   },
   "59439": {
     "name": "N141 - Dukovany - JE Dukovany - Infocentrum",
-    "sha1": "f82c7a8d8f931dd4ca1f284ca9b41c320ef551dc",
+    "sha1": "86e2b2ddead2845827cb6972a1309724dd0d8da0",
     "station": {
       "address": {
         "city": "Dukovany",
@@ -12558,7 +12631,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/dukovany.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/59132737-6e29-4ad1-b8d8-75aaaf990d7c.jpeg"
         }
       ],
       "instructions": null,
