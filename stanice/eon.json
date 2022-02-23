@@ -14814,7 +14814,7 @@
   },
   "42076": {
     "name": "E.ON Lovosice 175 kW UFC",
-    "sha1": "29946339b943bce32edb54d0cf87200b9c6bd89d",
+    "sha1": "e3af45a17524264d7aeb847c79222830ebb2a814",
     "station": {
       "address": "Siřejovická",
       "city": "Lovosice",
@@ -14857,19 +14857,19 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-02-16T12:26:16.827Z",
+              "last_updated": "2022-02-22T23:01:04.727Z",
               "max_amperage": 200,
-              "max_electric_power": 100000,
+              "max_electric_power": 175000,
               "max_voltage": 920,
               "power_type": "DC",
               "standard": "CHADEMO",
               "tariff_ids": [
-                "2",
-                "5",
-                "60",
-                "63",
-                "141",
-                "142"
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144"
               ]
             }
           ],

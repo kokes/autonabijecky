@@ -1169,7 +1169,7 @@
   },
   "122065": {
     "name": "R298 - Pardubice - ENESA",
-    "sha1": "098e07fc7b1e8dabe0a008642f8db671ff612189",
+    "sha1": "810180f44f959b8519dd8756bc196749ddac4809",
     "station": {
       "address": {
         "city": "Pardubice",
@@ -1204,7 +1204,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R298"
         },
         {
           "connectors": [
@@ -1227,7 +1227,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": ""
+          "physicalReference": "R298"
         }
       ],
       "images": [
@@ -9621,152 +9621,6 @@
       ],
       "instructions": null,
       "name": "R389 - Přelouč - Benzina",
-      "visible": true
-    }
-  },
-  "153617": {
-    "name": "Praha - Kbelská - McDonald´s - 3",
-    "sha1": "29e56a103c03f2b81b42d763a42c78c9fd1d9752",
-    "station": {
-      "address": {
-        "city": "Praha",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "919/31",
-        "latitude": 50.12243,
-        "longitude": 14.51223,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Kbelská",
-        "url": ""
-      },
-      "customID": "153617",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": ""
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": ""
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/mcdonalds-kbelska-20211220-114310.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "Praha - Kbelská - McDonald´s - 3",
-      "visible": true
-    }
-  },
-  "153618": {
-    "name": "Praha - Kbelská - McDonald´s - 4",
-    "sha1": "4f15b1a70fa5f2842b25211d065d5462254e368b",
-    "station": {
-      "address": {
-        "city": "Praha",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "919/31",
-        "latitude": 50.12243,
-        "longitude": 14.51221,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Kbelská",
-        "url": ""
-      },
-      "customID": "153618",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": ""
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": ""
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/mcdonalds-kbelska-20211220-114516.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "Praha - Kbelská - McDonald´s - 4",
       "visible": true
     }
   },
