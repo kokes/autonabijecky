@@ -8709,7 +8709,7 @@
   },
   "152971": {
     "name": "R352 - Brno - Slatina - Kaufland - 1",
-    "sha1": "ef75a75ad667e1da1222ec72fd70435936efb41c",
+    "sha1": "9560be1417a1e53dff3ddee0460cf0fa829d6f12",
     "station": {
       "address": {
         "city": "Brno - Slatina",
@@ -8772,7 +8772,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114922.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114838.jpg"
         }
       ],
       "instructions": null,
@@ -8782,7 +8782,7 @@
   },
   "152985": {
     "name": "R353 - Brno - Slatina - Kaufland - 2",
-    "sha1": "04d0b3d8bc51017ba10fbf99fb9795d6258ef46a",
+    "sha1": "13b112ba4555fa16599a562da838de41bf2dfdce",
     "station": {
       "address": {
         "city": "Brno-Slatina",
@@ -8845,11 +8845,129 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114922.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114838.jpg"
         }
       ],
       "instructions": null,
       "name": "R353 - Brno - Slatina - Kaufland - 2",
+      "visible": true
+    }
+  },
+  "153360": {
+    "name": "UR105 - Praha - Průhonice – PUMPA - 3",
+    "sha1": "2df36602a2a880c72cfa268fef8387356645d099",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.0052414,
+        "longitude": 14.56326,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153360",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T184-IT1-3421-083",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T184-IT1-3421-083",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR105"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR105 - Praha - Průhonice – PUMPA - 3",
+      "visible": true
+    }
+  },
+  "153361": {
+    "name": "UR106 - Praha - Průhonice – PUMPA - 4",
+    "sha1": "ef157b643266040964d8ac822c893ba48dcf3920",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.0052414,
+        "longitude": 14.56322,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153361",
+      "description": [
+        {
+          "language": "cs",
+          "text": "ABB Terra 184"
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T184-IT1-3421-097",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T184-IT1-3421-097",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR106"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114801.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR106 - Praha - Průhonice – PUMPA - 4",
       "visible": true
     }
   },
@@ -8999,6 +9117,65 @@
       "visible": true
     }
   },
+  "153367": {
+    "name": "UR103 - Praha - Průhonice – PUMPA - 1",
+    "sha1": "b363cabf2a028781d4722d262d96ee48f2420a00",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.0052414,
+        "longitude": 14.563345,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153367",
+      "description": [
+        {
+          "language": "cs",
+          "text": "ABB Terra 184"
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T184-IT1-3521-228",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T184-IT1-3521-228",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR103"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8998-20220202-114838.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR103 - Praha - Průhonice – PUMPA - 1",
+      "visible": true
+    }
+  },
   "153368": {
     "name": "UR104 - Praha - Průhonice – PUMPA - 2",
     "sha1": "1acc38963078b0d35e517c123aa4dc101ebcadf7",
@@ -9128,6 +9305,225 @@
       ],
       "instructions": null,
       "name": "R379 - Praha - Průhonice – PUMPA - 1",
+      "visible": true
+    }
+  },
+  "153371": {
+    "name": "R382 - Praha - Průhonice - PUMPA - 4",
+    "sha1": "1f03d74c453aa2215df74064c84e07a23eac8e11",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.00482,
+        "longitude": 14.56338,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153371",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3121-002",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R382"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3121-002",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3121-002",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R382"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_9014-2022-01-07-15_24_35-20220202-125524.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R382 - Praha - Průhonice - PUMPA - 4",
+      "visible": true
+    }
+  },
+  "153372": {
+    "name": "R383 - Praha - Průhonice - PUMPA - 5",
+    "sha1": "58deb38ce57bbc25edba21790128ae0cd1336ea2",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.00482,
+        "longitude": 14.56342,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153372",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3121-010",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R383"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3121-010",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3121-010",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R383"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_9014-2022-01-07-15_24_35-20220202-125549.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R383 - Praha - Průhonice - PUMPA - 5",
+      "visible": true
+    }
+  },
+  "153373": {
+    "name": "R384 - Praha - Průhonice - PUMPA - 6",
+    "sha1": "4ab12569a5e97904509f5f150aebdec6276259c7",
+    "station": {
+      "address": {
+        "city": "Průhonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Dálnicí 570",
+        "latitude": 50.00482,
+        "longitude": 14.56346,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Za",
+        "url": ""
+      },
+      "customID": "153373",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3321-003",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R384"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-003",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-003",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R384"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_9014-2022-01-07-15_24_35.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R384 - Praha - Průhonice - PUMPA - 6",
       "visible": true
     }
   },
@@ -10287,79 +10683,6 @@
       ],
       "instructions": null,
       "name": "N176 - Dolní Břežany - Parkovací dům - 2",
-      "visible": true
-    }
-  },
-  "154307": {
-    "name": "R400 - Prostějov - Kubus",
-    "sha1": "b3141030f969364e39fd8400d700118a2b99e86e",
-    "station": {
-      "address": {
-        "city": "Prostějov",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "4167/18",
-        "latitude": 49.4732956,
-        "longitude": 17.1047545,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Plumlovská",
-        "url": ""
-      },
-      "customID": "154307",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R400"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R400"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_0059.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R400 - Prostějov - Kubus",
       "visible": true
     }
   },
