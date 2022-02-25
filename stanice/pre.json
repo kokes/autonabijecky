@@ -5544,8 +5544,8 @@
     }
   },
   "CZ1003197": {
-    "name": "Ladestation Restaurace Rozmarýna",
-    "sha1": "e77d88441950caee043b59aa99847d70aebc9caf",
+    "name": "Schnellladestation Restaurace Rosmarina",
+    "sha1": "2c71f6067c0ab0d88ef35606ff0eeb06e9272e1b",
     "station": {
       "additionalInfo": "Parkplatz neben dem Restaurant Rozmarýna",
       "chargingFacilities": {
@@ -5557,11 +5557,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003197",
-      "csName": "Ladestation Restaurace Rozmarýna",
+      "csName": "Schnellladestation Restaurace Rosmarina",
       "csStatus": "operable",
-      "csType": "charger",
+      "csType": "fast_charger",
       "enAdditionalInfo": "Parking lot next to the Restaurant Rozmarýna",
-      "enCsname": "Charger Restaurace Rozmarýna",
+      "enCsname": "Fast charger Restaurace Rosmarina",
       "evseId": "CZ*PRE*E1R0034*3",
       "geoCoord": {
         "latitude": "50.013375",
