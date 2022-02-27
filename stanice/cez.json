@@ -15200,8 +15200,8 @@
     }
   },
   "59479": {
-    "name": "N015 - Bílina - Elektrárna Ledvice",
-    "sha1": "dcae8128a5332dcce84941f08a8f762e33f8e7bd",
+    "name": "N180 - Bílina - Elektrárna Ledvice",
+    "sha1": "9aee537ad7f35178db98f0d45982d7a408c889a1",
     "station": {
       "address": {
         "city": "Bílina",
@@ -15236,7 +15236,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N015"
+          "physicalReference": "N180"
         },
         {
           "connectors": [
@@ -15250,22 +15250,22 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N015"
+          "physicalReference": "N180"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/default-pomala.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/d1-humpolec.jpg"
         }
       ],
       "instructions": null,
-      "name": "N015 - Bílina - Elektrárna Ledvice",
+      "name": "N180 - Bílina - Elektrárna Ledvice",
       "visible": true
     }
   },
   "59481": {
     "name": "N138 - Praha - OC Nový Smíchov - 1",
-    "sha1": "97395320ef5600268e426a3842e3acdbfd1f9a62",
+    "sha1": "5f242762c2a46cee1da75e11e3ec86bfdd1850bc",
     "station": {
       "address": {
         "city": "Praha 5",
@@ -15319,7 +15319,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/default-pomala.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/d1-humpolec.jpg"
         }
       ],
       "instructions": null,
@@ -17268,8 +17268,8 @@
     }
   },
   "59512": {
-    "name": "N029 - Prunéřov - Elektrárna Prunéřov",
-    "sha1": "271ed21410131da325b377f670201159da3c8373",
+    "name": "N179 - Prunéřov - Elektrárna Prunéřov",
+    "sha1": "8a370f2a5ff573444c7af50215d0981847095d77",
     "station": {
       "address": {
         "city": "Kadaň",
@@ -17304,7 +17304,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N029"
+          "physicalReference": "N179"
         },
         {
           "connectors": [
@@ -17318,7 +17318,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N029"
+          "physicalReference": "N179"
         }
       ],
       "images": [
@@ -17327,7 +17327,7 @@
         }
       ],
       "instructions": null,
-      "name": "N029 - Prunéřov - Elektrárna Prunéřov",
+      "name": "N179 - Prunéřov - Elektrárna Prunéřov",
       "visible": true
     }
   },
