@@ -1306,6 +1306,132 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "112133": {
+    "name": "(P) Clarion Grandhotel Zlatý Lev",
+    "sha1": "07beb2ee79067f6f6dcf3352480eb4f566e323dc",
+    "station": {
+      "address": "Gutenbergova 126",
+      "city": "Liberec",
+      "coordinates": {
+        "latitude": "50.768672",
+        "longitude": "15.061327"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-03-01T16:05:20.707Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "35",
+                "36"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.768672",
+            "longitude": "15.061327"
+          },
+          "evse_id": "CZ*EON*E112133",
+          "last_seen_as_planned": "2022-03-01T16:05:20.707Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "112133"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-03-01T16:05:20.707Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "35",
+                "36"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.768672",
+            "longitude": "15.061327"
+          },
+          "evse_id": "CZ*EON*E112134",
+          "last_seen_as_planned": "2022-03-01T16:05:20.707Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "112134"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "MALL"
+      ],
+      "id": "112133",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/100094/6493381644930108.jpg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/100094/7327711644930141.jpg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/100094/8366261646151079.jpg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) Clarion Grandhotel Zlatý Lev",
+      "operator": {
+        "name": "CPI Hotels, a.s."
+      },
+      "owner": {
+        "name": "CPI Hotels, a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "460 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "14028": {
     "name": "E.ON Český Krumlov autobusové nádraží",
     "sha1": "1402744fde2e7837e67c2ea6b4f5c21f01aab193",
@@ -1668,7 +1794,7 @@
   },
   "14122": {
     "name": "E.ON kavárna Lanna - zrušená",
-    "sha1": "5ac92b75e731ca9e3cba658b10ed5cb25fa84ed2",
+    "sha1": "178dbf70bd681d8cd70b19b3c72112fe8d800f78",
     "station": {
       "address": "Jiráskovo nábř. 45e",
       "city": "České Budějovice",
@@ -1714,6 +1840,7 @@
             "longitude": "14.466984"
           },
           "evse_id": "CZ*EON*E31109635*1",
+          "floor_level": "0",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -1751,6 +1878,7 @@
             "longitude": "14.466984"
           },
           "evse_id": "CZ*EON*E31014122*1",
+          "floor_level": "0",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -1788,6 +1916,7 @@
             "longitude": "14.466984"
           },
           "evse_id": "CZ*EON*E31014122*2",
+          "floor_level": "0",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
