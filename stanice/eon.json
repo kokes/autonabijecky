@@ -11387,7 +11387,7 @@
   },
   "35757": {
     "name": "(P) Autocentrum DAVO CAR Olbramovice",
-    "sha1": "26f1d078ca7ceb821202ac227c0b88da32802868",
+    "sha1": "d5121eaaa52cc42233296b132080702374cd9251",
     "station": {
       "address": "Autocenturm DAVO CAR Olbramovice 203",
       "city": "Olbramovice",
@@ -11412,10 +11412,10 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2020-11-27T08:29:03.64Z",
+              "last_updated": "2022-03-08T12:10:32.217Z",
               "max_amperage": 200,
               "max_electric_power": 100000,
-              "max_voltage": 500,
+              "max_voltage": 920,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
@@ -11445,10 +11445,10 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2020-11-27T08:29:28.813Z",
+              "last_updated": "2022-03-08T12:11:00.28Z",
               "max_amperage": 200,
               "max_electric_power": 100000,
-              "max_voltage": 500,
+              "max_voltage": 920,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
@@ -11478,10 +11478,10 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2020-11-27T08:29:48.117Z",
+              "last_updated": "2022-03-08T12:11:28.953Z",
               "max_amperage": 200,
               "max_electric_power": 50000,
-              "max_voltage": 500,
+              "max_voltage": 920,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
@@ -11511,10 +11511,10 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2020-11-27T08:30:06.153Z",
+              "last_updated": "2022-03-08T12:11:58.037Z",
               "max_amperage": 200,
               "max_electric_power": 50000,
-              "max_voltage": 500,
+              "max_voltage": 920,
               "power_type": "DC",
               "standard": "CHADEMO",
               "tariff_ids": [
@@ -20183,7 +20183,7 @@
   },
   "53796": {
     "name": "E.ON Penny Roudnice nad Labem",
-    "sha1": "788525eef51602ab7abb25a2b959cda637f48725",
+    "sha1": "970d8a4017b83f09f11fbfe02989c2577de3325a",
     "station": {
       "address": "Hornická 2487",
       "city": "Roudnice nad Labem",
@@ -20247,7 +20247,7 @@
             "longitude": "14.2400564"
           },
           "evse_id": "CZ*EON*E98053796*1",
-          "last_seen_as_planned": "2022-01-31T13:15:22.027Z",
+          "last_seen_as_planned": "2021-03-31T10:56:38.857Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53796"
@@ -20284,7 +20284,7 @@
             "longitude": "14.2400564"
           },
           "evse_id": "CZ*EON*E98053796*2",
-          "last_seen_as_planned": "2022-01-31T13:08:59.697Z",
+          "last_seen_as_planned": "2021-03-29T09:59:32.6Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53797"
