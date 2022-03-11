@@ -6859,6 +6859,43 @@
       "street": "Svojšovická"
     }
   },
+  "CZ1003360": {
+    "name": "Schnellladestation Less Mess Storage",
+    "sha1": "2075364df9f1392154772cc29331490da8ad263a",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003360",
+      "csName": "Schnellladestation Less Mess Storage",
+      "csStatus": "under_construction",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger Less Mess Storage",
+      "evseId": "CZ*PRE*E1R0036*2",
+      "geoCoord": {
+        "latitude": "50.096212",
+        "longitude": "14.350222"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "16000",
+      "region": "Hlavní město Praha",
+      "street": "Evropská 696/113"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
@@ -8703,7 +8740,7 @@
   },
   "CZ4202803": {
     "name": "Schnellladestation Benzina Ústí nad Labem",
-    "sha1": "edd97028e8b3fc6d610862d8cce76853b661b52f",
+    "sha1": "34aa60cfc68c4a98f88e19f9a4b9a680ca295453",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "chargingFacilities": {
@@ -8722,11 +8759,18 @@
       "enCsname": "Fast charger Benzina Ústí nad Labem",
       "evseId": "CZ*PRE*E1R5016*2",
       "geoCoord": {
-        "latitude": "50.657083",
-        "longitude": "13.999830"
+        "latitude": "50.657052",
+        "longitude": "13.998682"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_benzina_usti_nad_labem.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
