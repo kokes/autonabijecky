@@ -26716,7 +26716,7 @@
   },
   "9158": {
     "name": "E.ON Penny Praha Lehovec",
-    "sha1": "8a1bc825e7266230eeb87c2891813ca1274e5f94",
+    "sha1": "4769dbcd0f676d0d83f8c596cb1be1671bf11808",
     "station": {
       "address": "Kolbenova 1094",
       "city": "Praha",
@@ -26762,7 +26762,7 @@
             "longitude": "14.546742"
           },
           "evse_id": "CZ*EON*E11009158*1",
-          "last_seen_as_planned": "2022-01-31T13:25:31.833Z",
+          "last_seen_as_planned": "2021-08-23T05:21:34.657Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "9158"
@@ -26817,7 +26817,7 @@
             "longitude": "14.546742"
           },
           "evse_id": "CZ*EON*E11009158*2",
-          "last_seen_as_planned": "2022-01-31T13:32:44.673Z",
+          "last_seen_as_planned": "2021-08-23T05:21:34.657Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "9159"
@@ -26827,13 +26827,6 @@
         "SUPERMARKET"
       ],
       "id": "9158",
-      "images": [
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/3954/5263651629204850.jpg"
-        }
-      ],
       "last_updated": "RESET",
       "name": "E.ON Penny Praha Lehovec",
       "opening_times": {

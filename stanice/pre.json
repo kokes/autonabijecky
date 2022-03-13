@@ -78,8 +78,8 @@
     }
   },
   "CZ1002595": {
-    "name": "Ladestation Hotel Anděls",
-    "sha1": "c01488288857cd7a0bbe864a777ad1d169299f61",
+    "name": "Ladestation Vienna House Andel’s Prague",
+    "sha1": "1968ae5c8a8dd9da1ba396bb14fa932caf96939a",
     "station": {
       "additionalInfo": "Von der Straße Radlická, -1 Ebene, Einfahrt mit dem PREpoint-Tag möglich. Kostenpflichtiges Parken (Preisliste des Hotels).",
       "chargingFacilities": {
@@ -91,15 +91,15 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1002595",
-      "csName": "Ladestation Hotel Anděls",
+      "csName": "Ladestation Vienna House Andel’s Prague",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "From the street Radlická, -1 level, entrance possible with the PREpoint tag. Paid parking (pricelist of the hotel).",
-      "enCsname": "Charger Hotel Anděls",
+      "enCsname": "Charger Vienna House Andel’s Prague",
       "evseId": "CZ*PRE*E1S0048*1",
       "geoCoord": {
-        "latitude": "50.070750",
-        "longitude": "14.401444"
+        "latitude": "50.071162",
+        "longitude": "14.402629"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -6861,7 +6861,7 @@
   },
   "CZ1003360": {
     "name": "Schnellladestation Less Mess Storage",
-    "sha1": "2075364df9f1392154772cc29331490da8ad263a",
+    "sha1": "c7fc439003eb6b1d82a80def27fadcde4ea55d7e",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -6873,7 +6873,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1003360",
       "csName": "Schnellladestation Less Mess Storage",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
       "enCsname": "Fast charger Less Mess Storage",
       "evseId": "CZ*PRE*E1R0036*2",
@@ -10942,9 +10942,9 @@
   },
   "CZ8002804": {
     "name": "Schnellladestation OMV Bruntál",
-    "sha1": "a902f53455d7e2faea6c0b7ac909f8504736945c",
+    "sha1": "1b732ed78db39c30b0ec3a3f62d788c6fd23d351",
     "station": {
-      "additionalInfo": "Auf dem Parkplatz der Tankstelle",
+      "additionalInfo": "Station out of service due to the reconstruction of the gas station",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -10955,9 +10955,9 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ8002804",
       "csName": "Schnellladestation OMV Bruntál",
-      "csStatus": "operable",
+      "csStatus": "under_construction",
       "csType": "fast_charger",
-      "enAdditionalInfo": "At the parking lot of the gas station",
+      "enAdditionalInfo": "Station out of service due to the reconstruction of the gas station",
       "enCsname": "Fast charger OMV Bruntál",
       "evseId": "CZ*PRE*E1R5047*2",
       "geoCoord": {
