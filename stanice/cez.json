@@ -10624,7 +10624,7 @@
   },
   "154290": {
     "name": "N176 - Dolní Břežany - Parkovací dům - 2",
-    "sha1": "38b9e80678681b89a1252168b4d35cd736584197",
+    "sha1": "5f1e0a30a7789d34bc8f708587067a28a7bb8bd3",
     "station": {
       "address": {
         "city": "Dolní Břežany",
@@ -10678,7 +10678,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/img_1342.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/img_0671.jpg"
         }
       ],
       "instructions": null,
@@ -10898,7 +10898,7 @@
   },
   "154315": {
     "name": "N175 - Dolní Břežany - Parkovací dům - 1",
-    "sha1": "ced3271d78a09f4688116dcccc84d3fe5b6cc4bb",
+    "sha1": "01b11677ec6c58f5ac8fcd41fe0e62f8b4b165ba",
     "station": {
       "address": {
         "city": "Dolní Břežany",
@@ -10952,7 +10952,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_0276.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/img_0671.jpg"
         }
       ],
       "instructions": null,
@@ -11698,6 +11698,198 @@
       ],
       "instructions": null,
       "name": "R407 - Frýdlant nad Ostravicí",
+      "visible": true
+    }
+  },
+  "156422": {
+    "name": "N184 - Pec pod Sněžkou - dopravní terminál - 2",
+    "sha1": "19712b0851d64d8e0ecc47d75d1080742f561cac",
+    "station": {
+      "address": {
+        "city": "Pec pod Sněžkou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "pod Sněžkou - Velká Úpa, dopravní terminál",
+        "latitude": 50.6926339,
+        "longitude": 15.7480756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pec",
+        "url": ""
+      },
+      "customID": "156422",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "12203051860003",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N184"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "12203051860003",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N184"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/img_0671.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N184 - Pec pod Sněžkou - dopravní terminál - 2",
+      "visible": true
+    }
+  },
+  "156423": {
+    "name": "N185 - Pec pod Sněžkou - dopravní terminál - 3",
+    "sha1": "5f939b14b126c331668406b79b5e55e1a8fe10d9",
+    "station": {
+      "address": {
+        "city": "Pec pod Sněžkou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "pod Sněžkou - Velká Úpa, dopravní terminál",
+        "latitude": 50.6926339,
+        "longitude": 15.7480756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pec",
+        "url": ""
+      },
+      "customID": "156423",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "12203051860010",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N185"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "12203051860010",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N185"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/img_0671.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N185 - Pec pod Sněžkou - dopravní terminál - 3",
+      "visible": true
+    }
+  },
+  "156447": {
+    "name": "N183 - Pec pod Sněžkou - dopravní terminál - 1",
+    "sha1": "9961ffa23c2e8cf8f165c04b983656be1fcf6ce4",
+    "station": {
+      "address": {
+        "city": "Pec pod Sněžkou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "pod Sněžkou - Velká Úpa, dopravní terminál",
+        "latitude": 50.6926339,
+        "longitude": 15.7480756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pec",
+        "url": ""
+      },
+      "customID": "156447",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "12203051860004",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N183"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "12203051860004",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N183"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/img_0671.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N183 - Pec pod Sněžkou - dopravní terminál - 1",
       "visible": true
     }
   },

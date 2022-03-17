@@ -4968,9 +4968,9 @@
   },
   "22990": {
     "name": "E.ON Přerov",
-    "sha1": "52e8e89710c6a1c447fb68a17214f96a51f06b18",
+    "sha1": "fbc3929a1e803c976aaa95c10ec2a0eafd86f110",
     "station": {
-      "address": "PV pneuservis, Olomoucká 443/52",
+      "address": "PV pneuservis Olomoucká 443/52",
       "city": "Přerov",
       "coordinates": {
         "latitude": "49.469989",
@@ -14739,9 +14739,9 @@
   },
   "39642": {
     "name": "(P) Artin - Brno - parking",
-    "sha1": "b8218e5eb441962dc2ae6fcd535d0aade3645c1b",
+    "sha1": "e0deeb19dcd1528aa1fcc4fa7ec737b40bfa7338",
     "station": {
-      "address": "ARTIN, spol. s.r.o.",
+      "address": "ARTIN spol. s.r.o.",
       "city": "Brno - Medlánky",
       "coordinates": {
         "latitude": "49.236478",
@@ -17216,6 +17216,218 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "51421": {
+    "name": "E.ON Frenštát p.R. ČD",
+    "sha1": "ce1020e771e5f9c1ea9a3c70ff061dc0fedbd6e9",
+    "station": {
+      "address": "Nádražní",
+      "city": " Frenštát pod Radhoštěm",
+      "coordinates": {
+        "latitude": "49.54226107",
+        "longitude": "18.22376325"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2022-03-16T12:53:35.417Z",
+              "max_amperage": 63,
+              "max_electric_power": 43000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.54226107",
+            "longitude": "18.22376325"
+          },
+          "evse_id": "CZ*EON*E11051421*1",
+          "last_seen_as_planned": "2022-03-16T12:53:35.417Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51421"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2022-03-16T12:53:35.417Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2022-03-16T12:53:35.417Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.54226107",
+            "longitude": "18.22376325"
+          },
+          "evse_id": "CZ*EON*E11051421*2",
+          "last_seen_as_planned": "2022-03-16T12:53:35.417Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51422"
+        }
+      ],
+      "facilities": [
+        "BUS_STOP",
+        "TRAIN_STATION"
+      ],
+      "id": "51421",
+      "last_updated": "RESET",
+      "name": "E.ON Frenštát p.R. ČD",
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "744 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51423": {
+    "name": "E.ON Ostrava-Hlučín Benzina",
+    "sha1": "a6a9654b708eb60fe25a1c172b28b2f7a21f91c7",
+    "station": {
+      "address": "Hlučínská",
+      "city": " Moravská Ostrava a Přívoz",
+      "coordinates": {
+        "latitude": "49.85873039",
+        "longitude": "18.26917329"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.85873039",
+            "longitude": "18.26917329"
+          },
+          "evse_id": "CZ*EON*E11051423*1",
+          "last_seen_as_planned": "2022-03-16T13:51:30.33Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51423"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.85873039",
+            "longitude": "18.26917329"
+          },
+          "evse_id": "CZ*EON*E11051423*2",
+          "last_seen_as_planned": "2022-03-16T13:51:30.33Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51424"
+        }
+      ],
+      "facilities": [
+        "FUEL_STATION"
+      ],
+      "id": "51423",
+      "last_updated": "RESET",
+      "name": "E.ON Ostrava-Hlučín Benzina",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "702 00",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "51425": {
     "name": "E.ON Jihlava",
     "sha1": "02cca64fb9ca7b9a15fb89c3d7c14e5eec375d8c",
@@ -18900,7 +19112,7 @@
   },
   "51469": {
     "name": "E.ON Benzina Kolín",
-    "sha1": "8d804ceba3b57e92c60957c0edd6982ad42f29eb",
+    "sha1": "7460f19ae80e3530d1f9dd28d4edf7fe3cbdaaed",
     "station": {
       "address": "Ovčárecká 1459",
       "city": "Kolín",
@@ -18951,6 +19163,10 @@
           "uid": "51470"
         }
       ],
+      "facilities": [
+        "SUPERMARKET",
+        "FUEL_STATION"
+      ],
       "id": "51469",
       "last_updated": "RESET",
       "name": "E.ON Benzina Kolín",
@@ -18963,9 +19179,654 @@
       "owner": {
         "name": "E.ON Česká republika, s. r. o."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
+      "postal_code": "280 02",
       "publish": true,
       "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51473": {
+    "name": "E.ON Globus Pardubice",
+    "sha1": "2525202785fbf1ff12374f98849ec2d59343519d",
+    "station": {
+      "address": "Poděbradská",
+      "city": " Pardubice",
+      "coordinates": {
+        "latitude": "50.05724713",
+        "longitude": "15.75188791"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.05724713",
+            "longitude": "15.75188791"
+          },
+          "evse_id": "CZ*EON*E11051473*1",
+          "last_seen_as_planned": "2022-03-16T06:34:00.797Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51473"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.05724713",
+            "longitude": "15.75188791"
+          },
+          "evse_id": "CZ*EON*E11051473*2",
+          "last_seen_as_planned": "2022-03-16T06:34:00.797Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51474"
+        }
+      ],
+      "facilities": [
+        "MALL"
+      ],
+      "id": "51473",
+      "last_updated": "RESET",
+      "name": "E.ON Globus Pardubice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "530 09",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51475": {
+    "name": "E.ON Zábřeh na Moravě",
+    "sha1": "b91d25398497ba767e31be904aefa899d0608be0",
+    "station": {
+      "address": "U Nádraží",
+      "city": " Zábřeh",
+      "coordinates": {
+        "latitude": "49.87321879",
+        "longitude": "16.88649313"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.87321879",
+            "longitude": "16.88649313"
+          },
+          "evse_id": "CZ*EON*E11051475*1",
+          "last_seen_as_planned": "2022-03-16T06:40:56.527Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51475"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.87321879",
+            "longitude": "16.88649313"
+          },
+          "evse_id": "CZ*EON*E11051475*2",
+          "last_seen_as_planned": "2022-03-16T06:40:56.527Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51476"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "TRAIN_STATION"
+      ],
+      "id": "51475",
+      "last_updated": "RESET",
+      "name": "E.ON Zábřeh na Moravě",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "789 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51477": {
+    "name": "E.ON Globus Olomouc",
+    "sha1": "ea360bfe41f1c360aee5c35d737c564508c72553",
+    "station": {
+      "address": "Pražská 248/39",
+      "city": " Olomouc",
+      "coordinates": {
+        "latitude": "49.60096996",
+        "longitude": "17.22264596"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.60096996",
+            "longitude": "17.22264596"
+          },
+          "evse_id": "CZ*EON*E11051477*1",
+          "last_seen_as_planned": "2022-03-16T12:28:39.05Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51477"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.60096996",
+            "longitude": "17.22264596"
+          },
+          "evse_id": "CZ*EON*E11051477*2",
+          "last_seen_as_planned": "2022-03-16T12:28:39.05Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51478"
+        }
+      ],
+      "facilities": [
+        "MALL",
+        "SUPERMARKET",
+        "FUEL_STATION"
+      ],
+      "id": "51477",
+      "last_updated": "RESET",
+      "name": "E.ON Globus Olomouc",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "779 00",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51479": {
+    "name": "E.ON ČEPRO Petřvald",
+    "sha1": "7c08f21fa7379682178b9bc76759a738414b7be0",
+    "station": {
+      "address": "Petřvald 453",
+      "city": " Petřvald",
+      "coordinates": {
+        "latitude": "49.70916449",
+        "longitude": "18.15981933"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.70916449",
+            "longitude": "18.15981933"
+          },
+          "evse_id": "CZ*EON*E11051479*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51479"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.70916449",
+            "longitude": "18.15981933"
+          },
+          "evse_id": "CZ*EON*E11051479*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51480"
+        }
+      ],
+      "facilities": [
+        "FUEL_STATION"
+      ],
+      "id": "51479",
+      "last_updated": "RESET",
+      "name": "E.ON ČEPRO Petřvald",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "74260",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51481": {
+    "name": "E.ON Frýdek Místek ČD",
+    "sha1": "f80d384685146062757de22617f14122bbc791e4",
+    "station": {
+      "address": "Nádražní 2052",
+      "city": "Frýdek Místek",
+      "coordinates": {
+        "latitude": "49.67738932",
+        "longitude": "18.35465796"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.67738932",
+            "longitude": "18.35465796"
+          },
+          "evse_id": "CZ*EON*E11051481*1",
+          "last_seen_as_planned": "2022-03-16T13:24:12.287Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51481"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.67738932",
+            "longitude": "18.35465796"
+          },
+          "evse_id": "CZ*EON*E11051481*2",
+          "last_seen_as_planned": "2022-03-16T13:24:12.287Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51482"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "TRAIN_STATION"
+      ],
+      "id": "51481",
+      "last_updated": "RESET",
+      "name": "E.ON Frýdek Místek ČD",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "738 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51483": {
+    "name": "E.ON Bohumín ČD",
+    "sha1": "aa5ef7f834fd96d71c2723f364b9470630c6c6cd",
+    "station": {
+      "address": "Nádražní 272",
+      "city": " Bohumín",
+      "coordinates": {
+        "latitude": "49.89998078",
+        "longitude": "18.35696365"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.89998078",
+            "longitude": "18.35696365"
+          },
+          "evse_id": "CZ*EON*E11051483*1",
+          "last_seen_as_planned": "2022-03-16T13:34:30.193Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51483"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.89998078",
+            "longitude": "18.35696365"
+          },
+          "evse_id": "CZ*EON*E11051483*2",
+          "last_seen_as_planned": "2022-03-16T13:34:30.193Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51484"
+        }
+      ],
+      "facilities": [
+        "TAXI_STAND",
+        "TRAIN_STATION"
+      ],
+      "id": "51483",
+      "last_updated": "RESET",
+      "name": "E.ON Bohumín ČD",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "735 81",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51485": {
+    "name": "E.ON DRFG Ostrava - Radvanice",
+    "sha1": "f16cb15bfef35f322224b312dece26e6692e92a2",
+    "station": {
+      "address": "Těšínská 1403",
+      "city": " Ostrava-Radvanice a Bartovice",
+      "coordinates": {
+        "latitude": "49.81685032",
+        "longitude": "18.33263502"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.81685032",
+            "longitude": "18.33263502"
+          },
+          "evse_id": "CZ*EON*E11051485*1",
+          "last_seen_as_planned": "2022-03-16T13:42:20.973Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51485"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.81685032",
+            "longitude": "18.33263502"
+          },
+          "evse_id": "CZ*EON*E11051485*2",
+          "last_seen_as_planned": "2022-03-16T13:42:20.973Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51486"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET"
+      ],
+      "id": "51485",
+      "last_updated": "RESET",
+      "name": "E.ON DRFG Ostrava - Radvanice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "716 00",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51487": {
+    "name": "E.ON Ostrava Globus",
+    "sha1": "17140591c4078ddc8f681226401ae4b0125c7adf",
+    "station": {
+      "address": "Opavská 90",
+      "city": " Ostrava-Plesná",
+      "coordinates": {
+        "latitude": "49.84692427",
+        "longitude": "18.14813501"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.84692427",
+            "longitude": "18.14813501"
+          },
+          "evse_id": "CZ*EON*E11051487*1",
+          "last_seen_as_planned": "2022-03-16T14:13:34.83Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51487"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.84692427",
+            "longitude": "18.14813501"
+          },
+          "evse_id": "CZ*EON*E11051487*2",
+          "last_seen_as_planned": "2022-03-16T14:13:34.83Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51488"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "MALL",
+        "SUPERMARKET",
+        "FUEL_STATION"
+      ],
+      "id": "51487",
+      "last_updated": "RESET",
+      "name": "E.ON Ostrava Globus",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "725 27",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
       "time_zone": "Europe/Prague"
     }
   },
@@ -23726,7 +24587,7 @@
   },
   "53820": {
     "name": "E.ON Penny Příbram",
-    "sha1": "cc5cf3f6c7ae7a33c0f0c8c82f7c6dc3fa5366a2",
+    "sha1": "0c5606960122e6086edd9928e7fe6547870f19d6",
     "station": {
       "address": "Seifertova 532",
       "city": "Příbram VII",
@@ -23837,13 +24698,6 @@
         "SUPERMARKET"
       ],
       "id": "53820",
-      "images": [
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/62303/7600121647272498.jpg"
-        }
-      ],
       "last_updated": "RESET",
       "name": "E.ON Penny Příbram",
       "opening_times": {
