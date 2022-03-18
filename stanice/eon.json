@@ -25129,6 +25129,324 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "53828": {
+    "name": "E.ON Obec Tábor",
+    "sha1": "9356f6fd98a23a628690c2c5877f2ce31047531b",
+    "station": {
+      "address": "Volgogradská",
+      "city": "Tábor",
+      "coordinates": {
+        "latitude": "49.39031182",
+        "longitude": "14.68915719"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.39031182",
+            "longitude": "14.68915719"
+          },
+          "evse_id": "CZ*EON*E98053828*1",
+          "last_seen_as_planned": "2022-03-17T12:28:19.477Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53828"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.39031182",
+            "longitude": "14.68915719"
+          },
+          "evse_id": "CZ*EON*E98053828*2",
+          "last_seen_as_planned": "2022-03-17T12:28:19.477Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53829"
+        }
+      ],
+      "facilities": [
+        "HOTEL"
+      ],
+      "id": "53828",
+      "last_updated": "RESET",
+      "name": "E.ON Obec Tábor",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "390 05",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53830": {
+    "name": "E.ON Penny Jihlava",
+    "sha1": "c983712ef13977742a87b790eb7a6095cceeb6f9",
+    "station": {
+      "address": "Na Dolech 5331/107",
+      "city": " Jihlava",
+      "coordinates": {
+        "latitude": "49.40853819",
+        "longitude": "15.5680648"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.40853819",
+            "longitude": "15.5680648"
+          },
+          "evse_id": "CZ*EON*E98053830*1",
+          "last_seen_as_planned": "2022-03-17T13:53:17.537Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53830"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.40853819",
+            "longitude": "15.5680648"
+          },
+          "evse_id": "CZ*EON*E98053830*2",
+          "last_seen_as_planned": "2022-03-17T13:53:17.537Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53831"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET"
+      ],
+      "id": "53830",
+      "last_updated": "RESET",
+      "name": "E.ON Penny Jihlava",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "586 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53832": {
+    "name": "E.ON Penny Blansko",
+    "sha1": "b25a2045ba41b6ddceb64a4de3fba0fd00edba49",
+    "station": {
+      "address": "Fügnerova 2387/2a",
+      "city": " Blansko",
+      "coordinates": {
+        "latitude": "49.35611863",
+        "longitude": "16.64504392"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.35611863",
+            "longitude": "16.64504392"
+          },
+          "evse_id": "CZ*EON*E98053832*1",
+          "last_seen_as_planned": "2022-03-17T14:04:18.923Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53832"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.35611863",
+            "longitude": "16.64504392"
+          },
+          "evse_id": "CZ*EON*E98053832*2",
+          "last_seen_as_planned": "2022-03-17T14:04:18.923Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53833"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "SUPERMARKET"
+      ],
+      "id": "53832",
+      "last_updated": "RESET",
+      "name": "E.ON Penny Blansko",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "678 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53834": {
+    "name": "E.ON Obec Pohořelice",
+    "sha1": "691fb843b1987b23ba698daec02f7d65cc650378",
+    "station": {
+      "address": "Brněnská",
+      "city": "Pohořelice",
+      "coordinates": {
+        "latitude": "48.98281551",
+        "longitude": "16.52539478"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.98281551",
+            "longitude": "16.52539478"
+          },
+          "evse_id": "CZ*EON*E98053834*1",
+          "last_seen_as_planned": "2022-03-17T14:15:06.26Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53834"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.98281551",
+            "longitude": "16.52539478"
+          },
+          "evse_id": "CZ*EON*E98053834*2",
+          "last_seen_as_planned": "2022-03-17T14:15:06.26Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53835"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "SUPERMARKET"
+      ],
+      "id": "53834",
+      "last_updated": "RESET",
+      "name": "E.ON Obec Pohořelice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "691 23",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "55601": {
     "name": "(P) Líšenský dvůr",
     "sha1": "09ad790a5d876e306f9b276ab5ace09fdb579f52",
@@ -28131,7 +28449,7 @@
   },
   "9158": {
     "name": "E.ON Penny Praha Lehovec",
-    "sha1": "4769dbcd0f676d0d83f8c596cb1be1671bf11808",
+    "sha1": "2e80d26fbbbe5aa6c0c577be7fe4ac1d6114180f",
     "station": {
       "address": "Kolbenova 1094",
       "city": "Praha",
@@ -28193,9 +28511,9 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2022-03-17T06:45:04.43Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 44000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "CHADEMO",
@@ -28211,9 +28529,9 @@
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2022-03-17T06:45:04.43Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 44000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
