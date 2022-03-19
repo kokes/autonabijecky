@@ -79,9 +79,9 @@
   },
   "CZ1002595": {
     "name": "Ladestation Vienna House Andel’s Prague",
-    "sha1": "1968ae5c8a8dd9da1ba396bb14fa932caf96939a",
+    "sha1": "601c82077d47e1a7534228d2d757341d979037a0",
     "station": {
-      "additionalInfo": "Von der Straße Radlická, -1 Ebene, Einfahrt mit dem PREpoint-Tag möglich. Kostenpflichtiges Parken (Preisliste des Hotels).",
+      "additionalInfo": "Von der Straße Stroupeznickeho, Ebene -2. Nach der Einfahrt in den öffentlichen Teil biegen Sie rechts ab und fahren in den Hotelteil. Das Parkticket muss vor der Hotelgarage erneut gescannt werden.",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -94,15 +94,24 @@
       "csName": "Ladestation Vienna House Andel’s Prague",
       "csStatus": "operable",
       "csType": "charger",
-      "enAdditionalInfo": "From the street Radlická, -1 level, entrance possible with the PREpoint tag. Paid parking (pricelist of the hotel).",
+      "enAdditionalInfo": "From the street Stroupeznickeho, -2 level. After entering public part of the garage, turn right and access hotel part. Parking ticket needs to be scanned again in front of the hotel garage.",
       "enCsname": "Charger Vienna House Andel’s Prague",
+      "enExtra": "Paid parking as per hotel’s pricelist, parking ticket will be validated at the hotel reception.",
       "evseId": "CZ*PRE*E1S0048*1",
+      "extra": "Bezahltes Parken laut Preisliste des Hotels, das Parkticket wird an der Hotelrezeption entwertet.",
       "geoCoord": {
         "latitude": "50.071162",
         "longitude": "14.402629"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_vienna_house_andels_prague.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
@@ -113,7 +122,7 @@
       ],
       "postalCode": "15000",
       "region": "Hlavní město Praha",
-      "street": "Radlická 3216/1g"
+      "street": "Stroupežnického 21"
     }
   },
   "CZ1002597": {
@@ -10942,7 +10951,7 @@
   },
   "CZ8002804": {
     "name": "Schnellladestation OMV Bruntál",
-    "sha1": "1b732ed78db39c30b0ec3a3f62d788c6fd23d351",
+    "sha1": "267d8da7d21b90d5f3f0ac7cac16c45d831378f0",
     "station": {
       "additionalInfo": "Station out of service due to the reconstruction of the gas station",
       "chargingFacilities": {
@@ -10966,6 +10975,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_bruntal.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",

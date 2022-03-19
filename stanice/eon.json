@@ -25447,6 +25447,485 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "53836": {
+    "name": "E.ON Spielberk Office Centre Brno",
+    "sha1": "33f5dc509a694d857e99b22a33b2aa95c9ef9678",
+    "station": {
+      "address": "Holandská 10",
+      "city": "Brno",
+      "coordinates": {
+        "latitude": "49.18228963",
+        "longitude": "16.60643098"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.18228963",
+            "longitude": "16.60643098"
+          },
+          "evse_id": "CZ*EON*E98053836*1",
+          "last_seen_as_planned": "2022-03-18T06:58:15.507Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53836"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.18228963",
+            "longitude": "16.60643098"
+          },
+          "evse_id": "CZ*EON*E98053836*2",
+          "last_seen_as_planned": "2022-03-18T06:58:15.507Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53837"
+        }
+      ],
+      "facilities": [
+        "HOTEL"
+      ],
+      "id": "53836",
+      "last_updated": "RESET",
+      "name": "E.ON Spielberk Office Centre Brno",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "639 00",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53838": {
+    "name": "E.ON DRFG Hodonín",
+    "sha1": "74ebad956954547121ab492d2bef0b9c85020fa8",
+    "station": {
+      "address": "Krátká 4225/4",
+      "city": "Hodonín",
+      "coordinates": {
+        "latitude": "48.85240699",
+        "longitude": "17.11705779"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.85240699",
+            "longitude": "17.11705779"
+          },
+          "evse_id": "CZ*EON*E98053838*1",
+          "last_seen_as_planned": "2022-03-18T11:51:24.08Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53838"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.85240699",
+            "longitude": "17.11705779"
+          },
+          "evse_id": "CZ*EON*E98053838*2",
+          "last_seen_as_planned": "2022-03-18T11:51:24.08Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53839"
+        }
+      ],
+      "facilities": [
+        "MALL",
+        "SUPERMARKET",
+        "FUEL_STATION"
+      ],
+      "id": "53838",
+      "last_updated": "RESET",
+      "name": "E.ON DRFG Hodonín",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "695 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53840": {
+    "name": "E.ON DRFG Uherské Hradiště",
+    "sha1": "f5a68bed526ddb0e26b7c8a6ec3944b3b21b2e34",
+    "station": {
+      "address": "Za Olšávkou 399",
+      "city": " Uherské Hradiště",
+      "coordinates": {
+        "latitude": "49.05563776",
+        "longitude": "17.46792287"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.05563776",
+            "longitude": "17.46792287"
+          },
+          "evse_id": "CZ*EON*E98053840*1",
+          "last_seen_as_planned": "2022-03-18T13:34:54.35Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53840"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.05563776",
+            "longitude": "17.46792287"
+          },
+          "evse_id": "CZ*EON*E98053840*2",
+          "last_seen_as_planned": "2022-03-18T13:34:54.35Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53841"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "SUPERMARKET",
+        "FUEL_STATION"
+      ],
+      "id": "53840",
+      "last_updated": "RESET",
+      "name": "E.ON DRFG Uherské Hradiště",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "686 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53842": {
+    "name": "E.ON Penny Sokolov",
+    "sha1": "a6edd9dbab00f52062ffc2cbce73c56a71da81df",
+    "station": {
+      "address": "Závodu míru 2058",
+      "city": " Sokolov",
+      "coordinates": {
+        "latitude": "50.17290022",
+        "longitude": "12.66417364"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.17290022",
+            "longitude": "12.66417364"
+          },
+          "evse_id": "CZ*EON*E98053842*1",
+          "last_seen_as_planned": "2022-03-18T13:40:23.523Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53842"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.17290022",
+            "longitude": "12.66417364"
+          },
+          "evse_id": "CZ*EON*E98053842*2",
+          "last_seen_as_planned": "2022-03-18T13:40:23.523Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53843"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "SUPERMARKET"
+      ],
+      "id": "53842",
+      "last_updated": "RESET",
+      "name": "E.ON Penny Sokolov",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "356 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53844": {
+    "name": "E.ON Město Domažlice",
+    "sha1": "d35addc6329a63d71f63a37ae37187ea3540d22c",
+    "station": {
+      "address": "parkoviště Hruškova ul.",
+      "city": " Domažlice",
+      "coordinates": {
+        "latitude": "49.43814167",
+        "longitude": "12.92724168"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.43814167",
+            "longitude": "12.92724168"
+          },
+          "evse_id": "CZ*EON*E98053844*1",
+          "last_seen_as_planned": "2022-03-18T13:46:35.32Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53844"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.43814167",
+            "longitude": "12.92724168"
+          },
+          "evse_id": "CZ*EON*E98053844*2",
+          "last_seen_as_planned": "2022-03-18T13:46:35.32Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53845"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT"
+      ],
+      "id": "53844",
+      "last_updated": "RESET",
+      "name": "E.ON Město Domažlice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "344 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53846": {
+    "name": "E.ON Penny Karlovy Vary",
+    "sha1": "511a99613d87727549cdcd38bb9569dd6a4af514",
+    "station": {
+      "address": "Frimlova 963/1, Stará Role",
+      "city": "Karlovy Vary",
+      "coordinates": {
+        "latitude": "50.23897947",
+        "longitude": "12.83784801"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.23897947",
+            "longitude": "12.83784801"
+          },
+          "evse_id": "CZ*EON*E98053846*1",
+          "last_seen_as_planned": "2022-03-18T13:52:53.15Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53846"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.23897947",
+            "longitude": "12.83784801"
+          },
+          "evse_id": "CZ*EON*E98053846*2",
+          "last_seen_as_planned": "2022-03-18T13:52:53.15Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53847"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET"
+      ],
+      "id": "53846",
+      "last_updated": "RESET",
+      "name": "E.ON Penny Karlovy Vary",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "360 17",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "55601": {
     "name": "(P) Líšenský dvůr",
     "sha1": "09ad790a5d876e306f9b276ab5ace09fdb579f52",
