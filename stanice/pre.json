@@ -6905,6 +6905,158 @@
       "street": "Evropská 696/113"
     }
   },
+  "CZ1003380": {
+    "name": "Ladestation TS 5175 Družná",
+    "sha1": "71d35658ef5ac38023086d599943bc50d42d95ed",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 5175",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003380",
+      "csName": "Ladestation TS 5175 Družná",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enAdditionalInfo": "By the transformation station TS 5175",
+      "enCsname": "Charger TS 5175 Družná",
+      "evseId": "CZ*PRE*E1S8122*1",
+      "geoCoord": {
+        "latitude": "50.013290",
+        "longitude": "14.416270"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14300",
+      "region": "Hlavní město Praha",
+      "street": "Družná"
+    }
+  },
+  "CZ1003381": {
+    "name": "Ladestation Do Zahrádek I.",
+    "sha1": "40dcdc0a197af44685921aa89d20d0986ac54f44",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003381",
+      "csName": "Ladestation Do Zahrádek I.",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enCsname": "Charger Do Zahrádek I.",
+      "evseId": "CZ*PRE*E1S8039*2",
+      "geoCoord": {
+        "latitude": "50.056823",
+        "longitude": "14.291998"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "11000",
+      "region": "Hlavní město Praha",
+      "street": "Do Zahrádek I"
+    }
+  },
+  "CZ1003382": {
+    "name": "Ladestation Bechyňská",
+    "sha1": "e84e95aaf71118f372eedff7663fbb857cb30b8e",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003382",
+      "csName": "Ladestation Bechyňská",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enCsname": "Charger Bechyňská",
+      "evseId": "CZ*PRE*E1S8040*2",
+      "geoCoord": {
+        "latitude": "50.137262",
+        "longitude": "14.514703"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19900",
+      "region": "Hlavní město Praha",
+      "street": "Bechyňská"
+    }
+  },
+  "CZ1003383": {
+    "name": "Ladestation TS 1422 Semilská",
+    "sha1": "8ccd776ddf9dda65fd57c31282eff607fe8c3bc2",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 1422",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003383",
+      "csName": "Ladestation TS 1422 Semilská",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 1422",
+      "enCsname": "Charger TS 1422 Semilská",
+      "evseId": "CZ*PRE*E1S8031*2",
+      "geoCoord": {
+        "latitude": "50.138609",
+        "longitude": "14.547001"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19700",
+      "region": "Hlavní město Praha",
+      "street": "Semilská"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
@@ -7735,6 +7887,45 @@
       "postalCode": "25210",
       "region": "Středočeský kraj",
       "street": "Mníšek pod Brdy 1036"
+    }
+  },
+  "CZ2003385": {
+    "name": "Ladestation Mníšek náměstí",
+    "sha1": "9351be53df2d2d97a4262642043c354c8ba71f67",
+    "station": {
+      "additionalInfo": "Beim Parkplatz am Hauptplatz Mníšek pod Brdy",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Mníšek pod Brdy",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2003385",
+      "csName": "Ladestation Mníšek náměstí",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enAdditionalInfo": "Parking lot main square Mníšek pod Brdy",
+      "enCsname": "Charger Mníšek náměstí",
+      "evseId": "CZ*PRE*E1S8043*2",
+      "geoCoord": {
+        "latitude": "49.865893",
+        "longitude": "14.260267"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "25210",
+      "region": "Středočeský kraj",
+      "street": "náměstí F.X.Svobody"
     }
   },
   "CZ3102615": {
