@@ -24315,7 +24315,7 @@
   },
   "53816": {
     "name": "E.ON Penny Lipník nad Bečvou",
-    "sha1": "9292226b702034444431abb4737605f5b9b14123",
+    "sha1": "7b2a08b8f42e01a49c0c0358e9d17fe1675a440d",
     "station": {
       "address": "Hranická 1443",
       "city": "Lipník nad Bečvou I-Město",
@@ -24379,7 +24379,7 @@
             "longitude": "17.5922433"
           },
           "evse_id": "CZ*EON*E98053816*1",
-          "last_seen_as_planned": "2022-01-31T13:15:22.027Z",
+          "last_seen_as_planned": "2022-03-23T08:01:09.917Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53816"
@@ -24416,7 +24416,7 @@
             "longitude": "17.5922433"
           },
           "evse_id": "CZ*EON*E98053816*2",
-          "last_seen_as_planned": "2022-01-31T13:08:59.697Z",
+          "last_seen_as_planned": "2022-03-23T08:01:09.917Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53817"
@@ -26249,6 +26249,244 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "53856": {
+    "name": "E.ON Valeo Praha - Strašnice",
+    "sha1": "71e5c9440543222c0f7441494fe9c232fb83da35",
+    "station": {
+      "address": "Sazečská 247",
+      "city": "Praha - Strašnice",
+      "coordinates": {
+        "latitude": "50.07543056",
+        "longitude": "14.51891374"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.07543056",
+            "longitude": "14.51891374"
+          },
+          "evse_id": "CZ*EON*E98053856*1",
+          "last_seen_as_planned": "2022-03-23T07:43:46.357Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53856"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.07543056",
+            "longitude": "14.51891374"
+          },
+          "evse_id": "CZ*EON*E98053856*2",
+          "last_seen_as_planned": "2022-03-23T07:43:46.357Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53857"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT"
+      ],
+      "id": "53856",
+      "last_updated": "RESET",
+      "name": "E.ON Valeo Praha - Strašnice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "108 00",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53860": {
+    "name": "E.ON Penny Benešov",
+    "sha1": "5e660958a79648294f6a8fab78423b7c01c4c972",
+    "station": {
+      "address": "Čechova 2126",
+      "city": " Benešov",
+      "coordinates": {
+        "latitude": "49.78731042",
+        "longitude": "14.69577456"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.78731042",
+            "longitude": "14.69577456"
+          },
+          "evse_id": "CZ*EON*E98053860*1",
+          "last_seen_as_planned": "2022-03-23T08:06:16.523Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53860"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.78731042",
+            "longitude": "14.69577456"
+          },
+          "evse_id": "CZ*EON*E98053860*2",
+          "last_seen_as_planned": "2022-03-23T08:06:16.523Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53861"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "SUPERMARKET"
+      ],
+      "id": "53860",
+      "last_updated": "RESET",
+      "name": "E.ON Penny Benešov",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "256 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53862": {
+    "name": "E.ON Penny Nová Paka",
+    "sha1": "37e422e89f79be574aaca16d4802b1cc2b89c507",
+    "station": {
+      "address": "Krkonošská 1826",
+      "city": "Nová Paka",
+      "coordinates": {
+        "latitude": "50.49428537",
+        "longitude": "15.52140924"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.49428537",
+            "longitude": "15.52140924"
+          },
+          "evse_id": "CZ*EON*E98053862*1",
+          "last_seen_as_planned": "2022-03-23T08:34:44.75Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53862"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.49428537",
+            "longitude": "15.52140924"
+          },
+          "evse_id": "CZ*EON*E98053862*2",
+          "last_seen_as_planned": "2022-03-23T08:34:44.75Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53863"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET"
+      ],
+      "id": "53862",
+      "last_updated": "RESET",
+      "name": "E.ON Penny Nová Paka",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "509 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "55601": {
     "name": "(P) Líšenský dvůr",
     "sha1": "09ad790a5d876e306f9b276ab5ace09fdb579f52",
@@ -28040,6 +28278,123 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "37010",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "66403": {
+    "name": "(P) KAFEbox - Truhlářství Zajíček s.r.o.",
+    "sha1": "880ad2d1263ef4ad6945ec044baa5245c268bc31",
+    "station": {
+      "address": "Ždírec 152",
+      "city": "Ždírec",
+      "coordinates": {
+        "latitude": "49.453582",
+        "longitude": "15.669919"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-03-23T12:45:13.88Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "154",
+                "155"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.453582",
+            "longitude": "15.669919"
+          },
+          "evse_id": "CZ*EON*E22066401*2",
+          "last_seen_as_planned": "2022-03-23T12:45:13.88Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "66403"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-03-23T12:45:13.88Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "154",
+                "155"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.453582",
+            "longitude": "15.669919"
+          },
+          "evse_id": "CZ*EON*E22066403*1",
+          "last_seen_as_planned": "2022-03-23T12:45:13.88Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "66404"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "SPORT"
+      ],
+      "id": "66403",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/114804/4452271648038979.jpg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) KAFEbox - Truhlářství Zajíček s.r.o.",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Truhlářství Zajíček s.r.o."
+      },
+      "owner": {
+        "name": "Truhlářství Zajíček s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "58813",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {

@@ -11893,6 +11893,225 @@
       "visible": true
     }
   },
+  "156648": {
+    "name": "R414 - České Budějovice - Kaufland - 2",
+    "sha1": "6e9428e7b483a4eccafe215827abe9a231fc817f",
+    "station": {
+      "address": {
+        "city": "České Budějovice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída",
+        "latitude": 48.9898927,
+        "longitude": 14.4497622,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Husova",
+        "url": ""
+      },
+      "customID": "156648",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-024",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R414"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-024",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-024",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R414"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R414 - České Budějovice - Kaufland - 2",
+      "visible": true
+    }
+  },
+  "156649": {
+    "name": "R415 - České Budějovice - Kaufland - 3",
+    "sha1": "b35381b5f32c4f1c2ab52f2aa24946f562d21771",
+    "station": {
+      "address": {
+        "city": "České Budějovice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída",
+        "latitude": 48.9898927,
+        "longitude": 14.4497622,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Husova",
+        "url": ""
+      },
+      "customID": "156649",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-021",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R415"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-021",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-021",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R415"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R415 - České Budějovice - Kaufland - 3",
+      "visible": true
+    }
+  },
+  "156666": {
+    "name": "R413 - České Budějovice - Kaufland - 1",
+    "sha1": "bf77888da43fea9c4a4a9e3271203c3e51c356b6",
+    "station": {
+      "address": {
+        "city": "České Budějovice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída",
+        "latitude": 48.9898927,
+        "longitude": 14.4497622,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Husova",
+        "url": ""
+      },
+      "customID": "156666",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-022",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R413"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-022",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-022",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R413"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R413 - České Budějovice - Kaufland - 1",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
