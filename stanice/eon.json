@@ -26487,6 +26487,565 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "53864": {
+    "name": "E.ON Penny Vrchlabí",
+    "sha1": "e8c23bfc9f0d5b9dd5635e4ba331ffea1f10f4b7",
+    "station": {
+      "address": "A. Jiráska 1474",
+      "city": " Vrchlabí",
+      "coordinates": {
+        "latitude": "50.61887481",
+        "longitude": "15.6121714"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.61887481",
+            "longitude": "15.6121714"
+          },
+          "evse_id": "CZ*EON*E98053864*1",
+          "last_seen_as_planned": "2022-03-24T11:55:33.84Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53864"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.61887481",
+            "longitude": "15.6121714"
+          },
+          "evse_id": "CZ*EON*E98053864*2",
+          "last_seen_as_planned": "2022-03-24T11:55:33.84Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53865"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "SUPERMARKET",
+        "SPORT"
+      ],
+      "id": "53864",
+      "last_updated": "RESET",
+      "name": "E.ON Penny Vrchlabí",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "543 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53868": {
+    "name": "E.ON Penny Svitavy",
+    "sha1": "4d242203c0506f7d48c0691794db0e3a120b09b1",
+    "station": {
+      "address": "Brněnská 801/1",
+      "city": "Svitavy",
+      "coordinates": {
+        "latitude": "49.75315697",
+        "longitude": "16.47476382"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.75315697",
+            "longitude": "16.47476382"
+          },
+          "evse_id": "CZ*EON*E98053868*1",
+          "last_seen_as_planned": "2022-03-24T12:12:04.86Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53868"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.75315697",
+            "longitude": "16.47476382"
+          },
+          "evse_id": "CZ*EON*E98053868*2",
+          "last_seen_as_planned": "2022-03-24T12:12:04.86Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53869"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET"
+      ],
+      "id": "53868",
+      "last_updated": "RESET",
+      "name": "E.ON Penny Svitavy",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "568 02",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53870": {
+    "name": "E.ON Penny Jeseník",
+    "sha1": "7194fbb1725658f7dc9c2d4430296a1780b60109",
+    "station": {
+      "address": "Sadová 1364/3",
+      "city": " Jeseník",
+      "coordinates": {
+        "latitude": "50.2269338",
+        "longitude": "17.2070693"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.2269338",
+            "longitude": "17.2070693"
+          },
+          "evse_id": "CZ*EON*E98053870*1",
+          "last_seen_as_planned": "2022-03-24T12:20:18.037Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53870"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.2269338",
+            "longitude": "17.2070693"
+          },
+          "evse_id": "CZ*EON*E98053870*2",
+          "last_seen_as_planned": "2022-03-24T12:20:18.037Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53871"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET",
+        "SPORT",
+        "TAXI_STAND"
+      ],
+      "id": "53870",
+      "last_updated": "RESET",
+      "name": "E.ON Penny Jeseník",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "790 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53872": {
+    "name": "E.ON DRFG Olomouc",
+    "sha1": "9045c25ee0ac4cd2c26887e0ac1020857f692605",
+    "station": {
+      "address": "Kafkova 1223",
+      "city": "Olomouc",
+      "coordinates": {
+        "latitude": "49.5746272",
+        "longitude": "17.22863179"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.5746272",
+            "longitude": "17.22863179"
+          },
+          "evse_id": "CZ*EON*E98053872*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53872"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.5746272",
+            "longitude": "17.22863179"
+          },
+          "evse_id": "CZ*EON*E98053872*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53873"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "SUPERMARKET",
+        "FUEL_STATION"
+      ],
+      "id": "53872",
+      "last_updated": "RESET",
+      "name": "E.ON DRFG Olomouc",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "779 00",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53874": {
+    "name": "E.ON Penny Olomouc",
+    "sha1": "b9f884760ba1b6ae2ee0c44ca1f32e8c1efa2a11",
+    "station": {
+      "address": "Rooseveltova 520/100",
+      "city": " Olomouc",
+      "coordinates": {
+        "latitude": "49.57726002",
+        "longitude": "17.25728676"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.57726002",
+            "longitude": "17.25728676"
+          },
+          "evse_id": "CZ*EON*E98053874*1",
+          "last_seen_as_planned": "2022-03-24T12:33:55.287Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53874"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.57726002",
+            "longitude": "17.25728676"
+          },
+          "evse_id": "CZ*EON*E98053874*2",
+          "last_seen_as_planned": "2022-03-24T12:33:55.287Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53875"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET"
+      ],
+      "id": "53874",
+      "last_updated": "RESET",
+      "name": "E.ON Penny Olomouc",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "779 00",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53876": {
+    "name": "E.ON Penny Dobrá",
+    "sha1": "873a33e0bd3828d3f4d22046722ace6b32d7fdd8",
+    "station": {
+      "address": "Dobrá 15",
+      "city": "Frýdek Místek - Dobrá",
+      "coordinates": {
+        "latitude": "49.67475319",
+        "longitude": "18.40952259"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.67475319",
+            "longitude": "18.40952259"
+          },
+          "evse_id": "CZ*EON*E98053876*1",
+          "last_seen_as_planned": "2022-03-24T12:42:09.373Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53876"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.67475319",
+            "longitude": "18.40952259"
+          },
+          "evse_id": "CZ*EON*E98053876*2",
+          "last_seen_as_planned": "2022-03-24T12:42:09.373Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53877"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET"
+      ],
+      "id": "53876",
+      "last_updated": "RESET",
+      "name": "E.ON Penny Dobrá",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "739 51",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "53880": {
+    "name": "E.ON Penny Bohumín",
+    "sha1": "e1d5016324e76407c8c0ca4e0ccbd221c1fada87",
+    "station": {
+      "address": "9. května 1199",
+      "city": "Bohumín",
+      "coordinates": {
+        "latitude": "49.89979256",
+        "longitude": "18.35372141"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.89979256",
+            "longitude": "18.35372141"
+          },
+          "evse_id": "CZ*EON*E98053880*1",
+          "last_seen_as_planned": "2022-03-24T12:53:26.753Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53880"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.89979256",
+            "longitude": "18.35372141"
+          },
+          "evse_id": "CZ*EON*E98053880*2",
+          "last_seen_as_planned": "2022-03-24T12:53:26.753Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53881"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET"
+      ],
+      "id": "53880",
+      "last_updated": "RESET",
+      "name": "E.ON Penny Bohumín",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "735 81",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "55601": {
     "name": "(P) Líšenský dvůr",
     "sha1": "09ad790a5d876e306f9b276ab5ace09fdb579f52",
