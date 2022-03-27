@@ -5777,7 +5777,7 @@
   },
   "CZ1003266": {
     "name": "Ladestation TS 2011 Donovalská",
-    "sha1": "13c84f396be5ff939a7ad8c2438dabf269564126",
+    "sha1": "513bcc7cc0ad33f26eb25d80d2caa76cddada9b2",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2011",
       "chargingFacilities": {
@@ -5790,7 +5790,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1003266",
       "csName": "Ladestation TS 2011 Donovalská",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station TS 2011",
       "enCsname": "Charger TS 2011 Donovalská",
@@ -5801,6 +5801,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_2011_donovalska.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
@@ -6907,7 +6914,7 @@
   },
   "CZ1003380": {
     "name": "Ladestation TS 5175 Družná",
-    "sha1": "71d35658ef5ac38023086d599943bc50d42d95ed",
+    "sha1": "746d4ce4e0f59bc46abc017019949a924b968487",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 5175",
       "chargingFacilities": {
@@ -6920,7 +6927,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1003380",
       "csName": "Ladestation TS 5175 Družná",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station TS 5175",
       "enCsname": "Charger TS 5175 Družná",
@@ -6931,6 +6938,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_5175_druzna.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
@@ -6946,7 +6960,7 @@
   },
   "CZ1003381": {
     "name": "Ladestation Do Zahrádek I.",
-    "sha1": "40dcdc0a197af44685921aa89d20d0986ac54f44",
+    "sha1": "56fa7eb1a398c6fcb4d9f411d401cf485ac291b1",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -6958,7 +6972,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1003381",
       "csName": "Ladestation Do Zahrádek I.",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Do Zahrádek I.",
       "evseId": "CZ*PRE*E1S8039*2",
@@ -6968,6 +6982,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_do_zahradek_i.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
@@ -7020,7 +7041,7 @@
   },
   "CZ1003383": {
     "name": "Ladestation TS 1422 Semilská",
-    "sha1": "8ccd776ddf9dda65fd57c31282eff607fe8c3bc2",
+    "sha1": "0e2bb60c9155f9008011d2fc5104f44cf426e911",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 1422",
       "chargingFacilities": {
@@ -7033,7 +7054,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1003383",
       "csName": "Ladestation TS 1422 Semilská",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Next to the transformation station number TS 1422",
       "enCsname": "Charger TS 1422 Semilská",
@@ -7055,6 +7076,98 @@
       "postalCode": "19700",
       "region": "Hlavní město Praha",
       "street": "Semilská"
+    }
+  },
+  "CZ1003384": {
+    "name": "Ladestation TS 4763 Kapitána Stránského",
+    "sha1": "ce051a1a9b7182fe9f2e206696aad337dc69fbce",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 4763",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003384",
+      "csName": "Ladestation TS 4763 Kapitána Stránského",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 4763",
+      "enCsname": "Charger TS 4763 Kapitána Stránského",
+      "evseId": "CZ*PRE*E1S8032*2",
+      "geoCoord": {
+        "latitude": "50.102326",
+        "longitude": "14.583392"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_4763_kapitana_stranskeho.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19800",
+      "region": "Hlavní město Praha",
+      "street": "Kapitána Stránského"
+    }
+  },
+  "CZ1003390": {
+    "name": "Ladestation Hotel Stages Praha I.",
+    "sha1": "97490ac2440f453c85daace4fcbc26e13cde5014",
+    "station": {
+      "additionalInfo": "in der Garage des Hotel Stages",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003390",
+      "csName": "Ladestation Hotel Stages Praha I.",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "In the Hotel Stages underground garages",
+      "enCsname": "Charger Hotel Stages Praha I.",
+      "evseId": "CZ*PRE*E1S8024*2",
+      "geoCoord": {
+        "latitude": "50.104584",
+        "longitude": "14.495283"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_hotel_stages_praha_i.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Českomoravská 19a"
     }
   },
   "CZ2002608": {
