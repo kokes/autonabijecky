@@ -12112,6 +12112,79 @@
       "visible": true
     }
   },
+  "156857": {
+    "name": "R412 - Benešov - Verold",
+    "sha1": "8686ac06fe092fede5e48bec5b49ac096f4c2742",
+    "station": {
+      "address": {
+        "city": "Benešov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Vršky 1490",
+        "latitude": 49.7925988,
+        "longitude": 14.6816025,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Červené",
+        "url": ""
+      },
+      "customID": "156857",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4721-027",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R412"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-027",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-027",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R412"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/img_0239.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R412 - Benešov - Verold",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
@@ -13498,70 +13571,6 @@
       ],
       "instructions": null,
       "name": "R116 - Plzeň - ČEZ",
-      "visible": true
-    }
-  },
-  "59444": {
-    "name": "N137 - Chrášťany - TNT Express",
-    "sha1": "981d5a9444680dc54b6e6a99a545ec347277136d",
-    "station": {
-      "address": {
-        "city": "Chrášťany",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "206",
-        "latitude": 50.0387319,
-        "longitude": 14.2482781,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Chrášťany",
-        "url": "http://www.tnt.cz"
-      },
-      "customID": "59444",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N137"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N137"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/0003.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "N137 - Chrášťany - TNT Express",
       "visible": true
     }
   },
