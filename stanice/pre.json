@@ -8041,6 +8041,52 @@
       "street": "náměstí F.X.Svobody"
     }
   },
+  "CZ2003395": {
+    "name": "Schnellladestation OMV Kolín",
+    "sha1": "7035ce9b35210ed9c463f976a87e05ff2ca23380",
+    "station": {
+      "additionalInfo": "Bei der OMV Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Kolín",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2003395",
+      "csName": "Schnellladestation OMV Kolín",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the OMV gas station",
+      "enCsname": "Fast charger OMV Kolín",
+      "evseId": "CZ*PRE*E1R5095*3",
+      "geoCoord": {
+        "latitude": "50.032881",
+        "longitude": "15.178756"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_kolin.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "28002",
+      "region": "Středočeský kraj",
+      "street": "Pražská 1059"
+    }
+  },
   "CZ3102615": {
     "name": "Schnellladestation ČEPRO Sedlice",
     "sha1": "d72e776f81ed7c666327c9b1dff01ff8bbdbc49d",
