@@ -6877,7 +6877,7 @@
   },
   "CZ1003360": {
     "name": "Schnellladestation Less Mess Storage",
-    "sha1": "c7fc439003eb6b1d82a80def27fadcde4ea55d7e",
+    "sha1": "2dde0c93d68aaa8a84b6e60b57afbf04e5e4220a",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -6899,6 +6899,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_less_mess_storage.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
