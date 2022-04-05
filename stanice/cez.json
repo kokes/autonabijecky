@@ -12185,6 +12185,143 @@
       "visible": true
     }
   },
+  "157078": {
+    "name": "R405 - Třebíč - SPŠ Třebíč",
+    "sha1": "7ce51f454ee2c30f03298d8a86bdba677c883255",
+    "station": {
+      "address": {
+        "city": "Třebíč",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Curieových 734/1",
+        "latitude": 49.2252233,
+        "longitude": 15.89086,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Manž.",
+        "url": ""
+      },
+      "customID": "157078",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-025",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R405"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-025",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-025",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R405"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/img_0723.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R405 - Třebíč - SPŠ Třebíč",
+      "visible": true
+    }
+  },
+  "157085": {
+    "name": "N181 - Třebíč - SPŠ Třebíč",
+    "sha1": "95027aa21f6b7b107fcfdf10767fb8734c7575c0",
+    "station": {
+      "address": {
+        "city": "Třebíč",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Třebíč, Manž. Curieových 734/1",
+        "latitude": 49.2252233,
+        "longitude": 15.89086,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "SPŠ",
+        "url": ""
+      },
+      "customID": "157085",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "12202051850001",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N181"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "12202051850001",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N181"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/img_0723-20220404-170635.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N181 - Třebíč - SPŠ Třebíč",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
