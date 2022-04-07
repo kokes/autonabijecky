@@ -16142,6 +16142,67 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "45161": {
+    "name": "(P) Samohýl group",
+    "sha1": "5e9b83f62ed170a32667f0f3e782187bb839f2e9",
+    "station": {
+      "address": "Smetanova 1058",
+      "city": "Lomnice nad Popelkou",
+      "coordinates": {
+        "latitude": "50.53244234",
+        "longitude": "15.36540392"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.53244234",
+            "longitude": "15.36540392"
+          },
+          "evse_id": "CZ*EON*E22045161*1",
+          "last_seen_as_planned": "2022-04-05T08:27:50.333Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "45161"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET"
+      ],
+      "id": "45161",
+      "last_updated": "RESET",
+      "name": "(P) Samohýl group",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Samohýl group a.s."
+      },
+      "owner": {
+        "name": "Samohýl group a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "51251",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "45162": {
     "name": "(P) Kněžice",
     "sha1": "2e49abffa3652d6179ed066da93e483bd88b08a3",

@@ -8094,6 +8094,52 @@
       "street": "Pražská 1059"
     }
   },
+  "CZ2003400": {
+    "name": "Schnellladestation Benica Benešov",
+    "sha1": "07f49dbec04ea86619be8b7adc16bccb2cc1a214",
+    "station": {
+      "additionalInfo": "Neben dem Hotel Benica",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Benešov",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2003400",
+      "csName": "Schnellladestation Benica Benešov",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "Next to Hotel Benica",
+      "enCsname": "Fast charger Benica Benešov",
+      "evseId": "CZ*PRE*E1R5099*3",
+      "geoCoord": {
+        "latitude": "49.775694",
+        "longitude": "14.675889"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_benica_benesov.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "25601",
+      "region": "Středočeský kraj",
+      "street": "Ke Stadionu 2045"
+    }
+  },
   "CZ3102615": {
     "name": "Schnellladestation ČEPRO Sedlice",
     "sha1": "d72e776f81ed7c666327c9b1dff01ff8bbdbc49d",
@@ -10613,6 +10659,52 @@
       "postalCode": "66902",
       "region": "Jihomoravský kraj",
       "street": "Mramotice 145"
+    }
+  },
+  "CZ6403401": {
+    "name": "Schnellladestation Benzina Lipůvka",
+    "sha1": "1663b8e91830ae9c4849778090b5ee8976405723",
+    "station": {
+      "additionalInfo": "Bei der Benzina Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Lipůvka",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ6403401",
+      "csName": "Schnellladestation Benzina Lipůvka",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the Benzina gas station",
+      "enCsname": "Fast charger Benzina Lipůvka",
+      "evseId": "CZ*PRE*E1R5078*3",
+      "geoCoord": {
+        "latitude": "49.327493",
+        "longitude": "16.554090"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_lipuvka.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "67922",
+      "region": "Jihomoravský kraj",
+      "street": "Lipůvka 364"
     }
   },
   "CZ7102740": {
