@@ -7177,6 +7177,52 @@
       "street": "Českomoravská 19a"
     }
   },
+  "CZ1003410": {
+    "name": "Ladestation TS 4762 Bryksova 1",
+    "sha1": "7ed8c79c0d387f341ca2d1feec223af9a87720af",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 4762",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003410",
+      "csName": "Ladestation TS 4762 Bryksova 1",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 4762",
+      "enCsname": "Charger TS 4762 Bryksova 1",
+      "evseId": "CZ*PRE*E1S8035*1",
+      "geoCoord": {
+        "latitude": "50.102172",
+        "longitude": "14.582274"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_4762_bryksova.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19800",
+      "region": "Hlavní město Praha",
+      "street": "Bryksova"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
