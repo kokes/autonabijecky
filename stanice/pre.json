@@ -586,25 +586,25 @@
     }
   },
   "CZ1002606": {
-    "name": "Schnellladestation Lidl Čakovice",
-    "sha1": "29fc6d6d393f8d3339a368befce9d0cbb472206a",
+    "name": "Ultra-Highspeed-Ladestation Lidl Čakovice",
+    "sha1": "d3ec66780fe20cfe0478dbf4838dc0d8b20c9ce4",
     "station": {
       "additionalInfo": "Von der Schoellerova Straße und auf dem Parkplatz des Supermarktes Lidl",
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤50kW"
+          "DC Charging >50kW"
         ]
       },
       "city": "Praha",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1002606",
-      "csName": "Schnellladestation Lidl Čakovice",
+      "csName": "Ultra-Highspeed-Ladestation Lidl Čakovice",
       "csStatus": "operable",
-      "csType": "fast_charger",
+      "csType": "ultra_fast_charger",
       "enAdditionalInfo": "From the Schoellerova street and at the parking lot of Lidl supermarket",
-      "enCsname": "Fast charger Lidl Čakovice",
-      "evseId": "CZ*PRE*E1R5105*2",
+      "enCsname": "Ultra-highspeed charger Lidl Čakovice",
+      "evseId": "CZ*PRE*E1R0037*2",
       "geoCoord": {
         "latitude": "50.155861",
         "longitude": "14.522779"
@@ -653,7 +653,7 @@
       "partnerName": "PRE",
       "plugs": [
         {
-          "plug": "CHAdeMO"
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
         }
       ],
       "postalCode": "19600",
@@ -8186,6 +8186,45 @@
       "street": "Ke Stadionu 2045"
     }
   },
+  "CZ2003418": {
+    "name": "Schnellladestation EuroOil Kozojedy",
+    "sha1": "29503e1bbea8caf87a5ed7629a96a91c216c41d0",
+    "station": {
+      "additionalInfo": "Bei der EuroOil Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Kozojedy",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2003418",
+      "csName": "Schnellladestation EuroOil Kozojedy",
+      "csStatus": "under_construction",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the EuroOil gas station",
+      "enCsname": "Fast charger EuroOil Kozojedy",
+      "evseId": "CZ*PRE*E1R5123*2",
+      "geoCoord": {
+        "latitude": "49.934944",
+        "longitude": "13.542917"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "ČEPRO a.s.",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "33141",
+      "region": "Středočeský kraj",
+      "street": "Kozojedy 152"
+    }
+  },
   "CZ3102615": {
     "name": "Schnellladestation ČEPRO Sedlice",
     "sha1": "d72e776f81ed7c666327c9b1dff01ff8bbdbc49d",
@@ -10751,6 +10790,45 @@
       "postalCode": "67922",
       "region": "Jihomoravský kraj",
       "street": "Lipůvka 364"
+    }
+  },
+  "CZ6403417": {
+    "name": "Schnellladestation OMV Brno Černovice",
+    "sha1": "d7bec05fc95baa4fd97c968b3c0b45e8646814ce",
+    "station": {
+      "additionalInfo": "Bei der OMV Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Brno-Černovice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ6403417",
+      "csName": "Schnellladestation OMV Brno Černovice",
+      "csStatus": "under_construction",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the OMV gas station",
+      "enCsname": "Fast charger OMV Brno Černovice",
+      "evseId": "CZ*PRE*E1R5081*2",
+      "geoCoord": {
+        "latitude": "49.185000",
+        "longitude": "16.648471"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "31800",
+      "region": "Jihomoravský kraj",
+      "street": "Černovická 1167/36"
     }
   },
   "CZ7102740": {
