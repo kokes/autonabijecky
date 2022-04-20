@@ -137,8 +137,8 @@
     }
   },
   "10065": {
-    "name": "E.ON Velká Bíteš",
-    "sha1": "03eb01967d8466483d4b968a6c123275137f3a46",
+    "name": "E.ON ČS B.C.S. Velká Bíteš",
+    "sha1": "19adc8d08d93f409dbc8ddfde14a391d8bbae541",
     "station": {
       "address": "Kpt. Jaroše 279",
       "city": "Velká Bíteš",
@@ -251,7 +251,7 @@
       ],
       "id": "10065",
       "last_updated": "RESET",
-      "name": "E.ON Velká Bíteš",
+      "name": "E.ON ČS B.C.S. Velká Bíteš",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -31147,6 +31147,93 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "543 51",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "88566": {
+    "name": "(P) Pivovar Obora",
+    "sha1": "b338b8c833355cdd3422eb04eef393a46a2eb145",
+    "station": {
+      "address": "Malšice 4",
+      "city": "Obora",
+      "coordinates": {
+        "latitude": "49.33869487",
+        "longitude": "14.63799333"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-04-19T06:23:45.223Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.33869487",
+            "longitude": "14.63799333"
+          },
+          "evse_id": "CZ*EON*E22088566*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "88566"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT"
+      ],
+      "id": "88566",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/118857/8310791649916039.jpg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) Pivovar Obora",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "39175",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
