@@ -12322,6 +12322,152 @@
       "visible": true
     }
   },
+  "157610": {
+    "name": "R397 - Praha Barrandov - Shell - 1",
+    "sha1": "3ba54f1ee0c824969a6940cbaff6d09d615bd5e5",
+    "station": {
+      "address": {
+        "city": "Praha 5",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Barrandovu 1085/1",
+        "latitude": 50.0358471,
+        "longitude": 14.3870534,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K",
+        "url": ""
+      },
+      "customID": "157610",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3321-055",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R397"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-055",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-055",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R397"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/img_0443.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R397 - Praha Barrandov - Shell - 1",
+      "visible": true
+    }
+  },
+  "157611": {
+    "name": "R398 - Praha Barrandov - Shell - 2",
+    "sha1": "a1d031c27f75cbedf8fd9e70e7e0c1f3df0ffc02",
+    "station": {
+      "address": {
+        "city": "Praha 5",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Barrandovu 1085/1",
+        "latitude": 50.0358471,
+        "longitude": 14.3870534,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K",
+        "url": ""
+      },
+      "customID": "157611",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3321-044",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R398"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-044",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-044",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R398"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/img_0443.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R398 - Praha Barrandov - Shell - 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",

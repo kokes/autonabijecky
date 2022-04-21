@@ -21441,7 +21441,7 @@
   },
   "51513": {
     "name": "E.ON VETO Písek",
-    "sha1": "7fcb81cc83bb82f68caf04b8c714ae15688101b2",
+    "sha1": "3ab55d5fb57ed1aed5861453c3e6edd674b2ea54",
     "station": {
       "address": "Hradišťská 2532/39",
       "city": "Písek",
@@ -21466,10 +21466,10 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-01-31T13:15:22.027Z",
-              "max_amperage": 125,
+              "last_updated": "2022-04-20T15:14:17.94Z",
+              "max_amperage": 250,
               "max_electric_power": 75000,
-              "max_voltage": 500,
+              "max_voltage": 1000,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
@@ -21477,8 +21477,8 @@
                 "5",
                 "60",
                 "63",
-                "141",
-                "142"
+                "142",
+                "141"
               ]
             },
             {
@@ -21746,7 +21746,7 @@
   },
   "51525": {
     "name": "E.ON Penny Znojmo",
-    "sha1": "37dbeab489d2b3f1fd273657150d02cb3702cd2e",
+    "sha1": "8e3abde81f535c0111ed8989cbdf15cf09799d52",
     "station": {
       "address": "Přímětická 2625/76",
       "city": "Znojmo",
@@ -21767,13 +21767,50 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2022-04-20T15:15:28.997Z",
+              "max_amperage": 250,
+              "max_electric_power": 75000,
+              "max_voltage": 1000,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2022-04-20T15:06:51.87Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.87124609",
             "longitude": "16.04012374"
           },
           "evse_id": "CZ*EON*E32051525*1",
-          "last_seen_as_planned": "2021-08-31T05:26:21.603Z",
+          "last_seen_as_planned": "2022-04-20T15:16:37.31Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51525"
@@ -21803,13 +21840,32 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2022-04-20T15:06:51.87Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.87124609",
             "longitude": "16.04012374"
           },
           "evse_id": "CZ*EON*E32051525*3",
-          "last_seen_as_planned": "2021-08-31T05:26:21.603Z",
+          "last_seen_as_planned": "2022-04-20T15:16:37.31Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51527"
