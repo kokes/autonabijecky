@@ -8188,7 +8188,7 @@
   },
   "CZ2003418": {
     "name": "Schnellladestation EuroOil Kozojedy",
-    "sha1": "29503e1bbea8caf87a5ed7629a96a91c216c41d0",
+    "sha1": "4465441bab35eabfc690c67634a70dac92973e7b",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "chargingFacilities": {
@@ -8201,7 +8201,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ2003418",
       "csName": "Schnellladestation EuroOil Kozojedy",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the EuroOil gas station",
       "enCsname": "Fast charger EuroOil Kozojedy",
@@ -8212,6 +8212,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_kozojedy.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "ČEPRO a.s.",
@@ -11524,7 +11531,7 @@
   },
   "CZ8002804": {
     "name": "Schnellladestation OMV Bruntál",
-    "sha1": "267d8da7d21b90d5f3f0ac7cac16c45d831378f0",
+    "sha1": "44dfdb769bfefe92cd31cc4e69bc7a9d9a522dca",
     "station": {
       "additionalInfo": "Station out of service due to the reconstruction of the gas station",
       "chargingFacilities": {
@@ -11537,7 +11544,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ8002804",
       "csName": "Schnellladestation OMV Bruntál",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "Station out of service due to the reconstruction of the gas station",
       "enCsname": "Fast charger OMV Bruntál",
