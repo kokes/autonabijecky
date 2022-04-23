@@ -5823,7 +5823,7 @@
   },
   "22223": {
     "name": "E.ON ČS Benzina Rokycany",
-    "sha1": "5f66e48eaedec770ea6fbfcdbe611b36e80d9d04",
+    "sha1": "baa9985662be871ec0f68b147cdbc300de134d48",
     "station": {
       "address": "Pražská 1200",
       "city": "Rokycany",
@@ -5934,6 +5934,13 @@
         "FUEL_STATION"
       ],
       "id": "22223",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/12596/244301650637540.jpg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "E.ON ČS Benzina Rokycany",
       "opening_times": {
