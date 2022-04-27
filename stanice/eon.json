@@ -13084,7 +13084,7 @@
   },
   "35925": {
     "name": "E.ON Kroměříž",
-    "sha1": "0edb443b66fd5ac8f2331ca46aa9d099104c4d4d",
+    "sha1": "e3e9dfc6ba9c7e96f8c709167c2dee2b37afc5da",
     "station": {
       "address": "Nádražní 1690/3",
       "city": "Kroměříž",
@@ -13130,7 +13130,7 @@
             "longitude": "17.403646"
           },
           "evse_id": "CZ*EON*E25035925*1",
-          "last_seen_as_planned": "2022-01-31T13:25:31.833Z",
+          "last_seen_as_planned": "2021-02-08T15:57:09.153Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35925"
@@ -13167,7 +13167,7 @@
             "longitude": "17.403646"
           },
           "evse_id": "CZ*EON*E25035925*2",
-          "last_seen_as_planned": "2022-01-31T13:25:31.833Z",
+          "last_seen_as_planned": "2021-02-08T15:57:09.153Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35926"
