@@ -10624,7 +10624,7 @@
   },
   "154290": {
     "name": "N176 - Dolní Břežany - Parkovací dům - 2",
-    "sha1": "5f1e0a30a7789d34bc8f708587067a28a7bb8bd3",
+    "sha1": "8e1f80a0de3a60d70b97b20a840b44f5714b591c",
     "station": {
       "address": {
         "city": "Dolní Břežany",
@@ -10678,7 +10678,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/img_0671.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
         }
       ],
       "instructions": null,
@@ -12465,6 +12465,426 @@
       ],
       "instructions": null,
       "name": "R398 - Praha Barrandov - Shell - 2",
+      "visible": true
+    }
+  },
+  "157899": {
+    "name": "R417 - Tuchoměřice - Pop Airport - 1",
+    "sha1": "102258c42110b31209ddcbceb5f514235eb398cd",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.125372,
+        "longitude": 14.2827351,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "157899",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-012",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R417"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-012",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-012",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R417"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-123900.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R417 - Tuchoměřice - Pop Airport - 1",
+      "visible": true
+    }
+  },
+  "157917": {
+    "name": "R418 - Tuchoměřice - Pop Airport - 2",
+    "sha1": "ea2b38210dc9b53aba163f60371ce94519a4c01e",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.125372,
+        "longitude": 14.2827351,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "157917",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-020",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R418"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-020",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-020",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R418"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-123900.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R418 - Tuchoměřice - Pop Airport - 2",
+      "visible": true
+    }
+  },
+  "157918": {
+    "name": "R419 - Tuchoměřice - Pop Airport - 3",
+    "sha1": "00fe9324be6529a61e799690ce5b0b148bdc9914",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.125372,
+        "longitude": 14.2827351,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "157918",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-013",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R419"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-013",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-013",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R419"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-123900.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R419 - Tuchoměřice - Pop Airport - 3",
+      "visible": true
+    }
+  },
+  "157919": {
+    "name": "N186 - Tuchoměřice - POP Airport -1",
+    "sha1": "287ebbf42fa3f12e664f8c49b2d8748c48c9fc5d",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.125372,
+        "longitude": 14.2827351,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "157919",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N186"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N186"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N186 - Tuchoměřice - POP Airport -1",
+      "visible": true
+    }
+  },
+  "157921": {
+    "name": "N187 - Tuchoměřice - POP Airport - 2",
+    "sha1": "a09868abfc1a9c533eea9faef591d1613e50fdb6",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.125372,
+        "longitude": 14.2827351,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "157921",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N187"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N187"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N187 - Tuchoměřice - POP Airport - 2",
+      "visible": true
+    }
+  },
+  "157925": {
+    "name": "R406 - Lipník nad Bečvou",
+    "sha1": "208c916e42353f8f785453f216ad9a3d40e3031d",
+    "station": {
+      "address": {
+        "city": "Lipník nad Bečvou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.5250317,
+        "longitude": 17.5845844,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Piaristická",
+        "url": ""
+      },
+      "customID": "157925",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-009",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R406"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-009",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-009",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R406"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/1642061639181.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R406 - Lipník nad Bečvou",
       "visible": true
     }
   },

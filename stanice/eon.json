@@ -18590,7 +18590,7 @@
   },
   "51427": {
     "name": "E.ON Velká Bíteš",
-    "sha1": "909b65d96b9b5295d4cad56eacf05532a42c2a91",
+    "sha1": "9cfe5bfb25fc20f279303b8c7791be6073e33369",
     "station": {
       "address": "Pod Hradbami",
       "city": "Velká Bíteš",
@@ -18611,7 +18611,26 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2022-04-27T22:01:06.443Z",
+              "max_amperage": 63,
+              "max_electric_power": 43000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.28749794",
             "longitude": "16.22616818"
@@ -18629,7 +18648,44 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2022-04-27T22:01:06.443Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2022-04-27T22:01:06.443Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.28749794",
             "longitude": "16.22616818"
@@ -18749,7 +18805,7 @@
   },
   "51431": {
     "name": "E.ON Rosice",
-    "sha1": "dc72b164563da1a054505c264075a0156ade9c83",
+    "sha1": "b30e763661df1db0d3f39ed6f7b6dcda72d3f3c8",
     "station": {
       "address": "Žerotínovo náměstí",
       "city": "Rosice",
@@ -18788,7 +18844,44 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2022-04-27T22:01:06.443Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2022-04-27T22:01:06.443Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.18216918",
             "longitude": "16.38720514"

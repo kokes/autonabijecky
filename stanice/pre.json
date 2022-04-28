@@ -7223,6 +7223,52 @@
       "street": "Bryksova"
     }
   },
+  "CZ1003439": {
+    "name": "Ladestation TS 2453 Radomská",
+    "sha1": "c2414b1d0e5126ff8d252365d7560a244d98d6b2",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 2453",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003439",
+      "csName": "Ladestation TS 2453 Radomská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "By the transformation station TS 2453",
+      "enCsname": "Charger TS 2453 Radomská",
+      "evseId": "CZ*PRE*E1S8038*2",
+      "geoCoord": {
+        "latitude": "50.129553",
+        "longitude": "14.415513"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_2453_radomska.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "Radomská"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
