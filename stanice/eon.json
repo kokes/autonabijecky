@@ -18590,7 +18590,7 @@
   },
   "51427": {
     "name": "E.ON Velká Bíteš",
-    "sha1": "9cfe5bfb25fc20f279303b8c7791be6073e33369",
+    "sha1": "9fec292cede3ca821ab3d6a17c467e6521706a95",
     "station": {
       "address": "Pod Hradbami",
       "city": "Velká Bíteš",
@@ -18615,9 +18615,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-04-27T22:01:06.443Z",
+              "last_updated": "2022-04-28T22:01:04.51Z",
               "max_amperage": 63,
-              "max_electric_power": 43000,
+              "max_electric_power": 22000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
@@ -18652,12 +18652,12 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-04-27T22:01:06.443Z",
+              "last_updated": "2022-04-28T22:01:04.51Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
               "power_type": "DC",
-              "standard": "CHADEMO",
+              "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
                 "2",
                 "5",
@@ -18670,12 +18670,12 @@
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2022-04-27T22:01:06.443Z",
+              "last_updated": "2022-04-28T22:01:04.51Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
               "power_type": "DC",
-              "standard": "IEC_62196_T2_COMBO",
+              "standard": "CHADEMO",
               "tariff_ids": [
                 "2",
                 "5",
@@ -18805,7 +18805,7 @@
   },
   "51431": {
     "name": "E.ON Rosice",
-    "sha1": "b30e763661df1db0d3f39ed6f7b6dcda72d3f3c8",
+    "sha1": "8681433d3b64476bf4c4029cf91e12fcfd39b8b7",
     "station": {
       "address": "Žerotínovo náměstí",
       "city": "Rosice",
@@ -18826,7 +18826,26 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-04-28T22:01:04.51Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.18216918",
             "longitude": "16.38720514"
@@ -18866,7 +18885,25 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-04-27T22:01:06.443Z",
+              "last_updated": "2022-04-28T22:01:04.51Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2022-04-28T22:01:04.51Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
