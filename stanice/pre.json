@@ -587,7 +587,7 @@
   },
   "CZ1002606": {
     "name": "Ultra-Highspeed-Ladestation Lidl Čakovice",
-    "sha1": "d3ec66780fe20cfe0478dbf4838dc0d8b20c9ce4",
+    "sha1": "6f6311cf460c8ab65aff6d21723b384fb3315c8f",
     "station": {
       "additionalInfo": "Von der Schoellerova Straße und auf dem Parkplatz des Supermarktes Lidl",
       "chargingFacilities": {
@@ -611,6 +611,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_lidl_cakovice_3.jpg"
+        }
+      ],
       "isOpen24Hours": "false",
       "isPartnerCs": false,
       "openingTimes": [
