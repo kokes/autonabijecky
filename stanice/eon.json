@@ -13084,7 +13084,7 @@
   },
   "35925": {
     "name": "E.ON Kroměříž",
-    "sha1": "e3e9dfc6ba9c7e96f8c709167c2dee2b37afc5da",
+    "sha1": "ecb7cbf53b581cffb6b507e054d3ba2670de5d94",
     "station": {
       "address": "Nádražní 1690/3",
       "city": "Kroměříž",
@@ -13130,7 +13130,7 @@
             "longitude": "17.403646"
           },
           "evse_id": "CZ*EON*E25035925*1",
-          "last_seen_as_planned": "2021-02-08T15:57:09.153Z",
+          "last_seen_as_planned": "2022-05-02T15:00:07.77Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35925"
@@ -13167,7 +13167,7 @@
             "longitude": "17.403646"
           },
           "evse_id": "CZ*EON*E25035925*2",
-          "last_seen_as_planned": "2021-02-08T15:57:09.153Z",
+          "last_seen_as_planned": "2022-05-02T15:00:07.77Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35926"
@@ -18805,7 +18805,7 @@
   },
   "51431": {
     "name": "E.ON Rosice",
-    "sha1": "8681433d3b64476bf4c4029cf91e12fcfd39b8b7",
+    "sha1": "3f710fce10f3436ca563aa23dd7821cdc4e9e553",
     "station": {
       "address": "Žerotínovo náměstí",
       "city": "Rosice",
@@ -18924,6 +18924,7 @@
             "longitude": "16.38720514"
           },
           "evse_id": "CZ*EON*E11051431*2",
+          "floor_level": "0",
           "last_seen_as_planned": "2022-03-11T09:22:08.653Z",
           "last_updated": "RESET",
           "status": "RESET",
