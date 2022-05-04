@@ -12888,6 +12888,79 @@
       "visible": true
     }
   },
+  "158170": {
+    "name": "R436 - Karviná - Benzina",
+    "sha1": "69e0da51c7d425566dd97c9896d4eecf838055f6",
+    "station": {
+      "address": {
+        "city": "Karviná",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "17. listopadu 1537/4",
+        "latitude": 49.845595,
+        "longitude": 18.5547628,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Třída",
+        "url": ""
+      },
+      "customID": "158170",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1022-015",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R436"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1022-015",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1022-015",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R436"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220503-wa0009.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R436 - Karviná - Benzina",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
