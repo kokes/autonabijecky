@@ -957,7 +957,7 @@
   },
   "109565": {
     "name": "(P) Olympia Brno - Parkovací dům",
-    "sha1": "c518517498e35b14c46911bd680f9863ca87d5d9",
+    "sha1": "dbb21ca8ddc77e3f931ce7be39eac5cbbaed1fd9",
     "station": {
       "address": "U Dálnice 777",
       "city": "Modřice",
@@ -1234,6 +1234,39 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "109572"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-05-04T22:00:55.547Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "137",
+                "138"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.140384",
+            "longitude": "16.632541"
+          },
+          "evse_id": "CZ*EON*E22129581*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "129581"
         }
       ],
       "facilities": [
