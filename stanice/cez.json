@@ -11345,70 +11345,6 @@
       "visible": true
     }
   },
-  "154828": {
-    "name": "N178 - Špindlerův Mlýn",
-    "sha1": "399738363dca8497f14bb40445888453a2457eb5",
-    "station": {
-      "address": {
-        "city": "Špindlerův Mlýn",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "Mlýn 152",
-        "latitude": 50.7259581,
-        "longitude": 15.6076361,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Špindlerův",
-        "url": ""
-      },
-      "customID": "154828",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "12105001770002",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N178"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "12105001770002",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N178"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_0276.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "N178 - Špindlerův Mlýn",
-      "visible": true
-    }
-  },
   "154957": {
     "name": "R357 - Jihlava - Citypark 2",
     "sha1": "3bf7f470809d9329d6a675c00b3569f1227c6a96",
@@ -12817,7 +12753,7 @@
   },
   "157925": {
     "name": "R406 - Lipník nad Bečvou",
-    "sha1": "208c916e42353f8f785453f216ad9a3d40e3031d",
+    "sha1": "37018d0d976bc9710a152fff5f6332de3b8e8aff",
     "station": {
       "address": {
         "city": "Lipník nad Bečvou",
@@ -12880,7 +12816,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/1642061639181.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/mcdonalds-praha-kbelska-20211220-124006.jpg"
         }
       ],
       "instructions": null,
@@ -12958,6 +12894,225 @@
       ],
       "instructions": null,
       "name": "R436 - Karviná - Benzina",
+      "visible": true
+    }
+  },
+  "158228": {
+    "name": "R437 - Žatec - Benzina",
+    "sha1": "3fd469a7a5edfd49bc7b28c795ad49a394d80e7a",
+    "station": {
+      "address": {
+        "city": "Žatec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2921",
+        "latitude": 50.3134097,
+        "longitude": 13.5330011,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Husova",
+        "url": ""
+      },
+      "customID": "158228",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4721-034",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R437"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-034",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-034",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R437"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220505-wa0004.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R437 - Žatec - Benzina",
+      "visible": true
+    }
+  },
+  "158230": {
+    "name": "R438 - Toužim - Benzina",
+    "sha1": "c43507e5eb528f850e4f9432fc1657c68775f307",
+    "station": {
+      "address": {
+        "city": "Toužim",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "607",
+        "latitude": 50.0605069,
+        "longitude": 12.9780519,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Karlovarská",
+        "url": ""
+      },
+      "customID": "158230",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4721-037",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R438"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-037",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-037",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R438"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220505-wa0014.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R438 - Toužim - Benzina",
+      "visible": true
+    }
+  },
+  "158251": {
+    "name": "R439 - Bečov nad Teplou - Benzina",
+    "sha1": "5bc1d3a9c7464276212813457f2c1ee0b17bb411",
+    "station": {
+      "address": {
+        "city": "Bečov nad Teplou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "470",
+        "latitude": 50.0932535,
+        "longitude": 12.8408926,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Karlovarská",
+        "url": ""
+      },
+      "customID": "158251",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-0922-018",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R439"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0922-018",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0922-018",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R439"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220505-wa0007.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R439 - Bečov nad Teplou - Benzina",
       "visible": true
     }
   },

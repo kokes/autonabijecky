@@ -18838,7 +18838,7 @@
   },
   "51431": {
     "name": "E.ON Rosice",
-    "sha1": "3f710fce10f3436ca563aa23dd7821cdc4e9e553",
+    "sha1": "cd0f954ea991ee91a0360bd3ac2555ff00f6493a",
     "station": {
       "address": "Žerotínovo náměstí",
       "city": "Rosice",
@@ -18899,24 +18899,6 @@
           "connectors": [
             {
               "format": "CABLE",
-              "id": "1",
-              "last_updated": "2022-04-27T22:01:06.443Z",
-              "max_amperage": 125,
-              "max_electric_power": 50000,
-              "max_voltage": 500,
-              "power_type": "DC",
-              "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": [
-                "2",
-                "5",
-                "60",
-                "63",
-                "141",
-                "142"
-              ]
-            },
-            {
-              "format": "CABLE",
               "id": "2",
               "last_updated": "2022-04-28T22:01:04.51Z",
               "max_amperage": 125,
@@ -18957,7 +18939,7 @@
             "longitude": "16.38720514"
           },
           "evse_id": "CZ*EON*E11051431*2",
-          "floor_level": "0",
+          "floor_level": "",
           "last_seen_as_planned": "2022-03-11T09:22:08.653Z",
           "last_updated": "RESET",
           "status": "RESET",
