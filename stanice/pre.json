@@ -5699,12 +5699,12 @@
   },
   "CZ1003218": {
     "name": "Ultra-Highspeed-Ladestation Pivovar Spojovna",
-    "sha1": "015807586b77236def32f124145de5a6e30a4b01",
+    "sha1": "6c18f5d6ce260fb4649b6bd78b3d9e86cc49fb21",
     "station": {
       "additionalInfo": "Vor dem Restaurant Pivovar Spojovna",
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging >50kW"
+          "DC Charging ≤50kW"
         ]
       },
       "city": "Praha",
@@ -5735,7 +5735,7 @@
       "partnerName": "PRE",
       "plugs": [
         {
-          "plug": "CCS Combo 2 Plug (Cable Attached)"
+          "plug": "CHAdeMO"
         }
       ],
       "postalCode": "14800",
