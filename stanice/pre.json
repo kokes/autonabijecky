@@ -7276,6 +7276,50 @@
       "street": "Radomská"
     }
   },
+  "CZ1003449": {
+    "name": "Schnellladestation Penny Market Újezd nad Lesy",
+    "sha1": "924b207815809c35232fa77e8a66ee9b9560f6f1",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Újezd nad Lesy",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003449",
+      "csName": "Schnellladestation Penny Market Újezd nad Lesy",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger Penny Market Újezd nad Lesy",
+      "evseId": "CZ*PRE*E1R0038*3",
+      "geoCoord": {
+        "latitude": "50.077833",
+        "longitude": "14.648806"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/app_pre_penny_market_ujezd_n_lesy.png"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "19016",
+      "region": "Hlavní město Praha",
+      "street": "Starokolínska 1816"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
