@@ -16816,8 +16816,8 @@
     }
   },
   "59485": {
-    "name": "N034 - Mělník-Horní Počaply - Elektrárna Mělník",
-    "sha1": "cc8fa07649cdec6a13bfdb14588265fcb046b9bf",
+    "name": "N191 - Mělník-Horní Počaply - Elektrárna Mělník",
+    "sha1": "69b568b4646499611e173ca81f52ec2a5000e129",
     "station": {
       "address": {
         "city": "Horní Počaply",
@@ -16852,7 +16852,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N034"
+          "physicalReference": "N191"
         },
         {
           "connectors": [
@@ -16866,7 +16866,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N034"
+          "physicalReference": "N191"
         }
       ],
       "images": [
@@ -16875,7 +16875,7 @@
         }
       ],
       "instructions": null,
-      "name": "N034 - Mělník-Horní Počaply - Elektrárna Mělník",
+      "name": "N191 - Mělník-Horní Počaply - Elektrárna Mělník",
       "visible": true
     }
   },
@@ -18820,8 +18820,8 @@
     }
   },
   "59516": {
-    "name": "N008 - Praha - BB centrum - budova Delta",
-    "sha1": "007acc9d8d9faf4ac2da76f1b30457e5de7ce1f4",
+    "name": "N190 - Praha - BB centrum - budova Delta",
+    "sha1": "1abcf816de76a61c3f7ef187c5d32df30c2412bb",
     "station": {
       "address": {
         "city": "Praha 4",
@@ -18856,7 +18856,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N008"
+          "physicalReference": "N190"
         },
         {
           "connectors": [
@@ -18870,16 +18870,16 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N008"
+          "physicalReference": "N190"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/8465165.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img_9757.jpg"
         }
       ],
       "instructions": null,
-      "name": "N008 - Praha - BB centrum - budova Delta",
+      "name": "N190 - Praha - BB centrum - budova Delta",
       "visible": true
     }
   },
