@@ -587,12 +587,12 @@
   },
   "CZ1002606": {
     "name": "Ultra-Highspeed-Ladestation Lidl Čakovice",
-    "sha1": "6f6311cf460c8ab65aff6d21723b384fb3315c8f",
+    "sha1": "f6594883c2b52e2cf5bc968b16d8ef928aa5c008",
     "station": {
       "additionalInfo": "Von der Schoellerova Straße und auf dem Parkplatz des Supermarktes Lidl",
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging >50kW"
+          "DC Charging ≥200kW"
         ]
       },
       "city": "Praha",
@@ -5699,12 +5699,12 @@
   },
   "CZ1003218": {
     "name": "Ultra-Highspeed-Ladestation Pivovar Spojovna",
-    "sha1": "6c18f5d6ce260fb4649b6bd78b3d9e86cc49fb21",
+    "sha1": "3e5717150801ba2aa2b1c8d60ce745c854e7393e",
     "station": {
       "additionalInfo": "Vor dem Restaurant Pivovar Spojovna",
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤50kW"
+          "DC Charging ≥200kW"
         ]
       },
       "city": "Praha",
@@ -5716,7 +5716,7 @@
       "csType": "ultra_fast_charger",
       "enAdditionalInfo": "Infront of the Pivovar Spojovna restaurant",
       "enCsname": "Ultra-highspeed charger Pivovar Spojovna",
-      "evseId": "CZ*PRE*E1R0035*3",
+      "evseId": "CZ*PRE*E1R0035*4",
       "geoCoord": {
         "latitude": "50.020435",
         "longitude": "14.498698"
@@ -5735,7 +5735,7 @@
       "partnerName": "PRE",
       "plugs": [
         {
-          "plug": "CHAdeMO"
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
         }
       ],
       "postalCode": "14800",
@@ -7322,12 +7322,12 @@
   },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
-    "sha1": "35ae89a343d6888a8df557d3a3c366dc097b5df2",
+    "sha1": "98edb4cc5f08dc546267911035e283d00698eaf2",
     "station": {
       "additionalInfo": "In der Lucní Straße",
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging >50kW"
+          "DC Charging ≤150kW"
         ]
       },
       "city": "Klecany",
@@ -11096,6 +11096,50 @@
       "postalCode": "79376",
       "region": "Olomoucký kraj",
       "street": "Krnovská 225"
+    }
+  },
+  "CZ7103451": {
+    "name": "Ladestation Centrum Moravia Mercedes 1",
+    "sha1": "f9c9efc92a798cc8ce6a8f4f006afa9e11e062e5",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≥200kW"
+        ]
+      },
+      "city": "Olomouc",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ7103451",
+      "csName": "Ladestation Centrum Moravia Mercedes 1",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Centrum Moravia Mercedes 1",
+      "evseId": "CZ*PRE*E1R0040*2",
+      "geoCoord": {
+        "latitude": "49.574089",
+        "longitude": "17.231840"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_centrum_moravia_mercedes_1.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "78301",
+      "region": "Olomoucký kraj",
+      "street": "Horní lán 415/3"
     }
   },
   "CZ7202811": {

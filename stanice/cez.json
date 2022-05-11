@@ -13116,6 +13116,79 @@
       "visible": true
     }
   },
+  "158432": {
+    "name": "R435 - Solnice - u kulturního domu",
+    "sha1": "38302ddd86e85f2bc4631cb5bb0a5b030da89579",
+    "station": {
+      "address": {
+        "city": "Solnice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "- u kulturního domu",
+        "latitude": 50.2030208,
+        "longitude": 16.2355775,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Družstevní",
+        "url": ""
+      },
+      "customID": "158432",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4821-028",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R435"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-028",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-028",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R435"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img_1311.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R435 - Solnice - u kulturního domu",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
