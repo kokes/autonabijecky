@@ -21401,7 +21401,7 @@
   },
   "51507": {
     "name": "E.ON KIA České Budějovice",
-    "sha1": "5d7d7bd3a1a0a5627a7968295d94ee2b6bbb9edc",
+    "sha1": "6bc96e6a9fff38a97eff653c0a6248a0c0e3c82d",
     "station": {
       "address": "Okružní 2824",
       "city": "České Budějovice",
@@ -21422,13 +21422,50 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2022-05-11T22:00:52.237Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2022-05-11T22:00:52.237Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.99968863",
             "longitude": "14.49222646"
           },
           "evse_id": "CZ*EON*E32051507*1",
-          "last_seen_as_planned": "2021-08-27T14:05:28.5Z",
+          "last_seen_as_planned": "2022-05-11T18:49:16.957Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51507"
@@ -21458,17 +21495,39 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2022-05-11T22:00:52.237Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.99968863",
             "longitude": "14.49222646"
           },
           "evse_id": "CZ*EON*E32051507*3",
-          "last_seen_as_planned": "2021-08-27T14:05:28.5Z",
+          "last_seen_as_planned": "2022-05-11T18:49:16.957Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51509"
         }
+      ],
+      "facilities": [
+        "CAFE"
       ],
       "id": "51507",
       "last_updated": "RESET",
@@ -31256,9 +31315,9 @@
   },
   "87558": {
     "name": "(P) Amenity Hotel & Resort Špindlerův Mlýn",
-    "sha1": "4ea6e7221d7cd3f540ffbb37447afab3949f92ab",
+    "sha1": "089acd0e0e1cf49d327e8f0f89df81c19f522be2",
     "station": {
-      "address": "Špindlerův Mlýn 117",
+      "address": "Labská 117",
       "city": "Špindlerův Mlýn",
       "coordinates": {
         "latitude": "50.716344",
