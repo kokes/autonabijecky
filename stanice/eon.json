@@ -21401,7 +21401,7 @@
   },
   "51507": {
     "name": "E.ON KIA České Budějovice",
-    "sha1": "6bc96e6a9fff38a97eff653c0a6248a0c0e3c82d",
+    "sha1": "32ab8e9fb584d0df9eb5022a3ce896af6fb90cde",
     "station": {
       "address": "Okružní 2824",
       "city": "České Budějovice",
@@ -21483,7 +21483,8 @@
             "longitude": "14.49222646"
           },
           "evse_id": "CZ*EON*E32051507*2",
-          "last_seen_as_planned": "2021-08-27T14:05:28.5Z",
+          "floor_level": "0",
+          "last_seen_as_planned": "2022-05-13T08:28:14.223Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51508"
@@ -21530,6 +21531,18 @@
         "CAFE"
       ],
       "id": "51507",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpeg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/78053/7026281652432714.jpeg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpeg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/78053/7488301652432724.jpeg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "E.ON KIA České Budějovice",
       "opening_times": {
