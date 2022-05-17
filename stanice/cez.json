@@ -13189,6 +13189,134 @@
       "visible": true
     }
   },
+  "158691": {
+    "name": "N188 - Loučeň - Zámek Loučeň - 1",
+    "sha1": "4d779a825be588a39550c1387f20a2734413a78e",
+    "station": {
+      "address": {
+        "city": "Loučeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1",
+        "latitude": 50.2865944,
+        "longitude": 15.0239886,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Loučeň",
+        "url": ""
+      },
+      "customID": "158691",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N188"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N188"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/img_0671.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N188 - Loučeň - Zámek Loučeň - 1",
+      "visible": true
+    }
+  },
+  "158692": {
+    "name": "N189 - Loučeň - Zámek Loučeň - 2",
+    "sha1": "7f09591eb107d60189d13f6116723890f4a059d1",
+    "station": {
+      "address": {
+        "city": "Loučeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1",
+        "latitude": 50.2865944,
+        "longitude": 15.0239886,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Loučeň",
+        "url": ""
+      },
+      "customID": "158692",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N189"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N189"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/img_1342.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N189 - Loučeň - Zámek Loučeň - 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
