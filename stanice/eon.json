@@ -1585,6 +1585,221 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "117336": {
+    "name": "(P) Box - auto",
+    "sha1": "d5da5f84de30f56fbb50e49c6cbab24a1bc13cb7",
+    "station": {
+      "address": "Hruškové Dvory 137",
+      "city": "Jihlava",
+      "coordinates": {
+        "latitude": "49.4072549",
+        "longitude": "15.61168335"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-05-19T09:01:14.407Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "164",
+                "165"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.4072549",
+            "longitude": "15.61168335"
+          },
+          "evse_id": "CZ*EON*E22117336*1",
+          "last_seen_as_planned": "2022-05-19T09:01:14.407Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "117336"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-05-19T09:01:14.407Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "164",
+                "165"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.4072549",
+            "longitude": "15.61168335"
+          },
+          "evse_id": "CZ*EON*E22117336*2",
+          "last_seen_as_planned": "2022-05-19T09:01:14.407Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "117337"
+        }
+      ],
+      "id": "117336",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "JPG",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/125248/2535781652775638.JPG"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) Box - auto",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "BOX-AUTO, Spol. s r. o."
+      },
+      "owner": {
+        "name": "BOX-AUTO, Spol. s r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "58601",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "117357": {
+    "name": "(P) Relaxcentrum Mrkáček Lišov",
+    "sha1": "38e123ba46f7f5e8c66dac2a875aba1f772ec786",
+    "station": {
+      "address": "Dolní 865",
+      "city": "Lišov",
+      "coordinates": {
+        "latitude": "49.01432889",
+        "longitude": "14.62524622"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.01432889",
+            "longitude": "14.62524622"
+          },
+          "evse_id": "CZ*EON*E22117357*1",
+          "last_seen_as_planned": "2022-05-19T10:22:54.43Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "117357"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-05-19T10:38:40.98Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "166",
+                "167"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.01432889",
+            "longitude": "14.62524622"
+          },
+          "evse_id": "CZ*EON*E22117358*1",
+          "last_seen_as_planned": "2022-05-19T10:22:54.43Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "117358"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "SPORT"
+      ],
+      "id": "117357",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/125688/9616961652948496.jpg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) Relaxcentrum Mrkáček Lišov",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Milan Mrkáček"
+      },
+      "owner": {
+        "name": "Milan Mrkáček"
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "37372",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "127563": {
     "name": "E.ON ČSAD Strakonice",
     "sha1": "7ac858d02a5833aacdf317de5974cfd780504ab3",

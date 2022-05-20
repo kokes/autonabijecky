@@ -7320,6 +7320,52 @@
       "street": "Starokolínska 1816"
     }
   },
+  "CZ1003469": {
+    "name": "Ladestation Centrum Černý Most strecha 1",
+    "sha1": "7023703362d8431fe76ecef6264f856804605587",
+    "station": {
+      "additionalInfo": "auf dem Dachparkplatz Centrum Cerný most",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003469",
+      "csName": "Ladestation Centrum Černý Most strecha 1",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "roof parking lot Centrum Cerný most",
+      "enCsname": "Charger Centrum Černý Most strecha 1",
+      "evseId": "CZ*PRE*E1S8044*6",
+      "geoCoord": {
+        "latitude": "50.101081",
+        "longitude": "14.504601"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_centrum_cerny_most_1.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19800",
+      "region": "Hlavní město Praha",
+      "street": "Chlumecká 765/6"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "98edb4cc5f08dc546267911035e283d00698eaf2",
@@ -7892,9 +7938,9 @@
   },
   "CZ2002887": {
     "name": "Schnellladestation EuroOil Nehvizdy",
-    "sha1": "bba5a40dda6e0d2307a6568eaf00539cf44d3c90",
+    "sha1": "255827eaf087eb2ec321e3eb49e0b080030b7e38",
     "station": {
-      "additionalInfo": "Bei der EuroOil Tankstelle",
+      "additionalInfo": "Dobíjecí stanice nejsou k dispozici z důvodu rekonstrukce čerpací stanice. Ukončení rekonstrukce je plánováno na 16. června",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -7905,9 +7951,9 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ2002887",
       "csName": "Schnellladestation EuroOil Nehvizdy",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
-      "enAdditionalInfo": "By the EuroOil gas station",
+      "enAdditionalInfo": "Charging stations are not available due to the gas station reconstruction. End of the reconstruction is planned for June 16th.",
       "enCsname": "Fast charger EuroOil Nehvizdy",
       "evseId": "CZ*PRE*E1R5101*2",
       "geoCoord": {
@@ -8646,6 +8692,52 @@
       "postalCode": "38001",
       "region": "Jihočeský kraj",
       "street": "Domoradická"
+    }
+  },
+  "CZ3103470": {
+    "name": "Schnellladestation EuroOil Jindřichův Hradec",
+    "sha1": "ca6eba60ab7511fc9deab9066cca997775a6db89",
+    "station": {
+      "additionalInfo": "Bei der EuroOil Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Jindřichův Hradec",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ3103470",
+      "csName": "Schnellladestation EuroOil Jindřichův Hradec",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the EuroOil gas station",
+      "enCsname": "Fast charger EuroOil Jindřichův Hradec",
+      "evseId": "CZ*PRE*E1R5092*3",
+      "geoCoord": {
+        "latitude": "49.153218",
+        "longitude": "14.988447"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_jindrichuv_hradec_12.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "ČEPRO a.s.",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "37701",
+      "region": "Jihočeský kraj",
+      "street": "Radouňka 174"
     }
   },
   "CZ3202594": {
