@@ -10336,6 +10336,45 @@
       "street": "Průmyslová 481"
     }
   },
+  "CZ5303472": {
+    "name": "Schnellladestation OMV Pardubice",
+    "sha1": "0bfd92c151bb3d2cbd1a1234217880b12b35d409",
+    "station": {
+      "additionalInfo": "Bei der OMV Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Pardubice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ5303472",
+      "csName": "Schnellladestation OMV Pardubice",
+      "csStatus": "under_construction",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the OMV Gas Station",
+      "enCsname": "Fast charger OMV Pardubice",
+      "evseId": "CZ*PRE*E1R5040*3",
+      "geoCoord": {
+        "latitude": "50.047231",
+        "longitude": "15.765520"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "53009",
+      "region": "Pardubický kraj",
+      "street": "Hradecká"
+    }
+  },
   "CZ6302813": {
     "name": "Schnellladestation OMV Jihlava",
     "sha1": "bc3af7da4cf7876123fdd09afb106a14e77e44ef",

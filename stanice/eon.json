@@ -13140,7 +13140,7 @@
   },
   "35921": {
     "name": "E.ON OC 4Dvory České Budějovice",
-    "sha1": "b1f8d38bac7543c00204dd74f70dbb02b4f20627",
+    "sha1": "f847bd6cc266f3992274ade7f2c76515a788b2f6",
     "station": {
       "address": "M. Horákové 1498",
       "city": "České Budějovice",
@@ -13161,13 +13161,32 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-05-20T12:48:43.27Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.9833418",
             "longitude": "14.44095549"
           },
           "evse_id": "CZ*EON*E25035921*1",
-          "last_seen_as_planned": "2022-01-18T11:00:00.21Z",
+          "last_seen_as_planned": "2022-05-20T12:48:43.27Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35921"
@@ -13179,17 +13198,42 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-05-20T12:48:43.27Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.9833418",
             "longitude": "14.44095549"
           },
           "evse_id": "CZ*EON*E25035921*2",
-          "last_seen_as_planned": "2022-01-18T11:00:00.21Z",
+          "last_seen_as_planned": "2022-05-20T12:48:43.27Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35922"
         }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "MALL",
+        "SUPERMARKET"
       ],
       "id": "35921",
       "last_updated": "RESET",
@@ -13203,6 +13247,7 @@
       "owner": {
         "name": "E.ON Energie, a.s."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "37005",
       "publish": true,
@@ -13900,7 +13945,7 @@
   },
   "35939": {
     "name": "E.ON Terno Prachatice",
-    "sha1": "b2dade2c45792b6c3e97c1b4f733296e8fbfb819",
+    "sha1": "e81cb6052b923ea1ae4d13a1cb3ef4f7cf4b0155",
     "station": {
       "address": "Husinecká 1190",
       "city": "Prachatice",
@@ -13921,13 +13966,32 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-05-20T12:45:14.38Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.01831338",
             "longitude": "13.99899793"
           },
           "evse_id": "CZ*EON*E25035939*1",
-          "last_seen_as_planned": "2022-01-18T11:56:43.213Z",
+          "last_seen_as_planned": "2022-05-20T12:45:14.38Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35939"
@@ -13939,17 +14003,39 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-05-20T12:45:14.38Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.01831338",
             "longitude": "13.99899793"
           },
           "evse_id": "CZ*EON*E25035939*2",
-          "last_seen_as_planned": "2022-01-18T11:56:43.213Z",
+          "last_seen_as_planned": "2022-05-20T12:45:14.38Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35940"
         }
+      ],
+      "facilities": [
+        "SUPERMARKET"
       ],
       "id": "35939",
       "last_updated": "RESET",
@@ -13963,6 +14049,7 @@
       "owner": {
         "name": "E.ON Energie, a.s."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "383 01",
       "publish": true,
@@ -14938,7 +15025,7 @@
   },
   "35963": {
     "name": "E.ON Vodňany",
-    "sha1": "d2accae62317639fd767e9c9e053d442f884b025",
+    "sha1": "f1cf993d7566c8d8b20d63f440346f19dffc5405",
     "station": {
       "address": "Elektrárenská",
       "city": "Vodňany",
@@ -14959,13 +15046,32 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-05-20T12:54:48.157Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.1453024",
             "longitude": "14.17796713"
           },
           "evse_id": "CZ*EON*E25035963*1",
-          "last_seen_as_planned": "2022-01-18T12:43:30.063Z",
+          "last_seen_as_planned": "2022-05-20T12:54:48.157Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35963"
@@ -14977,17 +15083,41 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-05-20T12:54:48.157Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.1453024",
             "longitude": "14.17796713"
           },
           "evse_id": "CZ*EON*E25035963*2",
-          "last_seen_as_planned": "2022-01-18T12:43:30.063Z",
+          "last_seen_as_planned": "2022-05-20T12:54:48.157Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35964"
         }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE"
       ],
       "id": "35963",
       "last_updated": "RESET",
@@ -15001,6 +15131,7 @@
       "owner": {
         "name": "E.ON Energie, a.s."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "389 01",
       "publish": true,
