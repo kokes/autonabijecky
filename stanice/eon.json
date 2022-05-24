@@ -1700,7 +1700,7 @@
   },
   "117357": {
     "name": "(P) Relaxcentrum Mrkáček Lišov",
-    "sha1": "38e123ba46f7f5e8c66dac2a875aba1f772ec786",
+    "sha1": "2647d5f53c4008624c79e3a60aa5f2c0eae4e1d6",
     "station": {
       "address": "Dolní 865",
       "city": "Lišov",
@@ -1721,7 +1721,22 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-05-23T22:01:03.88Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "166",
+                "167"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.01432889",
             "longitude": "14.62524622"
@@ -15924,7 +15939,7 @@
   },
   "36614": {
     "name": "(P) Autodružstvo Znojmo",
-    "sha1": "93377ace0463bd5f7c92bf58921d2e9f1a0c5655",
+    "sha1": "d24935e4a8f59d60f083d5193430fbc275a65b06",
     "station": {
       "address": "Vídeňská tř. 2573",
       "city": "Znojmo",
@@ -16005,18 +16020,26 @@
           "uid": "36615"
         }
       ],
+      "facilities": [
+        "RESTAURANT",
+        "SUPERMARKET",
+        "BUS_STOP"
+      ],
       "id": "36614",
       "images": [
         {
           "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/45883/1603367195.jpg"
+          "type": "JPG",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/126137/1190711653294342.JPG"
         }
       ],
       "last_updated": "RESET",
       "name": "(P) Autodružstvo Znojmo",
+      "opening_times": {
+        "twentyfourseven": true
+      },
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "AUTODRUŽSTVO ZNOJMO"
       },
       "owner": {
         "name": "AUTODRUŽSTVO ZNOJMO"

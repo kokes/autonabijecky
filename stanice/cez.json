@@ -13317,6 +13317,225 @@
       "visible": true
     }
   },
+  "158871": {
+    "name": "R432 - Náchod - Kaufland - 1",
+    "sha1": "78675ed5565cd4a84ce21a88b4da78add91148d6",
+    "station": {
+      "address": {
+        "city": "Náchod - Běloves",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "379",
+        "latitude": 50.4240889,
+        "longitude": 16.1903675,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Polská",
+        "url": ""
+      },
+      "customID": "158871",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4821-031",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R432"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-031",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-031",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R432"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img_1433.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R432 - Náchod - Kaufland - 1",
+      "visible": true
+    }
+  },
+  "158908": {
+    "name": "R433 - Náchod - Kaufland - 2",
+    "sha1": "2a506f6819e979f867140eb477eb42e420f2604c",
+    "station": {
+      "address": {
+        "city": "Náchod - Běloves",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "379",
+        "latitude": 50.4240889,
+        "longitude": 16.1903675,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Polská",
+        "url": ""
+      },
+      "customID": "158908",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4821-033",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R433"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-033",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-033",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R433"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img_1433-20220523-120418.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R433 - Náchod - Kaufland - 2",
+      "visible": true
+    }
+  },
+  "158909": {
+    "name": "R434 - Náchod - Kaufland - 3",
+    "sha1": "59cec1c90085dc4f5be53c5cc494d9219b92bcb1",
+    "station": {
+      "address": {
+        "city": "Náchod - Běloves",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "379",
+        "latitude": 50.4240889,
+        "longitude": 16.1903675,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Polská",
+        "url": ""
+      },
+      "customID": "158909",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-017",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R434"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-017",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-017",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R434"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img_1433-20220523-120439.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R434 - Náchod - Kaufland - 3",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
