@@ -7366,6 +7366,52 @@
       "street": "Chlumecká 765/6"
     }
   },
+  "CZ1003475": {
+    "name": "Ladestation Kongresové centrum",
+    "sha1": "d415943c23687d465634f04ceefd032cf18dd2bd",
+    "station": {
+      "additionalInfo": "P+R Kongresové centrum Praha - Jih 1",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003475",
+      "csName": "Ladestation Kongresové centrum",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "P + R Congress Center Prague - South 1",
+      "enCsname": "Charger Kongresové centrum",
+      "evseId": "CZ*PRE*E1S8063*6",
+      "geoCoord": {
+        "latitude": "50.061187",
+        "longitude": "14.429500"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_kongresove_centrum.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14000",
+      "region": "Hlavní město Praha",
+      "street": "5. května"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "98edb4cc5f08dc546267911035e283d00698eaf2",
@@ -10338,7 +10384,7 @@
   },
   "CZ5303472": {
     "name": "Schnellladestation OMV Pardubice",
-    "sha1": "0bfd92c151bb3d2cbd1a1234217880b12b35d409",
+    "sha1": "91c630e3841e17c3b32684b8e30df7c54b4fd38d",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "chargingFacilities": {
@@ -10351,7 +10397,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ5303472",
       "csName": "Schnellladestation OMV Pardubice",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the OMV Gas Station",
       "enCsname": "Fast charger OMV Pardubice",
@@ -10362,6 +10408,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/app_pre_pardubice.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",

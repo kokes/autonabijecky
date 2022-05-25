@@ -1700,7 +1700,7 @@
   },
   "117357": {
     "name": "(P) Relaxcentrum Mrkáček Lišov",
-    "sha1": "2647d5f53c4008624c79e3a60aa5f2c0eae4e1d6",
+    "sha1": "c636d78662d504e3606318e7ee743d9f356885ee",
     "station": {
       "address": "Dolní 865",
       "city": "Lišov",
@@ -1723,9 +1723,9 @@
           ],
           "connectors": [
             {
-              "format": "SOCKET",
+              "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-05-23T22:01:03.88Z",
+              "last_updated": "2022-05-24T05:29:08.837Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -1756,9 +1756,9 @@
           ],
           "connectors": [
             {
-              "format": "SOCKET",
+              "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-05-19T10:38:40.98Z",
+              "last_updated": "2022-05-24T05:29:49.55Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -14452,7 +14452,7 @@
   },
   "35951": {
     "name": "E.ON Orsino Horní Planá",
-    "sha1": "3330bd0315922dbb7d65645df4a915e481b2ff37",
+    "sha1": "7f56d849f4f6ffbd54dbcbc33f4b9dbf06bedd26",
     "station": {
       "address": "Volarská 167",
       "city": "Horní Planá",
@@ -14473,13 +14473,32 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-05-24T10:02:10.943Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.76902169",
             "longitude": "14.02172933"
           },
           "evse_id": "CZ*EON*E25035951*1",
-          "last_seen_as_planned": "2022-01-18T12:23:34.747Z",
+          "last_seen_as_planned": "2022-05-24T10:02:10.943Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35951"
@@ -14491,17 +14510,43 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-05-24T10:02:10.943Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.76902169",
             "longitude": "14.02172933"
           },
           "evse_id": "CZ*EON*E25035951*2",
-          "last_seen_as_planned": "2022-01-18T12:23:34.747Z",
+          "last_seen_as_planned": "2022-05-24T10:02:10.943Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35952"
         }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "SPORT",
+        "RECREATION_AREA",
+        "NATURE"
       ],
       "id": "35951",
       "last_updated": "RESET",
@@ -14515,6 +14560,7 @@
       "owner": {
         "name": "E.ON Energie, a.s."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "382 26",
       "publish": true,
@@ -15234,7 +15280,7 @@
   },
   "35967": {
     "name": "E.ON Veselí nad Lužnicí",
-    "sha1": "783679be0b1c556240e6da2124e735c4ae378b69",
+    "sha1": "289da907a46e18d05bb91885b2ac8df06c817cf3",
     "station": {
       "address": "Tř. Československé armády 560",
       "city": "Veselí nad Lužnicí",
@@ -15255,13 +15301,32 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-05-24T07:54:58.447Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.18497306",
             "longitude": "14.70160084"
           },
           "evse_id": "CZ*EON*E25035967*1",
-          "last_seen_as_planned": "2022-01-18T12:53:56.55Z",
+          "last_seen_as_planned": "2022-05-24T07:54:58.447Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35967"
@@ -15273,17 +15338,42 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-05-24T07:54:58.447Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.18497306",
             "longitude": "14.70160084"
           },
           "evse_id": "CZ*EON*E25035967*2",
-          "last_seen_as_planned": "2022-01-18T12:53:56.55Z",
+          "last_seen_as_planned": "2022-05-24T07:54:58.447Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35968"
         }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "NATURE"
       ],
       "id": "35967",
       "last_updated": "RESET",
@@ -15297,6 +15387,7 @@
       "owner": {
         "name": "E.ON Energie, a.s."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "391 81",
       "publish": true,
@@ -15939,7 +16030,7 @@
   },
   "36614": {
     "name": "(P) Autodružstvo Znojmo",
-    "sha1": "d24935e4a8f59d60f083d5193430fbc275a65b06",
+    "sha1": "ba63787562437e3cd732d7fd8413ee7c9fc4bf06",
     "station": {
       "address": "Vídeňská tř. 2573",
       "city": "Znojmo",
@@ -16029,8 +16120,13 @@
       "images": [
         {
           "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/45883/1603367195.jpg"
+        },
+        {
+          "category": "OTHER",
           "type": "JPG",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/126137/1190711653294342.JPG"
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/45883/3715711653294281.JPG"
         }
       ],
       "last_updated": "RESET",
