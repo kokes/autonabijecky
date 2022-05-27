@@ -10552,6 +10552,45 @@
       "street": "Brněnská 4955/65a"
     }
   },
+  "CZ6303484": {
+    "name": "Schnellladestation OMV Mikulášov",
+    "sha1": "049cc22e85f68d867b27d3c8e8df23bc8e6219b3",
+    "station": {
+      "additionalInfo": "Bei der OMV Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Herálec - Kamenice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ6303484",
+      "csName": "Schnellladestation OMV Mikulášov",
+      "csStatus": "under_construction",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the OMV gas station",
+      "enCsname": "Fast charger OMV Mikulášov",
+      "evseId": "CZ*PRE*E1R5088*2",
+      "geoCoord": {
+        "latitude": "49.514252",
+        "longitude": "15.417880"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "58255",
+      "region": "Kraj Vysočina",
+      "street": "Odpočívka směr Brno 96 km"
+    }
+  },
   "CZ6402613": {
     "name": "Schnellladestation OMV Hodonín",
     "sha1": "80d71c4863b7de85a8c2bea583d1d78c489d66d0",

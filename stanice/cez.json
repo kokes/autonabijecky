@@ -13536,6 +13536,298 @@
       "visible": true
     }
   },
+  "159009": {
+    "name": "R440 - Unčovice - McDonald´s - 1",
+    "sha1": "5ce69da07c8e9e14b7c442b86c71acee9afbc4a4",
+    "station": {
+      "address": {
+        "city": "Litovel",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "128",
+        "latitude": 49.6625803,
+        "longitude": 17.1050788,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Unčovice",
+        "url": ""
+      },
+      "customID": "159009",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-0922-030",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R440"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0922-030",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0922-030",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R440"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220526-wa0002.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R440 - Unčovice - McDonald´s - 1",
+      "visible": true
+    }
+  },
+  "159030": {
+    "name": "R441 - Unčovice - McDonald´s - 2",
+    "sha1": "373e11cd4eec56b6b11f79dbcb228d468bb9e019",
+    "station": {
+      "address": {
+        "city": "Litovel",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "128",
+        "latitude": 49.6625803,
+        "longitude": 17.1050788,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Unčovice",
+        "url": ""
+      },
+      "customID": "159030",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-0922-007",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R441"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0922-007",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0922-007",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R441"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220526-wa0002.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R441 - Unčovice - McDonald´s - 2",
+      "visible": true
+    }
+  },
+  "159031": {
+    "name": "R442 - Unčovice - McDonald´s - 3",
+    "sha1": "914914e215bc878cb037f4e993958e72e7ed4e2d",
+    "station": {
+      "address": {
+        "city": "Litovel",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "128",
+        "latitude": 49.6625803,
+        "longitude": 17.1050788,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Unčovice",
+        "url": ""
+      },
+      "customID": "159031",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4821-036",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R442"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-036",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-036",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R442"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220526-wa0002.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R442 - Unčovice - McDonald´s - 3",
+      "visible": true
+    }
+  },
+  "159032": {
+    "name": "R443 - Unčovice - McDonald´s - 4",
+    "sha1": "8a87cd76adb62d325e4830fb4bdf1ec7b6a8ad46",
+    "station": {
+      "address": {
+        "city": "Litovel",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "128",
+        "latitude": 49.6625803,
+        "longitude": 17.1050788,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Unčovice",
+        "url": ""
+      },
+      "customID": "159032",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-0922-008",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R443"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0922-008",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0922-008",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R443"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220526-wa0002.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R443 - Unčovice - McDonald´s - 4",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
