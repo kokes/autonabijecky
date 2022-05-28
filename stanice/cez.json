@@ -11345,6 +11345,70 @@
       "visible": true
     }
   },
+  "154828": {
+    "name": "N178 - Špindlerův Mlýn",
+    "sha1": "399738363dca8497f14bb40445888453a2457eb5",
+    "station": {
+      "address": {
+        "city": "Špindlerův Mlýn",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Mlýn 152",
+        "latitude": 50.7259581,
+        "longitude": 15.6076361,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Špindlerův",
+        "url": ""
+      },
+      "customID": "154828",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "12105001770002",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N178"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "12105001770002",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N178"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_0276.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N178 - Špindlerův Mlýn",
+      "visible": true
+    }
+  },
   "154957": {
     "name": "R357 - Jihlava - Citypark 2",
     "sha1": "3bf7f470809d9329d6a675c00b3569f1227c6a96",
