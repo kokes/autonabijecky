@@ -11119,6 +11119,52 @@
       "street": "Lipůvka 364"
     }
   },
+  "CZ6403417": {
+    "name": "Schnellladestation OMV Brno Černovice",
+    "sha1": "3978887d264e19d63fddc6e572067d697c5f5b69",
+    "station": {
+      "additionalInfo": "Bei der OMV Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Brno-Černovice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ6403417",
+      "csName": "Schnellladestation OMV Brno Černovice",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the OMV gas station",
+      "enCsname": "Fast charger OMV Brno Černovice",
+      "evseId": "CZ*PRE*E1R5081*2",
+      "geoCoord": {
+        "latitude": "49.185000",
+        "longitude": "16.648471"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/app_pre_omv_brno_cernovice.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "31800",
+      "region": "Jihomoravský kraj",
+      "street": "Černovická 1167/36"
+    }
+  },
   "CZ7102740": {
     "name": "Schnellladestation OMV Prostějov",
     "sha1": "54885f263738376f31d6ec2dba694490d1f88d13",
