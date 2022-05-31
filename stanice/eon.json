@@ -2678,6 +2678,158 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "135427": {
+    "name": "(P) Tvrz Orlice",
+    "sha1": "355ae9a33f90436d8ce87764757bed0b143d1fb1",
+    "station": {
+      "address": "Orlice 1",
+      "city": "Letohrad",
+      "coordinates": {
+        "latitude": "50.021675",
+        "longitude": "16.532438"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.021675",
+            "longitude": "16.532438"
+          },
+          "evse_id": "CZ*EON*E31081656*1",
+          "last_seen_as_planned": "2022-05-30T11:35:25.777Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81656"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.021675",
+            "longitude": "16.532438"
+          },
+          "evse_id": "CZ*EON*E31081656*2",
+          "last_seen_as_planned": "2022-05-30T11:35:25.777Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81657"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.021675",
+            "longitude": "16.532438"
+          },
+          "evse_id": "CZ*EON*E31081658*1",
+          "last_seen_as_planned": "2022-05-30T11:35:25.777Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81658"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.021675",
+            "longitude": "16.532438"
+          },
+          "evse_id": "CZ*EON*E31081658*2",
+          "last_seen_as_planned": "2022-05-30T11:35:25.777Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81659"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.021675",
+            "longitude": "16.532438"
+          },
+          "evse_id": "CZ*EON*E31081660*1",
+          "last_seen_as_planned": "2022-05-30T11:35:25.777Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81660"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.021675",
+            "longitude": "16.532438"
+          },
+          "evse_id": "CZ*EON*E31081660*2",
+          "last_seen_as_planned": "2022-05-30T11:35:25.777Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81661"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "MUSEUM"
+      ],
+      "id": "135427",
+      "last_updated": "RESET",
+      "name": "(P) Tvrz Orlice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "RT Investment, s.r.o."
+      },
+      "owner": {
+        "name": "RT Investment, s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "561 51",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "14028": {
     "name": "E.ON Český Krumlov autobusové nádraží",
     "sha1": "1402744fde2e7837e67c2ea6b4f5c21f01aab193",
