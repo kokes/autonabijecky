@@ -8246,7 +8246,7 @@
   },
   "CZ2003385": {
     "name": "Ladestation Mníšek náměstí",
-    "sha1": "9351be53df2d2d97a4262642043c354c8ba71f67",
+    "sha1": "238c34473a440c36858d09124423ef6fe4251ecc",
     "station": {
       "additionalInfo": "Beim Parkplatz am Hauptplatz Mníšek pod Brdy",
       "chargingFacilities": {
@@ -8259,7 +8259,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ2003385",
       "csName": "Ladestation Mníšek náměstí",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Parking lot main square Mníšek pod Brdy",
       "enCsname": "Charger Mníšek náměstí",
@@ -8270,6 +8270,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_mnisek_namesti.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
