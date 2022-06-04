@@ -955,6 +955,129 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "104650": {
+    "name": "(P) Sportovně rekreační Areál Ráj Srbsko",
+    "sha1": "5ac65ba88327cee41fff6cd2716548c3a1363d2f",
+    "station": {
+      "address": "Srbsko 32",
+      "city": "Kněžmost - Srbsko",
+      "coordinates": {
+        "latitude": "50.505619",
+        "longitude": "15.097836"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.505619",
+            "longitude": "15.097836"
+          },
+          "evse_id": "CZ*EON*E22104650*1",
+          "last_seen_as_planned": "2022-06-03T13:44:27.023Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "104650"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.505619",
+            "longitude": "15.097836"
+          },
+          "evse_id": "CZ*EON*E22104650*2",
+          "last_seen_as_planned": "2022-06-03T13:44:27.023Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "104651"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.505619",
+            "longitude": "15.097836"
+          },
+          "evse_id": "CZ*EON*E22104652*1",
+          "last_seen_as_planned": "2022-06-03T13:44:27.023Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "104652"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.505619",
+            "longitude": "15.097836"
+          },
+          "evse_id": "CZ*EON*E22104652*2",
+          "last_seen_as_planned": "2022-06-03T13:44:27.023Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "104653"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "SPORT",
+        "RECREATION_AREA",
+        "NATURE",
+        "BIKE_SHARING",
+        "BUS_STOP",
+        "WIFI"
+      ],
+      "id": "104650",
+      "last_updated": "RESET",
+      "name": "(P) Sportovně rekreační Areál Ráj Srbsko",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "RELEVANT s.r.o."
+      },
+      "owner": {
+        "name": "RELEVANT s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "294 02",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "109565": {
     "name": "(P) Olympia Brno - Parkovací dům",
     "sha1": "dbb21ca8ddc77e3f931ce7be39eac5cbbaed1fd9",
