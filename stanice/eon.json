@@ -1931,6 +1931,206 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "121655": {
+    "name": "(P) Terminál Opava",
+    "sha1": "6324c0207d2677f73dad0a28ef4d400a48d7c179",
+    "station": {
+      "address": "Skladištní",
+      "city": "Opava",
+      "coordinates": {
+        "latitude": "49.935005",
+        "longitude": "17.908565"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-06-07T06:16:36.507Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "170",
+                "171"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.935005",
+            "longitude": "17.908565"
+          },
+          "evse_id": "CZ*EON*E31121655*1",
+          "last_seen_as_planned": "2022-06-07T06:16:36.507Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "121655"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-06-07T06:16:36.507Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "170",
+                "171"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.935005",
+            "longitude": "17.908565"
+          },
+          "evse_id": "CZ*EON*E31121656*2",
+          "last_seen_as_planned": "2022-06-07T06:16:36.507Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "121656"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-06-07T06:16:36.507Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "170",
+                "171"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.935005",
+            "longitude": "17.908565"
+          },
+          "evse_id": "CZ*EON*E31121669*1",
+          "last_seen_as_planned": "2022-06-07T06:16:36.507Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "121669"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-06-07T06:16:36.507Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "170",
+                "171"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.935005",
+            "longitude": "17.908565"
+          },
+          "evse_id": "CZ*EON*E31121670*2",
+          "last_seen_as_planned": "2022-06-07T06:16:36.507Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "121670"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "MUSEUM",
+        "BUS_STOP",
+        "TAXI_STAND",
+        "TRAIN_STATION",
+        "PARKING_LOT",
+        "FUEL_STATION"
+      ],
+      "id": "121655",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/122385/5667321652190054.jpg"
+        },
+        {
+          "category": "OTHER",
+          "type": "JPG",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/122385/8564221652190046.JPG"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/122385/867161652190058.jpg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) Terminál Opava",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Technické služby Opava s. r. o."
+      },
+      "owner": {
+        "name": "Technické služby Opava s. r. o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "746 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "127563": {
     "name": "E.ON ČSAD Strakonice",
     "sha1": "7ac858d02a5833aacdf317de5974cfd780504ab3",
