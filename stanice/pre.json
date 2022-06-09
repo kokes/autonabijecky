@@ -3307,7 +3307,7 @@
   },
   "CZ1002716": {
     "name": "Ladestation TS 2302 Vítovcova",
-    "sha1": "f388a22443d98809004ae9e2f2ca139de33ec77b",
+    "sha1": "9d9e7ef11bc76d4fc46e06a719c7905be1ab29e0",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2302",
       "branch": "Parken",
@@ -3321,7 +3321,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1002716",
       "csName": "Ladestation TS 2302 Vítovcova",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station 2302",
       "enCsname": "Charger TS 2302 Vítovcova",
@@ -4066,8 +4066,8 @@
     }
   },
   "CZ1002783": {
-    "name": "Ladestation TS 3823 Na plání",
-    "sha1": "2414d288bc34245199c240bb08e0f62dfb0a8582",
+    "name": "Ladestation TS 3823 Na pláni",
+    "sha1": "2b05bc771e1f94d7c9f7c81616577356e007427b",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3823",
       "branch": "Parken",
@@ -4080,11 +4080,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1002783",
-      "csName": "Ladestation TS 3823 Na plání",
+      "csName": "Ladestation TS 3823 Na pláni",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station 3823",
-      "enCsname": "Charger TS 3823 Na plání",
+      "enCsname": "Charger TS 3823 Na pláni",
       "evseId": "CZ*PRE*E1S8007*1",
       "geoCoord": {
         "latitude": "50.063429",
@@ -9464,6 +9464,53 @@
       "postalCode": "35301",
       "region": "Karlovarský kraj",
       "street": "Tyršova 31"
+    }
+  },
+  "CZ4103498": {
+    "name": "Schnellladestation OMV Sokolov",
+    "sha1": "c78edcaed07ff585d81caa108ec21c537de54763",
+    "station": {
+      "additionalInfo": "Bei der OMV Tankstelle",
+      "branch": "Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "K.H.Borovského 2070",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ4103498",
+      "csName": "Schnellladestation OMV Sokolov",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the OMV gas station",
+      "enCsname": "Fast charger OMV Sokolov",
+      "evseId": "CZ*PRE*E1R5003*2",
+      "geoCoord": {
+        "latitude": "50.176278",
+        "longitude": "12.677861"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_sokolov_1.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "35601",
+      "region": "Karlovarský kraj",
+      "street": "Odpočívka směr Brno 96 km"
     }
   },
   "CZ4202612": {
