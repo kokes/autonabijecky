@@ -13820,20 +13820,20 @@
     }
   },
   "159032": {
-    "name": "R443 - Unčovice - McDonald´s - 4",
-    "sha1": "8a87cd76adb62d325e4830fb4bdf1ec7b6a8ad46",
+    "name": "R446 - Úpice - HDB",
+    "sha1": "80895d98e1eb8eb1f8c995f96656ca2d11f31077",
     "station": {
       "address": {
-        "city": "Litovel",
+        "city": "Úpice",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "128",
-        "latitude": 49.6625803,
-        "longitude": 17.1050788,
+        "houseNumber": "A. Hejny 1084",
+        "latitude": 50.5138824,
+        "longitude": 16.0159404,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "Unčovice",
+        "street": "Dr.",
         "url": ""
       },
       "customID": "159032",
@@ -13848,7 +13848,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "T54-HU1-0922-008",
+              "chargePointIdentity": "T54-HU1-0922-031",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -13856,13 +13856,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "R443"
+          "physicalReference": "R446"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T54-HU1-0922-008",
+              "chargePointIdentity": "T54-HU1-0922-031",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -13871,7 +13871,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "T54-HU1-0922-008",
+              "chargePointIdentity": "T54-HU1-0922-031",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -13879,16 +13879,16 @@
               "voltage": null
             }
           ],
-          "physicalReference": "R443"
+          "physicalReference": "R446"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220526-wa0002.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/06/img_1615.jpg"
         }
       ],
       "instructions": null,
-      "name": "R443 - Unčovice - McDonald´s - 4",
+      "name": "R446 - Úpice - HDB",
       "visible": true
     }
   },
