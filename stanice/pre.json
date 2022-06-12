@@ -8170,9 +8170,9 @@
   },
   "CZ2002887": {
     "name": "Schnellladestation EuroOil Nehvizdy",
-    "sha1": "b692c0eb910f2fc6f83a9bb69eb784ae8e47e822",
+    "sha1": "1e238671ffde724f859d319dcda8b9e611f0bbf4",
     "station": {
-      "additionalInfo": "Dobíjecí stanice nejsou k dispozici z důvodu rekonstrukce čerpací stanice. Ukončení rekonstrukce je plánováno na 16. června",
+      "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
       "chargingFacilities": {
         "chargingFacility": [
@@ -8186,7 +8186,7 @@
       "csName": "Schnellladestation EuroOil Nehvizdy",
       "csStatus": "operable",
       "csType": "fast_charger",
-      "enAdditionalInfo": "Charging stations are not available due to the gas station reconstruction. End of the reconstruction is planned for June 16th.",
+      "enAdditionalInfo": "By the EuroOil Gas Station",
       "enCsname": "Fast charger EuroOil Nehvizdy",
       "evseId": "CZ*PRE*E1R5101*2",
       "geoCoord": {
@@ -8996,6 +8996,46 @@
       "postalCode": "37701",
       "region": "Jihočeský kraj",
       "street": "Radouňka 174"
+    }
+  },
+  "CZ3103503": {
+    "name": "Schnellladestation Penny Market Strakonice",
+    "sha1": "e63946a76d451b6b8ea6e131d370ad8ea3cdb15d",
+    "station": {
+      "additionalInfo": "Beim Penny Markt",
+      "branch": "Einzelhandel",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Strakonice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ3103503",
+      "csName": "Schnellladestation Penny Market Strakonice",
+      "csStatus": "under_construction",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the Penny market",
+      "enCsname": "Fast charger Penny Market Strakonice",
+      "evseId": "CZ*PRE*E1R5111*3",
+      "geoCoord": {
+        "latitude": "49.262832",
+        "longitude": "13.892167"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "38601",
+      "region": "Jihočeský kraj",
+      "street": "Katovická 1303"
     }
   },
   "CZ3202594": {
