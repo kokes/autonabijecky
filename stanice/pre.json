@@ -1707,7 +1707,7 @@
   },
   "CZ1002639": {
     "name": "Ladestation IKEA Zličín",
-    "sha1": "3cba5cfec5c93fe8fcd1017d8547a8af80ed3835",
+    "sha1": "a1f9d7a24eabb0b9e71ae557715bc92bca15e9c6",
     "station": {
       "additionalInfo": "IKEA-Parkplatz",
       "branch": "Parken",
@@ -1725,13 +1725,20 @@
       "csType": "charger",
       "enAdditionalInfo": "IKEA parking lot",
       "enCsname": "Charger IKEA Zličín",
-      "evseId": "CZ*PRE*E1S0040*2",
+      "evseId": "CZ*PRE*E1S0064*2",
       "geoCoord": {
         "latitude": "50.051222",
         "longitude": "14.297333"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ikea_zlicin.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
@@ -5074,9 +5081,9 @@
   },
   "CZ1003049": {
     "name": "Ladestation Dock Marina Boulevard",
-    "sha1": "1a0f5235ad5289245fb2948d546127279c285c33",
+    "sha1": "9e68e18711ffec7845a88a3f015242d5348631d6",
     "station": {
-      "additionalInfo": "Parkplatz bei den DOCK Apartments",
+      "additionalInfo": "Povinnost při vjezdu na parkoviště využít tlačítko interkomu umístněné na vjezdovém sloupku do areálu DOCK.",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -5090,9 +5097,11 @@
       "csName": "Ladestation Dock Marina Boulevard",
       "csStatus": "operable",
       "csType": "charger",
-      "enAdditionalInfo": "Parking place by the DOCK apartments",
+      "enAdditionalInfo": "Please use the intercom button at the entrance to the DOCK complex when entering the car park.",
       "enCsname": "Charger Dock Marina Boulevard",
+      "enExtra": "The use of the charging station and staying in the parking lot will be allowed only if there is charge point available and the charging time does not exceed 2 hours.",
       "evseId": "CZ*PRE*E1S0057*2",
+      "extra": "Užití dobíjecí stanice a setrvání na parkovišti bude umožněno jen v případě, že bude volné místo u dobíjecí stanice a doba nabíjení nepřesáhne 2 hodiny.",
       "geoCoord": {
         "latitude": "50.104979",
         "longitude": "14.468969"
@@ -10552,6 +10561,53 @@
       "street": "Okružní"
     }
   },
+  "CZ5203506": {
+    "name": "Schnellladestation EuroOil Žacléř",
+    "sha1": "7635d75e26abdd18e2e6e123ca71b93e467ad608",
+    "station": {
+      "additionalInfo": "Bei der EuroOil Tankstelle",
+      "branch": "Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Žacléř",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ5203506",
+      "csName": "Schnellladestation EuroOil Žacléř",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the EuroOil gas station",
+      "enCsname": "Fast charger EuroOil Žacléř",
+      "evseId": "CZ*PRE*E1R5032*2",
+      "geoCoord": {
+        "latitude": "50.669040",
+        "longitude": "15.915241"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_zacler.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "ČEPRO a.s.",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "54201",
+      "region": "Královéhradecký kraj",
+      "street": "J. A. Komenského 488"
+    }
+  },
   "CZ5302630": {
     "name": "Ladestation Alza Pardubice",
     "sha1": "96e0607153754ee2efe33bc9932a80df263687cf",
@@ -10895,7 +10951,7 @@
   },
   "CZ6303484": {
     "name": "Schnellladestation OMV Mikulášov",
-    "sha1": "4151dc76acbb1efa1948d87306afca1b9bb6aae9",
+    "sha1": "d88efc18cf93f3eaf5d5db2bdabf814696c00c6b",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -10909,7 +10965,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ6303484",
       "csName": "Schnellladestation OMV Mikulášov",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the OMV gas station",
       "enCsname": "Fast charger OMV Mikulášov",
@@ -10920,6 +10976,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_mikulasov.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
