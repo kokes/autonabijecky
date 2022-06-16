@@ -955,6 +955,127 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "104632": {
+    "name": "(P) Vinařství u Kapličky",
+    "sha1": "682eac6129001e2ded5ec535c542811958e83fa2",
+    "station": {
+      "address": "Vinařská 484",
+      "city": "Zaječí",
+      "coordinates": {
+        "latitude": "48.87031352",
+        "longitude": "16.75157062"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-06-15T11:36:29.88Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "172",
+                "173"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.87031352",
+            "longitude": "16.75157062"
+          },
+          "evse_id": "CZ*EON*E22104632*1",
+          "last_seen_as_planned": "2022-06-15T11:36:29.88Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "104632"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-06-15T11:36:29.88Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "172",
+                "173"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.87031352",
+            "longitude": "16.75157062"
+          },
+          "evse_id": "CZ*EON*E22104632*2",
+          "last_seen_as_planned": "2022-06-15T11:36:29.88Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "104633"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "SPORT",
+        "RECREATION_AREA",
+        "NATURE"
+      ],
+      "id": "104632",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/132473/8311131655292716.jpg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) Vinařství u Kapličky",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Vinařství U Kapličky s.r.o."
+      },
+      "owner": {
+        "name": "Vinařství U Kapličky s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "69105",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "104650": {
     "name": "(P) Sportovně rekreační Areál Ráj Srbsko",
     "sha1": "5ac65ba88327cee41fff6cd2716548c3a1363d2f",
