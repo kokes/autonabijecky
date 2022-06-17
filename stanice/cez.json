@@ -13892,6 +13892,143 @@
       "visible": true
     }
   },
+  "159786": {
+    "name": "R447 - Hronov",
+    "sha1": "137002f5f8019eaad3fdfead28c40fb5a159e22f",
+    "station": {
+      "address": {
+        "city": "Hronov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Čs. armády 5",
+        "latitude": 50.4804777,
+        "longitude": 16.1812077,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "nám.",
+        "url": ""
+      },
+      "customID": "159786",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-0922-023",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R447"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0922-023",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0922-023",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R447"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/06/img_1662.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R447 - Hronov",
+      "visible": true
+    }
+  },
+  "159787": {
+    "name": "N192 - Hronov",
+    "sha1": "eb5c7c47ff384d955a894d372334ade399005c6e",
+    "station": {
+      "address": {
+        "city": "Hronov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Čs. armády 5",
+        "latitude": 50.4804777,
+        "longitude": 16.1812077,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "nám.",
+        "url": ""
+      },
+      "customID": "159787",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N192"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N192"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/06/img_1662-20220616-094135.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N192 - Hronov",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",

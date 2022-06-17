@@ -7548,8 +7548,8 @@
     }
   },
   "CZ1003475": {
-    "name": "Ladestation Kongresové centrum",
-    "sha1": "807cff8c7e53fedd3716bbc14b5fb8acb06f54f5",
+    "name": "Schnellladestation Kongresové centrum",
+    "sha1": "16bcb3494ee9a5dd5b80a3d44ec01b89c9ff89b9",
     "station": {
       "additionalInfo": "P+R Kongresové centrum Praha - Jih 1",
       "branch": "Parken",
@@ -7562,11 +7562,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003475",
-      "csName": "Ladestation Kongresové centrum",
+      "csName": "Schnellladestation Kongresové centrum",
       "csStatus": "operable",
-      "csType": "charger",
+      "csType": "fast_charger",
       "enAdditionalInfo": "P + R Congress Center Prague - South 1",
-      "enCsname": "Charger Kongresové centrum",
+      "enCsname": "Fast charger Kongresové centrum",
       "evseId": "CZ*PRE*E1S8063*6",
       "geoCoord": {
         "latitude": "50.061187",
@@ -7575,6 +7575,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_kongresove_centrum_0.jpg"
+        },
         {
           "class": "locationPhoto",
           "type": "jpg",
@@ -7592,6 +7597,52 @@
       "postalCode": "14000",
       "region": "Hlavní město Praha",
       "street": "5. května"
+    }
+  },
+  "CZ1003509": {
+    "name": "Ladestation Driving Range Rohanský Ostrov",
+    "sha1": "81e14a184f307f7f321fe3300fca134523d5bf0a",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003509",
+      "csName": "Ladestation Driving Range Rohanský Ostrov",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Driving Range Rohanský Ostrov",
+      "evseId": "CZ*PRE*E1S8064*2",
+      "extra": "",
+      "geoCoord": {
+        "latitude": "50.102908",
+        "longitude": "14.461593"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_driving_range.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18000",
+      "region": "Hlavní město Praha",
+      "street": "U Libeňského mostu 1"
     }
   },
   "CZ2002608": {
