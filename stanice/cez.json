@@ -14815,6 +14815,70 @@
       "visible": true
     }
   },
+  "59437": {
+    "name": "N193 - Sedlec-Prčice",
+    "sha1": "a7a8b1e2e3f738b47eb531e63e48218d7aa211ef",
+    "station": {
+      "address": {
+        "city": "Sedlec - Prčice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "86",
+        "latitude": 49.5752753,
+        "longitude": 14.529917800000021,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Sedlčanská",
+        "url": ""
+      },
+      "customID": "59437",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 11,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N193"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 11,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N193"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8266.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N193 - Sedlec-Prčice",
+      "visible": true
+    }
+  },
   "59438": {
     "name": "N018 - Trutnov - Autostyl",
     "sha1": "b921bbdfcbff66e05d9753027796203dde044249",
