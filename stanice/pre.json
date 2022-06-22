@@ -7601,9 +7601,9 @@
   },
   "CZ1003509": {
     "name": "Ladestation Driving Range Rohanský Ostrov",
-    "sha1": "81e14a184f307f7f321fe3300fca134523d5bf0a",
+    "sha1": "22c4eb5625d7ed6f36da3b269ab6bc36f9e48510",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -7618,7 +7618,6 @@
       "csType": "charger",
       "enCsname": "Charger Driving Range Rohanský Ostrov",
       "evseId": "CZ*PRE*E1S8064*2",
-      "extra": "",
       "geoCoord": {
         "latitude": "50.102908",
         "longitude": "14.461593"
@@ -10396,6 +10395,51 @@
       "postalCode": "46090",
       "region": "Liberecký kraj",
       "street": "Palachova 1404"
+    }
+  },
+  "CZ5103510": {
+    "name": "Schnellladestation EuroOil Chrastava",
+    "sha1": "02ec8691eccf45c8f9bf6d6b66200bc581a6aa1e",
+    "station": {
+      "branch": "Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Chrastava",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ5103510",
+      "csName": "Schnellladestation EuroOil Chrastava",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger EuroOil Chrastava",
+      "evseId": "CZ*PRE*E1R5023*2",
+      "geoCoord": {
+        "latitude": "50.807025",
+        "longitude": "14.974150"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_chrastava.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "ČEPRO a.s.",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "46331",
+      "region": "Liberecký kraj",
+      "street": "Chrastava 88"
     }
   },
   "CZ5202735": {

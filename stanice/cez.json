@@ -14029,6 +14029,79 @@
       "visible": true
     }
   },
+  "159958": {
+    "name": "R409 - Čestlice - Kaufland - 2",
+    "sha1": "2e196e05cc83d3503cf813df60825029fc3d8a17",
+    "station": {
+      "address": {
+        "city": "Čestlice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "dálnici",
+        "latitude": 50.010562,
+        "longitude": 14.5721871,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K",
+        "url": ""
+      },
+      "customID": "159958",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-011",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R409"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-011",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-011",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R409"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-123900.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R409 - Čestlice - Kaufland - 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
