@@ -9059,7 +9059,7 @@
   },
   "CZ3103503": {
     "name": "Schnellladestation Penny Market Strakonice",
-    "sha1": "e63946a76d451b6b8ea6e131d370ad8ea3cdb15d",
+    "sha1": "57bbc76524af8aa7cb6b20a31b5520df3a0ee049",
     "station": {
       "additionalInfo": "Beim Penny Markt",
       "branch": "Einzelhandel",
@@ -9073,7 +9073,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ3103503",
       "csName": "Schnellladestation Penny Market Strakonice",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the Penny market",
       "enCsname": "Fast charger Penny Market Strakonice",
@@ -9084,6 +9084,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_penny_market_strakonice.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
