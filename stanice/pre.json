@@ -9445,6 +9445,44 @@
       "street": "Americká 60"
     }
   },
+  "CZ3203513": {
+    "name": "Schnellladestation OMV Pozorka",
+    "sha1": "627f0fbdba6973355f02b7ae264ac1f08a063c4d",
+    "station": {
+      "branch": "Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Kladruby",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ3203513",
+      "csName": "Schnellladestation OMV Pozorka",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger OMV Pozorka",
+      "evseId": "CZ*PRE*E1R5125*2",
+      "geoCoord": {
+        "latitude": "49.701739",
+        "longitude": "12.988406"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "34961",
+      "region": "Plzeňský kraj",
+      "street": "D5, směr Kladruby - Plzeň"
+    }
+  },
   "CZ4102727": {
     "name": "Ladestation Hotel Esplanade",
     "sha1": "fda8393836ce90f5c0be8c56dee11075a2b18837",
