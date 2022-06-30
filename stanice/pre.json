@@ -7644,6 +7644,100 @@
       "street": "U Libeňského mostu 1"
     }
   },
+  "CZ1003517": {
+    "name": "Ladestation TS 2722 Šimůnkova",
+    "sha1": "22fc6b2af17a534bcfc2a4d998256033e569aefd",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 2722",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003517",
+      "csName": "Ladestation TS 2722 Šimůnkova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "By the transformation station TS 2722",
+      "enCsname": "Charger TS 2722 Šimůnkova",
+      "evseId": "CZ*PRE*E1S8030*1",
+      "geoCoord": {
+        "latitude": "50.135060",
+        "longitude": "14.469550"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_2722_simunkova.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18200",
+      "region": "Hlavní město Praha",
+      "street": "Šimůnkova"
+    }
+  },
+  "CZ1003518": {
+    "name": "Schnellladestation Siemensova ul. Praha",
+    "sha1": "1e0383ce1c831b2e28b3efd9aa027bde05a4ba0b",
+    "station": {
+      "additionalInfo": "Die Ladestation befindet sich beim Siemens Bürogebäude",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003518",
+      "csName": "Schnellladestation Siemensova ul. Praha",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "The charging station is located by the Siemens office building",
+      "enCsname": "Fast charger Siemensova ul. Praha",
+      "evseId": "CZ*PRE*E0S0025*2",
+      "geoCoord": {
+        "latitude": "50.048106",
+        "longitude": "14.306445"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_siemensova_ul._praha.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "15500",
+      "region": "Hlavní město Praha",
+      "street": "Siemensova 2715/1"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "5ec77bf41b5faca7b29600df145567c4f0c3f9ff",
