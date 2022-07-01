@@ -8777,6 +8777,53 @@
       "street": "Kozojedy 152"
     }
   },
+  "CZ2003514": {
+    "name": "Schnellladestation OMV Vrbová Lhota (sever)",
+    "sha1": "1da11e0b501a45ee918a8eff34f9e1c8ece7d5b9",
+    "station": {
+      "additionalInfo": "Bei der OMV Tankstelle",
+      "branch": "Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Vrbová Lhota",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2003514",
+      "csName": "Schnellladestation OMV Vrbová Lhota (sever)",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the OMV gas station",
+      "enCsname": "Fast charger OMV Vrbová Lhota (sever)",
+      "evseId": "CZ*PRE*E1R5029*2",
+      "geoCoord": {
+        "latitude": "50.121583",
+        "longitude": "15.081889"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_vrbova_lhota_sever.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "28911",
+      "region": "Středočeský kraj",
+      "street": "D11 35 km (směr Praha)"
+    }
+  },
   "CZ3102615": {
     "name": "Schnellladestation ČEPRO Sedlice",
     "sha1": "4baa8cce139c4b6c58f52d099b0c549a784043cf",
