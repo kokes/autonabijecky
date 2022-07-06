@@ -7738,6 +7738,147 @@
       "street": "Siemensova 2715/1"
     }
   },
+  "CZ1003525": {
+    "name": "Ladestation OC Westfield Chodov IV",
+    "sha1": "a3d1a105871a8b9805d233cded82d5625f99db92",
+    "station": {
+      "additionalInfo": "Auf den Dachparkplätzen des Westfield Chodov",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003525",
+      "csName": "Ladestation OC Westfield Chodov IV",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Rooftop garages OC Westfield Chodov",
+      "enCsname": "Charger OC Westfield Chodov IV",
+      "evseId": "CZ*PRE*E1S8072*1",
+      "geoCoord": {
+        "latitude": "50.030719",
+        "longitude": "14.488736"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_oc_westfield_chodov_iv._1s8072_1.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14800",
+      "region": "Hlavní město Praha",
+      "street": "Roztylská 2321/19"
+    }
+  },
+  "CZ1003526": {
+    "name": "Ladestation OC Westfield Chodov III",
+    "sha1": "6c1551a7521cc1f8877deafc364252113531084d",
+    "station": {
+      "additionalInfo": "Auf den Dachparkplätzen des Westfield Chodov",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003526",
+      "csName": "Ladestation OC Westfield Chodov III",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Rooftop garages OC Westfield Chodov",
+      "enCsname": "Charger OC Westfield Chodov III",
+      "evseId": "CZ*PRE*E1S8071*1",
+      "geoCoord": {
+        "latitude": "50.031473",
+        "longitude": "14.491300"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_oc_westfield_chodov_iii_1s8071.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14800",
+      "region": "Hlavní město Praha",
+      "street": "Roztylská 2321/19"
+    }
+  },
+  "CZ1003527": {
+    "name": "Ladestation OC Westfield Chodov II",
+    "sha1": "c02f4ca1be9b47b0dbcaa44b2cc0e48f6faec826",
+    "station": {
+      "additionalInfo": "Auf den Dachparkplätzen des Westfield Chodov",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003527",
+      "csName": "Ladestation OC Westfield Chodov II",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Rooftop garages OC Westfield Chodov",
+      "enCsname": "Charger OC Westfield Chodov II",
+      "evseId": "CZ*PRE*E1S8070*1",
+      "geoCoord": {
+        "latitude": "50.032245",
+        "longitude": "14.490495"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_oc_westfield_chodov_ii_1s8070.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14800",
+      "region": "Hlavní město Praha",
+      "street": "Roztylská 2321/19"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "5ec77bf41b5faca7b29600df145567c4f0c3f9ff",
