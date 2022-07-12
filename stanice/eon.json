@@ -12382,7 +12382,7 @@
   },
   "34016": {
     "name": "(P) Amenity Resort Orlické Hory",
-    "sha1": "f4dd0eb8be0f3b5fc9aef82a6d15fd5d5f861f75",
+    "sha1": "4c7c84c3b6839f59b12717d56d070d570fd22b56",
     "station": {
       "address": "Deštné v Orlických horách 78",
       "city": "Deštné v Orlických horách",
@@ -12471,6 +12471,13 @@
         "NATURE"
       ],
       "id": "34016",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/69217/4973541657535638.jpg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "(P) Amenity Resort Orlické Hory",
       "opening_times": {
@@ -16619,7 +16626,7 @@
   },
   "36614": {
     "name": "(P) Autodružstvo Znojmo",
-    "sha1": "ba63787562437e3cd732d7fd8413ee7c9fc4bf06",
+    "sha1": "5b93d1afd9300a846dea09c6e12b02c26eadf5d7",
     "station": {
       "address": "Vídeňská tř. 2573",
       "city": "Znojmo",
@@ -16711,11 +16718,6 @@
           "category": "OTHER",
           "type": "jpg",
           "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/45883/1603367195.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "JPG",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/45883/3715711653294281.JPG"
         }
       ],
       "last_updated": "RESET",
@@ -32196,7 +32198,7 @@
   },
   "80621": {
     "name": "(P) Borák Development s.r.o.",
-    "sha1": "27473e1790779eca1ccc5c9200f5671e45ef7a5e",
+    "sha1": "78124b78cd179dca377ab4b58060a58c631a1820",
     "station": {
       "address": "Vlčnovská 2066",
       "city": "Uherský Brod",
@@ -32278,6 +32280,13 @@
         }
       ],
       "id": "80621",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/80783/4790811657535824.jpg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "(P) Borák Development s.r.o.",
       "operator": {
@@ -32606,7 +32615,7 @@
   },
   "87558": {
     "name": "(P) Amenity Hotel & Resort Špindlerův Mlýn",
-    "sha1": "089acd0e0e1cf49d327e8f0f89df81c19f522be2",
+    "sha1": "1034dcfba3c2a94b210179f4b2efe429ff74eb58",
     "station": {
       "address": "Labská 117",
       "city": "Špindlerův Mlýn",
@@ -32692,6 +32701,13 @@
         "RESTAURANT"
       ],
       "id": "87558",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/81129/6234901657535484.jpg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "(P) Amenity Hotel & Resort Špindlerův Mlýn",
       "opening_times": {
