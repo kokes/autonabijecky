@@ -13243,7 +13243,7 @@
   },
   "35757": {
     "name": "(P) Autocentrum DAVO CAR Olbramovice",
-    "sha1": "d5121eaaa52cc42233296b132080702374cd9251",
+    "sha1": "edb01929f5a50746efa30c4fcfd70a4787258536",
     "station": {
       "address": "Autocenturm DAVO CAR Olbramovice 203",
       "city": "Olbramovice",
@@ -13301,7 +13301,7 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-03-08T12:11:00.28Z",
+              "last_updated": "2022-07-12T15:34:48.477Z",
               "max_amperage": 200,
               "max_electric_power": 100000,
               "max_voltage": 920,
@@ -13425,6 +13425,7 @@
       "owner": {
         "name": "DAVO CAR, s.r.o."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "25901",
       "publish": true,
