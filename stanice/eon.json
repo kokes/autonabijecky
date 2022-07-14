@@ -1076,6 +1076,124 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "104638": {
+    "name": "(P) OC SIKO Jihlava",
+    "sha1": "63bed750a9af2b2a2c04d461cbc7ce8fb787adab",
+    "station": {
+      "address": "Brněnská 76",
+      "city": "Jihlava",
+      "coordinates": {
+        "latitude": "49.39760949",
+        "longitude": "15.61001721"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-07-13T10:22:55.553Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "176",
+                "177"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.39760949",
+            "longitude": "15.61001721"
+          },
+          "evse_id": "CZ*EON*E22104638*1",
+          "last_seen_as_planned": "2022-07-13T10:22:55.553Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "104638"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-07-13T10:22:55.553Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "176",
+                "177"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.39760949",
+            "longitude": "15.61001721"
+          },
+          "evse_id": "CZ*EON*E22104638*2",
+          "last_seen_as_planned": "2022-07-13T10:22:55.553Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "104639"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "MALL",
+        "SUPERMARKET"
+      ],
+      "id": "104638",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/135979/4735941657696626.jpg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) OC SIKO Jihlava",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "VIKI, spol. s r.o."
+      },
+      "owner": {
+        "name": "VIKI, spol. s r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "58601",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "104650": {
     "name": "(P) Sportovně rekreační Areál Ráj Srbsko",
     "sha1": "5ac65ba88327cee41fff6cd2716548c3a1363d2f",
@@ -14674,7 +14792,7 @@
   },
   "35941": {
     "name": "E.ON Olomouc - Haná",
-    "sha1": "9e9b9fc2997dffd61f74ac22b99657a6c31c72e7",
+    "sha1": "907f7d39a0f16db8e5ceff0ec492a2cb6d6213bb",
     "station": {
       "address": "Kafkova 1223/8",
       "city": "Olomouc",
@@ -14735,7 +14853,7 @@
         "name": "E.ON Energie, a.s."
       },
       "owner": {
-        "name": "E.ON Energie, a.s."
+        "name": "E.ON Česká republika, s. r. o."
       },
       "party_id": "EON",
       "postal_code": "779 00",
@@ -16219,7 +16337,7 @@
   },
   "35976": {
     "name": "E.ON City Olomouc",
-    "sha1": "4a8f7aa886b037d45a03a96842a5cd79bbf26d1d",
+    "sha1": "70bebdd133e641840ae9a390fe0c3f07ffcf7d38",
     "station": {
       "address": "Pražská 255/41",
       "city": "Olomouc ",
@@ -16240,13 +16358,106 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-07-13T09:21:25.67Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.60305366",
+            "longitude": "17.22031458"
+          },
+          "evse_id": "CZ*EON*E25035949*1",
+          "last_seen_as_planned": "2022-07-13T09:24:08.72Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35949"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-07-13T09:21:25.67Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.60305366",
+            "longitude": "17.22031458"
+          },
+          "evse_id": "CZ*EON*E25035949*2",
+          "last_seen_as_planned": "2022-07-13T09:24:08.72Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35950"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-07-13T09:21:25.67Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.60305366",
             "longitude": "17.22031458"
           },
           "evse_id": "CZ*EON*E25035976*1",
-          "last_seen_as_planned": "2022-01-18T14:00:22.607Z",
+          "last_seen_as_planned": "2022-07-13T09:24:08.72Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35976"
@@ -16258,13 +16469,32 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-07-13T09:21:25.67Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.60305366",
             "longitude": "17.22031458"
           },
           "evse_id": "CZ*EON*E25035976*2",
-          "last_seen_as_planned": "2022-01-18T14:00:22.607Z",
+          "last_seen_as_planned": "2022-07-13T09:24:08.72Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35977"
@@ -16276,13 +16506,32 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-07-13T09:21:25.67Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.60305366",
             "longitude": "17.22031458"
           },
           "evse_id": "CZ*EON*E25035978*1",
-          "last_seen_as_planned": "2022-01-18T14:00:22.607Z",
+          "last_seen_as_planned": "2022-07-13T09:24:08.72Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35978"
@@ -16294,17 +16543,42 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-07-13T09:21:25.67Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.60305366",
             "longitude": "17.22031458"
           },
           "evse_id": "CZ*EON*E25035978*2",
-          "last_seen_as_planned": "2022-01-18T14:00:22.607Z",
+          "last_seen_as_planned": "2022-07-13T09:24:08.72Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35979"
         }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "MALL",
+        "SUPERMARKET"
       ],
       "id": "35976",
       "last_updated": "RESET",
@@ -16318,6 +16592,7 @@
       "owner": {
         "name": "E.ON Energie, a.s."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "779 00",
       "publish": true,
@@ -19309,7 +19584,7 @@
   },
   "51419": {
     "name": "E.ON Brandýs nad Labem Popelka",
-    "sha1": "133c7a9a0d63d38df06602b249af7536a57a6169",
+    "sha1": "dff6b287431b6e43da02d6361f4a8964e624747a",
     "station": {
       "address": "Průmyslová",
       "city": " Brandýs nad Labem-Stará Boleslav",
@@ -19330,7 +19605,26 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2022-07-13T22:01:00.797Z",
+              "max_amperage": 63,
+              "max_electric_power": 43000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.17626476",
             "longitude": "14.6587678"
@@ -19348,7 +19642,44 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2022-07-13T22:01:00.797Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2022-07-13T22:01:00.797Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.17626476",
             "longitude": "14.6587678"
@@ -29364,10 +29695,10 @@
     }
   },
   "53872": {
-    "name": "E.ON DRFG Olomouc",
-    "sha1": "9045c25ee0ac4cd2c26887e0ac1020857f692605",
+    "name": "E.ON OC Hana Olomouc",
+    "sha1": "1cc6af1c14da5b15253cb8e91eb74b741312d696",
     "station": {
-      "address": "Kafkova 1223",
+      "address": "Kafkova 1223/8",
       "city": "Olomouc",
       "coordinates": {
         "latitude": "49.5746272",
@@ -29391,8 +29722,44 @@
             "latitude": "49.5746272",
             "longitude": "17.22863179"
           },
+          "evse_id": "CZ*EON*E25035941*1",
+          "last_seen_as_planned": "2022-07-13T09:49:46.05Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35941"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.5746272",
+            "longitude": "17.22863179"
+          },
+          "evse_id": "CZ*EON*E25035941*2",
+          "last_seen_as_planned": "2022-07-13T09:49:46.05Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35942"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.5746272",
+            "longitude": "17.22863179"
+          },
           "evse_id": "CZ*EON*E98053872*1",
-          "last_seen_as_planned": null,
+          "last_seen_as_planned": "2022-07-13T09:49:46.05Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53872"
@@ -29410,7 +29777,7 @@
             "longitude": "17.22863179"
           },
           "evse_id": "CZ*EON*E98053872*2",
-          "last_seen_as_planned": null,
+          "last_seen_as_planned": "2022-07-13T09:49:46.05Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53873"
@@ -29423,7 +29790,7 @@
       ],
       "id": "53872",
       "last_updated": "RESET",
-      "name": "E.ON DRFG Olomouc",
+      "name": "E.ON OC Hana Olomouc",
       "opening_times": {
         "twentyfourseven": true
       },
