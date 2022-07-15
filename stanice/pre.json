@@ -7879,6 +7879,46 @@
       "street": "Roztylská 2321/19"
     }
   },
+  "CZ1003530": {
+    "name": "Ladestation Galerie Harfa II",
+    "sha1": "3b20cdf4e9f8354be7e890e7a94530643ae126db",
+    "station": {
+      "additionalInfo": "In der Galerie Harfa Tiefgarage",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003530",
+      "csName": "Ladestation Galerie Harfa II",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enAdditionalInfo": "In the Galerie Harfa underground garages",
+      "enCsname": "Charger Galerie Harfa II",
+      "evseId": "CZ*PRE*E1S8087*4",
+      "geoCoord": {
+        "latitude": "50.103750",
+        "longitude": "14.490736"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Českomoravská 2420/15a"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "5ec77bf41b5faca7b29600df145567c4f0c3f9ff",

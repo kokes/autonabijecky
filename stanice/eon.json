@@ -1947,6 +1947,97 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "112211": {
+    "name": "(P) Interhotel Zlín",
+    "sha1": "4a629da3cfb8efb0859e57da310c4798cdea783f",
+    "station": {
+      "address": "náměstí Práce 2512",
+      "city": "Zlín",
+      "coordinates": {
+        "latitude": "49.22114225",
+        "longitude": "17.66056233"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "id": "1",
+              "last_updated": "2022-05-24T05:40:22.843Z",
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "162",
+                "163"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.22114225",
+            "longitude": "17.66056233"
+          },
+          "evse_id": "CZ*EON*E31112211*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "112211"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "SUPERMARKET",
+        "SPORT",
+        "RECREATION_AREA",
+        "MUSEUM",
+        "BUS_STOP",
+        "TAXI_STAND",
+        "TRAIN_STATION",
+        "PARKING_LOT"
+      ],
+      "id": "112211",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/127515/2623331655207028.jpg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) Interhotel Zlín",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Interhotel Moskva a.s."
+      },
+      "owner": {
+        "name": "Interhotel Moskva a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "76001",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "117336": {
     "name": "(P) Box - auto",
     "sha1": "80bee49702770bff1aefca5ca1d22e9b098aacb5",
