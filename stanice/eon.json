@@ -6264,7 +6264,7 @@
   },
   "19884": {
     "name": "(P) Citroen Carling",
-    "sha1": "849f7ea08b2ff9af35dfdfe728f80232b285c1ec",
+    "sha1": "4b2071d2357fc8a0949ca095f4227cb9387a7bb2",
     "station": {
       "address": "Hviezdoslavova 1308/51",
       "city": "Brno",
@@ -6306,6 +6306,7 @@
             "longitude": "16.68509"
           },
           "evse_id": "CZ*EON*E99019884*1",
+          "floor_level": "0",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -33488,6 +33489,116 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "19800",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "93103": {
+    "name": "(P) Carling Auto",
+    "sha1": "1b751dd0cf05c2a91fd83e7dd11734b1c8e7c024",
+    "station": {
+      "address": "Hviezdoslavova 1308/51",
+      "city": "Brno",
+      "coordinates": {
+        "latitude": "49.1825647",
+        "longitude": "16.6853089"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-07-15T12:45:16Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "23",
+                "24"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.1825647",
+            "longitude": "16.6853089"
+          },
+          "evse_id": "CZ*EON*E99093103*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "93103"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-07-15T12:45:16Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "23",
+                "24"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.1825647",
+            "longitude": "16.6853089"
+          },
+          "evse_id": "CZ*EON*E99093103*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "93104"
+        }
+      ],
+      "id": "93103",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/133939/6485381657536032.jpg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) Carling Auto",
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "CARLING AUTO, spol. s r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "627 00",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
