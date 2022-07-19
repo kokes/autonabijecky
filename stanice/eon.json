@@ -2038,6 +2038,86 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "112222": {
+    "name": "(P) Vila Jáchymov",
+    "sha1": "b7c6587ad8c1eea433c644b25e00589d1be1e8e0",
+    "station": {
+      "address": "Lidická 764",
+      "city": "Jáchymov",
+      "coordinates": {
+        "latitude": "50.362476",
+        "longitude": "12.926495"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-07-18T13:49:23.003Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "178",
+                "179"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.362476",
+            "longitude": "12.926495"
+          },
+          "evse_id": "CZ*EON*E31112222*1",
+          "last_seen_as_planned": "2022-07-18T13:46:46.68Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "112222"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "SPORT",
+        "RECREATION_AREA",
+        "NATURE"
+      ],
+      "id": "112222",
+      "last_updated": "RESET",
+      "name": "(P) Vila Jáchymov",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Vila Jáchymov s.r.o."
+      },
+      "owner": {
+        "name": "Vila Jáchymov s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "362 51",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "117336": {
     "name": "(P) Box - auto",
     "sha1": "80bee49702770bff1aefca5ca1d22e9b098aacb5",
@@ -14082,7 +14162,7 @@
   },
   "35923": {
     "name": "E.ON Letiště Brno",
-    "sha1": "4630f4b688632d1c0d58e3bf2237e28e22afd7e9",
+    "sha1": "e3aa15c25edf06450bc82bbdac756946a995f4a2",
     "station": {
       "address": "Letiště Brno-Tuřany 904/1",
       "city": "Brno",
@@ -14127,7 +14207,7 @@
             "latitude": "49.15520932",
             "longitude": "16.69121257"
           },
-          "evse_id": "CZ*EON*E35923",
+          "evse_id": "CZ*EON*E25035923*1",
           "last_seen_as_planned": "2021-10-13T11:04:38.61Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -14164,7 +14244,7 @@
             "latitude": "49.15520932",
             "longitude": "16.69121257"
           },
-          "evse_id": "CZ*EON*E35924",
+          "evse_id": "CZ*EON*E25035923*2",
           "last_seen_as_planned": "2021-10-13T11:04:38.61Z",
           "last_updated": "RESET",
           "status": "RESET",
