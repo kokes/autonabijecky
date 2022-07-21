@@ -7191,7 +7191,7 @@
   },
   "CZ1003382": {
     "name": "Ladestation Bechyňská",
-    "sha1": "6992d2105676ae2d45c218a3bb5962a024a14956",
+    "sha1": "db1136d85436eac77ca13d39f7752bf762099a45",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -7204,7 +7204,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1003382",
       "csName": "Ladestation Bechyňská",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Bechyňská",
       "evseId": "CZ*PRE*E1S8040*2",
@@ -7214,6 +7214,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_bechynska.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
