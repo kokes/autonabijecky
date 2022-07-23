@@ -7928,6 +7928,145 @@
       "street": "Českomoravská 2420/15a"
     }
   },
+  "CZ1003547": {
+    "name": "Ladestation TS 194 Národních Hrdinů",
+    "sha1": "5a0f48213852ab0eeac4ae62a8d77162b349b131",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 194",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003547",
+      "csName": "Ladestation TS 194 Národních Hrdinů",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station  TS 194",
+      "enCsname": "Charger TS 194 Národních Hrdinů",
+      "evseId": "CZ*PRE*E1S8036*2",
+      "geoCoord": {
+        "latitude": "50.084003",
+        "longitude": "14.574104"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_194_narodnich_hrdinu.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19012",
+      "region": "Hlavní město Praha",
+      "street": "Národních Hrdinů"
+    }
+  },
+  "CZ1003548": {
+    "name": "Ladestation Železnobrodská",
+    "sha1": "c64834e5815d46da6e0c515899cc60e42dc8cb48",
+    "station": {
+      "additionalInfo": "Neben dem Rathaus Prag 19",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003548",
+      "csName": "Ladestation Železnobrodská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the town hall of Prague 19",
+      "enCsname": "Charger Železnobrodská",
+      "evseId": "CZ*PRE*E1S8061*2",
+      "geoCoord": {
+        "latitude": "50.133535",
+        "longitude": "14.547171"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_zeleznobrodska.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19700",
+      "region": "Hlavní město Praha",
+      "street": "Železnobrodská"
+    }
+  },
+  "CZ1003549": {
+    "name": "Ladestation Skanska Reality Čtvrť Emila Kolbena",
+    "sha1": "37a864148c3e37f8fffe3a773a3fb09acbc621d2",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003549",
+      "csName": "Ladestation Skanska Reality Čtvrť Emila Kolbena",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Skanska Reality Čtvrť Emila Kolbena",
+      "evseId": "CZ*PRE*E1S8067*2",
+      "geoCoord": {
+        "latitude": "50.110195",
+        "longitude": "14.513389"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_skanska_reality_ctvrt_emila_kolbena.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Polaneckého"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "5ec77bf41b5faca7b29600df145567c4f0c3f9ff",
@@ -11291,6 +11430,51 @@
       "postalCode": "53009",
       "region": "Pardubický kraj",
       "street": "Hradecká"
+    }
+  },
+  "CZ5303546": {
+    "name": "Ladestation Hotel Kraskov",
+    "sha1": "6c9345c9db2d7f2ea80d659d5536eca9969a334b",
+    "station": {
+      "branch": "Hotel",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Třemošnice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ5303546",
+      "csName": "Ladestation Hotel Kraskov",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Hotel Kraskov",
+      "evseId": "CZ*PRE*E1S8078*2",
+      "geoCoord": {
+        "latitude": "49.869242",
+        "longitude": "14.609764"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_hotel_kraskov.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "53843",
+      "region": "Pardubický kraj",
+      "street": "Starý Dvůr 47"
     }
   },
   "CZ6302813": {
