@@ -7890,7 +7890,7 @@
   },
   "CZ1003530": {
     "name": "Ladestation Galerie Harfa II",
-    "sha1": "3b20cdf4e9f8354be7e890e7a94530643ae126db",
+    "sha1": "ed57f0a2127703bcc7d73e1ed8c37b3e76c6982b",
     "station": {
       "additionalInfo": "In der Galerie Harfa Tiefgarage",
       "branch": "Parken",
@@ -7904,7 +7904,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1003530",
       "csName": "Ladestation Galerie Harfa II",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "In the Galerie Harfa underground garages",
       "enCsname": "Charger Galerie Harfa II",
@@ -7915,6 +7915,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_galerie_harfa.jpg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "partnerName": "PRE",
