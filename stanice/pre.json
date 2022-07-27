@@ -5422,6 +5422,53 @@
       "street": "Schwarzenberská"
     }
   },
+  "CZ1003145": {
+    "name": "Ladestation TS 722 Františkova",
+    "sha1": "797dee0e42f3f7ab4e69d050bf4afc44fd6fa586",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 722",
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003145",
+      "csName": "Ladestation TS 722 Františkova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "By the transformation station TS 722",
+      "enCsname": "Charger TS 722 Františkova",
+      "evseId": "CZ*PRE*E1S8027*2",
+      "geoCoord": {
+        "latitude": "50.105911",
+        "longitude": "14.580544"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_722_frantiskova.jpeg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19800",
+      "region": "Hlavní město Praha",
+      "street": "Františkova"
+    }
+  },
   "CZ1003151": {
     "name": "Ladestation TS 3932 Pod Vartou",
     "sha1": "029541ef1d18725aae62da1efd0f67c3d8980f2f",
