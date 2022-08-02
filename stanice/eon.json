@@ -13905,7 +13905,7 @@
   },
   "35757": {
     "name": "(P) Autocentrum DAVO CAR Olbramovice",
-    "sha1": "edb01929f5a50746efa30c4fcfd70a4787258536",
+    "sha1": "12cc74a5d676a2540d9bbd34d6bcc15883c8445f",
     "station": {
       "address": "Autocenturm DAVO CAR Olbramovice 203",
       "city": "Olbramovice",
@@ -13963,15 +13963,15 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-07-12T15:34:48.477Z",
+              "last_updated": "2022-08-01T22:01:01.563Z",
               "max_amperage": 200,
-              "max_electric_power": 100000,
+              "max_electric_power": 150000,
               "max_voltage": 920,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "13",
-                "14"
+                "174",
+                "175"
               ]
             }
           ],
@@ -26689,7 +26689,7 @@
   },
   "53796": {
     "name": "E.ON Penny Roudnice nad Labem",
-    "sha1": "9b8d181eebde3959ea318ce5aec60fd731b2724c",
+    "sha1": "8c17515569ce144d25c73f56b19b1def02c3c959",
     "station": {
       "address": "Hornická 2487",
       "city": "Roudnice nad Labem",
@@ -26757,7 +26757,7 @@
             "longitude": "14.2400564"
           },
           "evse_id": "CZ*EON*E98053796*1",
-          "last_seen_as_planned": "2022-07-29T06:12:07.823Z",
+          "last_seen_as_planned": "2022-08-01T09:49:51.347Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53796"
@@ -26796,7 +26796,7 @@
             "longitude": "14.2400564"
           },
           "evse_id": "CZ*EON*E98053796*2",
-          "last_seen_as_planned": "2022-07-29T06:10:18.42Z",
+          "last_seen_as_planned": "2022-08-01T09:49:51.347Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53797"
@@ -27399,7 +27399,7 @@
   },
   "53806": {
     "name": "E.ON Penny Odolena Voda",
-    "sha1": "0b02d3ee627dfbd7e0edb14301ec467f35192815",
+    "sha1": "a22bd259811eac49b5824031cb415d6f3b91f196",
     "station": {
       "address": "Ke Stadionu 519",
       "city": "Odolena Voda",
@@ -27467,7 +27467,7 @@
             "longitude": "14.4100356"
           },
           "evse_id": "CZ*EON*E98053806*1",
-          "last_seen_as_planned": "2022-07-29T06:12:07.823Z",
+          "last_seen_as_planned": "2022-08-01T09:53:02.91Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53806"
@@ -27506,7 +27506,7 @@
             "longitude": "14.4100356"
           },
           "evse_id": "CZ*EON*E98053806*2",
-          "last_seen_as_planned": "2022-07-29T06:10:18.42Z",
+          "last_seen_as_planned": "2022-08-01T09:53:02.91Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53807"
