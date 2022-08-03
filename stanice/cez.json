@@ -14031,7 +14031,7 @@
   },
   "159958": {
     "name": "R409 - Čestlice - Kaufland - 2",
-    "sha1": "2e196e05cc83d3503cf813df60825029fc3d8a17",
+    "sha1": "4faf54ada26651f1e1089967a5c8ca479a1cf5d5",
     "station": {
       "address": {
         "city": "Čestlice",
@@ -14094,7 +14094,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-123900.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
         }
       ],
       "instructions": null,
@@ -14172,6 +14172,1320 @@
       ],
       "instructions": null,
       "name": "R458 - Horní Planá",
+      "visible": true
+    }
+  },
+  "161600": {
+    "name": "R425 - Plzeň - OC Olympia Plzeň - 6",
+    "sha1": "3ef60eb83113c08c1a0af1dd7234bd0a99d35c83",
+    "station": {
+      "address": {
+        "city": "Plzeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "972/1",
+        "latitude": 49.7018022,
+        "longitude": 13.4278747,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Písecká",
+        "url": ""
+      },
+      "customID": "161600",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-IT1-4921-093",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R425"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT1-4921-093",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT1-4921-093",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R425"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R425 - Plzeň - OC Olympia Plzeň - 6",
+      "visible": true
+    }
+  },
+  "161604": {
+    "name": "R428 - Plzeň - OC Olympia Plzeň - 9",
+    "sha1": "5019d8c926f362a9b59c4a95704f7f6f39eb6c6b",
+    "station": {
+      "address": {
+        "city": "Plzeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "972/1",
+        "latitude": 49.7018022,
+        "longitude": 13.4278747,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Písecká",
+        "url": ""
+      },
+      "customID": "161604",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4821-027",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R428"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-027",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-027",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R428"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R428 - Plzeň - OC Olympia Plzeň - 9",
+      "visible": true
+    }
+  },
+  "161612": {
+    "name": "R427 - Plzeň - OC Olympia Plzeň - 8",
+    "sha1": "47c6d5d60ade58416f704ef99d641e7f416e2b06",
+    "station": {
+      "address": {
+        "city": "Plzeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "972/1",
+        "latitude": 49.7018022,
+        "longitude": 13.4278747,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Písecká",
+        "url": ""
+      },
+      "customID": "161612",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4821-032",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R427"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-032",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-032",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R427"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R427 - Plzeň - OC Olympia Plzeň - 8",
+      "visible": true
+    }
+  },
+  "161613": {
+    "name": "R426 - Plzeň - OC Olympia Plzeň - 7",
+    "sha1": "9c032c6fd929acbf10b7e563bb6256159c3b4bb1",
+    "station": {
+      "address": {
+        "city": "Plzeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "972/1",
+        "latitude": 49.7018022,
+        "longitude": 13.4278747,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Písecká",
+        "url": ""
+      },
+      "customID": "161613",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-028",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R426"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-028",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-028",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R426"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R426 - Plzeň - OC Olympia Plzeň - 7",
+      "visible": true
+    }
+  },
+  "161614": {
+    "name": "R421 - Plzeň - OC Olympia Plzeň - 2",
+    "sha1": "caf5e43aa22b90f41eb1ffa1002f12ab1203fac4",
+    "station": {
+      "address": {
+        "city": "Plzeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "972/1",
+        "latitude": 49.7018022,
+        "longitude": 13.4278747,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Písecká",
+        "url": ""
+      },
+      "customID": "161614",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4721-035",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R421"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-035",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-035",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R421"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R421 - Plzeň - OC Olympia Plzeň - 2",
+      "visible": true
+    }
+  },
+  "161615": {
+    "name": "R424 - Plzeň - OC Olympia Plzeň - 5",
+    "sha1": "77032022c69b239698f13f1becb2becd1630b562",
+    "station": {
+      "address": {
+        "city": "Plzeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "972/1",
+        "latitude": 49.7018022,
+        "longitude": 13.4278747,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Písecká",
+        "url": ""
+      },
+      "customID": "161615",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-IT1-4921-085",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R424"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT1-4921-085",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT1-4921-085",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R424"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R424 - Plzeň - OC Olympia Plzeň - 5",
+      "visible": true
+    }
+  },
+  "161617": {
+    "name": "R463 - Strakonice - Kaufland - 1",
+    "sha1": "b308eac7ec1d699acb289dc607e37d65f07bc318",
+    "station": {
+      "address": {
+        "city": "Strakonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.26269,
+        "longitude": 13.89108,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Katovická",
+        "url": ""
+      },
+      "customID": "161617",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1522-016",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R463"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-016",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-016",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R463"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R463 - Strakonice - Kaufland - 1",
+      "visible": true
+    }
+  },
+  "161618": {
+    "name": "R444 - Uherské Hradiště - Kaufland",
+    "sha1": "bf87178a96ab293edc25567e77e95276b77df5a3",
+    "station": {
+      "address": {
+        "city": "Uherské Hradiště",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Mayen 1496",
+        "latitude": 49.0703155,
+        "longitude": 17.473329,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Města",
+        "url": ""
+      },
+      "customID": "161618",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-0822-009",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R444"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0822-009",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0822-009",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R444"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R444 - Uherské Hradiště - Kaufland",
+      "visible": true
+    }
+  },
+  "161625": {
+    "name": "R430 - Plzeň - OC Olympia Plzeň - 11",
+    "sha1": "d3f42193bfd5056e45150e0afb9075d917543014",
+    "station": {
+      "address": {
+        "city": "Plzeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "972/1",
+        "latitude": 49.7018022,
+        "longitude": 13.4278747,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Písecká",
+        "url": ""
+      },
+      "customID": "161625",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4821-035",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R430"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-035",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-035",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R430"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R430 - Plzeň - OC Olympia Plzeň - 11",
+      "visible": true
+    }
+  },
+  "161626": {
+    "name": "R429 - Plzeň - OC Olympia Plzeň - 10",
+    "sha1": "b8f2ac45ee142a7426fe3fcc4122f4f77d8632c8",
+    "station": {
+      "address": {
+        "city": "Plzeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "972/1",
+        "latitude": 49.7018022,
+        "longitude": 13.4278747,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Písecká",
+        "url": ""
+      },
+      "customID": "161626",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-019",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R429"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-019",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-019",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R429"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R429 - Plzeň - OC Olympia Plzeň - 10",
+      "visible": true
+    }
+  },
+  "161627": {
+    "name": "R420 - Plzeň - OC Olympia Plzeň - 1",
+    "sha1": "17c85d4aa5d6afcd133f5dc98cff10a3e5a243ef",
+    "station": {
+      "address": {
+        "city": "Plzeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "972/1",
+        "latitude": 49.7018022,
+        "longitude": 13.4278747,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Písecká",
+        "url": ""
+      },
+      "customID": "161627",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-IT1-4921-097",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R420"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT1-4921-097",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT1-4921-097",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R420"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R420 - Plzeň - OC Olympia Plzeň - 1",
+      "visible": true
+    }
+  },
+  "161628": {
+    "name": "R422 - Plzeň - OC Olympia Plzeň - 3",
+    "sha1": "e608d1ce60e876eb2067234ecc6e1f620fd8e50d",
+    "station": {
+      "address": {
+        "city": "Plzeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "972/1",
+        "latitude": 49.7018022,
+        "longitude": 13.4278747,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Písecká",
+        "url": ""
+      },
+      "customID": "161628",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4621-013",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R422"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4621-013",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4621-013",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R422"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R422 - Plzeň - OC Olympia Plzeň - 3",
+      "visible": true
+    }
+  },
+  "161629": {
+    "name": "R423 - Plzeň - OC Olympia Plzeň - 4",
+    "sha1": "f07f83a9b1cb58bfe1fd6fd7a45be6e43aae8a48",
+    "station": {
+      "address": {
+        "city": "Plzeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "972/1",
+        "latitude": 49.7018022,
+        "longitude": 13.4278747,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Písecká",
+        "url": ""
+      },
+      "customID": "161629",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4721-036",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R423"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-036",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-036",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R423"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R423 - Plzeň - OC Olympia Plzeň - 4",
+      "visible": true
+    }
+  },
+  "161631": {
+    "name": "R464 - Strakonice - Kaufland - 2",
+    "sha1": "53c60a83bbaf3f47dad23f61f1462ad86bf9aa16",
+    "station": {
+      "address": {
+        "city": "Strakonice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.26269,
+        "longitude": 13.89108,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Katovická",
+        "url": ""
+      },
+      "customID": "161631",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1422-004",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R464"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1422-004",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1422-004",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R464"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R464 - Strakonice - Kaufland - 2",
+      "visible": true
+    }
+  },
+  "161632": {
+    "name": "R453 - Olomouc - Kaufland - 2",
+    "sha1": "e29a432d7c4b042cc5f41922116587e1d57147c9",
+    "station": {
+      "address": {
+        "city": "Olomouc",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.5847021,
+        "longitude": 17.2253334,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Hněvotínská",
+        "url": ""
+      },
+      "customID": "161632",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1422-003",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R453"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1422-003",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1422-003",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R453"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R453 - Olomouc - Kaufland - 2",
+      "visible": true
+    }
+  },
+  "161633": {
+    "name": "R452 - Olomouc - Kaufland - 1",
+    "sha1": "ae59f7f7acc3ffc237744e65d13649c1c1a8015a",
+    "station": {
+      "address": {
+        "city": "Olomouc",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.5847021,
+        "longitude": 17.2253334,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Hněvotínská",
+        "url": ""
+      },
+      "customID": "161633",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1522-014",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R452"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-014",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-014",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R452"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/38910818.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R452 - Olomouc - Kaufland - 1",
+      "visible": true
+    }
+  },
+  "161634": {
+    "name": "R450 - Lety - ZŠ Lety",
+    "sha1": "f1af83db7d09bcbfda98cd7269285fff1e530a8f",
+    "station": {
+      "address": {
+        "city": "Lety",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "571",
+        "latitude": 49.9228531,
+        "longitude": 14.2496492,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Karlštejnská",
+        "url": ""
+      },
+      "customID": "161634",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4821-037",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R450"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-037",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-037",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R450"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/38910818.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R450 - Lety - ZŠ Lety",
+      "visible": true
+    }
+  },
+  "161635": {
+    "name": "R445 - Ostrava - RELY servis HYUNDAI",
+    "sha1": "54d1258b43e795011102dd9f980aaf283755b3ce",
+    "station": {
+      "address": {
+        "city": "Ostrava",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "778",
+        "latitude": 49.859287,
+        "longitude": 18.2942123,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Bohumínská",
+        "url": ""
+      },
+      "customID": "161635",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4721-039",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R445"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-039",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-039",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R445"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/06/img_1772.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R445 - Ostrava - RELY servis HYUNDAI",
       "visible": true
     }
   },
