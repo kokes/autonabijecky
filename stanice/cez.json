@@ -15489,6 +15489,225 @@
       "visible": true
     }
   },
+  "161647": {
+    "name": "R411 - Velká Dobrá - McDonald´s - 2",
+    "sha1": "376124b5fa245d70d2df98e148040a080a8f0e52",
+    "station": {
+      "address": {
+        "city": "Velká Dobrá",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.1065843,
+        "longitude": 14.0769344,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Unhošťská",
+        "url": ""
+      },
+      "customID": "161647",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-014",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R411"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-014",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-014",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R411"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/1-20220803-125526.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R411 - Velká Dobrá - McDonald´s - 2",
+      "visible": true
+    }
+  },
+  "161687": {
+    "name": "R431 - Benešov - Kaufland",
+    "sha1": "5c8541ccb9a54547c3c1dab442a03b1d1d06f8cc",
+    "station": {
+      "address": {
+        "city": "Benešov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Vršky 2217",
+        "latitude": 49.7936656,
+        "longitude": 14.6824458,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Červené",
+        "url": ""
+      },
+      "customID": "161687",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4821-029",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R431"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-029",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-029",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R431"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/img_20220414_130922.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R431 - Benešov - Kaufland",
+      "visible": true
+    }
+  },
+  "161689": {
+    "name": "R410 - Velká Dobrá - McDonald´s - 1",
+    "sha1": "cd6222ac0cb1dff84429563e317cee509e04896b",
+    "station": {
+      "address": {
+        "city": "Velká Dobrá",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.1065843,
+        "longitude": 14.0769344,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Unhošťská",
+        "url": ""
+      },
+      "customID": "161689",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-023",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R410"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-023",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-023",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R410"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/1-20220803-125509.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R410 - Velká Dobrá - McDonald´s - 1",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
