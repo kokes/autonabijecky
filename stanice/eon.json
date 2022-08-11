@@ -21278,8 +21278,8 @@
     }
   },
   "51439": {
-    "name": "E.ON Prostějov",
-    "sha1": "06a0b8ea471fff95646e9055fbd4e4d88afb1cb7",
+    "name": "E.ON Penzion Stella Prostějov",
+    "sha1": "44a02ec06fa649a5c7bac0caac6431f692af5637",
     "station": {
       "address": "Olomoucká 4390/112",
       "city": "Prostějov",
@@ -21300,13 +21300,73 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-08-10T18:52:43.443Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.48143484",
+            "longitude": "17.12049953"
+          },
+          "evse_id": "CZ*EON*E22045153*1",
+          "last_seen_as_planned": "2022-08-10T18:55:03.88Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "45153"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2022-08-10T18:52:43.443Z",
+              "max_amperage": 63,
+              "max_electric_power": 43000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.48143484",
             "longitude": "17.12049953"
           },
           "evse_id": "CZ*EON*E11051439*1",
-          "last_seen_as_planned": "2022-03-11T08:13:38.743Z",
+          "last_seen_as_planned": "2022-08-10T18:55:03.88Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51439"
@@ -21318,13 +21378,54 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2022-08-10T18:52:43.443Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2022-08-10T18:52:43.443Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.48143484",
             "longitude": "17.12049953"
           },
           "evse_id": "CZ*EON*E11051439*2",
-          "last_seen_as_planned": "2022-03-11T08:13:38.743Z",
+          "last_seen_as_planned": "2022-08-10T18:55:03.88Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51440"
@@ -21335,7 +21436,7 @@
       ],
       "id": "51439",
       "last_updated": "RESET",
-      "name": "E.ON Prostějov",
+      "name": "E.ON Penzion Stella Prostějov",
       "opening_times": {
         "twentyfourseven": true
       },
