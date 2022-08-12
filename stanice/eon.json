@@ -23382,7 +23382,7 @@
   },
   "51501": {
     "name": "E.ON Terno Český Krumlov",
-    "sha1": "de9388ffe8187947ace14b9933f63d45e334af03",
+    "sha1": "2617e69016610aec26d46dc285aeb4045fcec2a8",
     "station": {
       "address": "Tovární 164",
       "city": "Český Krumlov",
@@ -23451,6 +23451,10 @@
           "uid": "51503"
         }
       ],
+      "facilities": [
+        "MALL",
+        "SUPERMARKET"
+      ],
       "id": "51501",
       "last_updated": "RESET",
       "name": "E.ON Terno Český Krumlov",
@@ -23458,11 +23462,12 @@
         "twentyfourseven": true
       },
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "E.ON Česká republika, s. r. o."
       },
       "owner": {
         "name": "E.ON Česká republika, s. r. o."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "38101",
       "publish": true,
@@ -23571,7 +23576,7 @@
   },
   "51507": {
     "name": "E.ON KIA České Budějovice",
-    "sha1": "caac1c058a316ff080f38677336e3e3d15cf83d2",
+    "sha1": "e65a92a48f13242cc2fef0701a9f096bcba3e822",
     "station": {
       "address": "Okružní 2824",
       "city": "České Budějovice",
@@ -23596,10 +23601,10 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-05-11T22:00:52.237Z",
+              "last_updated": "2022-08-11T13:29:00.4Z",
               "max_amperage": 125,
               "max_electric_power": 75000,
-              "max_voltage": 500,
+              "max_voltage": 920,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
