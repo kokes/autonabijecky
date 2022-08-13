@@ -10811,9 +10811,9 @@
   },
   "CZ5102669": {
     "name": "Ladestation OC Central Jablone",
-    "sha1": "e2bf4bf704a4a23363380e61439f716ae54874de",
+    "sha1": "87da57a1811268ca2fe1c405b9e9d4190694dbb5",
     "station": {
-      "additionalInfo": "In den Garage der Einkaufspassage",
+      "additionalInfo": "Direkt nach der Garageneinfahrt vom OC Central Jablonec",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -10827,7 +10827,7 @@
       "csName": "Ladestation OC Central Jablone",
       "csStatus": "operable",
       "csType": "charger",
-      "enAdditionalInfo": "In the garages of the shopping mall",
+      "enAdditionalInfo": "Right behind the entrance of OC Central Jablonec garages",
       "enCsname": "Charger OC Central Jablone",
       "evseId": "CZ*PRE*E1S7110*2",
       "geoCoord": {
@@ -10836,6 +10836,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_oc_central_jablonec.jpg"
+        }
+      ],
       "isOpen24Hours": "false",
       "isPartnerCs": false,
       "openingTimes": [
