@@ -10898,7 +10898,7 @@
   },
   "154315": {
     "name": "N175 - Dolní Břežany - Parkovací dům - 1",
-    "sha1": "01b11677ec6c58f5ac8fcd41fe0e62f8b4b165ba",
+    "sha1": "59688468fb927ac566363d18ce1640b32cd6c419",
     "station": {
       "address": {
         "city": "Dolní Břežany",
@@ -10952,7 +10952,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/img_0671.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/img-20220815-wa0014.jpg"
         }
       ],
       "instructions": null,
@@ -15705,6 +15705,134 @@
       ],
       "instructions": null,
       "name": "R410 - Velká Dobrá - McDonald´s - 1",
+      "visible": true
+    }
+  },
+  "162129": {
+    "name": "N194 - Rychnov u Jablonce nad Nisou - 1",
+    "sha1": "944cfb64f2cfaf388723ce5abbbf35332a3ea368",
+    "station": {
+      "address": {
+        "city": "Rychnov u Jablonce nad Nisou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Míru",
+        "latitude": 50.6843663,
+        "longitude": 15.1506288,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Náměstí",
+        "url": ""
+      },
+      "customID": "162129",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N194"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N194"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/img-20220815-wa0014.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N194 - Rychnov u Jablonce nad Nisou - 1",
+      "visible": true
+    }
+  },
+  "162130": {
+    "name": "N195 - Rychnov u Jablonce nad Nisou - 2",
+    "sha1": "3952f65755209be22d6cb77b809468ee0c3d079a",
+    "station": {
+      "address": {
+        "city": "Rychnov u Jablonce nad Nisou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Míru",
+        "latitude": 50.6843663,
+        "longitude": 15.1506288,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Náměstí",
+        "url": ""
+      },
+      "customID": "162130",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N195"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N195"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/img-20220815-wa0014.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N195 - Rychnov u Jablonce nad Nisou - 2",
       "visible": true
     }
   },
