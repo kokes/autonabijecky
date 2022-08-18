@@ -10136,7 +10136,7 @@
   },
   "CZ4103498": {
     "name": "Schnellladestation OMV Sokolov",
-    "sha1": "c78edcaed07ff585d81caa108ec21c537de54763",
+    "sha1": "1ba8931138521577284ecf48c947333d364ddf4f",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -10145,7 +10145,7 @@
           "DC Charging ≤50kW"
         ]
       },
-      "city": "K.H.Borovského 2070",
+      "city": "Sokolov",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ4103498",
@@ -10176,9 +10176,9 @@
           "plug": "CHAdeMO"
         }
       ],
-      "postalCode": "35601",
+      "postalCode": "35605",
       "region": "Karlovarský kraj",
-      "street": "Odpočívka směr Brno 96 km"
+      "street": "K.H.Borovského 2070"
     }
   },
   "CZ4202612": {
