@@ -1869,7 +1869,7 @@
   },
   "112133": {
     "name": "(P) Clarion Grandhotel Zlatý Lev",
-    "sha1": "07beb2ee79067f6f6dcf3352480eb4f566e323dc",
+    "sha1": "ef800007cfd031d8630bc89572499dd07fc05a02",
     "station": {
       "address": "Gutenbergova 126",
       "city": "Liberec",
@@ -1961,12 +1961,12 @@
         {
           "category": "OTHER",
           "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/100094/6493381644930108.jpg"
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/100094/1348101660818798.jpg"
         },
         {
           "category": "OTHER",
           "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/100094/7327711644930141.jpg"
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/100094/2460161660818791.jpg"
         },
         {
           "category": "OTHER",
@@ -4146,6 +4146,143 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "142613": {
+    "name": "E.ON P3 Park Olomouc",
+    "sha1": "d8f6fbc7d67db8521779bff79b0daa904b159ca5",
+    "station": {
+      "address": "Dolní Novosadská",
+      "city": "Olomouc",
+      "coordinates": {
+        "latitude": "49.558698",
+        "longitude": "17.260628"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.558698",
+            "longitude": "17.260628"
+          },
+          "evse_id": "FI*001*E142613",
+          "floor_level": "0",
+          "last_seen_as_planned": "2022-08-18T09:22:35.233Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "142613"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-08-18T09:14:47.33Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.558698",
+            "longitude": "17.260628"
+          },
+          "evse_id": "CZ*EON*E25035973*1",
+          "last_seen_as_planned": "2022-08-18T09:22:35.233Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35973"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-08-18T09:14:47.33Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.558698",
+            "longitude": "17.260628"
+          },
+          "evse_id": "CZ*EON*E25035973*2",
+          "last_seen_as_planned": "2022-08-18T09:22:35.233Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35974"
+        }
+      ],
+      "id": "142613",
+      "last_updated": "RESET",
+      "name": "E.ON P3 Park Olomouc",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Energie, a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "779 00",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "15025": {
     "name": "E.ON Vystrkov",
     "sha1": "75ff304b66f73654a3101edf23bf14b1f444f7ac",
@@ -5736,7 +5873,7 @@
   },
   "18874": {
     "name": "(P) Amenity Resort Lipno",
-    "sha1": "b8a0ffa0e6c101ed487ad64114195aed6d76e7f5",
+    "sha1": "0ba7088a37d59f86c37f7b1ae65a1d8969095540",
     "station": {
       "address": "Lipno nad Vltavou 999",
       "city": "Lipno nad Vltavou",
@@ -5840,21 +5977,6 @@
           "category": "OTHER",
           "type": "jpg",
           "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/10056/1583496797.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/10056/1583496860.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/10056/1583935151.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/10056/1583935168.jpg"
         }
       ],
       "last_updated": "RESET",
@@ -5881,7 +6003,7 @@
   },
   "19565": {
     "name": "(P) COMTES FHT AC",
-    "sha1": "f3661f8117c0cac827d04bdc339739906cf8d990",
+    "sha1": "2debe2d0afe2e9eb1be5c2087e4995cbf5579654",
     "station": {
       "address": "Průmyslová 1298",
       "city": "Dobřany",
@@ -5971,16 +6093,6 @@
           "category": "OTHER",
           "type": "jpg",
           "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/34558/1583497138.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/34558/1583497181.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/34558/1586941049.jpg"
         },
         {
           "category": "OTHER",
@@ -6177,7 +6289,7 @@
   },
   "19813": {
     "name": "(P) COMTES FHT DC/AC",
-    "sha1": "4e4ddb0516c6580df5081a19a9b9593f5200f401",
+    "sha1": "c7809ec072be4a5674ccd1a63ec93b7d27d046c3",
     "station": {
       "address": "Průmyslová 1298",
       "city": "Dobřany",
@@ -6281,16 +6393,6 @@
           "category": "OTHER",
           "type": "jpg",
           "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/10712/1583497090.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/10712/1583497107.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/10712/1586940652.jpg"
         },
         {
           "category": "OTHER",
@@ -16822,7 +16924,7 @@
   },
   "35973": {
     "name": "E.ON Korzo Lipno",
-    "sha1": "be77ca784fbb001060838913cda54e466504f764",
+    "sha1": "f90c2d953bb7054677fdee39a64f386e144e1add",
     "station": {
       "address": "Lipno nad Vltavou 319",
       "city": "Lipno nad Vltavou",
@@ -16921,8 +17023,8 @@
       "owner": {
         "name": "E.ON Energie, a.s."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
-      "postal_code": "382 78",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
@@ -19615,7 +19717,7 @@
   },
   "50153": {
     "name": "(P) Mamaison Residence Downtown Prague",
-    "sha1": "86f8a3e5e9bdf6b1f1b03d8d4b7c8aa99d4ea068",
+    "sha1": "e72c11d5db320dde531237b106a96989c89258d6",
     "station": {
       "address": "Na Rybníčku 1329/5",
       "city": "Praha 2",
@@ -19702,6 +19804,11 @@
       ],
       "id": "50153",
       "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/78669/5237611660818936.jpg"
+        },
         {
           "category": "OTHER",
           "type": "jpg",
@@ -31622,7 +31729,7 @@
   },
   "56530": {
     "name": "(P) Cafe Sun Benedicto",
-    "sha1": "a009ef8bf8672eabff4d4b9b6358e9cd3a51ad86",
+    "sha1": "00557cffc036c893c00ba5e43c7a71c645f76aea",
     "station": {
       "address": "K Pile 939",
       "city": "Klatovy",
@@ -31675,6 +31782,11 @@
       ],
       "id": "56530",
       "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/72345/1861621660817916.jpg"
+        },
         {
           "category": "OTHER",
           "type": "JPG",
@@ -33571,7 +33683,7 @@
   },
   "80621": {
     "name": "(P) Borák Development s.r.o.",
-    "sha1": "78124b78cd179dca377ab4b58060a58c631a1820",
+    "sha1": "2b7c761244582f24178fad603fa6aac8f15cae96",
     "station": {
       "address": "Vlčnovská 2066",
       "city": "Uherský Brod",
@@ -33658,6 +33770,11 @@
           "category": "OTHER",
           "type": "jpg",
           "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/80783/4790811657535824.jpg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/80783/9294641660817778.jpg"
         }
       ],
       "last_updated": "RESET",
@@ -33988,7 +34105,7 @@
   },
   "87558": {
     "name": "(P) Amenity Hotel & Resort Špindlerův Mlýn",
-    "sha1": "1034dcfba3c2a94b210179f4b2efe429ff74eb58",
+    "sha1": "71cd00f577f5816f8cdeae751156574bc9a2665c",
     "station": {
       "address": "Labská 117",
       "city": "Špindlerův Mlýn",
@@ -34079,6 +34196,11 @@
           "category": "OTHER",
           "type": "jpg",
           "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/81129/6234901657535484.jpg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/81129/6776121660817375.jpg"
         }
       ],
       "last_updated": "RESET",
@@ -34420,7 +34542,7 @@
   },
   "93103": {
     "name": "(P) Carling Auto",
-    "sha1": "1b751dd0cf05c2a91fd83e7dd11734b1c8e7c024",
+    "sha1": "ea9219ca1683882511933ab6452278f36389b319",
     "station": {
       "address": "Hviezdoslavova 1308/51",
       "city": "Brno",
@@ -34507,6 +34629,11 @@
           "category": "OTHER",
           "type": "jpg",
           "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/133939/6485381657536032.jpg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/133939/7371341660818235.jpg"
         }
       ],
       "last_updated": "RESET",
