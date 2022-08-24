@@ -15836,6 +15836,225 @@
       "visible": true
     }
   },
+  "162508": {
+    "name": "R462 - Frýdek Místek - OC FRÝDA",
+    "sha1": "4851ddd7cf604cb807259a173f82c546898638a8",
+    "station": {
+      "address": {
+        "city": "Frýdek Místek",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Příkopě 3727",
+        "latitude": 49.6812,
+        "longitude": 18.3469,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Na",
+        "url": ""
+      },
+      "customID": "162508",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1222-010",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R462"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1222-010",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1222-010",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R462"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/mcdonalds-praha-kbelska-20211220-124006.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R462 - Frýdek Místek - OC FRÝDA",
+      "visible": true
+    }
+  },
+  "162531": {
+    "name": "R454 - Šumperk - Auto Hégr",
+    "sha1": "62faa263aba76eed143c00b51c748dd25102676b",
+    "station": {
+      "address": {
+        "city": "Šumperk",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2839/1b",
+        "latitude": 49.9551422,
+        "longitude": 16.9657115,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jesenická",
+        "url": ""
+      },
+      "customID": "162531",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-027",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R454"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-027",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-027",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R454"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img_1433.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R454 - Šumperk - Auto Hégr",
+      "visible": true
+    }
+  },
+  "162532": {
+    "name": "R455 - Havířov - Benzina",
+    "sha1": "35e3bbcd4224ba6f6e3c8d5d80c3673546c5df0c",
+    "station": {
+      "address": {
+        "city": "Havířov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.79027,
+        "longitude": 18.41038,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Železničářů",
+        "url": ""
+      },
+      "customID": "162532",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4721-033",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R455"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-033",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-033",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R455"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/6-20220823-144515.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R455 - Havířov - Benzina",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
@@ -15961,6 +16180,79 @@
       ],
       "instructions": null,
       "name": "N023 - Praha 8 - AAA Auto",
+      "visible": true
+    }
+  },
+  "59411": {
+    "name": "UR101 - Praha - ČEZ - Duhová 3",
+    "sha1": "f7ad765b86094dc629e50022ae98b7cba3eb623f",
+    "station": {
+      "address": {
+        "city": "Praha 4",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3",
+        "latitude": 50.0490426,
+        "longitude": 14.4510453,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Duhová",
+        "url": "http://www.cez.cz"
+      },
+      "customID": "59411",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T53-IT1-2516-022 ",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "UR101"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T53-IT1-2516-022 ",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T53-IT1-2516-022 ",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR101"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/uurds-duhova3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR101 - Praha - ČEZ - Duhová 3",
       "visible": true
     }
   },
