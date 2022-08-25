@@ -1995,7 +1995,7 @@
   },
   "112211": {
     "name": "(P) Interhotel Zlín",
-    "sha1": "4a629da3cfb8efb0859e57da310c4798cdea783f",
+    "sha1": "8ea18e353677f474f783a2c3417a89f0412cfe72",
     "station": {
       "address": "náměstí Práce 2512",
       "city": "Zlín",
@@ -2060,6 +2060,11 @@
           "category": "OTHER",
           "type": "jpg",
           "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/127515/2623331655207028.jpg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/127515/7305191661327181.jpg"
         }
       ],
       "last_updated": "RESET",
@@ -2379,6 +2384,69 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "37372",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "117362": {
+    "name": "(P) Zámeček Skrytín",
+    "sha1": "61cb5324f42cb19a8c95d6accabef8f8e98b2510",
+    "station": {
+      "address": "Dobkovice 40",
+      "city": "Dobkovice",
+      "coordinates": {
+        "latitude": "50.695171",
+        "longitude": "14.189635"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.695171",
+            "longitude": "14.189635"
+          },
+          "evse_id": "CZ*EON*E22117362*1",
+          "last_seen_as_planned": "2022-08-24T06:42:39.693Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "117362"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RECREATION_AREA",
+        "NATURE"
+      ],
+      "id": "117362",
+      "last_updated": "RESET",
+      "name": "(P) Zámeček Skrytín",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "ETERA, s.r.o."
+      },
+      "owner": {
+        "name": "ETERA, s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "407 03",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
@@ -7730,7 +7798,7 @@
   },
   "24570": {
     "name": "(P) Hotel Troyer",
-    "sha1": "318774713a864fdbcafa65ea5bbe5d64f5aee9ba",
+    "sha1": "b7145f2127dbb482cdc4c07d3b4d4e43483a80c7",
     "station": {
       "address": "Trojanovice 530",
       "city": "Frenštát po Radhoštěm",
@@ -7840,31 +7908,6 @@
           "category": "OTHER",
           "type": "jpg",
           "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/13970/1583497454.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/13970/1583497473.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/13970/1584360761.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/13970/1584360774.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/13970/1584360786.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/13970/1584360795.jpg"
         }
       ],
       "last_updated": "RESET",
@@ -11869,7 +11912,7 @@
   },
   "32764": {
     "name": "(P) Hotel Orlík TNM",
-    "sha1": "9a76f58462f4256d8754e3fa8cd557b7cdfefa60",
+    "sha1": "5a9dddc8470cf36b71ca774828989e7b0011270b",
     "station": {
       "address": "Střmenské podhradí 181",
       "city": "Teplice nad Metují",
@@ -11956,21 +11999,6 @@
       ],
       "id": "32764",
       "images": [
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/47424/1606128808.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/47424/1606129138.jpg"
-        },
-        {
-          "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/47424/1606129145.jpg"
-        },
         {
           "category": "OTHER",
           "type": "jpg",
@@ -34095,6 +34123,172 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "517 61",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "81658": {
+    "name": "(P) Zdobnice Centrum",
+    "sha1": "1be2360f29c53de8e4fec640448fb65d8ea4f302",
+    "station": {
+      "address": "Zdobnice",
+      "city": "Zdobnice",
+      "coordinates": {
+        "latitude": "50.245964",
+        "longitude": "16.407952"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.245964",
+            "longitude": "16.407952"
+          },
+          "evse_id": "CZ*EON*E31081658*1",
+          "last_seen_as_planned": "2022-08-24T07:17:28.64Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81658"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.245964",
+            "longitude": "16.407952"
+          },
+          "evse_id": "CZ*EON*E31081658*2",
+          "last_seen_as_planned": "2022-08-24T07:17:28.64Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81659"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "SPORT",
+        "RECREATION_AREA",
+        "NATURE"
+      ],
+      "id": "81658",
+      "last_updated": "RESET",
+      "name": "(P) Zdobnice Centrum",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "RT Investment, s.r.o."
+      },
+      "owner": {
+        "name": "RT Investment, s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "516 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "81660": {
+    "name": "(P) Sokolí Hnízdo",
+    "sha1": "27907b6646189d4b77fc52162d288ccc1f41dc48",
+    "station": {
+      "address": "Rampuše 5",
+      "city": "Liberk",
+      "coordinates": {
+        "latitude": "50.206468",
+        "longitude": "16.375559"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.206468",
+            "longitude": "16.375559"
+          },
+          "evse_id": "CZ*EON*E31081660*1",
+          "last_seen_as_planned": "2022-08-24T07:21:21.183Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81660"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.206468",
+            "longitude": "16.375559"
+          },
+          "evse_id": "CZ*EON*E31081660*2",
+          "last_seen_as_planned": "2022-08-24T07:21:21.183Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81661"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "SPORT",
+        "RECREATION_AREA",
+        "NATURE"
+      ],
+      "id": "81660",
+      "last_updated": "RESET",
+      "name": "(P) Sokolí Hnízdo",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "RT Investment, s.r.o."
+      },
+      "owner": {
+        "name": "RT Investment, s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "516 01",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
