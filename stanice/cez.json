@@ -16055,6 +16055,79 @@
       "visible": true
     }
   },
+  "162618": {
+    "name": "R451 - Děčín - Auto Anex",
+    "sha1": "b3c91bd4eb42242fd36e9cad3e861b211080b2ec",
+    "station": {
+      "address": {
+        "city": "Děčín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "378",
+        "latitude": 50.770395,
+        "longitude": 14.2165193,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Žerotínova",
+        "url": ""
+      },
+      "customID": "162618",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-0922-019",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R451"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0922-019",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0922-019",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R451"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/86923386.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R451 - Děčín - Auto Anex",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",

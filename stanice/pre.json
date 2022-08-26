@@ -9208,8 +9208,8 @@
     }
   },
   "CZ3102615": {
-    "name": "Schnellladestation ČEPRO Sedlice",
-    "sha1": "4baa8cce139c4b6c58f52d099b0c549a784043cf",
+    "name": "Schnellladestation EuroOil Sedlice",
+    "sha1": "412d13683678cbd4f7f8d2e7fabe6b4a5dc09727",
     "station": {
       "additionalInfo": "Zugang von der Palackého Straße",
       "branch": "Parken",
@@ -9222,11 +9222,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ3102615",
-      "csName": "Schnellladestation ČEPRO Sedlice",
+      "csName": "Schnellladestation EuroOil Sedlice",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "From the Palackého street",
-      "enCsname": "Fast charger ČEPRO Sedlice",
+      "enCsname": "Fast charger EuroOil Sedlice",
       "evseId": "CZ*PRE*E1R5112*2",
       "geoCoord": {
         "latitude": "49.372278",
@@ -9236,7 +9236,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
-      "partnerName": "PRE",
+      "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
           "plug": "CHAdeMO"
