@@ -11279,6 +11279,53 @@
       "street": "J. A. Komenského 488"
     }
   },
+  "CZ5203579": {
+    "name": "Schnellladestation EuroOil Deštné",
+    "sha1": "418373544a8c23d3ef4b3b784297e8620550a078",
+    "station": {
+      "additionalInfo": "Bei der EuroOil Tankstelle",
+      "branch": "Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Deštné v Orlických horách",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ5203579",
+      "csName": "Schnellladestation EuroOil Deštné",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the EuroOil gas station",
+      "enCsname": "Fast charger EuroOil Deštné",
+      "evseId": "CZ*PRE*E1R5034*2",
+      "geoCoord": {
+        "latitude": "50.300944",
+        "longitude": "16.355278"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_destne.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "ČEPRO a.s.",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "51791",
+      "region": "Královéhradecký kraj",
+      "street": "Jedlová 429"
+    }
+  },
   "CZ5302630": {
     "name": "Ladestation Alza Pardubice",
     "sha1": "96e0607153754ee2efe33bc9932a80df263687cf",
