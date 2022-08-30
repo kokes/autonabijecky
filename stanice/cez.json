@@ -16128,6 +16128,70 @@
       "visible": true
     }
   },
+  "162787": {
+    "name": "N196 - Havlíčkův Brod - Retail park",
+    "sha1": "8aea375105ededabe49739c65ea1836e19c6ec93",
+    "station": {
+      "address": {
+        "city": "Havlíčkův Brod",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "4417",
+        "latitude": 49.6055661,
+        "longitude": 15.602049,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Strojírenská",
+        "url": ""
+      },
+      "customID": "162787",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N196"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N196"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/img-20220829-wa0014.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N196 - Havlíčkův Brod - Retail park",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
@@ -18440,8 +18504,8 @@
     }
   },
   "59465": {
-    "name": "R120 - Stráž nad Nisou - ČS EuroOil - 1",
-    "sha1": "17e097f9d72e7aa9e300cd4c218067d549f97810",
+    "name": "R120 - Stráž nad Nisou - MOL - 1",
+    "sha1": "fbd0ffba9bdc9113df6c44f55f99f71ca45e5137",
     "station": {
       "address": {
         "city": "Stráž nad Nisou",
@@ -18460,7 +18524,7 @@
       "description": [
         {
           "language": "cs",
-          "text": "Veřejná rychlodobíjecí stanice ABB v areálu ČS EuroOil u dálnice D35 ve směru na Liberec a Prahu."
+          "text": "Veřejná rychlodobíjecí stanice ABB v areálu ČS MOL u dálnice D35 ve směru na Liberec a Prahu."
         }
       ],
       "evses": [
@@ -18508,7 +18572,7 @@
         }
       ],
       "instructions": null,
-      "name": "R120 - Stráž nad Nisou - ČS EuroOil - 1",
+      "name": "R120 - Stráž nad Nisou - MOL - 1",
       "visible": true
     }
   },
@@ -18732,8 +18796,8 @@
     }
   },
   "59469": {
-    "name": "R137 - Stráž nad Nisou - ČS EuroOil - 2",
-    "sha1": "92410c406d0d79c6f05f04fb1b1ad20042d03046",
+    "name": "R137 - Stráž nad Nisou - MOL - 2",
+    "sha1": "393787a342375fdfe94cc5f8ddb7ebedb03777f7",
     "station": {
       "address": {
         "city": "Stráž nad Nisou",
@@ -18752,7 +18816,7 @@
       "description": [
         {
           "language": "cs",
-          "text": "Veřejná rychlodobíjecí stanice ABB v areálu ČS EuroOil u dálnice D35 ve směru na Liberec a Prahu."
+          "text": "Veřejná rychlodobíjecí stanice ABB v areálu MOL u dálnice D35 ve směru na Liberec a Prahu."
         }
       ],
       "evses": [
@@ -18800,7 +18864,7 @@
         }
       ],
       "instructions": null,
-      "name": "R137 - Stráž nad Nisou - ČS EuroOil - 2",
+      "name": "R137 - Stráž nad Nisou - MOL - 2",
       "visible": true
     }
   },
@@ -21841,8 +21905,8 @@
     }
   },
   "59518": {
-    "name": "N009 - Pardubice - nádraží",
-    "sha1": "2eca29411741bcb935a588b692da3aee33b05d68",
+    "name": "N197 - Pardubice - nádraží",
+    "sha1": "0f98b79d4f88bad11678863aa9432e209668f122",
     "station": {
       "address": {
         "city": "Pardubice",
@@ -21877,7 +21941,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N009"
+          "physicalReference": "N197"
         },
         {
           "connectors": [
@@ -21891,16 +21955,16 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N009"
+          "physicalReference": "N197"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/59-pardubice.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/img-20220829-wa0009.jpg"
         }
       ],
       "instructions": null,
-      "name": "N009 - Pardubice - nádraží",
+      "name": "N197 - Pardubice - nádraží",
       "visible": true
     }
   },
