@@ -8121,6 +8121,51 @@
       "street": "Polaneckého"
     }
   },
+  "CZ1003580": {
+    "name": "Ladestation Do Zahrádek II.",
+    "sha1": "b7e21c7d2c5c5e7f2222aa75fe12f7718fa4ad74",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003580",
+      "csName": "Ladestation Do Zahrádek II.",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Do Zahrádek II.",
+      "evseId": "CZ*PRE*E1S8089*2",
+      "geoCoord": {
+        "latitude": "50.057268",
+        "longitude": "14.289960"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_do_zahradek_ii.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15521",
+      "region": "Hlavní město Praha",
+      "street": "Do Zahrádek II"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "5ec77bf41b5faca7b29600df145567c4f0c3f9ff",
