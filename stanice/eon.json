@@ -5046,6 +5046,132 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "151214": {
+    "name": "(P) Město Bojkovice",
+    "sha1": "6afc0de3689829131818667ae40e6a35a87f08b6",
+    "station": {
+      "address": "Komenského",
+      "city": "687 71",
+      "coordinates": {
+        "latitude": "49.036058",
+        "longitude": "17.811719"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.036058",
+            "longitude": "17.811719"
+          },
+          "evse_id": "CZ*EON*E22142551*1",
+          "last_seen_as_planned": "2022-09-05T08:37:49.437Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "142536"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.036058",
+            "longitude": "17.811719"
+          },
+          "evse_id": "CZ*EON*E22142551*2",
+          "last_seen_as_planned": "2022-09-05T08:37:49.437Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "142537"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.036058",
+            "longitude": "17.811719"
+          },
+          "evse_id": "CZ*EON*E22142523*1",
+          "last_seen_as_planned": "2022-09-05T08:37:49.437Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "142538"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.036058",
+            "longitude": "17.811719"
+          },
+          "evse_id": "CZ*EON*E22142523*2",
+          "last_seen_as_planned": "2022-09-05T08:37:49.437Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "142539"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "SUPERMARKET",
+        "SPORT",
+        "NATURE",
+        "MUSEUM",
+        "BUS_STOP",
+        "TRAIN_STATION",
+        "PARKING_LOT",
+        "FUEL_STATION",
+        "WIFI"
+      ],
+      "id": "151214",
+      "last_updated": "RESET",
+      "name": "(P) Město Bojkovice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Město Bojkovice"
+      },
+      "owner": {
+        "name": "Město Bojkovice"
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "687 71",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "15883": {
     "name": "E.ON Forum Nová Karolina",
     "sha1": "4a23a3e8b6d5982069ba1bd37ba2f3e7e88c349d",
