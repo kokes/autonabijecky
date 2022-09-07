@@ -15199,7 +15199,7 @@
   },
   "161632": {
     "name": "R453 - Olomouc - Kaufland - 2",
-    "sha1": "e29a432d7c4b042cc5f41922116587e1d57147c9",
+    "sha1": "68bf954fefbae1d0b9901dac7df769afe851c39a",
     "station": {
       "address": {
         "city": "Olomouc",
@@ -15262,7 +15262,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/2.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/photo-2022-08-15-15-54-34-6.jpg"
         }
       ],
       "instructions": null,
@@ -15272,7 +15272,7 @@
   },
   "161633": {
     "name": "R452 - Olomouc - Kaufland - 1",
-    "sha1": "ae59f7f7acc3ffc237744e65d13649c1c1a8015a",
+    "sha1": "72fdace9d26b51bfd70d363f60f9a8319ed64c05",
     "station": {
       "address": {
         "city": "Olomouc",
@@ -15335,7 +15335,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/38910818.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/photo-2022-08-15-15-54-34-7.jpg"
         }
       ],
       "instructions": null,
@@ -16189,6 +16189,152 @@
       ],
       "instructions": null,
       "name": "N196 - Havlíčkův Brod - Retail park",
+      "visible": true
+    }
+  },
+  "163176": {
+    "name": "R460 - Kolín - OC Futurum Kolín - 1",
+    "sha1": "ed80915f47aecc12d6927c619f5181ba54c3ac5c",
+    "station": {
+      "address": {
+        "city": "Kolín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "906",
+        "latitude": 50.0253453,
+        "longitude": 15.2098778,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rorejcova",
+        "url": ""
+      },
+      "customID": "163176",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1522-019",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R460"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-019",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-019",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R460"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img_1433.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R460 - Kolín - OC Futurum Kolín - 1",
+      "visible": true
+    }
+  },
+  "163177": {
+    "name": "R461 - Kolín - OC Futurum Kolín - 2",
+    "sha1": "95dd0dcd9c923b5d412052b29d04742a897c7d10",
+    "station": {
+      "address": {
+        "city": "Kolín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "906",
+        "latitude": 50.0253453,
+        "longitude": 15.2098778,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rorejcova",
+        "url": ""
+      },
+      "customID": "163177",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1522-013",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R461"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-013",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-013",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R461"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/mcdonalds-praha-kbelska-20211220-124006.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R461 - Kolín - OC Futurum Kolín - 2",
       "visible": true
     }
   },
