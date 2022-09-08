@@ -17599,6 +17599,70 @@
       "visible": true
     }
   },
+  "59444": {
+    "name": "N137 - Chrášťany - TNT Express",
+    "sha1": "981d5a9444680dc54b6e6a99a545ec347277136d",
+    "station": {
+      "address": {
+        "city": "Chrášťany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "206",
+        "latitude": 50.0387319,
+        "longitude": 14.2482781,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Chrášťany",
+        "url": "http://www.tnt.cz"
+      },
+      "customID": "59444",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 11,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N137"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 11,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N137"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/0003.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N137 - Chrášťany - TNT Express",
+      "visible": true
+    }
+  },
   "59446": {
     "name": "R129 - Praha-Radotín - MČ Praha 16",
     "sha1": "c5833eb5b56a7a1291f0ef1aebce7a1d28b17d97",
