@@ -13544,5 +13544,50 @@
       "region": "Moravskoslezský kraj",
       "street": "Ostravská 433"
     }
+  },
+  "CZ8003585": {
+    "name": "Schnellladestation OMV Klimkovice",
+    "sha1": "1da100e9287a4937dbbeacc3e5174b383bd2e9a4",
+    "station": {
+      "branch": "Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Klimkovice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8003585",
+      "csName": "Schnellladestation OMV Klimkovice",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger OMV Klimkovice",
+      "evseId": "CZ*PRE*E1R5051*2",
+      "geoCoord": {
+        "latitude": "49.794657",
+        "longitude": "18.145106"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_klimkovice.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "OMV",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "74283",
+      "region": "Moravskoslezský kraj",
+      "street": "Václavovice 93"
+    }
   }
 }
