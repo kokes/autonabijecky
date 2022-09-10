@@ -10855,8 +10855,8 @@
     }
   },
   "CZ5102669": {
-    "name": "Ladestation OC Central Jablone",
-    "sha1": "87da57a1811268ca2fe1c405b9e9d4190694dbb5",
+    "name": "Ladestation OC Central Jablonec",
+    "sha1": "37bca7b5f186062744759a5c29da6d300fe2c4f8",
     "station": {
       "additionalInfo": "Direkt nach der Garageneinfahrt vom OC Central Jablonec",
       "branch": "Parken",
@@ -10865,15 +10865,15 @@
           "380 - 480V, 3-Phase ≤32A"
         ]
       },
-      "city": "Praha",
+      "city": "Jablonec nad Nisou",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ5102669",
-      "csName": "Ladestation OC Central Jablone",
+      "csName": "Ladestation OC Central Jablonec",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Right behind the entrance of OC Central Jablonec garages",
-      "enCsname": "Charger OC Central Jablone",
+      "enCsname": "Charger OC Central Jablonec",
       "evseId": "CZ*PRE*E1S7110*2",
       "geoCoord": {
         "latitude": "50.724489",
