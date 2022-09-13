@@ -16338,6 +16338,955 @@
       "visible": true
     }
   },
+  "163452": {
+    "name": "R479 - Polička - parkoviště u divadla Tylův dům",
+    "sha1": "a89f5005a8a86b6c4773eefa95e1626eb9f062d0",
+    "station": {
+      "address": {
+        "city": "Polička",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "53",
+        "latitude": 49.7122544,
+        "longitude": 16.2624542,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Vrchlického",
+        "url": ""
+      },
+      "customID": "163452",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2622-029",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R479"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-029",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-029",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R479"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/3-20220912-203322.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R479 - Polička - parkoviště u divadla Tylův dům",
+      "visible": true
+    }
+  },
+  "163453": {
+    "name": "R465 - Hradec Králové - Retail park HK - 1",
+    "sha1": "d35dfbf472ee4474219f2ec430a19d698e97a8a2",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída 1669",
+        "latitude": 50.1887384,
+        "longitude": 15.8053197,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rašínova",
+        "url": ""
+      },
+      "customID": "163453",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2622-024",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R465"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-024",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-024",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R465"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1b.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R465 - Hradec Králové - Retail park HK - 1",
+      "visible": true
+    }
+  },
+  "163454": {
+    "name": "R466 - Hradec Králové - Retail park HK - 2",
+    "sha1": "42303a2b9070dfe1774521605a5c4260639d240c",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída 1669",
+        "latitude": 50.1887384,
+        "longitude": 15.8053197,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rašínova",
+        "url": ""
+      },
+      "customID": "163454",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-0822-005",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R466"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0822-005",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0822-005",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R466"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1b.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R466 - Hradec Králové - Retail park HK - 2",
+      "visible": true
+    }
+  },
+  "163455": {
+    "name": "R467 - Hradec Králové - Retail park HK - 3",
+    "sha1": "930365bcff90e3bde6a7aa5f6fb895ad7e6fc99f",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída 1669",
+        "latitude": 50.1887384,
+        "longitude": 15.8053197,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rašínova",
+        "url": ""
+      },
+      "customID": "163455",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1522-011",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R467"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-011",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-011",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R467"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1b.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R467 - Hradec Králové - Retail park HK - 3",
+      "visible": true
+    }
+  },
+  "163456": {
+    "name": "R468 - Hradec Králové - Retail park HK - 4",
+    "sha1": "0f335c1d2e504d19ce99aa04bde4f08f1764a6e9",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída 1669",
+        "latitude": 50.1887384,
+        "longitude": 15.8053197,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rašínova",
+        "url": ""
+      },
+      "customID": "163456",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4721-032",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R468"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-032",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4721-032",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R468"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1b.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R468 - Hradec Králové - Retail park HK - 4",
+      "visible": true
+    }
+  },
+  "163457": {
+    "name": "R469 - Hradec Králové - Retail park HK - 5",
+    "sha1": "22e91d57f3ada4953be1a30bc8ffe2e06bd60227",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída 1669",
+        "latitude": 50.1887384,
+        "longitude": 15.8053197,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rašínova",
+        "url": ""
+      },
+      "customID": "163457",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1022-019",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R469"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1022-019",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1022-019",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R469"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1b.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R469 - Hradec Králové - Retail park HK - 5",
+      "visible": true
+    }
+  },
+  "163458": {
+    "name": "R470 - Hradec Králové - Retail park HK - 6",
+    "sha1": "6ee446dcb79776657aa3283e319cd3099b635400",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída 1669",
+        "latitude": 50.1887384,
+        "longitude": 15.8053197,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rašínova",
+        "url": ""
+      },
+      "customID": "163458",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1522-017",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R470"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-017",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-017",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R470"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1b.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R470 - Hradec Králové - Retail park HK - 6",
+      "visible": true
+    }
+  },
+  "163459": {
+    "name": "R471 - Hradec Králové - Retail park HK - 7",
+    "sha1": "5cf587a4102768ac4956031b1c141b5b64b46c2d",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída 1669",
+        "latitude": 50.1887384,
+        "longitude": 15.8053197,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rašínova",
+        "url": ""
+      },
+      "customID": "163459",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1522-015",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R471"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-015",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-015",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R471"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1b.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R471 - Hradec Králové - Retail park HK - 7",
+      "visible": true
+    }
+  },
+  "163460": {
+    "name": "R472 - Hradec Králové - Retail park HK - 8",
+    "sha1": "fbce72a840161fb177fe6d2a9fd3e5bb20461a02",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída 1669",
+        "latitude": 50.1887384,
+        "longitude": 15.8053197,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rašínova",
+        "url": ""
+      },
+      "customID": "163460",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1522-012",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R472"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-012",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1522-012",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R472"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1b.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R472 - Hradec Králové - Retail park HK - 8",
+      "visible": true
+    }
+  },
+  "163461": {
+    "name": "R473 - Hradec Králové - Retail park HK - 9",
+    "sha1": "7c8530c0a2d7e81efffd86d76d1fbf92b5a2dbb2",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída 1669",
+        "latitude": 50.1887384,
+        "longitude": 15.8053197,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rašínova",
+        "url": ""
+      },
+      "customID": "163461",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2222-007",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R473"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2222-007",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2222-007",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R473"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1b.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R473 - Hradec Králové - Retail park HK - 9",
+      "visible": true
+    }
+  },
+  "163462": {
+    "name": "R474 - Hradec Králové - Retail park HK - 10",
+    "sha1": "65b0f080b5c574104858d04e41f160cadff296ec",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída 1669",
+        "latitude": 50.1887384,
+        "longitude": 15.8053197,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rašínova",
+        "url": ""
+      },
+      "customID": "163462",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2122-005",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R474"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2122-005",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2122-005",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R474"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1b.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R474 - Hradec Králové - Retail park HK - 10",
+      "visible": true
+    }
+  },
+  "163463": {
+    "name": "R475 - Hradec Králové - Retail park HK - 11",
+    "sha1": "cae2ab73c11919c01bc5fbff647d9a6fdb7991bc",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída 1669",
+        "latitude": 50.1887384,
+        "longitude": 15.8053197,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rašínova",
+        "url": ""
+      },
+      "customID": "163463",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2222-006",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R475"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2222-006",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2222-006",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R475"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1b.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R475 - Hradec Králové - Retail park HK - 11",
+      "visible": true
+    }
+  },
+  "163464": {
+    "name": "R476 - Hradec Králové - Retail park HK - 12",
+    "sha1": "3dfffbc5971d197a371e709e78560dec0807af60",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída 1669",
+        "latitude": 50.1887384,
+        "longitude": 15.8053197,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rašínova",
+        "url": ""
+      },
+      "customID": "163464",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2222-001",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R476"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2222-001",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2222-001",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R476"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1b.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R476 - Hradec Králové - Retail park HK - 12",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
@@ -16403,8 +17352,8 @@
     }
   },
   "59410": {
-    "name": "N023 - Praha 8 - AAA Auto",
-    "sha1": "4bf42fb1632e88c150c2efc0bca48fcdbd602517",
+    "name": "R478 - Praha 8 - AAA Auto",
+    "sha1": "04fe6497150a37d5b8a7817a3e9be18618aea8c6",
     "station": {
       "address": {
         "city": "Praha 8",
@@ -16412,12 +17361,12 @@
         "email": null,
         "floor": null,
         "houseNumber": "723/1",
-        "latitude": 50.1367986,
-        "longitude": 14.4455253,
+        "latitude": 50.136799,
+        "longitude": 14.445525,
         "phoneNumber": null,
         "postalCode": null,
         "street": "Dopraváků",
-        "url": "http://www.aaaauto.cz/"
+        "url": ""
       },
       "customID": "59410",
       "description": [
@@ -16431,38 +17380,47 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "23",
+              "chargePointIdentity": "T54-HU1-2622-024",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 11,
+              "powerOutput": null,
               "standard": "MENNEKES_TYPE_2",
               "voltage": 400
             }
           ],
-          "physicalReference": "N023"
+          "physicalReference": "R478"
         },
         {
           "connectors": [
             {
-              "amperage": 32,
-              "chargePointIdentity": "23",
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-024",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-024",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
             }
           ],
-          "physicalReference": "N023"
+          "physicalReference": "R478"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/aaa-auto-praha.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1-20220912-201730.jpg"
         }
       ],
       "instructions": null,
-      "name": "N023 - Praha 8 - AAA Auto",
+      "name": "R478 - Praha 8 - AAA Auto",
       "visible": true
     }
   },
