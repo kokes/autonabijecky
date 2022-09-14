@@ -682,9 +682,9 @@
   },
   "CZ1002607": {
     "name": "Schnellladestation OC Šestka",
-    "sha1": "b26bfeba3927c1e98541910e0e16274dca23988c",
+    "sha1": "97b59f3acf6ba460a28ede20e2bc56b21ddbcd96",
     "station": {
-      "additionalInfo": "In den Garagen von OC estka",
+      "additionalInfo": "Dachgarage vom OC Šestka Einkaufszentrum",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -698,7 +698,7 @@
       "csName": "Schnellladestation OC Šestka",
       "csStatus": "operable",
       "csType": "fast_charger",
-      "enAdditionalInfo": "In the garages of OC Šestka",
+      "enAdditionalInfo": "Roof parking lot of OC Šestka shopping centre",
       "enCsname": "Fast charger OC Šestka",
       "evseId": "CZ*PRE*E1R0013*3",
       "geoCoord": {
@@ -707,8 +707,52 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
-      "isOpen24Hours": "true",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_oc_sestka.jpg"
+        }
+      ],
+      "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "openingTimes": [
+        {
+          "from": "06:30",
+          "to": "22:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "06:30",
+          "to": "22:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "06:30",
+          "to": "22:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "06:30",
+          "to": "22:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "06:30",
+          "to": "22:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "06:30",
+          "to": "22:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "06:30",
+          "to": "22:00",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8164,6 +8208,53 @@
       "postalCode": "15521",
       "region": "Hlavní město Praha",
       "street": "Do Zahrádek II"
+    }
+  },
+  "CZ1003589": {
+    "name": "Ladestation TS 4780 Vybíralova",
+    "sha1": "ff8dd688dfbd0bb9530ea209a0010177fbc80c66",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 4780",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003589",
+      "csName": "Ladestation TS 4780 Vybíralova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station number TS 4780",
+      "enCsname": "Charger TS 4780 Vybíralova",
+      "evseId": "CZ*PRE*E1S8041*2",
+      "geoCoord": {
+        "latitude": "50.104504",
+        "longitude": "14.579637"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_4780_vybiralova.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19800",
+      "region": "Hlavní město Praha",
+      "street": "Vybíralova"
     }
   },
   "CZ2002608": {
