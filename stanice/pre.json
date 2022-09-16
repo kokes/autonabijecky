@@ -8257,6 +8257,141 @@
       "street": "Vybíralova"
     }
   },
+  "CZ1003595": {
+    "name": "Ultra-Highspeed-Ladestation KFC Kačerov",
+    "sha1": "1f59fd4b5ea8dfafb8e0e8d7be0c82794872dc61",
+    "station": {
+      "branch": "Fast Food Restaurant",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤75kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003595",
+      "csName": "Ultra-Highspeed-Ladestation KFC Kačerov",
+      "csStatus": "operable",
+      "csType": "ultra_fast_charger",
+      "enCsname": "Ultra-highspeed charger KFC Kačerov",
+      "evseId": "CZ*PRE*E1R0039*2",
+      "geoCoord": {
+        "latitude": "50.040781",
+        "longitude": "14.467106"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_kfc_kacerov.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "14100",
+      "region": "Hlavní město Praha",
+      "street": "Ke Garážím 1557/4"
+    }
+  },
+  "CZ1003596": {
+    "name": "Ladestation Tenis Nad Hliníkem",
+    "sha1": "f35aa63c6839f6ca81a2012bc9d711d5bd4ec1e1",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003596",
+      "csName": "Ladestation Tenis Nad Hliníkem",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Tenis Nad Hliníkem",
+      "evseId": "CZ*PRE*E1S8073*2",
+      "geoCoord": {
+        "latitude": "50.064145",
+        "longitude": "14.347467"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_tenis_nad_hlinikem.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15000",
+      "region": "Hlavní město Praha",
+      "street": "Nad Hliníkem 120/2"
+    }
+  },
+  "CZ1003597": {
+    "name": "Ladestation Nové Chabry",
+    "sha1": "241a40023b6de537cb412752b76ba440e535eaf3",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003597",
+      "csName": "Ladestation Nové Chabry",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Nové Chabry",
+      "evseId": "CZ*PRE*E1S8135*2",
+      "geoCoord": {
+        "latitude": "50.139949",
+        "longitude": "14.446633"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_nove_chabry.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18400",
+      "region": "Hlavní město Praha",
+      "street": "K Beranovu"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "5ec77bf41b5faca7b29600df145567c4f0c3f9ff",
@@ -9341,6 +9476,51 @@
       "postalCode": "28911",
       "region": "Středočeský kraj",
       "street": "D11 35 km (směr Praha)"
+    }
+  },
+  "CZ2003594": {
+    "name": "Ladestation Monínec",
+    "sha1": "383fbf4a38e611b568c9ab49cbea61b75590c0fe",
+    "station": {
+      "branch": "Hotel",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Sedlec-Prčice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2003594",
+      "csName": "Ladestation Monínec",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Monínec",
+      "evseId": "CZ*PRE*E1S8090*2",
+      "geoCoord": {
+        "latitude": "49.544680",
+        "longitude": "14.516141"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_moninec.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "25791",
+      "region": "Středočeský kraj",
+      "street": "Monínec 7"
     }
   },
   "CZ3102615": {
