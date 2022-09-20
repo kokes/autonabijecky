@@ -13600,82 +13600,9 @@
       "visible": true
     }
   },
-  "159009": {
-    "name": "R440 - Unčovice - McDonald´s - 1",
-    "sha1": "5ce69da07c8e9e14b7c442b86c71acee9afbc4a4",
-    "station": {
-      "address": {
-        "city": "Litovel",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "128",
-        "latitude": 49.6625803,
-        "longitude": 17.1050788,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Unčovice",
-        "url": ""
-      },
-      "customID": "159009",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-0922-030",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R440"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-0922-030",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-0922-030",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R440"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220526-wa0002.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R440 - Unčovice - McDonald´s - 1",
-      "visible": true
-    }
-  },
   "159030": {
-    "name": "R441 - Unčovice - McDonald´s - 2",
-    "sha1": "373e11cd4eec56b6b11f79dbcb228d468bb9e019",
+    "name": "R441 - Unčovice - McDonald´s - 1",
+    "sha1": "2a29d8bea8225ee8afb50ba95192194ec6264836",
     "station": {
       "address": {
         "city": "Litovel",
@@ -13742,13 +13669,13 @@
         }
       ],
       "instructions": null,
-      "name": "R441 - Unčovice - McDonald´s - 2",
+      "name": "R441 - Unčovice - McDonald´s - 1",
       "visible": true
     }
   },
   "159031": {
-    "name": "R442 - Unčovice - McDonald´s - 3",
-    "sha1": "914914e215bc878cb037f4e993958e72e7ed4e2d",
+    "name": "R442 - Unčovice - McDonald´s - 2",
+    "sha1": "e43049f59cb7f803ac9034068ce8e78c14839c35",
     "station": {
       "address": {
         "city": "Litovel",
@@ -13815,7 +13742,7 @@
         }
       ],
       "instructions": null,
-      "name": "R442 - Unčovice - McDonald´s - 3",
+      "name": "R442 - Unčovice - McDonald´s - 2",
       "visible": true
     }
   },
@@ -16267,7 +16194,7 @@
   },
   "163177": {
     "name": "R461 - Kolín - OC Futurum Kolín - 2",
-    "sha1": "95dd0dcd9c923b5d412052b29d04742a897c7d10",
+    "sha1": "31eff4ab89997b382a5b1a872870d53a9f020f1b",
     "station": {
       "address": {
         "city": "Kolín",
@@ -16330,7 +16257,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/mcdonalds-praha-kbelska-20211220-124006.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220526-wa0002.jpg"
         }
       ],
       "instructions": null,
@@ -17284,6 +17211,79 @@
       ],
       "instructions": null,
       "name": "R476 - Hradec Králové - Retail park HK - 12",
+      "visible": true
+    }
+  },
+  "163711": {
+    "name": "R443 - Unčovice - McDonald´s - 3",
+    "sha1": "f82a168e64ea6c7dccc55bc07b11f3a7bb292ec3",
+    "station": {
+      "address": {
+        "city": "Litovel",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "128",
+        "latitude": 49.6625803,
+        "longitude": 17.1050788,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Unčovice",
+        "url": ""
+      },
+      "customID": "163711",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-0822-008",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R443"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0822-008",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0822-008",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R443"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220526-wa0002.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R443 - Unčovice - McDonald´s - 3",
       "visible": true
     }
   },
