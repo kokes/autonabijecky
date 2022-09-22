@@ -20637,7 +20637,7 @@
   },
   "51421": {
     "name": "E.ON Frenštát p.R. ČD",
-    "sha1": "07dbbd7a2bda05bc73a2aede6b3e5201b022446b",
+    "sha1": "fd5b83adc633c6eef9f359cdb98a16c17fac1ad5",
     "station": {
       "address": "Nádražní",
       "city": " Frenštát pod Radhoštěm",
@@ -20685,7 +20685,7 @@
             "longitude": "18.22376325"
           },
           "evse_id": "CZ*EON*E11051421*1",
-          "last_seen_as_planned": "2022-07-29T06:10:18.42Z",
+          "last_seen_as_planned": "2022-03-16T12:53:35.417Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51421"
@@ -20744,7 +20744,7 @@
             "longitude": "18.22376325"
           },
           "evse_id": "CZ*EON*E11051421*2",
-          "last_seen_as_planned": "2022-07-29T06:12:07.823Z",
+          "last_seen_as_planned": "2022-03-16T12:53:35.417Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51422"
@@ -20757,6 +20757,9 @@
       "id": "51421",
       "last_updated": "RESET",
       "name": "E.ON Frenštát p.R. ČD",
+      "opening_times": {
+        "twentyfourseven": true
+      },
       "operator": {
         "name": "E.ON Energie, a.s."
       },
@@ -26344,7 +26347,7 @@
   },
   "53786": {
     "name": "E.ON Penny Litvínov",
-    "sha1": "25d7859267124bc450baa5dbeab5c9ab94a51f6c",
+    "sha1": "d6fcce9350005b036c5d050205e533f11d991b5c",
     "station": {
       "address": "Jiráskova 877",
       "city": "Litvínov",
@@ -26412,7 +26415,7 @@
             "longitude": "13.6169769"
           },
           "evse_id": "CZ*EON*E98053786*1",
-          "last_seen_as_planned": "2022-07-29T06:12:07.823Z",
+          "last_seen_as_planned": "2021-03-31T10:53:11.85Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53786"
@@ -26451,7 +26454,7 @@
             "longitude": "13.6169769"
           },
           "evse_id": "CZ*EON*E98053786*2",
-          "last_seen_as_planned": "2022-07-29T06:10:18.42Z",
+          "last_seen_as_planned": "2021-03-26T08:07:48.803Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53787"
@@ -28618,7 +28621,7 @@
   },
   "53818": {
     "name": "E.ON Penny Kralovice",
-    "sha1": "1f2e79db3719d68fe4f36fa318cd12e88aa53f2d",
+    "sha1": "1b1dc31e10a51a5e6eeef7b6166c0b8475a1e7a8",
     "station": {
       "address": "Žatecká 946",
       "city": "Kralovice",
@@ -28686,7 +28689,7 @@
             "longitude": "13.4892675"
           },
           "evse_id": "CZ*EON*E98053818*1",
-          "last_seen_as_planned": "2022-07-29T06:12:07.823Z",
+          "last_seen_as_planned": "2021-03-30T13:04:39.003Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53818"
@@ -28725,7 +28728,7 @@
             "longitude": "13.4892675"
           },
           "evse_id": "CZ*EON*E98053818*2",
-          "last_seen_as_planned": "2022-07-29T06:10:18.42Z",
+          "last_seen_as_planned": "2021-03-30T13:04:52.72Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53819"
