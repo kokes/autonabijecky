@@ -9,7 +9,7 @@ HTTP_TIMEOUT = 30
 
 # "csStatus": "under_construction"... resolve?
 def pre():
-    url = "https://chargepre.smatrics.com/cs/map/pois?operator%5B%5D=CZ*PRE"
+    url = "https://chargepre.smatrics.com/cs/map/pois?operator%5B%5D=home-1a31db5e3f98e1f68bca6fa182e6375c"
     req = Request(url)
     req.add_header("Referer", "https://chargepre.smatrics.com/cs/")
     with urlopen(req, timeout=HTTP_TIMEOUT) as r:
