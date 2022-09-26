@@ -1,7 +1,7 @@
 {
   "CZ1002102": {
     "name": "Ladestation [TEST] PRE",
-    "sha1": "9522ce6695af3392a311264d81344000bb4204c8",
+    "sha1": "5fd5183f1873fc1a7d6a65dd5bc2dcc397ab4bdd",
     "station": {
       "branch": "TEST",
       "chargingFacilities": {
@@ -28,6 +28,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -41,7 +42,7 @@
   },
   "CZ1002593": {
     "name": "Ladestation Hotel Diplomat",
-    "sha1": "172511ad55af6b434cac7dc63deb14f95e977835",
+    "sha1": "d56fec3e7b5c4bf7a3ae3e3c1e254dcc0b2bcf56",
     "station": {
       "additionalInfo": "In der gebührenpflichtigen Garage (lt.Preisliste des Hotels) des Hotels Diplomat in der Evropská Straße. Für Einfahrt Ihren RFID-Tag benutzen.",
       "branch": "Parken",
@@ -68,6 +69,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -81,7 +83,7 @@
   },
   "CZ1002595": {
     "name": "Ladestation Vienna House Andel’s Prague",
-    "sha1": "ea30f47e0833631d4410005799180119287aab73",
+    "sha1": "0ad680e0b9f3f3583c4bf1f290c5cdefb4b27a5d",
     "station": {
       "additionalInfo": "Von der Straße Stroupeznickeho, Ebene -2. Nach der Einfahrt in den öffentlichen Teil biegen Sie rechts ab und fahren in den Hotelteil. Das Parkticket muss vor der Hotelgarage erneut gescannt werden.",
       "branch": "Parken",
@@ -117,6 +119,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -130,7 +133,7 @@
   },
   "CZ1002597": {
     "name": "Ladestation OC Lužiny",
-    "sha1": "df6c78fb5af807dbfcaed6918a2a1d53d8328328",
+    "sha1": "889c8c2fa681612e82fafec8da7bd204afa104f6",
     "station": {
       "additionalInfo": "Am Eingang des Parkplatzes.",
       "branch": "Parken",
@@ -157,6 +160,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -170,7 +174,7 @@
   },
   "CZ1002598": {
     "name": "Schnellladestation Cinestar Anděl",
-    "sha1": "3d0e3b3c3bf63361d51a7bd75637bef248289078",
+    "sha1": "ef7b656125df59514f9dcaf84f7509a787004ae3",
     "station": {
       "additionalInfo": "Von der Straße Radlická, -1 Ebene, Einfahrt möglich mit dem PREpoint-Tag. Bezahltes Parken.",
       "branch": "Parken",
@@ -197,6 +201,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -210,7 +215,7 @@
   },
   "CZ1002599": {
     "name": "Schnellladestation IKEA Černý Most",
-    "sha1": "758ff7f2f058104ea9908b4d905e7cd01367e725",
+    "sha1": "f2b16d1719a61cd72d6af788b76075057131b3cf",
     "station": {
       "additionalInfo": "In der IKEA-Garage",
       "branch": "Parken",
@@ -237,6 +242,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "isRoaming": false,
       "openingTimes": [
         {
           "from": "08:00",
@@ -287,7 +293,7 @@
   },
   "CZ1002600": {
     "name": "Schnellladestation OC Chodov",
-    "sha1": "0d48b38bff89abcddafefaf0c0bb23c573310110",
+    "sha1": "549f24510ab5968feb2b631e13960cc816022d15",
     "station": {
       "additionalInfo": "In den Garagen von OC Chodov",
       "branch": "Parken",
@@ -314,6 +320,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "isRoaming": false,
       "openingTimes": [
         {
           "from": "06:30",
@@ -364,7 +371,7 @@
   },
   "CZ1002601": {
     "name": "Schnellladestation Penny Uhříněves",
-    "sha1": "3af5c604893ffb89154e2f4ed8fb306368366800",
+    "sha1": "8c97c6c00c4b35bd57bef038cbf7c1b7c35e93ec",
     "station": {
       "additionalInfo": "Via Pratelstvi oder K Uhrinevsi Straße, Penny Markt Parkplatz",
       "branch": "Parken",
@@ -391,6 +398,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -404,7 +412,7 @@
   },
   "CZ1002603": {
     "name": "Schnellladestation OC Stromovka",
-    "sha1": "585234073ae96227c38127959688967cdadfa0ff",
+    "sha1": "4e73ef97f508d6bb51cd486b2cfc108e0612e143",
     "station": {
       "additionalInfo": "Von der Veletrní Straße, in der Etage 2PP und 3PP",
       "branch": "Parken",
@@ -431,6 +439,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "isRoaming": false,
       "openingTimes": [
         {
           "from": "06:00",
@@ -481,7 +490,7 @@
   },
   "CZ1002604": {
     "name": "Ladestation OC Stromovka",
-    "sha1": "b3fbb1c24b4bc4e002bfb2e4b67d320845cd560e",
+    "sha1": "6eedc60547a2642e95e995d5856fe352be53d32f",
     "station": {
       "additionalInfo": "Von der Veletrní Straße, in der Etage 2PP und 3PP",
       "branch": "Parken",
@@ -508,6 +517,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "isRoaming": false,
       "openingTimes": [
         {
           "from": "06:00",
@@ -558,7 +568,7 @@
   },
   "CZ1002605": {
     "name": "Schnellladestation PVA Letňany",
-    "sha1": "e5a828381052d0f2a052d9fea06b1c6cace6a333",
+    "sha1": "2d6ba00a850fc822a442cc85f9c84c99ee3cb300",
     "station": {
       "additionalInfo": "Von der Tupolevova Straße, hinter der Schranke",
       "branch": "Parken",
@@ -585,6 +595,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -598,7 +609,7 @@
   },
   "CZ1002606": {
     "name": "Ultra-Highspeed-Ladestation Lidl Čakovice",
-    "sha1": "223d25013d9d9fa9c16fceb588b43ec0a14aa6aa",
+    "sha1": "df47c9ce91c561c81d2c0cfe513072599a793906",
     "station": {
       "additionalInfo": "Von der Schoellerova Straße und auf dem Parkplatz des Supermarktes Lidl",
       "branch": "Parken",
@@ -632,6 +643,7 @@
       ],
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "isRoaming": false,
       "openingTimes": [
         {
           "from": "05:00",
@@ -682,7 +694,7 @@
   },
   "CZ1002607": {
     "name": "Schnellladestation OC Šestka",
-    "sha1": "97b59f3acf6ba460a28ede20e2bc56b21ddbcd96",
+    "sha1": "34b8b0944c4ed6af08b8ab9a99208da56c37a786",
     "station": {
       "additionalInfo": "Dachgarage vom OC Šestka Einkaufszentrum",
       "branch": "Parken",
@@ -716,6 +728,7 @@
       ],
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "isRoaming": false,
       "openingTimes": [
         {
           "from": "06:30",
@@ -766,7 +779,7 @@
   },
   "CZ1002609": {
     "name": "Schnellladestation DBK",
-    "sha1": "a151d0bebf544309908a3a22d852624e2cf46041",
+    "sha1": "06948f6fb8085df7f13d738e2f653ac5c86bfa3f",
     "station": {
       "additionalInfo": "Zugang von der Antala Staka Straße",
       "branch": "Parken",
@@ -793,6 +806,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -806,7 +820,7 @@
   },
   "CZ1002610": {
     "name": "Ultra-Highspeed-Ladestation Fashion Outlet",
-    "sha1": "ca667aa32d618c3b18b8cddb184dac08a7790658",
+    "sha1": "15338d62d4277e8dc076c27af704a67dc5442f26",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Fashion arena",
       "branch": "Parken",
@@ -833,6 +847,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "isRoaming": false,
       "openingTimes": [
         {
           "from": "10:00",
@@ -883,7 +898,7 @@
   },
   "CZ1002611": {
     "name": "Ladestation OC Krakov",
-    "sha1": "d9bb4be4a0a855a657bb9d6e932262f4772f4471",
+    "sha1": "f41dad367efd032d3e4379fb43ea21b14e6b6b4e",
     "station": {
       "additionalInfo": "Zugang von der Straße Hnezdenská",
       "branch": "Parken",
@@ -910,6 +925,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "isRoaming": false,
       "openingTimes": [
         {
           "from": "07:00",
@@ -960,7 +976,7 @@
   },
   "CZ1002616": {
     "name": "Ladestation TS Dvouletky",
-    "sha1": "649289c1275e5e4957ef83f90a1fd9d12679fec0",
+    "sha1": "16159cb73fb203c35b4096ff924441fa5092e15c",
     "station": {
       "additionalInfo": "Zugang von der Trafostation 7128",
       "branch": "Parken",
@@ -987,6 +1003,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1000,7 +1017,7 @@
   },
   "CZ1002617": {
     "name": "Ladestation MČ Šeberov",
-    "sha1": "1bb6d51045c40ecd8799974b719678ce7e060706",
+    "sha1": "1a26956a7b4d1c34bcc3a3bed7b5d42d0726bcb2",
     "station": {
       "additionalInfo": "Auf dem Parkplatz an der Osvetová Straße",
       "branch": "Parken",
@@ -1027,6 +1044,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1040,7 +1058,7 @@
   },
   "CZ1002618": {
     "name": "Ladestation PRE-Na Hroudě 4",
-    "sha1": "99c2171b007d467a0bdb7870d20fc80c58eb35fd",
+    "sha1": "d0aa0589c23ee664d478e9ec8925af1709b76dbe",
     "station": {
       "additionalInfo": "Hinter dem Gebäude Praská energetika nach der Schranke",
       "branch": "Parken",
@@ -1067,6 +1085,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1080,7 +1099,7 @@
   },
   "CZ1002619": {
     "name": "Ladestation Galerie Butovice",
-    "sha1": "e1975d0a03fb3a930649d46df3095ced59e5e0c3",
+    "sha1": "3c8085075c255e43ae2347077d363003d8e05cc4",
     "station": {
       "additionalInfo": "In den Garagen der OC Galerie Butovice",
       "branch": "Parken",
@@ -1107,6 +1126,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "isRoaming": false,
       "openingTimes": [
         {
           "from": "05:45",
@@ -1157,7 +1177,7 @@
   },
   "CZ1002621": {
     "name": "Ladestation Garáže Letná",
-    "sha1": "19abdbb17efd9e4411877b9dc890ee59f87a2dec",
+    "sha1": "702fe28515d5857d1ff4febf440322e655e1aa6a",
     "station": {
       "additionalInfo": "Abschnitt B6",
       "branch": "Parken",
@@ -1184,6 +1204,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1197,7 +1218,7 @@
   },
   "CZ1002622": {
     "name": "Ladestation ČVUT Albertov",
-    "sha1": "df20e3c8881c513afe1b5a033a9065ae749fe26a",
+    "sha1": "dba02ade0e1aeb32fac75424395d1e41be5f4198",
     "station": {
       "additionalInfo": "Vor dem Gebäude CVUT",
       "branch": "Parken",
@@ -1224,6 +1245,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1237,7 +1259,7 @@
   },
   "CZ1002623": {
     "name": "Ladestation TS U Družstva práce",
-    "sha1": "b40cc9ea85645fde6102d8574ab37146d81a63c8",
+    "sha1": "94051c5a5707b1882481d5d52afe6c607b2c4cb4",
     "station": {
       "additionalInfo": "Von der Straße U Drustva Práce",
       "branch": "Parken",
@@ -1264,6 +1286,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1277,7 +1300,7 @@
   },
   "CZ1002624": {
     "name": "Ladestation 3D Apartment",
-    "sha1": "94b6c1efd38030bdc545700e8f38dd9dfe721682",
+    "sha1": "194d09512458d1894c95a155ca1ed4e2b04e0549",
     "station": {
       "additionalInfo": "Im Gebäude 3D Apod.",
       "branch": "Parken",
@@ -1304,6 +1327,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1317,7 +1341,7 @@
   },
   "CZ1002627": {
     "name": "Ladestation Centrum Černý most",
-    "sha1": "2844da223b16f3207d959f937a587cd51da44033",
+    "sha1": "d7e74cbb14b37e6425de7744e303f84f35f7aefe",
     "station": {
       "additionalInfo": "Garage des Einkaufszentrums Cerný most",
       "branch": "Parken",
@@ -1344,6 +1368,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "isRoaming": false,
       "openingTimes": [
         {
           "from": "07:00",
@@ -1394,7 +1419,7 @@
   },
   "CZ1002628": {
     "name": "Ladestation Galerie Harfa",
-    "sha1": "43ef83b575b1cfbe403523131489bdc4bbf4b441",
+    "sha1": "afec7605e4a9885d8a118a74a73b0ac79c3a43ce",
     "station": {
       "additionalInfo": "Ladestation im 2. Untergeschoss in der Nähe der Autowaschanlage (U 704)",
       "branch": "Parken",
@@ -1421,6 +1446,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "isRoaming": false,
       "openingTimes": [
         {
           "from": "06:00",
@@ -1471,7 +1497,7 @@
   },
   "CZ1002629": {
     "name": "Ladestation Europark Štěrboholy",
-    "sha1": "62cf9e6688b277403a19ab5c6cd1ee5a24f2d4cd",
+    "sha1": "9b45ae55fbc53e229153bdfcdb85815be7c77ef3",
     "station": {
       "additionalInfo": "Park- und Ladeplätze direkt gegenüber dem Eingang",
       "branch": "Parken",
@@ -1498,6 +1524,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1511,7 +1538,7 @@
   },
   "CZ1002631": {
     "name": "Ladestation ÚMČ Praha 22",
-    "sha1": "a9c5d72bf5d47c23851874a62da567b0f1340c26",
+    "sha1": "7882bdb3fb49881aa53e961134f20d3d5a56279f",
     "station": {
       "additionalInfo": "Vor dem Rathaus",
       "branch": "Parken",
@@ -1538,6 +1565,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1551,7 +1579,7 @@
   },
   "CZ1002633": {
     "name": "Ladestation KD Mlejn",
-    "sha1": "d6460174881fe38365a3545a4561fabb69335867",
+    "sha1": "7da62756d7c61623b90209e7d738c9fba2be5f81",
     "station": {
       "additionalInfo": "Vor dem Kulturhaus",
       "branch": "Parken",
@@ -1578,6 +1606,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1591,7 +1620,7 @@
   },
   "CZ1002634": {
     "name": "Ladestation ÚMČ Praha 5",
-    "sha1": "dd5b0f5279bb0449bf13b2612cdd88e3e6a203b2",
+    "sha1": "a2fb5bac895e42d01629cda182ff5caa1c7eeb86",
     "station": {
       "additionalInfo": "Vor der Stadthalle",
       "branch": "Parken",
@@ -1618,6 +1647,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1631,7 +1661,7 @@
   },
   "CZ1002635": {
     "name": "Ladestation ÚMČ Praha 13",
-    "sha1": "18946fdec20bb0dce188241fd7d30b61d99aabd4",
+    "sha1": "413c0b8cb729208baea60ab0c969e8b1894c7c2e",
     "station": {
       "additionalInfo": "Vor dem Rathaus",
       "branch": "Parken",
@@ -1658,6 +1688,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1671,7 +1702,7 @@
   },
   "CZ1002636": {
     "name": "Ladestation K+K Hotel",
-    "sha1": "a1fd3cecb1a9872163752da18df226e932e1d0d5",
+    "sha1": "1796b4db1c1ae256b40d3e4214bafe5cf8bb0103",
     "station": {
       "additionalInfo": "In der Hotelgarage",
       "branch": "Parken",
@@ -1698,6 +1729,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1711,7 +1743,7 @@
   },
   "CZ1002638": {
     "name": "Ladestation Zátiší Rokytka",
-    "sha1": "47b5379ebe55f95ff3c65b1c54bd35cd570d60fe",
+    "sha1": "a7a5df16f64c6d3b528f66a31226f78ed543e27e",
     "station": {
       "additionalInfo": "Zufahrt von der Kolbenova Straße",
       "branch": "Parken",
@@ -1738,6 +1770,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1751,7 +1784,7 @@
   },
   "CZ1002639": {
     "name": "Ladestation IKEA Zličín",
-    "sha1": "a1f9d7a24eabb0b9e71ae557715bc92bca15e9c6",
+    "sha1": "cf3ce93773cf1211a425bf12ffb944b44431056a",
     "station": {
       "additionalInfo": "IKEA-Parkplatz",
       "branch": "Parken",
@@ -1785,6 +1818,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1798,7 +1832,7 @@
   },
   "CZ1002641": {
     "name": "Ladestation Sconto Stodůlky",
-    "sha1": "1fc37e364ce8593fe993557523cd0e85e80271ed",
+    "sha1": "26cadde194e13eef5129e39b2f341386f2630854",
     "station": {
       "additionalInfo": "Ladestation am Haupteingang.",
       "branch": "Parken",
@@ -1825,6 +1859,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1838,7 +1873,7 @@
   },
   "CZ1002642": {
     "name": "Ladestation Golf Hostivař",
-    "sha1": "c613ac526ff50b8aa15271ce8a8a8e4c9dcf5470",
+    "sha1": "0f79659f9e3d8cfa100336439ed8127abb2aa484",
     "station": {
       "additionalInfo": "Vor dem Eingang zum Areal",
       "branch": "Parken",
@@ -1865,6 +1900,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1878,7 +1914,7 @@
   },
   "CZ1002644": {
     "name": "Ladestation Alza Jateční",
-    "sha1": "3077f2844fd65d40a337b752c1115fcf53c6a683",
+    "sha1": "52552338f4ce8fdbb55a026d6814c5ed6b4b84f5",
     "station": {
       "additionalInfo": "Parkplatz von Alza.cz von der Jatecní Straße.",
       "branch": "Parken",
@@ -1905,6 +1941,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1918,7 +1955,7 @@
   },
   "CZ1002645": {
     "name": "Ladestation TS 108 Hudečkova",
-    "sha1": "b2a18d40bb4caf6e1c6703d41c55c76076cfdb90",
+    "sha1": "d77a7e940661b386ab48f15ba690ece47795d6f4",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 108",
       "branch": "Parken",
@@ -1945,6 +1982,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1958,7 +1996,7 @@
   },
   "CZ1002646": {
     "name": "Ladestation TS 443 Rochovská",
-    "sha1": "38a9127c46a8baf1320ecb9c587ce8ed1a68d1d6",
+    "sha1": "edc0bbe2c980abe6580571939cd461f23398bb6d",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 443",
       "branch": "Parken",
@@ -1985,6 +2023,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -1998,7 +2037,7 @@
   },
   "CZ1002647": {
     "name": "Ladestation TS 1416 Jílkova",
-    "sha1": "5796209b44b7d19478a2990ce920f412c6273d3c",
+    "sha1": "923b1adef876cee08f5ecfc8c205ed81969a4e3f",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 1416",
       "branch": "Parken",
@@ -2025,6 +2064,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2038,7 +2078,7 @@
   },
   "CZ1002648": {
     "name": "Ladestation TS 1996 Na Větru",
-    "sha1": "b9c3b8708797bd0badf254714b0e52ae2b764d56",
+    "sha1": "770c4b70c845999c3161d4da31a677fba89bb172",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 1996",
       "branch": "Parken",
@@ -2065,6 +2105,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2078,7 +2119,7 @@
   },
   "CZ1002649": {
     "name": "Ladestation TS 2132 Na Chodovci",
-    "sha1": "e599e25a1b410ca544fd7ac632b0bd2e140d5719",
+    "sha1": "fbbfcee9c21e24018af1ef077606b81513574d61",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2132",
       "branch": "Parken",
@@ -2105,6 +2146,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2118,7 +2160,7 @@
   },
   "CZ1002650": {
     "name": "Ladestation TS 3674 Smotlachova",
-    "sha1": "3aad04bcbfd6f2bd8bd46a1db9eca60420b18c80",
+    "sha1": "f486400b4c874f584e32d3999c7e07afb93e62c0",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3674",
       "branch": "Parken",
@@ -2145,6 +2187,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2158,7 +2201,7 @@
   },
   "CZ1002651": {
     "name": "Ladestation TS 2665 Jihlavská",
-    "sha1": "20544cdae03d0730bd72c04f6b7c0d9a9da4edf0",
+    "sha1": "9af4a27d8eb552d10ab6becd30e28a88ebdbeaa6",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2665",
       "branch": "Parken",
@@ -2185,6 +2228,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2198,7 +2242,7 @@
   },
   "CZ1002652": {
     "name": "Ladestation TS 2974 Seidlova",
-    "sha1": "eefbb4362f21a4493c5f77793743aadfaf1db1f6",
+    "sha1": "94aafc1da704b9c6af61fb1cbd54ea9c2d3b1aa3",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2974",
       "branch": "Parken",
@@ -2225,6 +2269,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2238,7 +2283,7 @@
   },
   "CZ1002653": {
     "name": "Ladestation TS 2443 Litvínovská",
-    "sha1": "5b304469734f6165300f654927ed7c726c79d518",
+    "sha1": "f730b296df0c46ad78e88c2bd004730113700644",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2443",
       "branch": "Parken",
@@ -2265,6 +2310,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2278,7 +2324,7 @@
   },
   "CZ1002654": {
     "name": "Ladestation TS 4682 Tréglova",
-    "sha1": "6ff9ad8cae6a878188f88fc9711acddbb99c9739",
+    "sha1": "e7fd6122f5041596d223f83a7b082c6afe1ac249",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4682",
       "branch": "Parken",
@@ -2305,6 +2351,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2318,7 +2365,7 @@
   },
   "CZ1002655": {
     "name": "Ladestation TS 3659 Gončarenkova",
-    "sha1": "6da47e36fe482e5f5eefc4670f1002e9aef5e5db",
+    "sha1": "b9dcc1c48a6d012b4d6a58f98aef2376c7ea22af",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3659",
       "branch": "Parken",
@@ -2345,6 +2392,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2358,7 +2406,7 @@
   },
   "CZ1002656": {
     "name": "Ladestation TS 3834 Jarní",
-    "sha1": "44847e2643e185efdb522dba1b4f35ef40a1c4a8",
+    "sha1": "fd705891f82ea7e918605951db0c12eae205e9ee",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3834",
       "branch": "Parken",
@@ -2385,6 +2433,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2398,7 +2447,7 @@
   },
   "CZ1002657": {
     "name": "Ladestation TS 3904 Lindavská",
-    "sha1": "c0f433258c07cbf2515ecd9f4348a872b30e5417",
+    "sha1": "efd204a663b18a2e271b8b9c2b4213456312cb34",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3904",
       "branch": "Parken",
@@ -2425,6 +2474,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2438,7 +2488,7 @@
   },
   "CZ1002658": {
     "name": "Ladestation TS 3921 Nad Přehradou",
-    "sha1": "a881aac506d8949d09e1c7e2438f46bc71fde4fe",
+    "sha1": "291724e433ce39a465fb99535a0d80f78a172246",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3921",
       "branch": "Parken",
@@ -2465,6 +2515,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2478,7 +2529,7 @@
   },
   "CZ1002659": {
     "name": "Ladestation TS 3941 Janovská",
-    "sha1": "1b7a67841c1d4c2be34223bd17a643454a5e2deb",
+    "sha1": "0db26b653adc5259ff0f62f25f935665afe4f10d",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3941",
       "branch": "Parken",
@@ -2505,6 +2556,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2518,7 +2570,7 @@
   },
   "CZ1002660": {
     "name": "Ladestation TS 3972 Rezlerova",
-    "sha1": "3b1a1bb395f55cb116b79d127daafcd27ec0f136",
+    "sha1": "17579a3a09833fdd611bed67768cf8d5e9a407b9",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3972",
       "branch": "Parken",
@@ -2545,6 +2597,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2558,7 +2611,7 @@
   },
   "CZ1002661": {
     "name": "Ladestation TS 4133 Třanovského",
-    "sha1": "3772343bab2e3acaaf9ff3d3b5334888800f3328",
+    "sha1": "33bc1ad6d87bb4d1b7a40a1b0b75936759734d4c",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4133",
       "branch": "Parken",
@@ -2585,6 +2638,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2598,7 +2652,7 @@
   },
   "CZ1002662": {
     "name": "Ladestation TS 4623 Jiránkova",
-    "sha1": "3fce9939414dc24cb326b3df637d0d06f9753630",
+    "sha1": "b5f298200fd97c7d7104085cd91c3725c0729ac8",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4623",
       "branch": "Parken",
@@ -2625,6 +2679,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2638,7 +2693,7 @@
   },
   "CZ1002663": {
     "name": "Ladestation TS 4815 Chotovická",
-    "sha1": "0d21045f85a1a921cf0987081de7767ad3d03422",
+    "sha1": "ca6b30077153bbb836118ea54ab943c7cff353f8",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4815",
       "branch": "Parken",
@@ -2665,6 +2720,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2678,7 +2734,7 @@
   },
   "CZ1002664": {
     "name": "Ladestation TS 4829 Roudnická",
-    "sha1": "75a15560ac1d43c9c8845016d628c1d75f78487c",
+    "sha1": "440e9e062d3353cb5bfd470bf74b5aca385382e2",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4829",
       "branch": "Parken",
@@ -2705,6 +2761,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2718,7 +2775,7 @@
   },
   "CZ1002665": {
     "name": "Ladestation TS 5058 Na Cimbále",
-    "sha1": "074dfef9678098602a748f42ebecc6723336f740",
+    "sha1": "a9d7832831e181a759bc176a2b5759d87c87d4f1",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 5058",
       "branch": "Parken",
@@ -2745,6 +2802,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2758,7 +2816,7 @@
   },
   "CZ1002666": {
     "name": "Ladestation TS 5354 Kurčatovova",
-    "sha1": "0e6f085330f31ae11358da58f02f73dd74e3d058",
+    "sha1": "8692cb200921b8da4dc869728a74b4e0acfbd66e",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 5354",
       "branch": "Parken",
@@ -2785,6 +2843,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2798,7 +2857,7 @@
   },
   "CZ1002667": {
     "name": "Ladestation TS 5508 Voskovcova",
-    "sha1": "b24b157c09e757b64eca4336a6ec3fb1424915a7",
+    "sha1": "1b5c1a3f443604e3a3c014a41dc0868f4c37943c",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 5508",
       "branch": "Parken",
@@ -2825,6 +2884,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2838,7 +2898,7 @@
   },
   "CZ1002668": {
     "name": "Ladestation TS 5509 Wassermannova",
-    "sha1": "e9d1d69bf7384de709c0392967260b7e7ede28ab",
+    "sha1": "e7bf88d90e5be3204b9ba39fe2c604087ffddec6",
     "station": {
       "additionalInfo": "Bei derTransformatorstation 5509",
       "branch": "Parken",
@@ -2865,6 +2925,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2878,7 +2939,7 @@
   },
   "CZ1002671": {
     "name": "Ladestation Radotín K Lázním",
-    "sha1": "a0f4ee57f48a1e852c2a883427988d9ef2f10456",
+    "sha1": "188440f0a10e912c191513b0430da683fc577474",
     "station": {
       "additionalInfo": "Beim Eingang zur Schwimmhalle",
       "branch": "Parken",
@@ -2905,6 +2966,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2918,7 +2980,7 @@
   },
   "CZ1002672": {
     "name": "Ladestation SMIGHT Výstaviště",
-    "sha1": "66f7984090ee06ec0dd8f24ec00100d7d5e9dc90",
+    "sha1": "423bbbe31b6236fd8c0b1fb3b67e204fb6e7df51",
     "station": {
       "additionalInfo": "Neben dem Schwimmbad",
       "branch": "Parken",
@@ -2945,6 +3007,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2958,7 +3021,7 @@
   },
   "CZ1002673": {
     "name": "Ladestation SMIGHT Pražská energetika 19",
-    "sha1": "35714e889f2a33f5d83e84bc501b0ff030f32e69",
+    "sha1": "b76a37e95e18826d04bcaeaedb54650b38bc2fc3",
     "station": {
       "additionalInfo": "Vor dem Gebäude Praská energetika",
       "branch": "Parken",
@@ -2985,6 +3048,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -2998,7 +3062,7 @@
   },
   "CZ1002675": {
     "name": "Ladestation SMIGHT Karlovo náměstí",
-    "sha1": "39e3b0a0263a0d708294a615dc53f87543ad026b",
+    "sha1": "6fb09993aae666c1ac1ec54c6ed9014ec56db8f0",
     "station": {
       "additionalInfo": "Vor der Stadthalle",
       "branch": "Parken",
@@ -3025,6 +3089,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3038,7 +3103,7 @@
   },
   "CZ1002676": {
     "name": "Ladestation SMIGHT Jugoslávská",
-    "sha1": "79e19fd69db150347f5edb50f63c9a2fcf65644b",
+    "sha1": "e91a2feb57464c91ad758a6b56e726c18b0c4b73",
     "station": {
       "additionalInfo": "Vor dem Rathaus",
       "branch": "Parken",
@@ -3065,6 +3130,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3078,7 +3144,7 @@
   },
   "CZ1002677": {
     "name": "Ladestation SMIGHT Polská",
-    "sha1": "5ce010db349ba60eaf03f9c7474c2d1cc4916d05",
+    "sha1": "5ff9289fc930a6a942b127fe28604a429162e4b2",
     "station": {
       "additionalInfo": "Bei dem Park",
       "branch": "Parken",
@@ -3105,6 +3171,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3118,7 +3185,7 @@
   },
   "CZ1002678": {
     "name": "Ladestation SMIGHT Šeberov",
-    "sha1": "273a2a764b85aae43fb83b8e1418ceeb7cfe72dc",
+    "sha1": "f18fe2f1b9a01547ea5f2f3da851a7eb5fb0abca",
     "station": {
       "additionalInfo": "Beim Parkplatz von der K Hrncirum  Straße",
       "branch": "Parken",
@@ -3145,6 +3212,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3158,7 +3226,7 @@
   },
   "CZ1002679": {
     "name": "Ladestation SMIGHT Otopašská",
-    "sha1": "7ee86abb0d5ed7c1bfe9da6bb8004d619db3e624",
+    "sha1": "5d21f712722f952f350b5a9fbdc6749890953af2",
     "station": {
       "additionalInfo": "Auf dem Parkplatz an der Otopaská Straße",
       "branch": "Parken",
@@ -3185,6 +3253,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3198,7 +3267,7 @@
   },
   "CZ1002680": {
     "name": "Schnellladestation Horní Počernice",
-    "sha1": "f1eba954c09371d3f88259d7a4f5c864d0cc3a5d",
+    "sha1": "76d3fc3327df42de7f270251a5104f4e6ba63efd",
     "station": {
       "additionalInfo": "Auf dem Parkplatz beim Bahnhof",
       "branch": "Parken",
@@ -3225,6 +3294,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3238,7 +3308,7 @@
   },
   "CZ1002681": {
     "name": "Schnellladestation ČSOB NHQ",
-    "sha1": "d539b39f83e1a7f9663891330c73dc9c579b9267",
+    "sha1": "cf740c127113630c22fa8275057eba2c1bc35ab5",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der CSOB",
       "branch": "Parken",
@@ -3265,6 +3335,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3278,7 +3349,7 @@
   },
   "CZ1002682": {
     "name": "Ultra-Highspeed-Ladestation Sparta Holešovice",
-    "sha1": "4cba9f377b7b4a483c93098816342ad4142ecc4c",
+    "sha1": "bc17965c2837fcc99296057f71ffcf5684d6c530",
     "station": {
       "additionalInfo": "Auf dem Parkplatz beim Sportstadion. Zufahrt zum Parkplatz Bei der  Straße U Výstavite.",
       "branch": "Parken",
@@ -3305,6 +3376,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3318,7 +3390,7 @@
   },
   "CZ1002683": {
     "name": "Ultra-Highspeed-Ladestation Metropole Zličín",
-    "sha1": "22e5dc8759e0809f4cbb38232877980804a6ed65",
+    "sha1": "e89fa11b4b2790f8e70be6458321a0697019db50",
     "station": {
       "additionalInfo": "Am Ende des Parkplatzes",
       "branch": "Parken",
@@ -3345,6 +3417,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3358,7 +3431,7 @@
   },
   "CZ1002716": {
     "name": "Ladestation TS 2302 Vítovcova",
-    "sha1": "9d9e7ef11bc76d4fc46e06a719c7905be1ab29e0",
+    "sha1": "e2e460486f95c31d344ffa9ac3bd948061c79541",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2302",
       "branch": "Parken",
@@ -3385,6 +3458,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3398,7 +3472,7 @@
   },
   "CZ1002726": {
     "name": "Ladestation Hotel Ambassador Zlatá Husa",
-    "sha1": "8a13767d159509b4d253f856b59b9eeb8d67dd62",
+    "sha1": "1df48ee7017ae3d73ac4a32da032eb3feb131d52",
     "station": {
       "additionalInfo": "In den Hotelgaragen",
       "branch": "Parken",
@@ -3425,6 +3499,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3438,7 +3513,7 @@
   },
   "CZ1002730": {
     "name": "Ladestation TS 5068 Urbánkova",
-    "sha1": "8d60d18c0ab03e356aeab1bc968007a4a07eefb3",
+    "sha1": "8c9b10a8c3d3bebcbb56561ac90f89c61e66a86a",
     "station": {
       "additionalInfo": "Bei der  Transformatorstation",
       "branch": "Parken",
@@ -3465,6 +3540,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3478,7 +3554,7 @@
   },
   "CZ1002731": {
     "name": "Ladestation TS 3391 Machuldova",
-    "sha1": "ef81bc933c1ec7619446602039d8bc85106b8a00",
+    "sha1": "4ddcf07c598a04d1981b3dce2d86d77dc0ca85cd",
     "station": {
       "additionalInfo": "Bei der Transformatorstation",
       "branch": "Parken",
@@ -3505,6 +3581,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3518,7 +3595,7 @@
   },
   "CZ1002744": {
     "name": "Ladestation TS 3076 Mikulova",
-    "sha1": "c2ef68df1d0f2bd772028d3810400f174fc6ecd1",
+    "sha1": "6418ae4915988f7a0084a211d79e7b59a1d8ecc5",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3076",
       "branch": "Parken",
@@ -3545,6 +3622,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3558,7 +3636,7 @@
   },
   "CZ1002745": {
     "name": "Ladestation TS 3298 Binarova",
-    "sha1": "3b534cc11a4b825a0ecc0b618d5ba5280d6451c4",
+    "sha1": "a4f42d86e0fca72df15857225f09a72f30d5c7db",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3298",
       "branch": "Parken",
@@ -3585,6 +3663,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3598,7 +3677,7 @@
   },
   "CZ1002749": {
     "name": "Ladestation TS 3841 Družicová",
-    "sha1": "a84fbee1ad00d4d063ddd33a3350e90f8665de1f",
+    "sha1": "b2f7ac05bfb4cacc585a38d265c9e3d75ac16357",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3841",
       "branch": "Parken",
@@ -3625,6 +3704,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3638,7 +3718,7 @@
   },
   "CZ1002771": {
     "name": "Ladestation Hamr Záběhlice",
-    "sha1": "e425d245b1909b303ed4af6448a6ea6b6b42b569",
+    "sha1": "65bbc207b284318bd1d96478498538f9a4971cff",
     "station": {
       "additionalInfo": "Auf dem Parkplatz des Sportzentrums",
       "branch": "Parken",
@@ -3665,6 +3745,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3678,7 +3759,7 @@
   },
   "CZ1002772": {
     "name": "Ladestation TS 5288 Pražská",
-    "sha1": "aa8df0fc7cc793119fb7605d0cc5f8dead4e2205",
+    "sha1": "fc51517c5f5e40543923b6b5cb26a9f28d2d01bb",
     "station": {
       "additionalInfo": "An der Transformatorstation 5288",
       "branch": "Parken",
@@ -3705,6 +3786,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3718,7 +3800,7 @@
   },
   "CZ1002773": {
     "name": "Ladestation TS 3135 Kytlická",
-    "sha1": "c0bcec1990e3ecb5ff839dc7292d61dab69a5f3e",
+    "sha1": "ba49984724a43dbc5559fbe0e680d0fff0ea0c0f",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3135",
       "branch": "Parken",
@@ -3745,6 +3827,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3758,7 +3841,7 @@
   },
   "CZ1002774": {
     "name": "Ladestation TS 4813 Chotovická",
-    "sha1": "d39293ce252d394abad859764ed8e05197c56f25",
+    "sha1": "54af467e752b77030fdad9620bda4b803df65f00",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4813",
       "branch": "Parken",
@@ -3785,6 +3868,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3798,7 +3882,7 @@
   },
   "CZ1002775": {
     "name": "Ladestation TS 2452 Štětínská",
-    "sha1": "9db2f24c8bfd0f7ff57a8bc9627969cd405dc1bc",
+    "sha1": "9339afa754b8873470c95b4aaa6a5d7dea4fb5d7",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2452",
       "branch": "Parken",
@@ -3825,6 +3909,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3838,7 +3923,7 @@
   },
   "CZ1002776": {
     "name": "Ladestation TS 2977 Vidlicová",
-    "sha1": "d3c16c45f761dcb6ebe87f92a99a9934b8818a67",
+    "sha1": "3f7c9615ef179e15db3326116f0135d968eeca19",
     "station": {
       "additionalInfo": "Bei der Trafostation 2977",
       "branch": "Parken",
@@ -3865,6 +3950,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3878,7 +3964,7 @@
   },
   "CZ1002777": {
     "name": "Ladestation TS 1020 V Šáreckém údolí",
-    "sha1": "1c8bd7b9210dc13609bafdb76e51bbf84580dc5f",
+    "sha1": "6710fe0d2655531b60f58771a5b3d476eb1da677",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 1020",
       "branch": "Parken",
@@ -3905,6 +3991,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3918,7 +4005,7 @@
   },
   "CZ1002778": {
     "name": "Ladestation TS 5299 Arabská",
-    "sha1": "70e2e302dfdfba67a4a79ab38da56a0e7285bbf1",
+    "sha1": "cfb7caeac58819856c00f9cc8180a17cbc35078d",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 5299",
       "branch": "Parken",
@@ -3945,6 +4032,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3958,7 +4046,7 @@
   },
   "CZ1002779": {
     "name": "Ladestation TS 3657 Choceradská",
-    "sha1": "130daa2e881a7bf91b7479a4d767fd0dccc49dc5",
+    "sha1": "7125748a6092967864ea9846f3d17d24dbc30c9e",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3657",
       "branch": "Parken",
@@ -3985,6 +4073,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -3998,7 +4087,7 @@
   },
   "CZ1002780": {
     "name": "Ladestation TS 3188 Cihlářova",
-    "sha1": "5977c9edf8723b87facb1a4ab0f68cc2046a7094",
+    "sha1": "6068655770eb1a78ee0fbd3cb1c1bf2dc353c76d",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3188",
       "branch": "Parken",
@@ -4025,6 +4114,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4038,7 +4128,7 @@
   },
   "CZ1002781": {
     "name": "Ladestation TS 3195 Mařatkova",
-    "sha1": "15943029d071838c7152e7d82e281f7b393b0e81",
+    "sha1": "649ebd0d2693cd9b733aa443216c3699c75bbca0",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3195",
       "branch": "unbekannt",
@@ -4065,6 +4155,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4078,7 +4169,7 @@
   },
   "CZ1002782": {
     "name": "Ladestation TS 3665 Za Mlýnem",
-    "sha1": "28bb23c89c639ee6b1e700837cafe69402c75b3d",
+    "sha1": "e18cda399101e95a980de10f74e24d472dc63cba",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3665",
       "branch": "Parken",
@@ -4105,6 +4196,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4118,7 +4210,7 @@
   },
   "CZ1002783": {
     "name": "Ladestation TS 3823 Na pláni",
-    "sha1": "2b05bc771e1f94d7c9f7c81616577356e007427b",
+    "sha1": "15d0f6fbcd7d3d1ecfed9898588dcad0d682ef48",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3823",
       "branch": "Parken",
@@ -4145,6 +4237,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4158,7 +4251,7 @@
   },
   "CZ1002784": {
     "name": "Ladestation TS 4279 Miletická",
-    "sha1": "6fd4e95f972d780a7c646e89bdd9cc14f07670ad",
+    "sha1": "e7ed0b37b4f6cdb881d27627bd1c78f9192b47fe",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4279",
       "branch": "Parken",
@@ -4185,6 +4278,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4198,7 +4292,7 @@
   },
   "CZ1002785": {
     "name": "Ladestation TS 4283 Měšínská",
-    "sha1": "e2b802fb26d3825405d09000964650c3172dbfbd",
+    "sha1": "02f6c481000b5032e3fac566d41816e8e2d158ff",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4283",
       "branch": "Parken",
@@ -4225,6 +4319,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4238,7 +4333,7 @@
   },
   "CZ1002786": {
     "name": "Ladestation TS 175 Náměsí osvoboditelů",
-    "sha1": "929b6caa432c6d4867f139ec09dacd8ac99509bf",
+    "sha1": "1d490a2de1bd45ffc29a00a17ef52bf18f55f813",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 175",
       "branch": "Parken",
@@ -4265,6 +4360,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4278,7 +4374,7 @@
   },
   "CZ1002787": {
     "name": "Ladestation TS 4657 Tasovská",
-    "sha1": "8617382687dfe86f6d5f8413c488f64d5f463ed2",
+    "sha1": "b4a349e738110e4bf4601f71a1f4ee3bb6def823",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4657",
       "branch": "Parken",
@@ -4305,6 +4401,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4318,7 +4415,7 @@
   },
   "CZ1002788": {
     "name": "Ladestation TS 4452 Hábova",
-    "sha1": "d6cda535d8259fc7e1a682284ca47cdf5928f7a1",
+    "sha1": "bd6e1338283292424e20315572fd56e320fa9be4",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4452",
       "branch": "Parken",
@@ -4345,6 +4442,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4358,7 +4456,7 @@
   },
   "CZ1002789": {
     "name": "Ladestation TS 1617 Nad Turbovou",
-    "sha1": "c24cc2415b95ed8871682b254dea700929d6e5df",
+    "sha1": "c55fa58cadbaa196beb3acb5a9256b502859de40",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 1617",
       "branch": "Parken",
@@ -4385,6 +4483,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4398,7 +4497,7 @@
   },
   "CZ1002790": {
     "name": "Ladestation TS 4618 Makovského",
-    "sha1": "fe581914863fd253671807a6cd4833928b5f9fd5",
+    "sha1": "c30a9f57a878b58bb13f7b686a047e1cb048232f",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4618",
       "branch": "Parken",
@@ -4425,6 +4524,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4438,7 +4538,7 @@
   },
   "CZ1002791": {
     "name": "Ladestation TS 4832 Generála Janouška",
-    "sha1": "d39d94676ce87c3d3bcadc6a5388bdb8ded77b04",
+    "sha1": "c60745365ded12a7cfb989cd85fcbf3d1f3d6358",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4832",
       "branch": "Parken",
@@ -4465,6 +4565,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4478,7 +4579,7 @@
   },
   "CZ1002793": {
     "name": "Ladestation TS 2884 Drahorádova",
-    "sha1": "71639c04ce716b6c3e500eec648c867a480c5513",
+    "sha1": "3622d82c5be23ece7dac5421860d7b779292393d",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2884",
       "branch": "Parken",
@@ -4505,6 +4606,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4518,7 +4620,7 @@
   },
   "CZ1002794": {
     "name": "Ladestation TS 5067 Urbánkova",
-    "sha1": "11a472c0f96224b538d513ceb88f26eac9e0bf14",
+    "sha1": "01d916f77053b7966d6b5c6ae8be8ee6f9ba1a42",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 5067",
       "branch": "Parken",
@@ -4545,6 +4647,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4558,7 +4661,7 @@
   },
   "CZ1002795": {
     "name": "Ladestation TS 4459 Lýskova",
-    "sha1": "89e31e76cac566ddc35b88a32ce44b2551763d38",
+    "sha1": "87fe43c48b62aa851cf56d549f4ee3edd3f1d5aa",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4459",
       "branch": "Parken",
@@ -4585,6 +4688,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4598,7 +4702,7 @@
   },
   "CZ1002796": {
     "name": "Ladestation TS 4481 Amforová",
-    "sha1": "4508980645ba946655ec3fa6b00a094b5e5345a6",
+    "sha1": "4f847282b762b58cbbe4d4cef61a3a23ce9e43bc",
     "station": {
       "additionalInfo": "An der Transformatorstation 4481",
       "branch": "Parken",
@@ -4625,6 +4729,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4638,7 +4743,7 @@
   },
   "CZ1002797": {
     "name": "Ladestation TS 4485 Píškova",
-    "sha1": "6b1bda2872e4f75b02e6518d49d6e2a0daa9fac1",
+    "sha1": "8c2ee8f3b6432bf72ddd71a37cb17b68717bb780",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4485",
       "branch": "Parken",
@@ -4665,6 +4770,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4678,7 +4784,7 @@
   },
   "CZ1002798": {
     "name": "Ladestation TS 4487 Mohylová",
-    "sha1": "973e92d9886e72ef4a5f9b673fb3410024fb62a6",
+    "sha1": "4e6224d01af467f5e00287426897054d84396611",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4487",
       "branch": "Parken",
@@ -4705,6 +4811,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4718,7 +4825,7 @@
   },
   "CZ1002799": {
     "name": "Ladestation TS 4472 Fantova",
-    "sha1": "ee12f96074b69b14029c5102328a0d6dafa182d8",
+    "sha1": "b85166d204eb5fbb27523d508617c26e1d1cbc1d",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4472",
       "branch": "Parken",
@@ -4745,6 +4852,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4758,7 +4866,7 @@
   },
   "CZ1002800": {
     "name": "Ladestation TS 4330 Výpadová",
-    "sha1": "b0465b8dbfbcc24940dc8ac16769386276b5dbf8",
+    "sha1": "d4acc6f4743d13a6c3cbfc53fb068dcb50a448c8",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4330",
       "branch": "Parken",
@@ -4785,6 +4893,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4798,7 +4907,7 @@
   },
   "CZ1002829": {
     "name": "Schnellladestation Harley Davidson Praha",
-    "sha1": "24dfe0e2fa21323bbbb2c7398c4cb44d8ac4111b",
+    "sha1": "d3700eb0160e15bbe0fd311dc10bfca845d4e4b2",
     "station": {
       "additionalInfo": "Neben dem Harley Davidson Showroom",
       "branch": "Parken",
@@ -4825,6 +4934,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4838,7 +4948,7 @@
   },
   "CZ1002831": {
     "name": "Schnellladestation YIT Rezidence Wassermannova",
-    "sha1": "5769a8dd67fcc2639215feb5b7bc763160f63e37",
+    "sha1": "8c87ebfec68fae606d45f6770245a2652451f45a",
     "station": {
       "additionalInfo": "Bei der Ranta Barrandov",
       "branch": "Parken",
@@ -4865,6 +4975,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4878,7 +4989,7 @@
   },
   "CZ1002832": {
     "name": "Ultra-Highspeed-Ladestation Skanska Park View",
-    "sha1": "a7f93d6e4d46885784aee2496633e3ec70efc5a0",
+    "sha1": "f76fd6a301aaf62856136e30ddc6f868325b3460",
     "station": {
       "additionalInfo": "In der Pujmanova Straße",
       "branch": "Parken",
@@ -4905,6 +5016,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4918,7 +5030,7 @@
   },
   "CZ1002838": {
     "name": "Schnellladestation OMV Praha 5 - Strakonická",
-    "sha1": "b1e7c96c3f8e1a37df9aafa081f52f25b4a3f2ce",
+    "sha1": "a4981f7eff697602ddca37e9785805406e443950",
     "station": {
       "additionalInfo": "Hinter der Tankstelle",
       "branch": "Tankstelle",
@@ -4945,6 +5057,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4958,7 +5071,7 @@
   },
   "CZ1002840": {
     "name": "Ladestation Ostrčilovo náměstí",
-    "sha1": "0ede8f5321f003500dbcfb276602e060f59ae36f",
+    "sha1": "3e625bfcae0d67bf1ae6a3a7718b0e7816c29336",
     "station": {
       "additionalInfo": "Beim Ostrčilovo Platz",
       "branch": "Parken",
@@ -4985,6 +5098,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4998,7 +5112,7 @@
   },
   "CZ1002907": {
     "name": "Ladestation TS 4473 Fantova",
-    "sha1": "e2d983390a326a41ef05fe6e5ccf27e8f0d02dbb",
+    "sha1": "e17d343e1e410926977c2bc41d42c2e706cba5c5",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4473",
       "branch": "Parken",
@@ -5025,6 +5139,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5038,7 +5153,7 @@
   },
   "CZ1003038": {
     "name": "Schnellladestation Radnice Modřany",
-    "sha1": "39d382e675222a860c3c1529fa257b1a8f09f989",
+    "sha1": "d96f1fef8cc62a4a92ebf1447c4b11ba177abe14",
     "station": {
       "additionalInfo": "Neben dem Stadtamt Prag 12",
       "branch": "Parken",
@@ -5072,6 +5187,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5085,7 +5201,7 @@
   },
   "CZ1003039": {
     "name": "Schnellladestation Hilton Praha",
-    "sha1": "ebc69804fab5e9c2831d233e543c45486692ccf9",
+    "sha1": "6bf30e35f2d12026316a884f60f027e392df57e4",
     "station": {
       "additionalInfo": "Beim Hilton Hotel - 60 minut bezplatného parkování při nabíjení",
       "branch": "Hotel",
@@ -5112,6 +5228,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5125,7 +5242,7 @@
   },
   "CZ1003049": {
     "name": "Ladestation Dock Marina Boulevard",
-    "sha1": "9e68e18711ffec7845a88a3f015242d5348631d6",
+    "sha1": "1e4b0025590c8278a8d92cbfb240cf824ae9219f",
     "station": {
       "additionalInfo": "Povinnost při vjezdu na parkoviště využít tlačítko interkomu umístněné na vjezdovém sloupku do areálu DOCK.",
       "branch": "unbekannt",
@@ -5161,6 +5278,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5174,7 +5292,7 @@
   },
   "CZ1003079": {
     "name": "Ladestation TS 4607 Šímova",
-    "sha1": "5afd6db11ffa2db5f476b8490b3cf8cfaddab9f0",
+    "sha1": "ba549714b91361a7574b684241145ac7e410c280",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 4607",
       "branch": "Parken",
@@ -5201,6 +5319,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5214,7 +5333,7 @@
   },
   "CZ1003080": {
     "name": "Ladestation TS 2629 Květinková",
-    "sha1": "00a77af939fb1dbb149cabaf15d6a15c23251930",
+    "sha1": "838faeaf5b2cccc8e2b7cfa173bd9944c3b85d95",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2629",
       "branch": "Parken",
@@ -5241,6 +5360,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5254,7 +5374,7 @@
   },
   "CZ1003081": {
     "name": "Ladestation TS 3467 Butovická",
-    "sha1": "8a501b447b5d2f7bfb6dd7f85e44e6af1f3c65f0",
+    "sha1": "6e956d7ddc2eeebb09644acf6facb050664c37ee",
     "station": {
       "additionalInfo": "Bei der Transformationsstation TS 3467",
       "branch": "Parken",
@@ -5281,6 +5401,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5294,7 +5415,7 @@
   },
   "CZ1003082": {
     "name": "Ladestation TS 5079 Krupná",
-    "sha1": "450e4f2c486e25e460b5b15750b762b366f64bdb",
+    "sha1": "daf1802366d30486b9b29f74093be9bb1c246d74",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 5079",
       "branch": "Parken",
@@ -5321,6 +5442,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5334,7 +5456,7 @@
   },
   "CZ1003084": {
     "name": "Schnellladestation EuroOil Praha 9",
-    "sha1": "52c308e6f038209bc84736f131c6c5c1061e1c5a",
+    "sha1": "c262d6b9ec3b73ddd15c92104441503d30a4a4eb",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -5368,6 +5490,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -5381,7 +5504,7 @@
   },
   "CZ1003086": {
     "name": "Ladestation Radnice Modřany",
-    "sha1": "f5b1c473c217a3ef08a0b2a40ca62421df96f1df",
+    "sha1": "78cb5bbc3e8e74ccd0d1fc1270711d0aaef64a61",
     "station": {
       "additionalInfo": "Neben dem Stadtamt Prag 12",
       "branch": "Parken",
@@ -5408,6 +5531,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5421,7 +5545,7 @@
   },
   "CZ1003088": {
     "name": "Ladestation Německá škola v Praze",
-    "sha1": "de40680b2d5028cf69d5b920c26da281c4bed72e",
+    "sha1": "6f219e34c650986e518f29f19c9aa3d448d7b4ce",
     "station": {
       "additionalInfo": "Auf dem Parkplatz neben der Deutschen Schule",
       "branch": "Parken",
@@ -5455,6 +5579,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5468,7 +5593,7 @@
   },
   "CZ1003145": {
     "name": "Ladestation TS 722 Františkova",
-    "sha1": "797dee0e42f3f7ab4e69d050bf4afc44fd6fa586",
+    "sha1": "2bce5a1d84048ab26f924df0f03121ecfc53a031",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 722",
       "branch": "unbekannt",
@@ -5502,6 +5627,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5515,7 +5641,7 @@
   },
   "CZ1003151": {
     "name": "Ladestation TS 3932 Pod Vartou",
-    "sha1": "029541ef1d18725aae62da1efd0f67c3d8980f2f",
+    "sha1": "b1df0be74787e441fc6fdc49cf36eb88a3a707dc",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 3932",
       "branch": "Parken",
@@ -5549,6 +5675,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5562,7 +5689,7 @@
   },
   "CZ1003152": {
     "name": "Ladestation TS 3672 Na Křivce",
-    "sha1": "a5d860317f007e9e2b5ae7a5eb737bfed34157de",
+    "sha1": "299140fcf90aeb7a2b36acb9727a3b545c84f10c",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 3672",
       "branch": "Parken",
@@ -5596,6 +5723,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5609,7 +5737,7 @@
   },
   "CZ1003160": {
     "name": "Schnellladestation Hotel Stages Praha",
-    "sha1": "de7f9f76d4254031b0c0e2b61844aee26cecb592",
+    "sha1": "9c06e1fb928d4382e31c3696219030688d65eb54",
     "station": {
       "additionalInfo": "Vor dem Stages Hotel",
       "branch": "Hotel",
@@ -5643,6 +5771,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5656,7 +5785,7 @@
   },
   "CZ1003162": {
     "name": "Ladestation OC Bořislavka",
-    "sha1": "ee8543306f502b53e865f10e57d9c0a7a6f15598",
+    "sha1": "58cbe8a228fbfa927edaa283d5a25f026946c3ac",
     "station": {
       "additionalInfo": "In den Tiefgaragen des OC Bořislavka",
       "branch": "Parken",
@@ -5690,6 +5819,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5703,7 +5833,7 @@
   },
   "CZ1003174": {
     "name": "Ladestation Nový Golf",
-    "sha1": "44ece2b5681ee619332427c6e047cc199288d672",
+    "sha1": "856f7b5d2d9a33d421df44c2b6c57695603b8373",
     "station": {
       "additionalInfo": "Auf dem Parkplatz des Nový Golf Hotels",
       "branch": "Hotel",
@@ -5730,6 +5860,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5743,7 +5874,7 @@
   },
   "CZ1003183": {
     "name": "Ladestation P+R Černý Most",
-    "sha1": "58d98672a41b327b520a6ba28e3a10cba9dc89bc",
+    "sha1": "3a12d95969b228d1d3b8abcf5d3c2b1cfbc0448b",
     "station": {
       "additionalInfo": "P+R Černý Most, nach dem Eingangstor.",
       "branch": "Parken",
@@ -5779,6 +5910,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5792,7 +5924,7 @@
   },
   "CZ1003197": {
     "name": "Schnellladestation Restaurace Rosmarina",
-    "sha1": "37ec9c0be7b2f163e93023ec32e3a971219b069c",
+    "sha1": "26c45f2810f613da320f25fff05f0aff4749c723",
     "station": {
       "additionalInfo": "Parkplatz neben dem Restaurant Rozmarýna",
       "branch": "Restaurant",
@@ -5826,6 +5958,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5839,7 +5972,7 @@
   },
   "CZ1003198": {
     "name": "Ladestation TS 2283 Nad lesním divadlem",
-    "sha1": "94c61e73692c517b9f0fb2885ae87362cf6eccbc",
+    "sha1": "5b04975bb588eb92db89793a94f499a225eb37ba",
     "station": {
       "additionalInfo": "Neben der Transformationsstation TS 2283",
       "branch": "Parken",
@@ -5873,6 +6006,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5886,7 +6020,7 @@
   },
   "CZ1003199": {
     "name": "Ladestation TS 3075 Bachova",
-    "sha1": "9febd2301915b36e5183fec83186349250b965b7",
+    "sha1": "3746bf9aea17f3072247c972b64f73fc232e4f19",
     "station": {
       "additionalInfo": "Neben der Transformationsstation TS 3075",
       "branch": "Parken",
@@ -5920,6 +6054,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5933,7 +6068,7 @@
   },
   "CZ1003218": {
     "name": "Ultra-Highspeed-Ladestation Pivovar Spojovna",
-    "sha1": "0e3ed461baef51c965b4508fe5c0ad5c81e1c6e4",
+    "sha1": "05de209e67f9e4438fa17e6fee9f0b5cbf75aa27",
     "station": {
       "additionalInfo": "Vor dem Restaurant Pivovar Spojovna",
       "branch": "Restaurant",
@@ -5967,6 +6102,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5980,7 +6116,7 @@
   },
   "CZ1003239": {
     "name": "Schnellladestation ČSOB Výmolova",
-    "sha1": "c7402a6854befb056d29040f2186057808be9357",
+    "sha1": "34d1b3bbd6ed325131fdd0b6a010c91ec864e245",
     "station": {
       "additionalInfo": "Dobíjecí stanice je přístupná pouze zákazníkům ČSOB s platným povolením vjezdu",
       "branch": "Parken",
@@ -6007,6 +6143,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČSOB",
       "plugs": [
         {
@@ -6020,7 +6157,7 @@
   },
   "CZ1003266": {
     "name": "Ladestation TS 2011 Donovalská",
-    "sha1": "59739c1e2a40f422b2ec109d5271dea2a37bc9f5",
+    "sha1": "5f1bf109d688bc515a118a0edb5654467f294487",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2011",
       "branch": "Parken",
@@ -6054,6 +6191,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6067,7 +6205,7 @@
   },
   "CZ1003267": {
     "name": "Ladestation Na Sádce 19-17",
-    "sha1": "922af7c4df1789b1e6c924f40b99ed18c19eef35",
+    "sha1": "76742a0069ef460db023ea23e50c889bd9c78408",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -6092,6 +6230,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6105,7 +6244,7 @@
   },
   "CZ1003268": {
     "name": "Ladestation Kunínova",
-    "sha1": "ffc1ca0c9311193b61ce2716ff87d9e06d376ff1",
+    "sha1": "05238dc6a3d93589f235675c948ad4de30bb6240",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -6130,6 +6269,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6143,7 +6283,7 @@
   },
   "CZ1003269": {
     "name": "Ladestation Plavecký stadion - Jedenáctka I.",
-    "sha1": "425a4face2a74fb65e7538daec889f0ddd2a3ad4",
+    "sha1": "f45afeb9ff501c53eb4cfa0cc14cdbcd2682ec49",
     "station": {
       "additionalInfo": "Beim Schwimmbad Prag 11",
       "branch": "Parken",
@@ -6170,6 +6310,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6183,7 +6324,7 @@
   },
   "CZ1003270": {
     "name": "Ladestation TS 3115 Ledvinova",
-    "sha1": "dea0beb8c20b0bc71192ba15bd30ad016130e7b7",
+    "sha1": "9acc1825993799a6ac2378434753972d62a684ba",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3115",
       "branch": "Parken",
@@ -6217,6 +6358,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6230,7 +6372,7 @@
   },
   "CZ1003271": {
     "name": "Ladestation Prašná",
-    "sha1": "f6c894836f2aefdba4c742768e5646fa2a83e9b4",
+    "sha1": "9b4188b223183456ec7bb349ea32b675b17841c0",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -6255,6 +6397,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6268,7 +6411,7 @@
   },
   "CZ1003272": {
     "name": "Ladestation TS 3022 Ocelíkova",
-    "sha1": "faf84383f2304c9c8b0302740ad37c41cf646ea9",
+    "sha1": "83ac78fcecf99af645bd1301ad8218bafa8100af",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3022",
       "branch": "Parken",
@@ -6302,6 +6445,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6315,7 +6459,7 @@
   },
   "CZ1003273": {
     "name": "Ladestation TS 3094 Šalounova",
-    "sha1": "16ff9a42077b7b1c07356d7314cad424b88b1aab",
+    "sha1": "c25d12bf854c157c3860fc5f755b51bad898ee06",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3094",
       "branch": "Parken",
@@ -6342,6 +6486,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6355,7 +6500,7 @@
   },
   "CZ1003298": {
     "name": "Ladestation Radotín - Sídliště",
-    "sha1": "3e311e58f7700f99b5ecfa23f512d7a6d106d584",
+    "sha1": "b6aaefe62ba711fb6f741ce6ed1d59483928c60c",
     "station": {
       "additionalInfo": "In der Wohnsiedlung Radotín",
       "branch": "Parken",
@@ -6389,6 +6534,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6402,7 +6548,7 @@
   },
   "CZ1003299": {
     "name": "Ladestation TS 751 Šebelova",
-    "sha1": "faaf1e2ef3f57594354b3484be1fe61e5d4275ed",
+    "sha1": "c2e01570ea1b157da1770dc3b153dfb42c81d478",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 751",
       "branch": "Parken",
@@ -6436,6 +6582,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6449,7 +6596,7 @@
   },
   "CZ1003300": {
     "name": "Ladestation TS 4760 Bryksova",
-    "sha1": "56453301ba78e956f453ec6d7f1c5ed208bff2a4",
+    "sha1": "438b54a5c08c74e1d23ed430376c4c85fbcea9a2",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4760",
       "branch": "unbekannt",
@@ -6483,6 +6630,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6496,7 +6644,7 @@
   },
   "CZ1003301": {
     "name": "Ladestation TS 753 Generála Janouška",
-    "sha1": "0b8f31c8fd63f841ce4cc8108848b18e10e40620",
+    "sha1": "be225bdaf9fd50c6d62363b7b4d7bdb42fb55404",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 753",
       "branch": "Parken",
@@ -6530,6 +6678,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6543,7 +6692,7 @@
   },
   "CZ1003302": {
     "name": "Ladestation Dělnická",
-    "sha1": "6d03a814367bfde317a1631f3d70d25e309c5a37",
+    "sha1": "640f7b60b76b072d0cf2421fb06308554bcfe890",
     "station": {
       "additionalInfo": "An der Kreuzung Dělnická und Osadní",
       "branch": "Parken",
@@ -6577,6 +6726,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6590,7 +6740,7 @@
   },
   "CZ1003304": {
     "name": "Ladestation Krkonošská",
-    "sha1": "634773ee3fd53aaac97d219c2cdc76182a329d2e",
+    "sha1": "eb11a2165510d6892490e764b62960150d41d3cc",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -6622,6 +6772,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6635,7 +6786,7 @@
   },
   "CZ1003309": {
     "name": "Ladestation TS 3840 Dědinská",
-    "sha1": "2663878db31217af043ff4329a86abe6166cfc6f",
+    "sha1": "748bdb37ddc039275964621f658dfbc4cd3c1cd9",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3840",
       "branch": "Parken",
@@ -6669,6 +6820,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6682,7 +6834,7 @@
   },
   "CZ1003310": {
     "name": "Ladestation TS 2142 Půchovská",
-    "sha1": "1edb4fb48cd0f37d61d43976c680a393b8f141c7",
+    "sha1": "b1513f4d0f62a5ca2284592c5ff72be17e30185f",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2142",
       "branch": "Parken",
@@ -6716,6 +6868,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6729,7 +6882,7 @@
   },
   "CZ1003311": {
     "name": "Ladestation TS 2134 Bělčická",
-    "sha1": "792e0834168567370b51a5db1686fd03df23f1c2",
+    "sha1": "ba904b42e22262fb9409ea7999fd507d6974cc39",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2134",
       "branch": "Parken",
@@ -6763,6 +6916,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6776,7 +6930,7 @@
   },
   "CZ1003312": {
     "name": "Ladestation TS 3176 Zárubova",
-    "sha1": "244a63bac7baad7bbc2ab103b288a64439285051",
+    "sha1": "e005465b8e46faa6542da879cec4cfa5f733484e",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3176",
       "branch": "Parken",
@@ -6810,6 +6964,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6823,7 +6978,7 @@
   },
   "CZ1003313": {
     "name": "Ladestation TS 2131 Hrusická",
-    "sha1": "1e1e87b29905616845b63a9c74ba2214cff0e25e",
+    "sha1": "6a771d7d5c0d59ff7b99dd9f724d2ccec1a832b0",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2131",
       "branch": "Parken",
@@ -6857,6 +7012,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6870,7 +7026,7 @@
   },
   "CZ1003334": {
     "name": "Ladestation TS 4647 Na Moklině",
-    "sha1": "f3f21ac307debfac8c5e9291a57bb13f041bcdfe",
+    "sha1": "3c60c79f7af6ac44f305427a27e7907be78479ac",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4647",
       "branch": "Parken",
@@ -6904,6 +7060,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6917,7 +7074,7 @@
   },
   "CZ1003335": {
     "name": "Ladestation TS 4654 Makovského",
-    "sha1": "ebf3a1301e799b21fc226010b25727dee97c4bde",
+    "sha1": "89d8291f5ff920b9ea57a17d7cf60690450eabe6",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4654",
       "branch": "Parken",
@@ -6944,6 +7101,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -6957,7 +7115,7 @@
   },
   "CZ1003336": {
     "name": "Ladestation TS 467 U Kolejí",
-    "sha1": "fd5a1d92be94589de736a706a2864dbe483b007e",
+    "sha1": "3ffd8824fc52333ca8c9815066da971d36bcd134",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 467",
       "branch": "Parken",
@@ -6991,6 +7149,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7004,7 +7163,7 @@
   },
   "CZ1003337": {
     "name": "Ladestation TS 5306 José Martího",
-    "sha1": "5819ae5a3e7d5f50af63fab3b81d493c6301aaf3",
+    "sha1": "b5c1cd188c4fff5870f7df48dad88f43ddfb72d8",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 5306",
       "branch": "Parken",
@@ -7038,6 +7197,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7051,7 +7211,7 @@
   },
   "CZ1003338": {
     "name": "Ladestation TS 4658 Nedašovská",
-    "sha1": "0a94bdbb59322fc67f325764f80d3b4d34ec2ec1",
+    "sha1": "c8a1dcc79d87c8d8b47a501f1d3893a5251a3126",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4658",
       "branch": "unbekannt",
@@ -7085,6 +7245,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7098,7 +7259,7 @@
   },
   "CZ1003339": {
     "name": "Ladestation TS 2135 Svojšovická",
-    "sha1": "e80220dd847180f580e8acedb034ff0f7cd5dcef",
+    "sha1": "d4103453e5feaaee3ec10ef9f5fbaf62da234a43",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2135",
       "branch": "Parken",
@@ -7132,6 +7293,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7145,7 +7307,7 @@
   },
   "CZ1003360": {
     "name": "Schnellladestation Less Mess Storage",
-    "sha1": "693fa661b31ae193342f4b9e44fb7dcb09f6a4da",
+    "sha1": "628507194e4e5f7b5d9530330ad3e445d894f773",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -7177,6 +7339,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7190,7 +7353,7 @@
   },
   "CZ1003380": {
     "name": "Ladestation TS 5175 Družná",
-    "sha1": "262afa8caa231df23d77d701252d3296ceb7409a",
+    "sha1": "d9b05c38efa8146d41122c3eed4c2606ce1e8d1e",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 5175",
       "branch": "Parken",
@@ -7224,6 +7387,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7237,7 +7401,7 @@
   },
   "CZ1003381": {
     "name": "Ladestation Do Zahrádek I.",
-    "sha1": "f451e5c10db0aef8eefe7b146b8cc9daf9506764",
+    "sha1": "f9a1baa9668ca1cc8310b58b0b13762bfc172664",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -7269,6 +7433,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7282,7 +7447,7 @@
   },
   "CZ1003382": {
     "name": "Ladestation Bechyňská",
-    "sha1": "db1136d85436eac77ca13d39f7752bf762099a45",
+    "sha1": "6b852e2711a389d76d95e643d96054098cabc96f",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -7314,6 +7479,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7327,7 +7493,7 @@
   },
   "CZ1003383": {
     "name": "Ladestation TS 1422 Semilská",
-    "sha1": "b46c5740a90e3c0a91292baec8af61849418fd04",
+    "sha1": "b5c8176272c361c142c2d2025d415f694ac78ce7",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 1422",
       "branch": "Parken",
@@ -7354,6 +7520,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7367,7 +7534,7 @@
   },
   "CZ1003384": {
     "name": "Ladestation TS 4763 Kapitána Stránského",
-    "sha1": "3b2eec4c5bcfafda1f1f5d2dfbfdca4ecc9b0ade",
+    "sha1": "6e3091c64cab23b656075e4cfc2f032a82a8a33d",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4763",
       "branch": "unbekannt",
@@ -7401,6 +7568,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7414,7 +7582,7 @@
   },
   "CZ1003390": {
     "name": "Ladestation Hotel Stages Praha I.",
-    "sha1": "c4e7ca4104c733bf553d66ba1e0412c91a38e747",
+    "sha1": "6341ae2e3c774b90155f3d67fce837822edc206c",
     "station": {
       "additionalInfo": "in der Garage des Hotel Stages",
       "branch": "Hotel",
@@ -7448,6 +7616,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7461,7 +7630,7 @@
   },
   "CZ1003410": {
     "name": "Ladestation TS 4762 Bryksova 1",
-    "sha1": "af1103d9f89d85c6cc58d1552fc190b41c128081",
+    "sha1": "2d17ae98c3207b06a072cb30621010deb8190d8f",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4762",
       "branch": "Parken",
@@ -7495,6 +7664,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7508,7 +7678,7 @@
   },
   "CZ1003439": {
     "name": "Ladestation TS 2453 Radomská",
-    "sha1": "d04969b8925b7288f4d62bb875c438dfd3e5e0b4",
+    "sha1": "e14dd95dae9b1e540dd509b8afd575a2e4f94678",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2453",
       "branch": "Parken",
@@ -7542,6 +7712,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7555,7 +7726,7 @@
   },
   "CZ1003449": {
     "name": "Schnellladestation Penny Market Újezd nad Lesy",
-    "sha1": "3569158f9ad05623a3f5f500c6e5d13970825bb2",
+    "sha1": "cfe787bcb26ce3c8e6a385346deb3baa4b905779",
     "station": {
       "branch": "Lebensmitteleinzelhandel",
       "chargingFacilities": {
@@ -7587,6 +7758,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7600,7 +7772,7 @@
   },
   "CZ1003469": {
     "name": "Ladestation Centrum Černý Most strecha 1",
-    "sha1": "8504c9d496393b8d403d1e50da2f7e9d2dfaea54",
+    "sha1": "a2b566b0424dcdc1813bf9fb277ac72a578fc342",
     "station": {
       "additionalInfo": "auf dem Dachparkplatz Centrum Cerný most",
       "branch": "Parken",
@@ -7634,6 +7806,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7647,7 +7820,7 @@
   },
   "CZ1003475": {
     "name": "Schnellladestation Kongresové centrum",
-    "sha1": "1adcb91cd6023ced384a8a7c3b3c700172e9bf5c",
+    "sha1": "b28139c869b1aa52229f82ebf761c8291d807572",
     "station": {
       "additionalInfo": "P+R Kongresové centrum Praha - Jih 1",
       "branch": "Parken",
@@ -7688,6 +7861,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7701,7 +7875,7 @@
   },
   "CZ1003509": {
     "name": "Ladestation Driving Range Rohanský Ostrov",
-    "sha1": "22c4eb5625d7ed6f36da3b269ab6bc36f9e48510",
+    "sha1": "b559c533a4f976670c13fd2479f4d9652b6f60d0",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -7733,6 +7907,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7746,7 +7921,7 @@
   },
   "CZ1003517": {
     "name": "Ladestation TS 2722 Šimůnkova",
-    "sha1": "22fc6b2af17a534bcfc2a4d998256033e569aefd",
+    "sha1": "8e6cad6fbbc318176b65d8d47522b05e8ea7a152",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2722",
       "branch": "Parken",
@@ -7780,6 +7955,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7793,7 +7969,7 @@
   },
   "CZ1003518": {
     "name": "Schnellladestation Siemensova ul. Praha",
-    "sha1": "1e0383ce1c831b2e28b3efd9aa027bde05a4ba0b",
+    "sha1": "3dd77af23562d629355899b0f8cea5ceeaeb6cee",
     "station": {
       "additionalInfo": "Die Ladestation befindet sich beim Siemens Bürogebäude",
       "branch": "Parken",
@@ -7827,6 +8003,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7840,7 +8017,7 @@
   },
   "CZ1003525": {
     "name": "Ladestation OC Westfield Chodov IV",
-    "sha1": "a3d1a105871a8b9805d233cded82d5625f99db92",
+    "sha1": "fbd92ce6fbf6fa517a1cd5d93fb2c2222224a157",
     "station": {
       "additionalInfo": "Auf den Dachparkplätzen des Westfield Chodov",
       "branch": "Parken",
@@ -7874,6 +8051,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7887,7 +8065,7 @@
   },
   "CZ1003526": {
     "name": "Ladestation OC Westfield Chodov III",
-    "sha1": "6c1551a7521cc1f8877deafc364252113531084d",
+    "sha1": "3c67ab543310cfb0290b6beba5ea355d5304165e",
     "station": {
       "additionalInfo": "Auf den Dachparkplätzen des Westfield Chodov",
       "branch": "Parken",
@@ -7921,6 +8099,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7934,7 +8113,7 @@
   },
   "CZ1003527": {
     "name": "Ladestation OC Westfield Chodov II",
-    "sha1": "c02f4ca1be9b47b0dbcaa44b2cc0e48f6faec826",
+    "sha1": "88f9ac228cccabffaebffeec8bbb02374c266d93",
     "station": {
       "additionalInfo": "Auf den Dachparkplätzen des Westfield Chodov",
       "branch": "Parken",
@@ -7968,6 +8147,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -7981,7 +8161,7 @@
   },
   "CZ1003530": {
     "name": "Ladestation Galerie Harfa II",
-    "sha1": "ed57f0a2127703bcc7d73e1ed8c37b3e76c6982b",
+    "sha1": "d2acc47fce20cfd9e91a368bf775b96fa6fb56f6",
     "station": {
       "additionalInfo": "In der Galerie Harfa Tiefgarage",
       "branch": "Parken",
@@ -8015,6 +8195,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8028,7 +8209,7 @@
   },
   "CZ1003547": {
     "name": "Ladestation TS 194 Národních Hrdinů",
-    "sha1": "5a0f48213852ab0eeac4ae62a8d77162b349b131",
+    "sha1": "d045fc87aebc583863f14065fd81c20c61499192",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 194",
       "branch": "Parken",
@@ -8062,6 +8243,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8075,7 +8257,7 @@
   },
   "CZ1003548": {
     "name": "Ladestation Železnobrodská",
-    "sha1": "c64834e5815d46da6e0c515899cc60e42dc8cb48",
+    "sha1": "b473181d7db60ff085619803c80e30fecc6966b4",
     "station": {
       "additionalInfo": "Neben dem Rathaus Prag 19",
       "branch": "Parken",
@@ -8109,6 +8291,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8122,7 +8305,7 @@
   },
   "CZ1003549": {
     "name": "Ladestation Skanska Reality Čtvrť Emila Kolbena",
-    "sha1": "37a864148c3e37f8fffe3a773a3fb09acbc621d2",
+    "sha1": "165791b1bd3d019885f277040ae8998fd7aec939",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -8154,6 +8337,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8167,7 +8351,7 @@
   },
   "CZ1003580": {
     "name": "Ladestation Do Zahrádek II.",
-    "sha1": "b7e21c7d2c5c5e7f2222aa75fe12f7718fa4ad74",
+    "sha1": "f9142ca21fa3c98baf023b05d58f91820ebb6e7c",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -8199,6 +8383,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8212,7 +8397,7 @@
   },
   "CZ1003589": {
     "name": "Ladestation TS 4780 Vybíralova",
-    "sha1": "ff8dd688dfbd0bb9530ea209a0010177fbc80c66",
+    "sha1": "0354a37a25009db83aa2ffd9e0268f81a9037d1a",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4780",
       "branch": "Parken",
@@ -8246,6 +8431,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8259,7 +8445,7 @@
   },
   "CZ1003595": {
     "name": "Ultra-Highspeed-Ladestation KFC Kačerov",
-    "sha1": "1f59fd4b5ea8dfafb8e0e8d7be0c82794872dc61",
+    "sha1": "aabbd02fb93834e299d97971cb2fdb335e7e518d",
     "station": {
       "branch": "Fast Food Restaurant",
       "chargingFacilities": {
@@ -8291,6 +8477,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8304,7 +8491,7 @@
   },
   "CZ1003596": {
     "name": "Ladestation Tenis Nad Hliníkem",
-    "sha1": "f35aa63c6839f6ca81a2012bc9d711d5bd4ec1e1",
+    "sha1": "29770d66494200563cfb851e92936921dd7c70f1",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -8336,6 +8523,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8349,7 +8537,7 @@
   },
   "CZ1003597": {
     "name": "Ladestation Nové Chabry",
-    "sha1": "241a40023b6de537cb412752b76ba440e535eaf3",
+    "sha1": "bf56ef956825bae7578fcb90e338c25fe7a4de37",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -8381,6 +8569,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8394,7 +8583,7 @@
   },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
-    "sha1": "5ec77bf41b5faca7b29600df145567c4f0c3f9ff",
+    "sha1": "ad145d20a0ffa6d7de69def183cdefab70868136",
     "station": {
       "additionalInfo": "In der Lucní Straße",
       "branch": "Parken",
@@ -8421,6 +8610,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8434,7 +8624,7 @@
   },
   "CZ2002614": {
     "name": "Schnellladestation OMV Příbram",
-    "sha1": "42bda0216b65c991c750d5faad8774de1616a25f",
+    "sha1": "6a0cc5daceb312844abe050815abb1404b71c34a",
     "station": {
       "additionalInfo": "Zugang von der Evropská Straße",
       "branch": "Parken",
@@ -8461,6 +8651,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8474,7 +8665,7 @@
   },
   "CZ2002620": {
     "name": "Ladestation Alza Říčany",
-    "sha1": "1d03e24f80a50e80875014541b3ba0fc9e68c9c3",
+    "sha1": "40f39dc124a586117347fc092a5b8865b7d470af",
     "station": {
       "additionalInfo": "Im oberen Teil des Parkplatzes OC Lihovar",
       "branch": "Parken",
@@ -8501,6 +8692,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8514,7 +8706,7 @@
   },
   "CZ2002640": {
     "name": "Ladestation VTP Roztoky",
-    "sha1": "9870c560111200b9db99233c246abfc2ba828aec",
+    "sha1": "1bb333721280bbb20b3a925a7b3afe7c5823e046",
     "station": {
       "additionalInfo": "Rechts am Eingang von der Borivojova Straße bei der Trafostation",
       "branch": "Parken",
@@ -8541,6 +8733,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8554,7 +8747,7 @@
   },
   "CZ2002670": {
     "name": "Ladestation OC Central Kladno",
-    "sha1": "26dd7c02cfcf7576cb1f685ac034c7b8e766549e",
+    "sha1": "28b397b62e24989eef142ec19ff922c577cfe734",
     "station": {
       "additionalInfo": "In den Garage des Einkaufszentrums",
       "branch": "Parken",
@@ -8581,6 +8774,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "isRoaming": false,
       "openingTimes": [
         {
           "from": "06:30",
@@ -8631,7 +8825,7 @@
   },
   "CZ2002685": {
     "name": "Schnellladestation Penny Beroun",
-    "sha1": "5f87ed30f440b179a98b69c34f204f6ee2c80326",
+    "sha1": "799fefa5b9c0c6d5da68eea495a1cfb2435475f5",
     "station": {
       "additionalInfo": "Parkplatz des Penny-Marktes",
       "branch": "Parken",
@@ -8665,6 +8859,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8678,7 +8873,7 @@
   },
   "CZ2002718": {
     "name": "Schnellladestation EuroOil Mladá Boleslav",
-    "sha1": "83027643e8b51e3070807b0349f6398acae0cd18",
+    "sha1": "5c2c01bf01d3e62713df9ab2327de18d25b6595b",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "Parken",
@@ -8705,6 +8900,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -8718,7 +8914,7 @@
   },
   "CZ2002721": {
     "name": "Schnellladestation EuroOil Břežany",
-    "sha1": "90c90eb3ac27140cc8561d2d1ffea344749f0834",
+    "sha1": "9ca131a2d1e0397486894367715516ee8d5f03db",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "Parken",
@@ -8757,6 +8953,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -8770,7 +8967,7 @@
   },
   "CZ2002725": {
     "name": "Schnellladestation Benzina Roudnice nad Labem",
-    "sha1": "c2259f149418bc9255aaa035218142854bf10c33",
+    "sha1": "22c9ed52c7d4d1206b9e97e6ab6f71f7e54dd31c",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "Parken",
@@ -8797,6 +8994,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8810,7 +9008,7 @@
   },
   "CZ2002729": {
     "name": "Ladestation Hotel SEN",
-    "sha1": "d69937e5e880e65dcdec001a7f3bb4f5b921b582",
+    "sha1": "a52290feff16448822ed1dc8e1361e72f4d0c0a9",
     "station": {
       "additionalInfo": "Beim Hotelparkplatz",
       "branch": "Parken",
@@ -8844,6 +9042,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8857,7 +9056,7 @@
   },
   "CZ2002806": {
     "name": "Schnellladestation OMV Kladno",
-    "sha1": "a9356b170a5150cbd6c10ae10c9b118521102ae9",
+    "sha1": "716ef930198e69280b48d341a93bd14c00080187",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -8884,6 +9083,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8897,7 +9097,7 @@
   },
   "CZ2002807": {
     "name": "Schnellladestation OMV Kolešov",
-    "sha1": "b4993fa213aaff37e1c6d929673b587082bc6f8e",
+    "sha1": "fa5a7c681b43c2104d8369a437d05a5a15161a46",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -8924,6 +9124,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "pre",
       "plugs": [
         {
@@ -8937,7 +9138,7 @@
   },
   "CZ2002815": {
     "name": "Schnellladestation OMV Benešov",
-    "sha1": "dfabe1cf5d7a8a8e62a0f0e17ac820029c11651f",
+    "sha1": "cd977f56dc863811172ff9c3fcda32517ba930a0",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -8964,6 +9165,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -8977,7 +9179,7 @@
   },
   "CZ2002887": {
     "name": "Schnellladestation EuroOil Nehvizdy",
-    "sha1": "1e238671ffde724f859d319dcda8b9e611f0bbf4",
+    "sha1": "942e667b19511a16ff5d09d977197896d9a7e06d",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -9011,6 +9213,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -9024,7 +9227,7 @@
   },
   "CZ2002899": {
     "name": "Schnellladestation Tuchlovice",
-    "sha1": "72d1b48e201fe777fc0c5ec6eef002973eea54ac",
+    "sha1": "e710ced7d67bba0d4b8971c8652d9e41cde33bb8",
     "station": {
       "additionalInfo": "Hinter der EuroOil Tankstelle",
       "branch": "Parken",
@@ -9051,6 +9254,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9064,7 +9268,7 @@
   },
   "CZ2002902": {
     "name": "Schnellladestation OMV D1 Naháč",
-    "sha1": "35e001d9570a936cc9eaf5eacfde8ef5bee4abf1",
+    "sha1": "7b45480ed1065baf01342a835111b4eb7928ee0e",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -9091,6 +9295,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9104,7 +9309,7 @@
   },
   "CZ2003096": {
     "name": "Schnellladestation OMV Vrbová Lhota (jih)",
-    "sha1": "8be71f695c7a63abc1db187724574725ee8bf359",
+    "sha1": "424c83071605c7c8252ad2edd1d04ab6df9a3dba",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -9138,6 +9343,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9151,7 +9357,7 @@
   },
   "CZ2003177": {
     "name": "Ladestation Mníšek parkoviště Pražská",
-    "sha1": "acd0f4acd8a9c378478c9685fecebd906b2ef7fb",
+    "sha1": "1aa00c12f63f54cba03f1f2ff42f4688a0a3db41",
     "station": {
       "additionalInfo": "P+R Mníšek pod Brdy",
       "branch": "Parken",
@@ -9185,6 +9391,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9198,7 +9405,7 @@
   },
   "CZ2003209": {
     "name": "Schnellladestation EuroOil Mníšek pod Brdy",
-    "sha1": "fb68cb8953777b2c4d5a297717d81c2628876746",
+    "sha1": "5a73630758dff5e678acb644039bb08438c90395",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -9232,6 +9439,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -9245,7 +9453,7 @@
   },
   "CZ2003385": {
     "name": "Ladestation Mníšek náměstí",
-    "sha1": "263e480f76418af2c9913c53ed15bce55ae7daa3",
+    "sha1": "fbaa1855e1fa115e74ddb8b0000513b27dbfd339",
     "station": {
       "additionalInfo": "Beim Parkplatz am Hauptplatz Mníšek pod Brdy",
       "branch": "Parken",
@@ -9279,6 +9487,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9292,7 +9501,7 @@
   },
   "CZ2003395": {
     "name": "Schnellladestation OMV Kolín",
-    "sha1": "2a356c7e3a471a9af056a72aee3b391558defe4b",
+    "sha1": "320dd526d3c3cad07db74642efe49623ebdae702",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -9326,6 +9535,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9339,7 +9549,7 @@
   },
   "CZ2003400": {
     "name": "Schnellladestation Benica Benešov",
-    "sha1": "53bf507e46fb692a06ee839979a7727a58d85100",
+    "sha1": "da7217ccb1414cbc0a2231ec05ea6422472d10b6",
     "station": {
       "additionalInfo": "Neben dem Hotel Benica",
       "branch": "Hotel",
@@ -9373,6 +9583,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9386,7 +9597,7 @@
   },
   "CZ2003418": {
     "name": "Schnellladestation EuroOil Kozojedy",
-    "sha1": "cd235fff5de69acf8db44d35e64dffe021bec98b",
+    "sha1": "86e39fd7a47026e819aab11ba7c48a5c0cc8d93b",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -9420,6 +9631,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -9433,7 +9645,7 @@
   },
   "CZ2003514": {
     "name": "Schnellladestation OMV Vrbová Lhota (sever)",
-    "sha1": "1da11e0b501a45ee918a8eff34f9e1c8ece7d5b9",
+    "sha1": "6e772756cd22d6e6556ed1527dfe37b761c8a58e",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -9467,6 +9679,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9480,7 +9693,7 @@
   },
   "CZ2003594": {
     "name": "Ladestation Monínec",
-    "sha1": "383fbf4a38e611b568c9ab49cbea61b75590c0fe",
+    "sha1": "30aff82c4322398409dc706c7c0d32ce0171e800",
     "station": {
       "branch": "Hotel",
       "chargingFacilities": {
@@ -9512,6 +9725,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9523,9 +9737,103 @@
       "street": "Monínec 7"
     }
   },
+  "CZ2003608": {
+    "name": "Ladestation Zámek Průhonice parkoviště",
+    "sha1": "194d10e821d7a2d511142357d96d89450c2ac867",
+    "station": {
+      "additionalInfo": "Neben dem Schloss Průhonice",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Průhonice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2003608",
+      "csName": "Ladestation Zámek Průhonice parkoviště",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to Průhonice castle",
+      "enCsname": "Charger Zámek Průhonice parkoviště",
+      "evseId": "CZ*PRE*E1S8081*2",
+      "geoCoord": {
+        "latitude": "50.001346",
+        "longitude": "14.559375"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_zamek_pruhonice.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "25243",
+      "region": "Středočeský kraj",
+      "street": "Hlavní"
+    }
+  },
+  "CZ2003609": {
+    "name": "Ladestation Říčany - pivovar",
+    "sha1": "c1ca6a0be59fb44fc67011cfa7a205364d53380e",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Říčany",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2003609",
+      "csName": "Ladestation Říčany - pivovar",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Říčany - pivovar",
+      "evseId": "CZ*PRE*E1S8088*2",
+      "geoCoord": {
+        "latitude": "49.991375",
+        "longitude": "14.660421"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ricany_-_pivovar.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "25101",
+      "region": "Středočeský kraj",
+      "street": "Olivova"
+    }
+  },
   "CZ3102615": {
     "name": "Schnellladestation EuroOil Sedlice",
-    "sha1": "412d13683678cbd4f7f8d2e7fabe6b4a5dc09727",
+    "sha1": "af2d76f10f05deb23bde446ee19df2eecb132d32",
     "station": {
       "additionalInfo": "Zugang von der Palackého Straße",
       "branch": "Parken",
@@ -9552,6 +9860,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -9565,7 +9874,7 @@
   },
   "CZ3102626": {
     "name": "Ladestation Alza České Budějovice",
-    "sha1": "a786e61725dc782b40d782b03cc405ce82c21f6d",
+    "sha1": "efbc30ffa562a7ab5cb30c0b1558a344bb312319",
     "station": {
       "additionalInfo": "Von der Straße Plzenská",
       "branch": "Parken",
@@ -9592,6 +9901,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9605,7 +9915,7 @@
   },
   "CZ3102728": {
     "name": "Ladestation Galerie Písek",
-    "sha1": "b95bcf95b1318f32e1409f0caec42cebfc2849f5",
+    "sha1": "f64d2a37ab759ba8cb8d9023bb42d342aa2ff9e2",
     "station": {
       "additionalInfo": "In der Garage des Zentrums",
       "branch": "Parken",
@@ -9632,6 +9942,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9645,7 +9956,7 @@
   },
   "CZ3102741": {
     "name": "Schnellladestation EuroOil České Budějovice",
-    "sha1": "28060a3273107bd337010d9becefc8be0a30e646",
+    "sha1": "ede8895da217f4b8dbc3a1db63686993aa239f3b",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -9672,6 +9983,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -9685,7 +9997,7 @@
   },
   "CZ3102742": {
     "name": "Schnellladestation OMV Litvínovice",
-    "sha1": "7273c4321410733418ac974d2a885e767d920611",
+    "sha1": "bb77ed1873e9ea08103fda1266c324cbc6137ebc",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -9712,6 +10024,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9725,7 +10038,7 @@
   },
   "CZ3102814": {
     "name": "Schnellladestation Benzina Řípec",
-    "sha1": "298dd4992618a085c73e1462da3d6a6a3d590269",
+    "sha1": "fffc96bd027ba06649f8b3046c6ec2f6a623e6da",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "unbekannt",
@@ -9752,6 +10065,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9765,7 +10079,7 @@
   },
   "CZ3102889": {
     "name": "Schnellladestation EuroOil Tábor",
-    "sha1": "d978cfe2cbc619d1063d36763a547e81e7b88e9b",
+    "sha1": "dac6d2594b7f499fa0a960ac57b41a0e3e1807dd",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -9792,6 +10106,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -9805,7 +10120,7 @@
   },
   "CZ3103217": {
     "name": "Schnellladestation OMV Český Krumlov",
-    "sha1": "b0ef0372f6fdca1e80e5429c9d3373790f54105e",
+    "sha1": "ae2d8d673a44bed060b2c0099ee01850227c22ac",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -9839,6 +10154,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9852,7 +10168,7 @@
   },
   "CZ3103470": {
     "name": "Schnellladestation EuroOil Jindřichův Hradec",
-    "sha1": "88cf2fdeb7aa4a0bcfed830f249dc74087198988",
+    "sha1": "3b5db471da968afbcd62b63016bd2213ce78c632",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -9886,6 +10202,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -9899,7 +10216,7 @@
   },
   "CZ3103503": {
     "name": "Schnellladestation Penny Market Strakonice",
-    "sha1": "57bbc76524af8aa7cb6b20a31b5520df3a0ee049",
+    "sha1": "0afead7cb1a34a4ae89a7fd9d06d8cce85aa4755",
     "station": {
       "additionalInfo": "Beim Penny Markt",
       "branch": "Einzelhandel",
@@ -9933,6 +10250,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9946,7 +10264,7 @@
   },
   "CZ3202594": {
     "name": "Ladestation Easy Hotel Plzeň",
-    "sha1": "b08799d44e22d2c2ab36e2fa591b61bb0612d232",
+    "sha1": "6130cb8c3cd50c0447651a07e6dc9e4a121f9f7c",
     "station": {
       "additionalInfo": "Von der Straße U Prazdroje zu den Garagen des Easy Hotels",
       "branch": "Parken",
@@ -9973,6 +10291,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9986,7 +10305,7 @@
   },
   "CZ3202719": {
     "name": "Schnellladestation OMV Přeštice",
-    "sha1": "ba265f2f1e9d5cc44efd986358e8b7b96529e401",
+    "sha1": "93a0150dacb23fe48325174dac56ce5f47787929",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "Parken",
@@ -10013,6 +10332,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -10026,7 +10346,7 @@
   },
   "CZ3202743": {
     "name": "Schnellladestation OMV Nýrsko",
-    "sha1": "4bdfe2dbaa2270072dc152d497f8e7810bf0ef47",
+    "sha1": "b2557d142c4528d05e1228085cf73411c743f707",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -10053,6 +10373,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -10066,7 +10387,7 @@
   },
   "CZ3202877": {
     "name": "Schnellladestation Rentiro SE 2",
-    "sha1": "0c547ec7686ae1bb0489d095de173bfa53aca8f4",
+    "sha1": "89b5ac0b5062fff990e93b26443af7553b1f0fab",
     "station": {
       "additionalInfo": "Bei der Rentiro Zentrale",
       "branch": "Parken",
@@ -10100,6 +10421,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -10113,7 +10435,7 @@
   },
   "CZ3202886": {
     "name": "Ladestation Rentiro SE 1",
-    "sha1": "54a8550391adbbbcf2a0be60be98fb9588b85cd9",
+    "sha1": "f26959c057547723b32f5fe6219c79fdb2baff82",
     "station": {
       "additionalInfo": "Bei der Rentiro Zentrale",
       "branch": "Parken",
@@ -10147,6 +10469,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -10160,7 +10483,7 @@
   },
   "CZ3202905": {
     "name": "Schnellladestation EuroOil Manětín",
-    "sha1": "81cee48a835bc0aa2c227c5742c2f3eb9c2f8e92",
+    "sha1": "6dd19a3b5f93dce191bbc403bb61cddd3e3fd629",
     "station": {
       "additionalInfo": "Die Ladestation befindet bei der EuroOil-Tankstelle.",
       "branch": "Tankstelle",
@@ -10187,6 +10510,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -10200,7 +10524,7 @@
   },
   "CZ3202999": {
     "name": "Schnellladestation OMV Plzeň Skvrňany",
-    "sha1": "d2178fd04b056078ae27df355a300b5c8878d859",
+    "sha1": "f533f1da03955feb3877e4f35631b52f99b62ff1",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -10234,6 +10558,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -10247,7 +10572,7 @@
   },
   "CZ3203241": {
     "name": "Ladestation ČSOB Plzeň",
-    "sha1": "9f629555ccd889970d06c70f766c3481bfe81c81",
+    "sha1": "fb5b8fc660b6fa05050d09d0747e2c3a64c272d0",
     "station": {
       "additionalInfo": "Dobíjecí stanice je přístupná pouze zákazníkům ČSOB s platným povolením vjezdu",
       "branch": "Parken",
@@ -10274,6 +10599,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČSOB",
       "plugs": [
         {
@@ -10287,7 +10613,7 @@
   },
   "CZ3203513": {
     "name": "Schnellladestation OMV Pozorka",
-    "sha1": "627f0fbdba6973355f02b7ae264ac1f08a063c4d",
+    "sha1": "99d42195d2ca5986ab13e4574aba0cb573d62e58",
     "station": {
       "branch": "Tankstelle",
       "chargingFacilities": {
@@ -10312,6 +10638,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -10325,7 +10652,7 @@
   },
   "CZ4102727": {
     "name": "Ladestation Hotel Esplanade",
-    "sha1": "fda8393836ce90f5c0be8c56dee11075a2b18837",
+    "sha1": "c0eb431f287f6520cadac86b03b0096109bcc2b8",
     "station": {
       "additionalInfo": "In der Hotelgarage",
       "branch": "Parken",
@@ -10352,6 +10679,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -10365,7 +10693,7 @@
   },
   "CZ4102732": {
     "name": "Schnellladestation OMV Mariánské Lázně",
-    "sha1": "4dbf8b130e9c082e32aea85e403da9c062ad9e56",
+    "sha1": "cfd5670f44e2e05cb8af81bb23ed5dcc252d47f5",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -10399,6 +10727,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -10412,7 +10741,7 @@
   },
   "CZ4102792": {
     "name": "Ladestation Hotel Agricola",
-    "sha1": "ea7746af050e04a966b1f92ae46fe716524342de",
+    "sha1": "aacba940fe901681bc256845eb98ca2249a51944",
     "station": {
       "additionalInfo": "In der Garage des Hotels",
       "branch": "Hotel",
@@ -10439,6 +10768,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -10452,7 +10782,7 @@
   },
   "CZ4103498": {
     "name": "Schnellladestation OMV Sokolov",
-    "sha1": "1ba8931138521577284ecf48c947333d364ddf4f",
+    "sha1": "b226c5969a6fc005b48d6f566838ab4078d4b2ff",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -10486,6 +10816,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -10499,7 +10830,7 @@
   },
   "CZ4202612": {
     "name": "Schnellladestation EuroOil Varnsdorf",
-    "sha1": "5ebcf1341c7ac7dab48c31a16e6cbb4464b7f3cf",
+    "sha1": "76dcd4ab960a5d05e15baaa300693ed16baff876",
     "station": {
       "additionalInfo": "Von der Plzenská Straße",
       "branch": "Parken",
@@ -10526,6 +10857,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -10539,7 +10871,7 @@
   },
   "CZ4202720": {
     "name": "Schnellladestation EuroOil Duchcov",
-    "sha1": "e91aca8ded869d3cefc63898ad72f4a74a90d98d",
+    "sha1": "c0ae5bbf5a70bfd594d163d185268629b864e290",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "Parken",
@@ -10566,6 +10898,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -10579,7 +10912,7 @@
   },
   "CZ4202722": {
     "name": "Schnellladestation EuroOil Kadaň",
-    "sha1": "bf81c7bffbb57961147b3083e3112379daf134a1",
+    "sha1": "c7acb9ac03dbed6eeac630e29e5518b1d75d88a4",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "Parken",
@@ -10606,6 +10939,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -10619,7 +10953,7 @@
   },
   "CZ4202733": {
     "name": "Schnellladestation Benzina Most (jih)",
-    "sha1": "d0de194d1d0b17d016dcb43ad4ba8262cc571b9b",
+    "sha1": "1ac890174f2b101d4cdcb335d5fbfaa9f0c33dcd",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -10646,6 +10980,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -10659,7 +10994,7 @@
   },
   "CZ4202734": {
     "name": "Schnellladestation Benzina Most (sever)",
-    "sha1": "8da5ae25c4d9301e61e8752a58350556f963de1a",
+    "sha1": "22c2f08c32103d592d82511216781c0a73af391b",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -10686,6 +11021,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -10699,7 +11035,7 @@
   },
   "CZ4202801": {
     "name": "Schnellladestation EuroOil Děčín",
-    "sha1": "c2357be4c31d9482b304cb2f1bbb9fa60ea34d1c",
+    "sha1": "111c3f99ba9492cf76b17be3c4cb51502ebb9dc5",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -10726,6 +11062,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -10739,7 +11076,7 @@
   },
   "CZ4202803": {
     "name": "Schnellladestation Benzina Ústí nad Labem",
-    "sha1": "e962ede86f916916f614f3ed0ed5728e62cc608d",
+    "sha1": "d9f66d29f7c7ea23f9cd2b2848e0e6530c512680",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -10773,6 +11110,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -10786,7 +11124,7 @@
   },
   "CZ4202808": {
     "name": "Schnellladestation Benzina Chomutov",
-    "sha1": "d4e559569a132f766a2b7f1eddee6682aaac9053",
+    "sha1": "eddb06e401093290e5efc136020077c8568faaa2",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -10813,6 +11151,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -10826,7 +11165,7 @@
   },
   "CZ4202809": {
     "name": "Schnellladestation EuroOil Všebořice",
-    "sha1": "4e0ba9b158d1ee9b1d41137c80f3bbadd59152ed",
+    "sha1": "a23624611430cdfca8ee5edd0e0189a167883d62",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "unbekannt",
@@ -10853,6 +11192,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -10866,7 +11206,7 @@
   },
   "CZ4202810": {
     "name": "Schnellladestation EuroOil Litoměřice",
-    "sha1": "698e7dc5c694cc29add69bb2a4230a45e0e089d7",
+    "sha1": "9157cab1fabf0423919b3a0d335e7249018c862e",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -10893,6 +11233,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -10906,7 +11247,7 @@
   },
   "CZ4203002": {
     "name": "Schnellladestation EuroOil Louny",
-    "sha1": "0f36132099c8e68a4a301a01d1d3159abf2d083c",
+    "sha1": "f8bb89e5f1cabede71697eaf52aa9c986b228a74",
     "station": {
       "additionalInfo": "Neben der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -10940,6 +11281,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -10953,7 +11295,7 @@
   },
   "CZ4203055": {
     "name": "Schnellladestation Benzina Úštěk",
-    "sha1": "9dc6f413b6f90698756565e92803c4dba5019de9",
+    "sha1": "dcaf654eb9ce58c395e877356d31e31f8252523c",
     "station": {
       "additionalInfo": "Bei der Benzina Tankstelle",
       "branch": "Tankstelle",
@@ -10980,6 +11322,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -10993,7 +11336,7 @@
   },
   "CZ4203153": {
     "name": "Schnellladestation Penny Market Teplice",
-    "sha1": "ca2790f6c6b999a5b20ef864f5b16b9f1818c47e",
+    "sha1": "15a829333408f677ed3ab5135fe10bab58efe893",
     "station": {
       "additionalInfo": "Beim Penny Markt",
       "branch": "Einzelhandel",
@@ -11027,6 +11370,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -11040,7 +11384,7 @@
   },
   "CZ4203193": {
     "name": "Ladestation Alza Chomutov",
-    "sha1": "45f918943acb674a80694a92cee14ddcfb1e55e9",
+    "sha1": "e7d0557487c19f59c0b3879c8286d09872520e0a",
     "station": {
       "additionalInfo": "Auf dem Parkplatz neben Alza Chomutov",
       "branch": "Parken",
@@ -11074,6 +11418,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -11087,7 +11432,7 @@
   },
   "CZ5102596": {
     "name": "Schnellladestation Česká Lípa Fehrer",
-    "sha1": "64dbdd4d85f9efb7c48a61b321b360bb6b929fc5",
+    "sha1": "e842f7b48f8c64216e344ad6b70cb50a05fc8c8e",
     "station": {
       "additionalInfo": "Auf dem Parkplatz vor dem Areal Fehrer.",
       "branch": "Parken",
@@ -11114,6 +11459,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -11127,7 +11473,7 @@
   },
   "CZ5102669": {
     "name": "Ladestation OC Central Jablonec",
-    "sha1": "37bca7b5f186062744759a5c29da6d300fe2c4f8",
+    "sha1": "5065cf542073e60ebf3cf4370ba64a674723050c",
     "station": {
       "additionalInfo": "Direkt nach der Garageneinfahrt vom OC Central Jablonec",
       "branch": "Parken",
@@ -11161,6 +11507,7 @@
       ],
       "isOpen24Hours": "false",
       "isPartnerCs": false,
+      "isRoaming": false,
       "openingTimes": [
         {
           "from": "07:00",
@@ -11211,7 +11558,7 @@
   },
   "CZ5102724": {
     "name": "Schnellladestation EuroOil Jablonec nad Nisou",
-    "sha1": "3ad40ec766f4d74578c06ad8eea3908265b0b05f",
+    "sha1": "d02d55792e372ade5af5b2dcdf0a420ca3ba6f7e",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "Parken",
@@ -11238,6 +11585,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -11251,7 +11599,7 @@
   },
   "CZ5102802": {
     "name": "Schnellladestation P4 Plaza Liberec",
-    "sha1": "7105f3538bd90a2814038941d3c6c0b66b5dc5d0",
+    "sha1": "eebac16a21f9f3b5c35197e07f979dde33cda459",
     "station": {
       "additionalInfo": "In der Garage des Einkaufzentrums",
       "branch": "Parken",
@@ -11278,6 +11626,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -11291,7 +11640,7 @@
   },
   "CZ5103510": {
     "name": "Schnellladestation EuroOil Chrastava",
-    "sha1": "02ec8691eccf45c8f9bf6d6b66200bc581a6aa1e",
+    "sha1": "cdb1439b07eb9a0e12c2cf85390285c3cb329fd0",
     "station": {
       "branch": "Tankstelle",
       "chargingFacilities": {
@@ -11323,6 +11672,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -11336,7 +11686,7 @@
   },
   "CZ5202735": {
     "name": "Schnellladestation EuroOil Horní Nová Ves",
-    "sha1": "4c1ea5d160a0127140dff0430d279d7fa9828260",
+    "sha1": "82b707a87a8eb1cf957cd706c3d34380baaff626",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -11370,6 +11720,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -11383,7 +11734,7 @@
   },
   "CZ5202830": {
     "name": "Schnellladestation Office Space Trutnov",
-    "sha1": "e8738dc5cfadd410ce5e1f2f143f175406b8ee06",
+    "sha1": "4ef273ba55ccfcddb9962b7e37d1ad115fabd33e",
     "station": {
       "additionalInfo": "Bei der Komerční Banka",
       "branch": "Parken",
@@ -11410,6 +11761,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -11423,7 +11775,7 @@
   },
   "CZ5202997": {
     "name": "Schnellladestation EuroOil Jičín",
-    "sha1": "0430c1194cef5ffc74a3c9255a718e8f6f3533a3",
+    "sha1": "5d5670060543be16d08b8da76797c3c294b95029",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -11450,6 +11802,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -11463,7 +11816,7 @@
   },
   "CZ5203016": {
     "name": "Schnellladestation EuroOil Hronov",
-    "sha1": "f738f8261aacb8f48cd21b2e41acc526efd62151",
+    "sha1": "e60b66bd9fc50693d80b7494662b60b3f1b18081",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -11490,6 +11843,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -11503,7 +11857,7 @@
   },
   "CZ5203091": {
     "name": "Schnellladestation OMV Hradec Králové (sever)",
-    "sha1": "2812a3e72b48695c73d0d66db61d7eee4557f758",
+    "sha1": "c8c7dc645bdb8ab45de2b783a0da8b7052834302",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -11537,6 +11891,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -11550,7 +11905,7 @@
   },
   "CZ5203506": {
     "name": "Schnellladestation EuroOil Žacléř",
-    "sha1": "7635d75e26abdd18e2e6e123ca71b93e467ad608",
+    "sha1": "a04ab79ae8d9218b0f22833229600e1d8d3b742f",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -11584,6 +11939,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -11597,7 +11953,7 @@
   },
   "CZ5203579": {
     "name": "Schnellladestation EuroOil Deštné",
-    "sha1": "418373544a8c23d3ef4b3b784297e8620550a078",
+    "sha1": "d028c61324c2ae6334a6265f5a35a412139ff2f6",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -11631,6 +11987,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -11644,7 +12001,7 @@
   },
   "CZ5302630": {
     "name": "Ladestation Alza Pardubice",
-    "sha1": "96e0607153754ee2efe33bc9932a80df263687cf",
+    "sha1": "5a6817fee6695a2388f95d02fcdc93c7d6204e7a",
     "station": {
       "additionalInfo": "Vor dem Alza-Geschäft",
       "branch": "Parken",
@@ -11671,6 +12028,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -11684,7 +12042,7 @@
   },
   "CZ5302868": {
     "name": "Schnellladestation OMV Moravská Třebová",
-    "sha1": "9109fc67456db21fb20286ebffb19f38ea0d4ab2",
+    "sha1": "2b7c751ffc60a480adf257b7d807adcb3a4dc9e1",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -11711,6 +12069,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -11724,7 +12083,7 @@
   },
   "CZ5302890": {
     "name": "Schnellladestation OMV Česká Třebová",
-    "sha1": "f19503a5246e1d0716a4c5712f82d0f11a22e65a",
+    "sha1": "5431f4d7e7658c59252513c82af8ab3ee6246f80",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -11751,6 +12110,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -11764,7 +12124,7 @@
   },
   "CZ5302904": {
     "name": "Schnellladestation EuroOil Pardubice",
-    "sha1": "98bfcd5269789b58b092940427f855c6c2a7f98e",
+    "sha1": "ea1e4422b9498508f47d955f906a6be75bb5099e",
     "station": {
       "branch": "Tankstelle",
       "chargingFacilities": {
@@ -11798,6 +12158,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -11811,7 +12172,7 @@
   },
   "CZ5303472": {
     "name": "Schnellladestation OMV Pardubice",
-    "sha1": "38c18dfc6120218c4ce39ba0d2afba55f12b012a",
+    "sha1": "7c4c507fbd13353ebe18d2e7749d0f26b66f5de6",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -11845,6 +12206,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -11858,7 +12220,7 @@
   },
   "CZ5303546": {
     "name": "Ladestation Hotel Kraskov",
-    "sha1": "22125be4ae72620b55ae1c302863b5169f6b48e9",
+    "sha1": "6fcad7f2710b82b6b7f1ad4872fd64858dddd541",
     "station": {
       "branch": "Hotel",
       "chargingFacilities": {
@@ -11890,6 +12252,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -11903,7 +12266,7 @@
   },
   "CZ6302813": {
     "name": "Schnellladestation OMV Jihlava",
-    "sha1": "0a62cb26c2d7ff6da6f537d187a3cb2c81a4f91d",
+    "sha1": "6d43bc4d51b09094f09eb1a7c2b039aa99626f25",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -11930,6 +12293,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -11943,7 +12307,7 @@
   },
   "CZ6302821": {
     "name": "Schnellladestation OMV Havlíčkův Brod",
-    "sha1": "f6437ddcac66ab95b2a2dba1942d40bdb9a01e25",
+    "sha1": "7aed8f0bc7c2a9507a8c815e99c1267d71b00b66",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -11970,6 +12334,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -11983,7 +12348,7 @@
   },
   "CZ6303078": {
     "name": "Schnellladestation EuroOil Jihlava",
-    "sha1": "70f1b866a6a2816b431edbfacd36dc8073430d14",
+    "sha1": "93f818621cc010c7b8758db770db65f0863cf870",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -12017,6 +12382,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -12030,7 +12396,7 @@
   },
   "CZ6303484": {
     "name": "Schnellladestation OMV Mikulášov",
-    "sha1": "d88efc18cf93f3eaf5d5db2bdabf814696c00c6b",
+    "sha1": "c77dd8d3cdcb6b827c859cf2c3822b09c6e8613c",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -12064,6 +12430,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12077,7 +12444,7 @@
   },
   "CZ6402613": {
     "name": "Schnellladestation OMV Hodonín",
-    "sha1": "cdee04c6ec4b44ee2761f9d89178f1b48a3e21bb",
+    "sha1": "a71ced24b56bca31d518c135ee1c9ef90a54a025",
     "station": {
       "additionalInfo": "Am Kreisverkehr zur Dvorákova Straße",
       "branch": "Parken",
@@ -12104,6 +12471,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12117,7 +12485,7 @@
   },
   "CZ6402625": {
     "name": "Ladestation IKEA Brno",
-    "sha1": "a4aeb96f412f904ea9b736c156bd2f5a3885c295",
+    "sha1": "18c5a8f359a06a550734de50882c7b68a3494d15",
     "station": {
       "additionalInfo": "Parkplatz AVION SP Brno, unter der Werbetafel.",
       "branch": "Parken",
@@ -12144,6 +12512,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12157,7 +12526,7 @@
   },
   "CZ6402643": {
     "name": "Ladestation Alza Brno",
-    "sha1": "0d8f7915eabd6d6f628f3c236441f3f26a7fb989",
+    "sha1": "8de8c37ceea63c868f0817672cc2e3b6c6cf7499",
     "station": {
       "additionalInfo": "Parkplatz von Alza.cz",
       "branch": "Parken",
@@ -12184,6 +12553,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12197,7 +12567,7 @@
   },
   "CZ6402684": {
     "name": "Ultra-Highspeed-Ladestation Brno EnergServis",
-    "sha1": "bbffd7d74c918979066bdeb87a1e9466b69a0e1d",
+    "sha1": "470a17e540bcd0259f846c2866de7b4d2b5400d4",
     "station": {
       "additionalInfo": "Zugang von dem Areal STK Slatina",
       "branch": "Parken",
@@ -12224,6 +12594,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12237,7 +12608,7 @@
   },
   "CZ6402723": {
     "name": "Schnellladestation OMV Modřice",
-    "sha1": "cca52deefdef225e36d21ba84aa9113156472d76",
+    "sha1": "8f1a0266f07b5fb2df0462667f12198455d59ffc",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "Parken",
@@ -12264,6 +12635,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12277,7 +12649,7 @@
   },
   "CZ6402853": {
     "name": "Schnellladestation OMV Dyjákovičky",
-    "sha1": "6b6c2ebc0d1be6c7017b41c028cb1ebdf73c67ac",
+    "sha1": "07f648147f83af09c88ed2af83e70c0c5051a2f3",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -12304,6 +12676,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12317,7 +12690,7 @@
   },
   "CZ6402888": {
     "name": "Schnellladestation OMV Brno Tuřany",
-    "sha1": "f442782afa35ea620952f15446f850d70e953d9a",
+    "sha1": "0a0894925c379dad2919e5fdde0db32d45803d49",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -12344,6 +12717,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12357,7 +12731,7 @@
   },
   "CZ6402898": {
     "name": "Schnellladestation OMV Vyškov",
-    "sha1": "d3f8fbc734650d0118ecad29ab9903107b083296",
+    "sha1": "e184a77685cc229864abd17fc1736da1e4bf3e08",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -12384,6 +12758,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12397,7 +12772,7 @@
   },
   "CZ6403000": {
     "name": "Schnellladestation OMV Rohlenka",
-    "sha1": "2666aa50887a1171059156dc9acb8834f3224da6",
+    "sha1": "97f0b81d75c4f378b57f131d8c6909edaf1dfae2",
     "station": {
       "additionalInfo": "Hinter der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -12424,6 +12799,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12437,7 +12813,7 @@
   },
   "CZ6403085": {
     "name": "Schnellladestation EuroOil Brno Lesná",
-    "sha1": "7de27bbd184ec31737d3b1af3401b7636374fdd4",
+    "sha1": "0918eaa3e0c2f2fa252df9c5d7d2083326aaed04",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -12471,6 +12847,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -12484,7 +12861,7 @@
   },
   "CZ6403105": {
     "name": "Schnellladestation OMV Lužice",
-    "sha1": "71fb6f9dca22273e45cc86c67082c91da9ce4e83",
+    "sha1": "5ba7a6d8a6732c543511e902eeab38f8f126cf23",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -12518,6 +12895,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12531,7 +12909,7 @@
   },
   "CZ6403163": {
     "name": "Schnellladestation Benzina Mramotice",
-    "sha1": "fed1dfb3fdda52f353f2525b296c777b1156b746",
+    "sha1": "83486d68b28b3f091d2e8b4572eac36ce99d90da",
     "station": {
       "additionalInfo": "Bei der Benzina Tankstelle",
       "branch": "Tankstelle",
@@ -12558,6 +12936,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12571,7 +12950,7 @@
   },
   "CZ6403401": {
     "name": "Schnellladestation Benzina Lipůvka",
-    "sha1": "3f2c67897e7693ef793ec009786ccb7e5039c15c",
+    "sha1": "005519dfa00e461977400aa2dafab67596a2b7c7",
     "station": {
       "additionalInfo": "Bei der Benzina Tankstelle",
       "branch": "Tankstelle",
@@ -12605,6 +12984,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12618,7 +12998,7 @@
   },
   "CZ6403417": {
     "name": "Schnellladestation OMV Brno Černovice",
-    "sha1": "dcbf21a7a135ac870400e71c52c7b0daf6572861",
+    "sha1": "e8e9cff3d8604ab8c1b9207c1aba60a2fd42ff60",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -12652,6 +13032,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12665,7 +13046,7 @@
   },
   "CZ7102740": {
     "name": "Schnellladestation OMV Prostějov",
-    "sha1": "78916d1261e586a42f0eada7f0aa9627736b146e",
+    "sha1": "989675a24bec51845be7f74252bbcabf6beb155d",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -12692,6 +13073,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12705,7 +13087,7 @@
   },
   "CZ7102812": {
     "name": "Schnellladestation OMV Olomouc",
-    "sha1": "004ace5a7ef52dede00bf8bcc5dc94888e903fa6",
+    "sha1": "472a76b1da188cdeefc7140d481f03258cc3e4ef",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -12732,6 +13114,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12745,7 +13128,7 @@
   },
   "CZ7103001": {
     "name": "Schnellladestation EuroOil Šumperk",
-    "sha1": "05604d164ef1bbf3d9ca1959805023e3c0e32235",
+    "sha1": "f50b3aa27f7432bf6cd2f1a79ccb704003ef695b",
     "station": {
       "additionalInfo": "Neben der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -12772,6 +13155,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -12785,7 +13169,7 @@
   },
   "CZ7103194": {
     "name": "Schnellladestation EuroOil Zlaté Hory",
-    "sha1": "719da6b1eb0232f5813894d55fc62a6685585b39",
+    "sha1": "463a55ea675d10490ac25ee5bcf6fb71376ebb5a",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -12819,6 +13203,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -12832,7 +13217,7 @@
   },
   "CZ7103451": {
     "name": "Ladestation Centrum Moravia Mercedes 1",
-    "sha1": "e817e30973b71423a0dfc195dcae9f94c64490b5",
+    "sha1": "c6b376be80132f0411b3c041b987fd70f5b696c1",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -12864,6 +13249,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12877,7 +13263,7 @@
   },
   "CZ7202811": {
     "name": "Schnellladestation OMV Rožnov pod Radhoštěm",
-    "sha1": "93f5ed192270ad9befdbaefbe36ee536cdd39dc1",
+    "sha1": "e5b2864644e1f9b5cdf7cef13b3444188b028c65",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -12904,6 +13290,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12917,7 +13304,7 @@
   },
   "CZ7202822": {
     "name": "Schnellladestation OMV Uherské Hradiště",
-    "sha1": "85b76b7bd3053c8ad5a1a8f6de356e6f249390ae",
+    "sha1": "1b3b94e08c263c05febfcabf386c4cf02724930f",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -12944,6 +13331,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -12957,7 +13345,7 @@
   },
   "CZ7202900": {
     "name": "Schnellladestation EuroOil Vsetín",
-    "sha1": "3e261be3e30ae94444a17208e2b8652f3f45a69c",
+    "sha1": "f84722f392ad784ac2397881531ebb6e82df3475",
     "station": {
       "additionalInfo": "By the EuroOil gas station",
       "branch": "Tankstelle",
@@ -12984,6 +13372,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -12997,7 +13386,7 @@
   },
   "CZ7202998": {
     "name": "Schnellladestation Penny Market Kroměříž",
-    "sha1": "b140e98f9d22300249328936788e07f48a7913bd",
+    "sha1": "054ae0b4419a77baf56c758135ac992cb2d8a798",
     "station": {
       "additionalInfo": "Neben dem Penny Markt",
       "branch": "Parken",
@@ -13031,6 +13420,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -13044,7 +13434,7 @@
   },
   "CZ7203184": {
     "name": "Schnellladestation EuroOil Napajedla",
-    "sha1": "3b17c3bafbe54a3730563a8fcfcd27c9f2ca30b3",
+    "sha1": "c3fb8ee216cb12eebcd4b93c22767fd9ea49f37f",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -13078,6 +13468,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -13091,7 +13482,7 @@
   },
   "CZ8002602": {
     "name": "Schnellladestation Mercedes Ostrava",
-    "sha1": "abee6f78e3ff715b1025019f15912c48e01ab676",
+    "sha1": "d5734935f29800e5e9a0afad468a1a75812f9858",
     "station": {
       "additionalInfo": "Parkplatz AVION SP Ostrava.",
       "branch": "Parken",
@@ -13118,6 +13509,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -13131,7 +13523,7 @@
   },
   "CZ8002632": {
     "name": "Ladestation IKEA Ostrava",
-    "sha1": "c741c342850925bcaaeace36dbebdd693fe3dc2e",
+    "sha1": "92ec5cc880f76157af355090219d63c87874e15a",
     "station": {
       "additionalInfo": "Parkplatz AVION SP Ostrava",
       "branch": "Parken",
@@ -13158,6 +13550,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -13171,7 +13564,7 @@
   },
   "CZ8002637": {
     "name": "Ladestation OC Nová Karolín",
-    "sha1": "2858d8215930c2febf2e122cc4bd3d1441dfe07e",
+    "sha1": "4e0badd61c418a1728d324939f0c7a0172174445",
     "station": {
       "additionalInfo": "In der Tiefgarage OC Forum Nová Karolína. Legen Sie den RFID-Tag unter die LED-Leuchte.",
       "branch": "Parken",
@@ -13198,6 +13591,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -13211,7 +13605,7 @@
   },
   "CZ8002717": {
     "name": "Schnellladestation EuroOil Bílovec",
-    "sha1": "6a0cb5731ff0d11f71652c8d976194141eb9ae56",
+    "sha1": "50bf4dda32fd8d27ce228356d872f05f983afd57",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "Parken",
@@ -13238,6 +13632,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -13251,7 +13646,7 @@
   },
   "CZ8002736": {
     "name": "Schnellladestation EuroOil Vítkov",
-    "sha1": "246617bcd85992363d31faa07d289b5e3dd6edbc",
+    "sha1": "34f7c58db2bc250ec5c71b7f7f02f328be14d772",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -13278,6 +13673,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -13291,7 +13687,7 @@
   },
   "CZ8002737": {
     "name": "Schnellladestation EuroOil Ostrava",
-    "sha1": "5aee2df66255e9868566b97d98adb02e34e01bfe",
+    "sha1": "6f50f2bd94d3434e06ab21bab6a03211272693d8",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -13318,6 +13714,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -13331,7 +13728,7 @@
   },
   "CZ8002738": {
     "name": "Schnellladestation OMV Havířov",
-    "sha1": "c1783a6be14bf2a2636d06e97e8580bc22b45374",
+    "sha1": "6742615bd775b76af0e948cb162c615fced92f00",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -13358,6 +13755,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -13371,7 +13769,7 @@
   },
   "CZ8002739": {
     "name": "Schnellladestation EuroOil Havířov",
-    "sha1": "bf598613dd26c9c0bc288588e299e0b3b9322e4b",
+    "sha1": "22f9b6d079d0c1a442a710a7dc6cbc2486ba64fd",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -13405,6 +13803,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -13418,7 +13817,7 @@
   },
   "CZ8002804": {
     "name": "Schnellladestation OMV Bruntál",
-    "sha1": "a4964fd726565877030480fbfa67cdeba7fdc6a2",
+    "sha1": "4fac19b2347871bc0a0f81fbc7665d3e9e0db18d",
     "station": {
       "additionalInfo": "Station out of service due to the reconstruction of the gas station",
       "branch": "Tankstelle",
@@ -13452,6 +13851,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -13465,7 +13865,7 @@
   },
   "CZ8002805": {
     "name": "Schnellladestation EuroOil Petřvald",
-    "sha1": "2abc372c72f9590533e92359fcf06efe3f0b2be6",
+    "sha1": "949ea09aecaa802aa77bc183ecc0e267e3e93095",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -13492,6 +13892,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -13505,7 +13906,7 @@
   },
   "CZ8002841": {
     "name": "Schnellladestation EuroOil Karviná",
-    "sha1": "35e71a8bba2c2bd5d2ba0aae406260a3875bb8ff",
+    "sha1": "bb5454db3fbb4fa75e5c3d8060f38b6ec5fa42ec",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -13532,6 +13933,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -13545,7 +13947,7 @@
   },
   "CZ8002869": {
     "name": "Schnellladestation OMV Frýdek-Místek",
-    "sha1": "88f9145bffe41a1a1d348592ac39e172d695f08f",
+    "sha1": "05ea139ea10fd74e37f9030f2ab6cfda887124c2",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -13579,6 +13981,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -13592,7 +13995,7 @@
   },
   "CZ8003140": {
     "name": "Schnellladestation Penny Market Třinec",
-    "sha1": "5fff122463bd9a6137a06f56fedd782e97c3f7e3",
+    "sha1": "ed5121d581a15fbff781e5ba05bef0c5c1afd20a",
     "station": {
       "additionalInfo": "Auf dem Penny Parkplatz",
       "branch": "Einzelhandel",
@@ -13626,6 +14029,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -13639,7 +14043,7 @@
   },
   "CZ8003222": {
     "name": "Schnellladestation Benzina Nový Jičín",
-    "sha1": "5cddf8f0bd3d1ca8abce86a56457bf6292d61a29",
+    "sha1": "e68c0c6e1e60b7f52e82177c8adb2f0570f8aabb",
     "station": {
       "additionalInfo": "Bei der Benzina Tankstelle",
       "branch": "Tankstelle",
@@ -13673,6 +14077,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -13686,7 +14091,7 @@
   },
   "CZ8003240": {
     "name": "Ladestation ČSOB Ostrava",
-    "sha1": "f21f3a1a97d4ab1fd62151770d21f2cb36a31a21",
+    "sha1": "3cce9e36e3e7a14bcd4d4b3e1d9e2c768d3a9f6a",
     "station": {
       "additionalInfo": "Dobíjecí stanice je přístupná pouze zákazníkům ČSOB s platným povolením vjezdu",
       "branch": "Parken",
@@ -13713,6 +14118,7 @@
       "hubOperatorID": "AT*SMA",
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČSOB",
       "plugs": [
         {
@@ -13726,7 +14132,7 @@
   },
   "CZ8003243": {
     "name": "Ladestation Alza Opava",
-    "sha1": "b4d8f80d7f89e498292908ce17237f364831565e",
+    "sha1": "b01d2d5e54a6355e522e6d18f0778ba8e44b586c",
     "station": {
       "branch": "Einzelhandel",
       "chargingFacilities": {
@@ -13758,6 +14164,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "PRE",
       "plugs": [
         {
@@ -13771,7 +14178,7 @@
   },
   "CZ8003276": {
     "name": "Schnellladestation EuroOil Sviadnov",
-    "sha1": "d735baba613e83298619c4885625163bb531d76d",
+    "sha1": "bb961f8103a907028705837d72c31c9d03938c55",
     "station": {
       "additionalInfo": "Bei der EuriOil Tankstelle",
       "branch": "Tankstelle",
@@ -13805,6 +14212,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "ČEPRO a.s.",
       "plugs": [
         {
@@ -13818,7 +14226,7 @@
   },
   "CZ8003585": {
     "name": "Schnellladestation OMV Klimkovice",
-    "sha1": "1da100e9287a4937dbbeacc3e5174b383bd2e9a4",
+    "sha1": "98360e289d4f03488f403af32c17907abb7a5c0e",
     "station": {
       "branch": "Tankstelle",
       "chargingFacilities": {
@@ -13850,6 +14258,7 @@
       ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
+      "isRoaming": false,
       "partnerName": "OMV",
       "plugs": [
         {
