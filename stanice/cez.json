@@ -17287,6 +17287,70 @@
       "visible": true
     }
   },
+  "163992": {
+    "name": "N198 - Kadaň - ČEZ Teplárenská",
+    "sha1": "bbf71243b4afd14aa79af783a96b7471dbc1a5b4",
+    "station": {
+      "address": {
+        "city": "Kadaň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.3748911,
+        "longitude": 13.2753969,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Sukova",
+        "url": ""
+      },
+      "customID": "163992",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N198"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N198"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/3-20220926-131538.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N198 - Kadaň - ČEZ Teplárenská",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
