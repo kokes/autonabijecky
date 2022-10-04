@@ -17205,6 +17205,70 @@
       "visible": true
     }
   },
+  "164316": {
+    "name": "UR107 - Unčovice - McDonald´s - 4",
+    "sha1": "915b95db62f0460dd85ffb310293543a974e2549",
+    "station": {
+      "address": {
+        "city": "Litovel",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "128",
+        "latitude": 49.6625803,
+        "longitude": 17.1050788,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Unčovice",
+        "url": ""
+      },
+      "customID": "164316",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "CHARGER E1 CCS",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 225,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR107"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "CHARGER E1 CCS",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 225,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR107"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/10/3-20221003-185310.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR107 - Unčovice - McDonald´s - 4",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
