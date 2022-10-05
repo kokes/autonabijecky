@@ -5048,7 +5048,7 @@
   },
   "151214": {
     "name": "(P) Město Bojkovice",
-    "sha1": "6afc0de3689829131818667ae40e6a35a87f08b6",
+    "sha1": "0134f5e3d2a0f1e9c76d7f4065b6f68709135c16",
     "station": {
       "address": "Komenského",
       "city": "687 71",
@@ -5069,7 +5069,22 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-10-04T14:49:46.583Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "196",
+                "197"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.036058",
             "longitude": "17.811719"
@@ -5087,7 +5102,22 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-10-04T14:49:46.583Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "196",
+                "197"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.036058",
             "longitude": "17.811719"
@@ -5105,7 +5135,22 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-10-04T14:49:46.583Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "196",
+                "197"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.036058",
             "longitude": "17.811719"
@@ -5123,7 +5168,22 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-10-04T14:49:46.583Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "196",
+                "197"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.036058",
             "longitude": "17.811719"
@@ -34262,9 +34322,9 @@
   },
   "81658": {
     "name": "(P) Zdobnice Centrum",
-    "sha1": "1be2360f29c53de8e4fec640448fb65d8ea4f302",
+    "sha1": "a875552c25a8bb5119d5f8c67b5c8fd5e8f46e9c",
     "station": {
-      "address": "Zdobnice",
+      "address": "Zdobnice Parkoviště",
       "city": "Zdobnice",
       "coordinates": {
         "latitude": "50.245964",
@@ -34283,13 +34343,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-10-04T22:01:01.933Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "131",
+                "132"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.245964",
             "longitude": "16.407952"
           },
           "evse_id": "CZ*EON*E31081658*1",
-          "last_seen_as_planned": "2022-08-24T07:17:28.64Z",
+          "last_seen_as_planned": "2022-10-04T22:01:01.933Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "81658"
@@ -34301,13 +34376,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-10-04T22:01:01.933Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "131",
+                "132"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.245964",
             "longitude": "16.407952"
           },
           "evse_id": "CZ*EON*E31081658*2",
-          "last_seen_as_planned": "2022-08-24T07:17:28.64Z",
+          "last_seen_as_planned": "2022-10-04T22:01:01.933Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "81659"
@@ -34321,6 +34411,13 @@
         "NATURE"
       ],
       "id": "81658",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/141732/7115921664894887.jpg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "(P) Zdobnice Centrum",
       "opening_times": {
@@ -34345,7 +34442,7 @@
   },
   "81660": {
     "name": "(P) Sokolí Hnízdo",
-    "sha1": "27907b6646189d4b77fc52162d288ccc1f41dc48",
+    "sha1": "b4128dee9ff882d465b21cc2f640e9973e9b5092",
     "station": {
       "address": "Rampuše 5",
       "city": "Liberk",
@@ -34366,13 +34463,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-10-04T22:01:01.933Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "131",
+                "132"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.206468",
             "longitude": "16.375559"
           },
           "evse_id": "CZ*EON*E31081660*1",
-          "last_seen_as_planned": "2022-08-24T07:21:21.183Z",
+          "last_seen_as_planned": "2022-10-04T22:01:01.933Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "81660"
@@ -34384,13 +34496,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-10-04T22:01:01.933Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "131",
+                "132"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.206468",
             "longitude": "16.375559"
           },
           "evse_id": "CZ*EON*E31081660*2",
-          "last_seen_as_planned": "2022-08-24T07:21:21.183Z",
+          "last_seen_as_planned": "2022-10-04T22:01:01.933Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "81661"
@@ -34404,6 +34531,13 @@
         "NATURE"
       ],
       "id": "81660",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/141733/251221664893294.jpg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "(P) Sokolí Hnízdo",
       "opening_times": {
