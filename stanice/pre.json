@@ -8581,6 +8581,54 @@
       "street": "K Beranovu"
     }
   },
+  "CZ1003635": {
+    "name": "Ladestation OC Westfield Chodov I",
+    "sha1": "31798234122b4d1c0a20a2056b100dc79eea1a18",
+    "station": {
+      "additionalInfo": "Auf den Dachparkplätzen des Westfield Chodov",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003635",
+      "csName": "Ladestation OC Westfield Chodov I",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Rooftop garages OC Westfield Chodov",
+      "enCsname": "Charger OC Westfield Chodov I",
+      "evseId": "CZ*PRE*E1S8069*2",
+      "geoCoord": {
+        "latitude": "50.032344",
+        "longitude": "14.488674"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_oc_westfield_chodov_i.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14800",
+      "region": "Hlavní město Praha",
+      "street": "Roztylská 2321/19"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "ad145d20a0ffa6d7de69def183cdefab70868136",
@@ -13259,6 +13307,53 @@
       "postalCode": "78301",
       "region": "Olomoucký kraj",
       "street": "Horní lán 415/3"
+    }
+  },
+  "CZ7103634": {
+    "name": "Schnellladestation OMV Hranice",
+    "sha1": "4d1e2a18d08437adf4ee249d055c0523930ed1e2",
+    "station": {
+      "additionalInfo": "",
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Hranice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ7103634",
+      "csName": "Schnellladestation OMV Hranice",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger OMV Hranice",
+      "evseId": "CZ*PRE*E1R5067*2",
+      "geoCoord": {
+        "latitude": "49.557718",
+        "longitude": "17.745733"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_hranice.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "75301",
+      "region": "Olomoucký kraj",
+      "street": "Bělotínská 2032"
     }
   },
   "CZ7202811": {
