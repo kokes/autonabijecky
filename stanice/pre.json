@@ -6282,8 +6282,8 @@
     }
   },
   "CZ1003269": {
-    "name": "Ladestation Plavecký stadion - Jedenáctka I.",
-    "sha1": "f45afeb9ff501c53eb4cfa0cc14cdbcd2682ec49",
+    "name": "Ultra-Highspeed-Ladestation Plavecký stadion - Jed",
+    "sha1": "22343e15df3920c6c5b992da5a23bc7a3a7aa643",
     "station": {
       "additionalInfo": "Beim Schwimmbad Prag 11",
       "branch": "Parken",
@@ -6296,11 +6296,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003269",
-      "csName": "Ladestation Plavecký stadion - Jedenáctka I.",
-      "csStatus": "under_construction",
-      "csType": "charger",
+      "csName": "Ultra-Highspeed-Ladestation Plavecký stadion - Jed",
+      "csStatus": "operable",
+      "csType": "ultra_fast_charger",
       "enAdditionalInfo": "By the swimming pool at prague 11",
-      "enCsname": "Charger Plavecký stadion - Jedenáctka I.",
+      "enCsname": "Ultra-highspeed charger Plavecký stadion - Jedenác",
       "evseId": "CZ*PRE*E1S8082*10",
       "geoCoord": {
         "latitude": "50.038150",
@@ -6308,6 +6308,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_plavecky_stadion_jedenacka.png"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
@@ -8627,6 +8634,47 @@
       "postalCode": "14800",
       "region": "Hlavní město Praha",
       "street": "Roztylská 2321/19"
+    }
+  },
+  "CZ1003714": {
+    "name": "Ladestation Sídlo společnosti SNEO",
+    "sha1": "86c05f6650bf89054c317b4fec0cb2c6d0aea1b2",
+    "station": {
+      "additionalInfo": "Bei den SNEO Parkplätzen",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003714",
+      "csName": "Ladestation Sídlo společnosti SNEO",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the SNEO parking lots",
+      "enCsname": "Charger Sídlo společnosti SNEO",
+      "evseId": "CZ*PRE*E1S8134*2",
+      "geoCoord": {
+        "latitude": "50.084620",
+        "longitude": "14.342351"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16200",
+      "region": "Hlavní město Praha",
+      "street": "Nad Alejí 1876/2"
     }
   },
   "CZ2002608": {
