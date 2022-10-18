@@ -14614,8 +14614,8 @@
     }
   },
   "161626": {
-    "name": "R429 - Plzeň - OC Olympia Plzeň - 10",
-    "sha1": "b8f2ac45ee142a7426fe3fcc4122f4f77d8632c8",
+    "name": "UR108 - Plzeň - OC Olympia Plzeň - 11",
+    "sha1": "a54a5fb5419e81bcfa293137deea52905fe246b8",
     "station": {
       "address": {
         "city": "Plzeň",
@@ -14641,39 +14641,30 @@
         {
           "connectors": [
             {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-3721-019",
+              "amperage": null,
+              "chargePointIdentity": "HYC_300_22BZ1372B",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
+              "powerOutput": 300,
+              "standard": "CCS_COMBO",
+              "voltage": null
             }
           ],
-          "physicalReference": "R429"
+          "physicalReference": "UR108"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T54-HU1-3721-019",
+              "chargePointIdentity": "HYC_300_22BZ1372B",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3721-019",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
+              "powerOutput": 300,
               "standard": "CCS_COMBO",
               "voltage": null
             }
           ],
-          "physicalReference": "R429"
+          "physicalReference": "UR108"
         }
       ],
       "images": [
@@ -14682,7 +14673,7 @@
         }
       ],
       "instructions": null,
-      "name": "R429 - Plzeň - OC Olympia Plzeň - 10",
+      "name": "UR108 - Plzeň - OC Olympia Plzeň - 11",
       "visible": true
     }
   },
@@ -17266,6 +17257,143 @@
       ],
       "instructions": null,
       "name": "UR107 - Unčovice - McDonald´s - 4",
+      "visible": true
+    }
+  },
+  "164990": {
+    "name": "UR109 - Šlovice směr Rozvadov - Benzina 4",
+    "sha1": "9448ff04004b98bf43892a61b0fbc7d2f93709ec",
+    "station": {
+      "address": {
+        "city": "Dobřany - Šlovice 321 00",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "129",
+        "latitude": 49.677925,
+        "longitude": 13.330259,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Šlovice",
+        "url": ""
+      },
+      "customID": "164990",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "HYC_300_21BZ2986B",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 225,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR109"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "HYC_300_21BZ2986B",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 225,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR109"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_1941-20220208-145840.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR109 - Šlovice směr Rozvadov - Benzina 4",
+      "visible": true
+    }
+  },
+  "164991": {
+    "name": "R429 - Plzeň - OC Olympia Plzeň - 10",
+    "sha1": "47130842ef4782041efbe51770939d4df8114c5a",
+    "station": {
+      "address": {
+        "city": "Plzeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "972/1",
+        "latitude": 49.7018022,
+        "longitude": 13.4278747,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Písecká",
+        "url": ""
+      },
+      "customID": "164991",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-019",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R429"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-019",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-019",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R429"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R429 - Plzeň - OC Olympia Plzeň - 10",
       "visible": true
     }
   },
