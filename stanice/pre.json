@@ -7360,7 +7360,7 @@
   },
   "CZ1003380": {
     "name": "Ladestation TS 5175 Družná",
-    "sha1": "d9b05c38efa8146d41122c3eed4c2606ce1e8d1e",
+    "sha1": "3dea7a08444032de9492f8f552c4fab3968a186f",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 5175",
       "branch": "Parken",
@@ -7389,7 +7389,17 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_5175_druzna.jpg"
+          "uri": "https://smatrics.com/sites/default/files/20220915_081821.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/20220915_081904.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/20220915_081916.jpg"
         }
       ],
       "isOpen24Hours": "true",
@@ -8675,6 +8685,45 @@
       "postalCode": "16200",
       "region": "Hlavní město Praha",
       "street": "Nad Alejí 1876/2"
+    }
+  },
+  "CZ1003726": {
+    "name": "Ladestation Pivovar Dolní Počernice",
+    "sha1": "859397d446e3fc0fa9fa8dfe2b66b3ee6a8de45a",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003726",
+      "csName": "Ladestation Pivovar Dolní Počernice",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Pivovar Dolní Počernice",
+      "evseId": "CZ*PRE*E1S8098*2",
+      "geoCoord": {
+        "latitude": "50.088165",
+        "longitude": "14.581190"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19012",
+      "region": "Hlavní město Praha",
+      "street": "Nár. hrdinů 3"
     }
   },
   "CZ2002608": {
@@ -13312,24 +13361,24 @@
     }
   },
   "CZ7103451": {
-    "name": "Ladestation Centrum Moravia Mercedes 1",
-    "sha1": "c6b376be80132f0411b3c041b987fd70f5b696c1",
+    "name": "Ladestation Centrum Moravia Mercedes",
+    "sha1": "8021814a767d2c37b7748ab401cb3efc854bf2b6",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≥200kW"
+          "DC Charging ≤75kW"
         ]
       },
       "city": "Olomouc",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ7103451",
-      "csName": "Ladestation Centrum Moravia Mercedes 1",
+      "csName": "Ladestation Centrum Moravia Mercedes",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Centrum Moravia Mercedes 1",
-      "evseId": "CZ*PRE*E1R0040*2",
+      "enCsname": "Charger Centrum Moravia Mercedes",
+      "evseId": "CZ*PRE*E1R0044*2",
       "geoCoord": {
         "latitude": "49.574089",
         "longitude": "17.231840"

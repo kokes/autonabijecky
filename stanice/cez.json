@@ -17262,7 +17262,7 @@
   },
   "164990": {
     "name": "UR109 - Šlovice směr Rozvadov - Benzina 4",
-    "sha1": "9448ff04004b98bf43892a61b0fbc7d2f93709ec",
+    "sha1": "e15098ee8203196e597cda9aa13750bec02fc841",
     "station": {
       "address": {
         "city": "Dobřany - Šlovice 321 00",
@@ -17292,7 +17292,7 @@
               "chargePointIdentity": "HYC_300_21BZ2986B",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 225,
+              "powerOutput": 150,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -17306,7 +17306,7 @@
               "chargePointIdentity": "HYC_300_21BZ2986B",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 225,
+              "powerOutput": 150,
               "standard": "CCS_COMBO",
               "voltage": null
             }
