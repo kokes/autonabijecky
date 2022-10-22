@@ -25310,8 +25310,8 @@
     }
   },
   "59548": {
-    "name": "R166 - Loket - McDonalds, D1/66. km",
-    "sha1": "64bb02107ecfc289d91d632ab94cdd5debd5d9bd",
+    "name": "UR110 - Loket - McDonalds, D1/66. km",
+    "sha1": "45d6c82ab3c8b1029ac70edab63b7ab3ef308588",
     "station": {
       "address": {
         "city": "Loket",
@@ -25337,48 +25337,39 @@
         {
           "connectors": [
             {
-              "amperage": 32,
-              "chargePointIdentity": "T53-IT1-4517-008 ",
+              "amperage": null,
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
+              "powerOutput": 300,
+              "standard": "CCS_COMBO",
+              "voltage": null
             }
           ],
-          "physicalReference": "R166"
+          "physicalReference": "UR110"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T53-IT1-4517-008 ",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-IT1-4517-008 ",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
+              "powerOutput": 300,
               "standard": "CCS_COMBO",
               "voltage": null
             }
           ],
-          "physicalReference": "R166"
+          "physicalReference": "UR110"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/uurds-loket-1.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/10/3-20221021-162431.jpg"
         }
       ],
       "instructions": null,
-      "name": "R166 - Loket - McDonalds, D1/66. km",
+      "name": "UR110 - Loket - McDonalds, D1/66. km",
       "visible": true
     }
   },
@@ -26460,8 +26451,8 @@
     }
   },
   "59564": {
-    "name": "UR102 - Loket - Ultrarychlá dobíjecí stanice - McDonalds, D1/66. km - 1",
-    "sha1": "f200ab2f286ffb0a0b69aa75caa346a78c058adb",
+    "name": "UR102 - Loket - McDonalds, D1/66. km - 1",
+    "sha1": "334ceb99d3003324c2fe8b5ccac4686ebae53ea2",
     "station": {
       "address": {
         "city": "Loket",
@@ -26519,7 +26510,7 @@
         }
       ],
       "instructions": null,
-      "name": "UR102 - Loket - Ultrarychlá dobíjecí stanice - McDonalds, D1/66. km - 1",
+      "name": "UR102 - Loket - McDonalds, D1/66. km - 1",
       "visible": true
     }
   },
