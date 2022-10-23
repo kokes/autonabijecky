@@ -3308,13 +3308,13 @@
   },
   "CZ1002681": {
     "name": "Schnellladestation ČSOB NHQ",
-    "sha1": "cf740c127113630c22fa8275057eba2c1bc35ab5",
+    "sha1": "52a16f219e483217577e074c0b990d1be74de7d2",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der CSOB",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤50kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3339,7 +3339,7 @@
       "partnerName": "PRE",
       "plugs": [
         {
-          "plug": "CHAdeMO"
+          "plug": "Type 2 Outlet"
         }
       ],
       "postalCode": "15057",
@@ -8724,6 +8724,59 @@
       "postalCode": "19012",
       "region": "Hlavní město Praha",
       "street": "Nár. hrdinů 3"
+    }
+  },
+  "CZ1004374": {
+    "name": "Ladestation Úřad MČ Praha 14",
+    "sha1": "8516cccae014e15e3b644325d7b8906363f0191c",
+    "station": {
+      "additionalInfo": "Vor dem Gebäude der Stadtverwaltung",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004374",
+      "csName": "Ladestation Úřad MČ Praha 14",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "In front of the Municipal Authority building",
+      "enCsname": "Charger Úřad MČ Praha 14",
+      "evseId": "CZ*PRE*E1S8097*1",
+      "geoCoord": {
+        "latitude": "50.105577",
+        "longitude": "14.560423"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://smatrics.com/sites/default/files/whatsapp_image_2022-10-20_at_10.42.38.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://smatrics.com/sites/default/files/whatsapp_image_2022-10-20_at_10.42.37.jpeg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Connector (Cable Attached)"
+        }
+      ],
+      "postalCode": "19800",
+      "region": "Hlavní město Praha",
+      "street": "Bratří Venclíků 1073/8"
     }
   },
   "CZ2002608": {
