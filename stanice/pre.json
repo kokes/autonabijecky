@@ -3308,13 +3308,13 @@
   },
   "CZ1002681": {
     "name": "Schnellladestation ČSOB NHQ",
-    "sha1": "52a16f219e483217577e074c0b990d1be74de7d2",
+    "sha1": "cf740c127113630c22fa8275057eba2c1bc35ab5",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der CSOB",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "DC Charging ≤50kW"
         ]
       },
       "city": "Praha",
@@ -3339,7 +3339,7 @@
       "partnerName": "PRE",
       "plugs": [
         {
-          "plug": "Type 2 Outlet"
+          "plug": "CHAdeMO"
         }
       ],
       "postalCode": "15057",
