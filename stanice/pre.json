@@ -7510,7 +7510,7 @@
   },
   "CZ1003383": {
     "name": "Ladestation TS 1422 Semilská",
-    "sha1": "b5c8176272c361c142c2d2025d415f694ac78ce7",
+    "sha1": "67e73fcd270ba31fda932724f6d93d12840a4328",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 1422",
       "branch": "Parken",
@@ -7535,6 +7535,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://smatrics.com/sites/default/files/ts_1422_1.jpeg"
+        }
+      ],
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
@@ -8777,6 +8784,189 @@
       "postalCode": "19800",
       "region": "Hlavní město Praha",
       "street": "Bratří Venclíků 1073/8"
+    }
+  },
+  "CZ1004377": {
+    "name": "Ladestation ČSOB Category",
+    "sha1": "cf627154eccb6ed4f35774aced47fa75cef76e44",
+    "station": {
+      "additionalInfo": "Die Ladestation ist nur für Kunden der ČSOB mit einer gültigen Einfahrtsgenehmigung zugänglich",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004377",
+      "csName": "Ladestation ČSOB Category",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit",
+      "enCsname": "Charger ČSOB Category",
+      "evseId": "CZ*PRE*E0S0017*6",
+      "geoCoord": {
+        "latitude": "50.058817",
+        "longitude": "14.386611"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15000",
+      "region": "Hlavní město Praha",
+      "street": "U kostela 333/1"
+    }
+  },
+  "CZ1004378": {
+    "name": "Schnellladestation ČSOB NHQ",
+    "sha1": "dc8ead16b4fc9ca99442142ad2fa2d49429fa9eb",
+    "station": {
+      "additionalInfo": "Die Ladestation ist nur für Kunden der ČSOB mit einer gültigen Einfahrtsgenehmigung zugänglich",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004378",
+      "csName": "Schnellladestation ČSOB NHQ",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit",
+      "enCsname": "Fast charger ČSOB NHQ",
+      "evseId": "CZ*PRE*E0S0019*3",
+      "geoCoord": {
+        "latitude": "50.058684",
+        "longitude": "14.387115"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "15000",
+      "region": "Hlavní město Praha",
+      "street": "U kostela 333/1"
+    }
+  },
+  "CZ1004379": {
+    "name": "Ladestation TS 490 Krčmářovská",
+    "sha1": "9ebde8525488e6368b2ef26402cfe6771d70d20f",
+    "station": {
+      "additionalInfo": "Bei der Transformatorstation",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004379",
+      "csName": "Ladestation TS 490 Krčmářovská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "By the transformation station",
+      "enCsname": "Charger TS 490 Krčmářovská",
+      "evseId": "CZ*PRE*E1S8028*2",
+      "geoCoord": {
+        "latitude": "50.156429",
+        "longitude": "14.541605"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/ts_490_1.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://smatrics.com/sites/default/files/ts_490_2.jpeg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19600",
+      "region": "Hlavní město Praha",
+      "street": "Krčmářovská 286/2"
+    }
+  },
+  "CZ1004380": {
+    "name": "Ladestation TS 3381 Česákova",
+    "sha1": "99b9cb7586707b1e1dec154d16c7c539f654d0fc",
+    "station": {
+      "additionalInfo": "Bei der Transformatorstation",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004380",
+      "csName": "Ladestation TS 3381 Česákova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "By the transformation station",
+      "enCsname": "Charger TS 3381 Česákova",
+      "evseId": "CZ*PRE*E1S8037*2",
+      "geoCoord": {
+        "latitude": "50.130862",
+        "longitude": "14.484993"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://smatrics.com/sites/default/files/ts_3381.jpeg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18200",
+      "region": "Hlavní město Praha",
+      "street": "Česákova"
     }
   },
   "CZ2002608": {
@@ -12195,6 +12385,47 @@
       "postalCode": "51791",
       "region": "Královéhradecký kraj",
       "street": "Jedlová 429"
+    }
+  },
+  "CZ5204376": {
+    "name": "Schnellladestation ČSOB Hradec Králové",
+    "sha1": "176f10233397aeec7973387f7b68dbb71d9d910e",
+    "station": {
+      "additionalInfo": "Die Ladestation ist nur für Kunden der ČSOB mit einer gültigen Einfahrtsgenehmigung zugänglich",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Hradec Králové",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ5204376",
+      "csName": "Schnellladestation ČSOB Hradec Králové",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit",
+      "enCsname": "Fast charger ČSOB Hradec Králové",
+      "evseId": "CZ*PRE*E0S0015*1",
+      "geoCoord": {
+        "latitude": "50.217014",
+        "longitude": "15.829661"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "50003",
+      "region": "Královéhradecký kraj",
+      "street": "Collinova 573"
     }
   },
   "CZ5302630": {

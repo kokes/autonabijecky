@@ -2091,7 +2091,7 @@
   },
   "112222": {
     "name": "(P) Vila Jáchymov",
-    "sha1": "b7c6587ad8c1eea433c644b25e00589d1be1e8e0",
+    "sha1": "793ea3d3e1dd4aff94c008aebb80ee771134e1bf",
     "station": {
       "address": "Lidická 764",
       "city": "Jáchymov",
@@ -2150,7 +2150,29 @@
       "last_updated": "RESET",
       "name": "(P) Vila Jáchymov",
       "opening_times": {
-        "twentyfourseven": true
+        "regular_hours": [
+          {
+            "period_begin": "9:00",
+            "period_end": "16:00",
+            "weekday": 2
+          },
+          {
+            "period_begin": "9:00",
+            "period_end": "16:00",
+            "weekday": 1
+          },
+          {
+            "period_begin": "9:00",
+            "period_end": "16:00",
+            "weekday": 3
+          },
+          {
+            "period_begin": "9:00",
+            "period_end": "16:00",
+            "weekday": 4
+          }
+        ],
+        "twentyfourseven": false
       },
       "operator": {
         "name": "Vila Jáchymov s.r.o."
@@ -15334,7 +15356,7 @@
   },
   "35933": {
     "name": "E.ON Parkhotel Hluboká nad Vltavou",
-    "sha1": "ffb66301fbf9fb1820a26be7563d7fd5200059c5",
+    "sha1": "684ac856b2c05a0b7b0d0f05c88ca9e6850425dd",
     "station": {
       "address": "Masarykova 602",
       "city": "Hluboká nad Vltavou",
@@ -15397,6 +15419,7 @@
       "owner": {
         "name": "E.ON Energie, a.s."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "373 41",
       "publish": true,
@@ -16630,7 +16653,7 @@
   },
   "35961": {
     "name": "E.ON Lanžhot",
-    "sha1": "7a1d830920db9df14ab3a9961a39957b1cf9f743",
+    "sha1": "795c08f3112a1c41095cccb87f06225684031d47",
     "station": {
       "address": "Masarykova 1314",
       "city": "Lanžhot",
@@ -16651,7 +16674,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-10-26T22:01:06.76Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.72858385",
             "longitude": "16.96386125"
@@ -16669,7 +16713,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-10-26T22:01:06.76Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.72858385",
             "longitude": "16.96386125"
@@ -20838,8 +20903,8 @@
     }
   },
   "51423": {
-    "name": "E.ON Ostrava-Hlučín Benzina",
-    "sha1": "a6a9654b708eb60fe25a1c172b28b2f7a21f91c7",
+    "name": "E.ON ČS Benzina Ostrava ul. Hlučínská",
+    "sha1": "b1843fb2b372ce4780ec84d5e31dbfc0088f5a84",
     "station": {
       "address": "Hlučínská",
       "city": " Moravská Ostrava a Přívoz",
@@ -20860,13 +20925,34 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-10-26T11:09:38.04Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.85873039",
             "longitude": "18.26917329"
           },
           "evse_id": "CZ*EON*E11051423*1",
-          "last_seen_as_planned": "2022-03-16T13:51:30.33Z",
+          "last_seen_as_planned": "2022-10-26T11:09:38.04Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51423"
@@ -20878,13 +20964,54 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2022-10-26T11:09:38.04Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2022-10-26T11:09:38.04Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.85873039",
             "longitude": "18.26917329"
           },
           "evse_id": "CZ*EON*E11051423*2",
-          "last_seen_as_planned": "2022-03-16T13:51:30.33Z",
+          "last_seen_as_planned": "2022-10-26T11:09:38.04Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51424"
@@ -20895,7 +21022,7 @@
       ],
       "id": "51423",
       "last_updated": "RESET",
-      "name": "E.ON Ostrava-Hlučín Benzina",
+      "name": "E.ON ČS Benzina Ostrava ul. Hlučínská",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -26692,7 +26819,7 @@
   },
   "53790": {
     "name": "E.ON Penny Přelouč",
-    "sha1": "126230b7a4b117a08cf2d53514fb22d06f45a569",
+    "sha1": "1071f165f56968dcc8ccebbc311720b1852cc1be",
     "station": {
       "address": "28. října 1531",
       "city": "Přelouč",
@@ -26760,7 +26887,7 @@
             "longitude": "15.5641697"
           },
           "evse_id": "CZ*EON*E98053790*1",
-          "last_seen_as_planned": "2022-07-29T06:12:07.823Z",
+          "last_seen_as_planned": "2021-03-31T10:54:37.82Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53790"
@@ -26799,7 +26926,7 @@
             "longitude": "15.5641697"
           },
           "evse_id": "CZ*EON*E98053790*2",
-          "last_seen_as_planned": "2022-07-29T06:10:18.42Z",
+          "last_seen_as_planned": "2021-03-26T08:33:57.69Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53791"
