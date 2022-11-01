@@ -19520,7 +19520,7 @@
   },
   "45161": {
     "name": "(P) Samohýl group",
-    "sha1": "f2a439c270235cec383bd44cdd4b91ec163c59c1",
+    "sha1": "daf0e323669e08f53181496b55d5c1cc8361f305",
     "station": {
       "address": "Smetanova 1058",
       "city": "Lomnice nad Popelkou",
@@ -19566,6 +19566,39 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "45161"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-10-31T23:01:02.023Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "160",
+                "161"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.53244234",
+            "longitude": "15.36540392"
+          },
+          "evse_id": "CZ*EON*E22066405*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "66405"
         }
       ],
       "facilities": [
