@@ -11409,79 +11409,6 @@
       "visible": true
     }
   },
-  "155055": {
-    "name": "R375 - Praha - McDonald´s Kbelská - 3",
-    "sha1": "07c0b1b2250930adbf89c09e6b36e41e03b4f67c",
-    "station": {
-      "address": {
-        "city": "Praha",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "919/31",
-        "latitude": 50.12243,
-        "longitude": 14.51225,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Kbelská",
-        "url": ""
-      },
-      "customID": "155055",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU-3321-050",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R375"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU-3321-050",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU-3321-050",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R375"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/12/mcdonalds-praha-kbelska-20211220-124006.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R375 - Praha - McDonald´s Kbelská - 3",
-      "visible": true
-    }
-  },
   "155056": {
     "name": "R378 - Praha - McDonald´s Kbelská - 4",
     "sha1": "c2aec917941b905525555eec1c7f8d139a8dd0c1",
@@ -17394,6 +17321,134 @@
       ],
       "instructions": null,
       "name": "R429 - Plzeň - OC Olympia Plzeň - 10",
+      "visible": true
+    }
+  },
+  "166153": {
+    "name": "N200 - Havraníky - Vinařství THAYA - 1",
+    "sha1": "b89989d42099915a700185dbe1aa4c073323e997",
+    "station": {
+      "address": {
+        "city": "Havraníky",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "145",
+        "latitude": 48.8105078,
+        "longitude": 16.0159686,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Havraníky",
+        "url": ""
+      },
+      "customID": "166153",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N200"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N200"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/11/82b46ef6-772d-4cac-8b07-43d240a70e28.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N200 - Havraníky - Vinařství THAYA - 1",
+      "visible": true
+    }
+  },
+  "166154": {
+    "name": "N201 - Havraníky - Vinařství THAYA - 2",
+    "sha1": "06032c3e5ea28c6e32ccd74107eeeb3e104ae736",
+    "station": {
+      "address": {
+        "city": "Havraníky",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "145",
+        "latitude": 48.8105078,
+        "longitude": 16.0159686,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Havraníky",
+        "url": ""
+      },
+      "customID": "166154",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N201"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N201"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/11/82b46ef6-772d-4cac-8b07-43d240a70e28-20221104-150441.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N201 - Havraníky - Vinařství THAYA - 2",
       "visible": true
     }
   },
