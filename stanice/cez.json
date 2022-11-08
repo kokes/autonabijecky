@@ -17452,6 +17452,79 @@
       "visible": true
     }
   },
+  "166325": {
+    "name": "R477 - Náchod - Benzina",
+    "sha1": "83319c30999d59871425ddea310c4fa0e53eff88",
+    "station": {
+      "address": {
+        "city": "Náchod",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.4151186,
+        "longitude": 16.1680547,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pražská",
+        "url": ""
+      },
+      "customID": "166325",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2622-026",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R477"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-026",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-026",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R477"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/11/a750d672-80fa-4232-b49f-06a748cf9173.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R477 - Náchod - Benzina",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
