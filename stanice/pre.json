@@ -6253,9 +6253,9 @@
   },
   "CZ1003270": {
     "name": "Ladestation TS 3115 Ledvinova",
-    "sha1": "9acc1825993799a6ac2378434753972d62a684ba",
+    "sha1": "71a52073065cf930c6141eb3991cce800c52fb6e",
     "station": {
-      "additionalInfo": "Bei der Transformatorenstation TS 3115",
+      "additionalInfo": "Bei der Transformatorenstation TS 3115\r\nDie Ladestation befindet sich auf dem kostenpflichtigen Parkplatz.",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -6269,7 +6269,7 @@
       "csName": "Ladestation TS 3115 Ledvinova",
       "csStatus": "operable",
       "csType": "charger",
-      "enAdditionalInfo": "By the transformation station TS 3115",
+      "enAdditionalInfo": "By the transformation station TS 3115\r\nCharging station is located at paid parking area. The entrance is possible by using the help button.",
       "enCsname": "Charger TS 3115 Ledvinova",
       "evseId": "CZ*PRE*E1S8104*2",
       "geoCoord": {
@@ -8889,6 +8889,45 @@
       "postalCode": "18200",
       "region": "Hlavní město Praha",
       "street": "Česákova"
+    }
+  },
+  "CZ1004398": {
+    "name": "Ladestation PVA expo e-salon 2022",
+    "sha1": "74cceffd95371bc12368ed7aa6ae5514d7d75c70",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004398",
+      "csName": "Ladestation PVA expo e-salon 2022",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enCsname": "Charger PVA expo e-salon 2022",
+      "evseId": "CZ*PRE*EPRE0014*2",
+      "geoCoord": {
+        "latitude": "50.129723",
+        "longitude": "14.514155"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19900",
+      "region": "Hlavní město Praha",
+      "street": "Beranovych 667"
     }
   },
   "CZ2002608": {
@@ -12430,6 +12469,47 @@
       "postalCode": "57101",
       "region": "Pardubický kraj",
       "street": "Dvorní 1452/20"
+    }
+  },
+  "CZ5302870": {
+    "name": "Schnellladestation AUTO IN Pardubice",
+    "sha1": "c81bff1690a84b48657cfaa4603b7cfad1772933",
+    "station": {
+      "additionalInfo": "Beim AUTO IN Ford  Händler",
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Pardubice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ5302870",
+      "csName": "Schnellladestation AUTO IN Pardubice",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "By the Ford AUTO IN dealer",
+      "enCsname": "Fast charger AUTO IN Pardubice",
+      "evseId": "CZ*PRE*E1R0029*2",
+      "geoCoord": {
+        "latitude": "50.059700",
+        "longitude": "15.750444"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "53009",
+      "region": "Pardubický kraj",
+      "street": "Poděbradská 292"
     }
   },
   "CZ5302890": {
