@@ -8893,8 +8893,9 @@
   },
   "CZ1004398": {
     "name": "Ladestation PVA expo e-salon 2022",
-    "sha1": "74cceffd95371bc12368ed7aa6ae5514d7d75c70",
+    "sha1": "9ed68916d2621eba9ed46d2a3a06ed6dd5b4d968",
     "station": {
+      "additionalInfo": "Charging station exclusively for e-SALON 2022",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -8906,8 +8907,9 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1004398",
       "csName": "Ladestation PVA expo e-salon 2022",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "charger",
+      "enAdditionalInfo": "Charging station exclusively for e-SALON 2022",
       "enCsname": "Charger PVA expo e-salon 2022",
       "evseId": "CZ*PRE*EPRE0014*2",
       "geoCoord": {
@@ -8928,6 +8930,47 @@
       "postalCode": "19900",
       "region": "Hlavní město Praha",
       "street": "Beranovych 667"
+    }
+  },
+  "CZ1004402": {
+    "name": "Schnellladestation Parvi Cibulka",
+    "sha1": "bebf5643cfbe7d5616e0232807820a65b9bb8702",
+    "station": {
+      "additionalInfo": "Neben dem Parvi Cibulka-Gebäude",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤75kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004402",
+      "csName": "Schnellladestation Parvi Cibulka",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "Next to the Parvi Cibulka building",
+      "enCsname": "Fast charger Parvi Cibulka",
+      "evseId": "CZ*PRE*E1R0042*1",
+      "geoCoord": {
+        "latitude": "50.061750",
+        "longitude": "14.363220"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "15000",
+      "region": "Hlavní město Praha",
+      "street": "Naskové 1231/1"
     }
   },
   "CZ2002608": {

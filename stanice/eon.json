@@ -5594,6 +5594,89 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "163915": {
+    "name": "(P)  FTL-First Transport Lines a.s",
+    "sha1": "d802f0562d908a2aee37ec328a2543886a111df5",
+    "station": {
+      "address": " Letecká 3647/ 8",
+      "city": "Prostějov",
+      "coordinates": {
+        "latitude": "49.46442",
+        "longitude": "17.128141"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.46442",
+            "longitude": "17.128141"
+          },
+          "evse_id": "CZ*EON*E22163802*1",
+          "last_seen_as_planned": "2022-11-10T06:12:54.427Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "163802"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.46442",
+            "longitude": "17.128141"
+          },
+          "evse_id": "CZ*EON*E22163802*2",
+          "last_seen_as_planned": "2022-11-10T06:12:54.427Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "163803"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "BUS_STOP",
+        "TRAIN_STATION"
+      ],
+      "id": "163915",
+      "last_updated": "RESET",
+      "name": "(P)  FTL-First Transport Lines a.s",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "FTL - First Transport Lines, a.s."
+      },
+      "owner": {
+        "name": "FTL - First Transport Lines, a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "79601",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "16499": {
     "name": "E.ON Globus České Budějovice",
     "sha1": "b3eb35f1a511156fc2d53e94fe58199ff18e3fc9",
