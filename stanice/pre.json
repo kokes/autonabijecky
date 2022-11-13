@@ -8973,6 +8973,54 @@
       "street": "Naskové 1231/1"
     }
   },
+  "CZ1004404": {
+    "name": "Ladestation TS 3023 Stříbrského",
+    "sha1": "338c40a2ab409d4c63403615d8fe4856177ae972",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 3023",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004404",
+      "csName": "Ladestation TS 3023 Stříbrského",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "At the transformation station TS 3023",
+      "enCsname": "Charger TS 3023 Stříbrského",
+      "evseId": "CZ*PRE*E1S8079*1",
+      "geoCoord": {
+        "latitude": "50.027500",
+        "longitude": "14.529200"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/pre_app_ts3023_1.jpg"
+        }
+      ],
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Stříbrského"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "ad145d20a0ffa6d7de69def183cdefab70868136",
