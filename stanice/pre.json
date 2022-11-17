@@ -8891,47 +8891,6 @@
       "street": "Česákova"
     }
   },
-  "CZ1004398": {
-    "name": "Ladestation PVA expo e-salon 2022",
-    "sha1": "9ed68916d2621eba9ed46d2a3a06ed6dd5b4d968",
-    "station": {
-      "additionalInfo": "Charging station exclusively for e-SALON 2022",
-      "branch": "unbekannt",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
-        ]
-      },
-      "city": "Praha",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ1004398",
-      "csName": "Ladestation PVA expo e-salon 2022",
-      "csStatus": "operable",
-      "csType": "charger",
-      "enAdditionalInfo": "Charging station exclusively for e-SALON 2022",
-      "enCsname": "Charger PVA expo e-salon 2022",
-      "evseId": "CZ*PRE*EPRE0014*2",
-      "geoCoord": {
-        "latitude": "50.129723",
-        "longitude": "14.514155"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "isRoaming": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "plug": "Type 2 Outlet"
-        }
-      ],
-      "postalCode": "19900",
-      "region": "Hlavní město Praha",
-      "street": "Beranovych 667"
-    }
-  },
   "CZ1004402": {
     "name": "Schnellladestation Parvi Cibulka",
     "sha1": "bebf5643cfbe7d5616e0232807820a65b9bb8702",
@@ -12478,6 +12437,45 @@
       "postalCode": "50003",
       "region": "Královéhradecký kraj",
       "street": "Collinova 573"
+    }
+  },
+  "CZ5204415": {
+    "name": "Ladestation Orea Špindlerův Mlýn",
+    "sha1": "110fe1e200900d936915179dcb469aed193ac703",
+    "station": {
+      "branch": "Hotel",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Špindlerův Mlýn",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ5204415",
+      "csName": "Ladestation Orea Špindlerův Mlýn",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Orea Špindlerův Mlýn",
+      "evseId": "CZ*PRE*E1S8145*1",
+      "geoCoord": {
+        "latitude": "50.727400",
+        "longitude": "15.626200"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "543 51",
+      "region": "Královéhradecký kraj",
+      "street": "Svatopetrská 280"
     }
   },
   "CZ5302630": {
