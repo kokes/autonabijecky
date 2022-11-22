@@ -33677,7 +33677,7 @@
   },
   "66424": {
     "name": "(P) Statek u Medvěda",
-    "sha1": "d52e84cedbe5764d2fe5f349ee37d154855767a6",
+    "sha1": "a36cc89837b01481b80a13dab395c1776839b6c4",
     "station": {
       "address": "Dlouhý Bor 12",
       "city": "Nová Pec",
@@ -33698,7 +33698,22 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-11-21T23:01:23.517Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "103",
+                "104"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.7905",
             "longitude": "13.946583"
@@ -33719,6 +33734,13 @@
         "TRAIN_STATION"
       ],
       "id": "66424",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/76883/1695291629783760.jpg"
+        }
+      ],
       "last_updated": "RESET",
       "name": "(P) Statek u Medvěda",
       "opening_times": {
