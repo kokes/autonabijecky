@@ -5596,7 +5596,7 @@
   },
   "163915": {
     "name": "(P)  FTL-First Transport Lines a.s",
-    "sha1": "d802f0562d908a2aee37ec328a2543886a111df5",
+    "sha1": "a5fd5f3c5349fb3eeec2eb18d5f4dceced449756",
     "station": {
       "address": " Letecká 3647/ 8",
       "city": "Prostějov",
@@ -5617,7 +5617,22 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-11-23T23:01:17.51Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "198",
+                "199"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.46442",
             "longitude": "17.128141"
@@ -5635,7 +5650,22 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-11-23T23:01:17.51Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "198",
+                "199"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.46442",
             "longitude": "17.128141"
