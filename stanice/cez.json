@@ -15966,7 +15966,7 @@
   },
   "163177": {
     "name": "R461 - Kolín - OC Futurum Kolín - 2",
-    "sha1": "31eff4ab89997b382a5b1a872870d53a9f020f1b",
+    "sha1": "8ca72aef39f1c35a5711f0e5399040f86199e475",
     "station": {
       "address": {
         "city": "Kolín",
@@ -16029,7 +16029,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220526-wa0002.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/11/1-20221124-105704.jpg"
         }
       ],
       "instructions": null,
@@ -17522,6 +17522,79 @@
       ],
       "instructions": null,
       "name": "R477 - Náchod - Benzina",
+      "visible": true
+    }
+  },
+  "167411": {
+    "name": "R440 - Kostelec nad Orlicí - Benzina",
+    "sha1": "5ccc9098bf9ab80a598d337e8233c5666303e782",
+    "station": {
+      "address": {
+        "city": "Kostelec nad Orlicí",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Rudé armády",
+        "latitude": 50.1217444,
+        "longitude": 16.2185511,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ulice",
+        "url": ""
+      },
+      "customID": "167411",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R440"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R440"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/11/1-20221124-105704.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R440 - Kostelec nad Orlicí - Benzina",
       "visible": true
     }
   },
