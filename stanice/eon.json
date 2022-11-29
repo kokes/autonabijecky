@@ -9060,10 +9060,10 @@
   },
   "26533": {
     "name": "(P) AUTO-MOTO MUZEUM U Kučerů",
-    "sha1": "51d01101c9520ff67245d100d7a2536f2c79f465",
+    "sha1": "d3a130f9fadc96efe007f591cf1d6901fe8a5a2b",
     "station": {
       "address": "tř. Dr. Edvarda Beneše 480",
-      "city": "Soběslav",
+      "city": "Soběslav, 392 01",
       "coordinates": {
         "latitude": "49.248605",
         "longitude": "14.721342"
@@ -34987,6 +34987,121 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "516 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "81666": {
+    "name": "(P) charge2 s.r.o.",
+    "sha1": "fd89663dd674e85650dcfc8bd9ba513bb736df52",
+    "station": {
+      "address": "V Okruží",
+      "city": "Praha 3 - Jarov",
+      "coordinates": {
+        "latitude": "50.0938203",
+        "longitude": "14.4944453"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-11-28T16:52:35.397Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "200",
+                "201"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.0938203",
+            "longitude": "14.4944453"
+          },
+          "evse_id": "CZ*EON*E31081666*1",
+          "last_seen_as_planned": "2022-11-28T16:52:35.397Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81666"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-11-28T16:52:35.397Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "200",
+                "201"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.0938203",
+            "longitude": "14.4944453"
+          },
+          "evse_id": "CZ*EON*E31081666*2",
+          "last_seen_as_planned": "2022-11-28T16:52:35.397Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81667"
+        }
+      ],
+      "facilities": [
+        "MALL",
+        "SUPERMARKET",
+        "SPORT",
+        "BUS_STOP",
+        "TAXI_STAND",
+        "TRAM_STOP",
+        "PARKING_LOT"
+      ],
+      "id": "81666",
+      "last_updated": "RESET",
+      "name": "(P) charge2 s.r.o.",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "charge2 s.r.o."
+      },
+      "owner": {
+        "name": "charge2 s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "13000",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
