@@ -17598,6 +17598,152 @@
       "visible": true
     }
   },
+  "168125": {
+    "name": "R361 - Frýdek - Místek - Kaufland 1",
+    "sha1": "74a2e0d399ca2c11df048cd6c31f4c81e98e4d88",
+    "station": {
+      "address": {
+        "city": "Frýdek - Místek",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3470",
+        "latitude": 49.687136,
+        "longitude": 18.3479733,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Revoluční",
+        "url": ""
+      },
+      "customID": "168125",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1221-011",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R361"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1221-011",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1221-011",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R361"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/1-20221201-171744.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R361 - Frýdek - Místek - Kaufland 1",
+      "visible": true
+    }
+  },
+  "168126": {
+    "name": "R375 - Frýdek - Místek - Kaufland 2",
+    "sha1": "9b9b562c7a3caea369daf09618b87174beb7ec81",
+    "station": {
+      "address": {
+        "city": "Frýdek - Místek",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3470",
+        "latitude": 49.687136,
+        "longitude": 18.3479733,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Revoluční",
+        "url": ""
+      },
+      "customID": "168126",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3321-050",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R375"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-050",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-050",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R375"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/2-20221201-171933.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R375 - Frýdek - Místek - Kaufland 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
