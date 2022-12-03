@@ -1,12 +1,12 @@
 {
   "CZ1002102": {
     "name": "Ladestation [TEST] PRE",
-    "sha1": "40e65147403a64b786ba1073d18a9bc4844735ac",
+    "sha1": "a54db729049950d5489e177ab7308cd441d3c919",
     "station": {
       "branch": "TEST",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Prag",
@@ -45,13 +45,13 @@
   },
   "CZ1002593": {
     "name": "Ladestation Hotel Diplomat",
-    "sha1": "ba7fbc576dd53932d6f854590c16d7caf5ebfb56",
+    "sha1": "879a5f2777c042cfc689f0fc56554c0b40630864",
     "station": {
       "additionalInfo": "In der gebührenpflichtigen Garage (lt.Preisliste des Hotels) des Hotels Diplomat in der Evropská Straße. Für Einfahrt Ihren RFID-Tag benutzen.",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -89,13 +89,13 @@
   },
   "CZ1002595": {
     "name": "Ladestation Vienna House Andel’s Prague",
-    "sha1": "801ddffb0d951bdf521cf94b273839c58fb8e1e8",
+    "sha1": "cd8a393e9efe55d95ba9a2621e142cef0d017d68",
     "station": {
       "additionalInfo": "Von der Straße Stroupeznickeho, Ebene -2. Nach der Einfahrt in den öffentlichen Teil biegen Sie rechts ab und fahren in den Hotelteil. Das Parkticket muss vor der Hotelgarage erneut gescannt werden.",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -142,13 +142,13 @@
   },
   "CZ1002597": {
     "name": "Ladestation OC Lužiny",
-    "sha1": "4e87fe164323383b956780ab23e0d7374a3c0e56",
+    "sha1": "20aa01c030706c8d383a2829e611f023428383fe",
     "station": {
       "additionalInfo": "Am Eingang des Parkplatzes.",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -311,13 +311,13 @@
   },
   "CZ1002600": {
     "name": "Schnellladestation OC Chodov",
-    "sha1": "600036b57b244b971ccfe073ea651d60327eb3d6",
+    "sha1": "37f927ad9518df25eeea6a5fb13a90def1475230",
     "station": {
       "additionalInfo": "In den Garagen von OC Chodov",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -517,13 +517,13 @@
   },
   "CZ1002604": {
     "name": "Ladestation OC Stromovka",
-    "sha1": "733f26660b51eae015860f3edfed0eb1bd52baee",
+    "sha1": "64ec984945421e2a9385724c0ea6b4dd7437dfe6",
     "station": {
       "additionalInfo": "Von der Veletrní Straße, in der Etage 2PP und 3PP",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -943,13 +943,13 @@
   },
   "CZ1002611": {
     "name": "Ladestation OC Krakov",
-    "sha1": "4f5ea492006abf9d85d9c8188b7c6a7f85398dfc",
+    "sha1": "89f40b879afa320c89ab1a5fecdd8ef491df19f1",
     "station": {
       "additionalInfo": "Zugang von der Straße Hnezdenská",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1024,13 +1024,13 @@
   },
   "CZ1002616": {
     "name": "Ladestation TS Dvouletky",
-    "sha1": "684657df090dd663edf4aa3e8ed2446f9ba21b10",
+    "sha1": "daa880be6bf0d2e7e9ad94a4b5a73aefb7733921",
     "station": {
       "additionalInfo": "Zugang von der Trafostation 7128",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1068,13 +1068,13 @@
   },
   "CZ1002617": {
     "name": "Ladestation MČ Šeberov",
-    "sha1": "d4167f6a54a64dda30858a191c8f65d158da1fb3",
+    "sha1": "9e7e86c0f8a11048fa34680b6fc9f5d9eb90a477",
     "station": {
       "additionalInfo": "Auf dem Parkplatz an der Osvetová Straße",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1112,13 +1112,13 @@
   },
   "CZ1002618": {
     "name": "Ladestation PRE-Na Hroudě 4",
-    "sha1": "8da0e2ea56262ffc74da991352fa3d52a935f818",
+    "sha1": "703f144e5f7f73163c4c435c7ff6d5b89700c206",
     "station": {
       "additionalInfo": "Hinter dem Gebäude Praská energetika nach der Schranke",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1156,13 +1156,13 @@
   },
   "CZ1002619": {
     "name": "Ladestation Galerie Butovice",
-    "sha1": "fcdb7ef92e301bca3795777ada6ee8eba165168e",
+    "sha1": "5528484668b067b980791679630623e8865c2475",
     "station": {
       "additionalInfo": "In den Garagen der OC Galerie Butovice",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1237,13 +1237,13 @@
   },
   "CZ1002621": {
     "name": "Ladestation Garáže Letná",
-    "sha1": "e673890f25a474dd43b05fbacd44c2d1bd7c3f91",
+    "sha1": "e7a58364dd06dfd690536b41df790426ca9f82ad",
     "station": {
       "additionalInfo": "Abschnitt B6",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1281,13 +1281,13 @@
   },
   "CZ1002622": {
     "name": "Ladestation ČVUT Albertov",
-    "sha1": "dc921a346a92767df73d04544e4225f7fab9767c",
+    "sha1": "daf75493958af6392b0404700c8094ad2aa70f3a",
     "station": {
       "additionalInfo": "Vor dem Gebäude CVUT",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1325,13 +1325,13 @@
   },
   "CZ1002623": {
     "name": "Ladestation TS U Družstva práce",
-    "sha1": "c5d845ca6431702a4ba8e2bb778af464c6ad1499",
+    "sha1": "41218e9fa832073f25de52252c3d88a498a8c4fe",
     "station": {
       "additionalInfo": "Von der Straße U Drustva Práce",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1369,13 +1369,13 @@
   },
   "CZ1002624": {
     "name": "Ladestation 3D Apartment",
-    "sha1": "b8a6084c2ddf9470e9d554e11b22fa61bce4f5f1",
+    "sha1": "99e494df9497afd0692032ad5467fca743349dbe",
     "station": {
       "additionalInfo": "Im Gebäude 3D Apod.",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1413,13 +1413,13 @@
   },
   "CZ1002627": {
     "name": "Ladestation Centrum Černý most",
-    "sha1": "06c41bdd268e42d7705c58ea3f1e030849bf4d4e",
+    "sha1": "bfc832748244b07fb61b6e94ce19bd5f10b83fdd",
     "station": {
       "additionalInfo": "Garage des Einkaufszentrums Cerný most",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1494,13 +1494,13 @@
   },
   "CZ1002629": {
     "name": "Ladestation Europark Štěrboholy",
-    "sha1": "763037672997d8ff808d3ee5d1b473c4e0f8e31c",
+    "sha1": "a25c6f382b65ddbdc1fc5ee645b243dc6fd09bf9",
     "station": {
       "additionalInfo": "Park- und Ladeplätze direkt gegenüber dem Eingang",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1538,13 +1538,13 @@
   },
   "CZ1002631": {
     "name": "Ladestation ÚMČ Praha 22",
-    "sha1": "f5b3f43c0e8f2fe438898ac75741e3daea5a208d",
+    "sha1": "4bc5c139a655e171b1f3ccd742d69c6460519899",
     "station": {
       "additionalInfo": "Vor dem Rathaus",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1582,13 +1582,13 @@
   },
   "CZ1002633": {
     "name": "Ladestation KD Mlejn",
-    "sha1": "91f5544d4dd9a01d319c5df1e8479fe46003a89a",
+    "sha1": "d1548394175602bb848c7054a1e7f7d04a13c79f",
     "station": {
       "additionalInfo": "Vor dem Kulturhaus",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1626,13 +1626,13 @@
   },
   "CZ1002634": {
     "name": "Ladestation ÚMČ Praha 5",
-    "sha1": "4f1955c09608a35ad8e70553dc68c670788f92ce",
+    "sha1": "982244d7f0caeb415214db9fc7750ea5a99b4469",
     "station": {
       "additionalInfo": "Vor der Stadthalle",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1670,13 +1670,13 @@
   },
   "CZ1002635": {
     "name": "Ladestation ÚMČ Praha 13",
-    "sha1": "e38e3c76c049ee030e817c99b3d1b537eb3d319c",
+    "sha1": "d1b27a971ee369873f3ef8e49f4a0bcdadbd069f",
     "station": {
       "additionalInfo": "Vor dem Rathaus",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1714,13 +1714,13 @@
   },
   "CZ1002636": {
     "name": "Ladestation K+K Hotel",
-    "sha1": "2ead6430933efcfba8ff8b5c64257d69c3911ea2",
+    "sha1": "e87adddd28d745e70be9e0c47d298d7d3d4813a2",
     "station": {
       "additionalInfo": "In der Hotelgarage",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1758,13 +1758,13 @@
   },
   "CZ1002638": {
     "name": "Ladestation Zátiší Rokytka",
-    "sha1": "4db1fbfe50943c65ff70cf095cff4999328f9f17",
+    "sha1": "dc3d61aff596e07ff941833fb7407aff00ce49d7",
     "station": {
       "additionalInfo": "Zufahrt von der Kolbenova Straße",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1802,13 +1802,13 @@
   },
   "CZ1002639": {
     "name": "Ladestation IKEA Zličín",
-    "sha1": "54d8b7e04c1aee3ce6f5f887e40dd4cd6f863c4e",
+    "sha1": "57082c094554ee92da05c2a1cdb39b74a3daaba4",
     "station": {
       "additionalInfo": "IKEA-Parkplatz",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1853,13 +1853,13 @@
   },
   "CZ1002641": {
     "name": "Ladestation Sconto Stodůlky",
-    "sha1": "3a512427e8e9f8c685517d37c49c270d75d104c1",
+    "sha1": "2f571e6720ac0c14074890559464ee5b80d3d362",
     "station": {
       "additionalInfo": "Ladestation am Haupteingang.",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1897,13 +1897,13 @@
   },
   "CZ1002642": {
     "name": "Ladestation Golf Hostivař",
-    "sha1": "63e028a660a0b24ddc66991e1519399972113c01",
+    "sha1": "d536c79113b8b1ac0e73d1b48ada3040fbb71921",
     "station": {
       "additionalInfo": "Vor dem Eingang zum Areal",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1941,13 +1941,13 @@
   },
   "CZ1002644": {
     "name": "Ladestation Alza Jateční",
-    "sha1": "3f87fdf49c41adf2bae57eeee244c84a041e5a55",
+    "sha1": "deb72832b249bffd0d0caa6c24b6e51457590653",
     "station": {
       "additionalInfo": "Parkplatz von Alza.cz von der Jatecní Straße.",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -1985,13 +1985,13 @@
   },
   "CZ1002645": {
     "name": "Ladestation TS 108 Hudečkova",
-    "sha1": "87a00f939fedf157627588a8cb6a18ebbe3145ee",
+    "sha1": "564f95b04f2e8f82a347dbb2085f1883114a76d4",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 108",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2029,13 +2029,13 @@
   },
   "CZ1002646": {
     "name": "Ladestation TS 443 Rochovská",
-    "sha1": "e2bf70c761ba682afa8752e48cdd1377851872b4",
+    "sha1": "336c5044caa349deec258788a5ce627aba0470bf",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 443",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2073,13 +2073,13 @@
   },
   "CZ1002647": {
     "name": "Ladestation TS 1416 Jílkova",
-    "sha1": "abe99f4060cb342f12f9c59cfcf318cb6ac0fe15",
+    "sha1": "3a3d44e6c53c00f4c2d9e5612a6d15d945cacf37",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 1416",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2117,13 +2117,13 @@
   },
   "CZ1002648": {
     "name": "Ladestation TS 1996 Na Větru",
-    "sha1": "2f94bcfbf49862e729e854e836f7b282a7ef6613",
+    "sha1": "6788c393311b54b1c89250ae3404b9465e1420b1",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 1996",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2161,13 +2161,13 @@
   },
   "CZ1002649": {
     "name": "Ladestation TS 2132 Na Chodovci",
-    "sha1": "2ebb6ebda70644c6324c11aa0f1500cbf30d9f4e",
+    "sha1": "e9633be747824198b84616b0c4254f6a4e38cbca",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2132",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2205,13 +2205,13 @@
   },
   "CZ1002650": {
     "name": "Ladestation TS 3674 Smotlachova",
-    "sha1": "67e5bfa18d53628eaf56d424715f39d9408cf753",
+    "sha1": "c1be41ed8e388d157824c4fa8895ce5cf12751b1",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3674",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2249,13 +2249,13 @@
   },
   "CZ1002651": {
     "name": "Ladestation TS 2665 Jihlavská",
-    "sha1": "d22f231c6511e61bb544eda39a2fc711c0eed4b4",
+    "sha1": "d9fe5c955172184e40334cb4eecd39faad08a6b5",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2665",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2293,13 +2293,13 @@
   },
   "CZ1002652": {
     "name": "Ladestation TS 2974 Seidlova",
-    "sha1": "c8cb426afe1cb8449ab124a4d51dfc2b4af577c6",
+    "sha1": "6fd051de12d3c800f656e8d403e21bc342155a00",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2974",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2337,13 +2337,13 @@
   },
   "CZ1002653": {
     "name": "Ladestation TS 2443 Litvínovská",
-    "sha1": "988614118889c1fd7012c2c58241910801b871d4",
+    "sha1": "972710b2690192c90c9c316483cde06800ae6a58",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2443",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2381,13 +2381,13 @@
   },
   "CZ1002654": {
     "name": "Ladestation TS 4682 Tréglova",
-    "sha1": "b8a289173217f064e56a272ac0b6b78051e3a7e0",
+    "sha1": "96de5a15800e7495ccf095484308f98f96d9ee21",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4682",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2425,13 +2425,13 @@
   },
   "CZ1002655": {
     "name": "Ladestation TS 3659 Gončarenkova",
-    "sha1": "1395c80a2aadc140cdab785d861a032365aafaae",
+    "sha1": "eb4403c2fec15e0e9c3f139d7c6f7cafc3e13dbc",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3659",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2469,13 +2469,13 @@
   },
   "CZ1002656": {
     "name": "Ladestation TS 3834 Jarní",
-    "sha1": "e0829b5ea966fc2af6c22e9ae2ffcd05f39bb0a0",
+    "sha1": "66fb022e03091a748e72039bde68f9eddc8b589e",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3834",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2513,13 +2513,13 @@
   },
   "CZ1002657": {
     "name": "Ladestation TS 3904 Lindavská",
-    "sha1": "32c8a0b632e50dfe68b86a6e3c55359bf7cc57c4",
+    "sha1": "3609239ddbe4e749b9a801028dae6e82535a940a",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3904",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2557,13 +2557,13 @@
   },
   "CZ1002658": {
     "name": "Ladestation TS 3921 Nad Přehradou",
-    "sha1": "861bd54fab45d95d368078b59ff0bac560c1497d",
+    "sha1": "26148ed3560b696b7d2df271fd3842fb50a6ef6d",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3921",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2601,13 +2601,13 @@
   },
   "CZ1002659": {
     "name": "Ladestation TS 3941 Janovská",
-    "sha1": "e908d745b206171ea1aa9015d33d9014cb076871",
+    "sha1": "5bce51b2fb5af46d2dce628b94b250a1d7df688a",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3941",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2645,13 +2645,13 @@
   },
   "CZ1002660": {
     "name": "Ladestation TS 3972 Rezlerova",
-    "sha1": "691fd3217ffdc7928226fc52463149c8b5c5d3ed",
+    "sha1": "fca44e253c023f92b0494cbdd7852083dcdbab6a",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3972",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2689,13 +2689,13 @@
   },
   "CZ1002661": {
     "name": "Ladestation TS 4133 Třanovského",
-    "sha1": "fd3906344ff1209d688402b7bca683c9db2fafdd",
+    "sha1": "62a42e404c4643369db3002b911c33ba23944fdd",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4133",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2733,13 +2733,13 @@
   },
   "CZ1002662": {
     "name": "Ladestation TS 4623 Jiránkova",
-    "sha1": "a7c8bd3136f6402f66594d923b9abe0dfb2ffb36",
+    "sha1": "f299303710b362b070269ce9ab7485559d669df1",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4623",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2777,13 +2777,13 @@
   },
   "CZ1002663": {
     "name": "Ladestation TS 4815 Chotovická",
-    "sha1": "399a28c546b56cbc7d5bea965ed7afe3231aad01",
+    "sha1": "3ba8eac9f708ad27c92a6d2f47c08fb27ae838a9",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4815",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2821,13 +2821,13 @@
   },
   "CZ1002664": {
     "name": "Ladestation TS 4829 Roudnická",
-    "sha1": "8390acaea2e8cee1d531d9824436336f6f742d27",
+    "sha1": "1df8b39903f019cd874d5c384a910ae9561d96cc",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4829",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2865,13 +2865,13 @@
   },
   "CZ1002665": {
     "name": "Ladestation TS 5058 Na Cimbále",
-    "sha1": "49dfd2966b6b7a93992c54bdda39fe7ca5b73814",
+    "sha1": "29726cf2fc63c9662a9d69216c553667347458cc",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 5058",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2909,13 +2909,13 @@
   },
   "CZ1002666": {
     "name": "Ladestation TS 5354 Kurčatovova",
-    "sha1": "0867ec2a7bc8c4f1c31185c5bf8675e700ee27e6",
+    "sha1": "6a6003821910f0c4a01635c141a14734586e1e8b",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 5354",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2953,13 +2953,13 @@
   },
   "CZ1002667": {
     "name": "Ladestation TS 5508 Voskovcova",
-    "sha1": "78b71a26fd9455cad95264e3501be818631543cf",
+    "sha1": "1abb34304bf57e8658a4530c1e518a011ec11bfd",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 5508",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -2997,13 +2997,13 @@
   },
   "CZ1002668": {
     "name": "Ladestation TS 5509 Wassermannova",
-    "sha1": "f74e07e2f2154ea5b217474fc673aabc71e79ff9",
+    "sha1": "5b7444df96fcb371dd7cd54a9646d315399cb6b1",
     "station": {
       "additionalInfo": "Bei derTransformatorstation 5509",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3041,13 +3041,13 @@
   },
   "CZ1002671": {
     "name": "Ladestation Radotín K Lázním",
-    "sha1": "72ea91c0979f5b85378b91e967ad38ebba93da43",
+    "sha1": "4970ef148874ca2134c4d68e70c69be12f233ae0",
     "station": {
       "additionalInfo": "Beim Eingang zur Schwimmhalle",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3085,13 +3085,13 @@
   },
   "CZ1002672": {
     "name": "Ladestation SMIGHT Výstaviště",
-    "sha1": "04376b839885df9c103b043473b0fb5ecb10ae5c",
+    "sha1": "f8b1bebc3c8ee41c9da92aec25162597a2a78e53",
     "station": {
       "additionalInfo": "Neben dem Schwimmbad",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "200 - 240V, 1-Phase ≤10A"
+          "200 - 240V, 1-Phase ≤16A"
         ]
       },
       "city": "Praha",
@@ -3129,13 +3129,13 @@
   },
   "CZ1002673": {
     "name": "Ladestation SMIGHT Pražská energetika 19",
-    "sha1": "9fae73810a1d609416f199576332043165ad8d77",
+    "sha1": "400a0d9ca38bd98a0bfdcf278aa12cc5b95ddb47",
     "station": {
       "additionalInfo": "Vor dem Gebäude Praská energetika",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "200 - 240V, 1-Phase ≤10A"
+          "200 - 240V, 1-Phase ≤16A"
         ]
       },
       "city": "Praha",
@@ -3173,13 +3173,13 @@
   },
   "CZ1002675": {
     "name": "Ladestation SMIGHT Karlovo náměstí",
-    "sha1": "9d9faf40a8a7cbe16ae5e363585f6f4d3d7395b2",
+    "sha1": "7471d7139f70f8c12cf9df645235b4431fd6943c",
     "station": {
       "additionalInfo": "Vor der Stadthalle",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3217,13 +3217,13 @@
   },
   "CZ1002676": {
     "name": "Ladestation SMIGHT Jugoslávská",
-    "sha1": "6a5b1b1083e17f7b2ffca87dbf945c401070d1bd",
+    "sha1": "e13dc0ff0d2be23961e97d568612c097f821b4b8",
     "station": {
       "additionalInfo": "Vor dem Rathaus",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3261,13 +3261,13 @@
   },
   "CZ1002677": {
     "name": "Ladestation SMIGHT Polská",
-    "sha1": "127e4fa81eb9cc8334038b351f8bb7a5b845078f",
+    "sha1": "b9d8172633e41f8837e714c70682a4f9588eaeba",
     "station": {
       "additionalInfo": "Bei dem Park",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3305,13 +3305,13 @@
   },
   "CZ1002678": {
     "name": "Ladestation SMIGHT Šeberov",
-    "sha1": "f911f307d53104979436ebf57734244475db68ac",
+    "sha1": "24a1ae1adee2a406acb5431f48d407e9fa46a7c6",
     "station": {
       "additionalInfo": "Beim Parkplatz von der K Hrncirum  Straße",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3349,13 +3349,13 @@
   },
   "CZ1002679": {
     "name": "Ladestation SMIGHT Otopašská",
-    "sha1": "30bd030801391b16fac1b693423498303ee1162e",
+    "sha1": "d2d1bb84008bc201fa634b0fd32687b2735fb1b9",
     "station": {
       "additionalInfo": "Auf dem Parkplatz an der Otopaská Straße",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3532,13 +3532,13 @@
   },
   "CZ1002683": {
     "name": "Ultra-Highspeed-Ladestation Metropole Zličín",
-    "sha1": "7b66b118cb5ecc14ae7796f109b4cbe89ed9d10d",
+    "sha1": "fa71b9ec6ff917ed4d30793a5d9661d19b7afeac",
     "station": {
       "additionalInfo": "Am Ende des Parkplatzes",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3576,13 +3576,13 @@
   },
   "CZ1002716": {
     "name": "Ladestation TS 2302 Vítovcova",
-    "sha1": "dc92ed75de30a61454ef69f6b0ffc50f74408cfe",
+    "sha1": "a7f92c18fd425e1eba1a0968f02aaecf495b10f9",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2302",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3620,13 +3620,13 @@
   },
   "CZ1002726": {
     "name": "Ladestation Hotel Ambassador Zlatá Husa",
-    "sha1": "a534d7de33a8a4eba638b709397d9579d1b356d2",
+    "sha1": "57f7501dfcacf0687c9470bc629b5fdec70faa9e",
     "station": {
       "additionalInfo": "In den Hotelgaragen",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3664,13 +3664,13 @@
   },
   "CZ1002730": {
     "name": "Ladestation TS 5068 Urbánkova",
-    "sha1": "25841b3e9334122545127d0522318cb8f5e657d9",
+    "sha1": "cbddd72c764ba3c30dea6c98fc05b0f8e32cf16f",
     "station": {
       "additionalInfo": "Bei der  Transformatorstation",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3708,13 +3708,13 @@
   },
   "CZ1002731": {
     "name": "Ladestation TS 3391 Machuldova",
-    "sha1": "178de276894e8b79d5519caf755c4b953581116b",
+    "sha1": "ff511b86fa4881577981fad80f5c3dd54ae6b549",
     "station": {
       "additionalInfo": "Bei der Transformatorstation",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3752,13 +3752,13 @@
   },
   "CZ1002744": {
     "name": "Ladestation TS 3076 Mikulova",
-    "sha1": "dcc72771470b7ef63fea4784bcc82a1a7d8542cc",
+    "sha1": "0012f8f6604618cbdd08bded36e7b2bdf1224f7d",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3076",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3796,13 +3796,13 @@
   },
   "CZ1002745": {
     "name": "Ladestation TS 3298 Binarova",
-    "sha1": "291c26e20faeba64f73b50504822a7e139cfabdf",
+    "sha1": "d3e8f54fe7a845ffca37233742db852512f5aba6",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3298",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3840,13 +3840,13 @@
   },
   "CZ1002749": {
     "name": "Ladestation TS 3841 Družicová",
-    "sha1": "7a4dc1c3405a2cce07900e7596fee2b17d0f1c7a",
+    "sha1": "60ce21195910cab094ae4ca4f2082557dc01da5a",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3841",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3884,13 +3884,13 @@
   },
   "CZ1002771": {
     "name": "Ladestation Hamr Záběhlice",
-    "sha1": "250c4f1213145303eb5cdd07c9b744cdad5e281c",
+    "sha1": "a51fb518eae1f9bb80b14fee76ab1d53b64aaec8",
     "station": {
       "additionalInfo": "Auf dem Parkplatz des Sportzentrums",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3928,13 +3928,13 @@
   },
   "CZ1002772": {
     "name": "Ladestation TS 5288 Pražská",
-    "sha1": "06c810a2d2a31c8ef5999b606ad74b27231af905",
+    "sha1": "b2ec0406351fcd288f0f4f621530b52e68b5afb6",
     "station": {
       "additionalInfo": "An der Transformatorstation 5288",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -3972,13 +3972,13 @@
   },
   "CZ1002773": {
     "name": "Ladestation TS 3135 Kytlická",
-    "sha1": "920442ca52c969b33db50b3bd272bc407026307d",
+    "sha1": "8dbd072922dc1ed090e355ef4cd2518b8e9f841f",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3135",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4016,13 +4016,13 @@
   },
   "CZ1002774": {
     "name": "Ladestation TS 4813 Chotovická",
-    "sha1": "7a0d550d342c902691b92409aaffe8ee720a2217",
+    "sha1": "9b96a48f38cf28bb449f9d52fa9452b0239d71e7",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4813",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4060,13 +4060,13 @@
   },
   "CZ1002775": {
     "name": "Ladestation TS 2452 Štětínská",
-    "sha1": "d90d4b47bd25dff469c0991d5c1164480ff04602",
+    "sha1": "7b7a7708e2f7c779137d30c3706d122085b2c544",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2452",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4104,13 +4104,13 @@
   },
   "CZ1002776": {
     "name": "Ladestation TS 2977 Vidlicová",
-    "sha1": "6984737a3c04bc37cd517d5c01f56be367e65d20",
+    "sha1": "5b152c8dfbf2c45bb929e8f1560cdc27d2a9594e",
     "station": {
       "additionalInfo": "Bei der Trafostation 2977",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4148,13 +4148,13 @@
   },
   "CZ1002777": {
     "name": "Ladestation TS 1020 V Šáreckém údolí",
-    "sha1": "bd652c96312e830a0453cda0d96a0633409b384c",
+    "sha1": "8fde6fe78bf9adc8ecfa59fccfdd56f21ecfdae2",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 1020",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4192,13 +4192,13 @@
   },
   "CZ1002778": {
     "name": "Ladestation TS 5299 Arabská",
-    "sha1": "bd8fe5992a9566902976ec1e6213b96691f12dd9",
+    "sha1": "3e337d4161a479bb75cf019612035ad881f2e40e",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 5299",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4236,13 +4236,13 @@
   },
   "CZ1002779": {
     "name": "Ladestation TS 3657 Choceradská",
-    "sha1": "6cf53ec71629fabe5cf755b5c5120714e1d864de",
+    "sha1": "210ec1e48a5641c472c0eab7670e2273297dcae2",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3657",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4280,13 +4280,13 @@
   },
   "CZ1002780": {
     "name": "Ladestation TS 3188 Cihlářova",
-    "sha1": "20468c69c80c800c0e67b67c972a442d81988c96",
+    "sha1": "86289f01e82a498bd0116342d2c52fe205c68ca1",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3188",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4324,13 +4324,13 @@
   },
   "CZ1002781": {
     "name": "Ladestation TS 3195 Mařatkova",
-    "sha1": "fcdf25ad93c313520502bd7be6c587a36506e7d5",
+    "sha1": "d7ea1c3b305e05bcbc3f7ffc7118cf79c18d9a0e",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3195",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4368,13 +4368,13 @@
   },
   "CZ1002782": {
     "name": "Ladestation TS 3665 Za Mlýnem",
-    "sha1": "e5a49e439fb264c43eb372b88aeed98b76c46a3e",
+    "sha1": "b7727d79df609d2ec7d59e5ace9c8be7b907b4d3",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3665",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4412,13 +4412,13 @@
   },
   "CZ1002783": {
     "name": "Ladestation TS 3823 Na pláni",
-    "sha1": "104821b9dd6ad89443b251b1070754ece795b4a4",
+    "sha1": "f2616eda7454bf547312af7942597a6c0639620f",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3823",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4456,13 +4456,13 @@
   },
   "CZ1002784": {
     "name": "Ladestation TS 4279 Miletická",
-    "sha1": "a35b869ebabacd4f89d1c8c093cd45a76dda18c4",
+    "sha1": "c12dbfd56479703f37d59271bdb3d58186492a68",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4279",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4500,13 +4500,13 @@
   },
   "CZ1002785": {
     "name": "Ladestation TS 4283 Měšínská",
-    "sha1": "6fb7642fd279b5ebf545e318ac93d44cdb190ab8",
+    "sha1": "cbd551318781f46e3b95fc2b6c1ee0f9da6f3d77",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4283",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4544,13 +4544,13 @@
   },
   "CZ1002786": {
     "name": "Ladestation TS 175 Náměsí osvoboditelů",
-    "sha1": "50a1f6d89b8a471b80de0c6745cf7b43366107a9",
+    "sha1": "fe59b3b497b4b08f3ff6fcaf0fdde8c3703c4322",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 175",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4588,13 +4588,13 @@
   },
   "CZ1002787": {
     "name": "Ladestation TS 4657 Tasovská",
-    "sha1": "d7e5001ca735ffd95ef326e60e5717f581458a39",
+    "sha1": "3253bf9d17fccaf80a60f53e1c5dd77dfb7682f0",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4657",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4632,13 +4632,13 @@
   },
   "CZ1002788": {
     "name": "Ladestation TS 4452 Hábova",
-    "sha1": "83dec068b73e711258f3e77bc6b10fa3c301913c",
+    "sha1": "d912432807297792787555357453d5a903b8024a",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4452",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4676,13 +4676,13 @@
   },
   "CZ1002789": {
     "name": "Ladestation TS 1617 Nad Turbovou",
-    "sha1": "bde861db6b79e52a5071ac3018bafd6ef54404fa",
+    "sha1": "3956f51c268a86c8255074499447b3df6572afcf",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 1617",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4720,13 +4720,13 @@
   },
   "CZ1002790": {
     "name": "Ladestation TS 4618 Makovského",
-    "sha1": "f78767b70fb1bf2fe625dda294619c5999a7c716",
+    "sha1": "40701fdb83a5ad14062e75d396212aa75051bd43",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4618",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4764,13 +4764,13 @@
   },
   "CZ1002791": {
     "name": "Ladestation TS 4832 Generála Janouška",
-    "sha1": "683bb03d75625cb6f5a5965fa19542ced303ea1d",
+    "sha1": "26f04c800c22b549bc1c2e65ca1288a58b16a5c6",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4832",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4808,13 +4808,13 @@
   },
   "CZ1002793": {
     "name": "Ladestation TS 2884 Drahorádova",
-    "sha1": "827e63e5d0a8ad17b41c3646cdc3d9a38d1ef656",
+    "sha1": "235888db55b72cde28dbdfa89f52582d0ea04af5",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2884",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4852,13 +4852,13 @@
   },
   "CZ1002794": {
     "name": "Ladestation TS 5067 Urbánkova",
-    "sha1": "c9edd7b9714e6920edb134ba1b324abda9232f8a",
+    "sha1": "e6a87e50f4282e869210af454e8b456faea50fe8",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 5067",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4896,13 +4896,13 @@
   },
   "CZ1002795": {
     "name": "Ladestation TS 4459 Lýskova",
-    "sha1": "aa682c661db9a1935bfbd108c2e6da6c5651c81f",
+    "sha1": "ed5d7d40a45e43b4f3e74b24acaf89b8f98c2d1e",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4459",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4940,13 +4940,13 @@
   },
   "CZ1002796": {
     "name": "Ladestation TS 4481 Amforová",
-    "sha1": "9c336291f01079c62622f3f4c830d682981df074",
+    "sha1": "898292a78a0bd5becec235f5be2cacfd55d14782",
     "station": {
       "additionalInfo": "An der Transformatorstation 4481",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -4984,13 +4984,13 @@
   },
   "CZ1002797": {
     "name": "Ladestation TS 4485 Píškova",
-    "sha1": "5b8f8699509e4c741d760463bf219054e3b73569",
+    "sha1": "e39f9420aed1881aa453556c11b9512ced679119",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4485",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5028,13 +5028,13 @@
   },
   "CZ1002798": {
     "name": "Ladestation TS 4487 Mohylová",
-    "sha1": "0a1acd9689dfa3bc002099d3ac9ddca6b45ded71",
+    "sha1": "cf4bbe988ceee637f25ad42caaeb20ccae712ee9",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4487",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5072,13 +5072,13 @@
   },
   "CZ1002799": {
     "name": "Ladestation TS 4472 Fantova",
-    "sha1": "99f2c12c79da39a69bb50dd503b4c5209d395f87",
+    "sha1": "5ef1d8e96e8dd5364852e940fd3379fbc5fc8c1f",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4472",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5116,13 +5116,13 @@
   },
   "CZ1002800": {
     "name": "Ladestation TS 4330 Výpadová",
-    "sha1": "288ccb0a030278907fe50cfe5c589ffd0c3cd338",
+    "sha1": "eedc9caceba0140c4dd68982138f86fa0fb627ba",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4330",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5336,13 +5336,13 @@
   },
   "CZ1002840": {
     "name": "Ladestation Ostrčilovo náměstí",
-    "sha1": "da94036afd42f1a3a1a312eb25a9d621bfadc8c8",
+    "sha1": "f1c23723b78fe4a91beb377a198bae5c52f8ff83",
     "station": {
       "additionalInfo": "Beim Ostrčilovo Platz",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5380,13 +5380,13 @@
   },
   "CZ1002907": {
     "name": "Ladestation TS 4473 Fantova",
-    "sha1": "b659ed96998d331fc3bc463211457c29d3eb8899",
+    "sha1": "668aa7ffa54ac0f13811cb415befc17d948b9325",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4473",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5424,13 +5424,13 @@
   },
   "CZ1003038": {
     "name": "Schnellladestation Radnice Modřany",
-    "sha1": "290f3c2ca04d211e013fe5bcb1fd1771ed79ca9b",
+    "sha1": "2671d723e133ea957ab90578ccc360613c1b0a43",
     "station": {
       "additionalInfo": "Neben dem Stadtamt Prag 12",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5519,13 +5519,13 @@
   },
   "CZ1003049": {
     "name": "Ladestation Dock Marina Boulevard",
-    "sha1": "7a45ef442756112ee893ce38350069edd5921c4c",
+    "sha1": "e4256df1469f07b8624a3d4f490080cd73649185",
     "station": {
       "additionalInfo": "Povinnost při vjezdu na parkoviště využít tlačítko interkomu umístněné na vjezdovém sloupku do areálu DOCK.",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5572,13 +5572,13 @@
   },
   "CZ1003079": {
     "name": "Ladestation TS 4607 Šímova",
-    "sha1": "a87eda076bb932bd4e8b753506a7baab79ca5b0e",
+    "sha1": "9c32eaf5f7063165f4e77187b12b525df99ad02f",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 4607",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5616,13 +5616,13 @@
   },
   "CZ1003080": {
     "name": "Ladestation TS 2629 Květinková",
-    "sha1": "b91d51f458b107283f787095c075d1e0a229a9d9",
+    "sha1": "951d44b2cce608094947f77e81b7a25f7084e57e",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2629",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5660,13 +5660,13 @@
   },
   "CZ1003081": {
     "name": "Ladestation TS 3467 Butovická",
-    "sha1": "baf235822fde2bdfdce3043c1fcc885d2538827f",
+    "sha1": "a6414f4c2ba76e0534f10c2b8027f0b2aa864bcf",
     "station": {
       "additionalInfo": "Bei der Transformationsstation TS 3467",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5704,13 +5704,13 @@
   },
   "CZ1003082": {
     "name": "Ladestation TS 5079 Krupná",
-    "sha1": "42f257eb12b2e109354e3556e1cb27ca536a08ac",
+    "sha1": "fc092c051c35c8f158b53708657ed17b72f55115",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 5079",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5799,13 +5799,13 @@
   },
   "CZ1003086": {
     "name": "Ladestation Radnice Modřany",
-    "sha1": "da4af3cf9907465c67aba581c28d0632a857d925",
+    "sha1": "e007afc498238b2df35c7f979254dec1212c45c2",
     "station": {
       "additionalInfo": "Neben dem Stadtamt Prag 12",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5843,13 +5843,13 @@
   },
   "CZ1003088": {
     "name": "Ladestation Německá škola v Praze",
-    "sha1": "0e97d68bf04629e76d549275ef1814072678d943",
+    "sha1": "29b53a97dc969d51184cc4ef81a00cf7a4926d38",
     "station": {
       "additionalInfo": "Auf dem Parkplatz neben der Deutschen Schule",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5894,13 +5894,13 @@
   },
   "CZ1003145": {
     "name": "Ladestation TS 722 Františkova",
-    "sha1": "1d15eef7a3f7e514b2f014573210076b3f620a91",
+    "sha1": "d536d435068f3949a8a37abeb7912ad6a383492d",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 722",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5945,13 +5945,13 @@
   },
   "CZ1003151": {
     "name": "Ladestation TS 3932 Pod Vartou",
-    "sha1": "4b9a6375a9b3cfe64d6b908b84627f918d354834",
+    "sha1": "8e2a8a1682195a77fdaf97c35c4217f43f8aaccf",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 3932",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -5996,13 +5996,13 @@
   },
   "CZ1003152": {
     "name": "Ladestation TS 3672 Na Křivce",
-    "sha1": "263d3b32c3d4b4c216b41bbc37409af925b4dd96",
+    "sha1": "2064ee440bf86eda973c8396711261ba65387ff2",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 3672",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6098,13 +6098,13 @@
   },
   "CZ1003162": {
     "name": "Ladestation OC Bořislavka",
-    "sha1": "c9837ab0181b2895423bcdd02496d501bdd6905d",
+    "sha1": "fdcab3f1a58c9b77e372d26c104e9ff7f2639541",
     "station": {
       "additionalInfo": "In den Tiefgaragen des OC Bořislavka",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6149,13 +6149,13 @@
   },
   "CZ1003174": {
     "name": "Ladestation Nový Golf",
-    "sha1": "572481f1c4b4895c589162885b83ec81288648fc",
+    "sha1": "a71e617cf9902a6ea4ef11db20b3a590ff575d3d",
     "station": {
       "additionalInfo": "Auf dem Parkplatz des Nový Golf Hotels",
       "branch": "Hotel",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6193,13 +6193,13 @@
   },
   "CZ1003183": {
     "name": "Ladestation P+R Černý Most",
-    "sha1": "4cfe2e6cfb1ddb107018295f822c69ebd644dbbb",
+    "sha1": "1b4eb4af278a7d70c0340071be2a74c22e88a3df",
     "station": {
       "additionalInfo": "P+R Černý Most, nach dem Eingangstor.",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6246,13 +6246,13 @@
   },
   "CZ1003197": {
     "name": "Schnellladestation Restaurace Rosmarina",
-    "sha1": "fea53d5850331c60eadd9273c14055341260b05b",
+    "sha1": "aef0b6803e6b61236f899ec556561c6a7af184e4",
     "station": {
       "additionalInfo": "Parkplatz neben dem Restaurant Rozmarýna",
       "branch": "Restaurant",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6297,13 +6297,13 @@
   },
   "CZ1003198": {
     "name": "Ladestation TS 2283 Nad lesním divadlem",
-    "sha1": "1d7bd921d9368981b5e9882d1c342893d755211a",
+    "sha1": "9d1f83250deb84852f04e16939aa3bcf13cf8cd8",
     "station": {
       "additionalInfo": "Neben der Transformationsstation TS 2283",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6348,13 +6348,13 @@
   },
   "CZ1003199": {
     "name": "Ladestation TS 3075 Bachova",
-    "sha1": "906fbd594c796a434b044ecd8547465bdec22158",
+    "sha1": "5017bb6909e2128e10e14ef49408ea9c83173c17",
     "station": {
       "additionalInfo": "Neben der Transformationsstation TS 3075",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6494,13 +6494,13 @@
   },
   "CZ1003266": {
     "name": "Ladestation TS 2011 Donovalská",
-    "sha1": "7e788f1183e80f2dc5cc7b0b41a1cdf60dea232c",
+    "sha1": "38c6d3649125940046bbaa865eb032c5f4b02abf",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2011",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6545,12 +6545,12 @@
   },
   "CZ1003267": {
     "name": "Ladestation Na Sádce 19-17",
-    "sha1": "25f7640cc88edfe539b30221ff2cfc336486246d",
+    "sha1": "f85d4603e8cc40dd388f56f9aabada54a04e54e6",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6587,12 +6587,12 @@
   },
   "CZ1003268": {
     "name": "Ladestation Kunínova",
-    "sha1": "aa2011b130d37d99afe4862886a8058e7c0cb517",
+    "sha1": "e2ce41b472c92f86817cdbc9901af55c19e90dee",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6629,13 +6629,13 @@
   },
   "CZ1003269": {
     "name": "Ultra-Highspeed-Ladestation Plavecký stadion - Jed",
-    "sha1": "921235f48163ff1ec360a0d8b995ca2216553723",
+    "sha1": "3c83f32722679c331aadeeb05892137abfc13f7d",
     "station": {
       "additionalInfo": "Beim Schwimmbad Prag 11",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6680,13 +6680,13 @@
   },
   "CZ1003270": {
     "name": "Ladestation TS 3115 Ledvinova",
-    "sha1": "00f5893fe504820ee0697477a06834d92f6a25cb",
+    "sha1": "d3602afc90ee6184fab4338720f285b8ffe60299",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3115\r\nDie Ladestation befindet sich auf dem kostenpflichtigen Parkplatz.",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6731,12 +6731,12 @@
   },
   "CZ1003271": {
     "name": "Ladestation Prašná",
-    "sha1": "791468da735b33e340b39c8d45f6c5554e749fdb",
+    "sha1": "e2bbb9dceaf78acc348509a6bd501d971a1f1486",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6773,13 +6773,13 @@
   },
   "CZ1003272": {
     "name": "Ladestation TS 3022 Ocelíkova",
-    "sha1": "fa0cbb6f83849c76e062cfadeadef173e4b56abc",
+    "sha1": "e9221dd04754a16e6da0daa7dfb83566b41f78c6",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3022",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6824,13 +6824,13 @@
   },
   "CZ1003273": {
     "name": "Ladestation TS 3094 Šalounova",
-    "sha1": "b79adb6ccdaffb6a09045bd2a66b285c58e9ffe5",
+    "sha1": "68462b4e6dbb3129c6e17fe7413f25aaa2347b41",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3094",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6868,13 +6868,13 @@
   },
   "CZ1003298": {
     "name": "Ladestation Radotín - Sídliště",
-    "sha1": "9b663e107004101d503af6f258eaff50fe9af286",
+    "sha1": "46f7fa93d28d5ba33f36e485d0ea3aae6a855afa",
     "station": {
       "additionalInfo": "In der Wohnsiedlung Radotín",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6919,13 +6919,13 @@
   },
   "CZ1003299": {
     "name": "Ladestation TS 751 Šebelova",
-    "sha1": "88b8b3d282c7541cf9c9199b1f0b68b15aedf1f3",
+    "sha1": "5d0febd7cf682cc02486dca6122cd3db88e5b864",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 751",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -6970,13 +6970,13 @@
   },
   "CZ1003300": {
     "name": "Ladestation TS 4760 Bryksova",
-    "sha1": "90d5540fde93361d10e8f93ef3aec68eb57a6f31",
+    "sha1": "475ffa240c4ac8e72f417ceddb6075dd772a5964",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4760",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7021,13 +7021,13 @@
   },
   "CZ1003301": {
     "name": "Ladestation TS 753 Generála Janouška",
-    "sha1": "e944f680f55a922ea667b1699105f36cf2571f44",
+    "sha1": "a73c632bc744273f41ca9caaee9b0a5fa373b472",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 753",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7072,13 +7072,13 @@
   },
   "CZ1003302": {
     "name": "Ladestation Dělnická",
-    "sha1": "b6c1c24219281594d7fe58fe95bef3b7bd16b419",
+    "sha1": "0ddd99f1b25a9da0c54db24c8bbbcd4c691ae293",
     "station": {
       "additionalInfo": "An der Kreuzung Dělnická und Osadní",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7123,12 +7123,12 @@
   },
   "CZ1003304": {
     "name": "Ladestation Krkonošská",
-    "sha1": "a4574f0661883539ccb8c6a4482ec113b539c522",
+    "sha1": "6821774815464bc5871eef47b6b35d551d7f174e",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7172,13 +7172,13 @@
   },
   "CZ1003309": {
     "name": "Ladestation TS 3840 Dědinská",
-    "sha1": "633f8c8102bd7dae441585c8c6d82707f0b2b1b7",
+    "sha1": "557388e8f25a56885c29122648808649bbe21f58",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3840",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7223,13 +7223,13 @@
   },
   "CZ1003310": {
     "name": "Ladestation TS 2142 Půchovská",
-    "sha1": "2c26d3282eb64249e6fe24112146f635cabab0c8",
+    "sha1": "c91a5b30bac79afd97c8e6d005e497e052d0125b",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2142",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7274,13 +7274,13 @@
   },
   "CZ1003311": {
     "name": "Ladestation TS 2134 Bělčická",
-    "sha1": "f8fa15a4c305d092c02c5d4549760e03724f7adc",
+    "sha1": "7b6dcff1010c9ded8683ef9be3af2dd48c1cc448",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2134",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7325,13 +7325,13 @@
   },
   "CZ1003312": {
     "name": "Ladestation TS 3176 Zárubova",
-    "sha1": "3a8c3ffaad81a3063f45d45df9a0a6d1f5333788",
+    "sha1": "7fcb1763df1b9987560363297547a29c31705bdc",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3176",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7376,13 +7376,13 @@
   },
   "CZ1003313": {
     "name": "Ladestation TS 2131 Hrusická",
-    "sha1": "a1c077ba33538cf74d60205d52467fd40af56672",
+    "sha1": "fb6d12b54d5831c15f27fba79619c1f218e2de44",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2131",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7427,13 +7427,13 @@
   },
   "CZ1003334": {
     "name": "Ladestation TS 4647 Na Moklině",
-    "sha1": "103b4059b2aa882ce9307e3ff42d98627f9a8d70",
+    "sha1": "cc8d9b30488bcc78193d10a0e25b2de857aa45a2",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4647",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7478,13 +7478,13 @@
   },
   "CZ1003335": {
     "name": "Ladestation TS 4654 Makovského",
-    "sha1": "652d1594132efd6d57198c554238dd55f0d9f899",
+    "sha1": "7fea4455508e8aa03435d7e4195e559511694ec8",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4654",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7522,13 +7522,13 @@
   },
   "CZ1003336": {
     "name": "Ladestation TS 467 U Kolejí",
-    "sha1": "652dba2ce6f71310ced27af4302b662fac7e3efb",
+    "sha1": "eda775fe5e3399c06566b7e2e84ebe0dec1c4491",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 467",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7573,13 +7573,13 @@
   },
   "CZ1003337": {
     "name": "Ladestation TS 5306 José Martího",
-    "sha1": "3615e52b2f1e0181dedb71650dbdb0f8654de6c9",
+    "sha1": "5db980ac8deba41cad227a08503aa145584138a1",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 5306",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7624,13 +7624,13 @@
   },
   "CZ1003338": {
     "name": "Ladestation TS 4658 Nedašovská",
-    "sha1": "2b13d75aed4c821f14d3bf919b53b2ea20da8326",
+    "sha1": "9b5d00cdbad9191d3cedd5f64ff66aafde5e3bf9",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4658",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7675,13 +7675,13 @@
   },
   "CZ1003339": {
     "name": "Ladestation TS 2135 Svojšovická",
-    "sha1": "d52901c738d113081309b8d2a34a9ca2e21dec14",
+    "sha1": "06bf9fe5106b172f424bd2a8d154e61cc0b80039",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2135",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7775,13 +7775,13 @@
   },
   "CZ1003380": {
     "name": "Ladestation TS 5175 Družná",
-    "sha1": "7398057d56838c84ac4bb20a588a9cb76829ca5a",
+    "sha1": "02a73e0cd6b77b2442e107b19a2261887ec3abec",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 5175",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7836,12 +7836,12 @@
   },
   "CZ1003381": {
     "name": "Ladestation Do Zahrádek I.",
-    "sha1": "52a64a800d5a10d434e865c57d725af6a977ad07",
+    "sha1": "26dbffbbda395e5ce8e49c728ebcfc365f4d6ef3",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7885,12 +7885,12 @@
   },
   "CZ1003382": {
     "name": "Ladestation Bechyňská",
-    "sha1": "608a78a25760ef506c5158f2f97e927fce027756",
+    "sha1": "094301e5bd2b5fe2366fce155d4b3edb8ac288df",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7934,13 +7934,13 @@
   },
   "CZ1003383": {
     "name": "Ladestation TS 1422 Semilská",
-    "sha1": "b0bbd2bf610d5ea92cf0fe0394b6d773d954dfa6",
+    "sha1": "ea3627a6aad3c75e34d68e9fdce61e38521c8c27",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 1422",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -7985,13 +7985,13 @@
   },
   "CZ1003384": {
     "name": "Ladestation TS 4763 Kapitána Stránského",
-    "sha1": "9d5823a6cbeca186e55d9379340574bf884a3961",
+    "sha1": "a43059f932aa3642ef4ac4deaa0d639107359934",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4763",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8036,13 +8036,13 @@
   },
   "CZ1003390": {
     "name": "Ladestation Hotel Stages Praha I.",
-    "sha1": "f2b3b3783752b1e4ae39709fed7e1ae3b3010e44",
+    "sha1": "77c0fb61cf6fceb07b1505c246076a81a160f96c",
     "station": {
       "additionalInfo": "in der Garage des Hotel Stages",
       "branch": "Hotel",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8087,13 +8087,13 @@
   },
   "CZ1003410": {
     "name": "Ladestation TS 4762 Bryksova 1",
-    "sha1": "dbe6c12168621efe564a15650f28c7b7c797504a",
+    "sha1": "ebbb7333c8ec1c34b8ed37018062353e3b926ba6",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4762",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8138,13 +8138,13 @@
   },
   "CZ1003439": {
     "name": "Ladestation TS 2453 Radomská",
-    "sha1": "0a2a1ed1e7399b99475dec2d2709658c689ff9c7",
+    "sha1": "76ff24d549aa0590fba61997e29da55de502fd66",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2453",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8238,13 +8238,13 @@
   },
   "CZ1003469": {
     "name": "Ladestation Centrum Černý Most strecha 1",
-    "sha1": "730bc4bc43cd50948126428aa0c4371484764cea",
+    "sha1": "f939bb347474b8c718c69b45eafd26dfb7cc78b2",
     "station": {
       "additionalInfo": "auf dem Dachparkplatz Centrum Cerný most",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8289,13 +8289,13 @@
   },
   "CZ1003475": {
     "name": "Schnellladestation Kongresové centrum",
-    "sha1": "e32f582d6f8df836782de2612f3a252373d82f02",
+    "sha1": "923be4cdf7f234bcb64a8aee1dc83980e810ffe7",
     "station": {
       "additionalInfo": "P+R Kongresové centrum Praha - Jih 1",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8347,12 +8347,12 @@
   },
   "CZ1003509": {
     "name": "Ladestation Driving Range Rohanský Ostrov",
-    "sha1": "3ad5ace6a718904a06587c93974e9e7ac486fc2d",
+    "sha1": "39b63f788f5dbe5e1af2086e23cc0283be0711a5",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8396,13 +8396,13 @@
   },
   "CZ1003517": {
     "name": "Ladestation TS 2722 Šimůnkova",
-    "sha1": "2cf02ef9a6a508ebda66104f2482bcc259b449eb",
+    "sha1": "6c5e3ebd91eaface5b6830f927084173dee9f95a",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2722",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8498,13 +8498,13 @@
   },
   "CZ1003525": {
     "name": "Ladestation OC Westfield Chodov IV",
-    "sha1": "f7503982a1a8ff63eebf1bb9ba06849d85b4ed8a",
+    "sha1": "0f7fda5c55367d51a7d7e4dae379902d9b98654d",
     "station": {
       "additionalInfo": "Auf den Dachparkplätzen des Westfield Chodov",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8549,13 +8549,13 @@
   },
   "CZ1003526": {
     "name": "Ladestation OC Westfield Chodov III",
-    "sha1": "45bf5a43ab12d0e80b74bfd60e5100c82f71637e",
+    "sha1": "cc40ff0c35e7497012a33977b4ee1514b7ddceeb",
     "station": {
       "additionalInfo": "Auf den Dachparkplätzen des Westfield Chodov",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8600,13 +8600,13 @@
   },
   "CZ1003527": {
     "name": "Ladestation OC Westfield Chodov II",
-    "sha1": "e8c5ca3205957e0f781cd4584db5e48241bca94f",
+    "sha1": "ef1797af3b96d1651142dc232a2193e4b0484902",
     "station": {
       "additionalInfo": "Auf den Dachparkplätzen des Westfield Chodov",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8651,13 +8651,13 @@
   },
   "CZ1003530": {
     "name": "Ladestation Galerie Harfa II",
-    "sha1": "da6b142c151f87f17994320b83dc7bc40b51d31f",
+    "sha1": "7342e447687345519945d25889e41b7fe761e135",
     "station": {
       "additionalInfo": "In der Galerie Harfa Tiefgarage",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8702,13 +8702,13 @@
   },
   "CZ1003547": {
     "name": "Ladestation TS 194 Národních Hrdinů",
-    "sha1": "5f4df618f311aa3ab19d04bd4cbb145a57006f0b",
+    "sha1": "812f552775ac4cc33705eb9ddec36b436802db22",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 194",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8753,13 +8753,13 @@
   },
   "CZ1003548": {
     "name": "Ladestation Železnobrodská",
-    "sha1": "2cb021ada3d6dc3486d6b8a8fa04874051f81f93",
+    "sha1": "70bf988d58c193d997ee9017e6f023e0eb1b6f4c",
     "station": {
       "additionalInfo": "Neben dem Rathaus Prag 19",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8804,12 +8804,12 @@
   },
   "CZ1003549": {
     "name": "Ladestation Skanska Reality Čtvrť Emila Kolbena",
-    "sha1": "d88f56ae0521edd7b6c6cf992bf63744800de61d",
+    "sha1": "4bd62ab53ba233206150d35e5d01b680b9bf8657",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8853,12 +8853,12 @@
   },
   "CZ1003580": {
     "name": "Ladestation Do Zahrádek II.",
-    "sha1": "a1b66c8cc22c4544e711f84c13d888dec1e11ff6",
+    "sha1": "e62273055240b4580d18814462d51fed8f858c3d",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -8902,13 +8902,13 @@
   },
   "CZ1003589": {
     "name": "Ladestation TS 4780 Vybíralova",
-    "sha1": "5a90d3baa29186965d112878db606a10b67955f3",
+    "sha1": "e646549285242e8901cfb561371089a42a3eed39",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4780",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9002,12 +9002,12 @@
   },
   "CZ1003596": {
     "name": "Ladestation Tenis Nad Hliníkem",
-    "sha1": "266708b706b27d6f3631df7fd7538681a25bde11",
+    "sha1": "bbe988484a5d0721f24801b1946954fe29cd08a4",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9051,12 +9051,12 @@
   },
   "CZ1003597": {
     "name": "Ladestation Nové Chabry",
-    "sha1": "5753557dea89f2bee479ca53c0dcddc99ae44ae3",
+    "sha1": "5bc5684b7317aab8d93372c9ae90ddf2f320bbdb",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9100,13 +9100,13 @@
   },
   "CZ1003635": {
     "name": "Ladestation OC Westfield Chodov I",
-    "sha1": "0360b8a699046419f64026b3a870744fc21eb8af",
+    "sha1": "bad4030a5b8f1c37c15761263f1c1422e80d02d5",
     "station": {
       "additionalInfo": "Auf den Dachparkplätzen des Westfield Chodov",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9151,13 +9151,13 @@
   },
   "CZ1003714": {
     "name": "Ladestation Sídlo společnosti SNEO",
-    "sha1": "f9239b9318420bdfd0cca46326d94a67971c9823",
+    "sha1": "7a44bb4e9e152a2ff48623024ac62397dd00b8e7",
     "station": {
       "additionalInfo": "Bei den SNEO Parkplätzen",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9195,12 +9195,12 @@
   },
   "CZ1003726": {
     "name": "Ladestation Pivovar Dolní Počernice",
-    "sha1": "8fb2e852b9ce1f8b502d1a6b0f5149d7c6b6cae5",
+    "sha1": "8a4665e8aba47bed180012098725e3e823078ef1",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9237,13 +9237,13 @@
   },
   "CZ1004374": {
     "name": "Ladestation Úřad MČ Praha 14",
-    "sha1": "5c487deb187b19e23bb0d49aad7f4bab0a95e6b2",
+    "sha1": "e6b72caa9458416be910ab24cf528ee6d91fb5d1",
     "station": {
       "additionalInfo": "Vor dem Gebäude der Stadtverwaltung",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9381,13 +9381,13 @@
   },
   "CZ1004379": {
     "name": "Ladestation TS 490 Krčmářovská",
-    "sha1": "c8121ecaa2a54a3fbee432e398915f8ede4884e7",
+    "sha1": "ffd6095f772739cd3a8ab8eb6cc3fe57078ca76d",
     "station": {
       "additionalInfo": "Bei der Transformatorstation",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9437,13 +9437,13 @@
   },
   "CZ1004380": {
     "name": "Ladestation TS 3381 Česákova",
-    "sha1": "ef7a9751ce81008270227c7994a7082250585cbd",
+    "sha1": "af270428d9dfec65bbd337a31da638e3120cee17",
     "station": {
       "additionalInfo": "Bei der Transformatorstation",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9532,13 +9532,13 @@
   },
   "CZ1004404": {
     "name": "Ladestation TS 3023 Stříbrského",
-    "sha1": "e181ee88697ee2c29c105eeca2fe7f106dc37de4",
+    "sha1": "bce2235e61c9a8ec45175db3225c74a0631625b8",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3023",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9583,12 +9583,12 @@
   },
   "CZ1004445": {
     "name": "Ladestation TS 5047 Rakovského",
-    "sha1": "5b144a51bb2d0cf1a210fe245a1e27c367d61a71",
+    "sha1": "e69a8d44aec3ddad52eea9564430fe588d798ce9",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9625,12 +9625,12 @@
   },
   "CZ1004446": {
     "name": "Ladestation TS 3843 U Valu",
-    "sha1": "b8d1facc06273c2faee4837a5a10c2e3a8ab951c",
+    "sha1": "70d1eb612a471f2fdb2124ff80df1b911454e157",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9667,13 +9667,13 @@
   },
   "CZ1004447": {
     "name": "Ladestation TS 2138 Svojšovická (struhařovská)",
-    "sha1": "f6cbd55db2e1669e7449e4c308e549c9f22b3172",
+    "sha1": "33ba37121d5ad682124fc068a2929d48b1f7a7aa",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2138",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9711,12 +9711,12 @@
   },
   "CZ1004448": {
     "name": "Ladestation Technologie hlavního města Prahy XIII",
-    "sha1": "a1a2f12e1cc170c2a1791f0fed5a74c90e682df1",
+    "sha1": "db33b5ec3c76fef6bc611dfe22be995caff16fcb",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9753,12 +9753,12 @@
   },
   "CZ1004449": {
     "name": "Ladestation Technologie hlavního města Prahy XII",
-    "sha1": "672ec2516a7a9d8387fcdf15d0b7ebfaaf263c82",
+    "sha1": "c23356534ce939a110327524a64d8206aacba60d",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9795,12 +9795,12 @@
   },
   "CZ1004450": {
     "name": "Ladestation Technologie hlavního města Prahy XI",
-    "sha1": "f5108d6b5406ea7ec01e54062b52cb1055248ec1",
+    "sha1": "828e9f3fb96c07cb4312425ed0be5aa2755500c8",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9837,12 +9837,12 @@
   },
   "CZ1004451": {
     "name": "Ladestation Technologie hlavního města Prahy X",
-    "sha1": "740b4a4a56669f292a6530c8c52d1047c2b84730",
+    "sha1": "029d0812b6012c9234de744f1120d93c2681d79c",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9879,12 +9879,12 @@
   },
   "CZ1004452": {
     "name": "Ladestation Technologie hlavního města Prahy VIII",
-    "sha1": "30746d260edf4f2bbdedb0a2fe45268f7dfc5043",
+    "sha1": "ffee2d4dccb08bbe36ed3fb57c53d92bcf9ab102",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9921,12 +9921,12 @@
   },
   "CZ1004453": {
     "name": "Ladestation Technologie hlavního města Prahy VII",
-    "sha1": "78242b82cfa363f134a95abf344e89fcc0f6a53f",
+    "sha1": "2b5df922af138357660f7258c5a4a76306779da5",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -9963,12 +9963,12 @@
   },
   "CZ1004454": {
     "name": "Ladestation Technologie hlavního města Prahy VI",
-    "sha1": "c817dd31cf96e547757b387754f6c659a85ec2ea",
+    "sha1": "373bf26fb80fd11f1a1ccca6ca20ba73518f3e65",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -10005,12 +10005,12 @@
   },
   "CZ1004455": {
     "name": "Ladestation Technologie hlavního města Prahy V",
-    "sha1": "8d56391bb45c7042c8aa0f9a5046181624b9ab37",
+    "sha1": "4e3b9e27a732df9f16b0963956a34083eea5621b",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -10047,12 +10047,12 @@
   },
   "CZ1004456": {
     "name": "Ladestation Technologie hlavního města Prahy IX",
-    "sha1": "6fb21e74a93af413a0bd4a611a53e91a1567eb5d",
+    "sha1": "460c1260c7dce37dec61ad2bf4fd858759d96dda",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -10089,12 +10089,12 @@
   },
   "CZ1004457": {
     "name": "Ladestation Technologie hlavního města Prahy IV",
-    "sha1": "c4dca9c4d9abc183db1945695e5df030645a885b",
+    "sha1": "605503364258f1e4b4fd9db6ef1d300fc6d734f6",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -10131,12 +10131,12 @@
   },
   "CZ1004458": {
     "name": "Ladestation Technologie hlavního města Prahy III",
-    "sha1": "b19db6acfa7961db40e30a0d91d03e894aba64c8",
+    "sha1": "1bbf91b077dbd5c59ba8a9db2ef5d137471a216f",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -10173,12 +10173,12 @@
   },
   "CZ1004459": {
     "name": "Ladestation Technologie hlavního města Prahy II",
-    "sha1": "4416b8977024599046342f8fc03addf954ed6281",
+    "sha1": "76fe972c81429052711a245e3e2db66e0ea4ccce",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -10215,12 +10215,12 @@
   },
   "CZ1004460": {
     "name": "Ladestation Technologie hlavního města Prahy I",
-    "sha1": "a325887d406e26a8b46121a619352343f6178269",
+    "sha1": "40088fe6658240d6036a62c3737317ea446df6c6",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -10345,13 +10345,13 @@
   },
   "CZ2002620": {
     "name": "Ladestation Alza Říčany",
-    "sha1": "9207f4fbc5854b17bc614ee15b09ac936dacf0e2",
+    "sha1": "7b0a3c3f28c8071d7b61088ceafdeaf9f18c12e2",
     "station": {
       "additionalInfo": "Im oberen Teil des Parkplatzes OC Lihovar",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Říčany",
@@ -10389,13 +10389,13 @@
   },
   "CZ2002640": {
     "name": "Ladestation VTP Roztoky",
-    "sha1": "c28a6a6fc45b5e5cd03dc21484851c249744826e",
+    "sha1": "8e11bd76a65f3e641293456eb81dcacbd594889e",
     "station": {
       "additionalInfo": "Rechts am Eingang von der Borivojova Straße bei der Trafostation",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Roztoky",
@@ -10433,13 +10433,13 @@
   },
   "CZ2002670": {
     "name": "Ladestation OC Central Kladno",
-    "sha1": "349d001c3d8babd1dc1890692bae689de8cf4622",
+    "sha1": "4de26b44fc28e91187f7618e525299e9603ec2f5",
     "station": {
       "additionalInfo": "In den Garage des Einkaufszentrums",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Kladno",
@@ -10709,13 +10709,13 @@
   },
   "CZ2002729": {
     "name": "Ladestation Hotel SEN",
-    "sha1": "bb237ba3237869ede7f6344b239027a26a9e72d8",
+    "sha1": "83a1cbbb932c64579353593a73b059bf8bc26716",
     "station": {
       "additionalInfo": "Beim Hotelparkplatz",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Senohraby",
@@ -11082,13 +11082,13 @@
   },
   "CZ2003177": {
     "name": "Ladestation Mníšek parkoviště Pražská",
-    "sha1": "307c8755702beb6320b2433c2a2ffad7a16c692b",
+    "sha1": "4c4f73dff889bc66a9fbfac84bb6a99a1ca72800",
     "station": {
       "additionalInfo": "P+R Mníšek pod Brdy",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Mníšek pod Brdy",
@@ -11184,13 +11184,13 @@
   },
   "CZ2003385": {
     "name": "Ladestation Mníšek náměstí",
-    "sha1": "1247828be6a7cc47a2930065aaee8c3f8de9595e",
+    "sha1": "b24c83af5695d86b7dc4716dfd42f5dc5f61d79d",
     "station": {
       "additionalInfo": "Beim Parkplatz am Hauptplatz Mníšek pod Brdy",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Mníšek pod Brdy",
@@ -11439,12 +11439,12 @@
   },
   "CZ2003594": {
     "name": "Ladestation Monínec",
-    "sha1": "c9b8924cf17c2cebc5d0798409cbd7e182b64421",
+    "sha1": "e40d309706e1a6daedb8491cce5667bb3f010a71",
     "station": {
       "branch": "Hotel",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Sedlec-Prčice",
@@ -11488,13 +11488,13 @@
   },
   "CZ2003608": {
     "name": "Ladestation Zámek Průhonice parkoviště",
-    "sha1": "8cf5ea57df566fe277a6cc171fc299a9a19557cd",
+    "sha1": "33f55ae50832296f7e71710e54b1f985d3fc7e20",
     "station": {
       "additionalInfo": "Neben dem Schloss Průhonice",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Průhonice",
@@ -11539,12 +11539,12 @@
   },
   "CZ2003609": {
     "name": "Ladestation Říčany - pivovar",
-    "sha1": "5cb982bb648e60a2a85dae1300cf38b6f1829a1f",
+    "sha1": "ea46e6e0a5b8497c133a7cc7ac8f69a84cfaa1c9",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Říčany",
@@ -11632,13 +11632,13 @@
   },
   "CZ3102626": {
     "name": "Ladestation Alza České Budějovice",
-    "sha1": "9d4eff1e0d1f2d8418600e1b5713294665faab2b",
+    "sha1": "e1ed5f6502debe26a25e947f276c32a749496dc7",
     "station": {
       "additionalInfo": "Von der Straße Plzenská",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "České Budějovice",
@@ -11676,13 +11676,13 @@
   },
   "CZ3102728": {
     "name": "Ladestation Galerie Písek",
-    "sha1": "e20d98fc3fac78cb4d4334ad845e114330638b23",
+    "sha1": "cfab927c83649cbcefd9f7fb5ac762a00f0ca4e0",
     "station": {
       "additionalInfo": "In der Garage des Zentrums",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Písek",
@@ -12049,13 +12049,13 @@
   },
   "CZ3202594": {
     "name": "Ladestation Easy Hotel Plzeň",
-    "sha1": "7db84fa2f9242836a0d6f1901ee73aa3c44142e7",
+    "sha1": "c6beafc82deb74657a533f387abe637a12b72080",
     "station": {
       "additionalInfo": "Von der Straße U Prazdroje zu den Garagen des Easy Hotels",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Plzeň",
@@ -12232,13 +12232,13 @@
   },
   "CZ3202886": {
     "name": "Ladestation Rentiro SE 1",
-    "sha1": "ad9dbc2656c85061e1b744327da500463ddee84f",
+    "sha1": "325f1347995ac18b41164cf0c41f198568feccec",
     "station": {
       "additionalInfo": "Bei der Rentiro Zentrale",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Plzeň",
@@ -12378,13 +12378,13 @@
   },
   "CZ3203241": {
     "name": "Ladestation ČSOB Plzeň",
-    "sha1": "f1512ca23d59fc83d7ee51af2bd74f5d2cfb3b42",
+    "sha1": "d225ace15db958cc2b6f2415f40c22675866f354",
     "station": {
       "additionalInfo": "Dobíjecí stanice je přístupná pouze zákazníkům ČSOB s platným povolením vjezdu",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Plzeň",
@@ -12464,13 +12464,13 @@
   },
   "CZ4102727": {
     "name": "Ladestation Hotel Esplanade",
-    "sha1": "95e5a25e712126dee86f6bce40f2fa66cb87b042",
+    "sha1": "5766c1b4dbba58a6b6768ba8176acd5ed51058e4",
     "station": {
       "additionalInfo": "In der Hotelgarage",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Mariánské Lázně",
@@ -12559,13 +12559,13 @@
   },
   "CZ4102792": {
     "name": "Ladestation Hotel Agricola",
-    "sha1": "eb58f9cb469ba1933276bb8d9f41058ffc2ca001",
+    "sha1": "f967a69b611abe080447d24f35f0627f6eace2fa",
     "station": {
       "additionalInfo": "In der Garage des Hotels",
       "branch": "Hotel",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Mariánské Lázně",
@@ -13247,13 +13247,13 @@
   },
   "CZ4203193": {
     "name": "Ladestation Alza Chomutov",
-    "sha1": "eab4523cc10aae61f86496ea115cf991bc56b3b3",
+    "sha1": "e659002868e42c8d6262a3bb98c42b9b6599d17e",
     "station": {
       "additionalInfo": "Auf dem Parkplatz neben Alza Chomutov",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Chomutov",
@@ -13342,13 +13342,13 @@
   },
   "CZ5102669": {
     "name": "Ladestation OC Central Jablonec",
-    "sha1": "8b2d9f4a3c21cad5fbb89ad3482f35927e32685d",
+    "sha1": "d8d9888afb3f19a236a76a58907cbad82d659a75",
     "station": {
       "additionalInfo": "Direkt nach der Garageneinfahrt vom OC Central Jablonec",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Jablonec nad Nisou",
@@ -13474,13 +13474,13 @@
   },
   "CZ5102802": {
     "name": "Schnellladestation P4 Plaza Liberec",
-    "sha1": "e53d8c145a57c3b5c051195ca4f6f275f2914e64",
+    "sha1": "dc704272bf4610249563a691240de43f89d66b07",
     "station": {
       "additionalInfo": "In der Garage des Einkaufzentrums",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Liberec",
@@ -13903,13 +13903,13 @@
   },
   "CZ5204376": {
     "name": "Schnellladestation ČSOB Hradec Králové",
-    "sha1": "30ea0b7b6da95d85b96fbd41620676c2ce872728",
+    "sha1": "2c0c3ddd17dcb3f00769dd64760a698af8c99cb5",
     "station": {
       "additionalInfo": "Die Ladestation ist nur für Kunden der ČSOB mit einer gültigen Einfahrtsgenehmigung zugänglich",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Hradec Králové",
@@ -13947,12 +13947,12 @@
   },
   "CZ5204415": {
     "name": "Ladestation Orea Špindlerův Mlýn",
-    "sha1": "b23eae6c0c77bc99b026c7b275420dccb359eb6a",
+    "sha1": "928058793532a3559b92b14ae405319157a95e5e",
     "station": {
       "branch": "Hotel",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Špindlerův Mlýn",
@@ -14267,12 +14267,12 @@
   },
   "CZ5303546": {
     "name": "Ladestation Hotel Kraskov",
-    "sha1": "8f4022dabd438be5ab7dd82be0bd0f20c275c70d",
+    "sha1": "4d8813b469711601e1cfa3fdbe8380f8ef77908d",
     "station": {
       "branch": "Hotel",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Třemošnice",
@@ -14550,13 +14550,13 @@
   },
   "CZ6402625": {
     "name": "Ladestation IKEA Brno",
-    "sha1": "5d3c5eaca62cee521f17c40e10e2e69fd3922fd2",
+    "sha1": "2503b1c6b8e9eb29ca678ecb37d0f2c0880dc115",
     "station": {
       "additionalInfo": "Parkplatz AVION SP Brno, unter der Werbetafel.",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Brno",
@@ -14594,13 +14594,13 @@
   },
   "CZ6402643": {
     "name": "Ladestation Alza Brno",
-    "sha1": "1da20f51c91cc9fb03d3e1c00801feaa3c1ec027",
+    "sha1": "176086e17b0e35eda597a2b4e64a2a0ba9a4721e",
     "station": {
       "additionalInfo": "Parkplatz von Alza.cz",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Brno",
@@ -15709,13 +15709,13 @@
   },
   "CZ8002632": {
     "name": "Ladestation IKEA Ostrava",
-    "sha1": "634caf7926ae876ad3cefed40d937d9def04ef4f",
+    "sha1": "703acfa23200f52da0af86babbce5effcbdff35b",
     "station": {
       "additionalInfo": "Parkplatz AVION SP Ostrava",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Ostrava",
@@ -15753,13 +15753,13 @@
   },
   "CZ8002637": {
     "name": "Ladestation OC Nová Karolín",
-    "sha1": "5c5a6e15de7914cccdd8016e61b51cf6950a1568",
+    "sha1": "65f3ea835a63c5b0990026fc97c0f9c750f22782",
     "station": {
       "additionalInfo": "In der Tiefgarage OC Forum Nová Karolína. Legen Sie den RFID-Tag unter die LED-Leuchte.",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Ostrava",
@@ -16360,12 +16360,12 @@
   },
   "CZ8003243": {
     "name": "Ladestation Alza Opava",
-    "sha1": "178f87c9ea819bd3c3c3c324b370e7e9fdc291e1",
+    "sha1": "ba9fd5af1458580b3d6be3c922a661bea98603f8",
     "station": {
       "branch": "Einzelhandel",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Opava",

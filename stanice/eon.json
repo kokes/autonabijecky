@@ -21875,8 +21875,8 @@
     }
   },
   "51439": {
-    "name": "E.ON Penzion Stella Prostějov",
-    "sha1": "44a02ec06fa649a5c7bac0caac6431f692af5637",
+    "name": "E.ON Stella Prostějov AC 2",
+    "sha1": "4535efe216784be5c65df1a00b53453421b44dc0",
     "station": {
       "address": "Olomoucká 4390/112",
       "city": "Prostějov",
@@ -21890,6 +21890,84 @@
         "is_green_energy": true
       },
       "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-12-02T23:01:16.007Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.48143484",
+            "longitude": "17.12049953"
+          },
+          "evse_id": "CZ*EON*E25035935*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35935"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-12-02T23:01:16.007Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.48143484",
+            "longitude": "17.12049953"
+          },
+          "evse_id": "CZ*EON*E25035935*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35936"
+        },
         {
           "capabilities": [
             "CONTACTLESS_CARD_SUPPORT",
@@ -22033,7 +22111,7 @@
       ],
       "id": "51439",
       "last_updated": "RESET",
-      "name": "E.ON Penzion Stella Prostějov",
+      "name": "E.ON Stella Prostějov AC 2",
       "opening_times": {
         "twentyfourseven": true
       },
