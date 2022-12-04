@@ -10255,6 +10255,49 @@
       "street": "Slezská"
     }
   },
+  "CZ1004473": {
+    "name": "Ladestation Národní",
+    "sha1": "d61b22f767b37879fbdb1bed145af8c21c9b701e",
+    "station": {
+      "additionalInfo": "",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004473",
+      "csName": "Ladestation Národní",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Národní",
+      "evseId": "CZ*PRE*E1S8155*2",
+      "geoCoord": {
+        "latitude": "50.082720",
+        "longitude": "14.420630"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "11000",
+      "region": "Hlavní město Praha",
+      "street": "Národní"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "3c1b2a0a7ebe4a9dd77f977bfa2e5d6dfdfc2762",
