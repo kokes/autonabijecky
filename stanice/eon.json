@@ -15244,7 +15244,7 @@
   },
   "35927": {
     "name": "E.ON Nové Hrady",
-    "sha1": "2c626caed4ccb02b80676becfcf484d1ba50cfb3",
+    "sha1": "506961db5ad0e11cd8d378ad6453f8e78387d40f",
     "station": {
       "address": "Jižní město",
       "city": "Nové hrady",
@@ -15265,7 +15265,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-12-06T23:01:01.69Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.78825043",
             "longitude": "14.78279243"
@@ -15283,7 +15304,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-12-06T23:01:01.69Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.78825043",
             "longitude": "14.78279243"
@@ -15294,6 +15336,9 @@
           "status": "RESET",
           "uid": "35928"
         }
+      ],
+      "facilities": [
+        "BUS_STOP"
       ],
       "id": "35927",
       "last_updated": "RESET",
@@ -15307,6 +15352,7 @@
       "owner": {
         "name": "E.ON Energie, a.s."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "373 33",
       "publish": true,
@@ -15620,7 +15666,7 @@
   },
   "35937": {
     "name": "E.ON Telč",
-    "sha1": "7d6371a353ec616f306ce585b45e310fb04462de",
+    "sha1": "83abe5017b01d558a50ccf04f0ab64249c1c256e",
     "station": {
       "address": "Tobiáškova 131",
       "city": "Telč",
@@ -15641,7 +15687,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-12-06T23:01:01.69Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.18261059",
             "longitude": "15.45626756"
@@ -15659,7 +15726,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-12-06T23:01:01.69Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.18261059",
             "longitude": "15.45626756"
@@ -15670,6 +15758,10 @@
           "status": "RESET",
           "uid": "35938"
         }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE"
       ],
       "id": "35937",
       "last_updated": "RESET",
@@ -15683,6 +15775,7 @@
       "owner": {
         "name": "E.ON Energie, a.s."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "588 56",
       "publish": true,

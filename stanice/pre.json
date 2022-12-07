@@ -11629,6 +11629,105 @@
       "street": "Olivova"
     }
   },
+  "CZ2004476": {
+    "name": "Schnellladestation Penny Benátky nad Jizerou",
+    "sha1": "9cce3f332582add55f21077182fcdf4aded9319a",
+    "station": {
+      "branch": "Lebensmitteleinzelhandel",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Benátky nad Jizerou",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2004476",
+      "csName": "Schnellladestation Penny Benátky nad Jizerou",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "",
+      "enCsname": "Fast charger Penny Benátky nad Jizerou",
+      "evseId": "CZ*PRE*E1R0049*3",
+      "geoCoord": {
+        "latitude": "50.286630",
+        "longitude": "14.826550"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/benatky_nad_jizerou.png"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "29471",
+      "region": "Středočeský kraj",
+      "street": "Tovární 111"
+    }
+  },
+  "CZ2004477": {
+    "name": "Ultra-Highspeed-Ladestation KFC Loket",
+    "sha1": "17e9715d66d0b54556af6ef97a559d3d108ad8d2",
+    "station": {
+      "branch": "Fast Food Restaurant",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≥200kW"
+        ]
+      },
+      "city": "Loket",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2004477",
+      "csName": "Ultra-Highspeed-Ladestation KFC Loket",
+      "csStatus": "operable",
+      "csType": "ultra_fast_charger",
+      "enCsname": "Ultra-highspeed charger KFC Loket",
+      "evseId": "CZ*PRE*E1R0048*2",
+      "geoCoord": {
+        "latitude": "49.658800",
+        "longitude": "15.118100"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/kfc_loket_1080x600.png"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "35731",
+      "region": "Středočeský kraj",
+      "street": "Loket"
+    }
+  },
   "CZ3102615": {
     "name": "Schnellladestation EuroOil Sedlice",
     "sha1": "b1c50ba8f90f1d9b2d98657c3f1e1d3252cb7917",
