@@ -17800,7 +17800,7 @@
   },
   "35982": {
     "name": "E.ON NC Berounka Plzeň",
-    "sha1": "e4e260204688e611d5acc4343ff7636584c613ac",
+    "sha1": "3b5ead564b7463722db4e3a08159fb082b100f0a",
     "station": {
       "address": "Nákupní 9",
       "city": "Plzeň",
@@ -17821,13 +17821,34 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-12-09T23:01:01.577Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.7455863",
             "longitude": "13.44249134"
           },
           "evse_id": "CZ*EON*E25035980*1",
-          "last_seen_as_planned": "2022-01-18T14:11:39.197Z",
+          "last_seen_as_planned": "2022-12-09T23:01:01.577Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35980"
@@ -17839,13 +17860,34 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-12-09T23:01:01.577Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.7455863",
             "longitude": "13.44249134"
           },
           "evse_id": "CZ*EON*E25035980*2",
-          "last_seen_as_planned": "2022-01-18T14:11:39.197Z",
+          "last_seen_as_planned": "2022-12-09T23:01:01.577Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35981"
@@ -17857,13 +17899,34 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-12-09T23:01:01.577Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.7455863",
             "longitude": "13.44249134"
           },
           "evse_id": "CZ*EON*E25035982*1",
-          "last_seen_as_planned": "2022-01-18T14:11:39.197Z",
+          "last_seen_as_planned": "2022-12-09T23:01:01.577Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35982"
@@ -17875,17 +17938,41 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-12-09T23:01:01.577Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.7455863",
             "longitude": "13.44249134"
           },
           "evse_id": "CZ*EON*E25035982*2",
-          "last_seen_as_planned": "2022-01-18T14:11:39.197Z",
+          "last_seen_as_planned": "2022-12-09T23:01:01.577Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35983"
         }
+      ],
+      "facilities": [
+        "MALL"
       ],
       "id": "35982",
       "last_updated": "RESET",
@@ -17899,6 +17986,7 @@
       "owner": {
         "name": "E.ON Energie, a.s."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "312 00",
       "publish": true,
@@ -20716,7 +20804,7 @@
   },
   "51417": {
     "name": "E.ON NC Haná Prostějov",
-    "sha1": "c98857af730c7e2967475ec842f061c023596233",
+    "sha1": "b763fb43a79f8f6066951123e5461bcfd379fe26",
     "station": {
       "address": "Plumlovská 4126",
       "city": "Prostějov",
@@ -20764,7 +20852,7 @@
             "longitude": "17.09623066"
           },
           "evse_id": "CZ*EON*E11051417*1",
-          "last_seen_as_planned": "2022-07-29T06:10:18.42Z",
+          "last_seen_as_planned": "2021-10-22T08:29:56.623Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51417"
@@ -20823,7 +20911,7 @@
             "longitude": "17.09623066"
           },
           "evse_id": "CZ*EON*E11051417*2",
-          "last_seen_as_planned": "2022-07-29T06:12:07.823Z",
+          "last_seen_as_planned": "2021-10-22T08:29:56.623Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51418"
