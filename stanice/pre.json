@@ -8851,6 +8851,50 @@
       "street": "Polaneckého"
     }
   },
+  "CZ1003550": {
+    "name": "Ladestation TS 3689 Ještědská",
+    "sha1": "448ea0803427b3bb2c74eb2eea2acea02f950a95",
+    "station": {
+      "additionalInfo": "Bei der Transformatorenstation TS 3689",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003550",
+      "csName": "Ladestation TS 3689 Ještědská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the transformation station TS 3689 Ještědská",
+      "enCsname": "Charger TS 3689 Ještědská",
+      "evseId": "CZ*PRE*E1S8033*2",
+      "geoCoord": {
+        "latitude": "50.014799",
+        "longitude": "14.482795"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14800",
+      "region": "Hlavní město Praha",
+      "street": "Ještědská"
+    }
+  },
   "CZ1003580": {
     "name": "Ladestation Do Zahrádek II.",
     "sha1": "e62273055240b4580d18814462d51fed8f858c3d",
@@ -10295,6 +10339,56 @@
       "postalCode": "11000",
       "region": "Hlavní město Praha",
       "street": "Národní"
+    }
+  },
+  "CZ1004481": {
+    "name": "Ladestation Norma Přátelství",
+    "sha1": "42cd1234b53ff975079ce3d73f91acbf006fa0fc",
+    "station": {
+      "branch": "Lebensmitteleinzelhandel",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004481",
+      "csName": "Ladestation Norma Přátelství",
+      "csStatus": "under_construction",
+      "csType": "charger",
+      "enAdditionalInfo": "",
+      "enCsname": "Charger Norma Přátelství",
+      "evseId": "CZ*PRE*E1S8065*2",
+      "geoCoord": {
+        "latitude": "50.032800",
+        "longitude": "14.596900"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/norma_1080x600.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "11000",
+      "region": "Hlavní město Praha",
+      "street": "Přátelství"
     }
   },
   "CZ2002608": {

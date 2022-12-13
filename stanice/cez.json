@@ -17744,6 +17744,70 @@
       "visible": true
     }
   },
+  "168747": {
+    "name": "N202 - Praha - Sportovní hala Kbely",
+    "sha1": "12eddd763e90d58711bad80a02aac229ffa83727",
+    "station": {
+      "address": {
+        "city": "Praha 19",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.134945,
+        "longitude": 14.5431064,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Toužimská",
+        "url": ""
+      },
+      "customID": "168747",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "12202051850020",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N202"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "12202051850020",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N202"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/img_0972.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "N202 - Praha - Sportovní hala Kbely",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
