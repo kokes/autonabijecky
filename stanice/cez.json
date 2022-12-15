@@ -17808,6 +17808,668 @@
       "visible": true
     }
   },
+  "168943": {
+    "name": "R482 - Praha - OC Letňany - venkovní parkoviště - 3",
+    "sha1": "3e4b105442e50a36cfc7474f4682c62e34bb8f2e",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "663",
+        "latitude": 50.1383511,
+        "longitude": 14.4992125,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Veselská",
+        "url": ""
+      },
+      "customID": "168943",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2622-015",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R482"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-015",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-015",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R482"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/letnany.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R482 - Praha - OC Letňany - venkovní parkoviště - 3",
+      "visible": true
+    }
+  },
+  "168944": {
+    "name": "R485 - Praha - OC Letňany - venkovní parkoviště - 6",
+    "sha1": "5797abcaee478f0060f287d9184629c98afbc63d",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "663",
+        "latitude": 50.1383511,
+        "longitude": 14.4992125,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Veselská",
+        "url": ""
+      },
+      "customID": "168944",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2622-030",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R485"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-030",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-030",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R485"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/letnany.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R485 - Praha - OC Letňany - venkovní parkoviště - 6",
+      "visible": true
+    }
+  },
+  "168971": {
+    "name": "R480 - Praha - OC Letňany - venkovní parkoviště - 1",
+    "sha1": "9ad536c49af337212089d421ed2b230cc8deb9a6",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "663",
+        "latitude": 50.1383511,
+        "longitude": 14.4992125,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Veselská",
+        "url": ""
+      },
+      "customID": "168971",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2722-003",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R480"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-003",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-003",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R480"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/letnany.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R480 - Praha - OC Letňany - venkovní parkoviště - 1",
+      "visible": true
+    }
+  },
+  "168972": {
+    "name": "R481 - Praha - OC Letňany - venkovní parkoviště - 2",
+    "sha1": "639ffffebf3befd90abcb0ccb3fe916cabd8503e",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "663",
+        "latitude": 50.1383511,
+        "longitude": 14.4992125,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Veselská",
+        "url": ""
+      },
+      "customID": "168972",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": " T54-HU1-2522-012",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R481"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": " T54-HU1-2522-012",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": " T54-HU1-2522-012",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R481"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/letnany.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R481 - Praha - OC Letňany - venkovní parkoviště - 2",
+      "visible": true
+    }
+  },
+  "168973": {
+    "name": "R483 - Praha - OC Letňany - venkovní parkoviště - 4",
+    "sha1": "ca8d4800fc52aed0ae5f15ae36522193becc25e3",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "663",
+        "latitude": 50.1383511,
+        "longitude": 14.4992125,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Veselská",
+        "url": ""
+      },
+      "customID": "168973",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2722-008",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R483"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-008",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-008",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R483"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/letnany.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R483 - Praha - OC Letňany - venkovní parkoviště - 4",
+      "visible": true
+    }
+  },
+  "168974": {
+    "name": "R484 - Praha - OC Letňany - venkovní parkoviště - 5",
+    "sha1": "d99d15fd0170ec8bed84a02758e8e0df126bb0ff",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "663",
+        "latitude": 50.1383511,
+        "longitude": 14.4992125,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Veselská",
+        "url": ""
+      },
+      "customID": "168974",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2222-009",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R484"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2222-009",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2222-009",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R484"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/letnany.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R484 - Praha - OC Letňany - venkovní parkoviště - 5",
+      "visible": true
+    }
+  },
+  "168975": {
+    "name": "R487 - Praha - OC Letňany - venkovní parkoviště - 8",
+    "sha1": "ab2f395121be30f0af2257a7722e19507bd9164e",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "663",
+        "latitude": 50.1383511,
+        "longitude": 14.4992125,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Veselská",
+        "url": ""
+      },
+      "customID": "168975",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2622-016",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R487"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-016",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-016",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R487"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/letnany.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R487 - Praha - OC Letňany - venkovní parkoviště - 8",
+      "visible": true
+    }
+  },
+  "168985": {
+    "name": "R486 - Praha - OC Letňany - venkovní parkoviště - 7",
+    "sha1": "5d765992fd74d424f98033ca28adc71692c81071",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "663",
+        "latitude": 50.1383511,
+        "longitude": 14.4992125,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Veselská",
+        "url": ""
+      },
+      "customID": "168985",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2622-017",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R486"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-017",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-017",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R486"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/letnany.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R486 - Praha - OC Letňany - venkovní parkoviště - 7",
+      "visible": true
+    }
+  },
+  "168986": {
+    "name": "UR111 - Praha - OC Letňany - venkovní parkoviště - 9",
+    "sha1": "483ee898150fa4209f31adf8a351b3caab629272",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "663",
+        "latitude": 50.1383511,
+        "longitude": 14.4992125,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Veselská",
+        "url": ""
+      },
+      "customID": "168986",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR111"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR111"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR111"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/ur111.png"
+        }
+      ],
+      "instructions": null,
+      "name": "UR111 - Praha - OC Letňany - venkovní parkoviště - 9",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",

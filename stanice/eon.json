@@ -15515,7 +15515,7 @@
   },
   "35933": {
     "name": "E.ON Parkhotel Hluboká nad Vltavou",
-    "sha1": "684ac856b2c05a0b7b0d0f05c88ca9e6850425dd",
+    "sha1": "dba6cd91635a91ccb8d72625868e3a8c8e72fef0",
     "station": {
       "address": "Masarykova 602",
       "city": "Hluboká nad Vltavou",
@@ -15536,7 +15536,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-12-14T23:01:08.683Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.05507084",
             "longitude": "14.42807045"
@@ -15554,7 +15575,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-12-14T23:01:08.683Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.05507084",
             "longitude": "14.42807045"
@@ -15984,7 +16026,7 @@
   },
   "35943": {
     "name": "E.ON České Velenice",
-    "sha1": "ab2265ded3b995310b964ad5807f05ff18fba3db",
+    "sha1": "02a8b432917305b1169f07942fc5782740193716",
     "station": {
       "address": "T. G. Masaryka 227",
       "city": "České Velenice",
@@ -16005,7 +16047,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-12-14T23:01:08.683Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.76882852",
             "longitude": "14.96412476"
@@ -16023,7 +16086,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-12-14T23:01:08.683Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.76882852",
             "longitude": "14.96412476"
