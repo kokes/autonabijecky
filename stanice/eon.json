@@ -9627,7 +9627,7 @@
   },
   "26979": {
     "name": "E.ON Frymburk",
-    "sha1": "8f2c90239627ff9458090997a4bdd660ea1a064d",
+    "sha1": "d8b171a790a8cde88e37e642c88f652a1e0dc41b",
     "station": {
       "address": "Frymburk 78",
       "city": "Frymburk",
@@ -9652,9 +9652,9 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2022-12-15T23:00:58.36Z",
               "max_amperage": 32,
-              "max_electric_power": 22000,
+              "max_electric_power": 11000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
@@ -9691,9 +9691,9 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2022-12-15T23:00:58.36Z",
               "max_amperage": 32,
-              "max_electric_power": 22000,
+              "max_electric_power": 11000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
