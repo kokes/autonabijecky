@@ -10391,6 +10391,238 @@
       "street": "Přátelství"
     }
   },
+  "CZ1004500": {
+    "name": "Ladestation AFI Třebešín",
+    "sha1": "a8c7290c15f2eb4a71387463617ce1658734e6d6",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004500",
+      "csName": "Ladestation AFI Třebešín",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger AFI Třebešín",
+      "evseId": "CZ*PRE*E1S8171*2",
+      "geoCoord": {
+        "latitude": "50.083900",
+        "longitude": "14.482700"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10000",
+      "region": "Hlavní město Praha",
+      "street": "Zvěřinova"
+    }
+  },
+  "CZ1004501": {
+    "name": "Ladestation Pražské služby Pod Šancemi",
+    "sha1": "30db50afe946e78aafb25f26115d93be1968ade8",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004501",
+      "csName": "Ladestation Pražské služby Pod Šancemi",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Pražské služby Pod Šancemi",
+      "evseId": "CZ*PRE*E1S8164*2",
+      "geoCoord": {
+        "latitude": "50.098200",
+        "longitude": "14.501700"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Pod šancemi 444/1"
+    }
+  },
+  "CZ1004502": {
+    "name": "Ladestation Městská knihovna v Praze Modřany",
+    "sha1": "89b5a7b22288ebb9cc23faa9b5ac83178f07cf2c",
+    "station": {
+      "additionalInfo": "Neben der öffentlichen Bibliothek",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004502",
+      "csName": "Ladestation Městská knihovna v Praze Modřany",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the public librabry",
+      "enCsname": "Charger Městská knihovna v Praze Modřany",
+      "evseId": "CZ*PRE*E1S8161*2",
+      "geoCoord": {
+        "latitude": "50.005800",
+        "longitude": "14.435500"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/mestska_knihovna_v_praze_modrany.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14300",
+      "region": "Hlavní město Praha",
+      "street": "Vazovova"
+    }
+  },
+  "CZ1004503": {
+    "name": "Ladestation Gymnázium Jana Keplera",
+    "sha1": "a40eaca40c40477d75e2adf6f30f0027ec4c91f6",
+    "station": {
+      "additionalInfo": "Neben dem Gymnasium",
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004503",
+      "csName": "Ladestation Gymnázium Jana Keplera",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the high school",
+      "enCsname": "Charger Gymnázium Jana Keplera",
+      "evseId": "CZ*PRE*E1S8158*2",
+      "geoCoord": {
+        "latitude": "50.087700",
+        "longitude": "14.387400"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16900",
+      "region": "Hlavní město Praha",
+      "street": "Parléřova"
+    }
+  },
+  "CZ1004504": {
+    "name": "Ladestation Stadion Slávie - parkoviště",
+    "sha1": "68302daec80bdc1d8191e11dc2202611c9a52dd6",
+    "station": {
+      "additionalInfo": "Next to the stadium",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha 10",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004504",
+      "csName": "Ladestation Stadion Slávie - parkoviště",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Neben dem Stadion",
+      "enCsname": "Charger Stadion Slávie - parkoviště",
+      "enExtra": "Located at private property, parking 30min free of charge",
+      "evseId": "CZ*PRE*E1S8150*2",
+      "extra": "Auf einem Privatgrundstück, Parken 30min kostenlos",
+      "geoCoord": {
+        "latitude": "50.068100",
+        "longitude": "14.476300"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-lfawh6x7ipgxtdn.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10000",
+      "region": "Hlavní město Praha",
+      "street": "Vladivostocká 10"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "3c1b2a0a7ebe4a9dd77f977bfa2e5d6dfdfc2762",
@@ -11819,6 +12051,55 @@
       "postalCode": "35731",
       "region": "Středočeský kraj",
       "street": "Loket"
+    }
+  },
+  "CZ2004499": {
+    "name": "Ladestation OREA Harrachov",
+    "sha1": "0c73fe3f82adbed83071b498b6d38b7535f20b84",
+    "station": {
+      "branch": "Hotel",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Harrachov",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2004499",
+      "csName": "Ladestation OREA Harrachov",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger OREA Harrachov",
+      "evseId": "CZ*PRE*E1S8175*2",
+      "geoCoord": {
+        "latitude": "50.776500",
+        "longitude": "15.430700"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1080x600.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "46849",
+      "region": "Středočeský kraj",
+      "street": "Harrachov 520"
     }
   },
   "CZ3102615": {

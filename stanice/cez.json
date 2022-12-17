@@ -18470,6 +18470,1286 @@
       "visible": true
     }
   },
+  "169185": {
+    "name": "N207 - Tuchoměřice - POP Airport - kryté parkoviště - 1",
+    "sha1": "5c26a842db0161bb0b0bd1517ee57da990f91c86",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169185",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N207"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N207"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N207 - Tuchoměřice - POP Airport - kryté parkoviště - 1",
+      "visible": true
+    }
+  },
+  "169186": {
+    "name": "N208 - Tuchoměřice - POP Airport - kryté parkoviště - 2",
+    "sha1": "c9019d0c9de315073f8e9aa4ce6d606dcd34d852",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169186",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N208"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N208"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N208 - Tuchoměřice - POP Airport - kryté parkoviště - 2",
+      "visible": true
+    }
+  },
+  "169187": {
+    "name": "N209 - Tuchoměřice - POP Airport - kryté parkoviště - 3",
+    "sha1": "175a3f1a8bcd6269b230114846a934ed3f500b85",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169187",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N209"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N209"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N209 - Tuchoměřice - POP Airport - kryté parkoviště - 3",
+      "visible": true
+    }
+  },
+  "169188": {
+    "name": "N210 - Tuchoměřice - POP Airport - kryté parkoviště - 4",
+    "sha1": "a266364cb65020e2bf6c461730fd3332eb9061b7",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169188",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N210"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N210"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N210 - Tuchoměřice - POP Airport - kryté parkoviště - 4",
+      "visible": true
+    }
+  },
+  "169189": {
+    "name": "N211 - Tuchoměřice - POP Airport - kryté parkoviště - 5",
+    "sha1": "af6ec8e8f2661b20da8c19b077f7169e5c37f1b0",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169189",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N211"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N211"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/3-20220926-131538.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N211 - Tuchoměřice - POP Airport - kryté parkoviště - 5",
+      "visible": true
+    }
+  },
+  "169190": {
+    "name": "N212 - Tuchoměřice - POP Airport - kryté parkoviště - 6",
+    "sha1": "3392f748004d890970a426eabc2255bd3f4fdc28",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169190",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N212"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N212"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/3-20220926-131538.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N212 - Tuchoměřice - POP Airport - kryté parkoviště - 6",
+      "visible": true
+    }
+  },
+  "169191": {
+    "name": "N213 - Tuchoměřice - POP Airport - kryté parkoviště - 7",
+    "sha1": "8edd4bfb8b51b0ca419c1c0bbdeab2a7a7e0fbe8",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169191",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N213"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N213"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N213 - Tuchoměřice - POP Airport - kryté parkoviště - 7",
+      "visible": true
+    }
+  },
+  "169192": {
+    "name": "N214 - Tuchoměřice - POP Airport - kryté parkoviště - 8",
+    "sha1": "318dabab4d7ba4826fce52b88e732d512936ca51",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169192",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N214"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N214"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/3-20220926-131538.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N214 - Tuchoměřice - POP Airport - kryté parkoviště - 8",
+      "visible": true
+    }
+  },
+  "169193": {
+    "name": "N215 - Tuchoměřice - POP Airport - kryté parkoviště - 9",
+    "sha1": "d456e9483eb317b5f65b96dcf0d9d5d85dae2734",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169193",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N215"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N215"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N215 - Tuchoměřice - POP Airport - kryté parkoviště - 9",
+      "visible": true
+    }
+  },
+  "169194": {
+    "name": "N216 - Tuchoměřice - POP Airport - kryté parkoviště - 10",
+    "sha1": "41d5ad962c8f32eb7f4f075535850e03175df496",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169194",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N216"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N216"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N216 - Tuchoměřice - POP Airport - kryté parkoviště - 10",
+      "visible": true
+    }
+  },
+  "169195": {
+    "name": "N217 - Tuchoměřice - POP Airport - kryté parkoviště - 11",
+    "sha1": "bae5b02beb7dc96b0e65e84e5107f182b7d3f820",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169195",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N217"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N217"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N217 - Tuchoměřice - POP Airport - kryté parkoviště - 11",
+      "visible": true
+    }
+  },
+  "169196": {
+    "name": "N218 - Tuchoměřice - POP Airport - kryté parkoviště - 12",
+    "sha1": "18fbbc6aeee4741b20a4a6b83245c3c18bc9e318",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169196",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N218"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N218"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N218 - Tuchoměřice - POP Airport - kryté parkoviště - 12",
+      "visible": true
+    }
+  },
+  "169197": {
+    "name": "N219 - Tuchoměřice - POP Airport - kryté parkoviště - 13",
+    "sha1": "cd9bfce2ab977be31d0abd44a4233479a816b927",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169197",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N219"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N219"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/3-20220926-131538.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N219 - Tuchoměřice - POP Airport - kryté parkoviště - 13",
+      "visible": true
+    }
+  },
+  "169198": {
+    "name": "N220 - Tuchoměřice - POP Airport - kryté parkoviště - 14",
+    "sha1": "c88ca9baac8065f619463d5a13caa23069a319b6",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169198",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N220"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N220"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/3-20220926-131538.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N220 - Tuchoměřice - POP Airport - kryté parkoviště - 14",
+      "visible": true
+    }
+  },
+  "169199": {
+    "name": "N221 - Tuchoměřice - POP Airport - kryté parkoviště - 15",
+    "sha1": "4fabb27dcb2433e217039cb46952f4ab41cbb8c1",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169199",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N221"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N221"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N221 - Tuchoměřice - POP Airport - kryté parkoviště - 15",
+      "visible": true
+    }
+  },
+  "169200": {
+    "name": "N222 - Tuchoměřice - POP Airport - kryté parkoviště - 16",
+    "sha1": "70d45690be48af46ca8305c8c053085b659cac8b",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169200",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N222"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N222"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/img_0671.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N222 - Tuchoměřice - POP Airport - kryté parkoviště - 16",
+      "visible": true
+    }
+  },
+  "169201": {
+    "name": "N223 - Tuchoměřice - POP Airport - kryté parkoviště - 17",
+    "sha1": "70a4bf0b0d39cd42d44c25c299dda399519f9985",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169201",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N223"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N223"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N223 - Tuchoměřice - POP Airport - kryté parkoviště - 17",
+      "visible": true
+    }
+  },
+  "169202": {
+    "name": "N224 - Tuchoměřice - POP Airport - kryté parkoviště - 18",
+    "sha1": "b77fe137ac78bd0f76659080762f434a0c77588e",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169202",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N224"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N224"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N224 - Tuchoměřice - POP Airport - kryté parkoviště - 18",
+      "visible": true
+    }
+  },
+  "169203": {
+    "name": "N225 - Tuchoměřice - POP Airport - kryté parkoviště - 19",
+    "sha1": "2c87ea8ce09e0de87ff7016b9acabae893063dc1",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169203",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N225"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N225"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N225 - Tuchoměřice - POP Airport - kryté parkoviště - 19",
+      "visible": true
+    }
+  },
+  "169204": {
+    "name": "N226 - Tuchoměřice - POP Airport - kryté parkoviště - 20",
+    "sha1": "59001cfe575e485334aa3f6a4e31d73350fa93c9",
+    "station": {
+      "address": {
+        "city": "Tuchoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopanině 421",
+        "latitude": 50.1263487,
+        "longitude": 14.2808602,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "169204",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N226"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N226"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N226 - Tuchoměřice - POP Airport - kryté parkoviště - 20",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
