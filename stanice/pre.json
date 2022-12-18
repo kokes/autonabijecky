@@ -8289,7 +8289,7 @@
   },
   "CZ1003475": {
     "name": "Schnellladestation Kongresové centrum",
-    "sha1": "923be4cdf7f234bcb64a8aee1dc83980e810ffe7",
+    "sha1": "0d53e8fe8fd3f2bced931a03b57faddd0a038784",
     "station": {
       "additionalInfo": "P+R Kongresové centrum Praha - Jih 1",
       "branch": "Parken",
@@ -8307,9 +8307,9 @@
       "csType": "fast_charger",
       "enAdditionalInfo": "P + R Congress Center Prague - South 1",
       "enCsname": "Fast charger Kongresové centrum",
-      "enExtra": "Due to the  held events at the venue Kongresové centrum Praha chargers won´t be available during these days\r\nFrom 20.07.2022 to 22.07.2022\r\nFrom 30.08.2022 to 31.08.2022\r\nFrom 09.09.2022 to 10.09.2022\r\nFrom 15.09.2022 to 16.09.2022\r\nFrom 07.10.2022 to 07.10.2022\r\nFrom 12.10.2022 to 12.10.2022\r\nFrom 21.10.2022 to 21.10.2022",
+      "enExtra": "first 15min free of charge, then 50Kč/h a parking fee",
       "evseId": "CZ*PRE*E1S8063*6",
-      "extra": "Z důvodu konání akcí v místě Kongresové centrum Praha nebudou v tyto dny nabíječky k dispozici\r\nOd 20.07.2022 do 22.07.2022\r\nOd 30.08.2022 do 31.08.2022\r\nOd 09.09.2022 do 10.09.2022\r\nOd 15.09.2022 do 16.09.2022\r\nOd 07.10.2022 do 07.10.2022\r\nOd 12.10.2022 do 12.10.2022\r\nOd 21.10.2022 do 21.10.2022",
+      "extra": "15min zdarma, poté parking fee 50Kč/h",
       "geoCoord": {
         "latitude": "50.061187",
         "longitude": "14.429500"
