@@ -13168,6 +13168,56 @@
       "street": "K.H.Borovského 2070"
     }
   },
+  "CZ4104508": {
+    "name": "Schnellladestation Penny Market Karlovy Vary",
+    "sha1": "e292d7036570e09321d9e7d4cf3af2aaafc37af2",
+    "station": {
+      "branch": "Lebensmitteleinzelhandel",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Karlovy Vary",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ4104508",
+      "csName": "Schnellladestation Penny Market Karlovy Vary",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enAdditionalInfo": "",
+      "enCsname": "Fast charger Penny Market Karlovy Vary",
+      "evseId": "CZ*PRE*E1R0054*3",
+      "geoCoord": {
+        "latitude": "50.236601",
+        "longitude": "12.897791"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-j2wnvyfxu7.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "36001",
+      "region": "Karlovarský kraj",
+      "street": "Stará Kysibelská 642"
+    }
+  },
   "CZ4202612": {
     "name": "Schnellladestation EuroOil Varnsdorf",
     "sha1": "0c64bb7969005d7229ed9e2fed74cd26b1ea84be",
