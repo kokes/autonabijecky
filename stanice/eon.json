@@ -30307,7 +30307,7 @@
   },
   "53834": {
     "name": "E.ON Obec Pohořelice",
-    "sha1": "691fb843b1987b23ba698daec02f7d65cc650378",
+    "sha1": "b399a87949037b35114a3bd777423a36711963b0",
     "station": {
       "address": "Brněnská",
       "city": "Pohořelice",
@@ -30328,7 +30328,48 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2022-12-21T14:23:57.713Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2022-12-21T14:23:57.713Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.98281551",
             "longitude": "16.52539478"
@@ -30346,7 +30387,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2022-12-21T14:23:57.713Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.98281551",
             "longitude": "16.52539478"
