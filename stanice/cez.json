@@ -18247,20 +18247,20 @@
     }
   },
   "168975": {
-    "name": "R487 - Praha - OC Letňany - venkovní parkoviště - 8",
-    "sha1": "ab2f395121be30f0af2257a7722e19507bd9164e",
+    "name": "R490 - Poděbrady - Kaufland - U garáží - 1",
+    "sha1": "ad4082d834712a36ac10faec5c862001e0e782ff",
     "station": {
       "address": {
-        "city": "Praha 9",
+        "city": "Poděbrady",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "663",
-        "latitude": 50.1383511,
-        "longitude": 14.4992125,
+        "houseNumber": "garáží",
+        "latitude": 50.1523881,
+        "longitude": 15.1179981,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "Veselská",
+        "street": "U",
         "url": ""
       },
       "customID": "168975",
@@ -18275,7 +18275,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "T54-HU1-2622-016",
+              "chargePointIdentity": "T54-HU1-2322-006",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -18283,13 +18283,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "R487"
+          "physicalReference": "R490"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T54-HU1-2622-016",
+              "chargePointIdentity": "T54-HU1-2322-006",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -18298,7 +18298,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "T54-HU1-2622-016",
+              "chargePointIdentity": "T54-HU1-2322-006",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -18306,7 +18306,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": "R487"
+          "physicalReference": "R490"
         }
       ],
       "images": [
@@ -18315,7 +18315,7 @@
         }
       ],
       "instructions": null,
-      "name": "R487 - Praha - OC Letňany - venkovní parkoviště - 8",
+      "name": "R490 - Poděbrady - Kaufland - U garáží - 1",
       "visible": true
     }
   },
@@ -19747,6 +19747,216 @@
       ],
       "instructions": null,
       "name": "N226 - Tuchoměřice - POP Airport - kryté parkoviště - 20",
+      "visible": true
+    }
+  },
+  "169571": {
+    "name": "R491 - Poděbrady - Kaufland - U garáží - 2",
+    "sha1": "64e88cf0640934563d9711cdc8136be337f14dc6",
+    "station": {
+      "address": {
+        "city": "Poděbrady",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "garáží",
+        "latitude": 50.1523881,
+        "longitude": 15.1179981,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "U",
+        "url": ""
+      },
+      "customID": "169571",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2522-008",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R491"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2522-008",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2522-008",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R491"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1b.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R491 - Poděbrady - Kaufland - U garáží - 2",
+      "visible": true
+    }
+  },
+  "169608": {
+    "name": "UR116 - Praha - McDonald´s Kbelská",
+    "sha1": "f443fdc85021d513ab23cb384c4a5e3aff3c1cee",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "919/31",
+        "latitude": 50.12243,
+        "longitude": 14.51277,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Kbelská",
+        "url": ""
+      },
+      "customID": "169608",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "HYC_300_21BZ1700B",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 220,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR116"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "HYC_300_21BZ1700B",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 220,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR116"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/ur111.png"
+        }
+      ],
+      "instructions": null,
+      "name": "UR116 - Praha - McDonald´s Kbelská",
+      "visible": true
+    }
+  },
+  "169609": {
+    "name": "R490 - Poděbrady - Kaufland - U garáží - 1",
+    "sha1": "7c03d816ee4a630b264be9382668fa9d5ec5778c",
+    "station": {
+      "address": {
+        "city": "Poděbrady",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "garáží",
+        "latitude": 50.1523881,
+        "longitude": 15.1179981,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "U",
+        "url": ""
+      },
+      "customID": "169609",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2322-006",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R490"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2322-006",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-016",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R490"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/11/82b46ef6-772d-4cac-8b07-43d240a70e28.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R490 - Poděbrady - Kaufland - U garáží - 1",
       "visible": true
     }
   },
