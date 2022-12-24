@@ -18246,79 +18246,6 @@
       "visible": true
     }
   },
-  "168975": {
-    "name": "R490 - Poděbrady - Kaufland - U garáží - 1",
-    "sha1": "ad4082d834712a36ac10faec5c862001e0e782ff",
-    "station": {
-      "address": {
-        "city": "Poděbrady",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "garáží",
-        "latitude": 50.1523881,
-        "longitude": 15.1179981,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "U",
-        "url": ""
-      },
-      "customID": "168975",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-2322-006",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R490"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-2322-006",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-2322-006",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R490"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/letnany.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R490 - Poděbrady - Kaufland - U garáží - 1",
-      "visible": true
-    }
-  },
   "168985": {
     "name": "R486 - Praha - OC Letňany - venkovní parkoviště - 7",
     "sha1": "5d765992fd74d424f98033ca28adc71692c81071",
@@ -19820,6 +19747,79 @@
       ],
       "instructions": null,
       "name": "R491 - Poděbrady - Kaufland - U garáží - 2",
+      "visible": true
+    }
+  },
+  "169578": {
+    "name": "R487 - Praha - OC Letňany - venkovní parkoviště - 8",
+    "sha1": "48f68ec95426a5a05b787f806ee3e454c4d41297",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "663",
+        "latitude": 50.1383511,
+        "longitude": 14.4992125,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Veselská",
+        "url": ""
+      },
+      "customID": "169578",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2622-016",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R487"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-016",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-016",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R487"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/letnany.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R487 - Praha - OC Letňany - venkovní parkoviště - 8",
       "visible": true
     }
   },

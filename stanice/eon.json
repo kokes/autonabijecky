@@ -15244,7 +15244,7 @@
   },
   "35927": {
     "name": "E.ON Nové Hrady",
-    "sha1": "506961db5ad0e11cd8d378ad6453f8e78387d40f",
+    "sha1": "40d5c74b5d7397e724f2c6f6f1ead4caf5a2ab39",
     "station": {
       "address": "Jižní město",
       "city": "Nové hrady",
@@ -15292,7 +15292,7 @@
             "longitude": "14.78279243"
           },
           "evse_id": "CZ*EON*E25035927*1",
-          "last_seen_as_planned": "2022-01-18T11:06:00.51Z",
+          "last_seen_as_planned": "2022-12-23T12:25:36.63Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35927"
@@ -15331,7 +15331,7 @@
             "longitude": "14.78279243"
           },
           "evse_id": "CZ*EON*E25035927*2",
-          "last_seen_as_planned": "2022-01-18T11:06:00.51Z",
+          "last_seen_as_planned": "2022-12-23T12:25:36.63Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35928"
@@ -16143,7 +16143,7 @@
   },
   "35945": {
     "name": "E.ON Vyšší Brod",
-    "sha1": "cdde3bfbb546c438037af7c6933a5dd7b5314d19",
+    "sha1": "6312479c07602d6b911e270d4638e478cd5991b7",
     "station": {
       "address": "Míru 120",
       "city": "Vyšší Brod",
@@ -16164,7 +16164,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2022-12-23T23:00:54.643Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.62111047",
             "longitude": "14.31004945"
@@ -16182,7 +16203,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2022-12-23T23:00:54.643Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.62111047",
             "longitude": "14.31004945"
@@ -16193,6 +16235,9 @@
           "status": "RESET",
           "uid": "35946"
         }
+      ],
+      "facilities": [
+        "PARKING_LOT"
       ],
       "id": "35945",
       "last_updated": "RESET",
@@ -16206,6 +16251,7 @@
       "owner": {
         "name": "E.ON Energie, a.s."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "382 73",
       "publish": true,
