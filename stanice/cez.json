@@ -19960,6 +19960,79 @@
       "visible": true
     }
   },
+  "169949": {
+    "name": "R492 - Praha 19 - Mladoboleslavská",
+    "sha1": "18a65f7dec31f04c6403bd28e3025fc6e4804a6c",
+    "station": {
+      "address": {
+        "city": "Praha 19",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.129595,
+        "longitude": 14.5450436,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Mladoboleslavská",
+        "url": ""
+      },
+      "customID": "169949",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2722-004",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R492"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-004",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-004",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R492"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/img_1074.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R492 - Praha 19 - Mladoboleslavská",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
