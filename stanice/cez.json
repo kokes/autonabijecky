@@ -20033,6 +20033,70 @@
       "visible": true
     }
   },
+  "170010": {
+    "name": "N230 - Loučná nad Desnou - Rejhotice - Hotel Dlouhé Stráně",
+    "sha1": "9855b88f6ac0f1f384b7b81446d23c32ad169376",
+    "station": {
+      "address": {
+        "city": "Loučná nad Desnou - Rejhotice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "72",
+        "latitude": 50.1009947,
+        "longitude": 17.1037067,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rejhotice",
+        "url": ""
+      },
+      "customID": "170010",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N230"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N230"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/8a259a72-0335-42c6-97d6-68b91eb37b6c.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N230 - Loučná nad Desnou - Rejhotice - Hotel Dlouhé Stráně",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
