@@ -13715,7 +13715,7 @@
   },
   "35469": {
     "name": "E.ON Landal Marina Lipno",
-    "sha1": "3b21b919642be24a8ea345c6168c3342aff3a1cb",
+    "sha1": "caa9703a033532c0f2d4f1744020d9fb91f6ce16",
     "station": {
       "address": "Lipno nad Vltavou 310",
       "city": "Lipno nad Vltavou",
@@ -13740,9 +13740,9 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-02T08:47:42.21Z",
               "max_amperage": 32,
-              "max_electric_power": 22000,
+              "max_electric_power": 11000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
@@ -13779,9 +13779,9 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-02T08:47:42.21Z",
               "max_amperage": 32,
-              "max_electric_power": 22000,
+              "max_electric_power": 11000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
@@ -22445,7 +22445,7 @@
   },
   "51441": {
     "name": "E.ON  Hulín",
-    "sha1": "898e4990f341147b8504c1f9183cfb4fb410f077",
+    "sha1": "f406023ccddfabfa9f6b8595a231b3b0d84d8adf",
     "station": {
       "address": "Sokolská",
       "city": " Hulín",
@@ -22466,7 +22466,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-01-02T23:01:02.3Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.31616072",
             "longitude": "17.47584901"
@@ -22484,7 +22505,48 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-01-02T23:01:02.3Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-01-02T23:01:02.3Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.31616072",
             "longitude": "17.47584901"
@@ -35616,6 +35678,185 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "13000",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "81668": {
+    "name": "(P) Terno Olomouc",
+    "sha1": "8230529d4069bd46c459e3b28e6b36c3bfcf0fde",
+    "station": {
+      "address": "Horní Lán 9",
+      "city": "Olomouc",
+      "coordinates": {
+        "latitude": "49.574536",
+        "longitude": "17.230665"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-01-02T12:19:25.65Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "119",
+                "120"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.574536",
+            "longitude": "17.230665"
+          },
+          "evse_id": "CZ*EON*E31135190*1",
+          "last_seen_as_planned": "2023-01-02T12:19:25.65Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "135190"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-01-02T12:19:25.65Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "119",
+                "120"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.574536",
+            "longitude": "17.230665"
+          },
+          "evse_id": "CZ*EON*E31135190*2",
+          "last_seen_as_planned": "2023-01-02T12:19:25.65Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "135191"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-01-02T12:19:25.65Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "119",
+                "120"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.574536",
+            "longitude": "17.230665"
+          },
+          "evse_id": "CZ*EON*E31081668*1",
+          "last_seen_as_planned": "2023-01-02T12:19:25.65Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81668"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-01-02T12:19:25.65Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "119",
+                "120"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.574536",
+            "longitude": "17.230665"
+          },
+          "evse_id": "CZ*EON*E31081668*2",
+          "last_seen_as_planned": "2023-01-02T12:19:25.65Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81669"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "MALL",
+        "SUPERMARKET",
+        "PARKING_LOT"
+      ],
+      "id": "81668",
+      "last_updated": "RESET",
+      "name": "(P) Terno Olomouc",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "JEDNOTA, spotřební družstvo České Budějovice"
+      },
+      "owner": {
+        "name": "JEDNOTA, spotřební družstvo České Budějovice"
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "779 00",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
