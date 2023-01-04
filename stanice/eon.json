@@ -6136,6 +6136,324 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "171762": {
+    "name": "(P) Hošek Motor - Žarošická",
+    "sha1": "0282596ae971ce4502e83c79d641180be98ab409",
+    "station": {
+      "address": "Žarošická 4315/17",
+      "city": "Brno",
+      "coordinates": {
+        "latitude": "49.20826385",
+        "longitude": "16.66382171"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-01-03T08:17:55.877Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "203",
+                "205"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.20826385",
+            "longitude": "16.66382171"
+          },
+          "evse_id": "CZ*EON*E159672*1",
+          "last_seen_as_planned": "2023-01-03T08:17:55.877Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "159672"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-01-03T08:17:55.877Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "203",
+                "205"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.20826385",
+            "longitude": "16.66382171"
+          },
+          "evse_id": "CZ*EON*E159672*2",
+          "last_seen_as_planned": "2023-01-03T08:17:55.877Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "159673"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-01-03T08:17:55.877Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "202",
+                "204"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.20826385",
+            "longitude": "16.66382171"
+          },
+          "evse_id": "CZ*EON*E159672*3",
+          "last_seen_as_planned": "2023-01-03T08:17:55.877Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "159674"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "BUS_STOP",
+        "PARKING_LOT",
+        "FUEL_STATION"
+      ],
+      "id": "171762",
+      "last_updated": "RESET",
+      "name": "(P) Hošek Motor - Žarošická",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Hošek Motor a.s."
+      },
+      "owner": {
+        "name": "Hošek Motor a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "62800",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "171767": {
+    "name": "(P) Hošek Motor - Vídeňská",
+    "sha1": "1f86e753384e29d0924fd424672ccacd02e60aa9",
+    "station": {
+      "address": "Vídeňská 132",
+      "city": "Brno",
+      "coordinates": {
+        "latitude": "49.15367566",
+        "longitude": "16.59996831"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-01-03T08:10:33.243Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": []
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.15367566",
+            "longitude": "16.59996831"
+          },
+          "evse_id": "CZ*EON*E159669*1",
+          "last_seen_as_planned": "2023-01-03T08:10:33.243Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "159669"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-01-03T08:10:33.243Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": []
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.15367566",
+            "longitude": "16.59996831"
+          },
+          "evse_id": "CZ*EON*E159669*2",
+          "last_seen_as_planned": "2023-01-03T08:10:33.243Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "159670"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-01-03T08:10:33.243Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "202",
+                "204"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.15367566",
+            "longitude": "16.59996831"
+          },
+          "evse_id": "CZ*EON*E159669*3",
+          "last_seen_as_planned": "2023-01-03T08:10:33.243Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "159671"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-01-03T08:10:33.243Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "202",
+                "204"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.15367566",
+            "longitude": "16.59996831"
+          },
+          "evse_id": "FI*001*E171767",
+          "last_seen_as_planned": "2023-01-03T08:10:33.243Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "171767"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "MALL",
+        "SUPERMARKET"
+      ],
+      "id": "171767",
+      "last_updated": "RESET",
+      "name": "(P) Hošek Motor - Vídeňská",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Hošek Motor a.s."
+      },
+      "owner": {
+        "name": "Hošek Motor a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "61900",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "18070": {
     "name": "E.ON Golf resort Karlštejn",
     "sha1": "acbe3e920f66ed59886761ae419c81e7a5388bb3",
