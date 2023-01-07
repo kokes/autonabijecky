@@ -4238,7 +4238,7 @@
   },
   "142613": {
     "name": "E.ON P3 Park Olomouc",
-    "sha1": "d8f6fbc7d67db8521779bff79b0daa904b159ca5",
+    "sha1": "8f4b5e413b96348bf514a34de3c1eb5b46ceff42",
     "station": {
       "address": "Dolní Novosadská",
       "city": "Olomouc",
@@ -4349,6 +4349,9 @@
           "status": "RESET",
           "uid": "35974"
         }
+      ],
+      "facilities": [
+        "PARKING_LOT"
       ],
       "id": "142613",
       "last_updated": "RESET",
@@ -18627,6 +18630,126 @@
       "state": "Česká republika",
       "suboperator": {
         "name": "ELEXIM, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "35987": {
+    "name": "E.ON P3 Park Stochov",
+    "sha1": "0f4769d31e885eaef402e030da3a315c541f8c8f",
+    "station": {
+      "address": "Osvobození 540",
+      "city": "Stochov",
+      "coordinates": {
+        "latitude": "50.14325489",
+        "longitude": "13.96749593"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-01-06T07:42:31.44Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.14325489",
+            "longitude": "13.96749593"
+          },
+          "evse_id": "CZ*EON*E25035987*1",
+          "last_seen_as_planned": "2023-01-06T07:42:31.44Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35987"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-01-06T07:42:31.44Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.14325489",
+            "longitude": "13.96749593"
+          },
+          "evse_id": "CZ*EON*E25035987*2",
+          "last_seen_as_planned": "2023-01-06T07:42:31.44Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35988"
+        }
+      ],
+      "facilities": [
+        "PARKING_LOT"
+      ],
+      "id": "35987",
+      "last_updated": "RESET",
+      "name": "E.ON P3 Park Stochov",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Energie, a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
       },
       "time_zone": "Europe/Prague"
     }

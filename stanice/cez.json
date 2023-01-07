@@ -20097,6 +20097,79 @@
       "visible": true
     }
   },
+  "170482": {
+    "name": "R508 - Praha - McDonald´s Řepy",
+    "sha1": "386def338c254cd3846e631056510860c0f36cc2",
+    "station": {
+      "address": {
+        "city": "Praha 6",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.06482,
+        "longitude": 14.31003,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Makovského",
+        "url": ""
+      },
+      "customID": "170482",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-IT3-3622-315",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R508"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT3-3622-315",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT3-3622-315",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R508"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/1-20230106-104304.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R508 - Praha - McDonald´s Řepy",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
