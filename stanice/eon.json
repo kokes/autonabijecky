@@ -8576,10 +8576,10 @@
   },
   "25129": {
     "name": "E.ON Globus Plzeň",
-    "sha1": "22891c4f0851bcaf827a6b9f7aa1d7f451c3f344",
+    "sha1": "0960118852d4f9f8ce05e1366ecb621bb1f9868f",
     "station": {
       "address": "Chotíkov 385",
-      "city": "Plzeň",
+      "city": " Plzeň",
       "coordinates": {
         "latitude": "49.7776286",
         "longitude": "13.3480719"
@@ -22885,8 +22885,8 @@
     }
   },
   "51441": {
-    "name": "E.ON  Hulín",
-    "sha1": "f406023ccddfabfa9f6b8595a231b3b0d84d8adf",
+    "name": "E.ON  ČD Hulín",
+    "sha1": "161c624d3dc352c18bbc03e5f4d65f50cfecd449",
     "station": {
       "address": "Sokolská",
       "city": " Hulín",
@@ -23005,7 +23005,7 @@
       ],
       "id": "51441",
       "last_updated": "RESET",
-      "name": "E.ON  Hulín",
+      "name": "E.ON  ČD Hulín",
       "opening_times": {
         "twentyfourseven": true
       },
