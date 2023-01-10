@@ -5597,6 +5597,151 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "159669": {
+    "name": "(P) Hošek Motor - Vídeňská",
+    "sha1": "b31a5fb797eb3d990a7d83fca0269b10afea7857",
+    "station": {
+      "address": "Vídeňská 132",
+      "city": "Brno",
+      "coordinates": {
+        "latitude": "49.15367565",
+        "longitude": "16.59996831"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-01-09T08:32:38.05Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "206",
+                "207"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.15367565",
+            "longitude": "16.59996831"
+          },
+          "evse_id": "CZ*EON*E159669*1",
+          "last_seen_as_planned": "2023-01-09T08:32:38.05Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "159669"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-01-09T08:32:38.05Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "206",
+                "207"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.15367565",
+            "longitude": "16.59996831"
+          },
+          "evse_id": "CZ*EON*E159669*2",
+          "last_seen_as_planned": "2023-01-09T08:32:38.05Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "159670"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-01-09T06:37:24.83Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "202",
+                "204"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.15367565",
+            "longitude": "16.59996831"
+          },
+          "evse_id": "CZ*EON*E159669*3",
+          "last_seen_as_planned": "2023-01-09T06:37:24.83Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "159671"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "MALL",
+        "SUPERMARKET"
+      ],
+      "id": "159669",
+      "last_updated": "RESET",
+      "name": "(P) Hošek Motor - Vídeňská",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Hošek Motor a.s."
+      },
+      "owner": {
+        "name": "Hošek Motor a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "61900",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "163915": {
     "name": "(P)  FTL-First Transport Lines a.s",
     "sha1": "a5fd5f3c5349fb3eeec2eb18d5f4dceced449756",
@@ -6286,8 +6431,8 @@
     }
   },
   "171767": {
-    "name": "(P) Hošek Motor - Vídeňská",
-    "sha1": "1f86e753384e29d0924fd424672ccacd02e60aa9",
+    "name": "ZRUŠENO - (P) Hošek Motor - Vídeňská",
+    "sha1": "8da58413610974ac699f28d83e8bdbac12032654",
     "station": {
       "address": "Vídeňská 132",
       "city": "Brno",
@@ -6312,13 +6457,16 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-01-03T08:10:33.243Z",
+              "last_updated": "2023-01-09T08:32:38.05Z",
               "max_amperage": 125,
               "max_electric_power": 150000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": []
+              "tariff_ids": [
+                "206",
+                "207"
+              ]
             }
           ],
           "coordinates": {
@@ -6326,6 +6474,7 @@
             "longitude": "16.59996831"
           },
           "evse_id": "CZ*EON*E159669*1",
+          "floor_level": "0",
           "last_seen_as_planned": "2023-01-03T08:10:33.243Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -6342,13 +6491,16 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-01-03T08:10:33.243Z",
+              "last_updated": "2023-01-09T08:32:38.05Z",
               "max_amperage": 125,
               "max_electric_power": 150000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": []
+              "tariff_ids": [
+                "206",
+                "207"
+              ]
             }
           ],
           "coordinates": {
@@ -6356,6 +6508,7 @@
             "longitude": "16.59996831"
           },
           "evse_id": "CZ*EON*E159669*2",
+          "floor_level": "0",
           "last_seen_as_planned": "2023-01-03T08:10:33.243Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -6389,6 +6542,7 @@
             "longitude": "16.59996831"
           },
           "evse_id": "CZ*EON*E159669*3",
+          "floor_level": "0",
           "last_seen_as_planned": "2023-01-03T08:10:33.243Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -6422,7 +6576,8 @@
             "longitude": "16.59996831"
           },
           "evse_id": "FI*001*E171767",
-          "last_seen_as_planned": "2023-01-03T08:10:33.243Z",
+          "floor_level": "0",
+          "last_seen_as_planned": "2023-01-09T06:42:50.877Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "171767"
@@ -6436,7 +6591,7 @@
       ],
       "id": "171767",
       "last_updated": "RESET",
-      "name": "(P) Hošek Motor - Vídeňská",
+      "name": "ZRUŠENO - (P) Hošek Motor - Vídeňská",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -23991,7 +24146,7 @@
   },
   "51469": {
     "name": "E.ON Benzina Kolín",
-    "sha1": "7460f19ae80e3530d1f9dd28d4edf7fe3cbdaaed",
+    "sha1": "232d2f18cabc20ddf9f179a24ed0b841ee35b4a6",
     "station": {
       "address": "Ovčárecká 1459",
       "city": "Kolín",
@@ -24040,6 +24195,34 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51470"
+        },
+        {
+          "capabilities": [],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.0405364",
+            "longitude": "15.21335085"
+          },
+          "evse_id": "",
+          "floor_level": "0",
+          "last_seen_as_planned": "2023-01-09T12:30:35.08Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51471"
+        },
+        {
+          "capabilities": [],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.0405364",
+            "longitude": "15.21335085"
+          },
+          "evse_id": "",
+          "floor_level": "0",
+          "last_seen_as_planned": "2023-01-09T12:31:00.703Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51472"
         }
       ],
       "facilities": [
@@ -25493,6 +25676,48 @@
       "suboperator": {
         "name": "E.ON Energie, a.s."
       },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "51516": {
+    "name": "E.ON Jindřichův Hradec",
+    "sha1": "e2786dbe8a34355961c736fcfe2e37b315102ba2",
+    "station": {
+      "address": "Priprava",
+      "city": "Priprava",
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "evse_id": "CZ*EON*E32051516*1",
+          "last_seen_as_planned": "2023-01-09T12:08:17.59Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51516"
+        }
+      ],
+      "id": "51516",
+      "last_updated": "RESET",
+      "name": "E.ON Jindřichův Hradec",
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Česká republika, s. r. o."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
       "time_zone": "Europe/Prague"
     }
   },
@@ -31779,7 +32004,7 @@
   },
   "53852": {
     "name": "E.ON Penny Hradec Králové",
-    "sha1": "238c44e68bc6a2e52b05fc32c3274fe36c912697",
+    "sha1": "9534822657d9aa6c749cc367dfb0f5b24b5576f8",
     "station": {
       "address": "Labská louka",
       "city": "Hradec Králové - Třebeš",
@@ -31828,6 +32053,34 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53853"
+        },
+        {
+          "capabilities": [],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.18372614",
+            "longitude": "15.82676622"
+          },
+          "evse_id": "",
+          "floor_level": "0",
+          "last_seen_as_planned": "2023-01-09T12:43:59.453Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53866"
+        },
+        {
+          "capabilities": [],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.18372614",
+            "longitude": "15.82676622"
+          },
+          "evse_id": "",
+          "floor_level": "0",
+          "last_seen_as_planned": "2023-01-09T12:44:20.89Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53867"
         }
       ],
       "facilities": [
@@ -31940,7 +32193,7 @@
   },
   "53856": {
     "name": "E.ON Valeo Praha - Strašnice",
-    "sha1": "71e5c9440543222c0f7441494fe9c232fb83da35",
+    "sha1": "6e363891b927ef6d7fc65d3dd00086b50149dac9",
     "station": {
       "address": "Sazečská 247",
       "city": "Praha - Strašnice",
@@ -31989,6 +32242,34 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53857"
+        },
+        {
+          "capabilities": [],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.07543056",
+            "longitude": "14.51891374"
+          },
+          "evse_id": "",
+          "floor_level": "0",
+          "last_seen_as_planned": "2023-01-09T12:26:33.69Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53858"
+        },
+        {
+          "capabilities": [],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.07543056",
+            "longitude": "14.51891374"
+          },
+          "evse_id": "",
+          "floor_level": "0",
+          "last_seen_as_planned": "2023-01-09T12:28:01.59Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53859"
         }
       ],
       "facilities": [
@@ -32099,7 +32380,7 @@
   },
   "53862": {
     "name": "E.ON Penny Nová Paka",
-    "sha1": "37e422e89f79be574aaca16d4802b1cc2b89c507",
+    "sha1": "534bee7b3c6f24404db5516e4525013d36c33969",
     "station": {
       "address": "Krkonošská 1826",
       "city": "Nová Paka",
@@ -32148,6 +32429,34 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53863"
+        },
+        {
+          "capabilities": [],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.49428537",
+            "longitude": "15.52140924"
+          },
+          "evse_id": "",
+          "floor_level": "0",
+          "last_seen_as_planned": "2023-01-09T12:40:28.657Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53882"
+        },
+        {
+          "capabilities": [],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.49428537",
+            "longitude": "15.52140924"
+          },
+          "evse_id": "",
+          "floor_level": "0",
+          "last_seen_as_planned": "2023-01-09T12:40:51.783Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53883"
         }
       ],
       "facilities": [
