@@ -9532,13 +9532,13 @@
   },
   "CZ1004402": {
     "name": "Schnellladestation Parvi Cibulka",
-    "sha1": "ab99ece105615801ad2ba61929e2d742bddcf4dc",
+    "sha1": "b4edbbf305119445e4603d676c137750924022ae",
     "station": {
       "additionalInfo": "Neben dem Parvi Cibulka-Gebäude",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤75kW"
+          "DC Charging ≤50kW"
         ]
       },
       "city": "Praha",
@@ -9550,7 +9550,7 @@
       "csType": "fast_charger",
       "enAdditionalInfo": "Next to the Parvi Cibulka building",
       "enCsname": "Fast charger Parvi Cibulka",
-      "evseId": "CZ*PRE*E1R0042*1",
+      "evseId": "CZ*PRE*E1R0042*2",
       "geoCoord": {
         "latitude": "50.061750",
         "longitude": "14.363220"
@@ -9565,8 +9565,8 @@
       "plugs": [
         {
           "connectorFormat": "Cable",
-          "connectorStandard": "IEC-62196-T2-COMBO",
-          "plug": "CCS Combo 2 Plug (Cable Attached)"
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
         }
       ],
       "postalCode": "15000",
@@ -9755,7 +9755,7 @@
   },
   "CZ1004448": {
     "name": "Ladestation Technologie hlavního města Prahy XIII",
-    "sha1": "aab2ac06e1ec75fa77b642ee02a46795c34aef09",
+    "sha1": "28544e6b50f8ad9576da628e312542c288ceccf8",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -9779,6 +9779,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/thmp13.jpg"
+        },
         {
           "class": "otherLogo",
           "type": "jpg",
@@ -9804,7 +9809,7 @@
   },
   "CZ1004449": {
     "name": "Ladestation Technologie hlavního města Prahy XII",
-    "sha1": "e3cfa2bb12ea0be5dcd5278a2aa763e94beccb92",
+    "sha1": "5bac9020fb3adef39c2e2bb1287eed8e7133b519",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -9828,6 +9833,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/thmp12.jpg"
+        },
         {
           "class": "otherLogo",
           "type": "jpg",
@@ -9853,7 +9863,7 @@
   },
   "CZ1004450": {
     "name": "Ladestation Technologie hlavního města Prahy XI",
-    "sha1": "e0d20da80aa6c62216345ecff264ba54ff87c9a2",
+    "sha1": "bcb5bb35dc499963b2b6b9ce15d53db54ebe2a20",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -9877,6 +9887,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/thmp11.jpg"
+        },
         {
           "class": "otherLogo",
           "type": "jpg",
@@ -9902,7 +9917,7 @@
   },
   "CZ1004451": {
     "name": "Ladestation Technologie hlavního města Prahy X",
-    "sha1": "af0e9e53a3a50c0b34675dd89869a6527893b7e0",
+    "sha1": "a145190a0ccdf2a367e449418b4cfda62912ffaf",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -9926,6 +9941,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/thmp10.jpg"
+        },
         {
           "class": "otherLogo",
           "type": "jpg",
@@ -9951,7 +9971,7 @@
   },
   "CZ1004452": {
     "name": "Ladestation Technologie hlavního města Prahy VIII",
-    "sha1": "8ab3c27a5494e0327c58a5d26598e53bfd84eb07",
+    "sha1": "b8b6fa1476eafb8fd0fd2a21371808a4715882b4",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -9975,6 +9995,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/thmp8.jpg"
+        },
         {
           "class": "otherLogo",
           "type": "jpg",
@@ -10000,7 +10025,7 @@
   },
   "CZ1004453": {
     "name": "Ladestation Technologie hlavního města Prahy VII",
-    "sha1": "f0b9fe875f94dcae62b9e85dba5d4dde383d6f74",
+    "sha1": "72a150577bf6f1e04ce2b754263aadd71cf65486",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -10024,6 +10049,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/thmp7.jpg"
+        },
         {
           "class": "otherLogo",
           "type": "jpg",
@@ -10049,7 +10079,7 @@
   },
   "CZ1004454": {
     "name": "Ladestation Technologie hlavního města Prahy VI",
-    "sha1": "d4d484fb98e302d3b5904d5bb5f866eebac530ea",
+    "sha1": "c0d17eae6c415ee912a5249b4e3d8a8a3067411b",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -10073,6 +10103,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/thmp6.jpg"
+        },
         {
           "class": "otherLogo",
           "type": "jpg",
@@ -10098,7 +10133,7 @@
   },
   "CZ1004455": {
     "name": "Ladestation Technologie hlavního města Prahy V",
-    "sha1": "a3bc08a6443f4515d99c5e181be889eb5ca0ffd8",
+    "sha1": "7c58da2f92c8cb16db6303750e1d11bd540cb90b",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -10122,6 +10157,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/thmp5.jpg"
+        },
         {
           "class": "otherLogo",
           "type": "jpg",
@@ -10147,7 +10187,7 @@
   },
   "CZ1004456": {
     "name": "Ladestation Technologie hlavního města Prahy IX",
-    "sha1": "96353b5a6f04e46c8b90f61601b14de9209ec448",
+    "sha1": "fbc2449a64d0db532af13fe6431df59394c43143",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -10171,6 +10211,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/thmp9.jpg"
+        },
         {
           "class": "otherLogo",
           "type": "jpg",
@@ -10196,7 +10241,7 @@
   },
   "CZ1004457": {
     "name": "Ladestation Technologie hlavního města Prahy IV",
-    "sha1": "a4523d2b45b6d4c406af783dcf556b4ae39fb99d",
+    "sha1": "d778112da48228e3788cec3d1c316de3be76fa17",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -10220,6 +10265,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/thmp4.jpg"
+        },
         {
           "class": "otherLogo",
           "type": "jpg",
@@ -10245,7 +10295,7 @@
   },
   "CZ1004458": {
     "name": "Ladestation Technologie hlavního města Prahy III",
-    "sha1": "bfb70b6b6d57c792f39972e6b1f24d673d7bb77a",
+    "sha1": "eb21e03f808d92643b7e97aad22c792c3c074c2e",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -10269,6 +10319,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/thmp3.jpg"
+        },
         {
           "class": "otherLogo",
           "type": "jpg",
@@ -10294,7 +10349,7 @@
   },
   "CZ1004459": {
     "name": "Ladestation Technologie hlavního města Prahy II",
-    "sha1": "a9121d0e6f11ce5a9d8392d64069c27383f031fc",
+    "sha1": "64123ef74f806e45525e81133feef575c8a79df1",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -10318,6 +10373,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/thmp2.jpg"
+        },
         {
           "class": "otherLogo",
           "type": "jpg",
@@ -10343,7 +10403,7 @@
   },
   "CZ1004460": {
     "name": "Ladestation Technologie hlavního města Prahy I",
-    "sha1": "3ec6ac67364b3406444a5761bb6bf8d6b0ce07e1",
+    "sha1": "0198a7ee062d126b9ce7e9e8721461529e492e8d",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -10367,6 +10427,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/thmp1.jpg"
+        },
         {
           "class": "otherLogo",
           "type": "jpg",
@@ -10812,6 +10877,158 @@
       "postalCode": "19800",
       "region": "Hlavní město Praha",
       "street": "Travná"
+    }
+  },
+  "CZ1004587": {
+    "name": "Ladestation ČVUT FIT",
+    "sha1": "be35d5633a0221d8f7f41c5597462b3592f2ec14",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004587",
+      "csName": "Ladestation ČVUT FIT",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger ČVUT FIT",
+      "evseId": "CZ*PRE*E1S8159*2",
+      "geoCoord": {
+        "latitude": "50.105200",
+        "longitude": "14.390600"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-xgyuk2o7iwjh4.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16900",
+      "region": "Hlavní město Praha",
+      "street": "Bechyňova"
+    }
+  },
+  "CZ1004589": {
+    "name": "Ladestation Koupaliště Džbán",
+    "sha1": "f1fab02fd1a699c6ea417c5f780ec86d154275ac",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004589",
+      "csName": "Ladestation Koupaliště Džbán",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Koupaliště Džbán",
+      "evseId": "CZ*PRE*E1S8160*2",
+      "geoCoord": {
+        "latitude": "50.098200",
+        "longitude": "14.335100"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-xue9kkqwn6mi4.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-jsfhjjm4as3b.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16900",
+      "region": "Hlavní město Praha",
+      "street": "Nad Lávkou"
+    }
+  },
+  "CZ1004592": {
+    "name": "Ladestation Churchill Square",
+    "sha1": "4174c43b3502f55c7d3b56004cbf4f6e618dc269",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004592",
+      "csName": "Ladestation Churchill Square",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Churchill Square",
+      "evseId": "CZ*PRE*E1S8176*2",
+      "geoCoord": {
+        "latitude": "50.084000",
+        "longitude": "14.439700"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1080x600_0.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Dudova"
     }
   },
   "CZ2002608": {
