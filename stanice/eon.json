@@ -4377,8 +4377,8 @@
     }
   },
   "15025": {
-    "name": "E.ON Vystrkov A AC",
-    "sha1": "141feb017de373dd11d8377379198bae77e31221",
+    "name": "E.ON Vystrkov",
+    "sha1": "75ff304b66f73654a3101edf23bf14b1f444f7ac",
     "station": {
       "address": "Čerpací stanice Benzina na E551",
       "city": "Vystrkov",
@@ -4929,7 +4929,7 @@
       ],
       "id": "15025",
       "last_updated": "RESET",
-      "name": "E.ON Vystrkov A AC",
+      "name": "E.ON Vystrkov",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -22620,10 +22620,10 @@
     }
   },
   "51435": {
-    "name": "E.ON Brno-Ivanovice",
-    "sha1": "f56f625c9f8b23b8f50c6caefc57430b11e66967",
+    "name": "E.ON Globus Brno 2",
+    "sha1": "cbc96d66882991d41a0e1f36d981a8f88e36e19c",
     "station": {
-      "address": "Ivanovice",
+      "address": "Hradecká",
       "city": "Brno-Ivanovice",
       "coordinates": {
         "latitude": "49.26253911",
@@ -22679,7 +22679,7 @@
       ],
       "id": "51435",
       "last_updated": "RESET",
-      "name": "E.ON Brno-Ivanovice",
+      "name": "E.ON Globus Brno 2",
       "opening_times": {
         "twentyfourseven": true
       },
