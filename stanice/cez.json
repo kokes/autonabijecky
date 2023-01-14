@@ -10551,7 +10551,7 @@
   },
   "154290": {
     "name": "N176 - Dolní Břežany - Parkovací dům - 2",
-    "sha1": "8e1f80a0de3a60d70b97b20a840b44f5714b591c",
+    "sha1": "580a1739047c086621b0890fe0a15e930423d0f5",
     "station": {
       "address": {
         "city": "Dolní Břežany",
@@ -10605,7 +10605,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/3-20230113-115737.jpg"
         }
       ],
       "instructions": null,
@@ -18399,7 +18399,7 @@
   },
   "169185": {
     "name": "N207 - Tuchoměřice - POP Airport - kryté parkoviště - 1",
-    "sha1": "5c26a842db0161bb0b0bd1517ee57da990f91c86",
+    "sha1": "b7e6ba3588f08753bcd9abaa8d0d80115ff35dc9",
     "station": {
       "address": {
         "city": "Tuchoměřice",
@@ -18453,7 +18453,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/3-20230113-115737.jpg"
         }
       ],
       "instructions": null,
@@ -18463,7 +18463,7 @@
   },
   "169186": {
     "name": "N208 - Tuchoměřice - POP Airport - kryté parkoviště - 2",
-    "sha1": "c9019d0c9de315073f8e9aa4ce6d606dcd34d852",
+    "sha1": "c671a4229021c9af31183352ae4f7f34a95b93cc",
     "station": {
       "address": {
         "city": "Tuchoměřice",
@@ -18517,7 +18517,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/3-20230113-115737.jpg"
         }
       ],
       "instructions": null,
@@ -18527,7 +18527,7 @@
   },
   "169187": {
     "name": "N209 - Tuchoměřice - POP Airport - kryté parkoviště - 3",
-    "sha1": "175a3f1a8bcd6269b230114846a934ed3f500b85",
+    "sha1": "91c2059220880ac032078e136d9c32a85f61ae26",
     "station": {
       "address": {
         "city": "Tuchoměřice",
@@ -18581,7 +18581,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/3-20230113-115737.jpg"
         }
       ],
       "instructions": null,
@@ -18591,7 +18591,7 @@
   },
   "169188": {
     "name": "N210 - Tuchoměřice - POP Airport - kryté parkoviště - 4",
-    "sha1": "a266364cb65020e2bf6c461730fd3332eb9061b7",
+    "sha1": "b03c9176dd2c7f49d54a09b0ff9f2582777d1cfe",
     "station": {
       "address": {
         "city": "Tuchoměřice",
@@ -18645,7 +18645,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/3-20230113-115737.jpg"
         }
       ],
       "instructions": null,
@@ -19295,7 +19295,7 @@
   },
   "169199": {
     "name": "N221 - Tuchoměřice - POP Airport - kryté parkoviště - 15",
-    "sha1": "4fabb27dcb2433e217039cb46952f4ab41cbb8c1",
+    "sha1": "706fd31c3ec59410be8b4cc21cb7bf7dfa8f88d3",
     "station": {
       "address": {
         "city": "Tuchoměřice",
@@ -19349,7 +19349,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/3-20230113-115737.jpg"
         }
       ],
       "instructions": null,
@@ -20167,6 +20167,143 @@
       ],
       "instructions": null,
       "name": "R508 - Praha - McDonald´s Řepy",
+      "visible": true
+    }
+  },
+  "170772": {
+    "name": "R457 - Štěchovice - Vodní elektrárna Štěchovice",
+    "sha1": "210ac6049c772c125c83624dbdd6beaf504964d2",
+    "station": {
+      "address": {
+        "city": "Štěchovice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Lista",
+        "latitude": 49.8470278,
+        "longitude": 14.417365,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Prof.",
+        "url": ""
+      },
+      "customID": "170772",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1222-004",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R457"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1222-004",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1222-004",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R457"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/3-20230113-115539.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R457 - Štěchovice - Vodní elektrárna Štěchovice",
+      "visible": true
+    }
+  },
+  "170773": {
+    "name": "N230 - Loučná nad Desnou - Rejhotice - Hotel Dlouhé Stráně - duplikát",
+    "sha1": "07924ee814eb5ad115445752b423d125bf1d4ab8",
+    "station": {
+      "address": {
+        "city": "Štěchovice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Lista",
+        "latitude": 49.8470278,
+        "longitude": 14.417365,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Prof.",
+        "url": ""
+      },
+      "customID": "170773",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N227"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N227"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/3-20230113-115737.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N230 - Loučná nad Desnou - Rejhotice - Hotel Dlouhé Stráně - duplikát",
       "visible": true
     }
   },
