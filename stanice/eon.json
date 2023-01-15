@@ -33685,7 +33685,7 @@
   },
   "56530": {
     "name": "(P) Cafe Sun Benedicto",
-    "sha1": "00557cffc036c893c00ba5e43c7a71c645f76aea",
+    "sha1": "ab62913a8028e5f66c41f41beceeb2776e82f97f",
     "station": {
       "address": "K Pile 939",
       "city": "Klatovy",
@@ -33710,9 +33710,9 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2021-07-13T08:15:59.507Z",
+              "last_updated": "2023-01-14T23:01:16.91Z",
               "max_amperage": 32,
-              "max_electric_power": 22000,
+              "max_electric_power": 11000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",

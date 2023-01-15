@@ -11031,6 +11031,62 @@
       "street": "Dudova"
     }
   },
+  "CZ1004603": {
+    "name": "Ladestation OREA Pyramida II",
+    "sha1": "6a9478fdb1cdfccf202aca773789521a3df4120a",
+    "station": {
+      "branch": "Hotel",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004603",
+      "csName": "Ladestation OREA Pyramida II",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger OREA Pyramida II",
+      "enExtra": "Free of charge for hotel customers, otherwise a parking fee 50CZK/h or 400CZK/day",
+      "evseId": "CZ*PRE*E1S8163*2",
+      "extra": "Free of charge for hotel customers, otherwise a parking fee 50CZK/h or 400CZK/day",
+      "geoCoord": {
+        "latitude": "50.085800",
+        "longitude": "14.380200"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-ahfiu7ppq6agu.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-dfyjax1uuvbymdv.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16900",
+      "region": "Hlavní město Praha",
+      "street": "Bělohorská 125/24"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "3c1b2a0a7ebe4a9dd77f977bfa2e5d6dfdfc2762",
