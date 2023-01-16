@@ -598,7 +598,7 @@
   },
   "CZ1002605": {
     "name": "Schnellladestation PVA Letňany",
-    "sha1": "11be07e17acd74d437698aa888c477eefb2eb6e6",
+    "sha1": "22ab9bdcb13d66743d99684279c216a939abff96",
     "station": {
       "additionalInfo": "Von der Tupolevova Straße, hinter der Schranke",
       "branch": "Parken",
@@ -612,7 +612,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1002605",
       "csName": "Schnellladestation PVA Letňany",
-      "csStatus": "operable",
+      "csStatus": "under_construction",
       "csType": "fast_charger",
       "enAdditionalInfo": "From the Tupolevova street and through the bar",
       "enCsname": "Fast charger PVA Letňany",
@@ -6545,7 +6545,7 @@
   },
   "CZ1003267": {
     "name": "Ladestation Na Sádce 19-17",
-    "sha1": "daf33b54a53dcc87e00ef103eb992d813a1aea1b",
+    "sha1": "e1cb88a715c4b3cf3ce00c93f69e0a4b3b5a1a75",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -6558,7 +6558,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1003267",
       "csName": "Ladestation Na Sádce 19-17",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Na Sádce 19-17",
       "evseId": "CZ*PRE*E1S8149*2",
@@ -6568,6 +6568,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-ounrndrpxmk37.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-qavvnlff5mfy7ou.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -10832,7 +10844,7 @@
   },
   "CZ1004521": {
     "name": "Ladestation Mateřská škola Jahodnice",
-    "sha1": "2a2cccebb07f557b0a0d7ae3399489bf632823b2",
+    "sha1": "9b7baebe3d23dfd8611eb861520afbaef246bdad",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -10845,7 +10857,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1004521",
       "csName": "Ladestation Mateřská škola Jahodnice",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Mateřská škola Jahodnice",
       "evseId": "CZ*PRE*E1S8147*2",
