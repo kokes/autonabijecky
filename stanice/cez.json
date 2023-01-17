@@ -20307,6 +20307,152 @@
       "visible": true
     }
   },
+  "170824": {
+    "name": "R509 - Česká Skalice - Husovo nám. - 1",
+    "sha1": "639c62dc9fa2b627549dd595850bc325ce0b8efd",
+    "station": {
+      "address": {
+        "city": "Česká Skalice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "náměstí",
+        "latitude": 50.3949778,
+        "longitude": 16.0431781,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Husovo",
+        "url": ""
+      },
+      "customID": "170824",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-IT3-2822-293",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R509"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT3-2822-293",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT3-2822-293",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R509"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/57e9167b-ab00-48d6-9ba1-6053c62d3053.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R509 - Česká Skalice - Husovo nám. - 1",
+      "visible": true
+    }
+  },
+  "170842": {
+    "name": "R510 - Česká Skalice - Husovo nám. - 2",
+    "sha1": "f3222091e2630f5c78734cd0ca8b6a5237bf9bce",
+    "station": {
+      "address": {
+        "city": "Česká Skalice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "náměstí",
+        "latitude": 50.3949778,
+        "longitude": 16.0431781,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Husovo",
+        "url": ""
+      },
+      "customID": "170842",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-IT3-4022-300",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R510"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT3-4022-300",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT3-4022-300",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R510"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/57e9167b-ab00-48d6-9ba1-6053c62d3053.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R510 - Česká Skalice - Husovo nám. - 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
