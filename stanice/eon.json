@@ -16109,7 +16109,7 @@
   },
   "35935": {
     "name": "E.ON Hotel Dvořák Tábor",
-    "sha1": "a5152fed53434f18c1a87a8934b483dc6034919d",
+    "sha1": "ffcdffbb8082acfa6a03d4be768d0e4134c61796",
     "station": {
       "address": "Hradební 3037",
       "city": "Tábor",
@@ -16136,6 +16136,7 @@
             "longitude": "14.65646412"
           },
           "evse_id": "CZ*EON*E25035935*1",
+          "floor_level": "0",
           "last_seen_as_planned": "2022-01-18T11:50:31.44Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -16816,7 +16817,7 @@
   },
   "35949": {
     "name": "E.ON Nové Město na Moravě",
-    "sha1": "6d5f1a2f2a56c8c9efb63551b56243acd9ab9dcf",
+    "sha1": "70b03c44024b62a3b284e3cdcee7f832c640d10a",
     "station": {
       "address": "Vratislavovo nám. 4",
       "city": "Nové Město na Moravě",
@@ -16830,6 +16831,42 @@
         "is_green_energy": true
       },
       "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.5614251",
+            "longitude": "16.07504345"
+          },
+          "evse_id": "CZ*EON*E25035931*1",
+          "last_seen_as_planned": "2022-01-18T11:13:53.267Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35931"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.5614251",
+            "longitude": "16.07504345"
+          },
+          "evse_id": "CZ*EON*E25035931*2",
+          "last_seen_as_planned": "2022-01-18T11:13:53.267Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "35932"
+        },
         {
           "capabilities": [
             "CONTACTLESS_CARD_SUPPORT",
@@ -32318,7 +32355,7 @@
   },
   "53856": {
     "name": "E.ON Valeo Praha - Strašnice",
-    "sha1": "6e363891b927ef6d7fc65d3dd00086b50149dac9",
+    "sha1": "d902b42a70598f76ccae8fb72718b15a172f8229",
     "station": {
       "address": "Sazečská 247",
       "city": "Praha - Strašnice",
@@ -32339,13 +32376,54 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-01-18T08:52:03.35Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-01-18T08:52:03.35Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.07543056",
             "longitude": "14.51891374"
           },
           "evse_id": "CZ*EON*E98053856*1",
-          "last_seen_as_planned": "2022-03-23T07:43:46.357Z",
+          "last_seen_as_planned": "2023-01-18T08:52:03.35Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53856"
@@ -32357,25 +32435,87 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-01-18T08:52:03.35Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.07543056",
             "longitude": "14.51891374"
           },
           "evse_id": "CZ*EON*E98053856*2",
-          "last_seen_as_planned": "2022-03-23T07:43:46.357Z",
+          "last_seen_as_planned": "2023-01-18T08:52:03.35Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53857"
         },
         {
           "capabilities": [],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-01-18T08:52:03.35Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-01-18T08:52:03.35Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.07543056",
             "longitude": "14.51891374"
           },
-          "evse_id": "",
+          "evse_id": "CZ*EON*E98053858*1",
           "floor_level": "0",
           "last_seen_as_planned": "2023-01-09T12:26:33.69Z",
           "last_updated": "RESET",
@@ -32384,12 +32524,33 @@
         },
         {
           "capabilities": [],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-01-18T08:52:03.35Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.07543056",
             "longitude": "14.51891374"
           },
-          "evse_id": "",
+          "evse_id": "CZ*EON*E98053858*2",
           "floor_level": "0",
           "last_seen_as_planned": "2023-01-09T12:28:01.59Z",
           "last_updated": "RESET",

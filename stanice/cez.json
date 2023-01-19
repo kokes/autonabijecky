@@ -20453,6 +20453,143 @@
       "visible": true
     }
   },
+  "171029": {
+    "name": "R430 - Praha 3 - Atrium Flóra -1. patro - 1",
+    "sha1": "81df568149716da410bebd94aa67d57da2c42158",
+    "station": {
+      "address": {
+        "city": "Praha 3",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2828/12, -1. patro",
+        "latitude": 50.0786807,
+        "longitude": 14.4608864,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jičínská",
+        "url": ""
+      },
+      "customID": "171029",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4821-035",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R430"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-035",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4821-035",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R430"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/img_0688.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R430 - Praha 3 - Atrium Flóra -1. patro - 1",
+      "visible": true
+    }
+  },
+  "171030": {
+    "name": "N199 - Praha 3 - Atrium Flóra -1. patro - 2",
+    "sha1": "679774f5e1d6121b8701357af99809e884317b59",
+    "station": {
+      "address": {
+        "city": "Praha 3",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2828/12, -1. patro",
+        "latitude": 50.0786807,
+        "longitude": 14.4608864,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jičínská",
+        "url": ""
+      },
+      "customID": "171030",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N199"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N199"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/img_0693.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "N199 - Praha 3 - Atrium Flóra -1. patro - 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
