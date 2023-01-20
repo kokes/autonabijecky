@@ -11099,6 +11099,104 @@
       "street": "Bělohorská 125/24"
     }
   },
+  "CZ1004617": {
+    "name": "Ladestation Hybernská 26",
+    "sha1": "0377d0c6b9979095b448c9334e9e8e83170c6b19",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004617",
+      "csName": "Ladestation Hybernská 26",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Hybernská 26",
+      "evseId": "CZ*PRE*E1S8157*2",
+      "geoCoord": {
+        "latitude": "50.087230",
+        "longitude": "14.434020"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-n1h469opi9hwtz.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "11000",
+      "region": "Hlavní město Praha",
+      "street": "Hybernská 26"
+    }
+  },
+  "CZ1004618": {
+    "name": "Ladestation Hybernská 8",
+    "sha1": "a3540a6e4b19f707aa2bac305a3d7ae39054f16e",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004618",
+      "csName": "Ladestation Hybernská 8",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Hybernská 8",
+      "evseId": "CZ*PRE*E1S8156*2",
+      "geoCoord": {
+        "latitude": "50.087196",
+        "longitude": "14.430519"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-dirfigca4obbp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "11000",
+      "region": "Hlavní město Praha",
+      "street": "Hybernská 8"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "3c1b2a0a7ebe4a9dd77f977bfa2e5d6dfdfc2762",
@@ -13452,6 +13550,55 @@
       "postalCode": "34961",
       "region": "Plzeňský kraj",
       "street": "D5, směr Kladruby - Plzeň"
+    }
+  },
+  "CZ3204616": {
+    "name": "Ladestation Orea Železná Ruda I. (Horizont)",
+    "sha1": "73f68972c308dd884597aa7dbe2751dc7ed017e8",
+    "station": {
+      "branch": "Hotel",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Železná Ruda",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ3204616",
+      "csName": "Ladestation Orea Železná Ruda I. (Horizont)",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Orea Železná Ruda I. (Horizont)",
+      "evseId": "CZ*PRE*E1S8136*2",
+      "geoCoord": {
+        "latitude": "49.170438",
+        "longitude": "13.235182"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-7vmosxauv3ah.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "34004",
+      "region": "Plzeňský kraj",
+      "street": "Pancíř 126"
     }
   },
   "CZ4102727": {
