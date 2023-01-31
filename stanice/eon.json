@@ -1787,7 +1787,7 @@
   },
   "109635": {
     "name": "E.ON kavárna Lanna",
-    "sha1": "61ee0c45cdb8d9d77775066ea17cf32152810bc3",
+    "sha1": "8a2a0edbcdef6823e0515d2b5a18175bc4e98d74",
     "station": {
       "address": "Jiráskovo nábř. 45e",
       "city": "České Budějovice",
@@ -1812,7 +1812,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -1826,7 +1826,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -1851,7 +1853,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -1865,7 +1867,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -3743,7 +3747,7 @@
   },
   "14028": {
     "name": "E.ON Český Krumlov autobusové nádraží",
-    "sha1": "dc418ce5578017da9ff1042192b8a8260b53d0b9",
+    "sha1": "c8174fc7a215cd95e7edb8b5ef6dd28b511e8581",
     "station": {
       "address": "Nemocniční 585",
       "city": "Český Krumlov",
@@ -3768,7 +3772,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -3782,7 +3786,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -3807,7 +3813,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -3821,7 +3827,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -3865,7 +3873,7 @@
   },
   "14110": {
     "name": "E.ON Hotel Farma - zrušená",
-    "sha1": "1089c27fc4ac70271e5df3cd7398adfaf0e76da8",
+    "sha1": "eef265474dd7f90c472f5619aa0510c44d521443",
     "station": {
       "address": "Pelhřimov",
       "city": "Pelhřimov",
@@ -3890,7 +3898,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-07-29T06:23:38.46Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -3904,7 +3912,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -3930,7 +3940,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-07-29T06:23:38.46Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -3944,7 +3954,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -3993,7 +4005,7 @@
   },
   "14114": {
     "name": "E.ON Český Krumlov P2",
-    "sha1": "9105e6a3f8e4455a2ef1cccce5b1a8ff51f141e5",
+    "sha1": "51d7d43a6ea660cb04ef6533b3a189d09e129026",
     "station": {
       "address": "Pod Poštou",
       "city": "Český Krumlov",
@@ -4018,7 +4030,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -4032,7 +4044,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -4057,7 +4071,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -4071,7 +4085,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -4115,7 +4131,7 @@
   },
   "14122": {
     "name": "E.ON kavárna Lanna - zrušená",
-    "sha1": "27abf45c9ba1d0be811715dd4b484eda2441e26c",
+    "sha1": "2c50174d35672ffb7854d54e6d840aced2d38253",
     "station": {
       "address": "Jiráskovo nábř. 45e",
       "city": "České Budějovice",
@@ -4140,7 +4156,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-07-29T06:23:38.46Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -4154,7 +4170,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -4180,7 +4198,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-07-29T06:23:38.46Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -4194,7 +4212,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -4220,7 +4240,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-07-29T06:23:38.46Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -4234,7 +4254,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -4280,7 +4302,7 @@
   },
   "142613": {
     "name": "E.ON P3 Park Olomouc",
-    "sha1": "8f4b5e413b96348bf514a34de3c1eb5b46ceff42",
+    "sha1": "b1edd309b8e504748db891ffbc1983cca18eff38",
     "station": {
       "address": "Dolní Novosadská",
       "city": "Olomouc",
@@ -4324,7 +4346,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-08-18T09:14:47.33Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -4338,7 +4360,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -4363,7 +4387,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-08-18T09:14:47.33Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -4377,7 +4401,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -5025,7 +5051,7 @@
   },
   "15027": {
     "name": "E.ON Český Krumlov P1",
-    "sha1": "39ff7bee8a7450ef6d34436679534a0984109b1f",
+    "sha1": "7589d1ed214a5ace27156c565b8c0a3d301ebdb8",
     "station": {
       "address": "Chvalšinská 138",
       "city": "Český Krumlov",
@@ -5050,7 +5076,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -5064,7 +5090,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -5089,7 +5117,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -5103,7 +5131,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -5561,7 +5591,7 @@
   },
   "15889": {
     "name": "E.ON Třebíč kpt. Jaroše",
-    "sha1": "1706cfb4701a80ed7be57df0bcd4a87217642f23",
+    "sha1": "af6d2221d80dda871be02d81038bfeaf5b08d276",
     "station": {
       "address": "Kpt. Jaroše",
       "city": "Třebíč",
@@ -5586,7 +5616,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -5600,7 +5630,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -5625,7 +5657,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -5639,7 +5671,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -5941,7 +5975,7 @@
   },
   "16499": {
     "name": "E.ON Globus České Budějovice",
-    "sha1": "b3eb35f1a511156fc2d53e94fe58199ff18e3fc9",
+    "sha1": "9b77671a754ff4f3ca6311fecc8a4b53a2cb5b57",
     "station": {
       "address": "České Vrbné 2327",
       "city": "České Budějovice",
@@ -5966,7 +6000,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 63,
               "max_electric_power": 43000,
               "max_voltage": 400,
@@ -5980,7 +6014,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -6005,7 +6041,7 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -6019,13 +6055,15 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             },
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -6039,7 +6077,9 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             }
           ],
@@ -6084,7 +6124,7 @@
   },
   "17051": {
     "name": "E.ON Globus Brno",
-    "sha1": "50ec6aea8f648ad7361317214ef482d1a8898213",
+    "sha1": "9c043668ceec882790cb46a8ea99dd1db75a78c2",
     "station": {
       "address": "Hradecká 408/40",
       "city": "Brno",
@@ -6109,7 +6149,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 63,
               "max_electric_power": 43000,
               "max_voltage": 400,
@@ -6123,7 +6163,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -6148,7 +6190,7 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -6162,13 +6204,15 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             },
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -6182,7 +6226,9 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             }
           ],
@@ -6227,7 +6273,7 @@
   },
   "17053": {
     "name": "E.ON Globus Olomouc",
-    "sha1": "a5a526671c9b500cd08c3b69eec2fd57a28616c9",
+    "sha1": "63339bb9cbafb8ff7a3040f154c6bbdf95ac20d0",
     "station": {
       "address": "Pražská 248/39",
       "city": "Olomouc",
@@ -6252,7 +6298,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 63,
               "max_electric_power": 43000,
               "max_voltage": 400,
@@ -6266,7 +6312,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -6291,7 +6339,7 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -6305,13 +6353,15 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             },
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -6325,7 +6375,9 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             }
           ],
@@ -6698,7 +6750,7 @@
   },
   "18070": {
     "name": "E.ON Golf resort Karlštejn",
-    "sha1": "acbe3e920f66ed59886761ae419c81e7a5388bb3",
+    "sha1": "68213a78a066c36c6a782474c1b56859ba7e65f5",
     "station": {
       "address": "Běleč 272",
       "city": "Liteň",
@@ -6723,7 +6775,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-07-29T06:23:38.46Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -6737,7 +6789,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -6762,7 +6816,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-07-29T06:23:38.46Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -6776,7 +6830,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -7406,7 +7462,7 @@
   },
   "19837": {
     "name": "E.ON Globus Havířov",
-    "sha1": "4e1032c0129567ec5cea2577f5865547a2bc97f7",
+    "sha1": "baa0dc75b108553ae0471bea7d4beb26439719d2",
     "station": {
       "address": "U Skleníků 1490/24",
       "city": "Havířov",
@@ -7431,7 +7487,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 63,
               "max_electric_power": 43000,
               "max_voltage": 400,
@@ -7445,7 +7501,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -7470,7 +7528,7 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -7484,13 +7542,15 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             },
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -7504,7 +7564,9 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             }
           ],
@@ -8471,7 +8533,7 @@
   },
   "23147": {
     "name": "E.ON Slavonice",
-    "sha1": "01163c5659791ab8c0275bb04205f8427814f2e1",
+    "sha1": "38d5c70a5a77771b1244fb48852341b71de05164",
     "station": {
       "address": "Na Potoku 629",
       "city": "Slavonice",
@@ -8496,7 +8558,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 16,
               "max_electric_power": 11000,
               "max_voltage": 400,
@@ -8510,7 +8572,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -8554,7 +8618,7 @@
   },
   "23782": {
     "name": "E.ON Globus Ostrava",
-    "sha1": "4c48a23da486e61981ce022f4a7e6ffc9161a826",
+    "sha1": "d19fca184fbee18955d8fc50e5fa621b2a7089cc",
     "station": {
       "address": "Opavská 326/90",
       "city": "Ostrava-Plesná",
@@ -8579,7 +8643,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 63,
               "max_electric_power": 43000,
               "max_voltage": 400,
@@ -8593,7 +8657,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -8618,7 +8684,7 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -8632,13 +8698,15 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             },
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -8652,7 +8720,9 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             }
           ],
@@ -8833,7 +8903,7 @@
   },
   "25129": {
     "name": "E.ON Globus Plzeň",
-    "sha1": "0960118852d4f9f8ce05e1366ecb621bb1f9868f",
+    "sha1": "ca8c8dd737cdb317cee7988b382d8320e77a780c",
     "station": {
       "address": "Chotíkov 385",
       "city": " Plzeň",
@@ -8858,7 +8928,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 63,
               "max_electric_power": 43000,
               "max_voltage": 400,
@@ -8872,7 +8942,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -8897,7 +8969,7 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -8911,13 +8983,15 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             },
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -8931,7 +9005,9 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             }
           ],
@@ -8976,7 +9052,7 @@
   },
   "25151": {
     "name": "E.ON Globus Chomutov",
-    "sha1": "bad84ac3b7f83196b2af71be8697bcd3e6af7f0b",
+    "sha1": "27592f9c0c758222d3ba8f8a30673c4b112b52c8",
     "station": {
       "address": "Černovická 5430",
       "city": "Chomutov",
@@ -9001,7 +9077,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 63,
               "max_electric_power": 43000,
               "max_voltage": 400,
@@ -9015,7 +9091,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -9040,7 +9118,7 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -9054,13 +9132,15 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             },
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -9074,7 +9154,9 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             }
           ],
@@ -9119,7 +9201,7 @@
   },
   "25153": {
     "name": "E.ON Globus Karlovy Vary - Jenišov",
-    "sha1": "41914e1d9b3ce6e9246df0952d76f62852065212",
+    "sha1": "7ba3afdf0da1b5f1decf3ec730e30c3fcf36855b",
     "station": {
       "address": "Obchodní 30",
       "city": "Karlovy Vary - Jenišov",
@@ -9144,7 +9226,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 63,
               "max_electric_power": 43000,
               "max_voltage": 400,
@@ -9158,7 +9240,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -9183,7 +9267,7 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -9197,13 +9281,15 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             },
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -9217,7 +9303,9 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             }
           ],
@@ -9262,7 +9350,7 @@
   },
   "25171": {
     "name": "E.ON Globus Pardubice",
-    "sha1": "9ff1433b6abedbdb5e77c1735cccfe0c5f6b2c0a",
+    "sha1": "963fd466009ef15223997d42214e8843c88ee453",
     "station": {
       "address": "Poděbradská 293",
       "city": "Pardubice",
@@ -9287,7 +9375,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 63,
               "max_electric_power": 43000,
               "max_voltage": 400,
@@ -9301,7 +9389,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -9326,7 +9416,7 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -9340,13 +9430,15 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             },
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -9360,7 +9452,9 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             }
           ],
@@ -9405,7 +9499,7 @@
   },
   "25200": {
     "name": "E.ON Globus Liberec",
-    "sha1": "a006faef485575f7f1d4ad0c641f8c83cef51be0",
+    "sha1": "11f60991836d4dfdce7e40d6ba9bdd271efe165f",
     "station": {
       "address": "Sousedská 600",
       "city": "Liberec",
@@ -9430,7 +9524,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 63,
               "max_electric_power": 43000,
               "max_voltage": 400,
@@ -9444,7 +9538,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -9470,7 +9566,7 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -9484,13 +9580,15 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             },
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2022-01-31T13:32:44.673Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -9504,7 +9602,9 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             }
           ],
@@ -9961,7 +10061,7 @@
   },
   "26970": {
     "name": "E.ON Český Krumlov P3",
-    "sha1": "4e3cf933836903841902e415051d5e386f02087b",
+    "sha1": "a4ac4152962e14e5609f16e9285cf87c4b4b30ba",
     "station": {
       "address": "Městský Park ",
       "city": "Český Krumlov",
@@ -9986,7 +10086,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -10000,7 +10100,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -10025,7 +10127,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -10039,7 +10141,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -10083,7 +10187,7 @@
   },
   "26974": {
     "name": "E.ON Terno České Budějovice",
-    "sha1": "7c98fb054bdb6370ba1a4c2a083d95cae1b9c9c3",
+    "sha1": "7a97625137ca28a750dfd7d17f40b701ed0df2cc",
     "station": {
       "address": "Suchomelská 2251",
       "city": "České Budějovice",
@@ -10108,7 +10212,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -10122,7 +10226,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -10147,7 +10253,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -10161,7 +10267,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -10205,7 +10313,7 @@
   },
   "26979": {
     "name": "E.ON Frymburk",
-    "sha1": "d8b171a790a8cde88e37e642c88f652a1e0dc41b",
+    "sha1": "201bc7999ec89507b40d4f4a0bbe0f7aebb5f0a6",
     "station": {
       "address": "Frymburk 78",
       "city": "Frymburk",
@@ -10230,7 +10338,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-12-15T23:00:58.36Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 11000,
               "max_voltage": 400,
@@ -10244,7 +10352,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -10269,7 +10379,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-12-15T23:00:58.36Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 11000,
               "max_voltage": 400,
@@ -10283,7 +10393,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -10328,7 +10440,7 @@
   },
   "26982": {
     "name": "E.ON Penzion u Méďů",
-    "sha1": "f6ba590afed43bc16fe8097b47bd597ba421cb17",
+    "sha1": "f18dccaf44ffd74c8afba88328d91f5c0b916fba",
     "station": {
       "address": "Hůrka 72",
       "city": "Horní Planá",
@@ -10353,7 +10465,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -10367,7 +10479,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -10392,7 +10506,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -10406,7 +10520,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -10453,7 +10569,7 @@
   },
   "26987": {
     "name": "E.ON Volary",
-    "sha1": "f59b84f6c57e37e9b36a9054d427a8f38a29afa1",
+    "sha1": "0ccf026ec61ee2ff898e7aab73ed12384e0ff3d7",
     "station": {
       "address": "Náměstí 24",
       "city": "Volary",
@@ -10478,7 +10594,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -10492,7 +10608,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -10517,7 +10635,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -10531,7 +10649,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -10578,7 +10698,7 @@
   },
   "26989": {
     "name": "E.ON Hluboká nad Vltavou",
-    "sha1": "f263a6c650a24e634a3a64982212bcd1e8cd8ff1",
+    "sha1": "9738305d097cb79ff3c3db42205e4aac91c4c7ef",
     "station": {
       "address": "Nad Parkovištěm 969",
       "city": "Hluboká nad Vltavou",
@@ -10603,7 +10723,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -10617,7 +10737,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -10642,7 +10764,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -10656,7 +10778,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -14299,7 +14423,7 @@
   },
   "35467": {
     "name": "E.ON Kaplice",
-    "sha1": "24ed4ccc7f695f3d5fb64d66b1df04f531ab3d16",
+    "sha1": "5a45cfea38ddc90954d3fda65a807385c1cc4fc1",
     "station": {
       "address": "Náměstí",
       "city": "Kaplice",
@@ -14324,7 +14448,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -14338,7 +14462,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -14363,7 +14489,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -14377,7 +14503,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -14421,7 +14549,7 @@
   },
   "35469": {
     "name": "E.ON Landal Marina Lipno",
-    "sha1": "caa9703a033532c0f2d4f1744020d9fb91f6ce16",
+    "sha1": "5ce241b5f2872bbafa2aaa2afafdd049684a4b85",
     "station": {
       "address": "Lipno nad Vltavou 310",
       "city": "Lipno nad Vltavou",
@@ -14446,7 +14574,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2023-01-02T08:47:42.21Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 11000,
               "max_voltage": 400,
@@ -14460,7 +14588,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -14485,7 +14615,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2023-01-02T08:47:42.21Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 11000,
               "max_voltage": 400,
@@ -14499,7 +14629,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -14549,7 +14681,7 @@
   },
   "35471": {
     "name": "E.ON Blatná",
-    "sha1": "e50d1b1040dfb2a0bbe0c766c73775ffa8df9349",
+    "sha1": "9652d5d1c4c8eb60f4730b623887287d92a74861",
     "station": {
       "address": "V Podzámčí 174 ",
       "city": "Blatná",
@@ -14574,7 +14706,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -14588,7 +14720,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -14613,7 +14747,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-07-29T06:23:38.46Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -14627,13 +14761,15 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             },
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -14647,7 +14783,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -14693,7 +14831,7 @@
   },
   "35473": {
     "name": "E.ON Soběslav",
-    "sha1": "372d1c68446f998a83d0a274b4afd0eb00d019da",
+    "sha1": "71bf9e73856b17cd9b8622e0a5e50584996526e6",
     "station": {
       "address": "Nová 409/2",
       "city": "Soběslav",
@@ -14718,7 +14856,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -14732,7 +14870,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -14757,7 +14897,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -14771,7 +14911,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -14815,7 +14957,7 @@
   },
   "35475": {
     "name": "E.ON Strakonice",
-    "sha1": "f12cbe59e6abd314a606089c8afbf8e670eb8d9d",
+    "sha1": "d2c3e52cb823fd22480b66baf6aeece8a576c251",
     "station": {
       "address": "Písecká",
       "city": "Strakonice",
@@ -14840,7 +14982,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -14854,7 +14996,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -14879,7 +15023,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -14893,7 +15037,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -15257,7 +15403,7 @@
   },
   "35915": {
     "name": "E.ON OC Futurum Brno",
-    "sha1": "e22ecfa8710dec96cfbd46ae962354ac4c94b691",
+    "sha1": "0bf91eacd098a4042ecd03df3c420daa7e247d3f",
     "station": {
       "address": "Vídeňská 132/100",
       "city": "Brno-jih",
@@ -15282,7 +15428,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -15296,7 +15442,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -15321,7 +15469,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -15335,7 +15483,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -15360,7 +15510,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -15374,7 +15524,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -15399,7 +15551,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -15413,7 +15565,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -15461,7 +15615,7 @@
   },
   "35919": {
     "name": "E.ON Hatě",
-    "sha1": "558026b0b640753c40ed4e7685315e82742fec0c",
+    "sha1": "a9189cacccec4faf6d58ab1e3624966392799d2a",
     "station": {
       "address": "Hatě 198",
       "city": "Chvalovice",
@@ -15486,7 +15640,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -15500,7 +15654,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -15525,7 +15681,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -15539,7 +15695,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -15583,7 +15741,7 @@
   },
   "35921": {
     "name": "E.ON OC 4Dvory České Budějovice",
-    "sha1": "f7ecd8d4046836aa4fd4aea58a2dcee03ce938a8",
+    "sha1": "22cc51151b07132da2a3ea585fb04fdc8c079695",
     "station": {
       "address": "M. Horákové 1498",
       "city": "České Budějovice",
@@ -15608,7 +15766,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-05-20T12:48:43.27Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -15622,7 +15780,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -15647,7 +15807,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-05-20T12:48:43.27Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -15661,7 +15821,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -15707,7 +15869,7 @@
   },
   "35923": {
     "name": "E.ON Letiště Brno",
-    "sha1": "544d5efac17936f491a4e3c671c542108451258c",
+    "sha1": "fcc00bf9bb0d1ff9c20b4dcfed7ce8162eddcf37",
     "station": {
       "address": "Letiště Brno-Tuřany 904/1",
       "city": "Brno",
@@ -15732,7 +15894,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -15746,7 +15908,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -15771,7 +15935,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -15785,7 +15949,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -15828,7 +15994,7 @@
   },
   "35925": {
     "name": "E.ON Kroměříž",
-    "sha1": "2720028864289c0150161d3c9736d04989bb5cd2",
+    "sha1": "98942835a65f2e1ee67aa23757bd35e5001d1848",
     "station": {
       "address": "Nádražní 1690/3",
       "city": "Kroměříž",
@@ -15853,7 +16019,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -15867,7 +16033,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -15892,7 +16060,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -15906,7 +16074,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -15950,7 +16120,7 @@
   },
   "35927": {
     "name": "E.ON Nové Hrady",
-    "sha1": "40d5c74b5d7397e724f2c6f6f1ead4caf5a2ab39",
+    "sha1": "b5427272ee303d85718584f15bc7745025762b67",
     "station": {
       "address": "Jižní město",
       "city": "Nové hrady",
@@ -15975,7 +16145,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-12-06T23:01:01.69Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -15989,7 +16159,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -16014,7 +16186,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-12-06T23:01:01.69Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -16028,7 +16200,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -16221,7 +16395,7 @@
   },
   "35933": {
     "name": "E.ON Parkhotel Hluboká nad Vltavou",
-    "sha1": "dba6cd91635a91ccb8d72625868e3a8c8e72fef0",
+    "sha1": "5c926eaab5d9925d578952a676fa2b276988ba78",
     "station": {
       "address": "Masarykova 602",
       "city": "Hluboká nad Vltavou",
@@ -16246,7 +16420,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-12-14T23:01:08.683Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -16260,7 +16434,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -16285,7 +16461,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-12-14T23:01:08.683Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -16299,7 +16475,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -16416,7 +16594,7 @@
   },
   "35937": {
     "name": "E.ON Telč",
-    "sha1": "83abe5017b01d558a50ccf04f0ab64249c1c256e",
+    "sha1": "62f4336fea863180db0e2ac9d14248de41ff8f65",
     "station": {
       "address": "Tobiáškova 131",
       "city": "Telč",
@@ -16441,7 +16619,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-12-06T23:01:01.69Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -16455,7 +16633,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -16480,7 +16660,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-12-06T23:01:01.69Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -16494,7 +16674,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -16538,7 +16720,7 @@
   },
   "35939": {
     "name": "E.ON Terno Prachatice",
-    "sha1": "82db26840dee2943191f3ebe39c4b45fd5776058",
+    "sha1": "7b465a1523b38066710ce18a9622326fdd8851e1",
     "station": {
       "address": "Husinecká 1190",
       "city": "Prachatice",
@@ -16563,7 +16745,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-05-20T12:45:14.38Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -16577,7 +16759,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -16602,7 +16786,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-05-20T12:45:14.38Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -16616,7 +16800,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -16734,7 +16920,7 @@
   },
   "35943": {
     "name": "E.ON České Velenice",
-    "sha1": "02a8b432917305b1169f07942fc5782740193716",
+    "sha1": "a56fc5f1e735c9364ee5ba08ec21a938fc8e5659",
     "station": {
       "address": "T. G. Masaryka 227",
       "city": "České Velenice",
@@ -16759,7 +16945,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-12-14T23:01:08.683Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -16773,7 +16959,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -16798,7 +16986,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-12-14T23:01:08.683Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -16812,7 +17000,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -16851,7 +17041,7 @@
   },
   "35945": {
     "name": "E.ON Vyšší Brod",
-    "sha1": "6312479c07602d6b911e270d4638e478cd5991b7",
+    "sha1": "5881c72c95d8dc67b58ac3e492625dc8773e4137",
     "station": {
       "address": "Míru 120",
       "city": "Vyšší Brod",
@@ -16876,7 +17066,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-12-23T23:00:54.643Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -16890,7 +17080,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -16915,7 +17107,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-12-23T23:00:54.643Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -16929,7 +17121,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -17158,7 +17352,7 @@
   },
   "35951": {
     "name": "E.ON Orsino Horní Planá",
-    "sha1": "5d7a96ba2275e4d9b491bf7a3eb77494372a8de4",
+    "sha1": "6b0a44c567e637ce0d403a4ced2f1c05e5896f30",
     "station": {
       "address": "Volarská 167",
       "city": "Horní Planá",
@@ -17183,7 +17377,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-05-24T10:02:10.943Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -17197,7 +17391,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -17222,7 +17418,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-05-24T10:02:10.943Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -17236,7 +17432,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -17283,7 +17481,7 @@
   },
   "35953": {
     "name": "E.ON Kraví Hora",
-    "sha1": "6ec0cf016c9883cc09430dfaf337384984317c1d",
+    "sha1": "9a47681ef5b1b919598a376ef92284458fd2d791",
     "station": {
       "address": "Bořetice 510",
       "city": "Bořetice",
@@ -17308,7 +17506,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -17322,7 +17520,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -17347,7 +17547,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -17361,7 +17561,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -17408,7 +17610,7 @@
   },
   "35955": {
     "name": "E.ON Hotel Farma",
-    "sha1": "6d9320d78bfab5c68626fa592d26fd829ff7aaf8",
+    "sha1": "ce1387cca3fd651242035303734bbba79a9f3370",
     "station": {
       "address": "Služátky 25",
       "city": "Pelhřimov",
@@ -17433,7 +17635,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -17447,7 +17649,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -17472,7 +17676,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -17486,7 +17690,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -17607,7 +17813,7 @@
   },
   "35959": {
     "name": "E.ON Chata Rovina",
-    "sha1": "0e9f26201c25f54497c406a896ca3ba80214d662",
+    "sha1": "81d5054ddce215570dc73c20098f294ace99d7b2",
     "station": {
       "address": "Dobrá Voda 16",
       "city": "Hartmanice",
@@ -17632,7 +17838,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -17646,7 +17852,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -17671,7 +17879,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -17685,7 +17893,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -17733,7 +17943,7 @@
   },
   "35961": {
     "name": "E.ON Lanžhot",
-    "sha1": "795c08f3112a1c41095cccb87f06225684031d47",
+    "sha1": "6d65dace2f2ed4c81afd38887b7bdd9d6618e28a",
     "station": {
       "address": "Masarykova 1314",
       "city": "Lanžhot",
@@ -17758,7 +17968,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-10-26T22:01:06.76Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -17772,7 +17982,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -17797,7 +18009,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-10-26T22:01:06.76Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -17811,7 +18023,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -17850,7 +18064,7 @@
   },
   "35963": {
     "name": "E.ON Vodňany",
-    "sha1": "8903cedfd5cff6574eeba5212bec52089a300442",
+    "sha1": "7b52fd872872b31d346b9a7ccf795f9f9c2eac71",
     "station": {
       "address": "Elektrárenská",
       "city": "Vodňany",
@@ -17875,7 +18089,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-05-20T12:54:48.157Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -17889,7 +18103,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -17914,7 +18130,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-05-20T12:54:48.157Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -17928,7 +18144,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -18048,7 +18266,7 @@
   },
   "35967": {
     "name": "E.ON Veselí nad Lužnicí",
-    "sha1": "bc5f9bc8006049778abb15eed92226fc3f3de9a1",
+    "sha1": "8f07fa935f9c687b36bd46c3332bb4138bbeb1d9",
     "station": {
       "address": "Tř. Československé armády 560",
       "city": "Veselí nad Lužnicí",
@@ -18073,7 +18291,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-05-24T07:54:58.447Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -18087,7 +18305,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -18112,7 +18332,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-05-24T07:54:58.447Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -18126,7 +18346,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -18394,7 +18616,7 @@
   },
   "35976": {
     "name": "E.ON City Olomouc",
-    "sha1": "c19ec10db76a1014df2a1002eec54e8267f53f15",
+    "sha1": "12ac56152cb888e482f0374431fc73defc932f44",
     "station": {
       "address": "Pražská 255/41",
       "city": "Olomouc ",
@@ -18419,7 +18641,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-07-13T09:21:25.67Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -18433,7 +18655,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -18458,7 +18682,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-07-13T09:21:25.67Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -18472,7 +18696,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -18497,7 +18723,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-07-13T09:21:25.67Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -18511,7 +18737,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -18536,7 +18764,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-07-13T09:21:25.67Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -18550,7 +18778,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -18575,7 +18805,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-07-13T09:21:25.67Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -18589,7 +18819,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -18614,7 +18846,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-07-13T09:21:25.67Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -18628,7 +18860,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -18674,7 +18908,7 @@
   },
   "35982": {
     "name": "E.ON NC Berounka Plzeň",
-    "sha1": "32b63b57a95b4ce0b23e5649b33ca0c3d97ccafb",
+    "sha1": "61936315ec82e2424edcdb583d046a5ba1a1abe3",
     "station": {
       "address": "Nákupní 9",
       "city": "Plzeň",
@@ -18699,7 +18933,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-12-09T23:01:01.577Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -18713,7 +18947,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -18738,7 +18974,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-12-09T23:01:01.577Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -18752,7 +18988,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -18777,7 +19015,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-12-09T23:01:01.577Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -18791,7 +19029,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -18816,7 +19056,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-12-09T23:01:01.577Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -18830,7 +19070,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -19059,7 +19301,7 @@
   },
   "35987": {
     "name": "E.ON P3 Park Stochov",
-    "sha1": "0f4769d31e885eaef402e030da3a315c541f8c8f",
+    "sha1": "9361361a852f841fe53a44eede40209168d0f071",
     "station": {
       "address": "Osvobození 540",
       "city": "Stochov",
@@ -19084,7 +19326,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2023-01-06T07:42:31.44Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -19098,7 +19340,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -19107,7 +19351,7 @@
             "longitude": "13.96749593"
           },
           "evse_id": "CZ*EON*E25035987*1",
-          "last_seen_as_planned": "2023-01-06T07:42:31.44Z",
+          "last_seen_as_planned": "2023-01-30T20:01:05.897Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35987"
@@ -19123,7 +19367,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2023-01-06T07:42:31.44Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -19137,7 +19381,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -19146,7 +19392,7 @@
             "longitude": "13.96749593"
           },
           "evse_id": "CZ*EON*E25035987*2",
-          "last_seen_as_planned": "2023-01-06T07:42:31.44Z",
+          "last_seen_as_planned": "2023-01-30T20:01:05.897Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35988"
@@ -38103,7 +38349,7 @@
   },
   "9158": {
     "name": "E.ON Penny Praha Lehovec",
-    "sha1": "d0102e33ea26bd1f3a0e438110c5dd3494a36428",
+    "sha1": "18a6ac7d3a0ba44d1201fffda0ed18a2bb252ec1",
     "station": {
       "address": "Kolbenova 1094",
       "city": "Praha",
@@ -38128,7 +38374,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-31T13:25:31.833Z",
+              "last_updated": "2023-01-30T20:01:05.897Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -38142,7 +38388,9 @@
                 "145",
                 "146",
                 "188",
-                "189"
+                "189",
+                "214",
+                "217"
               ]
             }
           ],
@@ -38167,7 +38415,7 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-03-17T06:45:04.43Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 44000,
               "max_voltage": 500,
@@ -38181,13 +38429,15 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             },
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2022-03-17T06:45:04.43Z",
+              "last_updated": "2023-01-30T20:11:36.26Z",
               "max_amperage": 125,
               "max_electric_power": 44000,
               "max_voltage": 500,
@@ -38201,7 +38451,9 @@
                 "147",
                 "148",
                 "190",
-                "191"
+                "191",
+                "215",
+                "218"
               ]
             }
           ],

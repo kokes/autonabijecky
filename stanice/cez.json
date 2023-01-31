@@ -18321,7 +18321,7 @@
   },
   "168986": {
     "name": "UR111 - Praha - OC Letňany - venkovní parkoviště - 9",
-    "sha1": "483ee898150fa4209f31adf8a351b3caab629272",
+    "sha1": "12912122ffe91410e379419def3d439c1a3d416f",
     "station": {
       "address": {
         "city": "Praha 9",
@@ -18389,7 +18389,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/ur111.png"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/mercedes-eq-eqs-suv-ciez-nabiujecika-16.jpg"
         }
       ],
       "instructions": null,
@@ -19889,7 +19889,7 @@
   },
   "169609": {
     "name": "R490 - Poděbrady - Kaufland - U garáží - 1",
-    "sha1": "fbcad9498e35d612c70f7a79f6d26def709aadbc",
+    "sha1": "50ec8a4a7f6c3eabf55fcb187371e19478a77b3b",
     "station": {
       "address": {
         "city": "Poděbrady",
@@ -19939,7 +19939,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "T54-HU1-2622-016",
+              "chargePointIdentity": "T54-HU1-2322-006",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -20587,6 +20587,79 @@
       ],
       "instructions": null,
       "name": "N199 - Praha 3 - Atrium Flóra -1. patro - 2",
+      "visible": true
+    }
+  },
+  "171989": {
+    "name": "R504 - Pardubice - AAA Auto",
+    "sha1": "bd3894c90b40a464d6cae14c9da0a006848cf97a",
+    "station": {
+      "address": {
+        "city": "Pardubice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Potůčka 290",
+        "latitude": 50.0512711,
+        "longitude": 15.7538231,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jiřího",
+        "url": ""
+      },
+      "customID": "171989",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1022-018",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R504"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1022-018",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1022-018",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R504"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/2-20230130-121123.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R504 - Pardubice - AAA Auto",
       "visible": true
     }
   },
