@@ -16386,6 +16386,48 @@
       "street": "Černovická 1167/36"
     }
   },
+  "CZ6404624": {
+    "name": "Schnellladestation IKEA Brno",
+    "sha1": "5014c28b0e06e4edd18acc4a18fbd20eebfdf946",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤75kW"
+        ]
+      },
+      "city": "Brno",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ6404624",
+      "csName": "Schnellladestation IKEA Brno",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger IKEA Brno",
+      "evseId": "CZ*PRE*E1R0066*1",
+      "geoCoord": {
+        "latitude": "49.154896",
+        "longitude": "16.628691"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "61900",
+      "region": "Jihomoravský kraj",
+      "street": "Skandinávská 126/4"
+    }
+  },
   "CZ7102740": {
     "name": "Schnellladestation OMV Prostějov",
     "sha1": "f1d749ab22cf45b5327d45f2040ea380d7b48b08",
