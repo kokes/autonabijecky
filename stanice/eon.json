@@ -1403,7 +1403,7 @@
   },
   "109565": {
     "name": "(P) Olympia Brno - Parkovací dům",
-    "sha1": "dbb21ca8ddc77e3f931ce7be39eac5cbbaed1fd9",
+    "sha1": "5f8362689b0a4a78928fe7c66ea3c84dc8803d03",
     "station": {
       "address": "U Dálnice 777",
       "city": "Modřice",
@@ -1428,7 +1428,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-04-08T12:06:35.76Z",
+              "last_updated": "2023-02-01T10:27:01.75Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -1436,7 +1436,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "137",
-                "138"
+                "138",
+                "226",
+                "227"
               ]
             }
           ],
@@ -1445,7 +1447,7 @@
             "longitude": "16.632541"
           },
           "evse_id": "CZ*EON*E220109565*1",
-          "last_seen_as_planned": "2022-04-08T11:55:54.42Z",
+          "last_seen_as_planned": "2023-02-01T06:07:34.403Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "109565"
@@ -1461,7 +1463,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-04-08T12:07:11.837Z",
+              "last_updated": "2023-02-01T10:27:01.75Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -1469,7 +1471,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "137",
-                "138"
+                "138",
+                "226",
+                "227"
               ]
             }
           ],
@@ -1478,7 +1482,7 @@
             "longitude": "16.632541"
           },
           "evse_id": "CZ*EON*E220109566*1",
-          "last_seen_as_planned": "2022-04-08T11:39:35.037Z",
+          "last_seen_as_planned": "2023-02-01T10:27:01.75Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "109566"
@@ -1494,7 +1498,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-04-08T12:07:35.12Z",
+              "last_updated": "2023-02-01T10:27:01.75Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -1502,7 +1506,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "137",
-                "138"
+                "138",
+                "226",
+                "227"
               ]
             }
           ],
@@ -1511,7 +1517,7 @@
             "longitude": "16.632541"
           },
           "evse_id": "CZ*EON*E220109567*1",
-          "last_seen_as_planned": "2022-04-08T11:39:35.037Z",
+          "last_seen_as_planned": "2023-02-01T06:07:34.403Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "109567"
@@ -1527,7 +1533,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-04-08T12:07:56.773Z",
+              "last_updated": "2023-02-01T10:27:01.75Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -1535,7 +1541,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "137",
-                "138"
+                "138",
+                "226",
+                "227"
               ]
             }
           ],
@@ -1544,7 +1552,7 @@
             "longitude": "16.632541"
           },
           "evse_id": "CZ*EON*E220109568*1",
-          "last_seen_as_planned": "2022-04-08T11:39:35.037Z",
+          "last_seen_as_planned": "2023-02-01T06:07:34.403Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "109568"
@@ -1560,7 +1568,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-04-08T12:08:36.357Z",
+              "last_updated": "2023-02-01T10:27:01.75Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -1568,7 +1576,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "137",
-                "138"
+                "138",
+                "226",
+                "227"
               ]
             }
           ],
@@ -1577,7 +1587,7 @@
             "longitude": "16.632541"
           },
           "evse_id": "CZ*EON*E220109569*1",
-          "last_seen_as_planned": "2022-04-08T11:39:35.037Z",
+          "last_seen_as_planned": "2023-02-01T06:07:34.403Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "109569"
@@ -1593,7 +1603,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-04-08T12:09:32.927Z",
+              "last_updated": "2023-02-01T10:27:01.75Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -1601,7 +1611,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "137",
-                "138"
+                "138",
+                "226",
+                "227"
               ]
             }
           ],
@@ -1610,7 +1622,7 @@
             "longitude": "16.632541"
           },
           "evse_id": "CZ*EON*E220109570*1",
-          "last_seen_as_planned": "2022-04-08T11:39:35.037Z",
+          "last_seen_as_planned": "2023-02-01T06:07:34.403Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "109570"
@@ -1626,7 +1638,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-04-08T12:09:47.073Z",
+              "last_updated": "2023-02-01T10:27:01.75Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -1634,7 +1646,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "137",
-                "138"
+                "138",
+                "226",
+                "227"
               ]
             }
           ],
@@ -1643,7 +1657,7 @@
             "longitude": "16.632541"
           },
           "evse_id": "CZ*EON*E220109571*1",
-          "last_seen_as_planned": "2022-04-08T11:39:35.037Z",
+          "last_seen_as_planned": "2023-02-01T06:07:34.403Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "109571"
@@ -1659,7 +1673,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-04-08T12:10:09.41Z",
+              "last_updated": "2023-02-01T10:27:01.75Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -1667,7 +1681,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "137",
-                "138"
+                "138",
+                "226",
+                "227"
               ]
             }
           ],
@@ -1676,7 +1692,7 @@
             "longitude": "16.632541"
           },
           "evse_id": "CZ*EON*E220109572*1",
-          "last_seen_as_planned": "2022-04-08T11:39:35.037Z",
+          "last_seen_as_planned": "2023-02-01T06:07:34.403Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "109572"
@@ -1692,7 +1708,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-05-04T22:00:55.547Z",
+              "last_updated": "2023-02-01T10:27:01.75Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -1700,7 +1716,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "137",
-                "138"
+                "138",
+                "226",
+                "227"
               ]
             }
           ],
@@ -1709,7 +1727,7 @@
             "longitude": "16.632541"
           },
           "evse_id": "CZ*EON*E22129581*1",
-          "last_seen_as_planned": null,
+          "last_seen_as_planned": "2023-02-01T06:07:34.403Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "129581"
@@ -7007,7 +7025,7 @@
   },
   "18874": {
     "name": "(P) Amenity Resort Lipno",
-    "sha1": "0ba7088a37d59f86c37f7b1ae65a1d8969095540",
+    "sha1": "eb42bad74924f094e7047846a3ff54b0b6a847ee",
     "station": {
       "address": "Lipno nad Vltavou 999",
       "city": "Lipno nad Vltavou",
@@ -7032,7 +7050,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2020-12-16T13:19:30.713Z",
+              "last_updated": "2023-02-01T10:19:09.157Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -7040,7 +7058,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "15",
-                "16"
+                "16",
+                "224",
+                "225"
               ]
             }
           ],
@@ -7049,7 +7069,7 @@
             "longitude": "14.20682"
           },
           "evse_id": "CZ*EON*E31018874*1",
-          "last_seen_as_planned": null,
+          "last_seen_as_planned": "2023-02-01T06:21:39.74Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "18874"
@@ -7065,7 +7085,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2020-12-16T13:19:30.713Z",
+              "last_updated": "2023-02-01T10:19:09.157Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -7073,7 +7093,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "15",
-                "16"
+                "16",
+                "224",
+                "225"
               ]
             }
           ],
@@ -7082,7 +7104,7 @@
             "longitude": "14.20682"
           },
           "evse_id": "CZ*EON*E31018874*2",
-          "last_seen_as_planned": null,
+          "last_seen_as_planned": "2023-02-01T06:21:39.74Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "18875"
@@ -14432,7 +14454,7 @@
   },
   "34016": {
     "name": "(P) Amenity Resort Orlické Hory",
-    "sha1": "4c7c84c3b6839f59b12717d56d070d570fd22b56",
+    "sha1": "e6763883f00e89cd9a6c57b6adc7295045cdee09",
     "station": {
       "address": "Deštné v Orlických horách 78",
       "city": "Deštné v Orlických horách",
@@ -14457,7 +14479,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2021-06-10T11:30:04.237Z",
+              "last_updated": "2023-02-01T10:19:09.157Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -14465,7 +14487,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "15",
-                "16"
+                "16",
+                "224",
+                "225"
               ]
             }
           ],
@@ -14490,7 +14514,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2021-06-10T11:30:04.237Z",
+              "last_updated": "2023-02-01T10:19:09.157Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -14498,7 +14522,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "15",
-                "16"
+                "16",
+                "224",
+                "225"
               ]
             }
           ],
@@ -36715,7 +36741,7 @@
   },
   "66781": {
     "name": "(P) K-Drives CZ s.r.o.",
-    "sha1": "a9b15d806dea1e915f1b540e094f63231977cc39",
+    "sha1": "3544739f8786c64ece90353a3375956a4734880a",
     "station": {
       "address": "Družstevní 1200/20",
       "city": "Mohelnice",
@@ -36740,7 +36766,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2021-10-27T13:27:38.12Z",
+              "last_updated": "2023-02-01T07:13:21.097Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -36748,13 +36774,15 @@
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
                 "115",
-                "116"
+                "116",
+                "221",
+                "223"
               ]
             },
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2021-10-27T13:27:38.12Z",
+              "last_updated": "2023-02-01T07:13:21.097Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
@@ -36762,7 +36790,9 @@
               "standard": "CHADEMO",
               "tariff_ids": [
                 "115",
-                "116"
+                "116",
+                "221",
+                "223"
               ]
             }
           ],
@@ -36787,7 +36817,7 @@
             {
               "format": "SOCKET",
               "id": "3",
-              "last_updated": "2021-10-27T13:27:38.12Z",
+              "last_updated": "2023-02-01T07:08:46.39Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -36795,7 +36825,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "113",
-                "114"
+                "114",
+                "220",
+                "222"
               ]
             }
           ],
@@ -38180,7 +38212,7 @@
   },
   "87558": {
     "name": "(P) Amenity Hotel & Resort Špindlerův Mlýn",
-    "sha1": "71cd00f577f5816f8cdeae751156574bc9a2665c",
+    "sha1": "4962e11e4f2002ec8809f33a152c0558aec3f233",
     "station": {
       "address": "Labská 117",
       "city": "Špindlerův Mlýn",
@@ -38205,7 +38237,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2021-11-02T13:55:32.573Z",
+              "last_updated": "2023-02-01T10:19:09.157Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -38213,7 +38245,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "15",
-                "16"
+                "16",
+                "224",
+                "225"
               ]
             }
           ],
@@ -38238,7 +38272,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2021-11-02T13:55:32.573Z",
+              "last_updated": "2023-02-01T10:19:09.157Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -38246,7 +38280,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "15",
-                "16"
+                "16",
+                "224",
+                "225"
               ]
             }
           ],
