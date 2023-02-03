@@ -23945,8 +23945,8 @@
     }
   },
   "51443": {
-    "name": "E.ON Cheb",
-    "sha1": "46213256ef8ecb6f70c95d2824b03e225bd18e33",
+    "name": "E.ON Intercora Cheb",
+    "sha1": "ea175ec413c962c7263cf24733f69084966cd90d",
     "station": {
       "address": "Pivovarská 1677",
       "city": "Cheb",
@@ -23967,13 +23967,36 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-02-02T14:02:45.5Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.07809113",
             "longitude": "12.37895579"
           },
           "evse_id": "CZ*EON*E11051443*1",
-          "last_seen_as_planned": "2022-03-11T13:29:24.097Z",
+          "last_seen_as_planned": "2023-02-02T14:02:45.5Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51443"
@@ -23985,13 +24008,58 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-02-02T14:02:45.5Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-02-02T14:02:45.5Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.07809113",
             "longitude": "12.37895579"
           },
           "evse_id": "CZ*EON*E11051443*2",
-          "last_seen_as_planned": "2022-03-11T13:29:24.097Z",
+          "last_seen_as_planned": "2023-02-02T14:02:45.5Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51444"
@@ -24004,7 +24072,7 @@
       ],
       "id": "51443",
       "last_updated": "RESET",
-      "name": "E.ON Cheb",
+      "name": "E.ON Intercora Cheb",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -36052,7 +36120,7 @@
   },
   "6180": {
     "name": "E.ON Nýřany",
-    "sha1": "c638db8691bd0746ddf3fc796b35c88c7459361b",
+    "sha1": "2403cf7c99a3de1172ef1e558c92f8a656efddb2",
     "station": {
       "address": "U Mexika",
       "city": "Nýřany",
@@ -36102,7 +36170,7 @@
             "longitude": "13.22622"
           },
           "evse_id": "CZ*EON*E11006180*1",
-          "last_seen_as_planned": null,
+          "last_seen_as_planned": "2023-02-02T12:55:59.343Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "6180"
@@ -36165,7 +36233,7 @@
             "longitude": "13.22622"
           },
           "evse_id": "CZ*EON*E11006180*2",
-          "last_seen_as_planned": null,
+          "last_seen_as_planned": "2023-02-02T12:55:59.343Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "6181"
