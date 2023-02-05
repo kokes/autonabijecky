@@ -11246,6 +11246,242 @@
       "street": "Strakonická 62"
     }
   },
+  "CZ1004637": {
+    "name": "Schnellladestation Penny Market Hnězdenská",
+    "sha1": "288f80f2cf91a5140d1248cf0c0e5cad1ba9ff6d",
+    "station": {
+      "branch": "Lebensmitteleinzelhandel",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004637",
+      "csName": "Schnellladestation Penny Market Hnězdenská",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger Penny Market Hnězdenská",
+      "evseId": "CZ*PRE*E1R0053*3",
+      "geoCoord": {
+        "latitude": "50.126611",
+        "longitude": "14.422417"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-bvy1zotog0.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "Hnězdenská"
+    }
+  },
+  "CZ1004638": {
+    "name": "Ladestation Europark I + II, III",
+    "sha1": "788b039aa9aa014cf651dc3289060ea2c38ae6e9",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004638",
+      "csName": "Ladestation Europark I + II, III",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Europark I + II, III",
+      "evseId": "CZ*PRE*E1S8151*6",
+      "geoCoord": {
+        "latitude": "50.072510",
+        "longitude": "14.542112"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://smatrics.com/sites/default/files/1080x600.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://smatrics.com/sites/default/files/1080x600x.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://smatrics.com/sites/default/files/1080x600xx_2.jpeg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "false",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "openingTimes": [
+        {
+          "from": "07:00",
+          "to": "22:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "07:00",
+          "to": "22:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "07:00",
+          "to": "22:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "07:00",
+          "to": "22:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "07:00",
+          "to": "22:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "07:00",
+          "to": "22:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "07:00",
+          "to": "22:00",
+          "wDay": "SU"
+        }
+      ],
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10000",
+      "region": "Hlavní město Praha",
+      "street": "Nákupní"
+    }
+  },
+  "CZ1004639": {
+    "name": "Ladestation TS 4146 Na Křivině",
+    "sha1": "5fedd4ae2b0db0f7da557fbdf8038288265c0ca9",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004639",
+      "csName": "Ladestation TS 4146 Na Křivině",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 4146 Na Křivině",
+      "evseId": "CZ*PRE*E1S8179*1",
+      "geoCoord": {
+        "latitude": "50.051170",
+        "longitude": "14.448327"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-w2j3vn4id5l2drc.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14000",
+      "region": "Hlavní město Praha",
+      "street": "Na Křivině"
+    }
+  },
+  "CZ1004640": {
+    "name": "Ladestation TS 4102 Pod Akáty",
+    "sha1": "1d2ad1b87574f5b46950344585d5b5bc6be05c66",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004640",
+      "csName": "Ladestation TS 4102 Pod Akáty",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 4102 Pod Akáty",
+      "evseId": "CZ*PRE*E1S8180*1",
+      "geoCoord": {
+        "latitude": "50.012578",
+        "longitude": "14.380686"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15900",
+      "region": "Hlavní město Praha",
+      "street": "Pod Akáty"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "3c1b2a0a7ebe4a9dd77f977bfa2e5d6dfdfc2762",
