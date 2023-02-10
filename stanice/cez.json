@@ -20791,6 +20791,79 @@
       "visible": true
     }
   },
+  "172486": {
+    "name": "R523 - Most - Autodrom - 3",
+    "sha1": "faedce054299fb34490e6f291206a3c1318c6741",
+    "station": {
+      "address": {
+        "city": "Most",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "5",
+        "latitude": 50.51884,
+        "longitude": 13.60434,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Tvrzova",
+        "url": ""
+      },
+      "customID": "172486",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2722-020",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R523"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-020",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-020",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R523"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/02/0f50e91f-bd53-4884-9748-24fce26813ce.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R523 - Most - Autodrom - 3",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
