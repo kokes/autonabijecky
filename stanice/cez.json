@@ -20864,6 +20864,152 @@
       "visible": true
     }
   },
+  "172848": {
+    "name": "R449 - Jindřichův Hradec - McDonald´s - 2",
+    "sha1": "447d14fbb8796563e1efbaaf7d3d6f55a27827da",
+    "station": {
+      "address": {
+        "city": "Jindřichův Hradec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Cihelny",
+        "latitude": 49.1444,
+        "longitude": 15.02455,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "U",
+        "url": ""
+      },
+      "customID": "172848",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1022-016",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R449"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1022-016",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1022-016",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R449"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/02/1-20230215-111656.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R449 - Jindřichův Hradec - McDonald´s - 2",
+      "visible": true
+    }
+  },
+  "172868": {
+    "name": "R448 - Jindřichův Hradec - McDonald´s - 1",
+    "sha1": "745e0683d3255ebcfed04910bf0968e9bd09142f",
+    "station": {
+      "address": {
+        "city": "Jindřichův Hradec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Cihelny",
+        "latitude": 49.1444,
+        "longitude": 15.02455,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "U",
+        "url": ""
+      },
+      "customID": "172868",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-0822-003",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R448"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0822-003",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-0822-003",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R448"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/02/1-20230215-111656.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R448 - Jindřichův Hradec - McDonald´s - 1",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",

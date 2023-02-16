@@ -26151,7 +26151,7 @@
   },
   "51504": {
     "name": "E.ON HochŠpalíček České Budějovice",
-    "sha1": "62b7fabc02f765324831d59b815cb2ccaee486c9",
+    "sha1": "e661ee71139789444fea69502045ca4235020148",
     "station": {
       "address": "Vltavské nábř. 688/3",
       "city": "České Budějovice",
@@ -26172,13 +26172,58 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-02-15T14:47:18.17Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-02-15T14:47:18.17Z",
+              "max_amperage": 125,
+              "max_electric_power": 63000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.97708753",
             "longitude": "14.46528768"
           },
           "evse_id": "CZ*EON*E32051504*1",
-          "last_seen_as_planned": "2021-08-27T13:58:47.757Z",
+          "last_seen_as_planned": "2023-02-15T14:47:18.17Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51504"
@@ -26208,13 +26253,36 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-02-15T14:47:18.17Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.97708753",
             "longitude": "14.46528768"
           },
           "evse_id": "CZ*EON*E32051504*3",
-          "last_seen_as_planned": "2021-08-27T13:58:47.757Z",
+          "last_seen_as_planned": "2023-02-15T14:47:18.17Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51506"
