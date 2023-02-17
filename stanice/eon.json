@@ -16393,7 +16393,7 @@
   },
   "35929": {
     "name": "E.ON Hojná Voda",
-    "sha1": "544c9aa16ca90203e338f97fdc5d9e65cc7b7e5e",
+    "sha1": "f36d5872fa1cf31f220f5ef9292291bd2fef6bdf",
     "station": {
       "address": "Hojná Voda 50",
       "city": "Horní Stropnice ",
@@ -16414,7 +16414,30 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-02-16T23:01:08.653Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.72903403",
             "longitude": "14.72789677"
@@ -16432,7 +16455,30 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-02-16T23:01:08.653Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.72903403",
             "longitude": "14.72789677"
