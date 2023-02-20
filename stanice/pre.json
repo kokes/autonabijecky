@@ -11482,6 +11482,97 @@
       "street": "Pod Akáty"
     }
   },
+  "CZ1004658": {
+    "name": "Ladestation NatLand I.",
+    "sha1": "2cafb61daabad3f9a5f72a36a56fff78a6e6b334",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004658",
+      "csName": "Ladestation NatLand I.",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger NatLand I.",
+      "evseId": "CZ*PRE*E1S8074*6",
+      "geoCoord": {
+        "latitude": "50.100967",
+        "longitude": "14.505135"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "U harfy"
+    }
+  },
+  "CZ1004659": {
+    "name": "Ladestation Na TS 4282",
+    "sha1": "60d3e75a2453c20c3ffbb10701bb62e8cebf3dab",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004659",
+      "csName": "Ladestation Na TS 4282",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Na TS 4282",
+      "evseId": "CZ*PRE*E1S8167*1",
+      "geoCoord": {
+        "latitude": "50.071458",
+        "longitude": "14.678746"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-aank9mo8jmoo.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19016",
+      "region": "Hlavní město Praha",
+      "street": "Živonínská"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "3c1b2a0a7ebe4a9dd77f977bfa2e5d6dfdfc2762",
