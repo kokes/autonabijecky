@@ -21010,6 +21010,262 @@
       "visible": true
     }
   },
+  "173103": {
+    "name": "N231 - Lysá nad Labem - Parkoviště Čapkova - 1",
+    "sha1": "5df22600616803b616a4b1544d26fd7fc6e60f7b",
+    "station": {
+      "address": {
+        "city": "Lysá nad Labem",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.1964611,
+        "longitude": 14.8386314,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Čapkova",
+        "url": ""
+      },
+      "customID": "173103",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N231"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N231"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N231 - Lysá nad Labem - Parkoviště Čapkova - 1",
+      "visible": true
+    }
+  },
+  "173104": {
+    "name": "N232 - Lysá nad Labem - Parkoviště Čapkova - 2",
+    "sha1": "4fa4255eaf2e21653c6311e34760cb8e093aaf44",
+    "station": {
+      "address": {
+        "city": "Lysá nad Labem",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.1964611,
+        "longitude": 14.8386314,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Čapkova",
+        "url": ""
+      },
+      "customID": "173104",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N232"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N232"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N232 - Lysá nad Labem - Parkoviště Čapkova - 2",
+      "visible": true
+    }
+  },
+  "173121": {
+    "name": "N234 - Lysá nad Labem - Parkoviště Čapkova - 4",
+    "sha1": "a90225d4e3507c6968de4b98aeeb330b2da85508",
+    "station": {
+      "address": {
+        "city": "Lysá nad Labem",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.1964611,
+        "longitude": 14.8386314,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Čapkova",
+        "url": ""
+      },
+      "customID": "173121",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N234"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N234"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/9e60b44e-f302-409e-8de0-b1750db2e005.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N234 - Lysá nad Labem - Parkoviště Čapkova - 4",
+      "visible": true
+    }
+  },
+  "173125": {
+    "name": "N233 - Lysá nad Labem - Parkoviště Čapkova - 3",
+    "sha1": "d57154c65e49cefb2f8e9d372ddae6e8ec6b3bac",
+    "station": {
+      "address": {
+        "city": "Lysá nad Labem",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.1964611,
+        "longitude": 14.8386314,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Čapkova",
+        "url": ""
+      },
+      "customID": "173125",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N233"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N233"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/3-20230113-115737.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N233 - Lysá nad Labem - Parkoviště Čapkova - 3",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",

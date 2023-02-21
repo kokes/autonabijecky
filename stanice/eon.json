@@ -1278,9 +1278,80 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "104649": {
+    "name": "(P) Lipno Lake s.r.o.",
+    "sha1": "a4d792e57f13023801522de9b996190d74527619",
+    "station": {
+      "address": "Lipno nad Vltavou 302",
+      "city": "Lipno nad Vltavou",
+      "coordinates": {
+        "latitude": "0",
+        "longitude": "0"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-02-20T09:06:33.687Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "232",
+                "233"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "0",
+            "longitude": "0"
+          },
+          "evse_id": "CZ*EON*E22104648*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "104649"
+        }
+      ],
+      "id": "104649",
+      "last_updated": "RESET",
+      "name": "(P) Lipno Lake s.r.o.",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "Lipno Lake  s.r.o."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "104650": {
-    "name": "(P) Sportovně rekreační Areál Ráj Srbsko",
-    "sha1": "5ac65ba88327cee41fff6cd2716548c3a1363d2f",
+    "name": "(P) Sportovně rekreační Areál Ráj Srbsko 1",
+    "sha1": "325f95b466130d467e0619b692151e0a7c0bff65",
     "station": {
       "address": "Srbsko 32",
       "city": "Kněžmost - Srbsko",
@@ -1301,13 +1372,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-02-20T11:47:35.01Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "168",
+                "169"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.505619",
             "longitude": "15.097836"
           },
           "evse_id": "CZ*EON*E22104650*1",
-          "last_seen_as_planned": "2022-06-03T13:44:27.023Z",
+          "last_seen_as_planned": "2023-02-20T11:09:39.42Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "104650"
@@ -1319,13 +1405,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-02-20T11:47:35.01Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "168",
+                "169"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.505619",
             "longitude": "15.097836"
           },
           "evse_id": "CZ*EON*E22104650*2",
-          "last_seen_as_planned": "2022-06-03T13:44:27.023Z",
+          "last_seen_as_planned": "2023-02-20T11:09:39.42Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "104651"
@@ -1337,13 +1438,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-02-20T11:47:35.01Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "168",
+                "169"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.505619",
             "longitude": "15.097836"
           },
           "evse_id": "CZ*EON*E22104652*1",
-          "last_seen_as_planned": "2022-06-03T13:44:27.023Z",
+          "last_seen_as_planned": "2023-02-20T11:09:39.42Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "104652"
@@ -1355,13 +1471,28 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-02-20T11:47:35.01Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "168",
+                "169"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.505619",
             "longitude": "15.097836"
           },
           "evse_id": "CZ*EON*E22104652*2",
-          "last_seen_as_planned": "2022-06-03T13:44:27.023Z",
+          "last_seen_as_planned": "2023-02-20T11:09:39.42Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "104653"
@@ -1380,7 +1511,7 @@
       ],
       "id": "104650",
       "last_updated": "RESET",
-      "name": "(P) Sportovně rekreační Areál Ráj Srbsko",
+      "name": "(P) Sportovně rekreační Areál Ráj Srbsko 1",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -2480,7 +2611,7 @@
   },
   "117362": {
     "name": "(P) Zámeček Skrytín",
-    "sha1": "61cb5324f42cb19a8c95d6accabef8f8e98b2510",
+    "sha1": "119fa06706365d0341986d35a656e1c300bb8752",
     "station": {
       "address": "Dobkovice 40",
       "city": "Dobkovice",
@@ -2501,7 +2632,22 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-02-20T23:01:00.683Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "194",
+                "195"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.695171",
             "longitude": "14.189635"
@@ -6768,7 +6914,7 @@
   },
   "176881": {
     "name": "(P) Veterinární nemocnice CB-vet",
-    "sha1": "4c6ac285c73aaf099fbcce965df19a744a8f4654",
+    "sha1": "5d162160d8e2b7a03dda925a9a8595069092999f",
     "station": {
       "address": "U Lesa 1740/1",
       "city": "české Budějovice",
@@ -6793,23 +6939,15 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2023-01-31T15:50:23.927Z",
+              "last_updated": "2023-02-20T06:00:23.1Z",
               "max_amperage": 16,
               "max_electric_power": 11000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
               "tariff_ids": [
-                "217",
-                "214",
-                "189",
-                "188",
-                "146",
-                "145",
-                "68",
-                "65",
-                "7",
-                "10"
+                "228",
+                "229"
               ]
             }
           ],
@@ -6817,8 +6955,8 @@
             "latitude": "48.9794347",
             "longitude": "14.4356733"
           },
-          "evse_id": "CZ*EON*E167849",
-          "last_seen_as_planned": "2023-01-31T15:50:23.927Z",
+          "evse_id": "CZ*EON*E22167849*1",
+          "last_seen_as_planned": "2023-01-31T13:35:06.327Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "167849"
@@ -6834,23 +6972,15 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2023-01-31T15:50:23.927Z",
+              "last_updated": "2023-02-20T06:00:23.1Z",
               "max_amperage": 16,
               "max_electric_power": 11000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
               "tariff_ids": [
-                "7",
-                "10",
-                "65",
-                "68",
-                "145",
-                "146",
-                "188",
-                "189",
-                "214",
-                "217"
+                "228",
+                "229"
               ]
             }
           ],
@@ -6858,8 +6988,8 @@
             "latitude": "48.9794347",
             "longitude": "14.4356733"
           },
-          "evse_id": "CZ*EON*E167850",
-          "last_seen_as_planned": "2023-01-31T15:50:23.927Z",
+          "evse_id": "CZ*EON*E22167849*2",
+          "last_seen_as_planned": "2023-01-31T13:35:06.327Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "167850"
@@ -6883,7 +7013,7 @@
         "name": "E.ON Energie, a.s."
       },
       "owner": {
-        "name": "E.ON Energie, a.s."
+        "name": "Veterinární nemocnice CB-vet s.r.o."
       },
       "party_id": "EON",
       "postal_code": "37005",
