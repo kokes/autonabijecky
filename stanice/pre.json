@@ -11573,6 +11573,62 @@
       "street": "Živonínská"
     }
   },
+  "CZ1004663": {
+    "name": "Ladestation Sídliště Zahradní město - Přesličková",
+    "sha1": "0c9000e81ad417318f8eec35d887d35e09eb71c7",
+    "station": {
+      "additionalInfo": "Neben der Waschstraße",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004663",
+      "csName": "Ladestation Sídliště Zahradní město - Přesličková",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "Next to the washing car center",
+      "enCsname": "Charger Sídliště Zahradní město - Přesličková",
+      "evseId": "CZ*PRE*E1S8146*2",
+      "geoCoord": {
+        "latitude": "50.054777",
+        "longitude": "14.513422"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-9sjdqttuneg.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-wbfneeaup7h3_1.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10600",
+      "region": "Hlavní město Praha",
+      "street": "Přesličková"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "3c1b2a0a7ebe4a9dd77f977bfa2e5d6dfdfc2762",
