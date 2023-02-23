@@ -15610,7 +15610,7 @@
   },
   "162531": {
     "name": "R454 - Šumperk - Auto Hégr",
-    "sha1": "62faa263aba76eed143c00b51c748dd25102676b",
+    "sha1": "72458cda85c567f65a0fdcd80b23caaec5fb9f3a",
     "station": {
       "address": {
         "city": "Šumperk",
@@ -15673,7 +15673,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img_1433.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/02/a5e251b3-5ec6-47ae-80c3-2ba5eb9c43bc.jpg"
         }
       ],
       "instructions": null,
@@ -21266,6 +21266,298 @@
       "visible": true
     }
   },
+  "173236": {
+    "name": "R416 - Kaufland - Olomouc",
+    "sha1": "191ed113482d4f9c66129e73b5bce01148befd37",
+    "station": {
+      "address": {
+        "city": "Olomouc",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1124/3",
+        "latitude": 49.5884382,
+        "longitude": 17.2727808,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Štursova",
+        "url": ""
+      },
+      "customID": "173236",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3721-015",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R416"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-015",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3721-015",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R416"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/02/b208f084-340f-4021-94fa-af6a55e228d7.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R416 - Kaufland - Olomouc",
+      "visible": true
+    }
+  },
+  "173250": {
+    "name": "R456 - Šternberk - Auto Hégr",
+    "sha1": "19c279ea9e6ad23e894996046a2b1d746672fa0b",
+    "station": {
+      "address": {
+        "city": "Šternberk",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2318/110",
+        "latitude": 49.717045,
+        "longitude": 17.2900958,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Olomoucká",
+        "url": ""
+      },
+      "customID": "173250",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1122-005",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R456"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1122-005",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1122-005",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R456"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/02/b208f084-340f-4021-94fa-af6a55e228d7.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R456 - Šternberk - Auto Hégr",
+      "visible": true
+    }
+  },
+  "173252": {
+    "name": "R511 - Turnov - Kaufland - 1",
+    "sha1": "87f5c342d4f81e7e027e862b74961e1ddb5be9d2",
+    "station": {
+      "address": {
+        "city": "Turnov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2086",
+        "latitude": 50.5808,
+        "longitude": 15.15404,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Sobotecká",
+        "url": ""
+      },
+      "customID": "173252",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1122-009",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R511"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1122-009",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1122-009",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R511"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/02/efc6a676-402c-4e4f-aaaf-ab8df495bc24.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R511 - Turnov - Kaufland - 1",
+      "visible": true
+    }
+  },
+  "173253": {
+    "name": "R512 - Turnov - Kaufland - 2",
+    "sha1": "69e2340b97263f5ee19172a88f58f2bb802432eb",
+    "station": {
+      "address": {
+        "city": "Turnov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2086",
+        "latitude": 50.5808,
+        "longitude": 15.15404,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Sobotecká",
+        "url": ""
+      },
+      "customID": "173253",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1122-015",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R512"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1122-015",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1122-015",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R512"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/02/efc6a676-402c-4e4f-aaaf-ab8df495bc24.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R512 - Turnov - Kaufland - 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
@@ -21610,6 +21902,70 @@
       ],
       "instructions": null,
       "name": "N133 - Praha-Radotín - MČ Praha 16",
+      "visible": true
+    }
+  },
+  "59421": {
+    "name": "N169 - Třinec",
+    "sha1": "cb362589e8d189e0f99939b4ba09ad623916d72d",
+    "station": {
+      "address": {
+        "city": "Třinec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.670427,
+        "longitude": 18.68023560000006,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jablunkovská",
+        "url": ""
+      },
+      "customID": "59421",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 11,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N169"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 11,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N169"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/53327651.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "N169 - Třinec",
       "visible": true
     }
   },
@@ -22259,6 +22615,70 @@
       ],
       "instructions": null,
       "name": "N018 - Trutnov - Autostyl",
+      "visible": true
+    }
+  },
+  "59439": {
+    "name": "N141 - Dukovany - JE Dukovany - Infocentrum",
+    "sha1": "86e2b2ddead2845827cb6972a1309724dd0d8da0",
+    "station": {
+      "address": {
+        "city": "Dukovany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "269",
+        "latitude": 49.0889897,
+        "longitude": 16.1444158,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dukovany",
+        "url": ""
+      },
+      "customID": "59439",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 11,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N141"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 11,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N141"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/59132737-6e29-4ad1-b8d8-75aaaf990d7c.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "N141 - Dukovany - JE Dukovany - Infocentrum",
       "visible": true
     }
   },
@@ -31916,6 +32336,152 @@
       "visible": true
     }
   },
+  "68149": {
+    "name": "R211 - Domažlice - Benzina - 2",
+    "sha1": "10af9b51c3d22c92796f367e3645a5d7e12794be",
+    "station": {
+      "address": {
+        "city": "Domažlice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "158",
+        "latitude": 49.43705,
+        "longitude": 12.9113,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Kozinova",
+        "url": ""
+      },
+      "customID": "68149",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-IT1-0819-057",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R211"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT1-0819-057",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT1-0819-057",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R211"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8061-20220207-164514.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R211 - Domažlice - Benzina - 2",
+      "visible": true
+    }
+  },
+  "68150": {
+    "name": "R210 - Domažlice - Benzina - 1",
+    "sha1": "5bbc318c8e67110f7d7f6fc35e0c2a34098235b4",
+    "station": {
+      "address": {
+        "city": "Domažlice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "158",
+        "latitude": 49.437,
+        "longitude": 12.9113,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Kozinova",
+        "url": ""
+      },
+      "customID": "68150",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-IT1-0819-056",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R210"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT1-0819-056",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT1-0819-056",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R210"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8061.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R210 - Domažlice - Benzina - 1",
+      "visible": true
+    }
+  },
   "68151": {
     "name": "R201 - Beroun 2",
     "sha1": "d0a9791937a89796f9550e1fbd6bf9b9f8557a27",
@@ -33446,6 +34012,70 @@
       ],
       "instructions": null,
       "name": "R229 - Dukovany - Jaderná elektrárna",
+      "visible": true
+    }
+  },
+  "69202": {
+    "name": "N114 - Dukovany - Jaderná elektrárna",
+    "sha1": "d385bfe839e5929505510a76258dcdea8be60141",
+    "station": {
+      "address": {
+        "city": "Dukovany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "JE Dukovany",
+        "latitude": 49.08966,
+        "longitude": 16.143350000000055,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "parkoviště",
+        "url": ""
+      },
+      "customID": "69202",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 11,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N114"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 11,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N114"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20200408_122341.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N114 - Dukovany - Jaderná elektrárna",
       "visible": true
     }
   },
