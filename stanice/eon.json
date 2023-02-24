@@ -17497,7 +17497,7 @@
   },
   "35947": {
     "name": "E.ON Jindřichův Hradec",
-    "sha1": "cf9e3fb73de5b1a2dba7ca10652b15f5c8f70169",
+    "sha1": "116e7c6cde3f883d2a6cb7763755c06f104f06f5",
     "station": {
       "address": "parkoviště Jitřenka",
       "city": "Jindřichův Hradec",
@@ -17518,13 +17518,36 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-02-23T23:01:13.73Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.14540306",
             "longitude": "15.00788084"
           },
           "evse_id": "CZ*EON*E25035947*1",
-          "last_seen_as_planned": "2022-01-18T12:10:54.287Z",
+          "last_seen_as_planned": "2023-02-23T23:01:13.73Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35947"
@@ -17536,13 +17559,36 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-02-23T23:01:13.73Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.14540306",
             "longitude": "15.00788084"
           },
           "evse_id": "CZ*EON*E25035947*2",
-          "last_seen_as_planned": "2022-01-18T12:10:54.287Z",
+          "last_seen_as_planned": "2023-02-23T23:01:13.73Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35948"
