@@ -11629,6 +11629,55 @@
       "street": "Přesličková"
     }
   },
+  "CZ1004675": {
+    "name": "Schnellladestation Penny Market Maškova",
+    "sha1": "d4df74377369156e94e36ec05d69e6f26a3797a9",
+    "station": {
+      "branch": "Lebensmitteleinzelhandel",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004675",
+      "csName": "Schnellladestation Penny Market Maškova",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger Penny Market Maškova",
+      "evseId": "CZ*PRE*E1R0052*3",
+      "geoCoord": {
+        "latitude": "50.031917",
+        "longitude": "14.490500"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-kmbtfqpn2talcncc.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "18200",
+      "region": "Hlavní město Praha",
+      "street": "Maškova 1798/2"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "3c1b2a0a7ebe4a9dd77f977bfa2e5d6dfdfc2762",
