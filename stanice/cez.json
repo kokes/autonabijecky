@@ -21558,6 +21558,79 @@
       "visible": true
     }
   },
+  "173474": {
+    "name": "R519 - Příchovice - hotel Příchovice",
+    "sha1": "b7e250622f850de90b7b2132e0839a00c84a80d8",
+    "station": {
+      "address": {
+        "city": "Příchovice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "378",
+        "latitude": 50.7549911,
+        "longitude": 15.3582175,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Příchovice",
+        "url": ""
+      },
+      "customID": "173474",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3322-008",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R519"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3322-008",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3322-008",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R519"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/02/img_1411.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R519 - Příchovice - hotel Příchovice",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
