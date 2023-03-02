@@ -21575,7 +21575,7 @@
   },
   "45162": {
     "name": "(P) Kněžice",
-    "sha1": "2e49abffa3652d6179ed066da93e483bd88b08a3",
+    "sha1": "a0962e358d0109ed99a5d6407e5f5d6f49a16dad",
     "station": {
       "address": "Kněžice 25",
       "city": "Vrchlabí",
@@ -21600,7 +21600,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-01-05T14:37:10.457Z",
+              "last_updated": "2023-03-01T05:27:54.28Z",
               "max_amperage": 16,
               "max_electric_power": 11000,
               "max_voltage": 400,
@@ -21608,7 +21608,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "133",
-                "134"
+                "134",
+                "234",
+                "235"
               ]
             }
           ],
