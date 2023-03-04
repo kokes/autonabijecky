@@ -3186,7 +3186,7 @@
   },
   "127577": {
     "name": "E.ON Golf Česká Lípa",
-    "sha1": "33fd908257d3b8d61ff1ba742959a079b2e07265",
+    "sha1": "136bcedf47bad6a02a7c1d7a2d5905d0d12ccbcb",
     "station": {
       "address": "Pihel",
       "city": "Nový Bor",
@@ -3207,12 +3207,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-03-03T15:09:26.91Z",
+              "max_amperage": 125,
+              "max_electric_power": 90000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.71473685",
             "longitude": "14.54893168"
           },
-          "evse_id": "CZ*EON*E127577",
+          "evse_id": "CZ*EON*E98127577*1",
           "last_seen_as_planned": "2022-04-08T12:29:50.48Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -3225,12 +3248,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-03-03T15:09:26.91Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.71473685",
             "longitude": "14.54893168"
           },
-          "evse_id": "CZ*EON*E127578",
+          "evse_id": "CZ*EON*E98127577*2",
           "last_seen_as_planned": "2022-04-08T12:29:50.48Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -3243,12 +3289,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-03-03T15:09:26.91Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.71473685",
             "longitude": "14.54893168"
           },
-          "evse_id": "CZ*EON*E127579",
+          "evse_id": "CZ*EON*E98127577*3",
           "last_seen_as_planned": "2022-04-08T12:29:50.48Z",
           "last_updated": "RESET",
           "status": "RESET",

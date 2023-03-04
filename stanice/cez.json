@@ -21631,6 +21631,148 @@
       "visible": true
     }
   },
+  "173609": {
+    "name": "UR112 - Ivanovice na Hané - 1",
+    "sha1": "b6eee4f62aef5c5eb46ac4e01321a209c795dea4",
+    "station": {
+      "address": {
+        "city": "Ivanovice na Hané",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "236",
+        "latitude": 49.290487,
+        "longitude": 17.0973643,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "exit",
+        "url": ""
+      },
+      "customID": "173609",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "CHARGER E1 CCS",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR112"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "CHARGER E1 CCS",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR112"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/5873b034-2f62-4f9a-91de-23c3b830bd8e.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR112 - Ivanovice na Hané - 1",
+      "visible": true
+    }
+  },
+  "173610": {
+    "name": "UR113 - Ivanovice na Hané - 2",
+    "sha1": "eafabd29e5173709916280d0c93889e58b1ea2b9",
+    "station": {
+      "address": {
+        "city": "Ivanovice na Hané",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "236",
+        "latitude": 49.290487,
+        "longitude": 17.0973643,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "exit",
+        "url": ""
+      },
+      "customID": "173610",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T184HC-IT1-0422-172",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR113"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T184HC-IT1-0422-172",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR113"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T184HC-IT1-0422-172",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR113"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/a477cada-64d0-41af-985d-07b5e2f314e7.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR113 - Ivanovice na Hané - 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
