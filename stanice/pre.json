@@ -11678,6 +11678,55 @@
       "street": "Maškova 1798/2"
     }
   },
+  "CZ1004686": {
+    "name": "Ladestation TS 2569 Přímetická",
+    "sha1": "e8ad3de95d52943e1711e91e3dea39098bf287e9",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004686",
+      "csName": "Ladestation TS 2569 Přímetická",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 2569 Přímetická",
+      "evseId": "CZ*PRE*E1S8181*1",
+      "geoCoord": {
+        "latitude": "50.046663",
+        "longitude": "14.448976"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-q0vcfqwblgagtmxe_1.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14000",
+      "region": "Hlavní město Praha",
+      "street": "Přímětická"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "3c1b2a0a7ebe4a9dd77f977bfa2e5d6dfdfc2762",
@@ -18217,6 +18266,60 @@
       "postalCode": "74283",
       "region": "Moravskoslezský kraj",
       "street": "Václavovice 93"
+    }
+  },
+  "CZ8004685": {
+    "name": "Ultra-Highspeed-Ladestation Hornbach Vítkovice",
+    "sha1": "e9940c314e73a8fd5918f092fc324e894c88b9dc",
+    "station": {
+      "branch": "Baumarkt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Ostrava",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8004685",
+      "csName": "Ultra-Highspeed-Ladestation Hornbach Vítkovice",
+      "csStatus": "operable",
+      "csType": "ultra_fast_charger",
+      "enCsname": "Ultra-highspeed charger Hornbach Vítkovice",
+      "evseId": "CZ*PRE*E1R0063*3",
+      "geoCoord": {
+        "latitude": "49.804117",
+        "longitude": "18.278173"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-g8hrdmbpxawfxvo.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-x1of2xq3k5.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "70300",
+      "region": "Moravskoslezský kraj",
+      "street": "Rudná 2978/11"
     }
   }
 }
