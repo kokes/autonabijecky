@@ -33059,7 +33059,7 @@
   },
   "53836": {
     "name": "E.ON Spielberk Office Centre Brno",
-    "sha1": "9f49050e26f2cb7f5987e0147afb088daccafee8",
+    "sha1": "df6d0c310c10fcc8fc3cb324a727df53cc6e6762",
     "station": {
       "address": "Holandská 10",
       "city": "Brno",
@@ -33109,7 +33109,7 @@
             "longitude": "16.60643098"
           },
           "evse_id": "CZ*EON*E161388",
-          "last_seen_as_planned": "2023-01-27T07:40:45.067Z",
+          "last_seen_as_planned": "2022-10-25T11:44:32.463Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "161388"
@@ -33150,7 +33150,7 @@
             "longitude": "16.60643098"
           },
           "evse_id": "CZ*EON*E161389",
-          "last_seen_as_planned": "2023-01-27T07:40:45.067Z",
+          "last_seen_as_planned": "2022-10-25T11:44:32.463Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "161389"
@@ -33166,9 +33166,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-01-27T07:40:45.067Z",
+              "last_updated": "2023-03-06T23:01:06.74Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
@@ -33188,9 +33188,9 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-01-27T07:40:45.067Z",
+              "last_updated": "2023-03-06T23:01:06.74Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "CHADEMO",

@@ -21773,6 +21773,152 @@
       "visible": true
     }
   },
+  "173648": {
+    "name": "R520 - Hradec Králové - Orlice park shopping - 1",
+    "sha1": "9cb58e458537ff6eebbf3aa7937a17ee40f7e986",
+    "station": {
+      "address": {
+        "city": "Hradec Králové - Slezské předměstí",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Nejedlého 1063/10",
+        "latitude": 50.2114133,
+        "longitude": 15.8522456,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Víta",
+        "url": ""
+      },
+      "customID": "173648",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3722-020",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R520"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3722-020",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3722-020",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R520"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/026d605f-1d4b-46b2-adae-1192ee3d306c.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R520 - Hradec Králové - Orlice park shopping - 1",
+      "visible": true
+    }
+  },
+  "173666": {
+    "name": "R521 - Hradec Králové - Orlice park shopping - 2",
+    "sha1": "380e6c9eae1787ef360925c815277f9897bc917c",
+    "station": {
+      "address": {
+        "city": "Hradec Králové - Slezské předměstí",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Nejedlého 1063/10",
+        "latitude": 50.2114133,
+        "longitude": 15.8522456,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Víta",
+        "url": ""
+      },
+      "customID": "173666",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2722-067",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R521"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-067",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-067",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R521"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/026d605f-1d4b-46b2-adae-1192ee3d306c.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R521 - Hradec Králové - Orlice park shopping - 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
