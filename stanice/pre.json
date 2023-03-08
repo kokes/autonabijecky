@@ -8459,7 +8459,7 @@
   },
   "CZ1003518": {
     "name": "Schnellladestation Siemensova ul. Praha",
-    "sha1": "fbb3dfc4c5555686fb42bede89173e33c0c9d646",
+    "sha1": "452ecbac65da458d2882f1cffe4dad3975530549",
     "station": {
       "additionalInfo": "Die Ladestation befindet sich beim Siemens Bürogebäude",
       "branch": "Parken",
@@ -8477,7 +8477,7 @@
       "csType": "fast_charger",
       "enAdditionalInfo": "The charging station is located by the Siemens office building",
       "enCsname": "Fast charger Siemensova ul. Praha",
-      "evseId": "CZ*PRE*E0S0025*2",
+      "evseId": "CZ*PRE*E0R0025*2",
       "geoCoord": {
         "latitude": "50.048106",
         "longitude": "14.306445"

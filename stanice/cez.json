@@ -21268,7 +21268,7 @@
   },
   "173236": {
     "name": "R416 - Kaufland - Olomouc",
-    "sha1": "191ed113482d4f9c66129e73b5bce01148befd37",
+    "sha1": "bb15db2bc3221b82a88646557c6738ee2d0dfbf6",
     "station": {
       "address": {
         "city": "Olomouc",
@@ -21331,7 +21331,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/02/b208f084-340f-4021-94fa-af6a55e228d7.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/1.jpg"
         }
       ],
       "instructions": null,
@@ -21916,6 +21916,152 @@
       ],
       "instructions": null,
       "name": "R521 - Hradec Králové - Orlice park shopping - 2",
+      "visible": true
+    }
+  },
+  "173692": {
+    "name": "R506 - Čestlice - Renocar - 1",
+    "sha1": "1f09721c4b655f8fe9610d55c4a60ca755971717",
+    "station": {
+      "address": {
+        "city": "Čestlice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "280",
+        "latitude": 49.9973419,
+        "longitude": 14.5852264,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Lipová",
+        "url": ""
+      },
+      "customID": "173692",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1022-025",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R506"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1022-025",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-067",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R506"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R506 - Čestlice - Renocar - 1",
+      "visible": true
+    }
+  },
+  "173693": {
+    "name": "R507 - Čestlice - Renocar - 2",
+    "sha1": "86f2df97b9984a969cb42247b3d9c8fd961885e9",
+    "station": {
+      "address": {
+        "city": "Čestlice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "280",
+        "latitude": 49.9973419,
+        "longitude": 14.5852264,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Lipová",
+        "url": ""
+      },
+      "customID": "173693",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-1222-003",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R507"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1222-003",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-1222-003",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R507"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R507 - Čestlice - Renocar - 2",
       "visible": true
     }
   },

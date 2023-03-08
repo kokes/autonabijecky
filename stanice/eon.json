@@ -22682,7 +22682,7 @@
   },
   "51419": {
     "name": "E.ON Brandýs nad Labem Popelka",
-    "sha1": "f1914a501edf9794bc8dde21f80647505bf06b19",
+    "sha1": "1aa796623785fb9f13a1032e22c87657f8903e28",
     "station": {
       "address": "Průmyslová",
       "city": " Brandýs nad Labem-Stará Boleslav",
@@ -22707,9 +22707,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-01-26T10:03:01.3Z",
+              "last_updated": "2023-03-07T23:01:21.047Z",
               "max_amperage": 63,
-              "max_electric_power": 43000,
+              "max_electric_power": 22000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
@@ -22829,7 +22829,7 @@
   },
   "51421": {
     "name": "E.ON Frenštát p.R. ČD",
-    "sha1": "061fd0945f1c1c9780594547067b4fe9893a7569",
+    "sha1": "5f4600c7ca19368acc30e1edf6ad294ebc340a7c",
     "station": {
       "address": "Nádražní",
       "city": " Frenštát pod Radhoštěm",
@@ -22854,9 +22854,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-01-26T10:03:01.3Z",
+              "last_updated": "2023-03-07T23:01:21.047Z",
               "max_amperage": 63,
-              "max_electric_power": 43000,
+              "max_electric_power": 22000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
@@ -23821,7 +23821,7 @@
   },
   "51439": {
     "name": "E.ON Stella Prostějov",
-    "sha1": "fb0202d55ee52829e11e02ad9fdc0086afb04786",
+    "sha1": "e52bfe9177af2494ee496967e36e431240418d93",
     "station": {
       "address": "Olomoucká 4390/112",
       "city": "Prostějov",
@@ -23969,9 +23969,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-01-26T10:03:01.3Z",
+              "last_updated": "2023-03-07T23:01:21.047Z",
               "max_amperage": 63,
-              "max_electric_power": 43000,
+              "max_electric_power": 22000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
