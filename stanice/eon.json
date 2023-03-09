@@ -32911,7 +32911,7 @@
   },
   "53834": {
     "name": "E.ON Obec Pohořelice",
-    "sha1": "1bed9de53e3ba06bb527163f2cb6065c8166d33b",
+    "sha1": "28185685c44b2e8caec0b0a53ebd4fb0bda9e6f3",
     "station": {
       "address": "Brněnská",
       "city": "Pohořelice",
@@ -32936,9 +32936,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-01-27T07:40:45.067Z",
+              "last_updated": "2023-03-08T23:01:15.44Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
@@ -32958,9 +32958,9 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-01-27T07:40:45.067Z",
+              "last_updated": "2023-03-08T23:01:15.44Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "CHADEMO",
@@ -34039,7 +34039,7 @@
   },
   "53856": {
     "name": "E.ON Valeo Praha - Strašnice",
-    "sha1": "d8a328aaf6e9deafd195ef1c5b98d55a670a0b23",
+    "sha1": "de9536186c12843e0110ad42787e4351486d6892",
     "station": {
       "address": "Sazečská 247",
       "city": "Praha - Strašnice",
@@ -34064,9 +34064,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-01-27T07:40:45.067Z",
+              "last_updated": "2023-03-08T23:01:15.44Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
@@ -34086,9 +34086,9 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-01-27T07:40:45.067Z",
+              "last_updated": "2023-03-08T23:01:15.44Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "CHADEMO",
@@ -34163,9 +34163,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-01-27T07:40:45.067Z",
+              "last_updated": "2023-03-08T23:01:15.44Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
@@ -34185,9 +34185,9 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-01-27T07:40:45.067Z",
+              "last_updated": "2023-03-08T23:01:15.44Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "CHADEMO",
