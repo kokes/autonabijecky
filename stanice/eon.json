@@ -7101,6 +7101,123 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "177667": {
+    "name": "(P) ACR auto a.s.",
+    "sha1": "6e3675ab76c8116a3724bdd0f31dd9791ddef3bc",
+    "station": {
+      "address": "Okružní ev. č. 49",
+      "city": "České Budějovice ",
+      "coordinates": {
+        "latitude": "49.0011825",
+        "longitude": "14.4888783"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-03-15T09:46:52.12Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.0011825",
+            "longitude": "14.4888783"
+          },
+          "evse_id": "CZ*EON*E32177667*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "177667"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-03-15T09:46:52.12Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.0011825",
+            "longitude": "14.4888783"
+          },
+          "evse_id": "CZ*EON*E32177667*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "177668"
+        }
+      ],
+      "id": "177667",
+      "last_updated": "RESET",
+      "name": "(P) ACR auto a.s.",
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Energie, a.s."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "18070": {
     "name": "E.ON Golf resort Karlštejn",
     "sha1": "e06700c043b68e4fee2debc0f0b76f1ad1cc110f",
@@ -35151,7 +35268,7 @@
   },
   "55604": {
     "name": "(P) ACR auto a.s.",
-    "sha1": "f29735095adcdcb7e45bcfdef49cf30a33d65174",
+    "sha1": "647d2d30b37451a18fcbf21fd71855f1f2b7a79a",
     "station": {
       "address": "Okružní ev. č. 49",
       "city": "České Budějovice",
@@ -35176,7 +35293,75 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2021-07-23T09:16:18.21Z",
+              "last_updated": "2023-03-15T10:04:16.017Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "238",
+                "239"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.001183",
+            "longitude": "14.488878"
+          },
+          "evse_id": "CZ*EON*E32177667*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "177667"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-03-15T10:04:16.017Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "95",
+                "96",
+                "236",
+                "237"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.001183",
+            "longitude": "14.488878"
+          },
+          "evse_id": "CZ*EON*E32177667*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "177668"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-03-15T09:28:27.63Z",
               "max_amperage": 16,
               "max_electric_power": 11000,
               "max_voltage": 400,
@@ -35184,7 +35369,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "95",
-                "96"
+                "96",
+                "236",
+                "237"
               ]
             }
           ],
@@ -35209,7 +35396,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2021-07-23T09:16:36.02Z",
+              "last_updated": "2023-03-15T09:28:27.63Z",
               "max_amperage": 16,
               "max_electric_power": 11000,
               "max_voltage": 400,
@@ -35217,7 +35404,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "95",
-                "96"
+                "96",
+                "236",
+                "237"
               ]
             }
           ],

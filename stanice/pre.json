@@ -11727,6 +11727,55 @@
       "street": "Přímětická"
     }
   },
+  "CZ1004727": {
+    "name": "Schnellladestation OC Hasso ČM Breicetlova",
+    "sha1": "0e040854f9c8bf2e392d1330d0afaac9d3362f09",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Praha 14",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004727",
+      "csName": "Schnellladestation OC Hasso ČM Breicetlova",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger OC Hasso ČM Breicetlova",
+      "evseId": "CZ*PRE*E1R0055*2",
+      "geoCoord": {
+        "latitude": "50.105361",
+        "longitude": "14.573806"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/pre_oc_hasso_cm_breicetlova.png"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "19800",
+      "region": "Hlavní město Praha",
+      "street": "Breitcetlova 771/6"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "3c1b2a0a7ebe4a9dd77f977bfa2e5d6dfdfc2762",
@@ -16033,6 +16082,55 @@
       "street": "Starý Dvůr 47"
     }
   },
+  "CZ5304724": {
+    "name": "Schnellladestation EuroOil Česká Třebová",
+    "sha1": "6c0ff0225f64067b19aa9c3012e7fc114e94de67",
+    "station": {
+      "branch": "Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Česká Třebová",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ5304724",
+      "csName": "Schnellladestation EuroOil Česká Třebová",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger EuroOil Česká Třebová",
+      "evseId": "CZ*PRE*E1R0056*2",
+      "geoCoord": {
+        "latitude": "49.895871",
+        "longitude": "16.457453"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-gmxzw84bpd.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "ČEPRO a.s.",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "56002",
+      "region": "Pardubický kraj",
+      "street": "Moravská 160"
+    }
+  },
   "CZ6302813": {
     "name": "Schnellladestation OMV Jihlava",
     "sha1": "67ef5541642e82a5d080c12cc0b38e3614356dd2",
@@ -16907,6 +17005,55 @@
       "postalCode": "61900",
       "region": "Jihomoravský kraj",
       "street": "Skandinávská 126/4"
+    }
+  },
+  "CZ6404726": {
+    "name": "Schnellladestation EuroOil Moravský Krumlov",
+    "sha1": "1f6f3e5d07416cca529d6d2d8f9ab44c08a672ba",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Moravský Krumlov",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ6404726",
+      "csName": "Schnellladestation EuroOil Moravský Krumlov",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger EuroOil Moravský Krumlov",
+      "evseId": "CZ*PRE*E1R0057*2",
+      "geoCoord": {
+        "latitude": "49.044667",
+        "longitude": "16.302861"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/pre_eurooil_moravsky_krumlov.png"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "ČEPRO a.s.",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "67201",
+      "region": "Jihomoravský kraj",
+      "street": "Ivančická 222"
     }
   },
   "CZ7102740": {
