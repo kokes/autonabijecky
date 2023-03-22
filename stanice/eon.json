@@ -26568,7 +26568,7 @@
   },
   "51504": {
     "name": "E.ON HochŠpalíček České Budějovice",
-    "sha1": "e661ee71139789444fea69502045ca4235020148",
+    "sha1": "640e7f33e77bf045cccab0410371351860ef9e1d",
     "station": {
       "address": "Vltavské nábř. 688/3",
       "city": "České Budějovice",
@@ -26615,9 +26615,9 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-02-15T14:47:18.17Z",
+              "last_updated": "2023-03-21T23:01:04.13Z",
               "max_amperage": 125,
-              "max_electric_power": 63000,
+              "max_electric_power": 62500,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "CHADEMO",
