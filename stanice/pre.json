@@ -11776,6 +11776,55 @@
       "street": "Breitcetlova 771/6"
     }
   },
+  "CZ1004753": {
+    "name": "Schnellladestation Benzina Jižní Spojka",
+    "sha1": "68a383e7297bd39854b9b445a3c3b7fb414aa064",
+    "station": {
+      "branch": "Baumarkt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Praha 10 - Záběhlice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1004753",
+      "csName": "Schnellladestation Benzina Jižní Spojka",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger Benzina Jižní Spojka",
+      "evseId": "CZ*PRE*E1R0050*2",
+      "geoCoord": {
+        "latitude": "50.059389",
+        "longitude": "14.484408"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/benzina_jizni_spojka.png"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "10000",
+      "region": "Hlavní město Praha",
+      "street": "Jižní spojka"
+    }
+  },
   "CZ2002608": {
     "name": "Ultra-Highspeed-Ladestation Klecany",
     "sha1": "3c1b2a0a7ebe4a9dd77f977bfa2e5d6dfdfc2762",
@@ -13253,6 +13302,55 @@
       "postalCode": "46849",
       "region": "Středočeský kraj",
       "street": "Harrachov 520"
+    }
+  },
+  "CZ2004752": {
+    "name": "Ultra-Highspeed-Ladestation Hornbach Čestlice",
+    "sha1": "0b421b2982aa17f6613306dcb7574ff15b428fd3",
+    "station": {
+      "branch": "Baumarkt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤75kW"
+        ]
+      },
+      "city": "Čestlice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2004752",
+      "csName": "Ultra-Highspeed-Ladestation Hornbach Čestlice",
+      "csStatus": "operable",
+      "csType": "ultra_fast_charger",
+      "enCsname": "Ultra-highspeed charger Hornbach Čestlice",
+      "evseId": "CZ*PRE*E1R0058*2",
+      "geoCoord": {
+        "latitude": "49.996917",
+        "longitude": "14.585500"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/hornbach_cestlice.png"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "25101",
+      "region": "Středočeský kraj",
+      "street": "Lipová 281"
     }
   },
   "CZ3102615": {
