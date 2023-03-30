@@ -21268,7 +21268,7 @@
   },
   "173236": {
     "name": "R416 - Kaufland - Olomouc",
-    "sha1": "bb15db2bc3221b82a88646557c6738ee2d0dfbf6",
+    "sha1": "661c7c9d93fce13df74ac241d64531add9b3144e",
     "station": {
       "address": {
         "city": "Olomouc",
@@ -21331,7 +21331,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/1.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/2-20230329-115928.jpg"
         }
       ],
       "instructions": null,
@@ -22062,6 +22062,508 @@
       ],
       "instructions": null,
       "name": "R507 - Čestlice - Renocar - 2",
+      "visible": true
+    }
+  },
+  "174589": {
+    "name": "R493 - Mladá Boleslav - OC Olympia - 1",
+    "sha1": "e92f830769bfe8e250bfd6464848925f9a18a68d",
+    "station": {
+      "address": {
+        "city": "Mladá Boleslav",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1350",
+        "latitude": 50.409155,
+        "longitude": 14.9410561,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jičínská",
+        "url": ""
+      },
+      "customID": "174589",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2722-017",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R493"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-017",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-017",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R493"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/2-20230329-115928.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R493 - Mladá Boleslav - OC Olympia - 1",
+      "visible": true
+    }
+  },
+  "174590": {
+    "name": "R494 - Mladá Boleslav - OC Olympia - 2",
+    "sha1": "5335d2c7297775828a27bf3f0732ab3f60bc6649",
+    "station": {
+      "address": {
+        "city": "Mladá Boleslav",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1350",
+        "latitude": 50.409155,
+        "longitude": 14.9410561,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jičínská",
+        "url": ""
+      },
+      "customID": "174590",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2522-013",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R494"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2522-013",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2522-013",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R494"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/2-20230329-115928.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R494 - Mladá Boleslav - OC Olympia - 2",
+      "visible": true
+    }
+  },
+  "174591": {
+    "name": "R495 - Mladá Boleslav - OC Olympia - 3",
+    "sha1": "1085f381dbaa5b2cae340c86ee5a56640d162e8e",
+    "station": {
+      "address": {
+        "city": "Mladá Boleslav",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1350",
+        "latitude": 50.409155,
+        "longitude": 14.9410561,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jičínská",
+        "url": ""
+      },
+      "customID": "174591",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2322-007",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R495"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2322-007",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2322-007",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R495"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/2-20230329-115928.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R495 - Mladá Boleslav - OC Olympia - 3",
+      "visible": true
+    }
+  },
+  "174593": {
+    "name": "R503 - Mladá Boleslav - OC Olympia - 6",
+    "sha1": "5ec58f2c3ee11ffe4779c799ead4f885e55b93f4",
+    "station": {
+      "address": {
+        "city": "Mladá Boleslav",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1350",
+        "latitude": 50.409155,
+        "longitude": 14.9410561,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jičínská",
+        "url": ""
+      },
+      "customID": "174593",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2522-014",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R503"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2522-014",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2522-014",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R503"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/2-20230329-115928.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R503 - Mladá Boleslav - OC Olympia - 6",
+      "visible": true
+    }
+  },
+  "174594": {
+    "name": "UR115 - Mladá Boleslav - OC Olympia - 7",
+    "sha1": "3a4e2f08e2bb14a79516a97550096b8b5bf74437",
+    "station": {
+      "address": {
+        "city": "Mladá Boleslav",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1350",
+        "latitude": 50.409155,
+        "longitude": 14.9410561,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jičínská",
+        "url": ""
+      },
+      "customID": "174594",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T365-IT1-4022-121",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR115"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T365-IT1-4022-121",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR115"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/2-20230329-115928.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR115 - Mladá Boleslav - OC Olympia - 7",
+      "visible": true
+    }
+  },
+  "174608": {
+    "name": "R501 - Mladá Boleslav - OC Olympia - 4",
+    "sha1": "447c66ce1c31bb93764a0f33d250ad3b0479ef80",
+    "station": {
+      "address": {
+        "city": "Mladá Boleslav",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1350",
+        "latitude": 50.409155,
+        "longitude": 14.9410561,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jičínská",
+        "url": ""
+      },
+      "customID": "174608",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2322-005",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R501"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2322-005",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2322-005",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R501"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/2-20230329-115928.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R501 - Mladá Boleslav - OC Olympia - 4",
+      "visible": true
+    }
+  },
+  "174609": {
+    "name": "R502 - Mladá Boleslav - OC Olympia - 5",
+    "sha1": "1f86f733da4e730b914b3ce9b18160324e5616fd",
+    "station": {
+      "address": {
+        "city": "Mladá Boleslav",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1350",
+        "latitude": 50.409155,
+        "longitude": 14.9410561,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jičínská",
+        "url": ""
+      },
+      "customID": "174609",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2322-004",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R502"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2322-004",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2322-004",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R502"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/2-20230329-115928.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R502 - Mladá Boleslav - OC Olympia - 5",
       "visible": true
     }
   },
