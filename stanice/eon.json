@@ -5957,7 +5957,7 @@
   },
   "159669": {
     "name": "(P) Hošek Motor - Vídeňská",
-    "sha1": "b31a5fb797eb3d990a7d83fca0269b10afea7857",
+    "sha1": "9e224a786ac57358ad94ead45e389ed5e2add8b4",
     "station": {
       "address": "Vídeňská 132",
       "city": "Brno",
@@ -5982,15 +5982,15 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-01-09T08:32:38.05Z",
+              "last_updated": "2023-04-01T22:01:09.92Z",
               "max_amperage": 125,
-              "max_electric_power": 150000,
+              "max_electric_power": 50000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "206",
-                "207"
+                "203",
+                "205"
               ]
             }
           ],
@@ -5999,7 +5999,7 @@
             "longitude": "16.59996831"
           },
           "evse_id": "CZ*EON*E159669*1",
-          "last_seen_as_planned": "2023-01-09T08:32:38.05Z",
+          "last_seen_as_planned": "2023-04-01T22:01:09.92Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "159669"
@@ -6015,15 +6015,15 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-01-09T08:32:38.05Z",
+              "last_updated": "2023-04-01T22:01:09.92Z",
               "max_amperage": 125,
-              "max_electric_power": 150000,
+              "max_electric_power": 50000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "206",
-                "207"
+                "203",
+                "205"
               ]
             }
           ],
@@ -6032,7 +6032,7 @@
             "longitude": "16.59996831"
           },
           "evse_id": "CZ*EON*E159669*2",
-          "last_seen_as_planned": "2023-01-09T08:32:38.05Z",
+          "last_seen_as_planned": "2023-04-01T22:01:09.92Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "159670"
@@ -21849,7 +21849,7 @@
   },
   "49015": {
     "name": "(P) LOCKAR Automotive s.r.o.",
-    "sha1": "6938aac71506c56711152b3d3ee8f410ef2844f0",
+    "sha1": "43c3c676de98dfbe79463bf536fb3a0f5e99e1ed",
     "station": {
       "address": "Loket 51",
       "city": "Loket",
@@ -21874,7 +21874,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2021-01-05T15:11:58.527Z",
+              "last_updated": "2023-04-01T17:03:48.29Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -21882,7 +21882,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "55",
-                "56"
+                "56",
+                "240",
+                "241"
               ]
             }
           ],
@@ -21907,7 +21909,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2021-01-05T15:11:58.527Z",
+              "last_updated": "2023-04-01T17:03:48.29Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -21915,7 +21917,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "55",
-                "56"
+                "56",
+                "240",
+                "241"
               ]
             }
           ],
