@@ -20243,70 +20243,6 @@
       "visible": true
     }
   },
-  "170773": {
-    "name": "N230 - Loučná nad Desnou - Rejhotice - Hotel Dlouhé Stráně - duplikát",
-    "sha1": "07924ee814eb5ad115445752b423d125bf1d4ab8",
-    "station": {
-      "address": {
-        "city": "Štěchovice",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "Lista",
-        "latitude": 49.8470278,
-        "longitude": 14.417365,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Prof.",
-        "url": ""
-      },
-      "customID": "170773",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N227"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N227"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/3-20230113-115737.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "N230 - Loučná nad Desnou - Rejhotice - Hotel Dlouhé Stráně - duplikát",
-      "visible": true
-    }
-  },
   "170824": {
     "name": "R509 - Česká Skalice - Husovo nám. - 1",
     "sha1": "639c62dc9fa2b627549dd595850bc325ce0b8efd",
@@ -21204,7 +21140,7 @@
   },
   "173125": {
     "name": "N233 - Lysá nad Labem - Parkoviště Čapkova - 3",
-    "sha1": "d57154c65e49cefb2f8e9d372ddae6e8ec6b3bac",
+    "sha1": "530b6f16660f00f7fcfa03759b8b5e1691289737",
     "station": {
       "address": {
         "city": "Lysá nad Labem",
@@ -21258,7 +21194,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/3-20230113-115737.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/1-20220427-125147.jpg"
         }
       ],
       "instructions": null,
@@ -22564,6 +22500,70 @@
       ],
       "instructions": null,
       "name": "R502 - Mladá Boleslav - OC Olympia - 5",
+      "visible": true
+    }
+  },
+  "175175": {
+    "name": "N227 - Štěchovice - Vodní elektrárna Štěchovice",
+    "sha1": "cf6428250c33270d1863fa3ca8171555740319f7",
+    "station": {
+      "address": {
+        "city": "Štěchovice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Lista",
+        "latitude": 49.8470278,
+        "longitude": 14.417365,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Prof.",
+        "url": ""
+      },
+      "customID": "175175",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N227"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N227"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/04/1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N227 - Štěchovice - Vodní elektrárna Štěchovice",
       "visible": true
     }
   },
