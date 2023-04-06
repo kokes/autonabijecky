@@ -6365,7 +6365,7 @@
   },
   "17051": {
     "name": "E.ON Globus Brno",
-    "sha1": "6ae03ed5e736e06c9d713f3c1bdfa468d9e0e176",
+    "sha1": "1ae1b1d4e286c28519f484d08ee6af9a08e5ea08",
     "station": {
       "address": "Hradecká 408/40",
       "city": "Brno",
@@ -6414,7 +6414,7 @@
             "latitude": "49.2625481",
             "longitude": "16.5771122"
           },
-          "evse_id": "CZ*EON*E11017051*1",
+          "evse_id": "CZ*UFC*E11017051*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -6477,7 +6477,7 @@
             "latitude": "49.2625481",
             "longitude": "16.5771122"
           },
-          "evse_id": "CZ*EON*E11017051*2",
+          "evse_id": "CZ*UFC*E11017051*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -6514,7 +6514,7 @@
   },
   "17053": {
     "name": "E.ON Globus Olomouc",
-    "sha1": "8fbeaaf19fce5681ec7195b3f825885fb72fe83b",
+    "sha1": "7b24d4aca45ffd1ba961b748f5afd4af1cf5e2e6",
     "station": {
       "address": "Pražská 248/39",
       "city": "Olomouc",
@@ -6563,7 +6563,7 @@
             "latitude": "49.6010056",
             "longitude": "17.2225019"
           },
-          "evse_id": "CZ*EON*E11017053*1",
+          "evse_id": "CZ*UFC*E11017053*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -6626,7 +6626,7 @@
             "latitude": "49.6010056",
             "longitude": "17.2225019"
           },
-          "evse_id": "CZ*EON*E11017053*2",
+          "evse_id": "CZ*UFC*E11017053*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -9818,7 +9818,7 @@
   },
   "25171": {
     "name": "E.ON Globus Pardubice",
-    "sha1": "e19d5c6d553a094d481b1292fd46b1553ff82a05",
+    "sha1": "bd501ee53c4df28b94c52bb4df7c87ee8f538503",
     "station": {
       "address": "Poděbradská 293",
       "city": "Pardubice",
@@ -9867,7 +9867,7 @@
             "latitude": "50.0572344",
             "longitude": "15.7519128"
           },
-          "evse_id": "CZ*EON*E11025171*1",
+          "evse_id": "CZ*UFC*E11025171*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -9930,7 +9930,7 @@
             "latitude": "50.0572344",
             "longitude": "15.7519128"
           },
-          "evse_id": "CZ*EON*E11025171*2",
+          "evse_id": "CZ*UFC*E11025171*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -9967,7 +9967,7 @@
   },
   "25200": {
     "name": "E.ON Globus Liberec",
-    "sha1": "db0fbeab7652919554deb6047e682b54fe5ed66e",
+    "sha1": "7c3f13696a86a5f45f257868911cb05be40b03df",
     "station": {
       "address": "Sousedská 600",
       "city": "Liberec",
@@ -10016,7 +10016,7 @@
             "latitude": "50.7770275",
             "longitude": "15.0297533"
           },
-          "evse_id": "CZ*EON*E11025200*1",
+          "evse_id": "CZ*UFC*E11025200*1",
           "floor_level": "0",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
@@ -10080,7 +10080,7 @@
             "latitude": "50.7770275",
             "longitude": "15.0297533"
           },
-          "evse_id": "CZ*EON*E11025200*2",
+          "evse_id": "CZ*UFC*E11025200*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -15153,7 +15153,7 @@
   },
   "35471": {
     "name": "E.ON Blatná",
-    "sha1": "58efdcf5e391e541c39afef5f670d2f100d580a9",
+    "sha1": "d48b82634da575d1a19ac94d15b7582bf9ebabb6",
     "station": {
       "address": "V Podzámčí 174 ",
       "city": "Blatná",
@@ -15202,7 +15202,7 @@
             "latitude": "49.422814",
             "longitude": "13.882738"
           },
-          "evse_id": "CZ*EON*E31035471*1",
+          "evse_id": "CZ*UFC*E31035471*1",
           "last_seen_as_planned": "2021-02-08T15:58:53.41Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -15265,7 +15265,7 @@
             "latitude": "49.422814",
             "longitude": "13.882738"
           },
-          "evse_id": "CZ*EON*E31035471*2",
+          "evse_id": "CZ*UFC*E31035471*2",
           "last_seen_as_planned": "2021-02-08T15:58:53.41Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -15429,7 +15429,7 @@
   },
   "35475": {
     "name": "E.ON Strakonice",
-    "sha1": "399fd8466788d89c9746f68ffd613b7aec79469d",
+    "sha1": "aace933d9c98f448251d3031e283dbfdbaad686c",
     "station": {
       "address": "Písecká",
       "city": "Strakonice",
@@ -15478,7 +15478,7 @@
             "latitude": "49.269541",
             "longitude": "13.921643"
           },
-          "evse_id": "CZ*EON*E31035475*1",
+          "evse_id": "CZ*UFC*E31035475*1",
           "last_seen_as_planned": "2021-08-20T18:41:49.74Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -15519,7 +15519,7 @@
             "latitude": "49.269541",
             "longitude": "13.921643"
           },
-          "evse_id": "CZ*EON*E31035475*2",
+          "evse_id": "CZ*UFC*E31035475*2",
           "last_seen_as_planned": "2021-08-20T18:41:49.74Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -15875,7 +15875,7 @@
   },
   "35915": {
     "name": "E.ON OC Futurum Brno",
-    "sha1": "874fefdf4c8ffde90fcaa48848ef33dbd7cada88",
+    "sha1": "5e9964ba249f5e96c727582803adf94cbd9e9f9b",
     "station": {
       "address": "Vídeňská 132/100",
       "city": "Brno-jih",
@@ -15924,7 +15924,7 @@
             "latitude": "49.15465858",
             "longitude": "16.59826875"
           },
-          "evse_id": "CZ*EON*E25035915*1",
+          "evse_id": "CZ*UFC*E25035915*1",
           "last_seen_as_planned": "2021-03-25T14:31:12.327Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -15965,7 +15965,7 @@
             "latitude": "49.15465858",
             "longitude": "16.59826875"
           },
-          "evse_id": "CZ*EON*E25035915*2",
+          "evse_id": "CZ*UFC*E25035915*2",
           "last_seen_as_planned": "2021-03-25T14:31:12.327Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -16006,7 +16006,7 @@
             "latitude": "49.15465858",
             "longitude": "16.59826875"
           },
-          "evse_id": "CZ*EON*E25035917*1",
+          "evse_id": "CZ*UFC*E25035917*1",
           "last_seen_as_planned": "2021-03-25T14:31:12.327Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -16047,7 +16047,7 @@
             "latitude": "49.15465858",
             "longitude": "16.59826875"
           },
-          "evse_id": "CZ*EON*E25035917*2",
+          "evse_id": "CZ*UFC*E25035917*2",
           "last_seen_as_planned": "2021-03-25T14:31:12.327Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -17238,7 +17238,7 @@
   },
   "35939": {
     "name": "E.ON Terno Prachatice",
-    "sha1": "41dd2e6cf4225fce9817b15f2fa8ffb28affafe1",
+    "sha1": "8be25dddd991cfd0615bd4285b6a8c3c2047b669",
     "station": {
       "address": "Husinecká 1190",
       "city": "Prachatice",
@@ -17287,7 +17287,7 @@
             "latitude": "49.01831338",
             "longitude": "13.99899793"
           },
-          "evse_id": "CZ*EON*E25035939*1",
+          "evse_id": "CZ*UFC*E25035939*1",
           "last_seen_as_planned": "2022-05-20T12:45:14.38Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -17328,7 +17328,7 @@
             "latitude": "49.01831338",
             "longitude": "13.99899793"
           },
-          "evse_id": "CZ*EON*E25035939*2",
+          "evse_id": "CZ*UFC*E25035939*2",
           "last_seen_as_planned": "2022-05-20T12:45:14.38Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -18377,7 +18377,7 @@
   },
   "35959": {
     "name": "E.ON Chata Rovina",
-    "sha1": "8f96cd80abdc9e1b482470af4570bea183f53152",
+    "sha1": "c0187fff6c116a5c143a45ca168843898693ac5e",
     "station": {
       "address": "Dobrá Voda 16",
       "city": "Hartmanice",
@@ -18426,7 +18426,7 @@
             "latitude": "49.15716649",
             "longitude": "13.42137479"
           },
-          "evse_id": "CZ*EON*E25035959*1",
+          "evse_id": "CZ*UFC*E25035959*1",
           "last_seen_as_planned": "2021-11-09T06:26:52.917Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -18467,7 +18467,7 @@
             "latitude": "49.15716649",
             "longitude": "13.42137479"
           },
-          "evse_id": "CZ*EON*E25035959*2",
+          "evse_id": "CZ*UFC*E25035959*2",
           "last_seen_as_planned": "2021-11-09T06:26:52.917Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -18628,7 +18628,7 @@
   },
   "35963": {
     "name": "E.ON Vodňany",
-    "sha1": "8af98280049689648c5416bd2d71e12bc128e766",
+    "sha1": "f0031cb85b804af536c847424a13d8e87be812d1",
     "station": {
       "address": "Elektrárenská",
       "city": "Vodňany",
@@ -18677,7 +18677,7 @@
             "latitude": "49.1453024",
             "longitude": "14.17796713"
           },
-          "evse_id": "CZ*EON*E25035963*1",
+          "evse_id": "CZ*UFC*E25035963*1",
           "last_seen_as_planned": "2022-05-20T12:54:48.157Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -18718,7 +18718,7 @@
             "latitude": "49.1453024",
             "longitude": "14.17796713"
           },
-          "evse_id": "CZ*EON*E25035963*2",
+          "evse_id": "CZ*UFC*E25035963*2",
           "last_seen_as_planned": "2022-05-20T12:54:48.157Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -19180,7 +19180,7 @@
   },
   "35976": {
     "name": "E.ON City Olomouc",
-    "sha1": "a0ba5401fd4e53a8c892f2ff0c938772e06ec38f",
+    "sha1": "500d1dde41763e94c2f5c615dca48c779428e291",
     "station": {
       "address": "Pražská 255/41",
       "city": "Olomouc ",
@@ -19229,7 +19229,7 @@
             "latitude": "49.60305366",
             "longitude": "17.22031458"
           },
-          "evse_id": "CZ*EON*E25035949*1",
+          "evse_id": "CZ*UFC*E25035949*1",
           "last_seen_as_planned": "2022-07-13T09:24:08.72Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -19270,7 +19270,7 @@
             "latitude": "49.60305366",
             "longitude": "17.22031458"
           },
-          "evse_id": "CZ*EON*E25035949*2",
+          "evse_id": "CZ*UFC*E25035949*2",
           "last_seen_as_planned": "2022-07-13T09:24:08.72Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -19311,7 +19311,7 @@
             "latitude": "49.60305366",
             "longitude": "17.22031458"
           },
-          "evse_id": "CZ*EON*E25035976*1",
+          "evse_id": "CZ*UFC*E25035976*1",
           "last_seen_as_planned": "2022-07-13T09:24:08.72Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -19352,7 +19352,7 @@
             "latitude": "49.60305366",
             "longitude": "17.22031458"
           },
-          "evse_id": "CZ*EON*E25035976*2",
+          "evse_id": "CZ*UFC*E25035976*2",
           "last_seen_as_planned": "2022-07-13T09:24:08.72Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -19393,7 +19393,7 @@
             "latitude": "49.60305366",
             "longitude": "17.22031458"
           },
-          "evse_id": "CZ*EON*E25035978*1",
+          "evse_id": "CZ*UFC*E25035978*1",
           "last_seen_as_planned": "2022-07-13T09:24:08.72Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -19434,7 +19434,7 @@
             "latitude": "49.60305366",
             "longitude": "17.22031458"
           },
-          "evse_id": "CZ*EON*E25035978*2",
+          "evse_id": "CZ*UFC*E25035978*2",
           "last_seen_as_planned": "2022-07-13T09:24:08.72Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -22280,7 +22280,7 @@
   },
   "51409": {
     "name": "E.ON Stará Paka",
-    "sha1": "629176836c277bde532f219abf58e2f6a7416af7",
+    "sha1": "7c543499fc053475d9988f4506125b4d98e61cea",
     "station": {
       "address": "Nádražní",
       "city": "Stará Paka",
@@ -22329,7 +22329,7 @@
             "latitude": "50.51601469",
             "longitude": "15.48748068"
           },
-          "evse_id": "CZ*EON*E11051409*1",
+          "evse_id": "CZ*UFC*E11051409*1",
           "last_seen_as_planned": "2021-10-21T08:56:47.91Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -22392,7 +22392,7 @@
             "latitude": "50.51601469",
             "longitude": "15.48748068"
           },
-          "evse_id": "CZ*EON*E11051409*2",
+          "evse_id": "CZ*UFC*E11051409*2",
           "last_seen_as_planned": "2021-10-21T08:56:47.91Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -22804,7 +22804,7 @@
   },
   "51419": {
     "name": "E.ON Brandýs nad Labem Popelka",
-    "sha1": "1aa796623785fb9f13a1032e22c87657f8903e28",
+    "sha1": "5501c04e0ca36f760689e97964077dc79a204047",
     "station": {
       "address": "Průmyslová",
       "city": " Brandýs nad Labem-Stará Boleslav",
@@ -22853,7 +22853,7 @@
             "latitude": "50.17626476",
             "longitude": "14.6587678"
           },
-          "evse_id": "CZ*EON*E11051419*1",
+          "evse_id": "CZ*UFC*E11051419*1",
           "last_seen_as_planned": "2022-03-14T13:58:20.433Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -22916,7 +22916,7 @@
             "latitude": "50.17626476",
             "longitude": "14.6587678"
           },
-          "evse_id": "CZ*EON*E11051419*2",
+          "evse_id": "CZ*UFC*E11051419*2",
           "last_seen_as_planned": "2022-03-14T13:58:20.433Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -27017,7 +27017,7 @@
   },
   "51513": {
     "name": "E.ON VETO Písek",
-    "sha1": "f320fd9776612b73094544227a71bf46ba21c111",
+    "sha1": "56dc1f3f74be5446f9e7b81d32516478334c83b8",
     "station": {
       "address": "Hradišťská 2532/39",
       "city": "Písek",
@@ -27088,7 +27088,7 @@
             "latitude": "49.3039355",
             "longitude": "14.13948901"
           },
-          "evse_id": "CZ*EON*E32051513*1",
+          "evse_id": "CZ*UFC*E32051513*1",
           "last_seen_as_planned": "2021-09-29T19:54:04.123Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -27148,7 +27148,7 @@
             "latitude": "49.3039355",
             "longitude": "14.13948901"
           },
-          "evse_id": "CZ*EON*E32051513*3",
+          "evse_id": "CZ*UFC*E32051513*3",
           "last_seen_as_planned": "2021-09-29T19:54:04.123Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -27640,7 +27640,7 @@
   },
   "51531": {
     "name": "E.ON ČS Benzina Klatovy",
-    "sha1": "977c2c00d8ae371a42e75040d040224e1e831241",
+    "sha1": "0bc268a67a729addba623ec432ef62a048cdd1cf",
     "station": {
       "address": "Plzeňská 918",
       "city": "Klatovy",
@@ -27683,13 +27683,35 @@
                 "210",
                 "212"
               ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-04-05T22:01:27.517Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
             }
           ],
           "coordinates": {
             "latitude": "49.40807685",
             "longitude": "13.29376791"
           },
-          "evse_id": "CZ*EON*E32051531*1",
+          "evse_id": "CZ*UFC*E32051531*1",
           "last_seen_as_planned": "2022-12-01T13:13:57.14Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -27771,7 +27793,7 @@
             "latitude": "49.40807685",
             "longitude": "13.29376791"
           },
-          "evse_id": "CZ*EON*E32051531*3",
+          "evse_id": "CZ*UFC*E32051531*3",
           "last_seen_as_planned": "2022-12-01T13:13:57.14Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -28513,7 +28535,7 @@
   },
   "51558": {
     "name": "E.ON ČS EuroOil Benátky nad Jizerou",
-    "sha1": "e63166671e77eba60b0be593cebfd84de010de96",
+    "sha1": "a23b524e68c71bfa64420c0c446f0571e3f44ed5",
     "station": {
       "address": "Mladská 570",
       "city": "Benátky nad Jizerou",
@@ -28584,7 +28606,7 @@
             "latitude": "50.28429456",
             "longitude": "14.83067746"
           },
-          "evse_id": "CZ*EON*E32051558*1",
+          "evse_id": "CZ*UFC*E32051558*1",
           "last_seen_as_planned": "2023-01-26T07:38:25.33Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -28643,7 +28665,7 @@
             "latitude": "50.28429456",
             "longitude": "14.83067746"
           },
-          "evse_id": "CZ*EON*E32051558*3",
+          "evse_id": "CZ*UFC*E32051558*3",
           "last_seen_as_planned": "2023-01-26T07:38:25.33Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -28706,7 +28728,7 @@
             "latitude": "50.28429456",
             "longitude": "14.83067746"
           },
-          "evse_id": "CZ*EON*E32051561*1",
+          "evse_id": "CZ*UFC*E32051561*1",
           "last_seen_as_planned": "2023-01-26T07:38:25.33Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -28765,7 +28787,7 @@
             "latitude": "50.28429456",
             "longitude": "14.83067746"
           },
-          "evse_id": "CZ*EON*E32051561*3",
+          "evse_id": "CZ*UFC*E32051561*3",
           "last_seen_as_planned": "2023-01-26T07:38:25.33Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -29367,7 +29389,7 @@
   },
   "53782": {
     "name": "E.ON Penny Náchod",
-    "sha1": "82e8d7aa7944392a4b959261bef5e88780deb653",
+    "sha1": "eb786156782c934eacc02c9e9d07f4df98370e1a",
     "station": {
       "address": "Pražská 373",
       "city": "Náchod",
@@ -29438,7 +29460,7 @@
             "latitude": "50.4085133",
             "longitude": "16.1583272"
           },
-          "evse_id": "CZ*EON*E98053782*1",
+          "evse_id": "CZ*UFC*E98053782*1",
           "last_seen_as_planned": "2021-09-30T19:29:44.27Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -29501,7 +29523,7 @@
             "latitude": "50.4085133",
             "longitude": "16.1583272"
           },
-          "evse_id": "CZ*EON*E98053782*2",
+          "evse_id": "CZ*UFC*E98053782*2",
           "last_seen_as_planned": "2021-09-30T19:29:44.27Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -29538,7 +29560,7 @@
   },
   "53784": {
     "name": "E.ON Penny Pardubice",
-    "sha1": "6de15b5b4596ba6f29ad71569dc8815a8507321c",
+    "sha1": "a02893e7d37bb5a494e9f9dc55df18b3b289ecc1",
     "station": {
       "address": "Teplého 2806",
       "city": "Pardubice V - Zelené Předměstí",
@@ -29609,7 +29631,7 @@
             "latitude": "50.0271858",
             "longitude": "15.7613447"
           },
-          "evse_id": "CZ*EON*E98053784*1",
+          "evse_id": "CZ*UFC*E98053784*1",
           "last_seen_as_planned": "2021-10-13T06:28:54.353Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -29650,7 +29672,7 @@
             "latitude": "50.0271858",
             "longitude": "15.7613447"
           },
-          "evse_id": "CZ*EON*E98053784*2",
+          "evse_id": "CZ*UFC*E98053784*2",
           "last_seen_as_planned": "2021-10-13T06:28:54.353Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -29835,7 +29857,7 @@
   },
   "53788": {
     "name": "E.ON Penny Lanškroun",
-    "sha1": "350185d9047acc0ba03d38680b29513d3f2d2269",
+    "sha1": "2dfc75b1570ec00025741f8c2d2abb86492f5f70",
     "station": {
       "address": "Husova 999",
       "city": "Lanškroun",
@@ -29906,7 +29928,7 @@
             "latitude": "49.9090508",
             "longitude": "16.6116469"
           },
-          "evse_id": "CZ*EON*E98053788*1",
+          "evse_id": "CZ*UFC*E98053788*1",
           "last_seen_as_planned": "2021-03-31T10:53:54.45Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -29947,7 +29969,7 @@
             "latitude": "49.9090508",
             "longitude": "16.6116469"
           },
-          "evse_id": "CZ*EON*E98053788*2",
+          "evse_id": "CZ*UFC*E98053788*2",
           "last_seen_as_planned": "2021-03-26T08:14:45.157Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -30281,7 +30303,7 @@
   },
   "53794": {
     "name": "E.ON Penny Jaroměř",
-    "sha1": "909747f8876eaeed387b2bcd356420240764e301",
+    "sha1": "c4bb839b4f89be339cfc690be8f7316dc7be3c4f",
     "station": {
       "address": "Na Cihelnách 13",
       "city": "Jaroměř - Pražské Předměstí",
@@ -30352,7 +30374,7 @@
             "latitude": "50.3490731",
             "longitude": "15.9127453"
           },
-          "evse_id": "CZ*EON*E98053794*1",
+          "evse_id": "CZ*UFC*E98053794*1",
           "last_seen_as_planned": "2021-09-30T19:32:46.773Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -30393,7 +30415,7 @@
             "latitude": "50.3490731",
             "longitude": "15.9127453"
           },
-          "evse_id": "CZ*EON*E98053794*2",
+          "evse_id": "CZ*UFC*E98053794*2",
           "last_seen_as_planned": "2021-09-30T19:32:46.773Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -30576,7 +30598,7 @@
   },
   "53798": {
     "name": "E.ON Penny Třebechovice pod Orebem",
-    "sha1": "30d8c3c1bd8dc5f31917ef348b686d675a137f2c",
+    "sha1": "e72da6047f72bd1b00643b5e4699641384da5954",
     "station": {
       "address": "Žižkova 1378",
       "city": "Třebechovice pod Orebem",
@@ -30647,7 +30669,7 @@
             "latitude": "50.2008294",
             "longitude": "15.989235"
           },
-          "evse_id": "CZ*EON*E98053798*1",
+          "evse_id": "CZ*UFC*E98053798*1",
           "last_seen_as_planned": "2021-03-29T13:30:39.787Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -30688,7 +30710,7 @@
             "latitude": "50.2008294",
             "longitude": "15.989235"
           },
-          "evse_id": "CZ*EON*E98053798*2",
+          "evse_id": "CZ*UFC*E98053798*2",
           "last_seen_as_planned": "2021-03-29T13:30:58.113Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -32203,7 +32225,7 @@
   },
   "53820": {
     "name": "E.ON Penny Příbram",
-    "sha1": "40e9a6446c3a0ce03e914e9ebb98bf0403a69610",
+    "sha1": "8069b448ef7a998822512f7c3c801b9162511f64",
     "station": {
       "address": "Seifertova 532",
       "city": "Příbram VII",
@@ -32274,7 +32296,7 @@
             "latitude": "49.6761367",
             "longitude": "13.9984189"
           },
-          "evse_id": "CZ*EON*E98053820*1",
+          "evse_id": "CZ*UFC*E98053820*1",
           "last_seen_as_planned": "2022-02-04T06:26:02.67Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -32315,7 +32337,7 @@
             "latitude": "49.6761367",
             "longitude": "13.9984189"
           },
-          "evse_id": "CZ*EON*E98053820*2",
+          "evse_id": "CZ*UFC*E98053820*2",
           "last_seen_as_planned": "2022-02-04T06:26:02.67Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -36096,7 +36118,7 @@
   },
   "5916": {
     "name": "E.ON Písek",
-    "sha1": "862e6f365ccd25320ff4d76eb897b871a9ff0c5e",
+    "sha1": "c81fc209639d611e8e9ba05cbc7426f26497d0c9",
     "station": {
       "address": "Na Výstavišti",
       "city": "Písek",
@@ -36145,7 +36167,7 @@
             "latitude": "49.308845",
             "longitude": "14.143746"
           },
-          "evse_id": "CZ*EON*E11005916*1",
+          "evse_id": "CZ*UFC*E11005916*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -36208,7 +36230,7 @@
             "latitude": "49.308845",
             "longitude": "14.143746"
           },
-          "evse_id": "CZ*EON*E11005916*2",
+          "evse_id": "CZ*UFC*E11005916*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -36394,7 +36416,7 @@
   },
   "5920": {
     "name": "E.ON Albert Čestlice",
-    "sha1": "5c609a190b20ab4ad612d20403cf3710b06e1f7b",
+    "sha1": "bd9ea8316f21b7f66428131a329b99d49d4b874a",
     "station": {
       "address": "Obchodní 111",
       "city": "Praha-Čestlice",
@@ -36443,7 +36465,7 @@
             "latitude": "50.002749",
             "longitude": "14.573602"
           },
-          "evse_id": "CZ*EON*E11005920*1",
+          "evse_id": "CZ*UFC*E11005920*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -36506,7 +36528,7 @@
             "latitude": "50.002749",
             "longitude": "14.573602"
           },
-          "evse_id": "CZ*EON*E11005920*2",
+          "evse_id": "CZ*UFC*E11005920*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
