@@ -1943,7 +1943,7 @@
   },
   "109635": {
     "name": "E.ON kavárna Lanna",
-    "sha1": "c2c50b60ff7d00e9fbc86a535e1d60aa4281251b",
+    "sha1": "a9b2874d7339a2c76e9fbdde0df524e3f249491f",
     "station": {
       "address": "Jiráskovo nábř. 45e",
       "city": "České Budějovice",
@@ -1992,7 +1992,7 @@
             "latitude": "48.978666",
             "longitude": "14.466984"
           },
-          "evse_id": "CZ*EON*E31109635*1",
+          "evse_id": "CZ*UFC*E31109635*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -2033,7 +2033,7 @@
             "latitude": "48.978666",
             "longitude": "14.466984"
           },
-          "evse_id": "CZ*EON*E31109635*2",
+          "evse_id": "CZ*UFC*E31109635*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -3987,7 +3987,7 @@
   },
   "14028": {
     "name": "E.ON Český Krumlov autobusové nádraží",
-    "sha1": "a051cc88ebcb430eafa7441a36984bb81f788773",
+    "sha1": "8cf45bf78ea91512378aad90600c7ebdb63fb0c4",
     "station": {
       "address": "Nemocniční 585",
       "city": "Český Krumlov",
@@ -4036,7 +4036,7 @@
             "latitude": "48.81139661",
             "longitude": "14.32199161"
           },
-          "evse_id": "CZ*EON*E31014028*1",
+          "evse_id": "CZ*UFC*E31014028*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -4077,7 +4077,7 @@
             "latitude": "48.81139661",
             "longitude": "14.32199161"
           },
-          "evse_id": "CZ*EON*E31014028*2",
+          "evse_id": "CZ*UFC*E31014028*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -4245,7 +4245,7 @@
   },
   "14114": {
     "name": "E.ON Český Krumlov P2",
-    "sha1": "ba8fc6babfabe24bc369e125182d4fe0f7793d43",
+    "sha1": "e823a125f567e7f16b553aba22dec228896bfb0c",
     "station": {
       "address": "Pod Poštou",
       "city": "Český Krumlov",
@@ -4294,7 +4294,7 @@
             "latitude": "48.813881",
             "longitude": "14.318407"
           },
-          "evse_id": "CZ*EON*E31014114*1",
+          "evse_id": "CZ*UFC*E31014114*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -4335,7 +4335,7 @@
             "latitude": "48.813881",
             "longitude": "14.318407"
           },
-          "evse_id": "CZ*EON*E31014114*2",
+          "evse_id": "CZ*UFC*E31014114*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -5291,7 +5291,7 @@
   },
   "15027": {
     "name": "E.ON Český Krumlov P1",
-    "sha1": "fb310b873b0573c68acfe9f69f9d8c9a8ebe2140",
+    "sha1": "42a9cd1063616a41520274630c48a6eae143f2bd",
     "station": {
       "address": "Chvalšinská 138",
       "city": "Český Krumlov",
@@ -5340,7 +5340,7 @@
             "latitude": "48.813582",
             "longitude": "14.31211"
           },
-          "evse_id": "CZ*EON*E31015027*1",
+          "evse_id": "CZ*UFC*E31015027*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -5381,7 +5381,7 @@
             "latitude": "48.813582",
             "longitude": "14.31211"
           },
-          "evse_id": "CZ*EON*E31015027*2",
+          "evse_id": "CZ*UFC*E31015027*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -6216,7 +6216,7 @@
   },
   "16499": {
     "name": "E.ON Globus České Budějovice",
-    "sha1": "e862bad9e17a6fc58d2b30adb3ca4ee24209d1ee",
+    "sha1": "7f4d7b0b977aa6a6a84ef6b665a9d454bfe43580",
     "station": {
       "address": "České Vrbné 2327",
       "city": "České Budějovice",
@@ -6265,7 +6265,7 @@
             "latitude": "49.001218",
             "longitude": "14.45196"
           },
-          "evse_id": "CZ*EON*E11016499*1",
+          "evse_id": "CZ*UFC*E11016499*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -6328,7 +6328,7 @@
             "latitude": "49.001218",
             "longitude": "14.45196"
           },
-          "evse_id": "CZ*EON*E11016499*2",
+          "evse_id": "CZ*UFC*E11016499*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -7094,6 +7094,158 @@
       },
       "party_id": "EON",
       "postal_code": "37005",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "177268": {
+    "name": "(P) Fabrika hotel Humpolec DC",
+    "sha1": "f829f06d6637100de91c194bc483344692a6aa80",
+    "station": {
+      "address": "Školní 511",
+      "city": "Humpolec",
+      "coordinates": {
+        "latitude": "49.5403286",
+        "longitude": "15.3562986"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-04-06T07:14:58.82Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "242",
+                "243"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.5403286",
+            "longitude": "15.3562986"
+          },
+          "evse_id": "CZ*EON*E32175047*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "175047"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-04-06T07:14:58.82Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "242",
+                "243"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.5403286",
+            "longitude": "15.3562986"
+          },
+          "evse_id": "CZ*EON*E32175047*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "175048"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-04-06T06:30:29.597Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "244",
+                "245"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.5403286",
+            "longitude": "15.3562986"
+          },
+          "evse_id": "CZ*EON*E32175047*3",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "175049"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "MALL",
+        "SUPERMARKET",
+        "MUSEUM",
+        "BIKE_SHARING",
+        "BUS_STOP",
+        "TAXI_STAND",
+        "PARKING_LOT",
+        "FUEL_STATION",
+        "WIFI"
+      ],
+      "id": "177268",
+      "last_updated": "RESET",
+      "name": "(P) Fabrika hotel Humpolec DC",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "MHA, s.r.o."
+      },
+      "owner": {
+        "name": "MHA, s.r.o."
+      },
+      "party_id": "EON",
+      "postal_code": "396 01",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
@@ -10529,7 +10681,7 @@
   },
   "26970": {
     "name": "E.ON Český Krumlov P3",
-    "sha1": "81916734a9bd3d7a82b0537c5aee9206720f3666",
+    "sha1": "7c06d7d87b3f0c220fed34c2e10e5ad69cf1abeb",
     "station": {
       "address": "Městský Park ",
       "city": "Český Krumlov",
@@ -10578,7 +10730,7 @@
             "latitude": "48.807898",
             "longitude": "14.319379"
           },
-          "evse_id": "CZ*EON*E31026970*1",
+          "evse_id": "CZ*UFC*E31026970*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -10619,7 +10771,7 @@
             "latitude": "48.807898",
             "longitude": "14.319379"
           },
-          "evse_id": "CZ*EON*E31026970*2",
+          "evse_id": "CZ*UFC*E31026970*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -10655,7 +10807,7 @@
   },
   "26974": {
     "name": "E.ON Terno České Budějovice",
-    "sha1": "07962d06f232c9de69091684bf17ac8372b7db51",
+    "sha1": "86576f5c4501739c0867f52100144e37999c3fa8",
     "station": {
       "address": "Suchomelská 2251",
       "city": "České Budějovice",
@@ -10704,7 +10856,7 @@
             "latitude": "48.994143",
             "longitude": "14.471199"
           },
-          "evse_id": "CZ*EON*E31026974*1",
+          "evse_id": "CZ*UFC*E31026974*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -10745,7 +10897,7 @@
             "latitude": "48.994143",
             "longitude": "14.471199"
           },
-          "evse_id": "CZ*EON*E31026974*2",
+          "evse_id": "CZ*UFC*E31026974*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -10781,7 +10933,7 @@
   },
   "26979": {
     "name": "E.ON Frymburk",
-    "sha1": "f17f11b2d458cd074741e8f4545932d5f79e9409",
+    "sha1": "73570f176215b963985addb32fdd745f61604e40",
     "station": {
       "address": "Frymburk 78",
       "city": "Frymburk",
@@ -10830,7 +10982,7 @@
             "latitude": "48.66142548",
             "longitude": "14.165639"
           },
-          "evse_id": "CZ*EON*E31026979*1",
+          "evse_id": "CZ*UFC*E31026979*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -10871,7 +11023,7 @@
             "latitude": "48.66142548",
             "longitude": "14.165639"
           },
-          "evse_id": "CZ*EON*E31026979*2",
+          "evse_id": "CZ*UFC*E31026979*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -10908,7 +11060,7 @@
   },
   "26982": {
     "name": "E.ON Penzion u Méďů",
-    "sha1": "86e3dbee1098e0904f5d7087911929eed0731e04",
+    "sha1": "8726ffe8200ed53a4c376f24fe203e85870e1a02",
     "station": {
       "address": "Hůrka 72",
       "city": "Horní Planá",
@@ -10957,7 +11109,7 @@
             "latitude": "48.74511466",
             "longitude": "14.084177"
           },
-          "evse_id": "CZ*EON*E31026982*1",
+          "evse_id": "CZ*UFC*E31026982*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -10998,7 +11150,7 @@
             "latitude": "48.74511466",
             "longitude": "14.084177"
           },
-          "evse_id": "CZ*EON*E31026982*2",
+          "evse_id": "CZ*UFC*E31026982*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -11037,7 +11189,7 @@
   },
   "26987": {
     "name": "E.ON Volary",
-    "sha1": "9b25c65307333d4c06bc240923afeb7e0ee75628",
+    "sha1": "1a986ec6a6c0c22ebd699cdb15e6831fc32f38cc",
     "station": {
       "address": "Náměstí 24",
       "city": "Volary",
@@ -11086,7 +11238,7 @@
             "latitude": "48.91096328",
             "longitude": "13.89239687"
           },
-          "evse_id": "CZ*EON*E31026987*1",
+          "evse_id": "CZ*UFC*E31026987*1",
           "last_seen_as_planned": "2021-01-14T14:53:24.257Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -11127,7 +11279,7 @@
             "latitude": "48.91096328",
             "longitude": "13.89239687"
           },
-          "evse_id": "CZ*EON*E31026987*2",
+          "evse_id": "CZ*UFC*E31026987*2",
           "last_seen_as_planned": "2021-01-14T14:53:24.257Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -11166,7 +11318,7 @@
   },
   "26989": {
     "name": "E.ON Hluboká nad Vltavou",
-    "sha1": "cdcad1110cd5057e9669e0e36cdbebcdd4f99bfc",
+    "sha1": "31204a22a5b665c3cf60b6742cb44b064215fbb4",
     "station": {
       "address": "Nad Parkovištěm 969",
       "city": "Hluboká nad Vltavou",
@@ -11215,7 +11367,7 @@
             "latitude": "49.051111",
             "longitude": "14.431917"
           },
-          "evse_id": "CZ*EON*E31026989*1",
+          "evse_id": "CZ*UFC*E31026989*1",
           "last_seen_as_planned": "2021-04-21T07:03:53.993Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -11256,7 +11408,7 @@
             "latitude": "49.051111",
             "longitude": "14.431917"
           },
-          "evse_id": "CZ*EON*E31026989*2",
+          "evse_id": "CZ*UFC*E31026989*2",
           "last_seen_as_planned": "2021-04-21T07:03:53.993Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -11294,7 +11446,7 @@
   },
   "27397": {
     "name": "E.ON České Budějovice",
-    "sha1": "70d3626bd6f2f9e00ba9b102757b3d9a28d4d95b",
+    "sha1": "7a017cedf82b994415f3b236a6c557a8e0ea4036",
     "station": {
       "address": "U Koněspřežky",
       "city": "České Budějovice",
@@ -11343,7 +11495,7 @@
             "latitude": "48.97147",
             "longitude": "14.47202"
           },
-          "evse_id": "CZ*EON*E11027397*1",
+          "evse_id": "CZ*UFC*E11027397*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -11406,7 +11558,7 @@
             "latitude": "48.97147",
             "longitude": "14.47202"
           },
-          "evse_id": "CZ*EON*E11027397*2",
+          "evse_id": "CZ*UFC*E11027397*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -12612,7 +12764,7 @@
   },
   "28597": {
     "name": "E.ON Motorest Naháč",
-    "sha1": "38b7864aa7e606c1ee4f1677849f302b08c248b6",
+    "sha1": "4cce2ab7839b9ecfc207ee63fb715d22685e4418",
     "station": {
       "address": "Naháč 1",
       "city": "Chocerady",
@@ -12661,7 +12813,7 @@
             "latitude": "49.86218",
             "longitude": "14.79061"
           },
-          "evse_id": "CZ*EON*E11028596*1",
+          "evse_id": "CZ*UFC*E11028596*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -12724,7 +12876,7 @@
             "latitude": "49.86218",
             "longitude": "14.79061"
           },
-          "evse_id": "CZ*EON*E11028596*2",
+          "evse_id": "CZ*UFC*E11028596*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -14895,7 +15047,7 @@
   },
   "35467": {
     "name": "E.ON Kaplice",
-    "sha1": "25e72ca6ccf31cae5bbedf460d80ed23692cc178",
+    "sha1": "f6de58acff8dfd4108c74b039d9cee7f11c66cf5",
     "station": {
       "address": "Náměstí",
       "city": "Kaplice",
@@ -14944,7 +15096,7 @@
             "latitude": "48.738967",
             "longitude": "14.49401"
           },
-          "evse_id": "CZ*EON*E31035467*1",
+          "evse_id": "CZ*UFC*E31035467*1",
           "last_seen_as_planned": "2021-07-12T14:34:01.127Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -14985,7 +15137,7 @@
             "latitude": "48.738967",
             "longitude": "14.49401"
           },
-          "evse_id": "CZ*EON*E31035467*2",
+          "evse_id": "CZ*UFC*E31035467*2",
           "last_seen_as_planned": "2021-07-12T14:34:01.127Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -15021,7 +15173,7 @@
   },
   "35469": {
     "name": "E.ON Landal Marina Lipno",
-    "sha1": "0e5026b18a03756387639481d762a915ec091b14",
+    "sha1": "e16ce570315360c1a5bf3d262ae3432853f80183",
     "station": {
       "address": "Lipno nad Vltavou 310",
       "city": "Lipno nad Vltavou",
@@ -15070,7 +15222,7 @@
             "latitude": "48.6419305",
             "longitude": "14.21849516"
           },
-          "evse_id": "CZ*EON*E31035469*1",
+          "evse_id": "CZ*UFC*E31035469*1",
           "last_seen_as_planned": "2021-05-31T12:25:05.297Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -15111,7 +15263,7 @@
             "latitude": "48.6419305",
             "longitude": "14.21849516"
           },
-          "evse_id": "CZ*EON*E31035469*2",
+          "evse_id": "CZ*UFC*E31035469*2",
           "last_seen_as_planned": "2021-05-31T12:25:05.297Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -16592,7 +16744,7 @@
   },
   "35927": {
     "name": "E.ON Nové Hrady",
-    "sha1": "b10f2cd1c633f115aaac67af17f231479244fc40",
+    "sha1": "bea870280f2089b9a40bbd8e30de6fdfb33baa84",
     "station": {
       "address": "Jižní město",
       "city": "Nové hrady",
@@ -16641,7 +16793,7 @@
             "latitude": "48.78825043",
             "longitude": "14.78279243"
           },
-          "evse_id": "CZ*EON*E25035927*1",
+          "evse_id": "CZ*UFC*E25035927*1",
           "last_seen_as_planned": "2022-12-23T12:25:36.63Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -16682,7 +16834,7 @@
             "latitude": "48.78825043",
             "longitude": "14.78279243"
           },
-          "evse_id": "CZ*EON*E25035927*2",
+          "evse_id": "CZ*UFC*E25035927*2",
           "last_seen_as_planned": "2022-12-23T12:25:36.63Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -16717,7 +16869,7 @@
   },
   "35929": {
     "name": "E.ON Hojná Voda",
-    "sha1": "f36d5872fa1cf31f220f5ef9292291bd2fef6bdf",
+    "sha1": "0ea75b516dd131923d787479d58fa072a5a6548a",
     "station": {
       "address": "Hojná Voda 50",
       "city": "Horní Stropnice ",
@@ -16766,7 +16918,7 @@
             "latitude": "48.72903403",
             "longitude": "14.72789677"
           },
-          "evse_id": "CZ*EON*E25035929*1",
+          "evse_id": "CZ*UFC*E25035929*1",
           "last_seen_as_planned": "2022-01-18T11:10:36.833Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -16807,7 +16959,7 @@
             "latitude": "48.72903403",
             "longitude": "14.72789677"
           },
-          "evse_id": "CZ*EON*E25035929*2",
+          "evse_id": "CZ*UFC*E25035929*2",
           "last_seen_as_planned": "2022-01-18T11:10:36.833Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -16913,7 +17065,7 @@
   },
   "35933": {
     "name": "E.ON Parkhotel Hluboká nad Vltavou",
-    "sha1": "38c42b9f408476ffb283b0c2c1c16415e4bfb9e6",
+    "sha1": "06a30d47b420929c59f00cf644ddd31fcba8aab6",
     "station": {
       "address": "Masarykova 602",
       "city": "Hluboká nad Vltavou",
@@ -16962,7 +17114,7 @@
             "latitude": "49.05507084",
             "longitude": "14.42807045"
           },
-          "evse_id": "CZ*EON*E25035933*1",
+          "evse_id": "CZ*UFC*E25035933*1",
           "last_seen_as_planned": "2022-01-18T11:45:07.427Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -17003,7 +17155,7 @@
             "latitude": "49.05507084",
             "longitude": "14.42807045"
           },
-          "evse_id": "CZ*EON*E25035933*2",
+          "evse_id": "CZ*UFC*E25035933*2",
           "last_seen_as_planned": "2022-01-18T11:45:07.427Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -17438,7 +17590,7 @@
   },
   "35943": {
     "name": "E.ON České Velenice",
-    "sha1": "0d4ef5dbee8ae2111fc18c2621b762bb572f96d2",
+    "sha1": "85d6f33dcede949d9dfdb0c62d1ed4531063e4d0",
     "station": {
       "address": "T. G. Masaryka 227",
       "city": "České Velenice",
@@ -17487,7 +17639,7 @@
             "latitude": "48.76882852",
             "longitude": "14.96412476"
           },
-          "evse_id": "CZ*EON*E25035943*1",
+          "evse_id": "CZ*UFC*E25035943*1",
           "last_seen_as_planned": "2022-01-18T12:02:35.163Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -17528,7 +17680,7 @@
             "latitude": "48.76882852",
             "longitude": "14.96412476"
           },
-          "evse_id": "CZ*EON*E25035943*2",
+          "evse_id": "CZ*UFC*E25035943*2",
           "last_seen_as_planned": "2022-01-18T12:02:35.163Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -17559,7 +17711,7 @@
   },
   "35945": {
     "name": "E.ON Vyšší Brod",
-    "sha1": "0ec56f6acbe874786ff868f2419392f05347c425",
+    "sha1": "9964f149a2dcccda9ce6cb30a72d1eebd1ea173f",
     "station": {
       "address": "Míru 120",
       "city": "Vyšší Brod",
@@ -17608,7 +17760,7 @@
             "latitude": "48.62111047",
             "longitude": "14.31004945"
           },
-          "evse_id": "CZ*EON*E25035945*1",
+          "evse_id": "CZ*UFC*E25035945*1",
           "last_seen_as_planned": "2022-01-18T12:05:53.06Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -17649,7 +17801,7 @@
             "latitude": "48.62111047",
             "longitude": "14.31004945"
           },
-          "evse_id": "CZ*EON*E25035945*2",
+          "evse_id": "CZ*UFC*E25035945*2",
           "last_seen_as_planned": "2022-01-18T12:05:53.06Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -17916,7 +18068,7 @@
   },
   "35951": {
     "name": "E.ON Orsino Horní Planá",
-    "sha1": "61b20c8a7883dddff6b05eea09eb4a354aaee87a",
+    "sha1": "9cb29f6576c143917b4a80fd0e14f68771030142",
     "station": {
       "address": "Volarská 167",
       "city": "Horní Planá",
@@ -17965,7 +18117,7 @@
             "latitude": "48.76902169",
             "longitude": "14.02172933"
           },
-          "evse_id": "CZ*EON*E25035951*1",
+          "evse_id": "CZ*UFC*E25035951*1",
           "last_seen_as_planned": "2022-05-24T10:02:10.943Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -18006,7 +18158,7 @@
             "latitude": "48.76902169",
             "longitude": "14.02172933"
           },
-          "evse_id": "CZ*EON*E25035951*2",
+          "evse_id": "CZ*UFC*E25035951*2",
           "last_seen_as_planned": "2022-05-24T10:02:10.943Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -26312,7 +26464,7 @@
   },
   "51498": {
     "name": "E.ON Dolní Dvořiště",
-    "sha1": "e661efe16e6d9d073328c673d54122d4f176e4e2",
+    "sha1": "ec709f0de997d90819fbf961b42239dbf26d7be8",
     "station": {
       "address": "Dolní Dvořiště 225",
       "city": "Dolní Dvořiště",
@@ -26355,13 +26507,35 @@
                 "210",
                 "212"
               ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-04-06T22:01:51.24Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
             }
           ],
           "coordinates": {
             "latitude": "48.64843814",
             "longitude": "14.45338264"
           },
-          "evse_id": "CZ*EON*E32051498*1",
+          "evse_id": "CZ*UFC*E32051498*1",
           "last_seen_as_planned": "2021-09-09T20:19:14.5Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -26443,7 +26617,7 @@
             "latitude": "48.64843814",
             "longitude": "14.45338264"
           },
-          "evse_id": "CZ*EON*E32051498*3",
+          "evse_id": "CZ*UFC*E32051498*3",
           "last_seen_as_planned": "2021-09-09T20:19:14.5Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -26573,7 +26747,7 @@
   },
   "51504": {
     "name": "E.ON HochŠpalíček České Budějovice",
-    "sha1": "640e7f33e77bf045cccab0410371351860ef9e1d",
+    "sha1": "8f4c2387c935be643e5de7a8f387033ab1e6689c",
     "station": {
       "address": "Vltavské nábř. 688/3",
       "city": "České Budějovice",
@@ -26644,7 +26818,7 @@
             "latitude": "48.97708753",
             "longitude": "14.46528768"
           },
-          "evse_id": "CZ*EON*E32051504*1",
+          "evse_id": "CZ*UFC*E32051504*1",
           "last_seen_as_planned": "2023-02-15T14:47:18.17Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -26703,7 +26877,7 @@
             "latitude": "48.97708753",
             "longitude": "14.46528768"
           },
-          "evse_id": "CZ*EON*E32051504*3",
+          "evse_id": "CZ*UFC*E32051504*3",
           "last_seen_as_planned": "2023-02-15T14:47:18.17Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -26740,7 +26914,7 @@
   },
   "51507": {
     "name": "E.ON KIA České Budějovice",
-    "sha1": "e0874a891c0e26b154741e774d97db185cf85479",
+    "sha1": "cf08c8768f1b5b779f8a45298f905301705428e9",
     "station": {
       "address": "Okružní 2824",
       "city": "České Budějovice",
@@ -26811,7 +26985,7 @@
             "latitude": "48.99968863",
             "longitude": "14.49222646"
           },
-          "evse_id": "CZ*EON*E32051507*1",
+          "evse_id": "CZ*UFC*E32051507*1",
           "last_seen_as_planned": "2022-05-11T18:49:16.957Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -26871,7 +27045,7 @@
             "latitude": "48.99968863",
             "longitude": "14.49222646"
           },
-          "evse_id": "CZ*EON*E32051507*3",
+          "evse_id": "CZ*UFC*E32051507*3",
           "last_seen_as_planned": "2022-05-11T18:49:16.957Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -28822,7 +28996,7 @@
   },
   "51564": {
     "name": "E.ON Miličín",
-    "sha1": "f5205ef103ac74b7592a0be1c86c6ce45db98dc2",
+    "sha1": "aeffa3d3589de753cc2fe7b6f477a074be49f6a3",
     "station": {
       "address": "Miličín 1257/29",
       "city": "Miličín",
@@ -28893,7 +29067,7 @@
             "latitude": "49.57265189",
             "longitude": "14.6587234"
           },
-          "evse_id": "CZ*EON*E32051564*1",
+          "evse_id": "CZ*UFC*E32051564*1",
           "last_seen_as_planned": "2022-05-27T13:14:14.53Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -28952,7 +29126,7 @@
             "latitude": "49.57265189",
             "longitude": "14.6587234"
           },
-          "evse_id": "CZ*EON*E32051564*3",
+          "evse_id": "CZ*UFC*E32051564*3",
           "last_seen_as_planned": "2022-05-27T13:14:14.53Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -29015,7 +29189,7 @@
             "latitude": "49.57265189",
             "longitude": "14.6587234"
           },
-          "evse_id": "CZ*EON*E32051567*1",
+          "evse_id": "CZ*UFC*E32051567*1",
           "last_seen_as_planned": "2022-05-27T13:14:14.53Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -29074,7 +29248,7 @@
             "latitude": "49.57265189",
             "longitude": "14.6587234"
           },
-          "evse_id": "CZ*EON*E32051567*3",
+          "evse_id": "CZ*UFC*E32051567*3",
           "last_seen_as_planned": "2022-05-27T13:14:14.53Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -30005,7 +30179,7 @@
   },
   "53790": {
     "name": "E.ON Penny Přelouč",
-    "sha1": "794028a9837fcb250692bd5fe1ef01d5cfd33548",
+    "sha1": "997612546c22eca1b296e4bddab2d0b740463f7e",
     "station": {
       "address": "28. října 1531",
       "city": "Přelouč",
@@ -30076,7 +30250,7 @@
             "latitude": "50.0378775",
             "longitude": "15.5641697"
           },
-          "evse_id": "CZ*EON*E98053790*1",
+          "evse_id": "CZ*UFC*E98053790*1",
           "last_seen_as_planned": "2021-03-31T10:54:37.82Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -30117,7 +30291,7 @@
             "latitude": "50.0378775",
             "longitude": "15.5641697"
           },
-          "evse_id": "CZ*EON*E98053790*2",
+          "evse_id": "CZ*UFC*E98053790*2",
           "last_seen_as_planned": "2021-03-26T08:33:57.69Z",
           "last_updated": "RESET",
           "status": "RESET",
