@@ -22567,6 +22567,298 @@
       "visible": true
     }
   },
+  "175429": {
+    "name": "R488 - Černá v Pošumaví - parkoviště - autobusové nádraží - 1",
+    "sha1": "bbc17757b280d9ab7a94051cc955404a60c33fbb",
+    "station": {
+      "address": {
+        "city": "Černá v Pošumaví",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "autobusové nádraží",
+        "latitude": 48.7378278,
+        "longitude": 14.1092289,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Parkoviště",
+        "url": ""
+      },
+      "customID": "175429",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2622-027",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R488"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-027",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2622-027",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R488"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/04/1e4e334b-2c91-4a50-9d36-708a39b936c1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R488 - Černá v Pošumaví - parkoviště - autobusové nádraží - 1",
+      "visible": true
+    }
+  },
+  "175430": {
+    "name": "R489 - Černá v Pošumaví - parkoviště - autobusové nádraží - 2",
+    "sha1": "7508a2f9e7f976730bcd25013af6a811c1a846d5",
+    "station": {
+      "address": {
+        "city": "Černá v Pošumaví",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "autobusové nádraží",
+        "latitude": 48.7378278,
+        "longitude": 14.1092289,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Parkoviště",
+        "url": ""
+      },
+      "customID": "175430",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2522-011",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R489"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2522-011",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2522-011",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R489"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/04/1e4e334b-2c91-4a50-9d36-708a39b936c1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R489 - Černá v Pošumaví - parkoviště - autobusové nádraží - 2",
+      "visible": true
+    }
+  },
+  "175431": {
+    "name": "R514 - Kolín - Tesco - 1",
+    "sha1": "2fc2f76d727796376ca7e249b962497b22faaf09",
+    "station": {
+      "address": {
+        "city": "Kolín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kasárnách 1019",
+        "latitude": 50.0327956,
+        "longitude": 15.1893517,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "V",
+        "url": ""
+      },
+      "customID": "175431",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-IT3-3622-314",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R514"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT3-3622-314",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT3-3622-314",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R514"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/04/1-20230411-095303.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R514 - Kolín - Tesco - 1",
+      "visible": true
+    }
+  },
+  "175432": {
+    "name": "R515 - Kolín - Tesco - 2",
+    "sha1": "1b3c154e78ada979402993499745199959de333b",
+    "station": {
+      "address": {
+        "city": "Kolín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kasárnách 1019",
+        "latitude": 50.0327956,
+        "longitude": 15.1893517,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "V",
+        "url": ""
+      },
+      "customID": "175432",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-IT3-3622-316",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R515"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT3-3622-316",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT3-3622-316",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R515"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/04/1-20230411-095303.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R515 - Kolín - Tesco - 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
