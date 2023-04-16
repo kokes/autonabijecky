@@ -1,4 +1,58 @@
 {
+  "AT9189126": {
+    "name": "Ladestation Prague City Golf Zbraslav I + II, III",
+    "sha1": "2c068e5813251d929bf762c6c3e38c957f9c4ee4",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "AT9189126",
+      "csName": "Ladestation Prague City Golf Zbraslav I + II, III",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Prague City Golf Zbraslav I + II, III",
+      "evseId": "CZ*PRE*E1S8184*6",
+      "geoCoord": {
+        "latitude": "49.959917",
+        "longitude": "14.349661"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64396073f4b8a750ff79c121/imgonline-com-ua-resize-H5kV9dgYPWssXuUC.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64396073f4b8a750ff79c121/imgonline-com-ua-resize-MaBRsAbogSqT.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15531",
+      "region": "Hlavní město Praha",
+      "street": "Oddechová"
+    }
+  },
   "CZ1002102": {
     "name": "Ladestation [TEST] PRE",
     "sha1": "a54db729049950d5489e177ab7308cd441d3c919",
@@ -18565,6 +18619,92 @@
       "postalCode": "70300",
       "region": "Moravskoslezský kraj",
       "street": "Rudná 2978/11"
+    }
+  },
+  "CZ8985363": {
+    "name": "Ladestation Hamr Sport Modřany",
+    "sha1": "574c36f8359067cf97301786469e9b8f779c66f8",
+    "station": {
+      "additionalInfo": "test",
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8985363",
+      "csName": "Ladestation Hamr Sport Modřany",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "test",
+      "enCsname": "Charger Hamr Sport Modřany",
+      "evseId": "CZ*PRE*E1S8133*2",
+      "geoCoord": {
+        "latitude": "50.027376",
+        "longitude": "14.403497"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14700",
+      "region": "Hlavní město Praha",
+      "street": "Vltavanů"
+    }
+  },
+  "CZ9624272": {
+    "name": "Ladestation SUAS 1",
+    "sha1": "ef32fd7675e5569d3f62d9a8940f26aa636d8617",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Dolní Rychnov",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9624272",
+      "csName": "Ladestation SUAS 1",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger SUAS 1",
+      "evseId": "CZ*PRE*E0S0043*2",
+      "geoCoord": {
+        "latitude": "50.159568",
+        "longitude": "12.666386"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "356 04",
+      "region": "Karlovarský kraj",
+      "street": "Ke Golfu"
     }
   }
 }
