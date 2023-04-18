@@ -18907,7 +18907,7 @@
   },
   "35965": {
     "name": "E.ON Kleť",
-    "sha1": "9a747762e539fa444c22f4faadac5bb3b367cb6e",
+    "sha1": "e2eda62d54e5f2c43baf2857003ff1de2ebdf981",
     "station": {
       "address": "Holubov 242",
       "city": "Kleť",
@@ -18928,12 +18928,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-04-17T22:01:37.267Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.87860373",
             "longitude": "14.30098664"
           },
-          "evse_id": "CZ*EON*E25035965*1",
+          "evse_id": "CZ*UFC*E25035965*1",
           "last_seen_as_planned": "2022-01-18T12:47:37.077Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -18946,12 +18969,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-04-17T22:01:37.267Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.87860373",
             "longitude": "14.30098664"
           },
-          "evse_id": "CZ*EON*E25035965*2",
+          "evse_id": "CZ*UFC*E25035965*2",
           "last_seen_as_planned": "2022-01-18T12:47:37.077Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -19110,7 +19156,7 @@
   },
   "35969": {
     "name": "E.ON Kvilda",
-    "sha1": "80e266dc11fad299f228abe7b42a14b826263e6b",
+    "sha1": "5296c7e0dd7b2a90ad4f24cc4f4e980c69d90104",
     "station": {
       "address": "Kvilda 162",
       "city": "Kvilda",
@@ -19131,12 +19177,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-04-17T22:01:37.267Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.01768837",
             "longitude": "13.58038967"
           },
-          "evse_id": "CZ*EON*E25035969*1",
+          "evse_id": "CZ*UFC*E25035969*1",
           "last_seen_as_planned": "2022-01-18T13:05:11.303Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -19149,12 +19218,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-04-17T22:01:37.267Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.01768837",
             "longitude": "13.58038967"
           },
-          "evse_id": "CZ*EON*E25035969*2",
+          "evse_id": "CZ*UFC*E25035969*2",
           "last_seen_as_planned": "2022-01-18T13:05:11.303Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -19167,12 +19259,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-04-17T22:01:37.267Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.01768837",
             "longitude": "13.58038967"
           },
-          "evse_id": "CZ*EON*E25035971*1",
+          "evse_id": "CZ*UFC*E25035971*1",
           "last_seen_as_planned": "2022-01-18T13:05:11.303Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -19185,12 +19300,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-04-17T22:01:37.267Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.01768837",
             "longitude": "13.58038967"
           },
-          "evse_id": "CZ*EON*E25035971*2",
+          "evse_id": "CZ*UFC*E25035971*2",
           "last_seen_as_planned": "2022-01-18T13:05:11.303Z",
           "last_updated": "RESET",
           "status": "RESET",
