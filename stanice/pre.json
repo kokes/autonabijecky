@@ -17119,12 +17119,12 @@
   },
   "CZ6404624": {
     "name": "Schnellladestation IKEA Brno",
-    "sha1": "5014c28b0e06e4edd18acc4a18fbd20eebfdf946",
+    "sha1": "beb03237299f95e5104060055a76da73f19936f5",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤75kW"
+          "380 - 480V, 3-Phase ≤16A"
         ]
       },
       "city": "Brno",
@@ -17135,7 +17135,7 @@
       "csStatus": "operable",
       "csType": "fast_charger",
       "enCsname": "Fast charger IKEA Brno",
-      "evseId": "CZ*PRE*E1R0066*1",
+      "evseId": "CZ*PRE*E1S0066*8",
       "geoCoord": {
         "latitude": "49.154896",
         "longitude": "16.628691"
@@ -17149,9 +17149,9 @@
       "partnerName": "PRE",
       "plugs": [
         {
-          "connectorFormat": "Cable",
-          "connectorStandard": "IEC-62196-T2-COMBO",
-          "plug": "CCS Combo 2 Plug (Cable Attached)"
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
         }
       ],
       "postalCode": "61900",
@@ -18665,6 +18665,55 @@
       "street": "Vltavanů"
     }
   },
+  "CZ9162726": {
+    "name": "Ladestation OREA Hotel Santon",
+    "sha1": "77b8b0f091e643928592da056d90c69f680d5e2d",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Brno",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9162726",
+      "csName": "Ladestation OREA Hotel Santon",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger OREA Hotel Santon",
+      "evseId": "CZ*PRE*E1S8186*2",
+      "geoCoord": {
+        "latitude": "49.230873",
+        "longitude": "16.518557"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643d7e1cf4b8a750ff79c206/imgonline-com-ua-resize-GqwUnKNe7R.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "63500",
+      "region": "Jihomoravský kraj",
+      "street": "Přístavní"
+    }
+  },
   "CZ9624272": {
     "name": "Ladestation SUAS 1",
     "sha1": "ef32fd7675e5569d3f62d9a8940f26aa636d8617",
@@ -18705,6 +18754,48 @@
       "postalCode": "356 04",
       "region": "Karlovarský kraj",
       "street": "Ke Golfu"
+    }
+  },
+  "CZ9979120": {
+    "name": "Ladestation Golf Club Hodkovičky, z.s.",
+    "sha1": "284dcc5448c0c0bfe2c666959593f45c78b2569c",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9979120",
+      "csName": "Ladestation Golf Club Hodkovičky, z.s.",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Golf Club Hodkovičky, z.s.",
+      "evseId": "CZ*PRE*E1S8139*2",
+      "geoCoord": {
+        "latitude": "50.026164",
+        "longitude": "14.402148"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15531",
+      "region": "Hlavní město Praha",
+      "street": "Vltavanů 546"
     }
   }
 }
