@@ -2896,7 +2896,7 @@
   },
   "127563": {
     "name": "E.ON ČSAD Strakonice",
-    "sha1": "7ac858d02a5833aacdf317de5974cfd780504ab3",
+    "sha1": "1ac5958b4940c769e59344c6eebeda2ee7a98298",
     "station": {
       "address": "U Nádraží 1315",
       "city": "Strakonice",
@@ -2917,12 +2917,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-04-24T22:01:42.573Z",
+              "max_amperage": 125,
+              "max_electric_power": 90000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.25570438",
             "longitude": "13.91567868"
           },
-          "evse_id": "CZ*EON*E127563",
+          "evse_id": "CZ*UFC*E98127563*1",
           "last_seen_as_planned": "2022-04-08T11:24:22.943Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -2935,12 +2958,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-04-24T22:01:42.573Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.25570438",
             "longitude": "13.91567868"
           },
-          "evse_id": "CZ*EON*E127564",
+          "evse_id": "CZ*UFC*E98127563*2",
           "last_seen_as_planned": "2022-04-08T11:24:22.943Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -2953,12 +2999,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-04-24T22:01:42.573Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.25570438",
             "longitude": "13.91567868"
           },
-          "evse_id": "CZ*EON*E127565",
+          "evse_id": "CZ*UFC*E98127563*3",
           "last_seen_as_planned": "2022-04-08T11:24:22.943Z",
           "last_updated": "RESET",
           "status": "RESET",
