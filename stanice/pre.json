@@ -142,8 +142,8 @@
     }
   },
   "CZ1002595": {
-    "name": "Ladestation Vienna House Andel’s Prague",
-    "sha1": "cd8a393e9efe55d95ba9a2621e142cef0d017d68",
+    "name": "Ladestation Ladestation Vienna House Andel’s Pragu",
+    "sha1": "c6e17af30422ccd7000f16884600666f0a2b4cf3",
     "station": {
       "additionalInfo": "Von der Straße Stroupeznickeho, Ebene -2. Nach der Einfahrt in den öffentlichen Teil biegen Sie rechts ab und fahren in den Hotelteil. Das Parkticket muss vor der Hotelgarage erneut gescannt werden.",
       "branch": "Parken",
@@ -156,11 +156,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1002595",
-      "csName": "Ladestation Vienna House Andel’s Prague",
+      "csName": "Ladestation Ladestation Vienna House Andel’s Pragu",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "From the street Stroupeznickeho, -2 level. After entering public part of the garage, turn right and access hotel part. Parking ticket needs to be scanned again in front of the hotel garage.",
-      "enCsname": "Charger Vienna House Andel’s Prague",
+      "enCsname": "Charger Charger Vienna House Andel’s Prague",
       "enExtra": "Paid parking as per hotel’s pricelist, parking ticket will be validated at the hotel reception.",
       "evseId": "CZ*PRE*E1S0048*1",
       "extra": "Bezahltes Parken laut Preisliste des Hotels, das Parkticket wird an der Hotelrezeption entwertet.",
@@ -174,7 +174,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_vienna_house_andels_prague.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643653e9f4b8a750ff79b978/pre_app_vienna_house_andels_prague.jpg"
         }
       ],
       "isHome": true,
@@ -695,8 +695,8 @@
     }
   },
   "CZ1002606": {
-    "name": "Ultra-Highspeed-Ladestation Lidl Čakovice",
-    "sha1": "fd824280e9b99a931df023d2b1639ac76fe9d769",
+    "name": "Ultra-Highspeed-Ladestation Ultra-Highspeed-Ladest",
+    "sha1": "87c861072c52b547077143aa1d057c8c0a7b879a",
     "station": {
       "additionalInfo": "Von der Schoellerova Straße und auf dem Parkplatz des Supermarktes Lidl",
       "branch": "Parken",
@@ -709,11 +709,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1002606",
-      "csName": "Ultra-Highspeed-Ladestation Lidl Čakovice",
+      "csName": "Ultra-Highspeed-Ladestation Ultra-Highspeed-Ladest",
       "csStatus": "operable",
       "csType": "ultra_fast_charger",
       "enAdditionalInfo": "From the Schoellerova street and at the parking lot of Lidl supermarket",
-      "enCsname": "Ultra-highspeed charger Lidl Čakovice",
+      "enCsname": "Ultra-highspeed charger Ultra-highspeed charger Li",
       "evseId": "CZ*PRE*E1R0037*2",
       "geoCoord": {
         "latitude": "50.155861",
@@ -725,7 +725,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_lidl_cakovice_3.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643653e8f4b8a750ff79b94a/pre_app_lidl_cakovice_3.jpg"
         }
       ],
       "isHome": true,
@@ -735,37 +735,37 @@
       "openingTimes": [
         {
           "from": "05:00",
-          "to": "00:00",
+          "to": "23:59",
           "wDay": "MO"
         },
         {
           "from": "05:00",
-          "to": "00:00",
+          "to": "23:59",
           "wDay": "TU"
         },
         {
           "from": "05:00",
-          "to": "00:00",
+          "to": "23:59",
           "wDay": "WE"
         },
         {
           "from": "05:00",
-          "to": "00:00",
+          "to": "23:59",
           "wDay": "TH"
         },
         {
           "from": "05:00",
-          "to": "00:00",
+          "to": "23:59",
           "wDay": "FR"
         },
         {
           "from": "05:00",
-          "to": "00:00",
+          "to": "23:59",
           "wDay": "SA"
         },
         {
           "from": "05:00",
-          "to": "00:00",
+          "to": "23:59",
           "wDay": "SU"
         }
       ],
@@ -783,8 +783,8 @@
     }
   },
   "CZ1002607": {
-    "name": "Schnellladestation OC Šestka",
-    "sha1": "4a18866cfe50c258cdad6e28da43fe3ec44d0a64",
+    "name": "Schnellladestation Schnellladestation OC Šestka",
+    "sha1": "07174250b780532e519e10b886c9424795afb2e4",
     "station": {
       "additionalInfo": "Dachgarage vom OC Šestka Einkaufszentrum",
       "branch": "Parken",
@@ -797,11 +797,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1002607",
-      "csName": "Schnellladestation OC Šestka",
+      "csName": "Schnellladestation Schnellladestation OC Šestka",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "Roof parking lot of OC Šestka shopping centre",
-      "enCsname": "Fast charger OC Šestka",
+      "enCsname": "Fast charger Fast charger OC Šestka",
       "evseId": "CZ*PRE*E1R0013*3",
       "geoCoord": {
         "latitude": "50.093356",
@@ -813,7 +813,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_oc_sestka.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643653e9f4b8a750ff79b9f9/pre_app_oc_sestka.jpg"
         }
       ],
       "isHome": true,
@@ -1855,8 +1855,8 @@
     }
   },
   "CZ1002639": {
-    "name": "Ladestation IKEA Zličín",
-    "sha1": "57082c094554ee92da05c2a1cdb39b74a3daaba4",
+    "name": "Ladestation Ladestation IKEA Zličín",
+    "sha1": "f79289c316927e8d238357d8ff69af63b551d626",
     "station": {
       "additionalInfo": "IKEA-Parkplatz",
       "branch": "Parken",
@@ -1869,11 +1869,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1002639",
-      "csName": "Ladestation IKEA Zličín",
+      "csName": "Ladestation Ladestation IKEA Zličín",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "IKEA parking lot",
-      "enCsname": "Charger IKEA Zličín",
+      "enCsname": "Charger Charger IKEA Zličín",
       "evseId": "CZ*PRE*E1S0064*2",
       "geoCoord": {
         "latitude": "50.051222",
@@ -1885,7 +1885,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ikea_zlicin.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc30/pre_app_ikea_zlicin.jpg"
         }
       ],
       "isHome": true,
@@ -5572,8 +5572,8 @@
     }
   },
   "CZ1003049": {
-    "name": "Ladestation Dock Marina Boulevard",
-    "sha1": "e4256df1469f07b8624a3d4f490080cd73649185",
+    "name": "Ladestation Ladestation Dock Marina Boulevard",
+    "sha1": "0b37735767660ba0d891b06d368479d782869cb4",
     "station": {
       "additionalInfo": "Povinnost při vjezdu na parkoviště využít tlačítko interkomu umístněné na vjezdovém sloupku do areálu DOCK.",
       "branch": "unbekannt",
@@ -5586,11 +5586,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003049",
-      "csName": "Ladestation Dock Marina Boulevard",
+      "csName": "Ladestation Ladestation Dock Marina Boulevard",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Please use the intercom button at the entrance to the DOCK complex when entering the car park.",
-      "enCsname": "Charger Dock Marina Boulevard",
+      "enCsname": "Charger Charger Dock Marina Boulevard",
       "enExtra": "The use of the charging station and staying in the parking lot will be allowed only if there is charge point available and the charging time does not exceed 2 hours.",
       "evseId": "CZ*PRE*E1S0057*2",
       "extra": "Užití dobíjecí stanice a setrvání na parkovišti bude umožněno jen v případě, že bude volné místo u dobíjecí stanice a doba nabíjení nepřesáhne 2 hodiny.",
@@ -5604,7 +5604,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_dock_marina_boulevard.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a3d6/pre_app_dock_marina_boulevard.jpg"
         }
       ],
       "isHome": true,
@@ -5896,8 +5896,8 @@
     }
   },
   "CZ1003088": {
-    "name": "Ladestation Německá škola v Praze",
-    "sha1": "29b53a97dc969d51184cc4ef81a00cf7a4926d38",
+    "name": "Ladestation Ladestation Německá škola v Praze",
+    "sha1": "6f8a0c252f9ae60b193dff4dfafe164437e4c8e1",
     "station": {
       "additionalInfo": "Auf dem Parkplatz neben der Deutschen Schule",
       "branch": "Parken",
@@ -5910,11 +5910,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003088",
-      "csName": "Ladestation Německá škola v Praze",
+      "csName": "Ladestation Ladestation Německá škola v Praze",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Parking lot next to the German school",
-      "enCsname": "Charger Německá škola v Praze",
+      "enCsname": "Charger Charger Německá škola v Praze",
       "evseId": "CZ*PRE*E1S8168*2",
       "geoCoord": {
         "latitude": "50.055109",
@@ -5926,7 +5926,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_nemecka_skola.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79acaf/pre_app_nemecka_skola.jpg"
         }
       ],
       "isHome": true,
@@ -5947,8 +5947,8 @@
     }
   },
   "CZ1003145": {
-    "name": "Ladestation TS 722 Františkova",
-    "sha1": "d536d435068f3949a8a37abeb7912ad6a383492d",
+    "name": "Ladestation Ladestation TS 722 Františkova",
+    "sha1": "47c73283f98a1454abc5d915702b51c7fd54a8e0",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 722",
       "branch": "unbekannt",
@@ -5961,11 +5961,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003145",
-      "csName": "Ladestation TS 722 Františkova",
+      "csName": "Ladestation Ladestation TS 722 Františkova",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station TS 722",
-      "enCsname": "Charger TS 722 Františkova",
+      "enCsname": "Charger Charger TS 722 Františkova",
       "evseId": "CZ*PRE*E1S8027*2",
       "geoCoord": {
         "latitude": "50.105911",
@@ -5977,7 +5977,7 @@
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_722_frantiskova.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ebf4b8a750ff79a125/pre_app_ts_722_frantiskova.jpeg"
         }
       ],
       "isHome": true,
@@ -6100,8 +6100,8 @@
     }
   },
   "CZ1003160": {
-    "name": "Schnellladestation Hotel Stages Praha",
-    "sha1": "09dcf239ab84340c4910cfa29f6155574311afa6",
+    "name": "Schnellladestation Schnellladestation Hotel Stages",
+    "sha1": "c5867fe0725a4b3eb71cca58df8fd139c4891823",
     "station": {
       "additionalInfo": "Vor dem Stages Hotel",
       "branch": "Hotel",
@@ -6114,11 +6114,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003160",
-      "csName": "Schnellladestation Hotel Stages Praha",
+      "csName": "Schnellladestation Schnellladestation Hotel Stages",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "Infront of the Hotel Stages",
-      "enCsname": "Fast charger Hotel Stages Praha",
+      "enCsname": "Fast charger Fast charger Hotel Stages Praha",
       "evseId": "CZ*PRE*E1R0033*2",
       "geoCoord": {
         "latitude": "50.104244",
@@ -6130,7 +6130,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_hotel_stages.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a3fa/pre_app_hotel_stages.jpg"
         }
       ],
       "isHome": true,
@@ -6151,8 +6151,8 @@
     }
   },
   "CZ1003162": {
-    "name": "Ladestation OC Bořislavka",
-    "sha1": "fdcab3f1a58c9b77e372d26c104e9ff7f2639541",
+    "name": "Ladestation Ladestation OC Bořislavka",
+    "sha1": "8efdaa4314b78f421095db8fc4e7a61408ebeb7a",
     "station": {
       "additionalInfo": "In den Tiefgaragen des OC Bořislavka",
       "branch": "Parken",
@@ -6165,11 +6165,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003162",
-      "csName": "Ladestation OC Bořislavka",
+      "csName": "Ladestation Ladestation OC Bořislavka",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "In the OC Bořislavka underground garages",
-      "enCsname": "Charger OC Bořislavka",
+      "enCsname": "Charger Charger OC Bořislavka",
       "evseId": "CZ*PRE*E1S8023*2",
       "geoCoord": {
         "latitude": "50.098274",
@@ -6181,7 +6181,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_oc_borislavka.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a3b2/pre_app_oc_borislavka.jpg"
         }
       ],
       "isHome": true,
@@ -6246,8 +6246,8 @@
     }
   },
   "CZ1003183": {
-    "name": "Ladestation P+R Černý Most",
-    "sha1": "1b4eb4af278a7d70c0340071be2a74c22e88a3df",
+    "name": "Ladestation Ladestation P+R Černý Most",
+    "sha1": "3502d87a411b6bade8e3274caa46b962d28f35e2",
     "station": {
       "additionalInfo": "P+R Černý Most, nach dem Eingangstor.",
       "branch": "Parken",
@@ -6260,11 +6260,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003183",
-      "csName": "Ladestation P+R Černý Most",
+      "csName": "Ladestation Ladestation P+R Černý Most",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "P+R Černý Most, after entrance gate. Free time component for 12 hours",
-      "enCsname": "Charger P+R Černý Most",
+      "enCsname": "Charger Charger P+R Černý Most",
       "enExtra": "Volná časová složka po dobu 12 hodin",
       "evseId": "CZ*PRE*E1S0061*2",
       "extra": "Volná časová složka po dobu 12 hodin",
@@ -6278,7 +6278,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_pr_cerny_most.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365398f4b8a750ff79b05b/pre_app_pr_cerny_most.jpg"
         }
       ],
       "isHome": true,
@@ -6350,8 +6350,8 @@
     }
   },
   "CZ1003198": {
-    "name": "Ladestation TS 2283 Nad lesním divadlem",
-    "sha1": "9d1f83250deb84852f04e16939aa3bcf13cf8cd8",
+    "name": "Ladestation Ladestation TS 2283 Nad lesním divadle",
+    "sha1": "ec2b8ca98126aa61c1aee12613c35be8633c25af",
     "station": {
       "additionalInfo": "Neben der Transformationsstation TS 2283",
       "branch": "Parken",
@@ -6364,11 +6364,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003198",
-      "csName": "Ladestation TS 2283 Nad lesním divadlem",
+      "csName": "Ladestation Ladestation TS 2283 Nad lesním divadle",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Next to the transformation station number TS 2283",
-      "enCsname": "Charger TS 2283 Nad lesním divadlem",
+      "enCsname": "Charger Charger TS 2283 Nad lesním divadlem",
       "evseId": "CZ*PRE*E1S8119*1",
       "geoCoord": {
         "latitude": "50.026222",
@@ -6380,7 +6380,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_2283_nad_lesnim_divadlem.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436537af4b8a750ff79ad7d/pre_app_ts_2283_nad_lesnim_divadlem.jpg"
         }
       ],
       "isHome": true,
@@ -6452,8 +6452,8 @@
     }
   },
   "CZ1003218": {
-    "name": "Ultra-Highspeed-Ladestation Pivovar Spojovna",
-    "sha1": "e82398eed5ee9769284591821043a03ccbea63b5",
+    "name": "Ultra-Highspeed-Ladestation Ultra-Highspeed-Ladest",
+    "sha1": "a08398b91216de9de79907d2a384c986a7dfb3c0",
     "station": {
       "additionalInfo": "Vor dem Restaurant Pivovar Spojovna",
       "branch": "Restaurant",
@@ -6466,11 +6466,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003218",
-      "csName": "Ultra-Highspeed-Ladestation Pivovar Spojovna",
+      "csName": "Ultra-Highspeed-Ladestation Ultra-Highspeed-Ladest",
       "csStatus": "operable",
       "csType": "ultra_fast_charger",
       "enAdditionalInfo": "Infront of the Pivovar Spojovna restaurant",
-      "enCsname": "Ultra-highspeed charger Pivovar Spojovna",
+      "enCsname": "Ultra-highspeed charger Ultra-highspeed charger Pi",
       "evseId": "CZ*PRE*E1R0035*4",
       "geoCoord": {
         "latitude": "50.020435",
@@ -6482,7 +6482,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_pivovar_spojovna.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aa9f/pre_app_pivovar_spojovna.jpg"
         }
       ],
       "isHome": true,
@@ -6547,8 +6547,8 @@
     }
   },
   "CZ1003266": {
-    "name": "Ladestation TS 2011 Donovalská",
-    "sha1": "38c6d3649125940046bbaa865eb032c5f4b02abf",
+    "name": "Ladestation Ladestation TS 2011 Donovalská",
+    "sha1": "6b13213af57a35ca6273b59421cf56cdf0b7d688",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2011",
       "branch": "Parken",
@@ -6561,11 +6561,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003266",
-      "csName": "Ladestation TS 2011 Donovalská",
+      "csName": "Ladestation Ladestation TS 2011 Donovalská",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station TS 2011",
-      "enCsname": "Charger TS 2011 Donovalská",
+      "enCsname": "Charger Charger TS 2011 Donovalská",
       "evseId": "CZ*PRE*E1S8042*1",
       "geoCoord": {
         "latitude": "50.036531",
@@ -6577,7 +6577,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_2011_donovalska.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365308f4b8a750ff79a31d/pre_app_ts_2011_donovalska.jpg"
         }
       ],
       "isHome": true,
@@ -6933,8 +6933,8 @@
     }
   },
   "CZ1003298": {
-    "name": "Ladestation Radotín - Sídliště",
-    "sha1": "46f7fa93d28d5ba33f36e485d0ea3aae6a855afa",
+    "name": "Ladestation Ladestation Radotín - Sídliště",
+    "sha1": "79492682e45c569d77f8a376cc89c4e68e92ba67",
     "station": {
       "additionalInfo": "In der Wohnsiedlung Radotín",
       "branch": "Parken",
@@ -6947,11 +6947,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003298",
-      "csName": "Ladestation Radotín - Sídliště",
+      "csName": "Ladestation Ladestation Radotín - Sídliště",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "At Radotín housing development",
-      "enCsname": "Charger Radotín - Sídliště",
+      "enCsname": "Charger Charger Radotín - Sídliště",
       "evseId": "CZ*PRE*E1S8095*2",
       "geoCoord": {
         "latitude": "49.980032",
@@ -6963,7 +6963,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_radotin_-_sidliste_1.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436535af4b8a750ff79ab1f/pre_app_radotin_-_sidliste_1.jpg"
         }
       ],
       "isHome": true,
@@ -6984,8 +6984,8 @@
     }
   },
   "CZ1003299": {
-    "name": "Ladestation TS 751 Šebelova",
-    "sha1": "5d0febd7cf682cc02486dca6122cd3db88e5b864",
+    "name": "Ladestation Ladestation TS 751 Šebelova",
+    "sha1": "6708d327c7fe8400df8e5503625335141a87fb96",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 751",
       "branch": "Parken",
@@ -6998,11 +6998,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003299",
-      "csName": "Ladestation TS 751 Šebelova",
+      "csName": "Ladestation Ladestation TS 751 Šebelova",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Next to the transformation station number TS 751",
-      "enCsname": "Charger TS 751 Šebelova",
+      "enCsname": "Charger Charger TS 751 Šebelova",
       "evseId": "CZ*PRE*E1S8127*2",
       "geoCoord": {
         "latitude": "50.105151",
@@ -7014,7 +7014,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_751_sebelova.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652eaf4b8a750ff79a0cb/pre_app_ts_751_sebelova.jpg"
         }
       ],
       "isHome": true,
@@ -7137,8 +7137,8 @@
     }
   },
   "CZ1003302": {
-    "name": "Ladestation Dělnická",
-    "sha1": "0ddd99f1b25a9da0c54db24c8bbbcd4c691ae293",
+    "name": "Ladestation Ladestation Dělnická",
+    "sha1": "e2468eecd8f5cfb444a4abcee9d607d32b104cfc",
     "station": {
       "additionalInfo": "An der Kreuzung Dělnická und Osadní",
       "branch": "Parken",
@@ -7151,11 +7151,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003302",
-      "csName": "Ladestation Dělnická",
+      "csName": "Ladestation Ladestation Dělnická",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "On crossroad of Dělnická street and Osadní",
-      "enCsname": "Charger Dělnická",
+      "enCsname": "Charger Charger Dělnická",
       "evseId": "CZ*PRE*E1S0062*1",
       "geoCoord": {
         "latitude": "50.103026",
@@ -7167,7 +7167,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_delnicka.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa64/pre_app_delnicka.jpg"
         }
       ],
       "isHome": true,
@@ -7237,8 +7237,8 @@
     }
   },
   "CZ1003309": {
-    "name": "Ladestation TS 3840 Dědinská",
-    "sha1": "557388e8f25a56885c29122648808649bbe21f58",
+    "name": "Ladestation Ladestation TS 3840 Dědinská",
+    "sha1": "5a202ff64d473e803ca7e75f1bfe828ae60385bf",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3840",
       "branch": "Parken",
@@ -7251,11 +7251,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003309",
-      "csName": "Ladestation TS 3840 Dědinská",
+      "csName": "Ladestation Ladestation TS 3840 Dědinská",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Next to the transformation station number TS 3840",
-      "enCsname": "Charger TS 3840 Dědinská",
+      "enCsname": "Charger Charger TS 3840 Dědinská",
       "evseId": "CZ*PRE*E1S8026*1",
       "geoCoord": {
         "latitude": "50.090921",
@@ -7267,7 +7267,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_3840_dedinska.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530bf4b8a750ff79a426/pre_app_ts_3840_dedinska.jpg"
         }
       ],
       "isHome": true,
@@ -7288,8 +7288,8 @@
     }
   },
   "CZ1003310": {
-    "name": "Ladestation TS 2142 Půchovská",
-    "sha1": "c91a5b30bac79afd97c8e6d005e497e052d0125b",
+    "name": "Ladestation Ladestation TS 2142 Půchovská",
+    "sha1": "e89d4829a00a9e17877addc7b434bfa8af287452",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2142",
       "branch": "Parken",
@@ -7302,11 +7302,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003310",
-      "csName": "Ladestation TS 2142 Půchovská",
+      "csName": "Ladestation Ladestation TS 2142 Půchovská",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Next to the transformation station number TS 2142",
-      "enCsname": "Charger TS 2142 Půchovská",
+      "enCsname": "Charger Charger TS 2142 Půchovská",
       "evseId": "CZ*PRE*E1S8109*2",
       "geoCoord": {
         "latitude": "50.048297",
@@ -7318,7 +7318,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_2142_puchovska.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365356f4b8a750ff79a98e/pre_app_ts_2142_puchovska.jpg"
         }
       ],
       "isHome": true,
@@ -7339,8 +7339,8 @@
     }
   },
   "CZ1003311": {
-    "name": "Ladestation TS 2134 Bělčická",
-    "sha1": "7b6dcff1010c9ded8683ef9be3af2dd48c1cc448",
+    "name": "Ladestation Ladestation TS 2134 Bělčická",
+    "sha1": "34d3e5b74f32a4fa9cc8e360f7ed110d792ec641",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2134",
       "branch": "Parken",
@@ -7353,11 +7353,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003311",
-      "csName": "Ladestation TS 2134 Bělčická",
+      "csName": "Ladestation Ladestation TS 2134 Bělčická",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Next to the transformation station number TS 2134",
-      "enCsname": "Charger TS 2134 Bělčická",
+      "enCsname": "Charger Charger TS 2134 Bělčická",
       "evseId": "CZ*PRE*E1S8110*2",
       "geoCoord": {
         "latitude": "50.047293",
@@ -7369,7 +7369,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_2134_belcicka.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530cf4b8a750ff79a490/pre_app_ts_2134_belcicka.jpg"
         }
       ],
       "isHome": true,
@@ -7492,8 +7492,8 @@
     }
   },
   "CZ1003334": {
-    "name": "Ladestation TS 4647 Na Moklině",
-    "sha1": "cc8d9b30488bcc78193d10a0e25b2de857aa45a2",
+    "name": "Ladestation Ladestation TS 4647 Na Moklině",
+    "sha1": "8c6ca063b958d93b514f38402c2a8387767e3cd3",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4647",
       "branch": "Parken",
@@ -7506,11 +7506,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003334",
-      "csName": "Ladestation TS 4647 Na Moklině",
+      "csName": "Ladestation Ladestation TS 4647 Na Moklině",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Next to the transformation station number TS 4647",
-      "enCsname": "Charger TS 4647 Na Moklině",
+      "enCsname": "Charger Charger TS 4647 Na Moklině",
       "evseId": "CZ*PRE*E1S8107*1",
       "geoCoord": {
         "latitude": "50.066523",
@@ -7522,7 +7522,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_4647_na_mokline.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365356f4b8a750ff79a9b6/pre_app_ts_4647_na_mokline.jpg"
         }
       ],
       "isHome": true,
@@ -7638,8 +7638,8 @@
     }
   },
   "CZ1003337": {
-    "name": "Ladestation TS 5306 José Martího",
-    "sha1": "5db980ac8deba41cad227a08503aa145584138a1",
+    "name": "Ladestation Ladestation TS 5306 José Martího",
+    "sha1": "bd7c145903edbebae2c47b5d2b109715b676ff10",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 5306",
       "branch": "Parken",
@@ -7652,11 +7652,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003337",
-      "csName": "Ladestation TS 5306 José Martího",
+      "csName": "Ladestation Ladestation TS 5306 José Martího",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station TS 5306",
-      "enCsname": "Charger TS 5306 José Martího",
+      "enCsname": "Charger Charger TS 5306 José Martího",
       "evseId": "CZ*PRE*E1S8025*1",
       "geoCoord": {
         "latitude": "50.093510",
@@ -7668,7 +7668,7 @@
         {
           "class": "locationPhoto",
           "type": "png",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_5306_jose_martiho.png"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79acbb/pre_app_ts_5306_jose_martiho.png"
         }
       ],
       "isHome": true,
@@ -7689,8 +7689,8 @@
     }
   },
   "CZ1003338": {
-    "name": "Ladestation TS 4658 Nedašovská",
-    "sha1": "9b5d00cdbad9191d3cedd5f64ff66aafde5e3bf9",
+    "name": "Ladestation Ladestation TS 4658 Nedašovská",
+    "sha1": "4e00a49f6515360be34ad6cf9cece76a3e42fa48",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4658",
       "branch": "unbekannt",
@@ -7703,11 +7703,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003338",
-      "csName": "Ladestation TS 4658 Nedašovská",
+      "csName": "Ladestation Ladestation TS 4658 Nedašovská",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Next to the transformation station number TS 4658",
-      "enCsname": "Charger TS 4658 Nedašovská",
+      "enCsname": "Charger Charger TS 4658 Nedašovská",
       "evseId": "CZ*PRE*E1S8132*1",
       "geoCoord": {
         "latitude": "50.059140",
@@ -7719,7 +7719,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_4658_nedasovska.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79acb9/pre_app_ts_4658_nedasovska.jpg"
         }
       ],
       "isHome": true,
@@ -7791,8 +7791,8 @@
     }
   },
   "CZ1003360": {
-    "name": "Schnellladestation Less Mess Storage",
-    "sha1": "682f6b061d5e7c4ac22f0978d7f0a03afe20d695",
+    "name": "Schnellladestation Schnellladestation Less Mess St",
+    "sha1": "7df98de084f577552d446c72704167cd013a015b",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -7804,10 +7804,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003360",
-      "csName": "Schnellladestation Less Mess Storage",
+      "csName": "Schnellladestation Schnellladestation Less Mess St",
       "csStatus": "operable",
       "csType": "fast_charger",
-      "enCsname": "Fast charger Less Mess Storage",
+      "enCsname": "Fast charger Fast charger Less Mess Storage",
       "evseId": "CZ*PRE*E1R0036*2",
       "geoCoord": {
         "latitude": "50.096212",
@@ -7819,7 +7819,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_less_mess_storage.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ecf4b8a750ff79a136/pre_app_less_mess_storage.jpg"
         }
       ],
       "isHome": true,
@@ -7840,8 +7840,8 @@
     }
   },
   "CZ1003380": {
-    "name": "Ladestation TS 5175 Družná",
-    "sha1": "02a73e0cd6b77b2442e107b19a2261887ec3abec",
+    "name": "Ladestation Ladestation TS 5175 Družná",
+    "sha1": "6b0df89aa510b019721556cda56f79a114aaa202",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 5175",
       "branch": "Parken",
@@ -7854,11 +7854,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003380",
-      "csName": "Ladestation TS 5175 Družná",
+      "csName": "Ladestation Ladestation TS 5175 Družná",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station TS 5175",
-      "enCsname": "Charger TS 5175 Družná",
+      "enCsname": "Charger Charger TS 5175 Družná",
       "evseId": "CZ*PRE*E1S8122*1",
       "geoCoord": {
         "latitude": "50.013290",
@@ -7870,17 +7870,17 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/20220915_081821.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365396f4b8a750ff79af98/20220915_081821.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/20220915_081904.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365396f4b8a750ff79af98/20220915_081904.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/20220915_081916.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365396f4b8a750ff79af98/20220915_081916.jpg"
         }
       ],
       "isHome": true,
@@ -8050,8 +8050,8 @@
     }
   },
   "CZ1003384": {
-    "name": "Ladestation TS 4763 Kapitána Stránského",
-    "sha1": "a43059f932aa3642ef4ac4deaa0d639107359934",
+    "name": "Ladestation Ladestation TS 4763 Kapitána Stránskéh",
+    "sha1": "8604c87d2b1f780a3a0e4153b116a9ff8ed30b57",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4763",
       "branch": "unbekannt",
@@ -8064,11 +8064,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003384",
-      "csName": "Ladestation TS 4763 Kapitána Stránského",
+      "csName": "Ladestation Ladestation TS 4763 Kapitána Stránskéh",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Next to the transformation station number TS 4763",
-      "enCsname": "Charger TS 4763 Kapitána Stránského",
+      "enCsname": "Charger Charger TS 4763 Kapitána Stránského",
       "evseId": "CZ*PRE*E1S8032*2",
       "geoCoord": {
         "latitude": "50.102326",
@@ -8080,7 +8080,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_4763_kapitana_stranskeho.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ebf4b8a750ff79a121/pre_app_ts_4763_kapitana_stranskeho.jpg"
         }
       ],
       "isHome": true,
@@ -8152,8 +8152,8 @@
     }
   },
   "CZ1003410": {
-    "name": "Ladestation TS 4762 Bryksova 1",
-    "sha1": "ebbb7333c8ec1c34b8ed37018062353e3b926ba6",
+    "name": "Ladestation Ladestation TS 4762 Bryksova 1",
+    "sha1": "64dc1d2b6adaee648b83f5af9fb144c0ce451400",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4762",
       "branch": "Parken",
@@ -8166,11 +8166,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003410",
-      "csName": "Ladestation TS 4762 Bryksova 1",
+      "csName": "Ladestation Ladestation TS 4762 Bryksova 1",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Next to the transformation station number TS 4762",
-      "enCsname": "Charger TS 4762 Bryksova 1",
+      "enCsname": "Charger Charger TS 4762 Bryksova 1",
       "evseId": "CZ*PRE*E1S8035*1",
       "geoCoord": {
         "latitude": "50.102172",
@@ -8182,7 +8182,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_4762_bryksova.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79acc0/pre_app_ts_4762_bryksova.jpg"
         }
       ],
       "isHome": true,
@@ -8254,8 +8254,8 @@
     }
   },
   "CZ1003449": {
-    "name": "Schnellladestation Penny Market Újezd nad Lesy",
-    "sha1": "569eed50071ce6ee6e1fc692cd529faf0aed2a35",
+    "name": "Schnellladestation Schnellladestation Penny Market",
+    "sha1": "38c0563568bf1c37059b04195ba1bfc014ac69f9",
     "station": {
       "branch": "Lebensmitteleinzelhandel",
       "chargingFacilities": {
@@ -8267,10 +8267,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003449",
-      "csName": "Schnellladestation Penny Market Újezd nad Lesy",
+      "csName": "Schnellladestation Schnellladestation Penny Market",
       "csStatus": "operable",
       "csType": "fast_charger",
-      "enCsname": "Fast charger Penny Market Újezd nad Lesy",
+      "enCsname": "Fast charger Fast charger Penny Market Újezd nad L",
       "evseId": "CZ*PRE*E1R0038*3",
       "geoCoord": {
         "latitude": "50.077833",
@@ -8282,7 +8282,7 @@
         {
           "class": "locationPhoto",
           "type": "png",
-          "uri": "https://smatrics.com/sites/default/files/app_pre_penny_market_ujezd_n_lesy.png"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365356f4b8a750ff79a991/app_pre_penny_market_ujezd_n_lesy.png"
         }
       ],
       "isHome": true,
@@ -8354,8 +8354,8 @@
     }
   },
   "CZ1003475": {
-    "name": "Schnellladestation Kongresové centrum",
-    "sha1": "0d53e8fe8fd3f2bced931a03b57faddd0a038784",
+    "name": "Schnellladestation Schnellladestation Kongresové c",
+    "sha1": "03c9cd51b675e7838d905f0999c1a97e626d7f02",
     "station": {
       "additionalInfo": "P+R Kongresové centrum Praha - Jih 1",
       "branch": "Parken",
@@ -8368,11 +8368,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003475",
-      "csName": "Schnellladestation Kongresové centrum",
+      "csName": "Schnellladestation Schnellladestation Kongresové c",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "P + R Congress Center Prague - South 1",
-      "enCsname": "Fast charger Kongresové centrum",
+      "enCsname": "Fast charger Fast charger Kongresové centrum",
       "enExtra": "first 15min free of charge, then 50Kč/h a parking fee",
       "evseId": "CZ*PRE*E1S8063*6",
       "extra": "15min zdarma, poté parking fee 50Kč/h",
@@ -8386,12 +8386,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_kongresove_centrum_0.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aa90/pre_app_kongresove_centrum_0.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_kongresove_centrum.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aa90/pre_app_kongresove_centrum.jpg"
         }
       ],
       "isHome": true,
@@ -8412,8 +8412,8 @@
     }
   },
   "CZ1003509": {
-    "name": "Ladestation Driving Range Rohanský Ostrov",
-    "sha1": "39b63f788f5dbe5e1af2086e23cc0283be0711a5",
+    "name": "Ladestation Ladestation Driving Range Rohanský Ost",
+    "sha1": "7100dff41c97d544433d196b8caa85fb8bd72ba2",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -8425,10 +8425,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003509",
-      "csName": "Ladestation Driving Range Rohanský Ostrov",
+      "csName": "Ladestation Ladestation Driving Range Rohanský Ost",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Driving Range Rohanský Ostrov",
+      "enCsname": "Charger Charger Driving Range Rohanský Ostrov",
       "evseId": "CZ*PRE*E1S8064*2",
       "geoCoord": {
         "latitude": "50.102908",
@@ -8440,7 +8440,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_driving_range.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365309f4b8a750ff79a350/pre_app_driving_range.jpg"
         }
       ],
       "isHome": true,
@@ -8461,8 +8461,8 @@
     }
   },
   "CZ1003517": {
-    "name": "Ladestation TS 2722 Šimůnkova",
-    "sha1": "6c5e3ebd91eaface5b6830f927084173dee9f95a",
+    "name": "Ladestation Ladestation TS 2722 Šimůnkova",
+    "sha1": "793dcaf9067cc1cdf5a29d0d081c0247cbdd7788",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2722",
       "branch": "Parken",
@@ -8475,11 +8475,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003517",
-      "csName": "Ladestation TS 2722 Šimůnkova",
+      "csName": "Ladestation Ladestation TS 2722 Šimůnkova",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station TS 2722",
-      "enCsname": "Charger TS 2722 Šimůnkova",
+      "enCsname": "Charger Charger TS 2722 Šimůnkova",
       "evseId": "CZ*PRE*E1S8030*1",
       "geoCoord": {
         "latitude": "50.135060",
@@ -8491,7 +8491,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_2722_simunkova.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa2b/pre_app_ts_2722_simunkova.jpg"
         }
       ],
       "isHome": true,
@@ -8716,8 +8716,8 @@
     }
   },
   "CZ1003530": {
-    "name": "Ladestation Galerie Harfa II",
-    "sha1": "7342e447687345519945d25889e41b7fe761e135",
+    "name": "Ladestation Ladestation Galerie Harfa II",
+    "sha1": "d2f5320402df798efed7a088e8251fe7d27083ca",
     "station": {
       "additionalInfo": "In der Galerie Harfa Tiefgarage",
       "branch": "Parken",
@@ -8730,11 +8730,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003530",
-      "csName": "Ladestation Galerie Harfa II",
+      "csName": "Ladestation Ladestation Galerie Harfa II",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "In the Galerie Harfa underground garages",
-      "enCsname": "Charger Galerie Harfa II",
+      "enCsname": "Charger Charger Galerie Harfa II",
       "evseId": "CZ*PRE*E1S8087*4",
       "geoCoord": {
         "latitude": "50.103750",
@@ -8746,7 +8746,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_galerie_harfa.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a3ac/pre_app_galerie_harfa.jpg"
         }
       ],
       "isHome": true,
@@ -8767,8 +8767,8 @@
     }
   },
   "CZ1003547": {
-    "name": "Ladestation TS 194 Národních Hrdinů",
-    "sha1": "812f552775ac4cc33705eb9ddec36b436802db22",
+    "name": "Ladestation Ladestation TS 194 Národních Hrdinů",
+    "sha1": "f1860138a3997afd85b5a31724d1cae8665cd84c",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 194",
       "branch": "Parken",
@@ -8781,11 +8781,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003547",
-      "csName": "Ladestation TS 194 Národních Hrdinů",
+      "csName": "Ladestation Ladestation TS 194 Národních Hrdinů",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Next to the transformation station  TS 194",
-      "enCsname": "Charger TS 194 Národních Hrdinů",
+      "enCsname": "Charger Charger TS 194 Národních Hrdinů",
       "evseId": "CZ*PRE*E1S8036*2",
       "geoCoord": {
         "latitude": "50.084003",
@@ -8797,7 +8797,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts_194_narodnich_hrdinu.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365397f4b8a750ff79afc4/pre_app_ts_194_narodnich_hrdinu.jpg"
         }
       ],
       "isHome": true,
@@ -8818,8 +8818,8 @@
     }
   },
   "CZ1003548": {
-    "name": "Ladestation Železnobrodská",
-    "sha1": "70bf988d58c193d997ee9017e6f023e0eb1b6f4c",
+    "name": "Ladestation Ladestation Železnobrodská",
+    "sha1": "2ece788b6ba6017d9f6f22dd02824290c01c36ee",
     "station": {
       "additionalInfo": "Neben dem Rathaus Prag 19",
       "branch": "Parken",
@@ -8832,11 +8832,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003548",
-      "csName": "Ladestation Železnobrodská",
+      "csName": "Ladestation Ladestation Železnobrodská",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Next to the town hall of Prague 19",
-      "enCsname": "Charger Železnobrodská",
+      "enCsname": "Charger Charger Železnobrodská",
       "evseId": "CZ*PRE*E1S8061*2",
       "geoCoord": {
         "latitude": "50.133535",
@@ -8848,7 +8848,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_zeleznobrodska.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365355f4b8a750ff79a95a/pre_app_zeleznobrodska.jpg"
         }
       ],
       "isHome": true,
@@ -8962,8 +8962,8 @@
     }
   },
   "CZ1003580": {
-    "name": "Ladestation Do Zahrádek II.",
-    "sha1": "e62273055240b4580d18814462d51fed8f858c3d",
+    "name": "Ladestation Ladestation Do Zahrádek II.",
+    "sha1": "4416212ef0e7424107d0f40c2a150df07cf7dfa2",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -8975,10 +8975,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003580",
-      "csName": "Ladestation Do Zahrádek II.",
+      "csName": "Ladestation Ladestation Do Zahrádek II.",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Do Zahrádek II.",
+      "enCsname": "Charger Charger Do Zahrádek II.",
       "evseId": "CZ*PRE*E1S8089*2",
       "geoCoord": {
         "latitude": "50.057268",
@@ -8990,7 +8990,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_do_zahradek_ii.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365308f4b8a750ff79a31f/pre_app_do_zahradek_ii.jpg"
         }
       ],
       "isHome": true,
@@ -9111,8 +9111,8 @@
     }
   },
   "CZ1003596": {
-    "name": "Ladestation Tenis Nad Hliníkem",
-    "sha1": "bbe988484a5d0721f24801b1946954fe29cd08a4",
+    "name": "Ladestation Ladestation Tenis Nad Hliníkem",
+    "sha1": "4910cd22b3e076315df75a575b2da08aa32a0239",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -9124,10 +9124,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003596",
-      "csName": "Ladestation Tenis Nad Hliníkem",
+      "csName": "Ladestation Ladestation Tenis Nad Hliníkem",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Tenis Nad Hliníkem",
+      "enCsname": "Charger Charger Tenis Nad Hliníkem",
       "evseId": "CZ*PRE*E1S8073*2",
       "geoCoord": {
         "latitude": "50.064145",
@@ -9139,7 +9139,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_tenis_nad_hlinikem.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aa7e/pre_app_tenis_nad_hlinikem.jpg"
         }
       ],
       "isHome": true,
@@ -9160,8 +9160,8 @@
     }
   },
   "CZ1003597": {
-    "name": "Ladestation Nové Chabry",
-    "sha1": "5bc5684b7317aab8d93372c9ae90ddf2f320bbdb",
+    "name": "Ladestation Ladestation Nové Chabry",
+    "sha1": "08169095e8298d2d87559d25cd6b86c7e85d1cf4",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -9173,10 +9173,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003597",
-      "csName": "Ladestation Nové Chabry",
+      "csName": "Ladestation Ladestation Nové Chabry",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Nové Chabry",
+      "enCsname": "Charger Charger Nové Chabry",
       "evseId": "CZ*PRE*E1S8135*2",
       "geoCoord": {
         "latitude": "50.139949",
@@ -9188,7 +9188,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_nove_chabry.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436537bf4b8a750ff79ad95/pre_app_nove_chabry.jpg"
         }
       ],
       "isHome": true,
@@ -9209,8 +9209,8 @@
     }
   },
   "CZ1003635": {
-    "name": "Ladestation OC Westfield Chodov I",
-    "sha1": "bad4030a5b8f1c37c15761263f1c1422e80d02d5",
+    "name": "Ladestation Ladestation OC Westfield Chodov I",
+    "sha1": "734c432d949167b82af4216f21a3fb5c6010682f",
     "station": {
       "additionalInfo": "Auf den Dachparkplätzen des Westfield Chodov",
       "branch": "Parken",
@@ -9223,11 +9223,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003635",
-      "csName": "Ladestation OC Westfield Chodov I",
+      "csName": "Ladestation Ladestation OC Westfield Chodov I",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Rooftop garages OC Westfield Chodov",
-      "enCsname": "Charger OC Westfield Chodov I",
+      "enCsname": "Charger Charger OC Westfield Chodov I",
       "evseId": "CZ*PRE*E1S8069*2",
       "geoCoord": {
         "latitude": "50.032344",
@@ -9239,7 +9239,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_oc_westfield_chodov_i.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aaac/pre_app_oc_westfield_chodov_i.jpg"
         }
       ],
       "isHome": true,
@@ -9490,8 +9490,8 @@
     }
   },
   "CZ1004379": {
-    "name": "Ladestation TS 490 Krčmářovská",
-    "sha1": "ffd6095f772739cd3a8ab8eb6cc3fe57078ca76d",
+    "name": "Ladestation Ladestation TS 490 Krčmářovská",
+    "sha1": "697d137651c57fa0268c877cf67e2f68c2d8fdf2",
     "station": {
       "additionalInfo": "Bei der Transformatorstation",
       "branch": "Parken",
@@ -9504,11 +9504,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004379",
-      "csName": "Ladestation TS 490 Krčmářovská",
+      "csName": "Ladestation Ladestation TS 490 Krčmářovská",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station",
-      "enCsname": "Charger TS 490 Krčmářovská",
+      "enCsname": "Charger Charger TS 490 Krčmářovská",
       "evseId": "CZ*PRE*E1S8028*2",
       "geoCoord": {
         "latitude": "50.156429",
@@ -9520,12 +9520,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/ts_490_1.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa55/ts_490_1.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://smatrics.com/sites/default/files/ts_490_2.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa55/ts_490_2.jpeg"
         }
       ],
       "isHome": true,
@@ -9546,8 +9546,8 @@
     }
   },
   "CZ1004380": {
-    "name": "Ladestation TS 3381 Česákova",
-    "sha1": "af270428d9dfec65bbd337a31da638e3120cee17",
+    "name": "Ladestation Ladestation TS 3381 Česákova",
+    "sha1": "55219b9a5cc53f63e555c893d4ebfd7504ab0377",
     "station": {
       "additionalInfo": "Bei der Transformatorstation",
       "branch": "Parken",
@@ -9560,11 +9560,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004380",
-      "csName": "Ladestation TS 3381 Česákova",
+      "csName": "Ladestation Ladestation TS 3381 Česákova",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "By the transformation station",
-      "enCsname": "Charger TS 3381 Česákova",
+      "enCsname": "Charger Charger TS 3381 Česákova",
       "evseId": "CZ*PRE*E1S8037*2",
       "geoCoord": {
         "latitude": "50.130862",
@@ -9576,7 +9576,7 @@
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://smatrics.com/sites/default/files/ts_3381.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aaa7/ts_3381.jpeg"
         }
       ],
       "isHome": true,
@@ -9641,8 +9641,8 @@
     }
   },
   "CZ1004404": {
-    "name": "Ladestation TS 3023 Stříbrského",
-    "sha1": "bce2235e61c9a8ec45175db3225c74a0631625b8",
+    "name": "Ladestation Ladestation TS 3023 Stříbrského",
+    "sha1": "8e3449185dacbe65078547208bfd76a5128ba08a",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3023",
       "branch": "Parken",
@@ -9655,11 +9655,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004404",
-      "csName": "Ladestation TS 3023 Stříbrského",
+      "csName": "Ladestation Ladestation TS 3023 Stříbrského",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "At the transformation station TS 3023",
-      "enCsname": "Charger TS 3023 Stříbrského",
+      "enCsname": "Charger Charger TS 3023 Stříbrského",
       "evseId": "CZ*PRE*E1S8079*1",
       "geoCoord": {
         "latitude": "50.027500",
@@ -9671,7 +9671,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_ts3023_1.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79acc2/pre_app_ts3023_1.jpg"
         }
       ],
       "isHome": true,
@@ -10090,8 +10090,8 @@
     }
   },
   "CZ1004453": {
-    "name": "Ladestation Technologie hlavního města Prahy VII",
-    "sha1": "72a150577bf6f1e04ce2b754263aadd71cf65486",
+    "name": "Ladestation Ladestation Technologie hlavního města",
+    "sha1": "f2c553699c873dd541f839b483f9d788446a8740",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -10103,10 +10103,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004453",
-      "csName": "Ladestation Technologie hlavního města Prahy VII",
+      "csName": "Ladestation Ladestation Technologie hlavního města",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Technologie hlavního města Prahy VII",
+      "enCsname": "Charger Charger Technologie hlavního města Prahy V",
       "evseId": "CZ*PRE*ETHMP7*2",
       "geoCoord": {
         "latitude": "50.074888",
@@ -10118,7 +10118,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/thmp7.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79ac7b/thmp7.jpg"
         },
         {
           "class": "otherLogo",
@@ -10144,8 +10144,8 @@
     }
   },
   "CZ1004454": {
-    "name": "Ladestation Technologie hlavního města Prahy VI",
-    "sha1": "c0d17eae6c415ee912a5249b4e3d8a8a3067411b",
+    "name": "Ladestation Ladestation Technologie hlavního města",
+    "sha1": "b94a02e7f2112082c0d85d7d4ada4b367eb6e746",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -10157,10 +10157,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004454",
-      "csName": "Ladestation Technologie hlavního města Prahy VI",
+      "csName": "Ladestation Ladestation Technologie hlavního města",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Technologie hlavního města Prahy VI",
+      "enCsname": "Charger Charger Technologie hlavního města Prahy V",
       "evseId": "CZ*PRE*ETHMP6*2",
       "geoCoord": {
         "latitude": "50.075821",
@@ -10172,7 +10172,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/thmp6.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365357f4b8a750ff79aa00/thmp6.jpg"
         },
         {
           "class": "otherLogo",
@@ -10198,8 +10198,8 @@
     }
   },
   "CZ1004455": {
-    "name": "Ladestation Technologie hlavního města Prahy V",
-    "sha1": "7c58da2f92c8cb16db6303750e1d11bd540cb90b",
+    "name": "Ladestation Ladestation Technologie hlavního města",
+    "sha1": "2d2c5bd69719b70b1df0264d27b35c22b916d675",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -10211,10 +10211,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004455",
-      "csName": "Ladestation Technologie hlavního města Prahy V",
+      "csName": "Ladestation Ladestation Technologie hlavního města",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Technologie hlavního města Prahy VI",
+      "enCsname": "Charger Charger Technologie hlavního města Prahy V",
       "evseId": "CZ*PRE*ETHMP5*2",
       "geoCoord": {
         "latitude": "50.075288",
@@ -10226,7 +10226,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/thmp5.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365356f4b8a750ff79a987/thmp5.jpg"
         },
         {
           "class": "otherLogo",
@@ -10306,8 +10306,8 @@
     }
   },
   "CZ1004457": {
-    "name": "Ladestation Technologie hlavního města Prahy IV",
-    "sha1": "d778112da48228e3788cec3d1c316de3be76fa17",
+    "name": "Ladestation Ladestation Technologie hlavního města",
+    "sha1": "9df64e019397f4dc84227f4f1e589224b04fb5e8",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -10319,10 +10319,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004457",
-      "csName": "Ladestation Technologie hlavního města Prahy IV",
+      "csName": "Ladestation Ladestation Technologie hlavního města",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Technologie hlavního města Prahy IV",
+      "enCsname": "Charger Charger Technologie hlavního města Prahy I",
       "evseId": "CZ*PRE*ETHMP4*2",
       "geoCoord": {
         "latitude": "50.074894",
@@ -10334,7 +10334,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/thmp4.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365309f4b8a750ff79a344/thmp4.jpg"
         },
         {
           "class": "otherLogo",
@@ -10360,8 +10360,8 @@
     }
   },
   "CZ1004458": {
-    "name": "Ladestation Technologie hlavního města Prahy III",
-    "sha1": "eb21e03f808d92643b7e97aad22c792c3c074c2e",
+    "name": "Ladestation Ladestation Technologie hlavního města",
+    "sha1": "23a3cd0ed024b95846bd276d71da3f13b073b109",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -10373,10 +10373,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004458",
-      "csName": "Ladestation Technologie hlavního města Prahy III",
+      "csName": "Ladestation Ladestation Technologie hlavního města",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Technologie hlavního města Prahy III",
+      "enCsname": "Charger Charger Technologie hlavního města Prahy I",
       "evseId": "CZ*PRE*ETHMP3*2",
       "geoCoord": {
         "latitude": "50.075838",
@@ -10388,7 +10388,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/thmp3.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652eaf4b8a750ff79a0d5/thmp3.jpg"
         },
         {
           "class": "otherLogo",
@@ -10564,8 +10564,8 @@
     }
   },
   "CZ1004481": {
-    "name": "Ladestation Norma Přátelství",
-    "sha1": "42cd1234b53ff975079ce3d73f91acbf006fa0fc",
+    "name": "Ladestation Ladestation Norma Přátelství",
+    "sha1": "5e501d1d93a852a33a33b400ef14be03a49b2a36",
     "station": {
       "branch": "Lebensmitteleinzelhandel",
       "chargingFacilities": {
@@ -10577,11 +10577,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004481",
-      "csName": "Ladestation Norma Přátelství",
+      "csName": "Ladestation Ladestation Norma Přátelství",
       "csStatus": "under_construction",
       "csType": "charger",
       "enAdditionalInfo": "",
-      "enCsname": "Charger Norma Přátelství",
+      "enCsname": "Charger Charger Norma Přátelství",
       "evseId": "CZ*PRE*E1S8065*2",
       "geoCoord": {
         "latitude": "50.032800",
@@ -10593,7 +10593,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/norma_1080x600.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a3f9/norma_1080x600.jpg"
         }
       ],
       "isHome": true,
@@ -10698,8 +10698,8 @@
     }
   },
   "CZ1004502": {
-    "name": "Ladestation Městská knihovna v Praze Modřany",
-    "sha1": "89b5a7b22288ebb9cc23faa9b5ac83178f07cf2c",
+    "name": "Ladestation Ladestation Městská knihovna v Praze M",
+    "sha1": "9421e3767b85f1c9375b7a6fe6704862ad9ecbfb",
     "station": {
       "additionalInfo": "Neben der öffentlichen Bibliothek",
       "branch": "Parken",
@@ -10712,11 +10712,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004502",
-      "csName": "Ladestation Městská knihovna v Praze Modřany",
+      "csName": "Ladestation Ladestation Městská knihovna v Praze M",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Next to the public librabry",
-      "enCsname": "Charger Městská knihovna v Praze Modřany",
+      "enCsname": "Charger Charger Městská knihovna v Praze Modřany",
       "evseId": "CZ*PRE*E1S8161*2",
       "geoCoord": {
         "latitude": "50.005800",
@@ -10728,7 +10728,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/mestska_knihovna_v_praze_modrany.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365308f4b8a750ff79a326/mestska_knihovna_v_praze_modrany.jpg"
         }
       ],
       "isHome": true,
@@ -10793,8 +10793,8 @@
     }
   },
   "CZ1004504": {
-    "name": "Ladestation Stadion Slávie - parkoviště",
-    "sha1": "68302daec80bdc1d8191e11dc2202611c9a52dd6",
+    "name": "Ladestation Ladestation Stadion Slávie - parkovišt",
+    "sha1": "f84dadf2775d5f1822acdc4e8e2fcc6c3d77a283",
     "station": {
       "additionalInfo": "Next to the stadium",
       "branch": "Parken",
@@ -10807,11 +10807,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004504",
-      "csName": "Ladestation Stadion Slávie - parkoviště",
+      "csName": "Ladestation Ladestation Stadion Slávie - parkovišt",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Neben dem Stadion",
-      "enCsname": "Charger Stadion Slávie - parkoviště",
+      "enCsname": "Charger Charger Stadion Slávie - parkoviště",
       "enExtra": "Located at private property, parking 30min free of charge",
       "evseId": "CZ*PRE*E1S8150*2",
       "extra": "Auf einem Privatgrundstück, Parken 30min kostenlos",
@@ -10825,7 +10825,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-lfawh6x7ipgxtdn.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aa87/imgonline-com-ua-resize-lfawh6x7ipgxtdn.jpg"
         }
       ],
       "isHome": true,
@@ -10846,8 +10846,8 @@
     }
   },
   "CZ1004520": {
-    "name": "Ladestation Parkoviště u dopravního hřiště - V Olš",
-    "sha1": "55324ed09225f67aac19de260865c423b8c46928",
+    "name": "Ladestation Ladestation Parkoviště u dopravního hř",
+    "sha1": "60d18d0c0389a181e27143acfc935be0f3f03d15",
     "station": {
       "additionalInfo": "Neben der Fahrschule",
       "branch": "Parken",
@@ -10860,11 +10860,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004520",
-      "csName": "Ladestation Parkoviště u dopravního hřiště - V Olš",
+      "csName": "Ladestation Ladestation Parkoviště u dopravního hř",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Next to the driving school",
-      "enCsname": "Charger Parkoviště u dopravního hřiště - V Olšinác",
+      "enCsname": "Charger Charger Parkoviště u dopravního hřiště - V",
       "evseId": "CZ*PRE*E1S8148*2",
       "geoCoord": {
         "latitude": "50.072400",
@@ -10876,7 +10876,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/1080x600_1.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652eaf4b8a750ff79a0de/1080x600_1.jpg"
         }
       ],
       "isHome": true,
@@ -10946,8 +10946,8 @@
     }
   },
   "CZ1004587": {
-    "name": "Ladestation ČVUT FIT",
-    "sha1": "be35d5633a0221d8f7f41c5597462b3592f2ec14",
+    "name": "Ladestation Ladestation ČVUT FIT",
+    "sha1": "dc2a6bef991408f23df8a5a0a2920595297736b0",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -10959,10 +10959,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004587",
-      "csName": "Ladestation ČVUT FIT",
+      "csName": "Ladestation Ladestation ČVUT FIT",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger ČVUT FIT",
+      "enCsname": "Charger Charger ČVUT FIT",
       "evseId": "CZ*PRE*E1S8159*2",
       "geoCoord": {
         "latitude": "50.105200",
@@ -10974,7 +10974,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-xgyuk2o7iwjh4.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aac0/imgonline-com-ua-resize-xgyuk2o7iwjh4.jpg"
         }
       ],
       "isHome": true,
@@ -10995,8 +10995,8 @@
     }
   },
   "CZ1004589": {
-    "name": "Ladestation Koupaliště Džbán",
-    "sha1": "f1fab02fd1a699c6ea417c5f780ec86d154275ac",
+    "name": "Ladestation Ladestation Koupaliště Džbán",
+    "sha1": "40a93148808fba67bf40bcd2bd4f7fcfaac86e48",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -11008,10 +11008,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004589",
-      "csName": "Ladestation Koupaliště Džbán",
+      "csName": "Ladestation Ladestation Koupaliště Džbán",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Koupaliště Džbán",
+      "enCsname": "Charger Charger Koupaliště Džbán",
       "evseId": "CZ*PRE*E1S8160*2",
       "geoCoord": {
         "latitude": "50.098200",
@@ -11023,12 +11023,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-xue9kkqwn6mi4.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aaf9/imgonline-com-ua-resize-jsfhjjm4as3b.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-jsfhjjm4as3b.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aaf9/imgonline-com-ua-resize-xue9kkqwn6mi4.jpg"
         }
       ],
       "isHome": true,
@@ -11350,8 +11350,8 @@
     }
   },
   "CZ1004638": {
-    "name": "Ladestation Europark I + II, III",
-    "sha1": "788b039aa9aa014cf651dc3289060ea2c38ae6e9",
+    "name": "Ladestation Ladestation Europark I + II, III",
+    "sha1": "19184c2e4dc0e5ef10422d7c46219df49737aa37",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -11363,10 +11363,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004638",
-      "csName": "Ladestation Europark I + II, III",
+      "csName": "Ladestation Ladestation Europark I + II, III",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Europark I + II, III",
+      "enCsname": "Charger Charger Europark I + II, III",
       "evseId": "CZ*PRE*E1S8151*6",
       "geoCoord": {
         "latitude": "50.072510",
@@ -11378,17 +11378,17 @@
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://smatrics.com/sites/default/files/1080x600.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643653eaf4b8a750ff79ba2d/1080x600.jpeg"
         },
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://smatrics.com/sites/default/files/1080x600x.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643653eaf4b8a750ff79ba2d/1080x600x.jpeg"
         },
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://smatrics.com/sites/default/files/1080x600xx_2.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643653eaf4b8a750ff79ba2d/1080x600xx_2.jpeg"
         }
       ],
       "isHome": true,
@@ -11579,8 +11579,8 @@
     }
   },
   "CZ1004659": {
-    "name": "Ladestation Na TS 4282",
-    "sha1": "60d3e75a2453c20c3ffbb10701bb62e8cebf3dab",
+    "name": "Ladestation Ladestation Na TS 4282",
+    "sha1": "57cb2e93b1ea60bb2b52825b5239c3216c413644",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -11592,10 +11592,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004659",
-      "csName": "Ladestation Na TS 4282",
+      "csName": "Ladestation Ladestation Na TS 4282",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Na TS 4282",
+      "enCsname": "Charger Charger Na TS 4282",
       "evseId": "CZ*PRE*E1S8167*1",
       "geoCoord": {
         "latitude": "50.071458",
@@ -11607,7 +11607,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-aank9mo8jmoo.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365398f4b8a750ff79b097/imgonline-com-ua-resize-aank9mo8jmoo.jpg"
         }
       ],
       "isHome": true,
@@ -12137,8 +12137,8 @@
     }
   },
   "CZ2002685": {
-    "name": "Schnellladestation Penny Beroun",
-    "sha1": "58f0973b9133a26df6dab115284335647df4b987",
+    "name": "Schnellladestation Schnellladestation Penny Beroun",
+    "sha1": "0b7303afe2d312e253a089e58f69888fde9e76ce",
     "station": {
       "additionalInfo": "Parkplatz des Penny-Marktes",
       "branch": "Parken",
@@ -12151,11 +12151,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ2002685",
-      "csName": "Schnellladestation Penny Beroun",
+      "csName": "Schnellladestation Schnellladestation Penny Beroun",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "Penny Market parking",
-      "enCsname": "Fast charger Penny Beroun",
+      "enCsname": "Fast charger Fast charger Penny Beroun",
       "evseId": "CZ*PRE*E1R5110*2",
       "geoCoord": {
         "latitude": "49.957472",
@@ -12167,7 +12167,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_penny_beroun_1.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aa86/pre_app_penny_beroun_1.jpg"
         }
       ],
       "isHome": true,
@@ -12654,8 +12654,8 @@
     }
   },
   "CZ2003096": {
-    "name": "Schnellladestation OMV Vrbová Lhota (jih)",
-    "sha1": "cd6a573c9c80adf9389c1d17713017b4a86da2ee",
+    "name": "Schnellladestation Schnellladestation OMV Vrbová L",
+    "sha1": "0aea4e5c5201fb24daa8ff59e10df18a10b27c42",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -12668,11 +12668,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ2003096",
-      "csName": "Schnellladestation OMV Vrbová Lhota (jih)",
+      "csName": "Schnellladestation Schnellladestation OMV Vrbová L",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the OMV gas station",
-      "enCsname": "Fast charger OMV Vrbová Lhota (jih)",
+      "enCsname": "Fast charger Fast charger OMV Vrbová Lhota (jih)",
       "evseId": "CZ*PRE*E1R5030*2",
       "geoCoord": {
         "latitude": "50.120500",
@@ -12684,7 +12684,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_vrbova_lhota_jih_2.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa34/pre_app_omv_vrbova_lhota_jih_2.jpg"
         }
       ],
       "isHome": true,
@@ -12756,8 +12756,8 @@
     }
   },
   "CZ2003209": {
-    "name": "Schnellladestation EuroOil Mníšek pod Brdy",
-    "sha1": "92e41e435286df3f58c58ecd0c43e5e43ffb4d9b",
+    "name": "Schnellladestation Schnellladestation EuroOil Mníš",
+    "sha1": "a6f4d562545dc693542a86a314e2f70b3e1c60a4",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -12770,11 +12770,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ2003209",
-      "csName": "Schnellladestation EuroOil Mníšek pod Brdy",
+      "csName": "Schnellladestation Schnellladestation EuroOil Mníš",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the EuroOil gas station",
-      "enCsname": "Fast charger EuroOil Mníšek pod Brdy",
+      "enCsname": "Fast charger Fast charger EuroOil Mníšek pod Brdy",
       "evseId": "CZ*PRE*E1R5102*2",
       "geoCoord": {
         "latitude": "49.859528",
@@ -12786,7 +12786,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_mnisek_pod_brdy.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365379f4b8a750ff79ace5/pre_app_eurooil_mnisek_pod_brdy.jpg"
         }
       ],
       "isHome": true,
@@ -12858,8 +12858,8 @@
     }
   },
   "CZ2003395": {
-    "name": "Schnellladestation OMV Kolín",
-    "sha1": "b3afad7fc31793a626d904e2a3bd9ad795a84b30",
+    "name": "Schnellladestation Schnellladestation OMV Kolín",
+    "sha1": "266d4b9fa9bdde8559e9cf0db90581ab0bbc0e8c",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -12872,11 +12872,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ2003395",
-      "csName": "Schnellladestation OMV Kolín",
+      "csName": "Schnellladestation Schnellladestation OMV Kolín",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the OMV gas station",
-      "enCsname": "Fast charger OMV Kolín",
+      "enCsname": "Fast charger Fast charger OMV Kolín",
       "evseId": "CZ*PRE*E1R5095*3",
       "geoCoord": {
         "latitude": "50.032881",
@@ -12888,7 +12888,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_kolin.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a3d8/pre_app_omv_kolin.jpg"
         }
       ],
       "isHome": true,
@@ -13261,8 +13261,8 @@
     }
   },
   "CZ2004477": {
-    "name": "Ultra-Highspeed-Ladestation KFC Loket",
-    "sha1": "17e9715d66d0b54556af6ef97a559d3d108ad8d2",
+    "name": "Ultra-Highspeed-Ladestation Ultra-Highspeed-Ladest",
+    "sha1": "5fac40cce319f0837a45e950aea7981bb5e9376f",
     "station": {
       "branch": "Fast Food Restaurant",
       "chargingFacilities": {
@@ -13274,10 +13274,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ2004477",
-      "csName": "Ultra-Highspeed-Ladestation KFC Loket",
+      "csName": "Ultra-Highspeed-Ladestation Ultra-Highspeed-Ladest",
       "csStatus": "operable",
       "csType": "ultra_fast_charger",
-      "enCsname": "Ultra-highspeed charger KFC Loket",
+      "enCsname": "Ultra-highspeed charger Ultra-highspeed charger KF",
       "evseId": "CZ*PRE*E1R0048*2",
       "geoCoord": {
         "latitude": "49.658800",
@@ -13289,7 +13289,7 @@
         {
           "class": "locationPhoto",
           "type": "png",
-          "uri": "https://smatrics.com/sites/default/files/kfc_loket_1080x600.png"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a3a1/kfc_loket_1080x600.png"
         }
       ],
       "isHome": true,
@@ -13310,8 +13310,8 @@
     }
   },
   "CZ2004499": {
-    "name": "Ladestation OREA Harrachov",
-    "sha1": "0c73fe3f82adbed83071b498b6d38b7535f20b84",
+    "name": "Ladestation Ladestation OREA Harrachov",
+    "sha1": "820c5453b9e216d545a75b7fec8e5fd3d4089819",
     "station": {
       "branch": "Hotel",
       "chargingFacilities": {
@@ -13323,10 +13323,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ2004499",
-      "csName": "Ladestation OREA Harrachov",
+      "csName": "Ladestation Ladestation OREA Harrachov",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger OREA Harrachov",
+      "enCsname": "Charger Charger OREA Harrachov",
       "evseId": "CZ*PRE*E1S8175*2",
       "geoCoord": {
         "latitude": "50.776500",
@@ -13338,7 +13338,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/1080x600.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365308f4b8a750ff79a32e/1080x600.jpg"
         }
       ],
       "isHome": true,
@@ -13360,7 +13360,7 @@
   },
   "CZ2004752": {
     "name": "Ultra-Highspeed-Ladestation Ultra-Highspeed-Ladest",
-    "sha1": "012e8d9d9d6cab92317eea69eeb096a529d5a367",
+    "sha1": "5f15bcea3b90233f9b1afc44e544132744915a2a",
     "station": {
       "branch": "Baumarkt",
       "chargingFacilities": {
@@ -13387,7 +13387,7 @@
         {
           "class": "locationPhoto",
           "type": "png",
-          "uri": "https://smatrics.com/sites/default/files/hornbach_cestlice.png"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365356f4b8a750ff79a988/hornbach_cestlice.png"
         },
         {
           "class": "locationPhoto",
@@ -13721,8 +13721,8 @@
     }
   },
   "CZ3103217": {
-    "name": "Schnellladestation OMV Český Krumlov",
-    "sha1": "ab836f5e101d2aacea7b9bea22cc2fc3b15d98a9",
+    "name": "Schnellladestation Schnellladestation OMV Český Kr",
+    "sha1": "0f2a57d285c4ca650295d452d7f99662a9306e8e",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -13735,11 +13735,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ3103217",
-      "csName": "Schnellladestation OMV Český Krumlov",
+      "csName": "Schnellladestation Schnellladestation OMV Český Kr",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the OMV gas station",
-      "enCsname": "Fast charger OMV Český Krumlov",
+      "enCsname": "Fast charger Fast charger OMV Český Krumlov",
       "evseId": "CZ*PRE*E1R5117*2",
       "geoCoord": {
         "latitude": "48.824556",
@@ -13751,7 +13751,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_cesky_krumlov.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530bf4b8a750ff79a41e/pre_app_omv_cesky_krumlov.jpg"
         }
       ],
       "isHome": true,
@@ -13823,8 +13823,8 @@
     }
   },
   "CZ3103503": {
-    "name": "Schnellladestation Penny Market Strakonice",
-    "sha1": "7baab9cfe8a228b4f1e4f10d78c584f3a8db1e18",
+    "name": "Schnellladestation Schnellladestation Penny Market",
+    "sha1": "020953720d9f18a2b4581acc17a54b731327e37b",
     "station": {
       "additionalInfo": "Beim Penny Markt",
       "branch": "Einzelhandel",
@@ -13837,11 +13837,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ3103503",
-      "csName": "Schnellladestation Penny Market Strakonice",
+      "csName": "Schnellladestation Schnellladestation Penny Market",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the Penny market",
-      "enCsname": "Fast charger Penny Market Strakonice",
+      "enCsname": "Fast charger Fast charger Penny Market Strakonice",
       "evseId": "CZ*PRE*E1R5111*3",
       "geoCoord": {
         "latitude": "49.262832",
@@ -13853,7 +13853,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_penny_market_strakonice.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365308f4b8a750ff79a333/pre_app_penny_market_strakonice.jpg"
         }
       ],
       "isHome": true,
@@ -14528,8 +14528,8 @@
     }
   },
   "CZ4104508": {
-    "name": "Schnellladestation Penny Market Karlovy Vary",
-    "sha1": "e292d7036570e09321d9e7d4cf3af2aaafc37af2",
+    "name": "Schnellladestation Schnellladestation Penny Market",
+    "sha1": "a24f17fa0eeb56ab740635555b6620fb4c0a2403",
     "station": {
       "branch": "Lebensmitteleinzelhandel",
       "chargingFacilities": {
@@ -14541,11 +14541,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ4104508",
-      "csName": "Schnellladestation Penny Market Karlovy Vary",
+      "csName": "Schnellladestation Schnellladestation Penny Market",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "",
-      "enCsname": "Fast charger Penny Market Karlovy Vary",
+      "enCsname": "Fast charger Fast charger Penny Market Karlovy Var",
       "evseId": "CZ*PRE*E1R0054*3",
       "geoCoord": {
         "latitude": "50.236601",
@@ -14557,7 +14557,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-j2wnvyfxu7.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa54/imgonline-com-ua-resize-j2wnvyfxu7.jpg"
         }
       ],
       "isHome": true,
@@ -15266,8 +15266,8 @@
     }
   },
   "CZ5102669": {
-    "name": "Ladestation OC Central Jablonec",
-    "sha1": "d8d9888afb3f19a236a76a58907cbad82d659a75",
+    "name": "Ladestation Ladestation OC Central Jablonec",
+    "sha1": "d4b9ae554bb16ac079d14ebacf2ce92919fecd8d",
     "station": {
       "additionalInfo": "Direkt nach der Garageneinfahrt vom OC Central Jablonec",
       "branch": "Parken",
@@ -15280,11 +15280,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ5102669",
-      "csName": "Ladestation OC Central Jablonec",
+      "csName": "Ladestation Ladestation OC Central Jablonec",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "Right behind the entrance of OC Central Jablonec garages",
-      "enCsname": "Charger OC Central Jablonec",
+      "enCsname": "Charger Charger OC Central Jablonec",
       "evseId": "CZ*PRE*E1S7110*2",
       "geoCoord": {
         "latitude": "50.724489",
@@ -15296,7 +15296,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_oc_central_jablonec.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bcd6/pre_app_oc_central_jablonec.jpg"
         }
       ],
       "isHome": true,
@@ -15442,8 +15442,8 @@
     }
   },
   "CZ5103510": {
-    "name": "Schnellladestation EuroOil Chrastava",
-    "sha1": "b8aff00f4fb359d4e96ab227a48884d8868a9d53",
+    "name": "Schnellladestation Schnellladestation EuroOil Chra",
+    "sha1": "987dd873369ad13ff4cc091a160660b6885e1834",
     "station": {
       "branch": "Tankstelle",
       "chargingFacilities": {
@@ -15455,10 +15455,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ5103510",
-      "csName": "Schnellladestation EuroOil Chrastava",
+      "csName": "Schnellladestation Schnellladestation EuroOil Chra",
       "csStatus": "operable",
       "csType": "fast_charger",
-      "enCsname": "Fast charger EuroOil Chrastava",
+      "enCsname": "Fast charger Fast charger EuroOil Chrastava",
       "evseId": "CZ*PRE*E1R5023*2",
       "geoCoord": {
         "latitude": "50.807025",
@@ -15470,7 +15470,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_chrastava.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365309f4b8a750ff79a33e/pre_app_eurooil_chrastava.jpg"
         }
       ],
       "isHome": true,
@@ -16089,8 +16089,8 @@
     }
   },
   "CZ5302904": {
-    "name": "Schnellladestation EuroOil Pardubice",
-    "sha1": "e06809a05ef093a88989797c5fc2ef835cab1f39",
+    "name": "Schnellladestation Schnellladestation EuroOil Pard",
+    "sha1": "05f6f7637357b8c2740ff03dcb13fc5492afafbe",
     "station": {
       "branch": "Tankstelle",
       "chargingFacilities": {
@@ -16102,10 +16102,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ5302904",
-      "csName": "Schnellladestation EuroOil Pardubice",
+      "csName": "Schnellladestation Schnellladestation EuroOil Pard",
       "csStatus": "operable",
       "csType": "fast_charger",
-      "enCsname": "Fast charger EuroOil Pardubice",
+      "enCsname": "Fast charger Fast charger EuroOil Pardubice",
       "enExtra": "By the EuroOil gas station",
       "evseId": "CZ*PRE*E1R5039*2",
       "extra": "Bei der EuroOil Tankstelle",
@@ -16119,7 +16119,7 @@
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_pardubice.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a397/pre_app_eurooil_pardubice.jpeg"
         }
       ],
       "isHome": true,
@@ -16240,8 +16240,8 @@
     }
   },
   "CZ5304724": {
-    "name": "Schnellladestation EuroOil Česká Třebová",
-    "sha1": "6c0ff0225f64067b19aa9c3012e7fc114e94de67",
+    "name": "Schnellladestation Schnellladestation EuroOil Česk",
+    "sha1": "0846d82f3f1b2994344f89927d3bfb3ba4a75736",
     "station": {
       "branch": "Tankstelle",
       "chargingFacilities": {
@@ -16253,10 +16253,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ5304724",
-      "csName": "Schnellladestation EuroOil Česká Třebová",
+      "csName": "Schnellladestation Schnellladestation EuroOil Česk",
       "csStatus": "operable",
       "csType": "fast_charger",
-      "enCsname": "Fast charger EuroOil Česká Třebová",
+      "enCsname": "Fast charger Fast charger EuroOil Česká Třebová",
       "evseId": "CZ*PRE*E1R0056*2",
       "geoCoord": {
         "latitude": "49.895871",
@@ -16268,7 +16268,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-gmxzw84bpd.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79aca7/imgonline-com-ua-resize-gmxzw84bpd.jpg"
         }
       ],
       "isHome": true,
@@ -17446,8 +17446,8 @@
     }
   },
   "CZ7103634": {
-    "name": "Schnellladestation OMV Hranice",
-    "sha1": "442d231bb99d4882771e8b5df59b6c6656c2a231",
+    "name": "Schnellladestation Schnellladestation OMV Hranice",
+    "sha1": "325314d64b6701974ddadf655d789f6ad942301d",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -17459,10 +17459,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ7103634",
-      "csName": "Schnellladestation OMV Hranice",
+      "csName": "Schnellladestation Schnellladestation OMV Hranice",
       "csStatus": "operable",
       "csType": "fast_charger",
-      "enCsname": "Fast charger OMV Hranice",
+      "enCsname": "Fast charger Fast charger OMV Hranice",
       "evseId": "CZ*PRE*E1R5067*2",
       "geoCoord": {
         "latitude": "49.557718",
@@ -17474,7 +17474,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_hranice.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79acc3/pre_app_omv_hranice.jpg"
         }
       ],
       "isHome": true,
@@ -17627,8 +17627,8 @@
     }
   },
   "CZ7202998": {
-    "name": "Schnellladestation Penny Market Kroměříž",
-    "sha1": "2c9f294f349d8fdd9fed53f60abbe670cd856ee9",
+    "name": "Schnellladestation Schnellladestation Penny Market",
+    "sha1": "9466a23a16e5d82f9953ac58a81ac91c97254c32",
     "station": {
       "additionalInfo": "Neben dem Penny Markt",
       "branch": "Parken",
@@ -17641,11 +17641,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ7202998",
-      "csName": "Schnellladestation Penny Market Kroměříž",
+      "csName": "Schnellladestation Schnellladestation Penny Market",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "Next to Penny food market",
-      "enCsname": "Fast charger Penny Market Kroměříž",
+      "enCsname": "Fast charger Fast charger Penny Market Kroměříž",
       "evseId": "CZ*PRE*E1R5068*3",
       "geoCoord": {
         "latitude": "49.306361",
@@ -17657,7 +17657,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_penny_market_kromeriz.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ecf4b8a750ff79a132/pre_app_penny_market_kromeriz.jpg"
         }
       ],
       "isHome": true,
@@ -17678,8 +17678,8 @@
     }
   },
   "CZ7203184": {
-    "name": "Schnellladestation EuroOil Napajedla",
-    "sha1": "f6ab81a5de91cc9a3a5d412efc643a5048c09056",
+    "name": "Schnellladestation Schnellladestation EuroOil Napa",
+    "sha1": "f1fd2a92b2c395ab0834049f7be2172e22093cd9",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -17692,11 +17692,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ7203184",
-      "csName": "Schnellladestation EuroOil Napajedla",
+      "csName": "Schnellladestation Schnellladestation EuroOil Napa",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "Next to the EuroOil gas station",
-      "enCsname": "Fast charger EuroOil Napajedla",
+      "enCsname": "Fast charger Fast charger EuroOil Napajedla",
       "evseId": "CZ*PRE*E1R5070*3",
       "geoCoord": {
         "latitude": "49.191037",
@@ -17708,7 +17708,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_napajedla.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365355f4b8a750ff79a960/pre_app_eurooil_napajedla.jpg"
         }
       ],
       "isHome": true,
@@ -18088,8 +18088,8 @@
     }
   },
   "CZ8002804": {
-    "name": "Schnellladestation OMV Bruntál",
-    "sha1": "bf03e0e409ac4ffd7fb6da9f31118d4c8d2a9a15",
+    "name": "Schnellladestation Schnellladestation OMV Bruntál",
+    "sha1": "78e37d9568fdff0099f0c899e0343e9b3b07ec44",
     "station": {
       "additionalInfo": "Station out of service due to the reconstruction of the gas station",
       "branch": "Tankstelle",
@@ -18102,11 +18102,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8002804",
-      "csName": "Schnellladestation OMV Bruntál",
+      "csName": "Schnellladestation Schnellladestation OMV Bruntál",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "Station out of service due to the reconstruction of the gas station",
-      "enCsname": "Fast charger OMV Bruntál",
+      "enCsname": "Fast charger Fast charger OMV Bruntál",
       "evseId": "CZ*PRE*E1R5047*2",
       "geoCoord": {
         "latitude": "49.995250",
@@ -18118,7 +18118,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_bruntal.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365355f4b8a750ff79a95f/pre_app_omv_bruntal.jpg"
         }
       ],
       "isHome": true,
@@ -18227,8 +18227,8 @@
     }
   },
   "CZ8002869": {
-    "name": "Schnellladestation OMV Frýdek-Místek",
-    "sha1": "3e9a0618bd81ade66973928d0ba8df65194b9d84",
+    "name": "Schnellladestation Schnellladestation OMV Frýdek-M",
+    "sha1": "f917207717ef67336cae91b6d830d97d617542fc",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -18241,11 +18241,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8002869",
-      "csName": "Schnellladestation OMV Frýdek-Místek",
+      "csName": "Schnellladestation Schnellladestation OMV Frýdek-M",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the OMV gas station",
-      "enCsname": "Fast charger OMV Frýdek-Místek",
+      "enCsname": "Fast charger Fast charger OMV Frýdek-Místek",
       "evseId": "CZ*PRE*E1R5057*2",
       "geoCoord": {
         "latitude": "49.676417",
@@ -18257,7 +18257,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_frydek_mistek.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ebf4b8a750ff79a12b/pre_app_frydek_mistek.jpg"
         }
       ],
       "isHome": true,
@@ -18278,8 +18278,8 @@
     }
   },
   "CZ8003140": {
-    "name": "Schnellladestation Penny Market Třinec",
-    "sha1": "b2f3e85ab95e3d100e33af45c34be86f58569e58",
+    "name": "Schnellladestation Schnellladestation Penny Market",
+    "sha1": "c63b9b0ad8c128f80c420d286b1d9608d59f740c",
     "station": {
       "additionalInfo": "Auf dem Penny Parkplatz",
       "branch": "Einzelhandel",
@@ -18292,11 +18292,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8003140",
-      "csName": "Schnellladestation Penny Market Třinec",
+      "csName": "Schnellladestation Schnellladestation Penny Market",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "On the Penny Parking lot",
-      "enCsname": "Fast charger Penny Market Třinec",
+      "enCsname": "Fast charger Fast charger Penny Market Třinec",
       "evseId": "CZ*PRE*E1R5055*2",
       "geoCoord": {
         "latitude": "49.676721",
@@ -18308,7 +18308,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_penny_market_trinec.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365357f4b8a750ff79aa26/pre_app_penny_market_trinec.jpg"
         }
       ],
       "isHome": true,
@@ -18424,8 +18424,8 @@
     }
   },
   "CZ8003243": {
-    "name": "Ladestation Alza Opava",
-    "sha1": "ba9fd5af1458580b3d6be3c922a661bea98603f8",
+    "name": "Ladestation Ladestation Alza Opava",
+    "sha1": "1469e95e04fefd4db5f60c318326d9f7b14f230e",
     "station": {
       "branch": "Einzelhandel",
       "chargingFacilities": {
@@ -18437,10 +18437,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8003243",
-      "csName": "Ladestation Alza Opava",
+      "csName": "Ladestation Ladestation Alza Opava",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Alza Opava",
+      "enCsname": "Charger Charger Alza Opava",
       "evseId": "CZ*PRE*E1S8169*2",
       "geoCoord": {
         "latitude": "49.944215",
@@ -18452,7 +18452,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_alza_opava.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365309f4b8a750ff79a368/pre_app_alza_opava.jpg"
         }
       ],
       "isHome": true,
