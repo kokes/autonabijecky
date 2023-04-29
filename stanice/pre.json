@@ -5801,8 +5801,8 @@
     }
   },
   "CZ1003084": {
-    "name": "Schnellladestation EuroOil Praha 9",
-    "sha1": "78a325445a41057e03b2165ac6b368ffe0e0471a",
+    "name": "Schnellladestation Schnellladestation EuroOil Prah",
+    "sha1": "22e17769234e162720a5e6f0a3501e3c603c8ad7",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -5815,11 +5815,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003084",
-      "csName": "Schnellladestation EuroOil Praha 9",
+      "csName": "Schnellladestation Schnellladestation EuroOil Prah",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the EuroOil gas station",
-      "enCsname": "Fast charger EuroOil Praha 9",
+      "enCsname": "Fast charger Fast charger EuroOil Praha 9",
       "evseId": "CZ*PRE*E1R5103*2",
       "geoCoord": {
         "latitude": "50.102580",
@@ -5831,7 +5831,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_eurooil_praha_9.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a5f4b8a750ff799b35/pre_app_eurooil_praha_9.jpg"
         }
       ],
       "isHome": true,
@@ -6598,8 +6598,8 @@
     }
   },
   "CZ1003267": {
-    "name": "Ladestation Na Sádce 19-17",
-    "sha1": "e1cb88a715c4b3cf3ce00c93f69e0a4b3b5a1a75",
+    "name": "Ladestation Ladestation Na Sádce 19-17",
+    "sha1": "63cc84728016d940711805450deb40bf9d2998ad",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -6611,10 +6611,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003267",
-      "csName": "Ladestation Na Sádce 19-17",
+      "csName": "Ladestation Ladestation Na Sádce 19-17",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Na Sádce 19-17",
+      "enCsname": "Charger Charger Na Sádce 19-17",
       "evseId": "CZ*PRE*E1S8149*2",
       "geoCoord": {
         "latitude": "50.031409",
@@ -6626,12 +6626,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-ounrndrpxmk37.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a2f4b8a750ff799a1f/imgonline-com-ua-resize-ounrndrpxmk37.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-qavvnlff5mfy7ou.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a2f4b8a750ff799a1f/imgonline-com-ua-resize-qavvnlff5mfy7ou.jpg"
         }
       ],
       "isHome": true,
@@ -9874,8 +9874,8 @@
     }
   },
   "CZ1004449": {
-    "name": "Ladestation Technologie hlavního města Prahy XII",
-    "sha1": "5bac9020fb3adef39c2e2bb1287eed8e7133b519",
+    "name": "Ladestation Ladestation Technologie hlavního města",
+    "sha1": "6328f0fd80249824b869cf8da15358937e923d27",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -9887,10 +9887,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004449",
-      "csName": "Ladestation Technologie hlavního města Prahy XII",
+      "csName": "Ladestation Ladestation Technologie hlavního města",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Technologie hlavního města Prahy XII",
+      "enCsname": "Charger Charger Technologie hlavního města Prahy X",
       "evseId": "CZ*PRE*ETHMP12*2",
       "geoCoord": {
         "latitude": "50.074099",
@@ -9902,7 +9902,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/thmp12.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a3f4b8a750ff799a6a/thmp12.jpg"
         },
         {
           "class": "otherLogo",
@@ -10468,8 +10468,8 @@
     }
   },
   "CZ1004460": {
-    "name": "Ladestation Technologie hlavního města Prahy I",
-    "sha1": "0198a7ee062d126b9ce7e9e8721461529e492e8d",
+    "name": "Ladestation Ladestation Technologie hlavního města",
+    "sha1": "9921b30f1c8fb31e6a1d69ec0b564074566e37ee",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -10481,10 +10481,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004460",
-      "csName": "Ladestation Technologie hlavního města Prahy I",
+      "csName": "Ladestation Ladestation Technologie hlavního města",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Technologie hlavního města Prahy I",
+      "enCsname": "Charger Charger Technologie hlavního města Prahy I",
       "evseId": "CZ*PRE*ETHMP1*2",
       "geoCoord": {
         "latitude": "50.076215",
@@ -10496,7 +10496,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/thmp1.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a6f4b8a750ff799b73/thmp1.jpg"
         },
         {
           "class": "otherLogo",
@@ -11098,8 +11098,8 @@
     }
   },
   "CZ1004603": {
-    "name": "Ladestation OREA Pyramida II",
-    "sha1": "6a9478fdb1cdfccf202aca773789521a3df4120a",
+    "name": "Ladestation Ladestation OREA Pyramida II",
+    "sha1": "a686ca9f907a45db4567fc130293939ace318315",
     "station": {
       "branch": "Hotel",
       "chargingFacilities": {
@@ -11111,10 +11111,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004603",
-      "csName": "Ladestation OREA Pyramida II",
+      "csName": "Ladestation Ladestation OREA Pyramida II",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger OREA Pyramida II",
+      "enCsname": "Charger Charger OREA Pyramida II",
       "enExtra": "Free of charge for hotel customers, otherwise a parking fee 50CZK/h or 400CZK/day",
       "evseId": "CZ*PRE*E1S8163*2",
       "extra": "Free of charge for hotel customers, otherwise a parking fee 50CZK/h or 400CZK/day",
@@ -11128,12 +11128,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-ahfiu7ppq6agu.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a4f4b8a750ff799abc/imgonline-com-ua-resize-ahfiu7ppq6agu.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-dfyjax1uuvbymdv.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a4f4b8a750ff799abc/imgonline-com-ua-resize-dfyjax1uuvbymdv.jpg"
         }
       ],
       "isHome": true,
@@ -11782,8 +11782,8 @@
     }
   },
   "CZ1004727": {
-    "name": "Schnellladestation OC Hasso ČM Breicetlova",
-    "sha1": "0e040854f9c8bf2e392d1330d0afaac9d3362f09",
+    "name": "Schnellladestation Schnellladestation OC Hasso ČM ",
+    "sha1": "c4f61ab29a6e32bb7848c518ac716548705c5d68",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -11795,10 +11795,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004727",
-      "csName": "Schnellladestation OC Hasso ČM Breicetlova",
+      "csName": "Schnellladestation Schnellladestation OC Hasso ČM ",
       "csStatus": "operable",
       "csType": "fast_charger",
-      "enCsname": "Fast charger OC Hasso ČM Breicetlova",
+      "enCsname": "Fast charger Fast charger OC Hasso ČM Breicetlova",
       "evseId": "CZ*PRE*E1R0055*2",
       "geoCoord": {
         "latitude": "50.105361",
@@ -11810,7 +11810,7 @@
         {
           "class": "locationPhoto",
           "type": "png",
-          "uri": "https://smatrics.com/sites/default/files/pre_oc_hasso_cm_breicetlova.png"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a6f4b8a750ff799b58/pre_oc_hasso_cm_breicetlova.png"
         }
       ],
       "isHome": true,
@@ -11831,8 +11831,8 @@
     }
   },
   "CZ1004753": {
-    "name": "Schnellladestation Benzina Jižní Spojka",
-    "sha1": "68a383e7297bd39854b9b445a3c3b7fb414aa064",
+    "name": "Schnellladestation Schnellladestation Benzina Jižn",
+    "sha1": "564575742d0ccebe53b533b9c420eeff2a548e21",
     "station": {
       "branch": "Baumarkt",
       "chargingFacilities": {
@@ -11844,10 +11844,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004753",
-      "csName": "Schnellladestation Benzina Jižní Spojka",
+      "csName": "Schnellladestation Schnellladestation Benzina Jižn",
       "csStatus": "operable",
       "csType": "fast_charger",
-      "enCsname": "Fast charger Benzina Jižní Spojka",
+      "enCsname": "Fast charger Fast charger Benzina Jižní Spojka",
       "evseId": "CZ*PRE*E1R0050*2",
       "geoCoord": {
         "latitude": "50.059389",
@@ -11859,7 +11859,7 @@
         {
           "class": "locationPhoto",
           "type": "png",
-          "uri": "https://smatrics.com/sites/default/files/benzina_jizni_spojka.png"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a3f4b8a750ff799a60/benzina_jizni_spojka.png"
         }
       ],
       "isHome": true,
@@ -13011,8 +13011,8 @@
     }
   },
   "CZ2003514": {
-    "name": "Schnellladestation OMV Vrbová Lhota (sever)",
-    "sha1": "c674aa88f3308818ff6289c665ccf420485723e2",
+    "name": "Schnellladestation Schnellladestation OMV Vrbová L",
+    "sha1": "a92909c1b6381a26551c0349bb9cfa2e1f8825c4",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -13025,11 +13025,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ2003514",
-      "csName": "Schnellladestation OMV Vrbová Lhota (sever)",
+      "csName": "Schnellladestation Schnellladestation OMV Vrbová L",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the OMV gas station",
-      "enCsname": "Fast charger OMV Vrbová Lhota (sever)",
+      "enCsname": "Fast charger Fast charger OMV Vrbová Lhota (sever)",
       "evseId": "CZ*PRE*E1R5029*2",
       "geoCoord": {
         "latitude": "50.121583",
@@ -13041,7 +13041,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_vrbova_lhota_sever.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a5f4b8a750ff799b42/pre_app_vrbova_lhota_sever.jpg"
         }
       ],
       "isHome": true,
@@ -13772,8 +13772,8 @@
     }
   },
   "CZ3103470": {
-    "name": "Schnellladestation EuroOil Jindřichův Hradec",
-    "sha1": "d991986f9e15fed3d03d9b6a7ddc6d5ffdfe7002",
+    "name": "Schnellladestation Schnellladestation EuroOil Jind",
+    "sha1": "07a9d30620b875cc4f2606314cf0363d1d49e99f",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -13786,11 +13786,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ3103470",
-      "csName": "Schnellladestation EuroOil Jindřichův Hradec",
+      "csName": "Schnellladestation Schnellladestation EuroOil Jind",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the EuroOil gas station",
-      "enCsname": "Fast charger EuroOil Jindřichův Hradec",
+      "enCsname": "Fast charger Fast charger EuroOil Jindřichův Hrade",
       "evseId": "CZ*PRE*E1R5092*3",
       "geoCoord": {
         "latitude": "49.153218",
@@ -13802,7 +13802,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_jindrichuv_hradec_12.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a6f4b8a750ff799b7c/pre_app_jindrichuv_hradec_12.jpg"
         }
       ],
       "isHome": true,
@@ -15674,8 +15674,8 @@
     }
   },
   "CZ5203091": {
-    "name": "Schnellladestation OMV Hradec Králové (sever)",
-    "sha1": "21bc2a5959aff1d83aabd596644fd7422e00d657",
+    "name": "Schnellladestation Schnellladestation OMV Hradec K",
+    "sha1": "cff8f5c39964defd56e7c5a8cc7a01f0dcb35791",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -15688,11 +15688,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ5203091",
-      "csName": "Schnellladestation OMV Hradec Králové (sever)",
+      "csName": "Schnellladestation Schnellladestation OMV Hradec K",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enAdditionalInfo": "By the OMV gas station",
-      "enCsname": "Fast charger OMV Hradec Králové (sever)",
+      "enCsname": "Fast charger Fast charger OMV Hradec Králové (seve",
       "evseId": "CZ*PRE*E1R5037*2",
       "geoCoord": {
         "latitude": "50.218091",
@@ -15704,7 +15704,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/pre_app_omv_hradec_kralove_sever.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a5f4b8a750ff799b45/pre_app_omv_hradec_kralove_sever.jpg"
         }
       ],
       "isHome": true,
@@ -18573,8 +18573,8 @@
     }
   },
   "CZ8004685": {
-    "name": "Ultra-Highspeed-Ladestation Hornbach Vítkovice",
-    "sha1": "e9940c314e73a8fd5918f092fc324e894c88b9dc",
+    "name": "Ultra-Highspeed-Ladestation Ultra-Highspeed-Ladest",
+    "sha1": "2feaeb194543c242ec81ef2c9bb25eaa46f9b34b",
     "station": {
       "branch": "Baumarkt",
       "chargingFacilities": {
@@ -18586,10 +18586,10 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8004685",
-      "csName": "Ultra-Highspeed-Ladestation Hornbach Vítkovice",
+      "csName": "Ultra-Highspeed-Ladestation Ultra-Highspeed-Ladest",
       "csStatus": "operable",
       "csType": "ultra_fast_charger",
-      "enCsname": "Ultra-highspeed charger Hornbach Vítkovice",
+      "enCsname": "Ultra-highspeed charger Ultra-highspeed charger Ho",
       "evseId": "CZ*PRE*E1R0063*3",
       "geoCoord": {
         "latitude": "49.804117",
@@ -18601,12 +18601,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-g8hrdmbpxawfxvo.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a3f4b8a750ff799a63/imgonline-com-ua-resize-g8hrdmbpxawfxvo.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://smatrics.com/sites/default/files/imgonline-com-ua-resize-x1of2xq3k5.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a3f4b8a750ff799a63/imgonline-com-ua-resize-x1of2xq3k5.jpg"
         }
       ],
       "isHome": true,
