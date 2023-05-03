@@ -2071,7 +2071,7 @@
   },
   "112133": {
     "name": "(P) Clarion Grandhotel Zlatý Lev",
-    "sha1": "ef800007cfd031d8630bc89572499dd07fc05a02",
+    "sha1": "f52a55d46d00f2b41be57536504744ed525be5d8",
     "station": {
       "address": "Gutenbergova 126",
       "city": "Liberec",
@@ -2096,7 +2096,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-03-01T16:05:20.707Z",
+              "last_updated": "2023-05-02T04:32:14.21Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -2104,7 +2104,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "35",
-                "36"
+                "36",
+                "246",
+                "247"
               ]
             }
           ],
@@ -2129,7 +2131,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-03-01T16:05:20.707Z",
+              "last_updated": "2023-05-02T04:32:14.21Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -2137,7 +2139,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "35",
-                "36"
+                "36",
+                "246",
+                "247"
               ]
             }
           ],
@@ -12252,7 +12256,7 @@
   },
   "28243": {
     "name": "(P) Comfort Hotel Prague City East",
-    "sha1": "2bf425c57d58ffdd90659b52267aa4674bf7d7c5",
+    "sha1": "815442de6d186eba09560a1e8440bbcb3fe06858",
     "station": {
       "address": "Bečvářova 2081/14",
       "city": "Praha",
@@ -12277,7 +12281,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2020-12-16T13:06:45.297Z",
+              "last_updated": "2023-05-02T04:32:14.21Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -12285,7 +12289,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "35",
-                "36"
+                "36",
+                "246",
+                "247"
               ]
             }
           ],
@@ -12310,7 +12316,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2020-12-16T13:06:45.297Z",
+              "last_updated": "2023-05-02T04:32:14.21Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -12318,7 +12324,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "35",
-                "36"
+                "36",
+                "246",
+                "247"
               ]
             }
           ],
@@ -22326,7 +22334,7 @@
   },
   "49020": {
     "name": "(P) POHODA-SERVIS",
-    "sha1": "7faa121bc3206d9c3957234cfabe3ae1f72cd9dc",
+    "sha1": "1a09030ec566af92b44f05dcc3f057c89f272132",
     "station": {
       "address": "Orlická",
       "city": "Týn nad Vltavou",
@@ -22351,7 +22359,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2021-02-23T13:13:53.35Z",
+              "last_updated": "2023-05-02T04:43:10.827Z",
               "max_amperage": 16,
               "max_electric_power": 11000,
               "max_voltage": 400,
@@ -22359,7 +22367,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "79",
-                "80"
+                "80",
+                "248",
+                "249"
               ]
             }
           ],
@@ -22520,7 +22530,7 @@
   },
   "50153": {
     "name": "(P) Mamaison Residence Downtown Prague",
-    "sha1": "e72c11d5db320dde531237b106a96989c89258d6",
+    "sha1": "69678b651b9392ece338479864ce70be6c93c86b",
     "station": {
       "address": "Na Rybníčku 1329/5",
       "city": "Praha 2",
@@ -22545,7 +22555,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2021-11-02T13:49:00.557Z",
+              "last_updated": "2023-05-02T04:32:14.21Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -22553,7 +22563,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "35",
-                "36"
+                "36",
+                "246",
+                "247"
               ]
             }
           ],
@@ -22578,7 +22590,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2021-11-02T13:49:00.557Z",
+              "last_updated": "2023-05-02T04:32:14.21Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -22586,7 +22598,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "35",
-                "36"
+                "36",
+                "246",
+                "247"
               ]
             }
           ],
