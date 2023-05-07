@@ -18719,6 +18719,60 @@
       "street": "Vltavanů"
     }
   },
+  "CZ9005838": {
+    "name": "Ultra-Highspeed-Ladestation Pankrác Mycí centrum",
+    "sha1": "f73436eceb209d3ce0a4a40e43711795467ec240",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≥200kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9005838",
+      "csName": "Ultra-Highspeed-Ladestation Pankrác Mycí centrum",
+      "csStatus": "operable",
+      "csType": "ultra_fast_charger",
+      "enCsname": "Ultra-highspeed charger Pankrác Mycí centrum",
+      "evseId": "CZ*PRE*E1R0068*3",
+      "geoCoord": {
+        "latitude": "50.051583",
+        "longitude": "14.445833"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6454f84f6f5fb93f08a13b4c/imgonline-com-ua-resize-ht8Dh51t0JIAkB.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6454f84f6f5fb93f08a13b4c/imgonline-com-ua-resize-YHCSZNDoPkl.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "14000",
+      "region": "Hlavní město Praha",
+      "street": "5. května"
+    }
+  },
   "CZ9162726": {
     "name": "Ladestation OREA Hotel Santon",
     "sha1": "77b8b0f091e643928592da056d90c69f680d5e2d",
