@@ -22859,6 +22859,152 @@
       "visible": true
     }
   },
+  "176778": {
+    "name": "R529 - Tanvald - parkoviště u kina - 1",
+    "sha1": "4504174f29ea2ef3443b92c15635978256bd9a1b",
+    "station": {
+      "address": {
+        "city": "Tanvald",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.7382903,
+        "longitude": 15.3079403,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Krkonošská",
+        "url": ""
+      },
+      "customID": "176778",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2722-062",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R529"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-062",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-062",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R529"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/b05a3649-2907-42ea-832a-e224baa9f9b2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R529 - Tanvald - parkoviště u kina - 1",
+      "visible": true
+    }
+  },
+  "176793": {
+    "name": "R530 - Tanvald - parkoviště u kina - 2",
+    "sha1": "476407a6bddf940ed8b12f77941b7a9f5ee4fcd8",
+    "station": {
+      "address": {
+        "city": "Tanvald",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.7382903,
+        "longitude": 15.3079403,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Krkonošská",
+        "url": ""
+      },
+      "customID": "176793",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-IT3-4022-301",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R530"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT3-4022-301",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-IT3-4022-301",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R530"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/b05a3649-2907-42ea-832a-e224baa9f9b2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R530 - Tanvald - parkoviště u kina - 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",

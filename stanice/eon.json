@@ -26015,7 +26015,7 @@
   },
   "51469": {
     "name": "E.ON Benzina Kolín",
-    "sha1": "232d2f18cabc20ddf9f179a24ed0b841ee35b4a6",
+    "sha1": "e9c499866c777d1bbaf0a826a73607dc634e7f7e",
     "station": {
       "address": "Ovčárecká 1459",
       "city": "Kolín",
@@ -26036,12 +26036,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-05-10T22:01:46.167Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.0405364",
             "longitude": "15.21335085"
           },
-          "evse_id": "CZ*EON*E11051469*1",
+          "evse_id": "CZ*UFC*E11051469*1",
           "last_seen_as_planned": "2022-03-14T14:22:14.4Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -26054,12 +26077,57 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-05-10T22:01:46.167Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-05-10T22:01:46.167Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.0405364",
             "longitude": "15.21335085"
           },
-          "evse_id": "CZ*EON*E11051469*2",
+          "evse_id": "CZ*UFC*E11051469*2",
           "last_seen_as_planned": "2022-03-14T14:22:14.4Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -26067,12 +26135,35 @@
         },
         {
           "capabilities": [],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-05-10T22:01:46.167Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.0405364",
             "longitude": "15.21335085"
           },
-          "evse_id": "",
+          "evse_id": "CZ*UFC*E11051471*1",
           "floor_level": "0",
           "last_seen_as_planned": "2023-01-09T12:30:35.08Z",
           "last_updated": "RESET",
@@ -26081,12 +26172,57 @@
         },
         {
           "capabilities": [],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-05-10T22:01:46.167Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-05-10T22:01:46.167Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.0405364",
             "longitude": "15.21335085"
           },
-          "evse_id": "",
+          "evse_id": "CZ*UFC*E11051471*2",
           "floor_level": "0",
           "last_seen_as_planned": "2023-01-09T12:31:00.703Z",
           "last_updated": "RESET",
