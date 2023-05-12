@@ -18972,6 +18972,55 @@
       "street": "Ke Golfu"
     }
   },
+  "CZ9656800": {
+    "name": "Schnellladestation Penny Market Bohúňova",
+    "sha1": "528b546343ed0f99ec724dfe708da369db12ad5e",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9656800",
+      "csName": "Schnellladestation Penny Market Bohúňova",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger Penny Market Bohúňova",
+      "evseId": "CZ*PRE*E1R0051*3",
+      "geoCoord": {
+        "latitude": "50.025676",
+        "longitude": "14.521802"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/645b65466f5fb93f08a13ce9/1080x600.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "149 00",
+      "region": "Hlavní město Praha",
+      "street": "Bohúňova 1337"
+    }
+  },
   "CZ9979120": {
     "name": "Ladestation Golf Club Hodkovičky, z.s.",
     "sha1": "284dcc5448c0c0bfe2c666959593f45c78b2569c",
