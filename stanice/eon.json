@@ -6030,7 +6030,7 @@
   },
   "159669": {
     "name": "(P) Hošek Motor - Vídeňská",
-    "sha1": "27f0a0134329fb3ba1be2552ddbce92ed443ead4",
+    "sha1": "965e10ac4dd681c2baf7892bbfe19704ed1ada96",
     "station": {
       "address": "Vídeňská 132",
       "city": "Brno",
@@ -6055,15 +6055,15 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-04-01T22:01:09.92Z",
+              "last_updated": "2023-05-15T15:32:14.333Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 150000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "203",
-                "205"
+                "206",
+                "207"
               ]
             }
           ],
@@ -6073,7 +6073,7 @@
           },
           "evse_id": "CZ*EON*E159669*1",
           "floor_level": "0",
-          "last_seen_as_planned": "2023-04-04T05:42:24.11Z",
+          "last_seen_as_planned": "2023-05-15T15:32:14.333Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "159669"
@@ -6089,15 +6089,15 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-04-01T22:01:09.92Z",
+              "last_updated": "2023-05-15T15:32:14.333Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 150000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "203",
-                "205"
+                "206",
+                "207"
               ]
             }
           ],
@@ -6106,7 +6106,7 @@
             "longitude": "16.59996831"
           },
           "evse_id": "CZ*EON*E159669*2",
-          "last_seen_as_planned": "2023-04-01T22:01:09.92Z",
+          "last_seen_as_planned": "2023-05-15T15:32:14.333Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "159670"
