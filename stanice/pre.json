@@ -916,13 +916,13 @@
   },
   "CZ1002610": {
     "name": "Ultra-Highspeed-Ladestation Fashion Outlet",
-    "sha1": "20d54dc6035c76049a49ab29089eb1641740bafd",
+    "sha1": "bd981471883087f0ff096f8a3d6ee9c3ccff94dc",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Fashion arena",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤50kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -934,13 +934,20 @@
       "csType": "ultra_fast_charger",
       "enAdditionalInfo": "On the parking lot of Fashion arena",
       "enCsname": "Ultra-highspeed charger Fashion Outlet",
-      "evseId": "CZ*PRE*E1R0024*2",
+      "evseId": "CZ*PRE*E1S8214*7",
       "geoCoord": {
         "latitude": "50.074647",
         "longitude": "14.539601"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc1f/imgonline-com-ua-resize-k3P3mVteJtLxqaPH.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "false",
       "isPartnerCs": false,
@@ -985,9 +992,9 @@
       "partnerName": "PRE",
       "plugs": [
         {
-          "connectorFormat": "Cable",
-          "connectorStandard": "Chademo",
-          "plug": "CHAdeMO"
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
         }
       ],
       "postalCode": "10200",
@@ -15828,7 +15835,7 @@
   },
   "CZ5204376": {
     "name": "Schnellladestation ČSOB Hradec Králové",
-    "sha1": "2c0c3ddd17dcb3f00769dd64760a698af8c99cb5",
+    "sha1": "8622c3e26e8126975bfd9f9ed91b902960324545",
     "station": {
       "additionalInfo": "Die Ladestation ist nur für Kunden der ČSOB mit einer gültigen Einfahrtsgenehmigung zugänglich",
       "branch": "Parken",
@@ -15846,13 +15853,25 @@
       "csType": "fast_charger",
       "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit",
       "enCsname": "Fast charger ČSOB Hradec Králové",
-      "evseId": "CZ*PRE*E0S0015*1",
+      "evseId": "CZ*PRE*E1S8166*6",
       "geoCoord": {
         "latitude": "50.217014",
         "longitude": "15.829661"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a6f4b8a750ff799b77/csob1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a6f4b8a750ff799b77/csob2.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -18673,6 +18692,55 @@
       "postalCode": "18100",
       "region": "Hlavní město Praha",
       "street": "Gdaňská"
+    }
+  },
+  "CZ8855001": {
+    "name": "Ladestation Daramis - Unicity",
+    "sha1": "a238dfa30d802683e9fcab7c1b06c6087cf86199",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Plzen",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8855001",
+      "csName": "Ladestation Daramis - Unicity",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Daramis - Unicity",
+      "evseId": "CZ*PRE*E1S8185*6",
+      "geoCoord": {
+        "latitude": "49.728917",
+        "longitude": "13.353244"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64624edb6f5fb93f08a13edc/imgonline-com-ua-resize-U1sQTrEWfCvc8r.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "30100",
+      "region": "Plzeňský kraj",
+      "street": "Inženýrská"
     }
   },
   "CZ8985363": {

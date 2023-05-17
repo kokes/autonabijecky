@@ -23005,6 +23005,70 @@
       "visible": true
     }
   },
+  "177023": {
+    "name": "N239 - Praha - Kbely - Semilská",
+    "sha1": "e8d623a2f5703e88989f2714afb4e4581e31c590",
+    "station": {
+      "address": {
+        "city": "Praha 19",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.1336103,
+        "longitude": 14.5492014,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Železnobrodská",
+        "url": ""
+      },
+      "customID": "177023",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N239"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N239"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/img_2309.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "N239 - Praha - Kbely - Semilská",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
