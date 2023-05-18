@@ -1,223 +1,4 @@
 {
-  "100585": {
-    "name": "R276 - Nupaky - Shell - D1 - 1",
-    "sha1": "95ad7e90aeeb0f599faa7861da45f9b54640fbb5",
-    "station": {
-      "address": {
-        "city": "Nupaky",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "dálnice D1 8,5.km, směr Praha",
-        "latitude": 49.9847333,
-        "longitude": 14.6025894,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "E65",
-        "url": ""
-      },
-      "customID": "100585",
-      "description": [
-        {
-          "language": "cs",
-          "text": "E65 dálnice D1 8,5.km, směr Praha"
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-0720-006",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R276"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-0720-006",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-0720-006",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R276"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/ifup1427.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R276 - Nupaky - Shell - D1 - 1",
-      "visible": true
-    }
-  },
-  "100605": {
-    "name": "R277 - Nupaky - Shell - D1 - 2",
-    "sha1": "1f45d14cfb9d1b3253f1db5436182ec47a2b6f44",
-    "station": {
-      "address": {
-        "city": "Nupaky",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "dálnice D1 8,5.km, směr Praha",
-        "latitude": 49.98469,
-        "longitude": 14.6025894,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "E65",
-        "url": ""
-      },
-      "customID": "100605",
-      "description": [
-        {
-          "language": "cs",
-          "text": "E65 dálnice D1 8,5.km, směr Praha"
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-0820-006",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R277"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-0820-006",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-0820-006",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R277"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/ifup1427-20220208-144309.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R277 - Nupaky - Shell - D1 - 2",
-      "visible": true
-    }
-  },
-  "100606": {
-    "name": "R278 - Nupaky - Shell - D1 - 3",
-    "sha1": "180e20c3c5c31e49358b4bc4e09312dc91a004f8",
-    "station": {
-      "address": {
-        "city": "Nupaky",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "dálnice D1 8,5.km, směr Praha",
-        "latitude": 49.98465,
-        "longitude": 14.6025894,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "E65",
-        "url": ""
-      },
-      "customID": "100606",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-0720-003",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R278"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-0720-003",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-0720-003",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R278"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/ifup1427-20220208-144325.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R278 - Nupaky - Shell - D1 - 3",
-      "visible": true
-    }
-  },
   "100625": {
     "name": "R280 - Roudnice nad Labem - Shell - 1",
     "sha1": "ef70421cd249496f942b0590a455ee481241fe96",
@@ -12176,152 +11957,6 @@
       "visible": true
     }
   },
-  "157610": {
-    "name": "R397 - Praha Barrandov - Shell - 1",
-    "sha1": "3ba54f1ee0c824969a6940cbaff6d09d615bd5e5",
-    "station": {
-      "address": {
-        "city": "Praha 5",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "Barrandovu 1085/1",
-        "latitude": 50.0358471,
-        "longitude": 14.3870534,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "K",
-        "url": ""
-      },
-      "customID": "157610",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-3321-055",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R397"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3321-055",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3321-055",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R397"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/img_0443.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R397 - Praha Barrandov - Shell - 1",
-      "visible": true
-    }
-  },
-  "157611": {
-    "name": "R398 - Praha Barrandov - Shell - 2",
-    "sha1": "a1d031c27f75cbedf8fd9e70e7e0c1f3df0ffc02",
-    "station": {
-      "address": {
-        "city": "Praha 5",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "Barrandovu 1085/1",
-        "latitude": 50.0358471,
-        "longitude": 14.3870534,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "K",
-        "url": ""
-      },
-      "customID": "157611",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-3321-044",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R398"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3321-044",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3321-044",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R398"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/04/img_0443.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R398 - Praha Barrandov - Shell - 2",
-      "visible": true
-    }
-  },
   "157899": {
     "name": "R417 - Tuchoměřice - Pop Airport - 1",
     "sha1": "102258c42110b31209ddcbceb5f514235eb398cd",
@@ -23066,6 +22701,79 @@
       ],
       "instructions": null,
       "name": "N239 - Praha - Kbely - Semilská",
+      "visible": true
+    }
+  },
+  "177077": {
+    "name": "R533 - Bravantice - Motorest Bravantice",
+    "sha1": "6f385ca04d180def32b2c78b80fe7f7507d669e2",
+    "station": {
+      "address": {
+        "city": "Bravantice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "248",
+        "latitude": 49.7527658,
+        "longitude": 18.0873653,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Bravantice",
+        "url": ""
+      },
+      "customID": "177077",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-2722-063",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R533"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-063",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-2722-063",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R533"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/6ca90cc7-78ef-47cf-aaab-446aad4026c8.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R533 - Bravantice - Motorest Bravantice",
       "visible": true
     }
   },
@@ -36828,152 +36536,6 @@
       ],
       "instructions": null,
       "name": "R256 - Hradec Králové – Hučák",
-      "visible": true
-    }
-  },
-  "84825": {
-    "name": "R245 - Hradec Králové - Shell - 1",
-    "sha1": "2c1517c0b75c711c61d62de13aa44a68389d94ae",
-    "station": {
-      "address": {
-        "city": "Hradec Králové",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "okruh 381/2",
-        "latitude": 50.2167586,
-        "longitude": 15.8322411,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Gočárův",
-        "url": ""
-      },
-      "customID": "84825",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-4419-008",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R245"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-4419-008",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-4419-008",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R245"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_2816.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R245 - Hradec Králové - Shell - 1",
-      "visible": true
-    }
-  },
-  "84845": {
-    "name": "R246 - Hradec Králové - Shell - 2",
-    "sha1": "e0e8cb17791a6cda36bff114a52f2d486144367a",
-    "station": {
-      "address": {
-        "city": "Hradec Králové",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "okruh 381/2",
-        "latitude": 50.2167,
-        "longitude": 15.8322411,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Gočárův",
-        "url": ""
-      },
-      "customID": "84845",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-3619-014",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R246"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3619-014",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3619-014",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R246"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_2816-20220207-163005.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R246 - Hradec Králové - Shell - 2",
       "visible": true
     }
   },

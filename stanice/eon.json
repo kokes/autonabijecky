@@ -3523,7 +3523,7 @@
   },
   "127583": {
     "name": "E.ON Penny Trutnov",
-    "sha1": "bd5e50695c1e1e092d7cb73c5c2e0ed2d1bdb0ac",
+    "sha1": "7e1bee0758ab3dcec8e6278c5e2a7ed60ec366d4",
     "station": {
       "address": "Horská 92",
       "city": "Trutnov",
@@ -3550,7 +3550,7 @@
             "longitude": "15.89775368"
           },
           "evse_id": "CZ*EON*E127583",
-          "last_seen_as_planned": null,
+          "last_seen_as_planned": "2023-05-17T14:20:00.27Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "127583"
@@ -3568,7 +3568,7 @@
             "longitude": "15.89775368"
           },
           "evse_id": "CZ*EON*E127584",
-          "last_seen_as_planned": null,
+          "last_seen_as_planned": "2023-05-17T14:20:00.27Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "127584"
@@ -3586,7 +3586,7 @@
             "longitude": "15.89775368"
           },
           "evse_id": "CZ*EON*E127585",
-          "last_seen_as_planned": null,
+          "last_seen_as_planned": "2023-05-17T14:20:00.27Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "127585"
@@ -17145,7 +17145,7 @@
   },
   "35931": {
     "name": "E.ON Zlatý Anděl",
-    "sha1": "403be4d3231337e733e8dadecc691f37aa50ca70",
+    "sha1": "591bcf4a22159a019cea0383329b72ccd2019bb3",
     "station": {
       "address": "Bozděchova 4",
       "city": "Praha",
@@ -17158,44 +17158,7 @@
       "energy_mix": {
         "is_green_energy": true
       },
-      "evses": [
-        {
-          "capabilities": [
-            "CONTACTLESS_CARD_SUPPORT",
-            "REMOTE_START_STOP_CAPABLE",
-            "RFID_READER",
-            "UNLOCK_CAPABLE"
-          ],
-          "connectors": [],
-          "coordinates": {
-            "latitude": "50.07035826",
-            "longitude": "14.40380788"
-          },
-          "evse_id": "CZ*EON*E25035931*1",
-          "last_seen_as_planned": "2022-01-18T11:13:53.267Z",
-          "last_updated": "RESET",
-          "status": "RESET",
-          "uid": "35931"
-        },
-        {
-          "capabilities": [
-            "CONTACTLESS_CARD_SUPPORT",
-            "REMOTE_START_STOP_CAPABLE",
-            "RFID_READER",
-            "UNLOCK_CAPABLE"
-          ],
-          "connectors": [],
-          "coordinates": {
-            "latitude": "50.07035826",
-            "longitude": "14.40380788"
-          },
-          "evse_id": "CZ*EON*E25035931*2",
-          "last_seen_as_planned": "2022-01-18T11:13:53.267Z",
-          "last_updated": "RESET",
-          "status": "RESET",
-          "uid": "35932"
-        }
-      ],
+      "evses": [],
       "id": "35931",
       "last_updated": "RESET",
       "name": "E.ON Zlatý Anděl",
