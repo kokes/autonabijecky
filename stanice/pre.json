@@ -18694,6 +18694,90 @@
       "street": "Gdaňská"
     }
   },
+  "CZ8567925": {
+    "name": "Schnellladestation Benzina Kbelská",
+    "sha1": "150a16851db2a5d5fe9858194033f91e6d5ae62a",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8567925",
+      "csName": "Schnellladestation Benzina Kbelská",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger Benzina Kbelská",
+      "evseId": "CZ*PRE*E1R0069*3",
+      "geoCoord": {
+        "latitude": "50.128290",
+        "longitude": "14.504937"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Kbelská 110"
+    }
+  },
+  "CZ8671071": {
+    "name": "Schnellladestation e-senohraby exhibition",
+    "sha1": "ced7c33de51f8ebdb4d9d4c4c5b4ae0517507dac",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Senohraby",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8671071",
+      "csName": "Schnellladestation e-senohraby exhibition",
+      "csStatus": "operable",
+      "csType": "fast_charger",
+      "enCsname": "Fast charger e-senohraby exhibition",
+      "evseId": "CZ*PRE*EPRE0014*3",
+      "geoCoord": {
+        "latitude": "49.897436",
+        "longitude": "14.714489"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "25166",
+      "region": "Středočeský kraj",
+      "street": "Malostranská 344"
+    }
+  },
   "CZ8855001": {
     "name": "Ladestation Daramis - Unicity",
     "sha1": "a238dfa30d802683e9fcab7c1b06c6087cf86199",

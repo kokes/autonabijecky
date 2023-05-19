@@ -3113,7 +3113,7 @@
   },
   "137165": {
     "name": "R322 - Nové Strašecí - Benzina - D6",
-    "sha1": "51ba1438e089e273f890785eac5f791c719ce0ae",
+    "sha1": "ac86cd53e6b5e711ed3c27cbbca6e1d5ddfc6c79",
     "station": {
       "address": {
         "city": "Nové Strašecí",
@@ -3176,157 +3176,11 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/shell_brno_hradecka_001.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/03/urds-kaufland-dvur-kralove-1-20210329-092719.jpg"
         }
       ],
       "instructions": null,
       "name": "R322 - Nové Strašecí - Benzina - D6",
-      "visible": true
-    }
-  },
-  "137507": {
-    "name": "R318 - Brno - Shell - 1",
-    "sha1": "dff734a4ea7cb856e1f02d1cd1adb3e8d10d2b2b",
-    "station": {
-      "address": {
-        "city": "Brno",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "2895/32",
-        "latitude": 49.2268017,
-        "longitude": 16.5790439,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Hradecká",
-        "url": ""
-      },
-      "customID": "137507",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-4420-011",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R318"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-4420-011",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-4420-011",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R318"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/shell_brno_hradecka_001.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R318 - Brno - Shell - 1",
-      "visible": true
-    }
-  },
-  "137508": {
-    "name": "R319 - Brno - Shell - 2",
-    "sha1": "6f78c2b41eba1d67ecb578368704e54675b45a28",
-    "station": {
-      "address": {
-        "city": "Brno",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "2895/32",
-        "latitude": 49.2268017,
-        "longitude": 16.5791,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Hradecká",
-        "url": ""
-      },
-      "customID": "137508",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-4320-009",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R319"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-4320-009",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-4320-009",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R319"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/shell_brno_hradecka_001-20220208-144546.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R319 - Brno - Shell - 2",
       "visible": true
     }
   },
@@ -6439,152 +6293,6 @@
       ],
       "instructions": null,
       "name": "R370 - Polička - Benzina",
-      "visible": true
-    }
-  },
-  "151063": {
-    "name": "R366 - Humpolec - Shell - 1",
-    "sha1": "afd9fb87b8a9444c82e39efb8fa5ee819dfa44da",
-    "station": {
-      "address": {
-        "city": "Humpolec",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "D1 - směr Praha",
-        "latitude": 49.5361514,
-        "longitude": 15.3339711,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "dálnice",
-        "url": ""
-      },
-      "customID": "151063",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-0821-002",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R366"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-0821-002",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-0821-002",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R366"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/10/shell-humpolec-3.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R366 - Humpolec - Shell - 1",
-      "visible": true
-    }
-  },
-  "151064": {
-    "name": "R367 - Humpolec - Shell - 2",
-    "sha1": "5b08698eda9c859aa14069b49587d824363848d4",
-    "station": {
-      "address": {
-        "city": "Humpolec",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "D1 - směr Praha",
-        "latitude": 49.5361514,
-        "longitude": 15.3339,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "dálnice",
-        "url": ""
-      },
-      "customID": "151064",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-1221-012",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R367"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-1221-012",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-1221-012",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R367"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2021/10/shell-humpolec-3-20211012-115921.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R367 - Humpolec - Shell - 2",
       "visible": true
     }
   },
@@ -22774,6 +22482,152 @@
       ],
       "instructions": null,
       "name": "R533 - Bravantice - Motorest Bravantice",
+      "visible": true
+    }
+  },
+  "177087": {
+    "name": "R518 - Chomutov - Benzina",
+    "sha1": "129a2fc56987f7926e8c6d83109aa0e9ad4d6d21",
+    "station": {
+      "address": {
+        "city": "Chomutov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "5369",
+        "latitude": 50.45227,
+        "longitude": 13.42593,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pražská",
+        "url": ""
+      },
+      "customID": "177087",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R518"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R518"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/222a233a-20b8-4c34-8f6e-b3a1469618ad.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R518 - Chomutov - Benzina",
+      "visible": true
+    }
+  },
+  "177088": {
+    "name": "R516 - Cheb - McDonald´s",
+    "sha1": "90b3862f199e0ae84d885af4bcf450cdb45d4350",
+    "station": {
+      "address": {
+        "city": "Cheb",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1690/1",
+        "latitude": 50.08108,
+        "longitude": 12.37712,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Tovární",
+        "url": ""
+      },
+      "customID": "177088",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R516"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R516"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/b3679580-a251-4df2-84e1-53bf41087977.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R516 - Cheb - McDonald´s",
       "visible": true
     }
   },
