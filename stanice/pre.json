@@ -15835,7 +15835,7 @@
   },
   "CZ5204376": {
     "name": "Schnellladestation ČSOB Hradec Králové",
-    "sha1": "8622c3e26e8126975bfd9f9ed91b902960324545",
+    "sha1": "2c0c3ddd17dcb3f00769dd64760a698af8c99cb5",
     "station": {
       "additionalInfo": "Die Ladestation ist nur für Kunden der ČSOB mit einer gültigen Einfahrtsgenehmigung zugänglich",
       "branch": "Parken",
@@ -15853,25 +15853,13 @@
       "csType": "fast_charger",
       "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit",
       "enCsname": "Fast charger ČSOB Hradec Králové",
-      "evseId": "CZ*PRE*E1S8166*6",
+      "evseId": "CZ*PRE*E0S0015*1",
       "geoCoord": {
         "latitude": "50.217014",
         "longitude": "15.829661"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
-      "images": [
-        {
-          "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a6f4b8a750ff799b77/csob1.jpeg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a6f4b8a750ff799b77/csob2.jpeg"
-        }
-      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -18692,6 +18680,60 @@
       "postalCode": "18100",
       "region": "Hlavní město Praha",
       "street": "Gdaňská"
+    }
+  },
+  "CZ8523914": {
+    "name": "Ladestation ČSOB Hradec Králové 2",
+    "sha1": "eba17259ed7bf7c5a30c7694c47c57ec5b3f581e",
+    "station": {
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Hradec Králové",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8523914",
+      "csName": "Ladestation ČSOB Hradec Králové 2",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger ČSOB Hradec Králové 2",
+      "evseId": "CZ*PRE*E1S8166*6",
+      "geoCoord": {
+        "latitude": "50.216581",
+        "longitude": "15.829659"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/646777bc4fbd383ca8b4341c/csob1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/646777bc4fbd383ca8b4341c/csob2.jpeg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "500 03",
+      "region": "Královéhradecký kraj",
+      "street": "Collinova 573"
     }
   },
   "CZ8567925": {

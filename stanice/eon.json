@@ -27973,10 +27973,14 @@
   },
   "51516": {
     "name": "E.ON Jindřichův Hradec",
-    "sha1": "e2786dbe8a34355961c736fcfe2e37b315102ba2",
+    "sha1": "a74c0ca544548b2347b10b4f7b466b3640f07a1d",
     "station": {
       "address": "Priprava",
       "city": "Priprava",
+      "coordinates": {
+        "latitude": "49.14226970",
+        "longitude": "15.01953560"
+      },
       "country": "CZE",
       "country_code": "CZ",
       "energy_mix": {
@@ -27990,12 +27994,102 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
-          "evse_id": "CZ*EON*E32051516*1",
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-05-20T07:18:28.723Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-05-20T07:18:28.723Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.14226970",
+            "longitude": "15.01953560"
+          },
+          "evse_id": "CZ*UFC*E32051516*1",
           "last_seen_as_planned": "2023-01-09T12:08:17.59Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51516"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-05-20T07:18:28.723Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.14226970",
+            "longitude": "15.01953560"
+          },
+          "evse_id": "CZ*UFC*E32051516*3",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51518"
         }
       ],
       "id": "51516",
