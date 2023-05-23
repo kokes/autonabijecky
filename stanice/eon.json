@@ -8932,7 +8932,7 @@
   },
   "204534": {
     "name": "(P) GALERIE MLÝN ŽERAVINY",
-    "sha1": "68f99d17e9abcf1f36672f31580ca0267b219a6d",
+    "sha1": "7e823244e6c1ada10a56080caf1fad3c41d04d8e",
     "station": {
       "address": "Žeraviny 1",
       "city": "Žeraviny",
@@ -8978,6 +8978,39 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "171051"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-05-22T22:02:07.093Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "250",
+                "251"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.9076881",
+            "longitude": "17.3893097"
+          },
+          "evse_id": "GB*EON*E204534",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "204534"
         }
       ],
       "facilities": [
@@ -9010,7 +9043,7 @@
   },
   "206413": {
     "name": "(P) UH CAR",
-    "sha1": "d4136d8b3fb1689cd69fe6dc81362005b03455ab",
+    "sha1": "de2406008ece97bf8fa1bd7ba7bdbf4fea074bcb",
     "station": {
       "address": "Východní 2134",
       "city": "Staré Město",
@@ -9042,16 +9075,8 @@
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
               "tariff_ids": [
-                "214",
-                "217",
-                "189",
-                "188",
-                "146",
-                "145",
-                "68",
-                "65",
-                "10",
-                "7"
+                "252",
+                "253"
               ]
             }
           ],
@@ -9083,16 +9108,8 @@
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
               "tariff_ids": [
-                "7",
-                "10",
-                "65",
-                "68",
-                "145",
-                "146",
-                "188",
-                "189",
-                "214",
-                "217"
+                "252",
+                "253"
               ]
             }
           ],
@@ -9124,16 +9141,8 @@
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
               "tariff_ids": [
-                "7",
-                "10",
-                "65",
-                "68",
-                "145",
-                "146",
-                "188",
-                "189",
-                "214",
-                "217"
+                "252",
+                "253"
               ]
             }
           ],
@@ -9165,16 +9174,8 @@
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
               "tariff_ids": [
-                "7",
-                "10",
-                "65",
-                "68",
-                "145",
-                "146",
-                "188",
-                "189",
-                "214",
-                "217"
+                "252",
+                "253"
               ]
             }
           ],
@@ -9209,10 +9210,10 @@
         "twentyfourseven": true
       },
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "UH CAR, s.r.o."
       },
       "owner": {
-        "name": "E.ON Energie, a.s."
+        "name": "UH CAR, s.r.o."
       },
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
