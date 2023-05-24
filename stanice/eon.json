@@ -3523,7 +3523,7 @@
   },
   "127583": {
     "name": "E.ON Penny Trutnov",
-    "sha1": "7e1bee0758ab3dcec8e6278c5e2a7ed60ec366d4",
+    "sha1": "b400df39dc5ee0c7c6c980aedb21fdea8720fc4e",
     "station": {
       "address": "Horská 92",
       "city": "Trutnov",
@@ -3544,12 +3544,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-05-23T22:01:31.84Z",
+              "max_amperage": 125,
+              "max_electric_power": 90000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.57222677",
             "longitude": "15.89775368"
           },
-          "evse_id": "CZ*EON*E127583",
+          "evse_id": "CZ*UFC*E98127583*1",
           "last_seen_as_planned": "2023-05-17T14:20:00.27Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -3562,12 +3585,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-05-23T22:01:31.84Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.57222677",
             "longitude": "15.89775368"
           },
-          "evse_id": "CZ*EON*E127584",
+          "evse_id": "CZ*UFC*E98127583*2",
           "last_seen_as_planned": "2023-05-17T14:20:00.27Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -3580,12 +3626,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-05-23T22:01:31.84Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.57222677",
             "longitude": "15.89775368"
           },
-          "evse_id": "CZ*EON*E127585",
+          "evse_id": "CZ*UFC*E98127583*3",
           "last_seen_as_planned": "2023-05-17T14:20:00.27Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -35564,7 +35633,7 @@
   },
   "53864": {
     "name": "E.ON Penny Vrchlabí",
-    "sha1": "e8c23bfc9f0d5b9dd5635e4ba331ffea1f10f4b7",
+    "sha1": "3f46901ff5ba43d6e5b9ea73f73853f2bad27cc0",
     "station": {
       "address": "A. Jiráska 1474",
       "city": " Vrchlabí",
@@ -35585,12 +35654,57 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-05-23T22:01:31.84Z",
+              "max_amperage": 125,
+              "max_electric_power": 60000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-05-23T22:01:31.84Z",
+              "max_amperage": 125,
+              "max_electric_power": 60000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.61887481",
             "longitude": "15.6121714"
           },
-          "evse_id": "CZ*EON*E98053864*1",
+          "evse_id": "CZ*UFC*E98053864*1",
           "last_seen_as_planned": "2022-03-24T11:55:33.84Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -35603,12 +35717,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-05-23T22:01:31.84Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.61887481",
             "longitude": "15.6121714"
           },
-          "evse_id": "CZ*EON*E98053864*2",
+          "evse_id": "CZ*UFC*E98053864*2",
           "last_seen_as_planned": "2022-03-24T11:55:33.84Z",
           "last_updated": "RESET",
           "status": "RESET",
