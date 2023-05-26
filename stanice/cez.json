@@ -22631,6 +22631,645 @@
       "visible": true
     }
   },
+  "177298": {
+    "name": "R531 - České Budějovice - ÚAMK - 1",
+    "sha1": "97d056696f13a6681f1a33ceb6f4b97c157a0232",
+    "station": {
+      "address": {
+        "city": "České Budějovice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Světlé 2238/2",
+        "latitude": 48.9924186,
+        "longitude": 14.4788875,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K.",
+        "url": ""
+      },
+      "customID": "177298",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R531"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R531"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/102d55b2-ff9a-41da-8e89-52e173982a60.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R531 - České Budějovice - ÚAMK - 1",
+      "visible": true
+    }
+  },
+  "177299": {
+    "name": "R532 - České Budějovice - ÚAMK - 2",
+    "sha1": "536974883e8ac0e0a39e9cd02ab83e73fabd82cd",
+    "station": {
+      "address": {
+        "city": "České Budějovice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Světlé 2238/2",
+        "latitude": 48.9924186,
+        "longitude": 14.4788875,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K.",
+        "url": ""
+      },
+      "customID": "177299",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R532"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R532"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/102d55b2-ff9a-41da-8e89-52e173982a60.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R532 - České Budějovice - ÚAMK - 2",
+      "visible": true
+    }
+  },
+  "177300": {
+    "name": "R121 - Třeboň - Benzina",
+    "sha1": "8e393e555d17e2a01b584fc5b9dcbd2cc9ecbd54",
+    "station": {
+      "address": {
+        "city": "Třeboň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kopečku 995",
+        "latitude": 49.0117178,
+        "longitude": 14.7883419,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Na",
+        "url": ""
+      },
+      "customID": "177300",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R121"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R121"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/53badb68-6eae-42e2-9dbd-00bfdef971b1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R121 - Třeboň - Benzina",
+      "visible": true
+    }
+  },
+  "177301": {
+    "name": "N229 - Pěnčín - Kozí farma",
+    "sha1": "b35635aecf4ff4f4a0ef192d7eae0017ebc1acac",
+    "station": {
+      "address": {
+        "city": "Pěnčín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "60",
+        "latitude": 50.6883633,
+        "longitude": 15.2357911,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pěnčín",
+        "url": ""
+      },
+      "customID": "177301",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N229"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N229"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/img_2309.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "N229 - Pěnčín - Kozí farma",
+      "visible": true
+    }
+  },
+  "177302": {
+    "name": "R497 - Mikulov - Levandulový Hotel Marcinčák - 1",
+    "sha1": "a3fbb2f2d6e9f739daa06b7368845ddc0a3d4192",
+    "station": {
+      "address": {
+        "city": "Mikulov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Vápence 69",
+        "latitude": 48.8056886,
+        "longitude": 16.6251481,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K",
+        "url": ""
+      },
+      "customID": "177302",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R497"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R497"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/image-8.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R497 - Mikulov - Levandulový Hotel Marcinčák - 1",
+      "visible": true
+    }
+  },
+  "177303": {
+    "name": "R498 - Mikulov - Levandulový Hotel Marcinčák - 2",
+    "sha1": "7e17c15ae0e67dedf29d0218d0cb4722f968f423",
+    "station": {
+      "address": {
+        "city": "Mikulov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Vápence 69",
+        "latitude": 48.8056886,
+        "longitude": 16.6251481,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K",
+        "url": ""
+      },
+      "customID": "177303",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R498"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R498"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/image-8.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R498 - Mikulov - Levandulový Hotel Marcinčák - 2",
+      "visible": true
+    }
+  },
+  "177304": {
+    "name": "R499 - Mikulov - Levandulový Hotel Marcinčák - 3",
+    "sha1": "94e7e71771933db53dc9a41c7566b7a796785297",
+    "station": {
+      "address": {
+        "city": "Mikulov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Vápence 69",
+        "latitude": 48.8056886,
+        "longitude": 16.6251481,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K",
+        "url": ""
+      },
+      "customID": "177304",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R499"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R499"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/image-8.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R499 - Mikulov - Levandulový Hotel Marcinčák - 3",
+      "visible": true
+    }
+  },
+  "177325": {
+    "name": "R500 - Mikulov - Levandulový Hotel Marcinčák - 4",
+    "sha1": "b71fca238e33915eab8171aa3ce4207dbb7f6c03",
+    "station": {
+      "address": {
+        "city": "Mikulov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Vápence 69",
+        "latitude": 48.8056886,
+        "longitude": 16.6251481,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K",
+        "url": ""
+      },
+      "customID": "177325",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R500"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R500"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/image-8.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R500 - Mikulov - Levandulový Hotel Marcinčák - 4",
+      "visible": true
+    }
+  },
+  "177345": {
+    "name": "UR114 - Mikulov - Levandulový Hotel Marcinčák - 5",
+    "sha1": "199e185696e8c45225432464a09505fef156b7b0",
+    "station": {
+      "address": {
+        "city": "Mikulov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Vápence 69",
+        "latitude": 48.8056886,
+        "longitude": 16.6251481,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K",
+        "url": ""
+      },
+      "customID": "177345",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR114"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR114"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/image-1.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR114 - Mikulov - Levandulový Hotel Marcinčák - 5",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
