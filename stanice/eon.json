@@ -3426,7 +3426,7 @@
   },
   "127580": {
     "name": "E.ON Penny Kladno",
-    "sha1": "f01b5e0ce5f1669d84637361be0413c0d2eddd02",
+    "sha1": "b56713a0b342368088b2209d86209ec1b243cc40",
     "station": {
       "address": "Americká 749",
       "city": "Kladno",
@@ -3447,12 +3447,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-05-26T08:01:05.773Z",
+              "max_amperage": 125,
+              "max_electric_power": 90000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.12642153",
             "longitude": "14.12228828"
           },
-          "evse_id": "CZ*EON*E127580",
+          "evse_id": "CZ*UFC*E98127580*1",
           "last_seen_as_planned": "2022-04-08T12:36:31.457Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -3465,12 +3488,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-05-26T08:01:05.773Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.12642153",
             "longitude": "14.12228828"
           },
-          "evse_id": "CZ*EON*E127581",
+          "evse_id": "CZ*UFC*E98127580*2",
           "last_seen_as_planned": "2022-04-08T12:36:31.457Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -3483,12 +3529,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-05-26T08:01:05.773Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.12642153",
             "longitude": "14.12228828"
           },
-          "evse_id": "CZ*EON*E127582",
+          "evse_id": "CZ*UFC*E98127580*3",
           "last_seen_as_planned": "2022-04-08T12:36:31.457Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -10074,7 +10143,7 @@
   },
   "25129": {
     "name": "E.ON Globus Plzeň",
-    "sha1": "93daa5a2129e54537b98ccb0a91cd2654d9ba3a2",
+    "sha1": "3bffc449993c71cd4a6ccda30a51f9bf637e0c24",
     "station": {
       "address": "Chotíkov 385",
       "city": " Plzeň",
@@ -10191,6 +10260,110 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "25130"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-05-26T22:01:36.033Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.7776286",
+            "longitude": "13.3480719"
+          },
+          "evse_id": "CZ*UFC*E11051449*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51449"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-05-26T22:01:36.033Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-05-26T22:01:36.033Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.7776286",
+            "longitude": "13.3480719"
+          },
+          "evse_id": "CZ*UFC*E11051449*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51450"
         }
       ],
       "facilities": [
@@ -25485,7 +25658,7 @@
   },
   "51449": {
     "name": "E.ON  Penny Ústí nad Labem - Trmice",
-    "sha1": "7a562f132f3cfea7a4cedf72b2ae266209cf6cce",
+    "sha1": "90a88ec1a2a50729e0640b387f9b39e9e1fb2813",
     "station": {
       "address": "Tyršova 884",
       "city": "Ústí nad Labem - Trmice",
@@ -25512,7 +25685,8 @@
             "longitude": "14.00500628"
           },
           "evse_id": "CZ*EON*E11051449*1",
-          "last_seen_as_planned": "2022-03-11T13:52:21.63Z",
+          "floor_level": "0",
+          "last_seen_as_planned": "2023-05-26T06:04:40.7Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51449"
@@ -26055,8 +26229,8 @@
     }
   },
   "51461": {
-    "name": "E.ON Globus Praha Zličín",
-    "sha1": "7f2e3daee33027d1892f6e73d7d88177c10ba27f",
+    "name": "E.ON Globus Zličín 2",
+    "sha1": "c8bbca6b396852d27da47fba0eb1a63b6d9a502e",
     "station": {
       "address": "Sárská 5/133",
       "city": "Praha-Zličín",
@@ -26077,12 +26251,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-05-26T22:01:36.033Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.05240172",
             "longitude": "14.29572326"
           },
-          "evse_id": "CZ*EON*E11051461*1",
+          "evse_id": "CZ*UFC*E11051461*1",
           "last_seen_as_planned": "2022-03-14T06:46:27.58Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -26095,12 +26292,57 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-05-26T22:01:36.033Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-05-26T22:01:36.033Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.05240172",
             "longitude": "14.29572326"
           },
-          "evse_id": "CZ*EON*E11051461*2",
+          "evse_id": "CZ*UFC*E11051461*2",
           "last_seen_as_planned": "2022-03-14T06:46:27.58Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -26113,7 +26355,7 @@
       ],
       "id": "51461",
       "last_updated": "RESET",
-      "name": "E.ON Globus Praha Zličín",
+      "name": "E.ON Globus Zličín 2",
       "opening_times": {
         "twentyfourseven": true
       },
