@@ -652,13 +652,13 @@
   },
   "CZ1002605": {
     "name": "Schnellladestation PVA Letňany",
-    "sha1": "22ab9bdcb13d66743d99684279c216a939abff96",
+    "sha1": "92f7b6b8585402633cb0aa85556a893b58277e4a",
     "station": {
       "additionalInfo": "Von der Tupolevova Straße, hinter der Schranke",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤50kW"
+          "DC Charging ≤75kW"
         ]
       },
       "city": "Praha",
@@ -685,8 +685,8 @@
       "plugs": [
         {
           "connectorFormat": "Cable",
-          "connectorStandard": "Chademo",
-          "plug": "CHAdeMO"
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
         }
       ],
       "postalCode": "19900",
@@ -18682,6 +18682,104 @@
       "street": "Gdaňská"
     }
   },
+  "CZ8333737": {
+    "name": "Ladestation TS 2588 Mukařovská",
+    "sha1": "746b442d1dce9f9cb45a18141f02331b04e01809",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8333737",
+      "csName": "Ladestation TS 2588 Mukařovská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 2588 Mukařovská",
+      "evseId": "CZ*PRE*E1S8190*2",
+      "geoCoord": {
+        "latitude": "50.065136",
+        "longitude": "14.504248"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6470e3744fbd383ca8b4372f/imgonline-com-ua-resize-uElQIXaI1PyFFk2.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10000",
+      "region": "Hlavní město Praha",
+      "street": "Mukařovská"
+    }
+  },
+  "CZ8411607": {
+    "name": "Ladestation TS 1406 Na Dlážděnce",
+    "sha1": "2f2dff6a24c293b2caf0698fb48938d9bbf7124a",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8411607",
+      "csName": "Ladestation TS 1406 Na Dlážděnce",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 1406 Na Dlážděnce",
+      "evseId": "CZ*PRE*E1S8206*1",
+      "geoCoord": {
+        "latitude": "50.120313",
+        "longitude": "14.444884"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6470e5274fbd383ca8b4373a/imgonline-com-ua-resize-G5xo8fBMq5twZ.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18200",
+      "region": "Hlavní město Praha",
+      "street": "Na Dlážděnce"
+    }
+  },
   "CZ8523914": {
     "name": "Ladestation ČSOB Hradec Králové 2",
     "sha1": "eba17259ed7bf7c5a30c7694c47c57ec5b3f581e",
@@ -18965,6 +19063,55 @@
       "postalCode": "14000",
       "region": "Hlavní město Praha",
       "street": "5. května"
+    }
+  },
+  "CZ9053605": {
+    "name": "Ladestation TS 1406 Na Dlážděnce",
+    "sha1": "fcfa3842b0d160764cf3afb9073b8795cfcbc40f",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Prag",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9053605",
+      "csName": "Ladestation TS 1406 Na Dlážděnce",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 1406 Na Dlážděnce",
+      "evseId": "CZ*PRE*E1S8204*1",
+      "geoCoord": {
+        "latitude": "50.120609",
+        "longitude": "14.453372"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6470e9714fbd383ca8b43741/imgonline-com-ua-resize-JP1cCW0vE3uRVg.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18200",
+      "region": "Hlavní město Praha",
+      "street": "Bulbíkova"
     }
   },
   "CZ9162726": {
@@ -19252,6 +19399,55 @@
       "postalCode": "356 04",
       "region": "Karlovarský kraj",
       "street": "Ke Golfu"
+    }
+  },
+  "CZ9652019": {
+    "name": "Ladestation TS 2581 Na Výhledech",
+    "sha1": "b26cd39ddb6b28c6b963b38055c2a664df60d0f5",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9652019",
+      "csName": "Ladestation TS 2581 Na Výhledech",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 2581 Na Výhledech",
+      "evseId": "CZ*PRE*E1S8189*2",
+      "geoCoord": {
+        "latitude": "50.068609",
+        "longitude": "14.501981"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6470e4274fbd383ca8b43732/imgonline-com-ua-resize-ffPijW36LnOY.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10000",
+      "region": "Hlavní město Praha",
+      "street": "Na výhledech"
     }
   },
   "CZ9656800": {
