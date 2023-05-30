@@ -27023,7 +27023,7 @@
   },
   "51477": {
     "name": "E.ON Globus Olomouc",
-    "sha1": "ea360bfe41f1c360aee5c35d737c564508c72553",
+    "sha1": "0e476fe3a97a43997bc7cd6b0b9d47945e4f8c8b",
     "station": {
       "address": "Pražská 248/39",
       "city": " Olomouc",
@@ -27044,12 +27044,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-05-29T22:01:37.443Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.60096996",
             "longitude": "17.22264596"
           },
-          "evse_id": "CZ*EON*E11051477*1",
+          "evse_id": "CZ*UFC*E11051477*1",
           "last_seen_as_planned": "2022-03-16T12:28:39.05Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -27062,12 +27085,57 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-05-29T22:01:37.443Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-05-29T22:01:37.443Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.60096996",
             "longitude": "17.22264596"
           },
-          "evse_id": "CZ*EON*E11051477*2",
+          "evse_id": "CZ*UFC*E11051477*2",
           "last_seen_as_planned": "2022-03-16T12:28:39.05Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -27422,7 +27490,7 @@
   },
   "51487": {
     "name": "E.ON Ostrava Globus",
-    "sha1": "17140591c4078ddc8f681226401ae4b0125c7adf",
+    "sha1": "bf4568ab9bd117c3bbe23a8525b51b490e7673c6",
     "station": {
       "address": "Opavská 90",
       "city": " Ostrava-Plesná",
@@ -27443,12 +27511,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-05-29T22:01:37.443Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.84692427",
             "longitude": "18.14813501"
           },
-          "evse_id": "CZ*EON*E11051487*1",
+          "evse_id": "CZ*UFC*E11051487*1",
           "last_seen_as_planned": "2022-03-16T14:13:34.83Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -27461,12 +27552,57 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-05-29T22:01:37.443Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-05-29T22:01:37.443Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.84692427",
             "longitude": "18.14813501"
           },
-          "evse_id": "CZ*EON*E11051487*2",
+          "evse_id": "CZ*UFC*E11051487*2",
           "last_seen_as_planned": "2022-03-16T14:13:34.83Z",
           "last_updated": "RESET",
           "status": "RESET",
