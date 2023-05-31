@@ -9181,7 +9181,7 @@
   },
   "206413": {
     "name": "(P) UH CAR",
-    "sha1": "de2406008ece97bf8fa1bd7ba7bdbf4fea074bcb",
+    "sha1": "ac33eb1dcf2d67ac13a7028d99e314444a384778",
     "station": {
       "address": "Východní 2134",
       "city": "Staré Město",
@@ -9195,6 +9195,72 @@
         "is_green_energy": true
       },
       "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-05-30T22:01:38.183Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "252",
+                "253"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.0765914",
+            "longitude": "17.4560133"
+          },
+          "evse_id": "CZ*EON*E22177500*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "177500"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-05-30T22:01:38.183Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "252",
+                "253"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.0765914",
+            "longitude": "17.4560133"
+          },
+          "evse_id": "CZ*EON*E22177500*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "177501"
+        },
         {
           "capabilities": [
             "CONTACTLESS_CARD_SUPPORT",
@@ -9222,7 +9288,7 @@
             "latitude": "49.0765914",
             "longitude": "17.4560133"
           },
-          "evse_id": "CZ*EON*E177504",
+          "evse_id": "CZ*EON*E22177504*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -9255,7 +9321,7 @@
             "latitude": "49.0765914",
             "longitude": "17.4560133"
           },
-          "evse_id": "CZ*EON*E177505",
+          "evse_id": "CZ*EON*E22177505*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -9288,7 +9354,7 @@
             "latitude": "49.0765914",
             "longitude": "17.4560133"
           },
-          "evse_id": "CZ*EON*E177508",
+          "evse_id": "CZ*EON*E22177504*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -9321,7 +9387,7 @@
             "latitude": "49.0765914",
             "longitude": "17.4560133"
           },
-          "evse_id": "CZ*EON*E177509",
+          "evse_id": "CZ*EON*E22177505*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -31301,7 +31367,7 @@
   },
   "53788": {
     "name": "E.ON Penny Lanškroun",
-    "sha1": "2dfc75b1570ec00025741f8c2d2abb86492f5f70",
+    "sha1": "43b535cd4b9f14a7e5f3c9593555e45de5538997",
     "station": {
       "address": "Husova 999",
       "city": "Lanškroun",
@@ -31373,7 +31439,8 @@
             "longitude": "16.6116469"
           },
           "evse_id": "CZ*UFC*E98053788*1",
-          "last_seen_as_planned": "2021-03-31T10:53:54.45Z",
+          "floor_level": "0",
+          "last_seen_as_planned": "2023-05-30T08:00:49.973Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53788"
@@ -31414,7 +31481,8 @@
             "longitude": "16.6116469"
           },
           "evse_id": "CZ*UFC*E98053788*2",
-          "last_seen_as_planned": "2021-03-26T08:14:45.157Z",
+          "floor_level": "0",
+          "last_seen_as_planned": "2023-05-30T08:09:44.797Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53789"
