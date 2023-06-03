@@ -19271,6 +19271,48 @@
       "street": "U Kříže"
     }
   },
+  "CZ9456346": {
+    "name": "Ladestation Impera Čakovice",
+    "sha1": "1f270ec897e917ee823311a73daf8946953682de",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9456346",
+      "csName": "Ladestation Impera Čakovice",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Impera Čakovice",
+      "evseId": "CZ*PRE*E2S0009*2",
+      "geoCoord": {
+        "latitude": "50.156497",
+        "longitude": "14.523488"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19600",
+      "region": "Hlavní město Praha",
+      "street": "Schoellerova"
+    }
+  },
   "CZ9525097": {
     "name": "Ladestation Žluté lázně",
     "sha1": "89bc10f6bd19071bcddb81a9513976d093406658",
