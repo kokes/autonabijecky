@@ -6660,7 +6660,7 @@
   },
   "CZ1003268": {
     "name": "Ladestation Kunínova",
-    "sha1": "e2ce41b472c92f86817cdbc9901af55c19e90dee",
+    "sha1": "237a83901cf0ceba2681c68857f5dd268c38d07c",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -6676,7 +6676,7 @@
       "csStatus": "under_construction",
       "csType": "charger",
       "enCsname": "Charger Kunínova",
-      "evseId": "CZ*PRE*ETBD1*2",
+      "evseId": "CZ*PRE*E1S8221*2",
       "geoCoord": {
         "latitude": "50.036747",
         "longitude": "14.500072"
@@ -19013,7 +19013,7 @@
   },
   "CZ9005838": {
     "name": "Ultra-Highspeed-Ladestation Power Point Pankrác",
-    "sha1": "3a19173c0de583792b7b3c81288e1f2dbd51107c",
+    "sha1": "24c8dcec37c5050a2bd0a73813e8b9140af132bd",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -19040,12 +19040,17 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6454f84f6f5fb93f08a13b4c/imgonline-com-ua-resize-ht8Dh51t0JIAkB.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6454f84f6f5fb93f08a13b4c/imgonline-com-ua-resize-oO46FNDE8V2iwwNW.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6454f84f6f5fb93f08a13b4c/imgonline-com-ua-resize-YHCSZNDoPkl.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6454f84f6f5fb93f08a13b4c/imgonline-com-ua-resize-VgmwoucCwCUWBE.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6454f84f6f5fb93f08a13b4c/imgonline-com-ua-resize-teT7McDGqTp75g.jpg"
         }
       ],
       "isHome": true,
@@ -19112,6 +19117,55 @@
       "postalCode": "18200",
       "region": "Hlavní město Praha",
       "street": "Bulbíkova"
+    }
+  },
+  "CZ9076581": {
+    "name": "Ladestation TS 3614 Libkovská",
+    "sha1": "1d752363f996c66de8d1adff129cf51fd8740713",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9076581",
+      "csName": "Ladestation TS 3614 Libkovská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 3614 Libkovská",
+      "evseId": "CZ*PRE*E1S8203*1",
+      "geoCoord": {
+        "latitude": "50.046579",
+        "longitude": "14.516001"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6470e4974fbd383ca8b43736/imgonline-com-ua-resize-WmjInAXGN9DQgnA.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10200",
+      "region": "Hlavní město Praha",
+      "street": "Libkovská"
     }
   },
   "CZ9162726": {
