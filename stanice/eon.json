@@ -38064,10 +38064,10 @@
   },
   "5920": {
     "name": "E.ON Albert Čestlice",
-    "sha1": "443015e6b2548e8ed4f3afc60baa8e9806e303ca",
+    "sha1": "c405a1cb7685b94d9c75b2b8eaa3ebd9169116f4",
     "station": {
       "address": "Obchodní 111",
-      "city": "Praha-Čestlice",
+      "city": "Čestlice",
       "coordinates": {
         "latitude": "50.002749",
         "longitude": "14.573602"
@@ -38078,6 +38078,110 @@
         "is_green_energy": true
       },
       "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-06-07T22:01:53.41Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.002749",
+            "longitude": "14.573602"
+          },
+          "evse_id": "CZ*UFC*E11051463*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51463"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-06-07T22:01:53.41Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-06-07T22:01:53.41Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.002749",
+            "longitude": "14.573602"
+          },
+          "evse_id": "CZ*UFC*E11051463*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51464"
+        },
         {
           "capabilities": [
             "CONTACTLESS_CARD_SUPPORT",
