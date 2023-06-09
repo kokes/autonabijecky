@@ -28601,10 +28601,10 @@
   },
   "51516": {
     "name": "E.ON Jindřichův Hradec",
-    "sha1": "a74c0ca544548b2347b10b4f7b466b3640f07a1d",
+    "sha1": "0dfbc24c790b994deddcc59be2c46f349fed5e11",
     "station": {
-      "address": "Priprava",
-      "city": "Priprava",
+      "address": "Jáchymova 865/3",
+      "city": "Jindřichův Hradec",
       "coordinates": {
         "latitude": "49.14226970",
         "longitude": "15.01953560"
@@ -36698,7 +36698,7 @@
   },
   "53876": {
     "name": "E.ON Penny Dobrá",
-    "sha1": "873a33e0bd3828d3f4d22046722ace6b32d7fdd8",
+    "sha1": "32d3bfc59874ae26ace1b4496dca475a240882bc",
     "station": {
       "address": "Dobrá 15",
       "city": "Frýdek Místek - Dobrá",
@@ -36747,6 +36747,34 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53877"
+        },
+        {
+          "capabilities": [],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.67475319",
+            "longitude": "18.40952259"
+          },
+          "evse_id": "CZ*UFC*E98053878*1",
+          "floor_level": "0",
+          "last_seen_as_planned": "2023-06-08T13:34:00.773Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53878"
+        },
+        {
+          "capabilities": [],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.67475319",
+            "longitude": "18.40952259"
+          },
+          "evse_id": "CZ*UFC*E98053878*2",
+          "floor_level": "0",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53879"
         }
       ],
       "facilities": [
