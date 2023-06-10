@@ -9543,6 +9543,124 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "208817": {
+    "name": "(P) DaJa Lipno s.r.o.",
+    "sha1": "c1f3e56f18354178ca6668d5b9a9a87cbffc7901",
+    "station": {
+      "address": "Pihlov 99",
+      "city": "Horní Planá",
+      "coordinates": {
+        "latitude": "48.774856",
+        "longitude": "14.014231"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-06-09T10:59:20.2Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "256",
+                "257"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.774856",
+            "longitude": "14.014231"
+          },
+          "evse_id": "CZ*EON*E135186",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "135186"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-06-09T10:59:20.2Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "256",
+                "257"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.774856",
+            "longitude": "14.014231"
+          },
+          "evse_id": "CZ*EON*E135187",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "135187"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "SUPERMARKET",
+        "SPORT",
+        "RECREATION_AREA",
+        "NATURE",
+        "MUSEUM",
+        "BIKE_SHARING",
+        "BUS_STOP",
+        "TAXI_STAND",
+        "TRAIN_STATION",
+        "PARKING_LOT",
+        "FUEL_STATION",
+        "WIFI"
+      ],
+      "id": "208817",
+      "last_updated": "RESET",
+      "name": "(P) DaJa Lipno s.r.o.",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "DaJa Lipno s.r.o."
+      },
+      "owner": {
+        "name": "DaJa Lipno s.r.o."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "time_zone": "Europe/Prague"
+    }
+  },
   "22223": {
     "name": "E.ON ČS Benzina Rokycany",
     "sha1": "cc113e17a2241b268a339cc04f9ba90e60089414",
