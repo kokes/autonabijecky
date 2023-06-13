@@ -9543,6 +9543,312 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "208758": {
+    "name": "(P) DOBE - CAR, s.r.o.",
+    "sha1": "7ba292d8f4f3d29846a4b3ab2674d3a4aedd882e",
+    "station": {
+      "address": "Tovární 1250",
+      "city": "Holešov",
+      "coordinates": {
+        "latitude": "49.3240358",
+        "longitude": "17.5709911"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-06-12T11:14:45.763Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "260",
+                "261"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.3240358",
+            "longitude": "17.5709911"
+          },
+          "evse_id": "CZ*EON*E205663",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "205663"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-06-12T11:14:45.763Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "260",
+                "261"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.3240358",
+            "longitude": "17.5709911"
+          },
+          "evse_id": "CZ*EON*E205664",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "205664"
+        }
+      ],
+      "id": "208758",
+      "last_updated": "RESET",
+      "name": "(P) DOBE - CAR, s.r.o.",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "DOBE - CAR s.r.o."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "208770": {
+    "name": "(P) AUTOKLEVER, spol. s r.o.",
+    "sha1": "555e122e5e981c4c6fa574808865da4b5b5bdd3d",
+    "station": {
+      "address": "Hřbitovní 966/5",
+      "city": "Nový Jičín",
+      "coordinates": {
+        "latitude": "49.5993775",
+        "longitude": "18.0197217"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-06-12T12:20:34.19Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "258",
+                "259"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.5993775",
+            "longitude": "18.0197217"
+          },
+          "evse_id": "CZ*EON*E22205661*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "205661"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-06-12T12:20:34.19Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "258",
+                "259"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.5993775",
+            "longitude": "18.0197217"
+          },
+          "evse_id": "CZ*EON*E22205661*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "205662"
+        }
+      ],
+      "id": "208770",
+      "last_updated": "RESET",
+      "name": "(P) AUTOKLEVER, spol. s r.o.",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "AUTOKLEVER spol. s r.o."
+      },
+      "owner": {
+        "name": "AUTOKLEVER spol. s r.o."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "208803": {
+    "name": "(P) PP AUTOCENTRUM s.r.o.",
+    "sha1": "5e6cf3a59e958c946c3cd952f99b9ada7d6f6250",
+    "station": {
+      "address": "Družstevní 2210",
+      "city": "Hranice",
+      "coordinates": {
+        "latitude": "49.5574403",
+        "longitude": "17.7354581"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-06-12T11:13:26.673Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "262",
+                "263"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.5574403",
+            "longitude": "17.7354581"
+          },
+          "evse_id": "CZ*EON*E205659",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "205659"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-06-12T11:13:26.673Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "262",
+                "263"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.5574403",
+            "longitude": "17.7354581"
+          },
+          "evse_id": "CZ*EON*E205660",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "205660"
+        }
+      ],
+      "id": "208803",
+      "last_updated": "RESET",
+      "name": "(P) PP AUTOCENTRUM s.r.o.",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "PP AUTOCENTRUM s.r.o."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "time_zone": "Europe/Prague"
+    }
+  },
   "208817": {
     "name": "(P) DaJa Lipno s.r.o.",
     "sha1": "cc015d4397e82815b26012fb622a05cbf75827bf",
