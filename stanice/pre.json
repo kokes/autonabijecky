@@ -10206,7 +10206,7 @@
   },
   "CZ1004455": {
     "name": "Ladestation Technologie hlavního města Prahy V",
-    "sha1": "a74d461413db15f5c0fd113b8f4bf11158363772",
+    "sha1": "6d102caf7f4f442c30827d2ee26f3d629d8badc0",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -10221,7 +10221,7 @@
       "csName": "Ladestation Technologie hlavního města Prahy V",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Technologie hlavního města Prahy VI",
+      "enCsname": "Charger Technologie hlavního města Prahy V",
       "evseId": "CZ*PRE*ETHMP5*2",
       "geoCoord": {
         "latitude": "50.075288",
@@ -10954,7 +10954,7 @@
   },
   "CZ1004587": {
     "name": "Ladestation ČVUT FIT",
-    "sha1": "d3c2b644ff190fe1c7cb875e3204d8c01b8d3e17",
+    "sha1": "830f83a2888ff456ea2a0670354b543a87f07dbd",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -10972,8 +10972,8 @@
       "enCsname": "Charger ČVUT FIT",
       "evseId": "CZ*PRE*E1S8159*2",
       "geoCoord": {
-        "latitude": "50.105200",
-        "longitude": "14.390600"
+        "latitude": "50.105879",
+        "longitude": "14.389560"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -18633,6 +18633,55 @@
       "street": "Rudná 2978/11"
     }
   },
+  "CZ8234794": {
+    "name": "Ladestation Belarie Park",
+    "sha1": "7a01baa7230815f62b7c8fbb39f90b8f9ec4c681",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8234794",
+      "csName": "Ladestation Belarie Park",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Belarie Park",
+      "evseId": "CZ*PRE*E1S8219*2",
+      "geoCoord": {
+        "latitude": "50.012993",
+        "longitude": "14.399990"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64873a21a3c2291d6b512681/imgonline-com-ua-resize-nIekQviKF4.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14300",
+      "region": "Hlavní město Praha",
+      "street": "Mezi Vodami"
+    }
+  },
   "CZ8257741": {
     "name": "Ladestation TS 1595 Gdaňská",
     "sha1": "f86d7bc62cb498f1fab61d47546bf4bb696f7a78",
@@ -18680,6 +18729,55 @@
       "postalCode": "18100",
       "region": "Hlavní město Praha",
       "street": "Gdaňská"
+    }
+  },
+  "CZ8314657": {
+    "name": "Ladestation Pivnice Modřany",
+    "sha1": "a8e611cb7c8803bf78e3d7200f54f4b89462e270",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8314657",
+      "csName": "Ladestation Pivnice Modřany",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Pivnice Modřany",
+      "evseId": "CZ*PRE*E1S8218*2",
+      "geoCoord": {
+        "latitude": "50.013573",
+        "longitude": "14.421773"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64873ec9a3c2291d6b512690/imgonline-com-ua-resize-bBFE8db6ksNH3S.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14300",
+      "region": "Hlavní město Praha",
+      "street": "Kutilova/Mráčkova 3060"
     }
   },
   "CZ8333737": {
@@ -18836,7 +18934,7 @@
   },
   "CZ8567925": {
     "name": "Schnellladestation Benzina Kbelská",
-    "sha1": "150a16851db2a5d5fe9858194033f91e6d5ae62a",
+    "sha1": "aff445fb386104dbee8dfe2e62b461777653b0b8",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -18859,6 +18957,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6464ee464fbd383ca8b4330d/imgonline-com-ua-resize-Kkk7RGcpZCb0TRw.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -18916,6 +19021,55 @@
       "postalCode": "25166",
       "region": "Středočeský kraj",
       "street": "Malostranská 344"
+    }
+  },
+  "CZ8851117": {
+    "name": "Ladestation TS 2978 Habrová",
+    "sha1": "06dad7bda9ae9aa0f473e8ea1591106d189abe1d",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8851117",
+      "csName": "Ladestation TS 2978 Habrová",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 2978 Habrová",
+      "evseId": "CZ*PRE*E1S8192*2",
+      "geoCoord": {
+        "latitude": "50.088613",
+        "longitude": "14.496809"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64873b2ca3c2291d6b512687/imgonline-com-ua-resize-HLSuiWLmi9kV.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Habrová"
     }
   },
   "CZ8855001": {
@@ -19593,6 +19747,62 @@
       "postalCode": "149 00",
       "region": "Hlavní město Praha",
       "street": "Bohúňova 1337"
+    }
+  },
+  "CZ9675583": {
+    "name": "Ladestation Oáza Kladno",
+    "sha1": "57ee6bce3a51cfb7fa601460916f2d60ebeaaa1c",
+    "station": {
+      "additionalInfo": "Parken für 3 Stunden kostenlos, danach 30 CZK/Stunde",
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Kladno",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9675583",
+      "csName": "Ladestation Oáza Kladno",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "parking for 3 hours free of charge, then 30 CZK/hour",
+      "enCsname": "Charger Oáza Kladno",
+      "evseId": "CZ*PRE*E1S8222*2",
+      "geoCoord": {
+        "latitude": "50.132623",
+        "longitude": "14.139272"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6487416ea3c2291d6b5126a5/imgonline-com-ua-resize-1kzZrSaAX1l.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6487416ea3c2291d6b5126a5/imgonline-com-ua-resize-1tR7ZyfsVaY7q9Tt.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "27201",
+      "region": "Středočeský kraj",
+      "street": "Arménská"
     }
   },
   "CZ9979120": {
