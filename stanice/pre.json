@@ -19165,6 +19165,56 @@
       "street": "Vltavanů"
     }
   },
+  "CZ8996743": {
+    "name": "Ladestation Chudenická",
+    "sha1": "abc3a872cf950d28eae7264205d2d4d15b46b424",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8996743",
+      "csName": "Ladestation Chudenická",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "attached on the substation TS 3617",
+      "enCsname": "Charger Chudenická",
+      "evseId": "CZ*PRE*E1S8188*2",
+      "geoCoord": {
+        "latitude": "50.046967",
+        "longitude": "14.519998"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/647de680e1bbcd128fce300f/imgonline-com-ua-resize-t3NT6oOnWah2.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "102 00",
+      "region": "Hlavní město Praha",
+      "street": "Chudenická"
+    }
+  },
   "CZ9005838": {
     "name": "Ultra-Highspeed-Ladestation Power Point Pankrác",
     "sha1": "24c8dcec37c5050a2bd0a73813e8b9140af132bd",
@@ -19222,6 +19272,106 @@
       "postalCode": "14000",
       "region": "Hlavní město Praha",
       "street": "5. května"
+    }
+  },
+  "CZ9012327": {
+    "name": "Ladestation Komořanské náměstí",
+    "sha1": "c0f1d464f7ffbcd6478133d929f66d36c1d7c73d",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9012327",
+      "csName": "Ladestation Komořanské náměstí",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "na horní části Komořanského náměstí",
+      "enCsname": "Charger Komořanské náměstí",
+      "evseId": "CZ*PRE*E1S8216*2",
+      "geoCoord": {
+        "latitude": "49.990485",
+        "longitude": "14.409280"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/647ddb66e1bbcd128fce2fcb/imgonline-com-ua-resize-AqlRdHqr5Ui.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "143 00",
+      "region": "Hlavní město Praha",
+      "street": "Komořanská"
+    }
+  },
+  "CZ9034292": {
+    "name": "Ladestation Loučimská",
+    "sha1": "2fd7db3ac819e4cf180fd97f62f9c60f4d9f7f96",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9034292",
+      "csName": "Ladestation Loučimská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "attached on the substation TS 3611",
+      "enCsname": "Charger Loučimská",
+      "evseId": "CZ*PRE*E1S8200*1",
+      "geoCoord": {
+        "latitude": "50.047394",
+        "longitude": "14.521724"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/647de4afe1bbcd128fce3007/imgonline-com-ua-resize-VB2k5x9QGfZsk4hn.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "102 00",
+      "region": "Hlavní město Praha",
+      "street": "Loučimská"
     }
   },
   "CZ9053605": {
@@ -19418,6 +19568,55 @@
       "postalCode": "14200",
       "region": "Hlavní město Praha",
       "street": "Výletní"
+    }
+  },
+  "CZ9334395": {
+    "name": "Ladestation TS 3820 Ke Klubovně",
+    "sha1": "603a166f8dcb4084aaa8bf12122d6affa7775f65",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9334395",
+      "csName": "Ladestation TS 3820 Ke Klubovně",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 3820 Ke Klubovně",
+      "evseId": "CZ*PRE*E1S8197*1",
+      "geoCoord": {
+        "latitude": "50.040641",
+        "longitude": "14.337279"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64889d94a3c2291d6b51270a/imgonline-com-ua-resize-9R623IZlMPO.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15500",
+      "region": "Hlavní město Praha",
+      "street": "Ke Klubovně 2342/480"
     }
   },
   "CZ9354989": {
@@ -19803,6 +20002,55 @@
       "postalCode": "27201",
       "region": "Středočeský kraj",
       "street": "Arménská"
+    }
+  },
+  "CZ9770201": {
+    "name": "Ladestation TS 4457 Vlachova",
+    "sha1": "4bf50a64ee92e5e02a1ce529e251bf43f1575443",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9770201",
+      "csName": "Ladestation TS 4457 Vlachova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 4457 Vlachova",
+      "evseId": "CZ*PRE*E1S8196*1",
+      "geoCoord": {
+        "latitude": "50.047451",
+        "longitude": "14.309041"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64889e54a3c2291d6b512710/imgonline-com-ua-resize-pQlr35nELU.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15500",
+      "region": "Hlavní město Praha",
+      "street": "Vlachova 87"
     }
   },
   "CZ9979120": {

@@ -9545,7 +9545,7 @@
   },
   "208758": {
     "name": "(P) DOBE - CAR, s.r.o.",
-    "sha1": "7ba292d8f4f3d29846a4b3ab2674d3a4aedd882e",
+    "sha1": "5c0e1cc1b340bf0c21e4182fa99f442c13456a32",
     "station": {
       "address": "Tovární 1250",
       "city": "Holešov",
@@ -9629,9 +9629,6 @@
       "id": "208758",
       "last_updated": "RESET",
       "name": "(P) DOBE - CAR, s.r.o.",
-      "opening_times": {
-        "twentyfourseven": true
-      },
       "operator": {
         "name": "E.ON Energie, a.s."
       },
@@ -9646,7 +9643,7 @@
   },
   "208770": {
     "name": "(P) AUTOKLEVER, spol. s r.o.",
-    "sha1": "555e122e5e981c4c6fa574808865da4b5b5bdd3d",
+    "sha1": "6373f9bac1b5b4bc6cfae2efbc54497c2f1c0305",
     "station": {
       "address": "Hřbitovní 966/5",
       "city": "Nový Jičín",
@@ -9731,7 +9728,39 @@
       "last_updated": "RESET",
       "name": "(P) AUTOKLEVER, spol. s r.o.",
       "opening_times": {
-        "twentyfourseven": true
+        "regular_hours": [
+          {
+            "period_begin": "7:00",
+            "period_end": "18:00",
+            "weekday": 1
+          },
+          {
+            "period_begin": "7:00",
+            "period_end": "18:00",
+            "weekday": 2
+          },
+          {
+            "period_begin": "7:00",
+            "period_end": "18:00",
+            "weekday": 3
+          },
+          {
+            "period_begin": "7:00",
+            "period_end": "18:00",
+            "weekday": 4
+          },
+          {
+            "period_begin": "7:00",
+            "period_end": "18:00",
+            "weekday": 5
+          },
+          {
+            "period_begin": "8:00",
+            "period_end": "12:00",
+            "weekday": 6
+          }
+        ],
+        "twentyfourseven": false
       },
       "operator": {
         "name": "AUTOKLEVER spol. s r.o."
@@ -9750,7 +9779,7 @@
   },
   "208803": {
     "name": "(P) PP AUTOCENTRUM s.r.o.",
-    "sha1": "5e6cf3a59e958c946c3cd952f99b9ada7d6f6250",
+    "sha1": "87c1c5ac418d0b2aa606afd86751f02bfb9c3be7",
     "station": {
       "address": "Družstevní 2210",
       "city": "Hranice",
@@ -9835,10 +9864,47 @@
       "last_updated": "RESET",
       "name": "(P) PP AUTOCENTRUM s.r.o.",
       "opening_times": {
-        "twentyfourseven": true
+        "regular_hours": [
+          {
+            "period_begin": "7:00",
+            "period_end": "18:00",
+            "weekday": 1
+          },
+          {
+            "period_begin": "7:00",
+            "period_end": "18:00",
+            "weekday": 2
+          },
+          {
+            "period_begin": "7:00",
+            "period_end": "18:00",
+            "weekday": 3
+          },
+          {
+            "period_begin": "7:00",
+            "period_end": "18:00",
+            "weekday": 4
+          },
+          {
+            "period_begin": "7:00",
+            "period_end": "18:00",
+            "weekday": 5
+          },
+          {
+            "period_begin": "8:00",
+            "period_end": "12:00",
+            "weekday": 6
+          },
+          {
+            "period_begin": "0:00",
+            "period_end": "0:00",
+            "weekday": 7
+          }
+        ],
+        "twentyfourseven": false
       },
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "PP AUTOCENTRUM s.r.o."
       },
       "owner": {
         "name": "PP AUTOCENTRUM s.r.o."
