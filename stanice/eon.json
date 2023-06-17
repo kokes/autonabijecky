@@ -9429,6 +9429,75 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "206830": {
+    "name": "E.ON Kaufland Kolín",
+    "sha1": "26d9ac22e3f13c000d88be6a065dbf7a85dbd985",
+    "station": {
+      "address": "Priprava",
+      "city": "Priprava",
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-06-16T11:05:02.857Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": []
+            }
+          ],
+          "evse_id": "CZ*UFC*E32206830*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "206830"
+        },
+        {
+          "capabilities": [
+            "RFID_READER",
+            "UNLOCK_CAPABLE",
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE"
+          ],
+          "connectors": [],
+          "evse_id": "CZ*UFC*E32206832*3",
+          "floor_level": "0",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "206832"
+        }
+      ],
+      "id": "206830",
+      "last_updated": "RESET",
+      "name": "E.ON Kaufland Kolín",
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Drive Infrastructure, s.r.o."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "time_zone": "Europe/Prague"
+    }
+  },
   "207372": {
     "name": "(P) Wake port",
     "sha1": "1edb96db87aa0f74420dd18a047ad2cb4cd31719",
@@ -9544,8 +9613,8 @@
     }
   },
   "208758": {
-    "name": "(P) DOBE - CAR, s.r.o. 1",
-    "sha1": "101671ece82d405a9355f0bd176430d5bfc3cdd0",
+    "name": "(P) DOBE - CAR, s.r.o. - veřejná levá",
+    "sha1": "b3ebe948d72cd32c97b962667e22138a99671c98",
     "station": {
       "address": "Tovární 1250",
       "city": "Holešov",
@@ -9628,7 +9697,7 @@
       ],
       "id": "208758",
       "last_updated": "RESET",
-      "name": "(P) DOBE - CAR, s.r.o. 1",
+      "name": "(P) DOBE - CAR, s.r.o. - veřejná levá",
       "operator": {
         "name": "E.ON Energie, a.s."
       },
