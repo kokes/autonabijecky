@@ -54,8 +54,8 @@
     }
   },
   "CZ1002102": {
-    "name": "Ladestation [TEST] PRE",
-    "sha1": "a54db729049950d5489e177ab7308cd441d3c919",
+    "name": "Charger [TEST] PRE",
+    "sha1": "f6a16adcca07bb4d060c8d25d38219606b23219b",
     "station": {
       "branch": "TEST",
       "chargingFacilities": {
@@ -67,7 +67,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1002102",
-      "csName": "Ladestation [TEST] PRE",
+      "csName": "Charger [TEST] PRE",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger [TEST] PRE",
@@ -19023,6 +19023,55 @@
       "street": "Malostranská 344"
     }
   },
+  "CZ8736457": {
+    "name": "Charger ZŠ a MŠ Smolkova",
+    "sha1": "afdecef4bae999792643b669bb5547afb561edb6",
+    "station": {
+      "branch": "Unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8736457",
+      "csName": "Charger ZŠ a MŠ Smolkova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger ZŠ a MŠ Smolkova",
+      "evseId": "CZ*PRE*E1S8220*2",
+      "geoCoord": {
+        "latitude": "50.008315",
+        "longitude": "14.455377"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/648b3ab7f6cf7d59263f4c9c/imgonline-com-ua-resize-S8mTptLbT3j.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14200",
+      "region": "Hlavní město Praha",
+      "street": "Smolkova"
+    }
+  },
   "CZ8851117": {
     "name": "Ladestation TS 2978 Habrová",
     "sha1": "06dad7bda9ae9aa0f473e8ea1591106d189abe1d",
@@ -19322,6 +19371,55 @@
       "postalCode": "143 00",
       "region": "Hlavní město Praha",
       "street": "Komořanská"
+    }
+  },
+  "CZ9017006": {
+    "name": "Ladestation Sportovní Areál VŠE Třebešín",
+    "sha1": "4c048dd650e6f95d1a38f7a2776e5f1be7543c35",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9017006",
+      "csName": "Ladestation Sportovní Areál VŠE Třebešín",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Sportovní Areál VŠE Třebešín",
+      "evseId": "CZ*PRE*E1S8233*2",
+      "geoCoord": {
+        "latitude": "50.081969",
+        "longitude": "14.480369"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/648b3640f6cf7d59263f4c8c/imgonline-com-ua-resize-H4iYhJfT78.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Na Třebešíně"
     }
   },
   "CZ9034292": {
@@ -20093,6 +20191,55 @@
       "postalCode": "15531",
       "region": "Hlavní město Praha",
       "street": "Vltavanů 546"
+    }
+  },
+  "CZ9990470": {
+    "name": "Ladestation Sokolovna Na Balkáně",
+    "sha1": "00fa0fd5525de372f3916fe111a3b756bb599567",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9990470",
+      "csName": "Ladestation Sokolovna Na Balkáně",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Sokolovna Na Balkáně",
+      "evseId": "CZ*PRE*E1S8234*2",
+      "geoCoord": {
+        "latitude": "50.018013",
+        "longitude": "14.392987"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/648b38c4f6cf7d59263f4c93/imgonline-com-ua-resize-2h7cNVbmVVfcj.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Na Balkáně"
     }
   }
 }
