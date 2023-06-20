@@ -13155,7 +13155,7 @@
   },
   "159958": {
     "name": "R409 - Čestlice - Kaufland - 2",
-    "sha1": "4faf54ada26651f1e1089967a5c8ca479a1cf5d5",
+    "sha1": "a5a24feb9516e8ccec280708afa61a9a931a8f36",
     "station": {
       "address": {
         "city": "Čestlice",
@@ -13218,11 +13218,84 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/9638469-20230619-110732.jpeg"
         }
       ],
       "instructions": null,
       "name": "R409 - Čestlice - Kaufland - 2",
+      "visible": true
+    }
+  },
+  "159970": {
+    "name": "R408 - Čestlice - Kaufland - 1",
+    "sha1": "600a0757205a15de20c81abc3d0586f056121389",
+    "station": {
+      "address": {
+        "city": "Čestlice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "dálnici",
+        "latitude": 50.010562,
+        "longitude": 14.5721871,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K",
+        "url": ""
+      },
+      "customID": "159970",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3321-051",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R408"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-051",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-051",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R408"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/9638469.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R408 - Čestlice - Kaufland - 1",
       "visible": true
     }
   },
@@ -15450,79 +15523,6 @@
       ],
       "instructions": null,
       "name": "R479 - Polička - parkoviště u divadla Tylův dům",
-      "visible": true
-    }
-  },
-  "163453": {
-    "name": "R465 - Hradec Králové - Retail park HK - 1",
-    "sha1": "d35dfbf472ee4474219f2ec430a19d698e97a8a2",
-    "station": {
-      "address": {
-        "city": "Hradec Králové",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "třída 1669",
-        "latitude": 50.1887384,
-        "longitude": 15.8053197,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Rašínova",
-        "url": ""
-      },
-      "customID": "163453",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-2622-024",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R465"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-2622-024",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-2622-024",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R465"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1b.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R465 - Hradec Králové - Retail park HK - 1",
       "visible": true
     }
   },
@@ -22852,7 +22852,7 @@
   },
   "177301": {
     "name": "N229 - Pěnčín - Kozí farma",
-    "sha1": "b35635aecf4ff4f4a0ef192d7eae0017ebc1acac",
+    "sha1": "411eb9f729f108a1883c99a2d55ed178748d35fe",
     "station": {
       "address": {
         "city": "Pěnčín",
@@ -22906,7 +22906,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/05/img_2309.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/87669365-1388-4042-a532-6dfc2637713c.jpg"
         }
       ],
       "instructions": null,
@@ -23267,6 +23267,824 @@
       ],
       "instructions": null,
       "name": "UR114 - Mikulov - Levandulový Hotel Marcinčák - 5",
+      "visible": true
+    }
+  },
+  "178269": {
+    "name": "N203 - Dukovany - JE Carport Dukovany - 1",
+    "sha1": "357b67c82850e6eeab81701fb8753729d9751192",
+    "station": {
+      "address": {
+        "city": "Dukovany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "269",
+        "latitude": 49.0890181,
+        "longitude": 16.1415407,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dukovany",
+        "url": ""
+      },
+      "customID": "178269",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N203"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N203"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/eec58ec3-4f2f-4846-8643-7091654e73c2.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "N203 - Dukovany - JE Carport Dukovany - 1",
+      "visible": true
+    }
+  },
+  "178270": {
+    "name": "N204 - Dukovany - JE Carport Dukovany - 2",
+    "sha1": "7d56a1d49a2129707e74ddcd8d1787648962c678",
+    "station": {
+      "address": {
+        "city": "Dukovany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "269",
+        "latitude": 49.0890181,
+        "longitude": 16.1415407,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dukovany",
+        "url": ""
+      },
+      "customID": "178270",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N204"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N204"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/eec58ec3-4f2f-4846-8643-7091654e73c2.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "N204 - Dukovany - JE Carport Dukovany - 2",
+      "visible": true
+    }
+  },
+  "178271": {
+    "name": "N143 - Dukovany - JE Carport Dukovany - 5",
+    "sha1": "24ae2ea634c0e3c6234e29b018530ef6911244fe",
+    "station": {
+      "address": {
+        "city": "Dukovany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "269",
+        "latitude": 49.0890181,
+        "longitude": 16.1415407,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dukovany",
+        "url": ""
+      },
+      "customID": "178271",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N143"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N143"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/eec58ec3-4f2f-4846-8643-7091654e73c2.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "N143 - Dukovany - JE Carport Dukovany - 5",
+      "visible": true
+    }
+  },
+  "178272": {
+    "name": "N144 - Dukovany - JE Carport Dukovany - 6",
+    "sha1": "2d32d8d752dfae728cd8e47692fa27c99a2f95e0",
+    "station": {
+      "address": {
+        "city": "Dukovany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "269",
+        "latitude": 49.0890181,
+        "longitude": 16.1415407,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dukovany",
+        "url": ""
+      },
+      "customID": "178272",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N144"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N144"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/eec58ec3-4f2f-4846-8643-7091654e73c2.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "N144 - Dukovany - JE Carport Dukovany - 6",
+      "visible": true
+    }
+  },
+  "178273": {
+    "name": "R546 - Žďár nad Sázavou - Bezina - 2",
+    "sha1": "80f727af9357b6b4e2925f2a4b1fa9dbcadfdcd4",
+    "station": {
+      "address": {
+        "city": "Žďár nad Sázavou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2207",
+        "latitude": 49.5486807,
+        "longitude": 15.9560932,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Brněnská",
+        "url": ""
+      },
+      "customID": "178273",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-3321-044 ",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R546"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-044 ",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-3321-044 ",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R546"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/87669365-1388-4042-a532-6dfc2637713c.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R546 - Žďár nad Sázavou - Bezina - 2",
+      "visible": true
+    }
+  },
+  "178287": {
+    "name": "UR117 - Loket - Bageterie Boulevard - 1",
+    "sha1": "0c249fcf84c51723274676d5b04928862a3dea79",
+    "station": {
+      "address": {
+        "city": "Loket",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "exit 66",
+        "latitude": 49.6582408,
+        "longitude": 15.120315,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1",
+        "url": ""
+      },
+      "customID": "178287",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR117"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR117"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR117"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/letnany.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR117 - Loket - Bageterie Boulevard - 1",
+      "visible": true
+    }
+  },
+  "178288": {
+    "name": "R536 - Loket - Bageterie Boulevard - 2",
+    "sha1": "ece6403318253fe59bd736c6a8012b6500014599",
+    "station": {
+      "address": {
+        "city": "Loket",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "exit 66",
+        "latitude": 49.6582408,
+        "longitude": 15.120315,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1",
+        "url": ""
+      },
+      "customID": "178288",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R536"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R536"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/57e9167b-ab00-48d6-9ba1-6053c62d3053.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R536 - Loket - Bageterie Boulevard - 2",
+      "visible": true
+    }
+  },
+  "178289": {
+    "name": "R505 - Libčice nad Vltavou - Park Cihelka",
+    "sha1": "a1f4e3e345d9a3f92ea5749af6353111950b1db3",
+    "station": {
+      "address": {
+        "city": "Libčice nad Vltavou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.1939647,
+        "longitude": 14.3694267,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Družstevní",
+        "url": ""
+      },
+      "customID": "178289",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R505"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R505"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/3-20230619-102435.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R505 - Libčice nad Vltavou - Park Cihelka",
+      "visible": true
+    }
+  },
+  "178290": {
+    "name": "N205 - Dukovany - JE Carport Dukovany - 3",
+    "sha1": "e927a2cfe1375ef3c66f1d9d9e18bdc558989fbd",
+    "station": {
+      "address": {
+        "city": "Dukovany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "269",
+        "latitude": 49.0890181,
+        "longitude": 16.1415407,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dukovany",
+        "url": ""
+      },
+      "customID": "178290",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N205"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N205"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/eec58ec3-4f2f-4846-8643-7091654e73c2.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "N205 - Dukovany - JE Carport Dukovany - 3",
+      "visible": true
+    }
+  },
+  "178291": {
+    "name": "N142 - Dukovany - JE Carport Dukovany - 4",
+    "sha1": "0453c9519f4ac63f90861d228e836dbafc665591",
+    "station": {
+      "address": {
+        "city": "Dukovany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "269",
+        "latitude": 49.0890181,
+        "longitude": 16.1415407,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dukovany",
+        "url": ""
+      },
+      "customID": "178291",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N142"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "N142"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/eec58ec3-4f2f-4846-8643-7091654e73c2.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "N142 - Dukovany - JE Carport Dukovany - 4",
+      "visible": true
+    }
+  },
+  "178292": {
+    "name": "UR121 - Hradec Králové - Retail park HK - 1",
+    "sha1": "4a4746cb5942ec321bc8c7ba7c16d9b2cdafda89",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída 1669",
+        "latitude": 50.1887384,
+        "longitude": 15.8053197,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rašínova",
+        "url": ""
+      },
+      "customID": "178292",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 200,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR121"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 200,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR121"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/2-20230619-105531.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR121 - Hradec Králové - Retail park HK - 1",
+      "visible": true
+    }
+  },
+  "178293": {
+    "name": "R545 - Žďár nad Sázavou - Bezina - 1",
+    "sha1": "cbe2840758e36d493c5976e7f8a0d4e05d48e4bc",
+    "station": {
+      "address": {
+        "city": "Žďár nad Sázavou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2207",
+        "latitude": 49.5486807,
+        "longitude": 15.9560932,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Brněnská",
+        "url": ""
+      },
+      "customID": "178293",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "T54-HU1-4419-008 ",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R545"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4419-008 ",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "T54-HU1-4419-008 ",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R545"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/87669365-1388-4042-a532-6dfc2637713c.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R545 - Žďár nad Sázavou - Bezina - 1",
       "visible": true
     }
   },

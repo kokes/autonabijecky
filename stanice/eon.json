@@ -9431,10 +9431,10 @@
   },
   "206830": {
     "name": "E.ON Kaufland Kolín",
-    "sha1": "9d797fc4dfe0fb6b7cfddaa3175e70a97b266878",
+    "sha1": "dacaa8187ba5cb776c72aa0667d8cdfb0b043704",
     "station": {
-      "address": "Priprava",
-      "city": "Priprava",
+      "address": "Benešova 1000",
+      "city": "Kolín",
       "country": "CZE",
       "country_code": "CZ",
       "energy_mix": {
@@ -25485,8 +25485,8 @@
     }
   },
   "51437": {
-    "name": "E.ON Hodonín",
-    "sha1": "c348dbb4ab3182508d6e2cc19a68e75e19bc5853",
+    "name": "E.ON ČD Hodonín",
+    "sha1": "d5e4b6f03a5f49faa2d9aee59fff4888d9303a4e",
     "station": {
       "address": "Wilsonova 3991/20",
       "city": "Hodonín",
@@ -25507,12 +25507,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-06-19T22:01:50.097Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.85535318",
             "longitude": "17.12071777"
           },
-          "evse_id": "CZ*EON*E11051437*1",
+          "evse_id": "CZ*UFC*E11051437*1",
           "last_seen_as_planned": "2022-03-11T13:05:33.327Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -25525,12 +25548,57 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-06-19T22:01:50.097Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-06-19T22:01:50.097Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "48.85535318",
             "longitude": "17.12071777"
           },
-          "evse_id": "CZ*EON*E11051437*2",
+          "evse_id": "CZ*UFC*E11051437*2",
           "last_seen_as_planned": "2022-03-11T13:05:33.327Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -25544,7 +25612,7 @@
       ],
       "id": "51437",
       "last_updated": "RESET",
-      "name": "E.ON Hodonín",
+      "name": "E.ON ČD Hodonín",
       "opening_times": {
         "twentyfourseven": true
       },
