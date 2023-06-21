@@ -4196,6 +4196,176 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "139466": {
+    "name": "(P) CS Beton 1",
+    "sha1": "eb4454f2b0239b0166ad5ab9b2519b900902883e",
+    "station": {
+      "address": "Velké Žernoseky 184",
+      "city": "Velké Žernoseky",
+      "coordinates": {
+        "latitude": "50.52861612",
+        "longitude": "14.07185773"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-06-20T11:53:25.223Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "264",
+                "265"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.52861612",
+            "longitude": "14.07185773"
+          },
+          "evse_id": "CZ*EON*E139466",
+          "last_seen_as_planned": "2023-06-20T11:55:02.917Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "139466"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-06-20T11:53:25.223Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "264",
+                "265"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.52861612",
+            "longitude": "14.07185773"
+          },
+          "evse_id": "CZ*EON*E139467",
+          "last_seen_as_planned": "2023-06-20T11:55:02.917Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "139467"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-06-20T11:53:25.223Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "264",
+                "265"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.52861612",
+            "longitude": "14.07185773"
+          },
+          "evse_id": "CZ*EON*E139476",
+          "last_seen_as_planned": "2023-06-20T11:55:02.917Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "139476"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-06-20T11:53:25.223Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "264",
+                "265"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.52861612",
+            "longitude": "14.07185773"
+          },
+          "evse_id": "CZ*EON*E139477",
+          "last_seen_as_planned": "2023-06-20T11:55:02.917Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "139477"
+        }
+      ],
+      "id": "139466",
+      "last_updated": "RESET",
+      "name": "(P) CS Beton 1",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "CS-BETON s.r.o."
+      },
+      "owner": {
+        "name": "CS-BETON s.r.o."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "COM Electric s.r.o."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "14028": {
     "name": "E.ON Český Krumlov autobusové nádraží",
     "sha1": "8cf45bf78ea91512378aad90600c7ebdb63fb0c4",
@@ -4896,8 +5066,8 @@
     }
   },
   "15025": {
-    "name": "E.ON Vystrkov",
-    "sha1": "6b124d5bbe6ac94c0992b0d5a3e35a458abd4f04",
+    "name": "E.ON Vystrkov A AC",
+    "sha1": "96aa3beb9d311643fe8be8eda8b8cda583d798e1",
     "station": {
       "address": "Čerpací stanice Benzina na E551",
       "city": "Vystrkov",
@@ -5480,7 +5650,7 @@
       ],
       "id": "15025",
       "last_updated": "RESET",
-      "name": "E.ON Vystrkov",
+      "name": "E.ON Vystrkov A AC",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -9431,7 +9601,7 @@
   },
   "206830": {
     "name": "E.ON Kaufland Kolín",
-    "sha1": "dacaa8187ba5cb776c72aa0667d8cdfb0b043704",
+    "sha1": "bc010c5a44a4a7636d58db4f0ed62fa76ad5c381",
     "station": {
       "address": "Benešova 1000",
       "city": "Kolín",
@@ -9475,6 +9645,17 @@
             "REMOTE_START_STOP_CAPABLE"
           ],
           "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-06-20T22:01:46.423Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": []
+            },
             {
               "format": "SOCKET",
               "id": "3",
@@ -9724,7 +9905,7 @@
   },
   "208770": {
     "name": "(P) AUTOKLEVER, spol. s r.o.",
-    "sha1": "6373f9bac1b5b4bc6cfae2efbc54497c2f1c0305",
+    "sha1": "1e95e24cc2d9984330df605ffc8fcc76a2ab4eef",
     "station": {
       "address": "Hřbitovní 966/5",
       "city": "Nový Jičín",
@@ -9803,6 +9984,24 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "205662"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.5993775",
+            "longitude": "18.0197217"
+          },
+          "evse_id": "SE*EDR*E208770",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "208770"
         }
       ],
       "id": "208770",
@@ -9860,7 +10059,7 @@
   },
   "208803": {
     "name": "(P) PP AUTOCENTRUM s.r.o.",
-    "sha1": "87c1c5ac418d0b2aa606afd86751f02bfb9c3be7",
+    "sha1": "92e461485b2554c17f14383ba5603da7e7fff26e",
     "station": {
       "address": "Družstevní 2210",
       "city": "Hranice",
@@ -9939,6 +10138,24 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "205660"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.5574403",
+            "longitude": "17.7354581"
+          },
+          "evse_id": "SE*EDR*E208803",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "208803"
         }
       ],
       "id": "208803",
@@ -9975,11 +10192,6 @@
             "period_begin": "8:00",
             "period_end": "12:00",
             "weekday": 6
-          },
-          {
-            "period_begin": "0:00",
-            "period_end": "0:00",
-            "weekday": 7
           }
         ],
         "twentyfourseven": false
@@ -9998,7 +10210,7 @@
   },
   "208817": {
     "name": "(P) DaJa Lipno s.r.o.",
-    "sha1": "cc015d4397e82815b26012fb622a05cbf75827bf",
+    "sha1": "1eda29c40cc64227704bdc929ef24ef88bdd7d48",
     "station": {
       "address": "Pihlov 99",
       "city": "Horní Planá",
@@ -10077,6 +10289,24 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "135187"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.774856",
+            "longitude": "14.014231"
+          },
+          "evse_id": "SE*EDR*E208817",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "208817"
         }
       ],
       "facilities": [
@@ -38582,7 +38812,7 @@
   },
   "5918": {
     "name": "E.ON Jihlava Intercora",
-    "sha1": "68a436e8b7a5c04facfa7cfee920b5c481c6e170",
+    "sha1": "238c310ae1ede584f18a36c4b1403b91f3f746ed",
     "station": {
       "address": "Romana Havelky 5508/1",
       "city": "Jihlava",
@@ -38633,7 +38863,7 @@
           },
           "evse_id": "CZ*UFC*E11005918*1",
           "floor_level": "0",
-          "last_seen_as_planned": null,
+          "last_seen_as_planned": "2023-06-20T09:30:29.16Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "5918"
@@ -38696,7 +38926,7 @@
             "longitude": "15.581355"
           },
           "evse_id": "CZ*UFC*E11005918*2",
-          "last_seen_as_planned": null,
+          "last_seen_as_planned": "2023-06-20T09:30:29.16Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "5919"
