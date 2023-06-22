@@ -25099,10 +25099,10 @@
     }
   },
   "51425": {
-    "name": "E.ON Jihlava",
-    "sha1": "02cca64fb9ca7b9a15fb89c3d7c14e5eec375d8c",
+    "name": "E.ON Intercora Jihlava 2",
+    "sha1": "9f79965789cd400ac1fbda16abff408a75dc4b73",
     "station": {
-      "address": "Romana Havelky",
+      "address": "Romana Havelky 5508/1",
       "city": "Jihlava",
       "coordinates": {
         "latitude": "49.40724723",
@@ -25121,12 +25121,76 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-06-21T11:50:30.833Z",
+              "max_amperage": 125,
+              "max_electric_power": 175000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144",
+                "186",
+                "187",
+                "211",
+                "213"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.40724723",
             "longitude": "15.58147946"
           },
-          "evse_id": "CZ*EON*E11051425*1",
+          "evse_id": "CZ*UFC*E209166",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "209166"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-06-21T11:50:30.833Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.40724723",
+            "longitude": "15.58147946"
+          },
+          "evse_id": "CZ*UFC*E11051425*1",
           "last_seen_as_planned": "2022-03-11T08:28:32.34Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -25139,16 +25203,166 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-06-21T11:50:30.833Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-06-21T11:50:30.833Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.40724723",
             "longitude": "15.58147946"
           },
-          "evse_id": "CZ*EON*E11051425*2",
+          "evse_id": "CZ*UFC*E11051425*2",
           "last_seen_as_planned": "2022-03-11T08:28:32.34Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51426"
+        },
+        {
+          "capabilities": [
+            "UNLOCK_CAPABLE",
+            "CHIP_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-06-21T11:50:30.833Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.40724723",
+            "longitude": "15.58147946"
+          },
+          "evse_id": "CZ*UFC*E11051467*1",
+          "floor_level": "0",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51467"
+        },
+        {
+          "capabilities": [
+            "RFID_READER",
+            "UNLOCK_CAPABLE",
+            "CHIP_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-06-21T22:01:57.847Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-06-21T22:01:57.847Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.40724723",
+            "longitude": "15.58147946"
+          },
+          "evse_id": "CZ*UFC*E11051467*2",
+          "floor_level": "0",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51468"
         }
       ],
       "facilities": [
@@ -25157,7 +25371,7 @@
       ],
       "id": "51425",
       "last_updated": "RESET",
-      "name": "E.ON Jihlava",
+      "name": "E.ON Intercora Jihlava 2",
       "opening_times": {
         "twentyfourseven": true
       },
