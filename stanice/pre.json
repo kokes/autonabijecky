@@ -18633,6 +18633,55 @@
       "street": "Rudná 2978/11"
     }
   },
+  "CZ8194502": {
+    "name": "Ladestation TS 5158 Radimovická",
+    "sha1": "e53e212cc59c9d0e78d7ef9a1d54967e45d34613",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8194502",
+      "csName": "Ladestation TS 5158 Radimovická",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 5158 Radimovická",
+      "evseId": "CZ*PRE*E1S8198*1",
+      "geoCoord": {
+        "latitude": "50.021528",
+        "longitude": "14.515281"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6492ecbbf6cf7d59263f4e55/imgonline-com-ua-resize-lXeZSeiCfFFjoz.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Radimovická"
+    }
+  },
   "CZ8234794": {
     "name": "Ladestation Belarie Park",
     "sha1": "7a01baa7230815f62b7c8fbb39f90b8f9ec4c681",
@@ -18729,6 +18778,55 @@
       "postalCode": "18100",
       "region": "Hlavní město Praha",
       "street": "Gdaňská"
+    }
+  },
+  "CZ8306733": {
+    "name": "Ladestation TS 3952 Jakobiho",
+    "sha1": "562b216ba6fb1d892e39d79f6ec097f89a4d62f7",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8306733",
+      "csName": "Ladestation TS 3952 Jakobiho",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 3952 Jakobiho",
+      "evseId": "CZ*PRE*E1S8194*1",
+      "geoCoord": {
+        "latitude": "50.032244",
+        "longitude": "14.559113"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6492ed78f6cf7d59263f4e5e/imgonline-com-ua-resize-JaMfrfXs15V.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10900",
+      "region": "Hlavní město Praha",
+      "street": "Jakobiho 432"
     }
   },
   "CZ8314657": {
@@ -19072,6 +19170,55 @@
       "street": "Smolkova"
     }
   },
+  "CZ8810630": {
+    "name": "Charger Mahlerovy sady",
+    "sha1": "4400db3df226c1f13b289f1493d53fb28d8dfde2",
+    "station": {
+      "branch": "Unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8810630",
+      "csName": "Charger Mahlerovy sady",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Mahlerovy sady",
+      "evseId": "CZ*PRE*E1S0069*2",
+      "geoCoord": {
+        "latitude": "50.080735",
+        "longitude": "14.450055"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6492ec32f6cf7d59263f4e4f/imgonline-com-ua-resize-7IKJWiluvScGy.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Fibichova"
+    }
+  },
   "CZ8851117": {
     "name": "Ladestation TS 2978 Habrová",
     "sha1": "06dad7bda9ae9aa0f473e8ea1591106d189abe1d",
@@ -19266,7 +19413,7 @@
   },
   "CZ9005838": {
     "name": "Ultra-Highspeed-Ladestation Power Point Pankrác",
-    "sha1": "24c8dcec37c5050a2bd0a73813e8b9140af132bd",
+    "sha1": "35c26f012e1ec33f8f56c7bfc811bc972232ebce",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
@@ -19304,6 +19451,11 @@
           "class": "locationPhoto",
           "type": "jpg",
           "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6454f84f6f5fb93f08a13b4c/imgonline-com-ua-resize-teT7McDGqTp75g.jpg"
+        },
+        {
+          "class": "otherLogo",
+          "type": "png",
+          "uri": "https://smatrics.com/sites/default/files/2023-06/pankrac.png"
         }
       ],
       "isHome": true,
@@ -19570,6 +19722,55 @@
       "street": "Libkovská"
     }
   },
+  "CZ9084816": {
+    "name": "Ladestation TS 3945 Křimická",
+    "sha1": "37b017890cb355b1a1b386098a356024abba32a7",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9084816",
+      "csName": "Ladestation TS 3945 Křimická",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 3945 Křimická",
+      "evseId": "CZ*PRE*E1S8208*1",
+      "geoCoord": {
+        "latitude": "50.046496",
+        "longitude": "14.562128"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6492ed2df6cf7d59263f4e5b/imgonline-com-ua-resize-3UEwIRANjFKCxZxX.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10900",
+      "region": "Hlavní město Praha",
+      "street": "Křimická"
+    }
+  },
   "CZ9162726": {
     "name": "Ladestation OREA Hotel Santon",
     "sha1": "77b8b0f091e643928592da056d90c69f680d5e2d",
@@ -19619,6 +19820,104 @@
       "street": "Přístavní"
     }
   },
+  "CZ9170241": {
+    "name": "Ladestation TS 2175 Dvouletky",
+    "sha1": "50eead6725ebf34196830a8e008c5256d529ed74",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9170241",
+      "csName": "Ladestation TS 2175 Dvouletky",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 2175 Dvouletky",
+      "evseId": "CZ*PRE*E1S8205*2",
+      "geoCoord": {
+        "latitude": "50.076199",
+        "longitude": "14.505997"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6492ecf8f6cf7d59263f4e58/imgonline-com-ua-resize-DpMc9bKKlpNCO.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10000",
+      "region": "Hlavní město Praha",
+      "street": "Dvouletky"
+    }
+  },
+  "CZ9189668": {
+    "name": "Ladestation Okořská",
+    "sha1": "40b372baf10847741b3d5c1978e026380559ad10",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9189668",
+      "csName": "Ladestation Okořská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Okořská",
+      "evseId": "CZ*PRE*E1S8243*2",
+      "geoCoord": {
+        "latitude": "50.139530",
+        "longitude": "14.431087"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6492ec6bf6cf7d59263f4e52/imgonline-com-ua-resize-Wa0ZViu1qESDH.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "Okořská"
+    }
+  },
   "CZ9197099": {
     "name": "Ladestation TS 3678 Výletní",
     "sha1": "8503cb586aa18929be20240ef5ed9efac8adc802",
@@ -19666,6 +19965,55 @@
       "postalCode": "14200",
       "region": "Hlavní město Praha",
       "street": "Výletní"
+    }
+  },
+  "CZ9297279": {
+    "name": "Ladestation TS 2981 Stehlíkova",
+    "sha1": "c8f6d6c5f732a20d5f2a28a4847346a889576146",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9297279",
+      "csName": "Ladestation TS 2981 Stehlíkova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 2981 Stehlíkova",
+      "evseId": "CZ*PRE*E1S8207*1",
+      "geoCoord": {
+        "latitude": "50.140948",
+        "longitude": "14.375077"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6492ee0bf6cf7d59263f4e61/imgonline-com-ua-resize-c81wQRlKWbZGUwW.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16500",
+      "region": "Hlavní město Praha",
+      "street": "Stehlíkova"
     }
   },
   "CZ9334395": {
@@ -19816,6 +20164,55 @@
       "postalCode": "19600",
       "region": "Hlavní město Praha",
       "street": "Schoellerova"
+    }
+  },
+  "CZ9483995": {
+    "name": "Ladestation TS 2139 Holčovická",
+    "sha1": "5e202ce96d362111a4e61b0ba45d0e59e3422540",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9483995",
+      "csName": "Ladestation TS 2139 Holčovická",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 2139 Holčovická",
+      "evseId": "CZ*PRE*E1S8187*1",
+      "geoCoord": {
+        "latitude": "50.045770",
+        "longitude": "14.485582"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6492e4cdf6cf7d59263f4e47/imgonline-com-ua-resize-ogTNSloAV3ziI.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14100",
+      "region": "Hlavní město Praha",
+      "street": "Holčovická"
     }
   },
   "CZ9525097": {
@@ -20149,6 +20546,55 @@
       "postalCode": "15500",
       "region": "Hlavní město Praha",
       "street": "Vlachova 87"
+    }
+  },
+  "CZ9967287": {
+    "name": "Ladestation Újezd Zborovská",
+    "sha1": "9a2ea4084d2f0f71aa80814519d723b453b5b701",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9967287",
+      "csName": "Ladestation Újezd Zborovská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Újezd Zborovská",
+      "evseId": "CZ*PRE*E1S8229*2",
+      "geoCoord": {
+        "latitude": "50.081038",
+        "longitude": "14.407295"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6493094ef6cf7d59263f4e9a/imgonline-com-ua-resize-UxHF1LPI7w7iu50d.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15000",
+      "region": "Hlavní město Praha",
+      "street": "Zborovská"
     }
   },
   "CZ9979120": {
