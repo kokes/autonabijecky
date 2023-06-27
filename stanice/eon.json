@@ -9759,6 +9759,128 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "206833": {
+    "name": "E.ON Kaufland Jablonec nad Nisou",
+    "sha1": "f74b2494ce0425c5744ad1aed96b82bcb827573a",
+    "station": {
+      "address": "U Kostela 4754/37",
+      "city": "Jablonec nad Nisou",
+      "coordinates": {
+        "latitude": "50.7390786",
+        "longitude": "15.1692844"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-06-26T13:49:48.123Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "218",
+                "215",
+                "191",
+                "190",
+                "148",
+                "147",
+                "69",
+                "66",
+                "8",
+                "11"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.7390786",
+            "longitude": "15.1692844"
+          },
+          "evse_id": "CZ*UFC*E32206833*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "206833"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-06-26T13:49:48.123Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.7390786",
+            "longitude": "15.1692844"
+          },
+          "evse_id": "CZ*UFC*E32206833*3",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "206835"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET"
+      ],
+      "id": "206833",
+      "last_updated": "RESET",
+      "name": "E.ON Kaufland Jablonec nad Nisou",
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Energie, a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "466 04 ",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "207372": {
     "name": "(P) Wake port",
     "sha1": "1edb96db87aa0f74420dd18a047ad2cb4cd31719",
