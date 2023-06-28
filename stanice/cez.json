@@ -24088,6 +24088,152 @@
       "visible": true
     }
   },
+  "178613": {
+    "name": "R552 - Znojmo - McDonald´s Dobšická - 2",
+    "sha1": "8feda4d5650e8ad006a75e1c29e5c4e7c41a0790",
+    "station": {
+      "address": {
+        "city": "Znojmo",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 48.8539664,
+        "longitude": 16.0702969,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dobšická",
+        "url": ""
+      },
+      "customID": "178613",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R552"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R552"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/2-20230627-145217.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R552 - Znojmo - McDonald´s Dobšická - 2",
+      "visible": true
+    }
+  },
+  "178666": {
+    "name": "R551 - Znojmo - McDonald´s Dobšická - 1",
+    "sha1": "f0648dfec1f102efb48d858ccd4523ab1c675c1e",
+    "station": {
+      "address": {
+        "city": "Znojmo",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 48.8539664,
+        "longitude": 16.0702969,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dobšická",
+        "url": ""
+      },
+      "customID": "178666",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R551"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R551"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/2-20230627-145217.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R551 - Znojmo - McDonald´s Dobšická - 1",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
@@ -27318,79 +27464,6 @@
       ],
       "instructions": null,
       "name": "R151 - Děčín - KFC",
-      "visible": true
-    }
-  },
-  "59475": {
-    "name": "R152 - Jablonec nad Nisou - Kaufland",
-    "sha1": "4d4a93fa81c7e69b86c82af1f0ff225e16bd17d5",
-    "station": {
-      "address": {
-        "city": "Jablonec nad Nisou",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "Kostela 4754/37",
-        "latitude": 50.7393386,
-        "longitude": 15.1689544,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "U",
-        "url": ""
-      },
-      "customID": "59475",
-      "description": [
-        {
-          "language": "cs",
-          "text": "UPOZORNĚNÍ PRO ZÁKAZNÍKY: DOBÍJENÍ ZDARMA NEPLATÍ PRO ZÁKAZNÍKY PARTNERSKÝCH POSKYTOVATELŮ SLUŽBY DOBÍJENÍ TZV.ROAMINGOVÉ ZÁKAZNÍKY, KTERÝM CENY URČUJÍ JEJICH POSKYTOVATELÉ SLUŽBY DOBÍJENÍ."
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T53-IT1-0418-022 ",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R152"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-IT1-0418-022 ",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-IT1-0418-022 ",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R152"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/kaufland-jablonec-komplet-mala.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R152 - Jablonec nad Nisou - Kaufland",
       "visible": true
     }
   },

@@ -18633,6 +18633,60 @@
       "street": "Rudná 2978/11"
     }
   },
+  "CZ8167949": {
+    "name": "Ladestation P+R Nové Butovice",
+    "sha1": "337cc9c8c8be7837f278b14661f648fac8c04424",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8167949",
+      "csName": "Ladestation P+R Nové Butovice",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger P+R Nové Butovice",
+      "evseId": "CZ*PRE*E1S8232*2",
+      "geoCoord": {
+        "latitude": "50.052126",
+        "longitude": "14.350265"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6499b25ef6cf7d59263f4fe4/imgonline-com-ua-resize-kxzkOWeNYGVRXAF.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6499b25ef6cf7d59263f4fe4/imgonline-com-ua-resize-XAE5uJwAKJU.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15800",
+      "region": "Hlavní město Praha",
+      "street": "Petržílkova"
+    }
+  },
   "CZ8194502": {
     "name": "Ladestation TS 5158 Radimovická",
     "sha1": "e53e212cc59c9d0e78d7ef9a1d54967e45d34613",
@@ -18927,6 +18981,55 @@
       "street": "Mukařovská"
     }
   },
+  "CZ8378464": {
+    "name": "Ladestation Koupaliště Šutka",
+    "sha1": "80d40e457201a7f6f124e8fffff80dfeddcdc3ec",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8378464",
+      "csName": "Ladestation Koupaliště Šutka",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Koupaliště Šutka",
+      "evseId": "CZ*PRE*E1S8254*2",
+      "geoCoord": {
+        "latitude": "50.126116",
+        "longitude": "14.436379"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6499a871f6cf7d59263f4fd8/imgonline-com-ua-resize-Pk1jgxVY2LQ1u.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "Čimická"
+    }
+  },
   "CZ8411607": {
     "name": "Ladestation TS 1406 Na Dlážděnce",
     "sha1": "2f2dff6a24c293b2caf0698fb48938d9bbf7124a",
@@ -18974,6 +19077,60 @@
       "postalCode": "18200",
       "region": "Hlavní město Praha",
       "street": "Na Dlážděnce"
+    }
+  },
+  "CZ8468957": {
+    "name": "Ladestation LA Zadov",
+    "sha1": "81ae69fd03efe12f675de5b9b7e30f2511c7f387",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Stachy",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8468957",
+      "csName": "Ladestation LA Zadov",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger LA Zadov",
+      "evseId": "CZ*PRE*E1S8224*2",
+      "geoCoord": {
+        "latitude": "49.067000",
+        "longitude": "13.630596"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64998f22f6cf7d59263f4f44/imgonline-com-ua-resize-gLFKKvf0D8gnqb.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64998f22f6cf7d59263f4f44/imgonline-com-ua-resize-ZUTu1SmMc89Mx4Q6.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "384 73",
+      "region": "Jihočeský kraj",
+      "street": "Zadov 162"
     }
   },
   "CZ8523914": {
@@ -19771,6 +19928,60 @@
       "street": "Křimická"
     }
   },
+  "CZ9103515": {
+    "name": "Ultra-Highspeed-Ladestation OC Soběslav",
+    "sha1": "2096f1c2234570c56adb9402bedd61a30d9bc072",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤150kW"
+        ]
+      },
+      "city": "Soběslav",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9103515",
+      "csName": "Ultra-Highspeed-Ladestation OC Soběslav",
+      "csStatus": "operable",
+      "csType": "ultra_fast_charger",
+      "enCsname": "Ultra-highspeed charger OC Soběslav",
+      "evseId": "CZ*PRE*E1R0070*2",
+      "geoCoord": {
+        "latitude": "49.263888",
+        "longitude": "14.714820"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6499b10ef6cf7d59263f4fde/imgonline-com-ua-resize-F35g0KirPW4.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6499b10ef6cf7d59263f4fde/imgonline-com-ua-resize-5OtH12BXE4zuhO5Q.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "39201",
+      "region": "Jihočeský kraj",
+      "street": "Obchodní 1000"
+    }
+  },
   "CZ9162726": {
     "name": "Ladestation OREA Hotel Santon",
     "sha1": "77b8b0f091e643928592da056d90c69f680d5e2d",
@@ -20499,6 +20710,55 @@
       "street": "Arménská"
     }
   },
+  "CZ9678188": {
+    "name": "Ladestation TS 2271 Omská",
+    "sha1": "5d5d6e1b951986025d6290be39913b730958975c",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9678188",
+      "csName": "Ladestation TS 2271 Omská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 2271 Omská",
+      "evseId": "CZ*PRE*E1S8191*1",
+      "geoCoord": {
+        "latitude": "50.072793",
+        "longitude": "14.480437"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6499889ef6cf7d59263f4f34/imgonline-com-ua-resize-VRSLE95tY7Ea.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10000",
+      "region": "Hlavní město Praha",
+      "street": "Omská"
+    }
+  },
   "CZ9770201": {
     "name": "Ladestation TS 4457 Vlachova",
     "sha1": "4bf50a64ee92e5e02a1ce529e251bf43f1575443",
@@ -20546,6 +20806,62 @@
       "postalCode": "15500",
       "region": "Hlavní město Praha",
       "street": "Vlachova 87"
+    }
+  },
+  "CZ9942351": {
+    "name": "Charger Sportoviště Řepy",
+    "sha1": "810f522eef3463851c8257cb0186bfa4106c3d72",
+    "station": {
+      "additionalInfo": "Für Besucher des Schwimmbads kostenlos, sonst die ersten 20min kostenlos. Danach 20CZK/Stunde",
+      "branch": "Unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9942351",
+      "csName": "Charger Sportoviště Řepy",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "visitors of the swimming centre free of charge, otherwise 20min free and then 20CZK/hour",
+      "enCsname": "Charger Sportoviště Řepy",
+      "evseId": "CZ*PRE*E1S8228*1",
+      "geoCoord": {
+        "latitude": "50.066662",
+        "longitude": "14.295993"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64998a77f6cf7d59263f4f3a/imgonline-com-ua-resize-2dBpdIvfDNLM0n.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64998a77f6cf7d59263f4f3a/imgonline-com-ua-resize-VweXbjjOSf.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16300",
+      "region": "Hlavní město Praha",
+      "street": "Na Chobotě"
     }
   },
   "CZ9967287": {
