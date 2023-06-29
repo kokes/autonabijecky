@@ -10222,7 +10222,7 @@
   },
   "208770": {
     "name": "(P) AUTOKLEVER, spol. s r.o.",
-    "sha1": "1e95e24cc2d9984330df605ffc8fcc76a2ab4eef",
+    "sha1": "a98bc03aa94320d99e289150edb3bf0b0f6bfb46",
     "station": {
       "address": "Hřbitovní 966/5",
       "city": "Nový Jičín",
@@ -10350,11 +10350,6 @@
             "period_begin": "7:00",
             "period_end": "18:00",
             "weekday": 5
-          },
-          {
-            "period_begin": "8:00",
-            "period_end": "12:00",
-            "weekday": 6
           }
         ],
         "twentyfourseven": false
@@ -10376,9 +10371,9 @@
   },
   "208803": {
     "name": "(P) PP AUTOCENTRUM s.r.o.",
-    "sha1": "92e461485b2554c17f14383ba5603da7e7fff26e",
+    "sha1": "3935bbff99261e5a61fc2fe24260285b0643d8d7",
     "station": {
-      "address": "Družstevní 2210",
+      "address": "Tř. 1. máje 328",
       "city": "Hranice",
       "coordinates": {
         "latitude": "49.5574403",
@@ -10504,11 +10499,6 @@
             "period_begin": "7:00",
             "period_end": "18:00",
             "weekday": 5
-          },
-          {
-            "period_begin": "8:00",
-            "period_end": "12:00",
-            "weekday": 6
           }
         ],
         "twentyfourseven": false

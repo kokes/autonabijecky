@@ -1,9 +1,9 @@
 {
   "AT9189126": {
-    "name": "Ladestation Prague City Golf Zbraslav I + II, III",
-    "sha1": "2c068e5813251d929bf762c6c3e38c957f9c4ee4",
+    "name": "Charger Prague City Golf Zbraslav I + II, III",
+    "sha1": "7e7a49633be241ad8968b6afc667e85780e8b39a",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -13,7 +13,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "AT9189126",
-      "csName": "Ladestation Prague City Golf Zbraslav I + II, III",
+      "csName": "Charger Prague City Golf Zbraslav I + II, III",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Prague City Golf Zbraslav I + II, III",
@@ -6659,8 +6659,8 @@
     }
   },
   "CZ1003268": {
-    "name": "Ladestation Kunínova",
-    "sha1": "237a83901cf0ceba2681c68857f5dd268c38d07c",
+    "name": "Charger AUTO IN Průhonice",
+    "sha1": "82bdeba013cae42e3e60377ff062ebb9165e9bc1",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -6668,18 +6668,18 @@
           "380 - 480V, 3-Phase ≤32A"
         ]
       },
-      "city": "Praha",
+      "city": "Průhonice",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003268",
-      "csName": "Ladestation Kunínova",
-      "csStatus": "under_construction",
+      "csName": "Charger AUTO IN Průhonice",
+      "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Kunínova",
+      "enCsname": "Charger AUTO IN Průhonice",
       "evseId": "CZ*PRE*E1S8221*2",
       "geoCoord": {
-        "latitude": "50.036747",
-        "longitude": "14.500072"
+        "latitude": "50.004982",
+        "longitude": "14.567999"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -6695,9 +6695,9 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "14900",
-      "region": "Hlavní město Praha",
-      "street": "Kunínova 6"
+      "postalCode": "252 43",
+      "region": "Středočeský kraj",
+      "street": "V Oblouku"
     }
   },
   "CZ1003269": {
@@ -18786,8 +18786,8 @@
     }
   },
   "CZ8257741": {
-    "name": "Ladestation TS 1595 Gdaňská",
-    "sha1": "f86d7bc62cb498f1fab61d47546bf4bb696f7a78",
+    "name": "Charger TS 1595 Gdaňská",
+    "sha1": "8d7b514e41d665e10f0ad2da441c3dc661e8c966",
     "station": {
       "branch": "Parking",
       "chargingFacilities": {
@@ -18799,7 +18799,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8257741",
-      "csName": "Ladestation TS 1595 Gdaňská",
+      "csName": "Charger TS 1595 Gdaňská",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger TS 1595 Gdaňská",
@@ -18930,6 +18930,55 @@
       "postalCode": "14300",
       "region": "Hlavní město Praha",
       "street": "Kutilova/Mráčkova 3060"
+    }
+  },
+  "CZ8328581": {
+    "name": "Ladestation Sídliště Malešice - Plaňanská",
+    "sha1": "8be68f6e4f60e79908ef5d9d6abd348bd7be5291",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8328581",
+      "csName": "Ladestation Sídliště Malešice - Plaňanská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Sídliště Malešice - Plaňanská",
+      "evseId": "CZ*PRE*E1S8230*2",
+      "geoCoord": {
+        "latitude": "50.081405",
+        "longitude": "14.500934"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649abc3df6cf7d59263f50dd/imgonline-com-ua-resize-c7HcwMpTVbo9iTO.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10800",
+      "region": "Hlavní město Praha",
+      "street": "Plaňanská"
     }
   },
   "CZ8333737": {
@@ -19133,6 +19182,55 @@
       "street": "Zadov 162"
     }
   },
+  "CZ8469470": {
+    "name": "Ladestation TS 3956 Kurčatovova",
+    "sha1": "04db05d66c955f0167e018cddab95d8a39f8c5e3",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8469470",
+      "csName": "Ladestation TS 3956 Kurčatovova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 3956 Kurčatovova",
+      "evseId": "CZ*PRE*E1S8195*1",
+      "geoCoord": {
+        "latitude": "50.032865",
+        "longitude": "14.564329"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649ab952f6cf7d59263f50ca/imgonline-com-ua-resize-f43PIdh46oF.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10900",
+      "region": "Hlavní město Praha",
+      "street": "Kurčatovova 332"
+    }
+  },
   "CZ8523914": {
     "name": "Ladestation ČSOB Hradec Králové 2",
     "sha1": "eba17259ed7bf7c5a30c7694c47c57ec5b3f581e",
@@ -19276,6 +19374,60 @@
       "postalCode": "25166",
       "region": "Středočeský kraj",
       "street": "Malostranská 344"
+    }
+  },
+  "CZ8685815": {
+    "name": "Ladestation Inspirace nad Rokytkou",
+    "sha1": "3d67a6aefb80f4ded4b0f97d6aa91fab6e176095",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8685815",
+      "csName": "Ladestation Inspirace nad Rokytkou",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Inspirace nad Rokytkou",
+      "evseId": "CZ*PRE*E1S8251*2",
+      "geoCoord": {
+        "latitude": "50.106570",
+        "longitude": "14.518270"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649abb9bf6cf7d59263f50d7/imgonline-com-ua-resize-u8BY9eedklv.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649abb9bf6cf7d59263f50d7/imgonline-com-ua-resize-dRI9bCpQ2LR1KG4e.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Ivana Hlinky"
     }
   },
   "CZ8736457": {
@@ -19475,11 +19627,11 @@
     }
   },
   "CZ8985363": {
-    "name": "Ladestation Hamr Sport Modřany",
-    "sha1": "574c36f8359067cf97301786469e9b8f779c66f8",
+    "name": "Charger Hamr Sport Modřany",
+    "sha1": "69a69759e062f1fb31d130f3a4c6868c69ffcaf5",
     "station": {
       "additionalInfo": "test",
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -19489,7 +19641,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8985363",
-      "csName": "Ladestation Hamr Sport Modřany",
+      "csName": "Charger Hamr Sport Modřany",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "test",
@@ -19514,7 +19666,7 @@
         }
       ],
       "postalCode": "14700",
-      "region": "Hlavní město Praha",
+      "region": "Praha",
       "street": "Vltavanů"
     }
   },
@@ -19630,6 +19782,62 @@
       "postalCode": "14000",
       "region": "Hlavní město Praha",
       "street": "5. května"
+    }
+  },
+  "CZ9010237": {
+    "name": "Ladestation OREA Devět Skal",
+    "sha1": "0142494779da7b7321f4e8d45fee9de61ece6d2f",
+    "station": {
+      "additionalInfo": "10min kostenlos, dann 30CZK/Stunde, für OREA-Hotelkunden Info an der Rezeption",
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Sněžné",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9010237",
+      "csName": "Ladestation OREA Devět Skal",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "10min free of charge, then 30CZK/hour, for OREA hotel customers info at the reception",
+      "enCsname": "Charger OREA Devět Skal",
+      "evseId": "CZ*PRE*E1S8245*2",
+      "geoCoord": {
+        "latitude": "49.668099",
+        "longitude": "16.090556"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649aba35f6cf7d59263f50d0/imgonline-com-ua-resize-evJywYWJab3cAr.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649aba35f6cf7d59263f50d0/imgonline-com-ua-resize-Zyt9SAA9zL9K3xo.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "592 02",
+      "region": "Kraj Vysočina",
+      "street": ""
     }
   },
   "CZ9012327": {
@@ -19983,10 +20191,10 @@
     }
   },
   "CZ9162726": {
-    "name": "Ladestation OREA Hotel Santon",
-    "sha1": "77b8b0f091e643928592da056d90c69f680d5e2d",
+    "name": "Charger OREA Hotel Santon",
+    "sha1": "77fabbbb121f056661e4f977ded92d22c78474d3",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -19996,7 +20204,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9162726",
-      "csName": "Ladestation OREA Hotel Santon",
+      "csName": "Charger OREA Hotel Santon",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger OREA Hotel Santon",
@@ -20130,8 +20338,8 @@
     }
   },
   "CZ9197099": {
-    "name": "Ladestation TS 3678 Výletní",
-    "sha1": "8503cb586aa18929be20240ef5ed9efac8adc802",
+    "name": "Charger TS 3678 Výletní",
+    "sha1": "18ae0c954b583a335181f862c206050caad2b148",
     "station": {
       "branch": "Parking",
       "chargingFacilities": {
@@ -20143,7 +20351,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9197099",
-      "csName": "Ladestation TS 3678 Výletní",
+      "csName": "Charger TS 3678 Výletní",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger TS 3678 Výletní",
@@ -20277,8 +20485,8 @@
     }
   },
   "CZ9354989": {
-    "name": "Ladestation Fakulta Humanitních studií Univerzity ",
-    "sha1": "37f01c18f291e0402e4bb180f188e723e20ffffd",
+    "name": "Charger Fakulta Humanitních studií Univerzity Karl",
+    "sha1": "6a2e671c7fe1c0e56d1c14a09eb9bf6b9abb13b3",
     "station": {
       "branch": "Parking",
       "chargingFacilities": {
@@ -20290,7 +20498,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9354989",
-      "csName": "Ladestation Fakulta Humanitních studií Univerzity ",
+      "csName": "Charger Fakulta Humanitních studií Univerzity Karl",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Fakulta Humanitních studií Univerzity Karl",
@@ -20333,6 +20541,55 @@
       "postalCode": "15800",
       "region": "Hlavní město Praha",
       "street": "U Kříže"
+    }
+  },
+  "CZ9441199": {
+    "name": "Ladestation Arena Sparta",
+    "sha1": "507dbd7b4a9609ac3c36dab299feb3af11c394f1",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9441199",
+      "csName": "Ladestation Arena Sparta",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Arena Sparta",
+      "evseId": "CZ*PRE*E1S8246*2",
+      "geoCoord": {
+        "latitude": "50.108121",
+        "longitude": "14.485601"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649ab5def6cf7d59263f50c3/imgonline-com-ua-resize-9cTEqitGka1AAhyr.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Kovanecká"
     }
   },
   "CZ9456346": {
@@ -20515,10 +20772,10 @@
     }
   },
   "CZ9624272": {
-    "name": "Ladestation SUAS 1",
-    "sha1": "ef32fd7675e5569d3f62d9a8940f26aa636d8617",
+    "name": "Charger SUAS 1",
+    "sha1": "d4ce168191c82caac8ce2d09a223c870cde40f7e",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -20528,7 +20785,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9624272",
-      "csName": "Ladestation SUAS 1",
+      "csName": "Charger SUAS 1",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger SUAS 1",
@@ -20552,7 +20809,6 @@
         }
       ],
       "postalCode": "356 04",
-      "region": "Karlovarský kraj",
       "street": "Ke Golfu"
     }
   },
@@ -20606,10 +20862,10 @@
     }
   },
   "CZ9656800": {
-    "name": "Schnellladestation Penny Market Bohúňova",
-    "sha1": "528b546343ed0f99ec724dfe708da369db12ad5e",
+    "name": "Fast charger Penny Market Bohúňova",
+    "sha1": "d587ef62259d1b717226e5e83052d6e32ae2cb6e",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -20619,7 +20875,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9656800",
-      "csName": "Schnellladestation Penny Market Bohúňova",
+      "csName": "Fast charger Penny Market Bohúňova",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enCsname": "Fast charger Penny Market Bohúňova",
@@ -20914,10 +21170,10 @@
     }
   },
   "CZ9979120": {
-    "name": "Ladestation Golf Club Hodkovičky, z.s.",
-    "sha1": "284dcc5448c0c0bfe2c666959593f45c78b2569c",
+    "name": "Charger Golf Club Hodkovičky, z.s.",
+    "sha1": "49db3ab371b245af86b46401dd47043da2c418fc",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -20927,7 +21183,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9979120",
-      "csName": "Ladestation Golf Club Hodkovičky, z.s.",
+      "csName": "Charger Golf Club Hodkovičky, z.s.",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Golf Club Hodkovičky, z.s.",
@@ -20951,7 +21207,7 @@
         }
       ],
       "postalCode": "15531",
-      "region": "Hlavní město Praha",
+      "region": "Praha",
       "street": "Vltavanů 546"
     }
   },
