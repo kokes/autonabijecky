@@ -12017,13 +12017,13 @@
   },
   "25200": {
     "name": "E.ON Globus Liberec",
-    "sha1": "7c3f13696a86a5f45f257868911cb05be40b03df",
+    "sha1": "50e9e9e68e46bbef8cd26dde5ad6b5aa824147ea",
     "station": {
       "address": "Sousedská 600",
       "city": "Liberec",
       "coordinates": {
-        "latitude": "50.7770275",
-        "longitude": "15.0297533"
+        "latitude": "50.77697945",
+        "longitude": "15.02970181"
       },
       "country": "CZE",
       "country_code": "CZ",
@@ -12063,8 +12063,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "50.7770275",
-            "longitude": "15.0297533"
+            "latitude": "50.77697945",
+            "longitude": "15.02970181"
           },
           "evse_id": "CZ*UFC*E11025200*1",
           "floor_level": "0",
@@ -12127,14 +12127,118 @@
             }
           ],
           "coordinates": {
-            "latitude": "50.7770275",
-            "longitude": "15.0297533"
+            "latitude": "50.77697945",
+            "longitude": "15.02970181"
           },
           "evse_id": "CZ*UFC*E11025200*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "25201"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-06-30T22:02:05.25Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.77697945",
+            "longitude": "15.02970181"
+          },
+          "evse_id": "CZ*UFC*E11051465*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51465"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-06-30T22:02:05.25Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-06-30T22:02:05.25Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.77697945",
+            "longitude": "15.02970181"
+          },
+          "evse_id": "CZ*UFC*E11051465*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51466"
         }
       ],
       "facilities": [
