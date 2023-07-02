@@ -19479,6 +19479,55 @@
       "street": "Smolkova"
     }
   },
+  "CZ8797390": {
+    "name": "Ladestation Lovosická 4",
+    "sha1": "96a4603ad3f67028460c3c3fea42c5e76c48f31d",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8797390",
+      "csName": "Ladestation Lovosická 4",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Lovosická 4",
+      "evseId": "CZ*PRE*E2S0025*2",
+      "geoCoord": {
+        "latitude": "50.124547",
+        "longitude": "14.504559"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649e99c9f6cf7d59263f5308/4.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Lovosická 640"
+    }
+  },
   "CZ8810630": {
     "name": "Charger Mahlerovy sady",
     "sha1": "4400db3df226c1f13b289f1493d53fb28d8dfde2",
@@ -19624,6 +19673,104 @@
       "postalCode": "30100",
       "region": "Plzeňský kraj",
       "street": "Inženýrská"
+    }
+  },
+  "CZ8950988": {
+    "name": "Ladestation Lovosická 5",
+    "sha1": "43515ec5cc42cdf2bca4f737be8131c07007ebd9",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8950988",
+      "csName": "Ladestation Lovosická 5",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Lovosická 5",
+      "evseId": "CZ*PRE*E2S0026*1",
+      "geoCoord": {
+        "latitude": "50.124397",
+        "longitude": "14.504817"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649e99c7f6cf7d59263f5306/5.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Lovosická 640"
+    }
+  },
+  "CZ8959186": {
+    "name": "Ladestation Komunitní centrum Kardašovská",
+    "sha1": "3d80591544282d28974d29dc1c8072d206c79ad7",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8959186",
+      "csName": "Ladestation Komunitní centrum Kardašovská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Komunitní centrum Kardašovská",
+      "evseId": "CZ*PRE*E1S8249*2",
+      "geoCoord": {
+        "latitude": "50.106246",
+        "longitude": "14.548729"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649ec198f6cf7d59263f532a/imgonline-com-ua-resize-LTr40quBysPQ.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19800",
+      "region": "Hlavní město Praha",
+      "street": "Kardašovská"
     }
   },
   "CZ8985363": {
@@ -19937,6 +20084,55 @@
       "postalCode": "13000",
       "region": "Hlavní město Praha",
       "street": "Na Třebešíně"
+    }
+  },
+  "CZ9017397": {
+    "name": "Ladestation Lovosická 1",
+    "sha1": "6ac5288205604403f1e6ffe7639de1bbd12cf761",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9017397",
+      "csName": "Ladestation Lovosická 1",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Lovosická 1",
+      "evseId": "CZ*PRE*E2S0022*2",
+      "geoCoord": {
+        "latitude": "50.125228",
+        "longitude": "14.503426"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649e98d4f6cf7d59263f5300/1.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Lovosická 640"
     }
   },
   "CZ9034292": {
@@ -20543,6 +20739,55 @@
       "street": "U Kříže"
     }
   },
+  "CZ9372114": {
+    "name": "Ladestation Lovosická 3",
+    "sha1": "f1a453c927c5595b65fe6e5b142175c834f0dcdf",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9372114",
+      "csName": "Ladestation Lovosická 3",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Lovosická 3",
+      "evseId": "CZ*PRE*E2S0024*2",
+      "geoCoord": {
+        "latitude": "50.124740",
+        "longitude": "14.504286"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649e99cbf6cf7d59263f530a/3.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Lovosická 640"
+    }
+  },
   "CZ9441199": {
     "name": "Ladestation Arena Sparta",
     "sha1": "507dbd7b4a9609ac3c36dab299feb3af11c394f1",
@@ -20590,6 +20835,60 @@
       "postalCode": "19000",
       "region": "Hlavní město Praha",
       "street": "Kovanecká"
+    }
+  },
+  "CZ9453623": {
+    "name": "Ladestation Novodvorská",
+    "sha1": "cb7172780595c7e98fd3ebf606204006fa3e77cf",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9453623",
+      "csName": "Ladestation Novodvorská",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Novodvorská",
+      "evseId": "CZ*PRE*E2S0017*1",
+      "geoCoord": {
+        "latitude": "50.021439",
+        "longitude": "14.443508"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649ec2eaf6cf7d59263f5330/1(1).jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649ec2eaf6cf7d59263f5330/6.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14200",
+      "region": "Hlavní město Praha",
+      "street": "Novodvorská"
     }
   },
   "CZ9456346": {
@@ -21062,6 +21361,55 @@
       "postalCode": "15500",
       "region": "Hlavní město Praha",
       "street": "Vlachova 87"
+    }
+  },
+  "CZ9828596": {
+    "name": "Ladestation Lovosická 2",
+    "sha1": "5e94889fcb52a7c613fe1980d3eeb79a58869bdd",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9828596",
+      "csName": "Ladestation Lovosická 2",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Lovosická 2",
+      "evseId": "CZ*PRE*E2S0023*1",
+      "geoCoord": {
+        "latitude": "50.124869",
+        "longitude": "14.503996"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649e99cef6cf7d59263f530c/2.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Lovosická 640"
     }
   },
   "CZ9942351": {
