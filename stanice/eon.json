@@ -1541,7 +1541,7 @@
   },
   "109565": {
     "name": "(P) Olympia Brno - Parkovací dům",
-    "sha1": "5f8362689b0a4a78928fe7c66ea3c84dc8803d03",
+    "sha1": "6304082c06b1b9c1a07a680e36b8da5440f17e03",
     "station": {
       "address": "U Dálnice 777",
       "city": "Modřice",
@@ -1620,7 +1620,7 @@
             "longitude": "16.632541"
           },
           "evse_id": "CZ*EON*E220109566*1",
-          "last_seen_as_planned": "2023-02-01T10:27:01.75Z",
+          "last_seen_as_planned": "2023-02-01T06:07:34.403Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "109566"
@@ -2700,7 +2700,7 @@
   },
   "117363": {
     "name": "(P) Apartmány Florián",
-    "sha1": "c3ee80a6c3578009638a25e618fe5e8354e08a19",
+    "sha1": "ff8cb40de93bfd05245eec2583f417d10c1755e3",
     "station": {
       "address": "Kvilda 206",
       "city": "Kvilda",
@@ -2742,7 +2742,7 @@
             "longitude": "13.57876087"
           },
           "evse_id": "CZ*EON*E22117363*1",
-          "last_seen_as_planned": "2023-06-22T08:18:17.01Z",
+          "last_seen_as_planned": "2023-06-22T08:14:20.78Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "117363"
@@ -33251,7 +33251,7 @@
   },
   "53792": {
     "name": "E.ON Penny Litomyšl",
-    "sha1": "0901cb77da46c6885e35260b9b1a5cdcea3cc4ad",
+    "sha1": "9b166fd12f786faca7ffc3545626af596a3d0a03",
     "station": {
       "address": "Sokolovská 1166",
       "city": "Litomyšl-Město",
@@ -33323,7 +33323,7 @@
             "longitude": "16.305855"
           },
           "evse_id": "CZ*EON*E98053792*1",
-          "last_seen_as_planned": "2023-01-27T07:40:45.067Z",
+          "last_seen_as_planned": "2021-03-31T10:55:20.217Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53792"
@@ -33364,7 +33364,7 @@
             "longitude": "16.305855"
           },
           "evse_id": "CZ*EON*E98053792*2",
-          "last_seen_as_planned": "2023-01-26T10:03:01.3Z",
+          "last_seen_as_planned": "2021-03-26T08:38:23.98Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53793"
@@ -34730,7 +34730,7 @@
   },
   "53812": {
     "name": "E.ON Penny Bruntál",
-    "sha1": "b9283f11794297e1a910cbdf71345207cc281b38",
+    "sha1": "62a57699c6bdcf31b6cffd9a180e33b0b93c3e2a",
     "station": {
       "address": "Krnovská 1926/5",
       "city": "Bruntál",
@@ -34802,7 +34802,7 @@
             "longitude": "17.4734092"
           },
           "evse_id": "CZ*EON*E98053812*1",
-          "last_seen_as_planned": "2023-01-27T07:40:45.067Z",
+          "last_seen_as_planned": "2021-03-29T14:22:35.78Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53812"
@@ -34843,7 +34843,7 @@
             "longitude": "17.4734092"
           },
           "evse_id": "CZ*EON*E98053812*2",
-          "last_seen_as_planned": "2023-01-26T10:03:01.3Z",
+          "last_seen_as_planned": "2021-03-29T14:22:55.92Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53813"

@@ -18633,6 +18633,55 @@
       "street": "Rudná 2978/11"
     }
   },
+  "CZ8131682": {
+    "name": "Ladestation Tržiště",
+    "sha1": "4a70ca77896557f7419bfb822385dfc5755209ca",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8131682",
+      "csName": "Ladestation Tržiště",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Tržiště",
+      "evseId": "CZ*PRE*E1S8253*2",
+      "geoCoord": {
+        "latitude": "50.138224",
+        "longitude": "14.513332"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a022d7f6cf7d59263f5379/imgonline-com-ua-resize-ZDfGW8VKKLU8.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19900",
+      "region": "Prag",
+      "street": ""
+    }
+  },
   "CZ8167949": {
     "name": "Ladestation P+R Nové Butovice",
     "sha1": "337cc9c8c8be7837f278b14661f648fac8c04424",
@@ -18687,6 +18736,55 @@
       "street": "Petržílkova"
     }
   },
+  "CZ8189567": {
+    "name": "Ladestation Novodvorská 6",
+    "sha1": "14e10b719555ea0b277e576e87c0ac1789c990c4",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8189567",
+      "csName": "Ladestation Novodvorská 6",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Novodvorská 6",
+      "evseId": "CZ*PRE*E2S0015*2",
+      "geoCoord": {
+        "latitude": "50.021759",
+        "longitude": "14.442820"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a01bc8f6cf7d59263f533f/6.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14200",
+      "region": "Hlavní město Praha",
+      "street": "Novodvorská 1947/82"
+    }
+  },
   "CZ8194502": {
     "name": "Ladestation TS 5158 Radimovická",
     "sha1": "e53e212cc59c9d0e78d7ef9a1d54967e45d34613",
@@ -18736,6 +18834,55 @@
       "street": "Radimovická"
     }
   },
+  "CZ8222802": {
+    "name": "Ladestation Novodvorská 4",
+    "sha1": "c559b6d32d180f23a78a793de47dd290653b8ec7",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8222802",
+      "csName": "Ladestation Novodvorská 4",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Novodvorská 4",
+      "evseId": "CZ*PRE*E2S0013*1",
+      "geoCoord": {
+        "latitude": "50.021439",
+        "longitude": "14.443508"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a01bcaf6cf7d59263f5343/4.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14200",
+      "region": "Hlavní město Praha",
+      "street": "Novodvorská 1947/82"
+    }
+  },
   "CZ8234794": {
     "name": "Ladestation Belarie Park",
     "sha1": "7a01baa7230815f62b7c8fbb39f90b8f9ec4c681",
@@ -18783,6 +18930,48 @@
       "postalCode": "14300",
       "region": "Hlavní město Praha",
       "street": "Mezi Vodami"
+    }
+  },
+  "CZ8249505": {
+    "name": "Ladestation Novodvorská 2",
+    "sha1": "6eb360ee38ba2f26fe750f3e558901a8b4b84849",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8249505",
+      "csName": "Ladestation Novodvorská 2",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Novodvorská 2",
+      "evseId": "CZ*PRE*E2S0011*2",
+      "geoCoord": {
+        "latitude": "50.021157",
+        "longitude": "14.444117"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14200",
+      "region": "Hlavní město Praha",
+      "street": "Novodvorská 1947/82"
     }
   },
   "CZ8257741": {
@@ -19128,6 +19317,55 @@
       "street": "Na Dlážděnce"
     }
   },
+  "CZ8436995": {
+    "name": "Ladestation Novodvorská 8",
+    "sha1": "51d8d1674cc56fa3c509f6e3a2e2138d684c632a",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8436995",
+      "csName": "Ladestation Novodvorská 8",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Novodvorská 8",
+      "evseId": "CZ*PRE*E2S0017*1",
+      "geoCoord": {
+        "latitude": "50.022087",
+        "longitude": "14.442116"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a01bc5f6cf7d59263f533b/8.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14200",
+      "region": "Hlavní město Praha",
+      "street": "Novodvorská 1947/82"
+    }
+  },
   "CZ8468957": {
     "name": "Ladestation LA Zadov",
     "sha1": "81ae69fd03efe12f675de5b9b7e30f2511c7f387",
@@ -19229,6 +19467,55 @@
       "postalCode": "10900",
       "region": "Hlavní město Praha",
       "street": "Kurčatovova 332"
+    }
+  },
+  "CZ8480116": {
+    "name": "Ladestation Jabloňová u polikliniky",
+    "sha1": "f19761935fdfaf61e500583db59ef368616fdd26",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8480116",
+      "csName": "Ladestation Jabloňová u polikliniky",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Jabloňová u polikliniky",
+      "evseId": "CZ*PRE*E1S8250*2",
+      "geoCoord": {
+        "latitude": "50.056204",
+        "longitude": "14.497847"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a02389f6cf7d59263f538b/imgonline-com-ua-resize-2CEbOAkp44D7p.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10600",
+      "region": "Hlavní město Praha",
+      "street": "Jabloňová"
     }
   },
   "CZ8523914": {
@@ -19675,6 +19962,48 @@
       "street": "Inženýrská"
     }
   },
+  "CZ8907670": {
+    "name": "Ladestation K červenému vrchu",
+    "sha1": "3c66dc7e4ac39e8de4fb551c9a7874965c20735b",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8907670",
+      "csName": "Ladestation K červenému vrchu",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger K červenému vrchu",
+      "evseId": "CZ*PRE*E2S0021*2",
+      "geoCoord": {
+        "latitude": "50.097748",
+        "longitude": "14.346467"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16000",
+      "region": "Hlavní město Praha",
+      "street": "K Červenému vrchu"
+    }
+  },
   "CZ8950988": {
     "name": "Ladestation Lovosická 5",
     "sha1": "43515ec5cc42cdf2bca4f737be8131c07007ebd9",
@@ -19773,6 +20102,60 @@
       "street": "Kardašovská"
     }
   },
+  "CZ8975285": {
+    "name": "Ladestation Squashpark Cibulka",
+    "sha1": "34a07b85e6f8beb90508b68aac8f0425bda48d7d",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8975285",
+      "csName": "Ladestation Squashpark Cibulka",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Squashpark Cibulka",
+      "evseId": "CZ*PRE*E1S8252*2",
+      "geoCoord": {
+        "latitude": "50.066031",
+        "longitude": "14.367240"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a0304bf6cf7d59263f53b5/imgonline-com-ua-resize-9BD8IsoaWa.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a0304bf6cf7d59263f53b5/imgonline-com-ua-resize-FLXEj64go3F.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "15000",
+      "region": "Hlavní město Praha",
+      "street": "Fabiánova"
+    }
+  },
   "CZ8985363": {
     "name": "Charger Hamr Sport Modřany",
     "sha1": "69a69759e062f1fb31d130f3a4c6868c69ffcaf5",
@@ -19815,6 +20198,55 @@
       "postalCode": "14700",
       "region": "Praha",
       "street": "Vltavanů"
+    }
+  },
+  "CZ8989149": {
+    "name": "Ladestation Lesopark Motol",
+    "sha1": "c21358049650b93c3aa58fb02676062ff481fac0",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8989149",
+      "csName": "Ladestation Lesopark Motol",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Lesopark Motol",
+      "evseId": "CZ*PRE*E1S8244*2",
+      "geoCoord": {
+        "latitude": "50.066738",
+        "longitude": "14.321381"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a02b64f6cf7d59263f5397/imgonline-com-ua-resize-rzSGgCQgOxmIqpz.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16300",
+      "region": "Hlavní město Praha",
+      "street": "Mrkvičkova"
     }
   },
   "CZ8996743": {
@@ -20135,6 +20567,55 @@
       "street": "Lovosická 640"
     }
   },
+  "CZ9029419": {
+    "name": "Ladestation Lovosická 6",
+    "sha1": "31f9b4df96043b467b84f988ba85acd36605078c",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9029419",
+      "csName": "Ladestation Lovosická 6",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Lovosická 6",
+      "evseId": "CZ*PRE*E2S0027*1",
+      "geoCoord": {
+        "latitude": "50.123986",
+        "longitude": "14.505511"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a02c2af6cf7d59263f539d/imgonline-com-ua-resize-ma7ym2oELBXbWvr.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Lovosická 640"
+    }
+  },
   "CZ9034292": {
     "name": "Charger Loučimská",
     "sha1": "4a1a2d62b8f6e86bec96be7a52b27770515abcab",
@@ -20386,6 +20867,104 @@
       "street": "Obchodní 1000"
     }
   },
+  "CZ9106285": {
+    "name": "Ladestation Novodvorská 7",
+    "sha1": "eace3c9bd73867d076ce48f65e0f8e8fc8b7a58e",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9106285",
+      "csName": "Ladestation Novodvorská 7",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Novodvorská 7",
+      "evseId": "CZ*PRE*E2S0016*2",
+      "geoCoord": {
+        "latitude": "50.021912",
+        "longitude": "14.442492"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a01bc7f6cf7d59263f533d/7.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14200",
+      "region": "Hlavní město Praha",
+      "street": "Novodvorská 1947/82"
+    }
+  },
+  "CZ9119121": {
+    "name": "Ladestation Novodvorská 5",
+    "sha1": "e42bbc3fd4a3fff70b4237300df4c26e0db76f2e",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9119121",
+      "csName": "Ladestation Novodvorská 5",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Novodvorská 5",
+      "evseId": "CZ*PRE*E2S0014*2",
+      "geoCoord": {
+        "latitude": "50.021599",
+        "longitude": "14.443164"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a01bc9f6cf7d59263f5341/5.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14200",
+      "region": "Hlavní město Praha",
+      "street": "Novodvorská 1947/82"
+    }
+  },
   "CZ9162726": {
     "name": "Charger OREA Hotel Santon",
     "sha1": "77fabbbb121f056661e4f977ded92d22c78474d3",
@@ -20533,6 +21112,55 @@
       "street": "Okořská"
     }
   },
+  "CZ9193999": {
+    "name": "Ladestation Kunínova",
+    "sha1": "f2c493a3c6ab557dd38771b802f0674ff0d8764f",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9193999",
+      "csName": "Ladestation Kunínova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Kunínova",
+      "evseId": "CZ*PRE*E1S8255*2",
+      "geoCoord": {
+        "latitude": "50.036747",
+        "longitude": "14.500072"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a02f2cf6cf7d59263f53af/imgonline-com-ua-resize-7uoJxIAmPK1dNdoN.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Kunínova"
+    }
+  },
   "CZ9197099": {
     "name": "Charger TS 3678 Výletní",
     "sha1": "18ae0c954b583a335181f862c206050caad2b148",
@@ -20580,6 +21208,48 @@
       "postalCode": "14200",
       "region": "Hlavní město Praha",
       "street": "Výletní"
+    }
+  },
+  "CZ9198441": {
+    "name": "Ladestation V Nových Vokovicích 3",
+    "sha1": "fdfe8e9691381ae7547444743f03b7d0047bb366",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9198441",
+      "csName": "Ladestation V Nových Vokovicích 3",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger V Nových Vokovicích 3",
+      "evseId": "CZ*PRE*E2S0020*2",
+      "geoCoord": {
+        "latitude": "50.097017",
+        "longitude": "14.346526"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16000",
+      "region": "Hlavní město Praha",
+      "street": "V Nových Vokovicích"
     }
   },
   "CZ9297279": {
@@ -20838,10 +21508,10 @@
     }
   },
   "CZ9453623": {
-    "name": "Ladestation Novodvorská",
-    "sha1": "cb7172780595c7e98fd3ebf606204006fa3e77cf",
+    "name": "Charger Novodvorská 1",
+    "sha1": "081a38ef7f1577a6d881235d34e6510c26464b83",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤16A"
@@ -20851,14 +21521,14 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9453623",
-      "csName": "Ladestation Novodvorská",
+      "csName": "Charger Novodvorská 1",
       "csStatus": "operable",
       "csType": "charger",
-      "enCsname": "Charger Novodvorská",
-      "evseId": "CZ*PRE*E2S0017*1",
+      "enCsname": "Charger Novodvorská 1",
+      "evseId": "CZ*PRE*E2S0010*2",
       "geoCoord": {
-        "latitude": "50.021439",
-        "longitude": "14.443508"
+        "latitude": "50.021020",
+        "longitude": "14.444414"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -20866,12 +21536,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649ec2eaf6cf7d59263f5330/1(1).jpg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649ec2eaf6cf7d59263f5330/6.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649ec2eaf6cf7d59263f5330/1.jpg"
         }
       ],
       "isHome": true,
@@ -20888,7 +21553,7 @@
       ],
       "postalCode": "14200",
       "region": "Hlavní město Praha",
-      "street": "Novodvorská"
+      "street": "Novodvorská 1947/82"
     }
   },
   "CZ9456346": {
@@ -20931,6 +21596,55 @@
       "postalCode": "19600",
       "region": "Hlavní město Praha",
       "street": "Schoellerova"
+    }
+  },
+  "CZ9459660": {
+    "name": "Ladestation Novodvorská 3",
+    "sha1": "26f61de6a619fdaf14787807f9c749ef7bc8d611",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9459660",
+      "csName": "Ladestation Novodvorská 3",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Novodvorská 3",
+      "evseId": "CZ*PRE*E2S0012*2",
+      "geoCoord": {
+        "latitude": "50.021294",
+        "longitude": "14.443821"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a01bcbf6cf7d59263f5347/3.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14200",
+      "region": "Hlavní město Praha",
+      "street": "Novodvorská 1947/82"
     }
   },
   "CZ9483995": {
@@ -21070,6 +21784,48 @@
       "street": "Podolské nábř. 3"
     }
   },
+  "CZ9542130": {
+    "name": "Ladestation V Nových Vokovicích 2",
+    "sha1": "8bef613bf34535f53de7ab05f802600316e39b0d",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9542130",
+      "csName": "Ladestation V Nových Vokovicích 2",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger V Nových Vokovicích 2",
+      "evseId": "CZ*PRE*E2S0019*2",
+      "geoCoord": {
+        "latitude": "50.097291",
+        "longitude": "14.346439"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16000",
+      "region": "Hlavní město Praha",
+      "street": "V Nových Vokovicích"
+    }
+  },
   "CZ9624272": {
     "name": "Charger SUAS 1",
     "sha1": "d4ce168191c82caac8ce2d09a223c870cde40f7e",
@@ -21109,6 +21865,60 @@
       ],
       "postalCode": "356 04",
       "street": "Ke Golfu"
+    }
+  },
+  "CZ9636510": {
+    "name": "Ladestation Ministerstvo dopravy",
+    "sha1": "9fdd71611a81a02a664b7f19156803bfe492106a",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9636510",
+      "csName": "Ladestation Ministerstvo dopravy",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Ministerstvo dopravy",
+      "evseId": "CZ*PRE*E1S8248*2",
+      "geoCoord": {
+        "latitude": "50.092631",
+        "longitude": "14.435389"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a02dc9f6cf7d59263f53a3/imgonline-com-ua-resize-oTozzamw2bInN31.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a02dc9f6cf7d59263f53a3/imgonline-com-ua-resize-THCVhZDMWvthVUD.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "11000",
+      "region": "Hlavní město Praha",
+      "street": "Klimentská"
     }
   },
   "CZ9652019": {
@@ -21410,6 +22220,97 @@
       "postalCode": "19000",
       "region": "Hlavní město Praha",
       "street": "Lovosická 640"
+    }
+  },
+  "CZ9830138": {
+    "name": "Ladestation TS 2241 Šalvějová",
+    "sha1": "91dcfc99ab106389b52fb6e381f50e2cd6ebdf3e",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9830138",
+      "csName": "Ladestation TS 2241 Šalvějová",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 2241 Šalvějová",
+      "evseId": "CZ*PRE*E1S8211*2",
+      "geoCoord": {
+        "latitude": "50.060563",
+        "longitude": "14.496874"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a02e7cf6cf7d59263f53a9/imgonline-com-ua-resize-QtzePdmQEx89HQJG.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10600",
+      "region": "Hlavní město Praha",
+      "street": "Šalvějová"
+    }
+  },
+  "CZ9876943": {
+    "name": "Ladestation V Nových Vokovicích 1",
+    "sha1": "1d884d7c261cc45eab57032e11508d81d71310d8",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9876943",
+      "csName": "Ladestation V Nových Vokovicích 1",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger V Nových Vokovicích 1",
+      "evseId": "CZ*PRE*E2S0018*2",
+      "geoCoord": {
+        "latitude": "50.097609",
+        "longitude": "14.346342"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16000",
+      "region": "Hlavní město Praha",
+      "street": "V Nových Vokovicích"
     }
   },
   "CZ9942351": {
