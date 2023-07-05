@@ -18634,10 +18634,10 @@
     }
   },
   "CZ8131682": {
-    "name": "Ladestation Tržiště",
-    "sha1": "4a70ca77896557f7419bfb822385dfc5755209ca",
+    "name": "Charger Tržiště",
+    "sha1": "395725a66d4d2de97537e8b705a77206d1688665",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -18647,7 +18647,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8131682",
-      "csName": "Ladestation Tržiště",
+      "csName": "Charger Tržiště",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Tržiště",
@@ -18678,8 +18678,8 @@
         }
       ],
       "postalCode": "19900",
-      "region": "Prag",
-      "street": ""
+      "region": "Hlavní město Praha",
+      "street": "Stará náves"
     }
   },
   "CZ8167949": {
@@ -18835,10 +18835,10 @@
     }
   },
   "CZ8222802": {
-    "name": "Ladestation Novodvorská 4",
-    "sha1": "c559b6d32d180f23a78a793de47dd290653b8ec7",
+    "name": "Charger Novodvorská 4",
+    "sha1": "42d3c91ac7a8d41b77de93238b4998e6fae70b22",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤16A"
@@ -18848,7 +18848,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8222802",
-      "csName": "Ladestation Novodvorská 4",
+      "csName": "Charger Novodvorská 4",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Novodvorská 4",
@@ -19122,10 +19122,10 @@
     }
   },
   "CZ8328581": {
-    "name": "Ladestation Sídliště Malešice - Plaňanská",
-    "sha1": "8be68f6e4f60e79908ef5d9d6abd348bd7be5291",
+    "name": "Charger Sídliště Malešice - Plaňanská",
+    "sha1": "385b51e335edfe258c7faec7a23b609a085e26f9",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -19135,7 +19135,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8328581",
-      "csName": "Ladestation Sídliště Malešice - Plaňanská",
+      "csName": "Charger Sídliště Malešice - Plaňanská",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Sídliště Malešice - Plaňanská",
@@ -20364,11 +20364,11 @@
     }
   },
   "CZ9010237": {
-    "name": "Ladestation OREA Devět Skal",
-    "sha1": "0142494779da7b7321f4e8d45fee9de61ece6d2f",
+    "name": "Charger OREA Devět Skal",
+    "sha1": "7574d1476524c0d207de48c9576f60dfcd11109a",
     "station": {
       "additionalInfo": "10min kostenlos, dann 30CZK/Stunde, für OREA-Hotelkunden Info an der Rezeption",
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -20378,7 +20378,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9010237",
-      "csName": "Ladestation OREA Devět Skal",
+      "csName": "Charger OREA Devět Skal",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "10min free of charge, then 30CZK/hour, for OREA hotel customers info at the reception",
@@ -20416,7 +20416,7 @@
       ],
       "postalCode": "592 02",
       "region": "Kraj Vysočina",
-      "street": ""
+      "street": "Milovy 11"
     }
   },
   "CZ9012327": {
