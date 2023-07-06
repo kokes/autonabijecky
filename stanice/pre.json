@@ -20250,10 +20250,10 @@
     }
   },
   "CZ8996743": {
-    "name": "Charger Chudenická",
-    "sha1": "01bacb99996d003e6b2d9217c7a131f32c9a1c83",
+    "name": "Ladestation Chudenická",
+    "sha1": "21b43765fe3ff9b356262364b0e91d8e449face8",
     "station": {
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -20263,7 +20263,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8996743",
-      "csName": "Charger Chudenická",
+      "csName": "Ladestation Chudenická",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "attached on the substation TS 3617",
@@ -20617,10 +20617,10 @@
     }
   },
   "CZ9034292": {
-    "name": "Charger Loučimská",
-    "sha1": "4a1a2d62b8f6e86bec96be7a52b27770515abcab",
+    "name": "Ladestation Loučimská",
+    "sha1": "a53ae6b876de119858e4e344ab1e48b76868639a",
     "station": {
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -20630,7 +20630,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9034292",
-      "csName": "Charger Loučimská",
+      "csName": "Ladestation Loučimská",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "attached on the substation TS 3611",
