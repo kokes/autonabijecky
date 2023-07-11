@@ -25230,70 +25230,6 @@
       "visible": true
     }
   },
-  "59438": {
-    "name": "N018 - Trutnov - Autostyl",
-    "sha1": "b921bbdfcbff66e05d9753027796203dde044249",
-    "station": {
-      "address": {
-        "city": "Trutnov",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "579",
-        "latitude": 50.5696902,
-        "longitude": 15.897936399999935,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Horská",
-        "url": ""
-      },
-      "customID": "59438",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N018"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N018"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/37243847.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "N018 - Trutnov - Autostyl",
-      "visible": true
-    }
-  },
   "59439": {
     "name": "N141 - Dukovany - JE Dukovany - Infocentrum",
     "sha1": "86e2b2ddead2845827cb6972a1309724dd0d8da0",
@@ -27604,73 +27540,9 @@
       "visible": true
     }
   },
-  "59478": {
-    "name": "N045 - Herálec - D1/96. km",
-    "sha1": "b5d24dad6fa2ad67818d599087ec2672ec1a62d8",
-    "station": {
-      "address": {
-        "city": "Herálec 102",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "- 96. km směr Praha",
-        "latitude": 49.5155978,
-        "longitude": 15.4162228,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "D1",
-        "url": ""
-      },
-      "customID": "59478",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N045"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N045"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/d1-humpolec.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "N045 - Herálec - D1/96. km",
-      "visible": true
-    }
-  },
   "59479": {
     "name": "N180 - Bílina - Elektrárna Ledvice",
-    "sha1": "9aee537ad7f35178db98f0d45982d7a408c889a1",
+    "sha1": "11772b649c2630bb7588b900d1dbdfe3f3059384",
     "station": {
       "address": {
         "city": "Bílina",
@@ -27724,7 +27596,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/d1-humpolec.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_1636.jpg"
         }
       ],
       "instructions": null,
@@ -27734,7 +27606,7 @@
   },
   "59481": {
     "name": "N138 - Praha - OC Nový Smíchov - 1",
-    "sha1": "5f242762c2a46cee1da75e11e3ec86bfdd1850bc",
+    "sha1": "33674a54423e4832ce818a3fefe9386e9361ccf3",
     "station": {
       "address": {
         "city": "Praha 5",
@@ -27788,7 +27660,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/d1-humpolec.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_1636.jpg"
         }
       ],
       "instructions": null,
@@ -29523,70 +29395,6 @@
       ],
       "instructions": null,
       "name": "N123 - Zlín - OC Zlaté jablko",
-      "visible": true
-    }
-  },
-  "59509": {
-    "name": "N035 - Praha - Vinci Park - Hlavní nádraží",
-    "sha1": "7a06f81eac3ccbe1387d9858392738f13f0b10e4",
-    "station": {
-      "address": {
-        "city": "Praha 1",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "300/8",
-        "latitude": 50.0834786,
-        "longitude": 14.4344389,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Wilsonova",
-        "url": ""
-      },
-      "customID": "59509",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N035"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N035"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/vinci-park-hlavni-nadrazi.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "N035 - Praha - Vinci Park - Hlavní nádraží",
       "visible": true
     }
   },

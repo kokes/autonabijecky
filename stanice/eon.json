@@ -10008,6 +10008,104 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "207109": {
+    "name": "(P) Ekoček s.r.o.",
+    "sha1": "14a87a9f5e40a2d3738952b4ccc5bdc96b2f1fb1",
+    "station": {
+      "address": "Čejkovice 36",
+      "city": "Čejkovice",
+      "coordinates": {
+        "latitude": "48.8800836",
+        "longitude": "16.2882789"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-07-10T08:22:13.547Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "268",
+                "271"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.8800836",
+            "longitude": "16.2882789"
+          },
+          "evse_id": "CZ*EON*E32207109*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "207109"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-07-10T08:21:00.747Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "269",
+                "270"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.8800836",
+            "longitude": "16.2882789"
+          },
+          "evse_id": "CZ*EON*E32207109*3",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "207111"
+        }
+      ],
+      "id": "207109",
+      "last_updated": "RESET",
+      "name": "(P) Ekoček s.r.o.",
+      "operator": {
+        "name": "EKOČEK s.r.o."
+      },
+      "owner": {
+        "name": "EKOČEK s.r.o."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "time_zone": "Europe/Prague"
+    }
+  },
   "207372": {
     "name": "(P) Wake port",
     "sha1": "1edb96db87aa0f74420dd18a047ad2cb4cd31719",
@@ -16716,10 +16814,10 @@
     }
   },
   "33233": {
-    "name": "E.ON ČS MOL Rozvadov",
-    "sha1": "4cf8baf041902d45a2d001a659eca3d574bfaaa2",
+    "name": "E.ON ČS MOL Rozvadov UFC 175kW DC",
+    "sha1": "17dfab83667eb4ea3c63ffd7746ea583f39b6306",
     "station": {
-      "address": "Svatá Kateřina",
+      "address": "Svatá Kateřina 109",
       "city": "Rozvadov",
       "coordinates": {
         "latitude": "49.679327",
@@ -16907,7 +17005,7 @@
       ],
       "id": "33233",
       "last_updated": "RESET",
-      "name": "E.ON ČS MOL Rozvadov",
+      "name": "E.ON ČS MOL Rozvadov UFC 175kW DC",
       "opening_times": {
         "twentyfourseven": true
       },
