@@ -11668,13 +11668,13 @@
   },
   "25151": {
     "name": "E.ON Globus Chomutov",
-    "sha1": "bde9107fa581cb88c169883732f8a668236377f8",
+    "sha1": "dfb74f74e7ab2d420aed112ab2669f46f25bd83c",
     "station": {
-      "address": "Černovická 5430",
+      "address": "Černovická",
       "city": "Chomutov",
       "coordinates": {
         "latitude": "50.4566486",
-        "longitude": "13.393515"
+        "longitude": "13.39351501"
       },
       "country": "CZE",
       "country_code": "CZ",
@@ -11715,7 +11715,7 @@
           ],
           "coordinates": {
             "latitude": "50.4566486",
-            "longitude": "13.393515"
+            "longitude": "13.39351501"
           },
           "evse_id": "CZ*UFC*E11025151*1",
           "last_seen_as_planned": null,
@@ -11778,13 +11778,117 @@
           ],
           "coordinates": {
             "latitude": "50.4566486",
-            "longitude": "13.393515"
+            "longitude": "13.39351501"
           },
           "evse_id": "CZ*UFC*E11025151*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "25152"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-07-11T22:01:47.29Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.4566486",
+            "longitude": "13.39351501"
+          },
+          "evse_id": "CZ*UFC*E11051453*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51453"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-07-11T22:01:47.29Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-07-11T22:01:47.29Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.4566486",
+            "longitude": "13.39351501"
+          },
+          "evse_id": "CZ*UFC*E11051453*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51454"
         }
       ],
       "facilities": [
