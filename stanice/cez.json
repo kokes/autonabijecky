@@ -10040,7 +10040,7 @@
   },
   "154290": {
     "name": "N176 - Dolní Břežany - Parkovací dům - 2",
-    "sha1": "e23ac7744bdfa6e14cef61450cb368af2eacde52",
+    "sha1": "7bf4933e5c07bb9d364bae284310f6174b27528c",
     "station": {
       "address": {
         "city": "Dolní Břežany",
@@ -10094,7 +10094,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/9e60b44e-f302-409e-8de0-b1750db2e005.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/r401_402.jpg"
         }
       ],
       "instructions": null,
@@ -10314,7 +10314,7 @@
   },
   "154315": {
     "name": "N175 - Dolní Břežany - Parkovací dům - 1",
-    "sha1": "59688468fb927ac566363d18ce1640b32cd6c419",
+    "sha1": "55442a8d0040646ec10da42775a57d5c7191f5dc",
     "station": {
       "address": {
         "city": "Dolní Břežany",
@@ -10368,7 +10368,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/img-20220815-wa0014.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/9e60b44e-f302-409e-8de0-b1750db2e005.jpg"
         }
       ],
       "instructions": null,
@@ -20419,7 +20419,7 @@
   },
   "173121": {
     "name": "N234 - Lysá nad Labem - Parkoviště Čapkova - 4",
-    "sha1": "a90225d4e3507c6968de4b98aeeb330b2da85508",
+    "sha1": "ecebae895e2f458aef0fe447bc9d3f749cd7a750",
     "station": {
       "address": {
         "city": "Lysá nad Labem",
@@ -20473,7 +20473,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/9e60b44e-f302-409e-8de0-b1750db2e005.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/r401_402.jpg"
         }
       ],
       "instructions": null,
@@ -24231,6 +24231,517 @@
       ],
       "instructions": null,
       "name": "R551 - Znojmo - McDonald´s Dobšická - 1",
+      "visible": true
+    }
+  },
+  "179228": {
+    "name": "R550 - Hradec Králové - OC Futurum - 4",
+    "sha1": "967b1cef94f6329c783b6b6464864c2ff5264140",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1825/23A",
+        "latitude": 50.1960432,
+        "longitude": 15.8474567,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Brněnská",
+        "url": ""
+      },
+      "customID": "179228",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R550"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R550"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/07/130e9bc9-9992-45cd-8d38-2c0c8391a8f3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R550 - Hradec Králové - OC Futurum - 4",
+      "visible": true
+    }
+  },
+  "179229": {
+    "name": "R548 - Hradec Králové - OC Futurum - 2",
+    "sha1": "f341c2bfbbfa1b939c076f89b4338114342ef04c",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1825/23A",
+        "latitude": 50.1960432,
+        "longitude": 15.8474567,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Brněnská",
+        "url": ""
+      },
+      "customID": "179229",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R548"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R548"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/07/130e9bc9-9992-45cd-8d38-2c0c8391a8f3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R548 - Hradec Králové - OC Futurum - 2",
+      "visible": true
+    }
+  },
+  "179230": {
+    "name": "R549 - Hradec Králové - OC Futurum - 3",
+    "sha1": "72ff94d32d3403dbbad9dd9e18b2e3c74c9e5fa3",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1825/23A",
+        "latitude": 50.1960432,
+        "longitude": 15.8474567,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Brněnská",
+        "url": ""
+      },
+      "customID": "179230",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R549"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R549"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/07/130e9bc9-9992-45cd-8d38-2c0c8391a8f3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R549 - Hradec Králové - OC Futurum - 3",
+      "visible": true
+    }
+  },
+  "179245": {
+    "name": "R547 - Hradec Králové - OC Futurum - 1",
+    "sha1": "3099adc2abd5844fdd497c7e65fe74eafd9da099",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1825/23A",
+        "latitude": 50.1960432,
+        "longitude": 15.8474567,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Brněnská",
+        "url": ""
+      },
+      "customID": "179245",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R547"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R547"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/07/130e9bc9-9992-45cd-8d38-2c0c8391a8f3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R547 - Hradec Králové - OC Futurum - 1",
+      "visible": true
+    }
+  },
+  "179246": {
+    "name": "R534 - Týniště nad Orlicí - Benzina - 1",
+    "sha1": "34df15985a0367b576ab5a92876c7a32e87a173a",
+    "station": {
+      "address": {
+        "city": "Týniště nad Orlicí",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1049",
+        "latitude": 50.14332,
+        "longitude": 16.08981,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Voklik",
+        "url": ""
+      },
+      "customID": "179246",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R534"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R534"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/07/358851cb-e39c-4cd2-9f64-5e1bffa66a56.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R534 - Týniště nad Orlicí - Benzina - 1",
+      "visible": true
+    }
+  },
+  "179247": {
+    "name": "R535 - Týniště nad Orlicí - Benzina - 2",
+    "sha1": "1203d3195d7dc99d14430fd1948bd949ed9f45ca",
+    "station": {
+      "address": {
+        "city": "Týniště nad Orlicí",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1049",
+        "latitude": 50.14332,
+        "longitude": 16.08981,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Voklik",
+        "url": ""
+      },
+      "customID": "179247",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R535"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R535"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/07/358851cb-e39c-4cd2-9f64-5e1bffa66a56.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R535 - Týniště nad Orlicí - Benzina - 2",
+      "visible": true
+    }
+  },
+  "179248": {
+    "name": "R537 - Benecko - Centrální parkoviště",
+    "sha1": "d379bd20a73eceb14ca21dca2899ce3583a5e379",
+    "station": {
+      "address": {
+        "city": "Benecko",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "parkoviště Benecko",
+        "latitude": 50.6673672,
+        "longitude": 15.5488367,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Centrální",
+        "url": ""
+      },
+      "customID": "179248",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R537"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R537"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/07/2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R537 - Benecko - Centrální parkoviště",
       "visible": true
     }
   },
@@ -32937,79 +33448,6 @@
       ],
       "instructions": null,
       "name": "R178 - Praha - Vypich - Kaufland - 2",
-      "visible": true
-    }
-  },
-  "59561": {
-    "name": "R150 - Kolín - Kaufland",
-    "sha1": "3a1826ac25f48bbedd9c37ceab6e2c2791aa55e3",
-    "station": {
-      "address": {
-        "city": "Kolín",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "1000",
-        "latitude": 50.02073493926196,
-        "longitude": 15.184752974421144,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Benešovská",
-        "url": ""
-      },
-      "customID": "59561",
-      "description": [
-        {
-          "language": "cs",
-          "text": "UPOZORNĚNÍ PRO ZÁKAZNÍKY: DOBÍJENÍ ZDARMA NEPLATÍ PRO ZÁKAZNÍKY PARTNERSKÝCH POSKYTOVATELŮ SLUŽBY DOBÍJENÍ TZV.ROAMINGOVÉ ZÁKAZNÍKY, KTERÝM CENY URČUJÍ JEJICH POSKYTOVATELÉ SLUŽBY DOBÍJENÍ."
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T53-IT1-0418-005 ",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R150"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-IT1-0418-005 ",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-IT1-0418-005 ",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R150"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/urds-kolin-mala.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R150 - Kolín - Kaufland",
       "visible": true
     }
   },
