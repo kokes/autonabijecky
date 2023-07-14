@@ -18682,6 +18682,55 @@
       "street": "Stará náves"
     }
   },
+  "CZ8154428": {
+    "name": "Ladestation Žižkovo náměstí",
+    "sha1": "9816b0815d4fe14928996f1776d070392b3f66c3",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8154428",
+      "csName": "Ladestation Žižkovo náměstí",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger Žižkovo náměstí",
+      "evseId": "CZ*PRE*E1S8235*2",
+      "geoCoord": {
+        "latitude": "50.081006",
+        "longitude": "14.455603"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64aed5c6f6cf7d59263f5605/imgonline-com-ua-resize-jvo2YqH86BVLhRV.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Žižkovo nám."
+    }
+  },
   "CZ8167949": {
     "name": "Ladestation P+R Nové Butovice",
     "sha1": "337cc9c8c8be7837f278b14661f648fac8c04424",
