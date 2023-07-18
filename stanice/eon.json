@@ -1,7 +1,7 @@
 {
   "10055": {
-    "name": "E.ON Globus Trmice",
-    "sha1": "142efb7d1ba4e1fd77c66822424f5f2e3476f24b",
+    "name": "E.ON Globus Trmice 1",
+    "sha1": "ef45d6d8bbc34627b933ffcde5c096ba6d26951f",
     "station": {
       "address": "Tyršova 869",
       "city": "Trmice",
@@ -118,6 +118,110 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "10056"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-07-17T22:01:56.91Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.651065",
+            "longitude": "14.003347"
+          },
+          "evse_id": "CZ*UFC*E11051485*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51485"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-07-17T22:01:56.91Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-07-17T22:01:56.91Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.651065",
+            "longitude": "14.003347"
+          },
+          "evse_id": "CZ*UFC*E11051485*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51486"
         }
       ],
       "facilities": [
@@ -127,7 +231,7 @@
       ],
       "id": "10055",
       "last_updated": "RESET",
-      "name": "E.ON Globus Trmice",
+      "name": "E.ON Globus Trmice 1",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -7222,7 +7326,7 @@
   },
   "171762": {
     "name": "(P) Hošek Motor - Žarošická",
-    "sha1": "0282596ae971ce4502e83c79d641180be98ab409",
+    "sha1": "646732ceee333c28418509cab0797270449c9b19",
     "station": {
       "address": "Žarošická 4315/17",
       "city": "Brno",
@@ -7264,7 +7368,7 @@
             "longitude": "16.66382171"
           },
           "evse_id": "CZ*EON*E159672*1",
-          "last_seen_as_planned": "2023-01-03T08:17:55.877Z",
+          "last_seen_as_planned": "2023-07-17T14:18:39.283Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "159672"
@@ -7297,7 +7401,7 @@
             "longitude": "16.66382171"
           },
           "evse_id": "CZ*EON*E159672*2",
-          "last_seen_as_planned": "2023-01-03T08:17:55.877Z",
+          "last_seen_as_planned": "2023-07-17T14:18:39.283Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "159673"
@@ -7330,7 +7434,7 @@
             "longitude": "16.66382171"
           },
           "evse_id": "CZ*EON*E159672*3",
-          "last_seen_as_planned": "2023-01-03T08:17:55.877Z",
+          "last_seen_as_planned": "2023-07-17T14:18:39.283Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "159674"
