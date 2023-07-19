@@ -9883,12 +9883,12 @@
   },
   "206830": {
     "name": "E.ON Kaufland Kolín",
-    "sha1": "e42e746af77e55dd0cd124676096ddaa7196557e",
+    "sha1": "f6289c94074b0b7734f0a5c5a88c9e7c1d194ba9",
     "station": {
       "address": "Benešova 1000",
       "city": "Kolín",
       "coordinates": {
-        "latitude": "50.02098110",
+        "latitude": "50.0209811",
         "longitude": "15.18448151"
       },
       "country": "CZE",
@@ -9918,7 +9918,7 @@
             }
           ],
           "coordinates": {
-            "latitude": "50.02098110",
+            "latitude": "50.0209811",
             "longitude": "15.18448151"
           },
           "evse_id": "CZ*UFC*E32206830*1",
@@ -9959,7 +9959,7 @@
             }
           ],
           "coordinates": {
-            "latitude": "50.02098110",
+            "latitude": "50.0209811",
             "longitude": "15.18448151"
           },
           "evse_id": "CZ*UFC*E32206830*3",
@@ -28576,7 +28576,7 @@
   },
   "51469": {
     "name": "E.ON Benzina Kolín",
-    "sha1": "e9c499866c777d1bbaf0a826a73607dc634e7f7e",
+    "sha1": "785e8a6fb10f3bfd5d4aadfc55f2a2fffa8bef13",
     "station": {
       "address": "Ovčárecká 1459",
       "city": "Kolín",
@@ -28642,12 +28642,12 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-05-10T22:01:46.167Z",
+              "last_updated": "2023-07-18T22:03:08.36Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
               "power_type": "DC",
-              "standard": "CHADEMO",
+              "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
                 "2",
                 "5",
@@ -28664,12 +28664,12 @@
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2023-05-10T22:01:46.167Z",
+              "last_updated": "2023-07-18T22:03:08.36Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
               "power_type": "DC",
-              "standard": "IEC_62196_T2_COMBO",
+              "standard": "CHADEMO",
               "tariff_ids": [
                 "2",
                 "5",
@@ -28737,12 +28737,12 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-05-10T22:01:46.167Z",
+              "last_updated": "2023-07-18T22:03:08.36Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
               "power_type": "DC",
-              "standard": "CHADEMO",
+              "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
                 "2",
                 "5",
@@ -28759,12 +28759,12 @@
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2023-05-10T22:01:46.167Z",
+              "last_updated": "2023-07-18T22:03:08.36Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
               "power_type": "DC",
-              "standard": "IEC_62196_T2_COMBO",
+              "standard": "CHADEMO",
               "tariff_ids": [
                 "2",
                 "5",
