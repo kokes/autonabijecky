@@ -1,9 +1,9 @@
 {
   "AT9189126": {
-    "name": "Charger Prague City Golf Zbraslav I + II, III",
-    "sha1": "7e7a49633be241ad8968b6afc667e85780e8b39a",
+    "name": "Ladestation Prague City Golf Zbraslav I + II, III",
+    "sha1": "2c068e5813251d929bf762c6c3e38c957f9c4ee4",
     "station": {
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -13,7 +13,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "AT9189126",
-      "csName": "Charger Prague City Golf Zbraslav I + II, III",
+      "csName": "Ladestation Prague City Golf Zbraslav I + II, III",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Prague City Golf Zbraslav I + II, III",
@@ -54,8 +54,8 @@
     }
   },
   "CZ1002102": {
-    "name": "Charger [TEST] PRE",
-    "sha1": "f6a16adcca07bb4d060c8d25d38219606b23219b",
+    "name": "Ladestation [TEST] PRE",
+    "sha1": "a54db729049950d5489e177ab7308cd441d3c919",
     "station": {
       "branch": "TEST",
       "chargingFacilities": {
@@ -67,7 +67,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1002102",
-      "csName": "Charger [TEST] PRE",
+      "csName": "Ladestation [TEST] PRE",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger [TEST] PRE",
@@ -6659,8 +6659,8 @@
     }
   },
   "CZ1003268": {
-    "name": "Charger AUTO IN Průhonice",
-    "sha1": "82bdeba013cae42e3e60377ff062ebb9165e9bc1",
+    "name": "Ladestation AUTO IN Průhonice",
+    "sha1": "78fa2fa028278aa153f28549b7f7e45bb2548d05",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -6672,7 +6672,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003268",
-      "csName": "Charger AUTO IN Průhonice",
+      "csName": "Ladestation AUTO IN Průhonice",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger AUTO IN Průhonice",
@@ -18634,10 +18634,10 @@
     }
   },
   "CZ8131682": {
-    "name": "Charger Tržiště",
-    "sha1": "395725a66d4d2de97537e8b705a77206d1688665",
+    "name": "Ladestation Tržiště",
+    "sha1": "56ce7ecb8a670e13ada7ff676ef460b5086d08f3",
     "station": {
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -18647,7 +18647,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8131682",
-      "csName": "Charger Tržiště",
+      "csName": "Ladestation Tržiště",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Tržiště",
@@ -18884,10 +18884,10 @@
     }
   },
   "CZ8222802": {
-    "name": "Charger Novodvorská 4",
-    "sha1": "42d3c91ac7a8d41b77de93238b4998e6fae70b22",
+    "name": "Ladestation Novodvorská 4",
+    "sha1": "c559b6d32d180f23a78a793de47dd290653b8ec7",
     "station": {
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤16A"
@@ -18897,7 +18897,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8222802",
-      "csName": "Charger Novodvorská 4",
+      "csName": "Ladestation Novodvorská 4",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Novodvorská 4",
@@ -19024,8 +19024,8 @@
     }
   },
   "CZ8257741": {
-    "name": "Charger TS 1595 Gdaňská",
-    "sha1": "8d7b514e41d665e10f0ad2da441c3dc661e8c966",
+    "name": "Ladestation TS 1595 Gdaňská",
+    "sha1": "f86d7bc62cb498f1fab61d47546bf4bb696f7a78",
     "station": {
       "branch": "Parking",
       "chargingFacilities": {
@@ -19037,7 +19037,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8257741",
-      "csName": "Charger TS 1595 Gdaňská",
+      "csName": "Ladestation TS 1595 Gdaňská",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger TS 1595 Gdaňská",
@@ -19171,10 +19171,10 @@
     }
   },
   "CZ8328581": {
-    "name": "Charger Sídliště Malešice - Plaňanská",
-    "sha1": "385b51e335edfe258c7faec7a23b609a085e26f9",
+    "name": "Ladestation Sídliště Malešice - Plaňanská",
+    "sha1": "8be68f6e4f60e79908ef5d9d6abd348bd7be5291",
     "station": {
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -19184,7 +19184,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8328581",
-      "csName": "Charger Sídliště Malešice - Plaňanská",
+      "csName": "Ladestation Sídliště Malešice - Plaňanská",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Sídliště Malešice - Plaňanská",
@@ -19767,10 +19767,10 @@
     }
   },
   "CZ8736457": {
-    "name": "Charger ZŠ a MŠ Smolkova",
-    "sha1": "afdecef4bae999792643b669bb5547afb561edb6",
+    "name": "Ladestation ZŠ a MŠ Smolkova",
+    "sha1": "917ca991fa2a0fe0123ffb4304690bf3d8e17f1b",
     "station": {
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -19780,7 +19780,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8736457",
-      "csName": "Charger ZŠ a MŠ Smolkova",
+      "csName": "Ladestation ZŠ a MŠ Smolkova",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger ZŠ a MŠ Smolkova",
@@ -19865,10 +19865,10 @@
     }
   },
   "CZ8810630": {
-    "name": "Charger Mahlerovy sady",
-    "sha1": "4400db3df226c1f13b289f1493d53fb28d8dfde2",
+    "name": "Ladestation Mahlerovy sady",
+    "sha1": "83628a7ad7b4d1d680dd54540f3989a66204b906",
     "station": {
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -19878,7 +19878,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8810630",
-      "csName": "Charger Mahlerovy sady",
+      "csName": "Ladestation Mahlerovy sady",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Mahlerovy sady",
@@ -20206,11 +20206,11 @@
     }
   },
   "CZ8985363": {
-    "name": "Charger Hamr Sport Modřany",
-    "sha1": "69a69759e062f1fb31d130f3a4c6868c69ffcaf5",
+    "name": "Ladestation Hamr Sport Modřany",
+    "sha1": "f95bb51ecc420a2a68d461f20311f803b64e3ac7",
     "station": {
       "additionalInfo": "test",
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -20220,7 +20220,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8985363",
-      "csName": "Charger Hamr Sport Modřany",
+      "csName": "Ladestation Hamr Sport Modřany",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "test",
@@ -20413,11 +20413,11 @@
     }
   },
   "CZ9010237": {
-    "name": "Charger OREA Devět Skal",
-    "sha1": "7574d1476524c0d207de48c9576f60dfcd11109a",
+    "name": "Ladestation OREA Devět Skal",
+    "sha1": "09eae330bf4827ef5431906accebfaef9c3ced2e",
     "station": {
       "additionalInfo": "10min kostenlos, dann 30CZK/Stunde, für OREA-Hotelkunden Info an der Rezeption",
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -20427,7 +20427,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9010237",
-      "csName": "Charger OREA Devět Skal",
+      "csName": "Ladestation OREA Devět Skal",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "10min free of charge, then 30CZK/hour, for OREA hotel customers info at the reception",
@@ -21015,10 +21015,10 @@
     }
   },
   "CZ9162726": {
-    "name": "Charger OREA Hotel Santon",
-    "sha1": "77fabbbb121f056661e4f977ded92d22c78474d3",
+    "name": "Ladestation OREA Hotel Santon",
+    "sha1": "77b8b0f091e643928592da056d90c69f680d5e2d",
     "station": {
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -21028,7 +21028,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9162726",
-      "csName": "Charger OREA Hotel Santon",
+      "csName": "Ladestation OREA Hotel Santon",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger OREA Hotel Santon",
@@ -21211,8 +21211,8 @@
     }
   },
   "CZ9197099": {
-    "name": "Charger TS 3678 Výletní",
-    "sha1": "18ae0c954b583a335181f862c206050caad2b148",
+    "name": "Ladestation TS 3678 Výletní",
+    "sha1": "8503cb586aa18929be20240ef5ed9efac8adc802",
     "station": {
       "branch": "Parking",
       "chargingFacilities": {
@@ -21224,7 +21224,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9197099",
-      "csName": "Charger TS 3678 Výletní",
+      "csName": "Ladestation TS 3678 Výletní",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger TS 3678 Výletní",
@@ -21400,8 +21400,8 @@
     }
   },
   "CZ9354989": {
-    "name": "Charger Fakulta Humanitních studií Univerzity Karl",
-    "sha1": "6a2e671c7fe1c0e56d1c14a09eb9bf6b9abb13b3",
+    "name": "Ladestation Fakulta Humanitních studií Univerzity ",
+    "sha1": "37f01c18f291e0402e4bb180f188e723e20ffffd",
     "station": {
       "branch": "Parking",
       "chargingFacilities": {
@@ -21413,7 +21413,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9354989",
-      "csName": "Charger Fakulta Humanitních studií Univerzity Karl",
+      "csName": "Ladestation Fakulta Humanitních studií Univerzity ",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Fakulta Humanitních studií Univerzity Karl",
@@ -21557,10 +21557,10 @@
     }
   },
   "CZ9453623": {
-    "name": "Charger Novodvorská 1",
-    "sha1": "081a38ef7f1577a6d881235d34e6510c26464b83",
+    "name": "Ladestation Novodvorská 1",
+    "sha1": "6446bd874d865b13640e3fa35a6f91c0bc0f5e98",
     "station": {
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤16A"
@@ -21570,7 +21570,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9453623",
-      "csName": "Charger Novodvorská 1",
+      "csName": "Ladestation Novodvorská 1",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Novodvorská 1",
@@ -21876,10 +21876,10 @@
     }
   },
   "CZ9624272": {
-    "name": "Charger SUAS 1",
-    "sha1": "d4ce168191c82caac8ce2d09a223c870cde40f7e",
+    "name": "Ladestation SUAS 1",
+    "sha1": "55ae1e4e7b5944701f3ea43d9ed5e30758bd83f4",
     "station": {
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -21889,7 +21889,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9624272",
-      "csName": "Charger SUAS 1",
+      "csName": "Ladestation SUAS 1",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger SUAS 1",
@@ -22020,10 +22020,10 @@
     }
   },
   "CZ9656800": {
-    "name": "Fast charger Penny Market Bohúňova",
-    "sha1": "d587ef62259d1b717226e5e83052d6e32ae2cb6e",
+    "name": "Schnellladestation Penny Market Bohúňova",
+    "sha1": "528b546343ed0f99ec724dfe708da369db12ad5e",
     "station": {
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -22033,7 +22033,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9656800",
-      "csName": "Fast charger Penny Market Bohúňova",
+      "csName": "Schnellladestation Penny Market Bohúňova",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enCsname": "Fast charger Penny Market Bohúňova",
@@ -22363,11 +22363,11 @@
     }
   },
   "CZ9942351": {
-    "name": "Charger Sportoviště Řepy",
-    "sha1": "810f522eef3463851c8257cb0186bfa4106c3d72",
+    "name": "Ladestation Sportoviště Řepy",
+    "sha1": "6746a72bb6d715864bcc4b534eb5755114965528",
     "station": {
       "additionalInfo": "Für Besucher des Schwimmbads kostenlos, sonst die ersten 20min kostenlos. Danach 20CZK/Stunde",
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤16A"
@@ -22377,7 +22377,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9942351",
-      "csName": "Charger Sportoviště Řepy",
+      "csName": "Ladestation Sportoviště Řepy",
       "csStatus": "operable",
       "csType": "charger",
       "enAdditionalInfo": "visitors of the swimming centre free of charge, otherwise 20min free and then 20CZK/hour",
@@ -22468,10 +22468,10 @@
     }
   },
   "CZ9979120": {
-    "name": "Charger Golf Club Hodkovičky, z.s.",
-    "sha1": "49db3ab371b245af86b46401dd47043da2c418fc",
+    "name": "Ladestation Golf Club Hodkovičky, z.s.",
+    "sha1": "4d8c3f3886c1f6f50a0a1813bd5c5240acf885e8",
     "station": {
-      "branch": "Unbekannt",
+      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -22481,7 +22481,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9979120",
-      "csName": "Charger Golf Club Hodkovičky, z.s.",
+      "csName": "Ladestation Golf Club Hodkovičky, z.s.",
       "csStatus": "operable",
       "csType": "charger",
       "enCsname": "Charger Golf Club Hodkovičky, z.s.",

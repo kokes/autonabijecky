@@ -10210,6 +10210,110 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "207112": {
+    "name": "(P) Areál CB",
+    "sha1": "59c6bc6cec272cfcdcb991ad9ca6e9f4593e25b4",
+    "station": {
+      "address": "Pekárenská 738/54",
+      "city": "České Budějovice",
+      "coordinates": {
+        "latitude": "48.98166337",
+        "longitude": "14.49218979"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-07-20T13:04:59.747Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "272",
+                "273"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.98166337",
+            "longitude": "14.49218979"
+          },
+          "evse_id": "CZ*EON*E32207112*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "207112"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "id": "2",
+              "last_updated": "2023-07-20T13:12:10.337Z",
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "274",
+                "275"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.98166337",
+            "longitude": "14.49218979"
+          },
+          "evse_id": "CZ*EON*E32207112*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "207113"
+        }
+      ],
+      "facilities": [
+        "BUS_STOP",
+        "PARKING_LOT",
+        "FUEL_STATION"
+      ],
+      "id": "207112",
+      "last_updated": "RESET",
+      "name": "(P) Areál CB",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Areál CB s.r.o."
+      },
+      "owner": {
+        "name": "Areál CB s.r.o."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "time_zone": "Europe/Prague"
+    }
+  },
   "207372": {
     "name": "(P) Wake port",
     "sha1": "1edb96db87aa0f74420dd18a047ad2cb4cd31719",
