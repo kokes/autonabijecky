@@ -19366,6 +19366,55 @@
       "street": "Na Dlážděnce"
     }
   },
+  "CZ8434839": {
+    "name": "Charger TS 3969 Rezlerova",
+    "sha1": "a6119f6bf24230423b5452a6d660f7bf0577337c",
+    "station": {
+      "branch": "Unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8434839",
+      "csName": "Charger TS 3969 Rezlerova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 3969 Rezlerova",
+      "evseId": "CZ*PRE*E1S8209*1",
+      "geoCoord": {
+        "latitude": "50.039000",
+        "longitude": "14.562100"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64be79e2f6cf7d59263f5a05/imgonline-com-ua-resize-RVNmhSnkEg.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10900",
+      "region": "Hlavní město Praha",
+      "street": "Rezlerova"
+    }
+  },
   "CZ8436995": {
     "name": "Ladestation Novodvorská 8",
     "sha1": "51d8d1674cc56fa3c509f6e3a2e2138d684c632a",
@@ -21603,6 +21652,50 @@
       "postalCode": "14200",
       "region": "Hlavní město Praha",
       "street": "Novodvorská 1947/82"
+    }
+  },
+  "CZ9453788": {
+    "name": "Ladestation ČSOB Pardubice",
+    "sha1": "fd03e40f9af4773c3ed595d86ecda70c55d3ef36",
+    "station": {
+      "additionalInfo": "Die Ladestation ist nur für Kunden der ČSOB mit einer gültigen Einfahrtsgenehmigung zugänglich.",
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Pardubice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9453788",
+      "csName": "Ladestation ČSOB Pardubice",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit.",
+      "enCsname": "Charger ČSOB Pardubice",
+      "evseId": "CZ*PRE*E0S0047*2",
+      "geoCoord": {
+        "latitude": "50.037520",
+        "longitude": "15.770730"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Connector (Cable Attached)"
+        }
+      ],
+      "postalCode": "53002",
+      "region": "Pardubický kraj",
+      "street": "Masarykovo nám."
     }
   },
   "CZ9456346": {
