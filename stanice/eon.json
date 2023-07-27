@@ -7177,13 +7177,13 @@
   },
   "17053": {
     "name": "E.ON Globus Olomouc",
-    "sha1": "7b24d4aca45ffd1ba961b748f5afd4af1cf5e2e6",
+    "sha1": "2aa17cea14e8ad9df8bea1d1b5b3022b5eba5694",
     "station": {
       "address": "Pražská 248/39",
-      "city": "Olomouc",
+      "city": " Olomouc",
       "coordinates": {
         "latitude": "49.6010056",
-        "longitude": "17.2225019"
+        "longitude": "17.22250191"
       },
       "country": "CZE",
       "country_code": "CZ",
@@ -7224,7 +7224,7 @@
           ],
           "coordinates": {
             "latitude": "49.6010056",
-            "longitude": "17.2225019"
+            "longitude": "17.22250191"
           },
           "evse_id": "CZ*UFC*E11017053*1",
           "last_seen_as_planned": null,
@@ -7287,13 +7287,117 @@
           ],
           "coordinates": {
             "latitude": "49.6010056",
-            "longitude": "17.2225019"
+            "longitude": "17.22250191"
           },
           "evse_id": "CZ*UFC*E11017053*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "17054"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-07-26T22:02:01.307Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.6010056",
+            "longitude": "17.22250191"
+          },
+          "evse_id": "CZ*UFC*E11051477*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51477"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-07-26T22:02:01.307Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-07-26T22:02:01.307Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.6010056",
+            "longitude": "17.22250191"
+          },
+          "evse_id": "CZ*UFC*E11051477*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51478"
         }
       ],
       "facilities": [

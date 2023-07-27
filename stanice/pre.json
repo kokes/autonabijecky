@@ -651,10 +651,9 @@
     }
   },
   "CZ1002605": {
-    "name": "Schnellladestation PVA Letňany",
-    "sha1": "92f7b6b8585402633cb0aa85556a893b58277e4a",
+    "name": "Ultra-Highspeed-Ladestation Centrála PRE na Hroudě",
+    "sha1": "28effb4a26bebbcb4a70bf4268a4a7a860c250c3",
     "station": {
-      "additionalInfo": "Von der Tupolevova Straße, hinter der Schranke",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -665,15 +664,14 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1002605",
-      "csName": "Schnellladestation PVA Letňany",
-      "csStatus": "under_construction",
-      "csType": "fast_charger",
-      "enAdditionalInfo": "From the Tupolevova street and through the bar",
-      "enCsname": "Fast charger PVA Letňany",
+      "csName": "Ultra-Highspeed-Ladestation Centrála PRE na Hroudě",
+      "csStatus": "operable",
+      "csType": "ultra_fast_charger",
+      "enCsname": "Ultra-highspeed charger Centrála PRE na Hroudě 4",
       "evseId": "CZ*PRE*E1R0019*2",
       "geoCoord": {
-        "latitude": "50.129613",
-        "longitude": "14.513286"
+        "latitude": "50.069644",
+        "longitude": "14.480355"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -689,9 +687,9 @@
           "plug": "CCS Combo 2 Plug (Cable Attached)"
         }
       ],
-      "postalCode": "19900",
+      "postalCode": "10000",
       "region": "Hlavní město Praha",
-      "street": "Beranovych 667"
+      "street": "Na Hroudě 4"
     }
   },
   "CZ1002606": {
@@ -3230,6 +3228,57 @@
       "postalCode": "11000",
       "region": "Hlavní město Praha",
       "street": "Na Hroudě 2149/19"
+    }
+  },
+  "CZ1002674": {
+    "name": "Charger Pražská energetika, a.s. 3",
+    "sha1": "82c9f06ed133d2b58a1a7bf9e087673f9f52c56e",
+    "station": {
+      "additionalInfo": "Im Park vor dem Praaská energetika-Gebäude",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1002674",
+      "csName": "Charger Pražská energetika, a.s. 3",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enAdditionalInfo": "In the park in front of the Praažská energetika building",
+      "enCsname": "Charger Pražská energetika, a.s. 3",
+      "evseId": "CZ*PRE*E2S0003*2",
+      "geoCoord": {
+        "latitude": "50.069694",
+        "longitude": "14.481056"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc33/imgonline-com-ua-resize-Ymc4rW2uyg.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "11000",
+      "region": "Hlavní město Praha",
+      "street": "Na Hroudě 1492/4"
     }
   },
   "CZ1002675": {
