@@ -651,8 +651,8 @@
     }
   },
   "CZ1002605": {
-    "name": "Ultra-Highspeed-Ladestation Centrála PRE na Hroudě",
-    "sha1": "28effb4a26bebbcb4a70bf4268a4a7a860c250c3",
+    "name": "Ultra-highspeed charger Centrála PRE na Hroudě 4",
+    "sha1": "9dd10d3fe333e05fa2b5e11c304d3e482f855161",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -664,7 +664,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1002605",
-      "csName": "Ultra-Highspeed-Ladestation Centrála PRE na Hroudě",
+      "csName": "Ultra-highspeed charger Centrála PRE na Hroudě 4",
       "csStatus": "operable",
       "csType": "ultra_fast_charger",
       "enCsname": "Ultra-highspeed charger Centrála PRE na Hroudě 4",
@@ -675,6 +675,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643653e9f4b8a750ff79b9cc/imgonline-com-ua-resize-MBdVognGnzXx7.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
