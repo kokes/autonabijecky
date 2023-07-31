@@ -11747,8 +11747,8 @@
     }
   },
   "CZ1004675": {
-    "name": "Schnellladestation Penny Market Maškova",
-    "sha1": "2c82cbc183c99f7c61b857bf023bf9d75acd9a24",
+    "name": "Fast charger Penny Market Maškova",
+    "sha1": "7729773a1dc240f5ac7ef3afeaab8a7bddffb7eb",
     "station": {
       "branch": "Lebensmitteleinzelhandel",
       "chargingFacilities": {
@@ -11760,14 +11760,14 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1004675",
-      "csName": "Schnellladestation Penny Market Maškova",
+      "csName": "Fast charger Penny Market Maškova",
       "csStatus": "operable",
       "csType": "fast_charger",
       "enCsname": "Fast charger Penny Market Maškova",
       "evseId": "CZ*PRE*E1R0052*3",
       "geoCoord": {
-        "latitude": "50.031917",
-        "longitude": "14.490500"
+        "latitude": "50.132825",
+        "longitude": "14.450414"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
