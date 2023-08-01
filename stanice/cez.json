@@ -24745,6 +24745,152 @@
       "visible": true
     }
   },
+  "179949": {
+    "name": "R563 - Český Krumlov - Tesco - 1",
+    "sha1": "1d5212c4edd698581fd0c08b984c62500b0e930f",
+    "station": {
+      "address": {
+        "city": "Český Krumlov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "299",
+        "latitude": 48.8233939,
+        "longitude": 14.3358025,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Domoradická",
+        "url": ""
+      },
+      "customID": "179949",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R563"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R563"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/07/2ef42595-6439-47e8-badd-31e447b9c02b.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R563 - Český Krumlov - Tesco - 1",
+      "visible": true
+    }
+  },
+  "179973": {
+    "name": "R564 - Český Krumlov - Tesco - 2",
+    "sha1": "974bafd6765146c66091b20e8e326cf15f33e8cb",
+    "station": {
+      "address": {
+        "city": "Český Krumlov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "299",
+        "latitude": 48.8233939,
+        "longitude": 14.3358025,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Domoradická",
+        "url": ""
+      },
+      "customID": "179973",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R564"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R564"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/07/2ef42595-6439-47e8-badd-31e447b9c02b.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R564 - Český Krumlov - Tesco - 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
