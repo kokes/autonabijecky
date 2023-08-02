@@ -19373,6 +19373,55 @@
       "street": "Čimická"
     }
   },
+  "CZ8402207": {
+    "name": "Charger TS 3141 U Polikliniky",
+    "sha1": "ac80a78aabcbfd9e392999553f9a207ae6839463",
+    "station": {
+      "branch": "Unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8402207",
+      "csName": "Charger TS 3141 U Polikliniky",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 3141 U Polikliniky",
+      "evseId": "CZ*PRE*E1S0068*2",
+      "geoCoord": {
+        "latitude": "50.126338",
+        "longitude": "14.414829"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64c7c572f6cf7d59263f5b8f/imgonline-com-ua-resize-et559M3p5v.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "U Polikliniky"
+    }
+  },
   "CZ8411607": {
     "name": "Ladestation TS 1406 Na Dlážděnce",
     "sha1": "2f2dff6a24c293b2caf0698fb48938d9bbf7124a",

@@ -2609,7 +2609,7 @@
   },
   "117357": {
     "name": "(P) Relaxcentrum Mrkáček Lišov",
-    "sha1": "c636d78662d504e3606318e7ee743d9f356885ee",
+    "sha1": "c36e59ce8a4929ae7a509c9b8fd8419d43cd59ea",
     "station": {
       "address": "Dolní 865",
       "city": "Lišov",
@@ -2634,7 +2634,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-05-24T05:29:08.837Z",
+              "last_updated": "2023-08-01T05:43:03.05Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -2642,7 +2642,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "166",
-                "167"
+                "167",
+                "280",
+                "281"
               ]
             }
           ],
@@ -2667,7 +2669,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-05-24T05:29:49.55Z",
+              "last_updated": "2023-08-01T05:43:03.05Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -2675,7 +2677,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "166",
-                "167"
+                "167",
+                "280",
+                "281"
               ]
             }
           ],
@@ -18352,7 +18356,7 @@
   },
   "35757": {
     "name": "(P) Autocentrum DAVO CAR Olbramovice",
-    "sha1": "12cc74a5d676a2540d9bbd34d6bcc15883c8445f",
+    "sha1": "9ec93eeb093ce8b3bea900a7b62a6a3f0fd418e3",
     "station": {
       "address": "Autocenturm DAVO CAR Olbramovice 203",
       "city": "Olbramovice",
@@ -18377,7 +18381,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-03-08T12:10:32.217Z",
+              "last_updated": "2023-08-01T05:02:50.277Z",
               "max_amperage": 200,
               "max_electric_power": 100000,
               "max_voltage": 920,
@@ -18385,7 +18389,9 @@
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
                 "13",
-                "14"
+                "14",
+                "276",
+                "277"
               ]
             }
           ],
@@ -18410,7 +18416,7 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-08-01T22:01:01.563Z",
+              "last_updated": "2023-08-01T05:04:59.24Z",
               "max_amperage": 200,
               "max_electric_power": 150000,
               "max_voltage": 920,
@@ -18418,7 +18424,9 @@
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
                 "174",
-                "175"
+                "175",
+                "278",
+                "279"
               ]
             }
           ],
@@ -18443,7 +18451,7 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-03-08T12:11:28.953Z",
+              "last_updated": "2023-08-01T05:02:50.277Z",
               "max_amperage": 200,
               "max_electric_power": 50000,
               "max_voltage": 920,
@@ -18451,7 +18459,9 @@
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
                 "13",
-                "14"
+                "14",
+                "276",
+                "277"
               ]
             }
           ],
@@ -18476,7 +18486,7 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2022-03-08T12:11:58.037Z",
+              "last_updated": "2023-08-01T05:02:50.277Z",
               "max_amperage": 200,
               "max_electric_power": 50000,
               "max_voltage": 920,
@@ -18484,7 +18494,9 @@
               "standard": "CHADEMO",
               "tariff_ids": [
                 "13",
-                "14"
+                "14",
+                "276",
+                "277"
               ]
             }
           ],
@@ -33465,7 +33477,7 @@
   },
   "53788": {
     "name": "E.ON Penny Lanškroun",
-    "sha1": "43b535cd4b9f14a7e5f3c9593555e45de5538997",
+    "sha1": "68b1db184bd9f4e729c5f6a4c0c2659bc9464f52",
     "station": {
       "address": "Husova 999",
       "city": "Lanškroun",
@@ -33584,6 +33596,110 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53789"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-08-01T22:01:47.55Z",
+              "max_amperage": 125,
+              "max_electric_power": 60000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-08-01T22:01:47.55Z",
+              "max_amperage": 125,
+              "max_electric_power": 60000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.9090508",
+            "longitude": "16.6116469"
+          },
+          "evse_id": "CZ*UFC*E98053846*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53846"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-08-01T22:01:47.55Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.9090508",
+            "longitude": "16.6116469"
+          },
+          "evse_id": "CZ*UFC*E98053846*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53847"
         }
       ],
       "facilities": [
