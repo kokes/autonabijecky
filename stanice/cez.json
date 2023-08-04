@@ -10040,7 +10040,7 @@
   },
   "154290": {
     "name": "N176 - Dolní Břežany - Parkovací dům - 2",
-    "sha1": "7bf4933e5c07bb9d364bae284310f6174b27528c",
+    "sha1": "e23ac7744bdfa6e14cef61450cb368af2eacde52",
     "station": {
       "address": {
         "city": "Dolní Břežany",
@@ -10094,7 +10094,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/r401_402.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/9e60b44e-f302-409e-8de0-b1750db2e005.jpg"
         }
       ],
       "instructions": null,
@@ -10314,7 +10314,7 @@
   },
   "154315": {
     "name": "N175 - Dolní Břežany - Parkovací dům - 1",
-    "sha1": "55442a8d0040646ec10da42775a57d5c7191f5dc",
+    "sha1": "59688468fb927ac566363d18ce1640b32cd6c419",
     "station": {
       "address": {
         "city": "Dolní Břežany",
@@ -10368,7 +10368,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/9e60b44e-f302-409e-8de0-b1750db2e005.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/img-20220815-wa0014.jpg"
         }
       ],
       "instructions": null,
@@ -20419,7 +20419,7 @@
   },
   "173121": {
     "name": "N234 - Lysá nad Labem - Parkoviště Čapkova - 4",
-    "sha1": "ecebae895e2f458aef0fe447bc9d3f749cd7a750",
+    "sha1": "a90225d4e3507c6968de4b98aeeb330b2da85508",
     "station": {
       "address": {
         "city": "Lysá nad Labem",
@@ -20473,7 +20473,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/r401_402.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/9e60b44e-f302-409e-8de0-b1750db2e005.jpg"
         }
       ],
       "instructions": null,
@@ -23601,7 +23601,7 @@
   },
   "178287": {
     "name": "UR117 - Loket - Bageterie Boulevard - 1",
-    "sha1": "0c249fcf84c51723274676d5b04928862a3dea79",
+    "sha1": "be4c6b896e107b3868270cb7b5b5872ee350372a",
     "station": {
       "address": {
         "city": "Loket",
@@ -23669,7 +23669,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/letnany.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/7.jpg"
         }
       ],
       "instructions": null,
@@ -23679,7 +23679,7 @@
   },
   "178288": {
     "name": "R536 - Loket - Bageterie Boulevard - 2",
-    "sha1": "ece6403318253fe59bd736c6a8012b6500014599",
+    "sha1": "fe281cc8fd37d0b84e87bdb14d59c062e1c01ebe",
     "station": {
       "address": {
         "city": "Loket",
@@ -23742,7 +23742,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/57e9167b-ab00-48d6-9ba1-6053c62d3053.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/2.jpg"
         }
       ],
       "instructions": null,
@@ -24888,6 +24888,718 @@
       ],
       "instructions": null,
       "name": "R564 - Český Krumlov - Tesco - 2",
+      "visible": true
+    }
+  },
+  "180116": {
+    "name": "R559 - Praha 10 - NC EDEN - 3",
+    "sha1": "f88ad97b12e60fdf7258fe202073b2f893fa2565",
+    "station": {
+      "address": {
+        "city": "Praha 10",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Slavie 1527",
+        "latitude": 50.0671303,
+        "longitude": 14.4693219,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "U",
+        "url": ""
+      },
+      "customID": "180116",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R559"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R559"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/804b5281-456e-4aff-a497-9c7bffdd5664.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R559 - Praha 10 - NC EDEN - 3",
+      "visible": true
+    }
+  },
+  "180149": {
+    "name": "UR118 - Loket - Bageterie Boulevard - 3",
+    "sha1": "0fad19cee41b76ad73d01276c80f23a27d90ba19",
+    "station": {
+      "address": {
+        "city": "Loket",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "exit 66",
+        "latitude": 49.6582408,
+        "longitude": 15.120315,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1",
+        "url": ""
+      },
+      "customID": "180149",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR118"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR118"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/10.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR118 - Loket - Bageterie Boulevard - 3",
+      "visible": true
+    }
+  },
+  "180150": {
+    "name": "UR119 - Loket - Bageterie Boulevard - 4",
+    "sha1": "6a2901e680935c3eef0d9818ac00f1faf0eb79c1",
+    "station": {
+      "address": {
+        "city": "Loket",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "exit 66",
+        "latitude": 49.6582408,
+        "longitude": 15.120315,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1",
+        "url": ""
+      },
+      "customID": "180150",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 240,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR119"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 240,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR119"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/12-20230803-081143.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR119 - Loket - Bageterie Boulevard - 4",
+      "visible": true
+    }
+  },
+  "180151": {
+    "name": "R539 - město Příbram - 1",
+    "sha1": "b55006b8566ac609ec19659e81157a3c9da0b269",
+    "station": {
+      "address": {
+        "city": "Příbram",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Flusárně",
+        "latitude": 49.67944,
+        "longitude": 14.00529,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Na",
+        "url": ""
+      },
+      "customID": "180151",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R539"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R539"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/2-20230803-081507.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R539 - město Příbram - 1",
+      "visible": true
+    }
+  },
+  "180152": {
+    "name": "R540 - město Příbram - 2",
+    "sha1": "e70372e040e5e57f38c807fe847dc5bb90de1150",
+    "station": {
+      "address": {
+        "city": "Příbram",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Flusárně",
+        "latitude": 49.67944,
+        "longitude": 14.00529,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Na",
+        "url": ""
+      },
+      "customID": "180152",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R540"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R540"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/2-20230803-081507.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R540 - město Příbram - 2",
+      "visible": true
+    }
+  },
+  "180153": {
+    "name": "R557 - Praha 10 - NC EDEN - 1",
+    "sha1": "673c43f3137d2b13342b182830e613562d2218b2",
+    "station": {
+      "address": {
+        "city": "Praha 10",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Slavie 1527",
+        "latitude": 50.0671303,
+        "longitude": 14.4693219,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "U",
+        "url": ""
+      },
+      "customID": "180153",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R557"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R557"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/804b5281-456e-4aff-a497-9c7bffdd5664.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R557 - Praha 10 - NC EDEN - 1",
+      "visible": true
+    }
+  },
+  "180154": {
+    "name": "R558 - Praha 10 - NC EDEN - 2",
+    "sha1": "8e89d7f22a40ede30b43529106aa1853ea48b45c",
+    "station": {
+      "address": {
+        "city": "Praha 10",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Slavie 1527",
+        "latitude": 50.0671303,
+        "longitude": 14.4693219,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "U",
+        "url": ""
+      },
+      "customID": "180154",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R558"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R558"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/804b5281-456e-4aff-a497-9c7bffdd5664.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R558 - Praha 10 - NC EDEN - 2",
+      "visible": true
+    }
+  },
+  "180155": {
+    "name": "R560 - Praha 10 - NC EDEN - 4",
+    "sha1": "7458756d4e3889c2d459dea08321c14e0657b767",
+    "station": {
+      "address": {
+        "city": "Praha 10",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Slavie 1527",
+        "latitude": 50.0671303,
+        "longitude": 14.4693219,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "U",
+        "url": ""
+      },
+      "customID": "180155",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R560"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R560"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/804b5281-456e-4aff-a497-9c7bffdd5664.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R560 - Praha 10 - NC EDEN - 4",
+      "visible": true
+    }
+  },
+  "180156": {
+    "name": "R561 - Klatovy - Tesco - 1",
+    "sha1": "b98288a55453aaa47b038dff442cae28592ff947",
+    "station": {
+      "address": {
+        "city": "Klatovy",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "909",
+        "latitude": 49.3934367,
+        "longitude": 13.2847681,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Domažlická",
+        "url": ""
+      },
+      "customID": "180156",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R561"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R561"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/8c602fa1-52b2-47e6-85a7-d14520643aaf.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R561 - Klatovy - Tesco - 1",
+      "visible": true
+    }
+  },
+  "180157": {
+    "name": "R562 - Klatovy - Tesco - 2",
+    "sha1": "3d19cdcb43f125dc1654121a0e2053fd8358390a",
+    "station": {
+      "address": {
+        "city": "Klatovy",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "909",
+        "latitude": 49.3934367,
+        "longitude": 13.2847681,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Domažlická",
+        "url": ""
+      },
+      "customID": "180157",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R562"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R562"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/8c602fa1-52b2-47e6-85a7-d14520643aaf.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R562 - Klatovy - Tesco - 2",
       "visible": true
     }
   },
