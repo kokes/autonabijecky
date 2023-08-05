@@ -19824,6 +19824,60 @@
       "street": "Kbelská 110"
     }
   },
+  "CZ8625571": {
+    "name": "Ladestation TS 3037 Tererova",
+    "sha1": "5702a4b8831d220a4cbc76cea98470189c69a1c1",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8625571",
+      "csName": "Ladestation TS 3037 Tererova",
+      "csStatus": "operable",
+      "csType": "charger",
+      "enCsname": "Charger TS 3037 Tererova",
+      "evseId": "CZ*PRE*E1S8193*1",
+      "geoCoord": {
+        "latitude": "50.072793",
+        "longitude": "14.480437"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64cb6f17f6cf7d59263f5bc3/imgonline-com-ua-resize-CLIhQta4uvA33.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64cb6f17f6cf7d59263f5bc3/imgonline-com-ua-resize-gDZz5eSTcP2.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Tererova"
+    }
+  },
   "CZ8671071": {
     "name": "Schnellladestation e-senohraby exhibition",
     "sha1": "8ac9b965d46a1a69d828adc69e0d4573588d412a",

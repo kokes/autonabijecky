@@ -25603,6 +25603,152 @@
       "visible": true
     }
   },
+  "180186": {
+    "name": "R565 - Broumov - parkoviště u MÚ - 1",
+    "sha1": "1559b28efa00606432c61f3ee8588aa710562cbe",
+    "station": {
+      "address": {
+        "city": "Broumov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.587545,
+        "longitude": 16.3314344,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pivovarská",
+        "url": ""
+      },
+      "customID": "180186",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R565"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R565"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R565 - Broumov - parkoviště u MÚ - 1",
+      "visible": true
+    }
+  },
+  "180187": {
+    "name": "R566 - Broumov - parkoviště u MÚ - 2",
+    "sha1": "8212d3b57cd9a7ad12c98dc096d5d917fbd26e77",
+    "station": {
+      "address": {
+        "city": "Broumov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.587545,
+        "longitude": 16.3314344,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pivovarská",
+        "url": ""
+      },
+      "customID": "180187",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R566"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R566"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R566 - Broumov - parkoviště u MÚ - 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
