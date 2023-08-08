@@ -12237,7 +12237,7 @@
   },
   "25153": {
     "name": "E.ON Globus Karlovy Vary - Jenišov",
-    "sha1": "d575cd4ab30b250d390f4762c0747b0fb2d6ad3d",
+    "sha1": "c6b4c7949a2bd461ed94e7843124b6edd113a2b5",
     "station": {
       "address": "Obchodní 30",
       "city": "Karlovy Vary - Jenišov",
@@ -12354,6 +12354,38 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "25154"
+        },
+        {
+          "capabilities": [
+            "RFID_READER",
+            "UNLOCK_CAPABLE",
+            "CHIP_CARD_SUPPORT"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.2190275",
+            "longitude": "12.8066633"
+          },
+          "evse_id": "CZ*UFC*E11051447*1",
+          "floor_level": "0",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51447"
+        },
+        {
+          "capabilities": [],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.2190275",
+            "longitude": "12.8066633"
+          },
+          "evse_id": "CZ*UFC*E11051447*2",
+          "floor_level": "0",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51448"
         }
       ],
       "facilities": [
@@ -28323,14 +28355,14 @@
     }
   },
   "51459": {
-    "name": "E.ON Globus Ústí nad Labem Trmice",
-    "sha1": "27766b0fdb11f2be69c332385952a538045414f4",
+    "name": "E.ON Globus Trmice 2",
+    "sha1": "a554dfa7b12f3e644df3cb54b524e1461b410006",
     "station": {
       "address": "Tyršova 869",
-      "city": "Ústí nad Labem - Trmice",
+      "city": "Trmice",
       "coordinates": {
-        "latitude": "50.65052264",
-        "longitude": "14.00166159"
+        "latitude": "50.651065",
+        "longitude": "14.00334701"
       },
       "country": "CZE",
       "country_code": "CZ",
@@ -28345,12 +28377,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-08-07T11:59:24.103Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
-            "latitude": "50.65052264",
-            "longitude": "14.00166159"
+            "latitude": "50.651065",
+            "longitude": "14.00334701"
           },
-          "evse_id": "CZ*EON*E11051459*1",
+          "evse_id": "CZ*UFC*E11051459*1",
           "last_seen_as_planned": "2022-03-14T06:37:28.98Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -28363,16 +28418,165 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-08-07T11:59:24.103Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-08-07T11:59:24.103Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
-            "latitude": "50.65052264",
-            "longitude": "14.00166159"
+            "latitude": "50.651065",
+            "longitude": "14.00334701"
           },
-          "evse_id": "CZ*EON*E11051459*2",
+          "evse_id": "CZ*UFC*E11051459*2",
           "last_seen_as_planned": "2022-03-14T06:37:28.98Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51460"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-08-07T11:59:24.103Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.651065",
+            "longitude": "14.00334701"
+          },
+          "evse_id": "CZ*UFC*E11051485*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51485"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-08-07T11:59:24.103Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-08-07T11:59:24.103Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.651065",
+            "longitude": "14.00334701"
+          },
+          "evse_id": "CZ*UFC*E11051485*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51486"
         }
       ],
       "facilities": [
@@ -28383,7 +28587,7 @@
       ],
       "id": "51459",
       "last_updated": "RESET",
-      "name": "E.ON Globus Ústí nad Labem Trmice",
+      "name": "E.ON Globus Trmice 2",
       "opening_times": {
         "twentyfourseven": true
       },

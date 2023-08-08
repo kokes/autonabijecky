@@ -25749,6 +25749,79 @@
       "visible": true
     }
   },
+  "180254": {
+    "name": "R517 - Příbram - Auto Poly",
+    "sha1": "4de804a7613b6861e677a50620446e09b2212130",
+    "station": {
+      "address": {
+        "city": "Příbram",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "148",
+        "latitude": 49.6916472,
+        "longitude": 14.0335897,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Novohospodská",
+        "url": ""
+      },
+      "customID": "180254",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R517"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R517"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/img_4259.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R517 - Příbram - Auto Poly",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
