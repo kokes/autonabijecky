@@ -25822,6 +25822,79 @@
       "visible": true
     }
   },
+  "180274": {
+    "name": "R542 - Hluboká nad Vltavou - Benzina",
+    "sha1": "e54834e859774b03aea4af8c31b9790cdaf58d16",
+    "station": {
+      "address": {
+        "city": "Hluboká nad Vltavou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Parkovištěm",
+        "latitude": 49.05072,
+        "longitude": 14.4299,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Nad",
+        "url": ""
+      },
+      "customID": "180274",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R542"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R542"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/6dec90d8-0081-4aee-afcd-7cba51961c20.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R542 - Hluboká nad Vltavou - Benzina",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
@@ -40849,79 +40922,6 @@
       ],
       "instructions": null,
       "name": "R267 - Zlín - Samohýl Mercedes Benz - 2",
-      "visible": true
-    }
-  },
-  "92967": {
-    "name": "R268 - Zlín - Samohýl Mercedes Benz - 3",
-    "sha1": "4274ce2acf5f344d6c15f9769d40b05bced8d9a2",
-    "station": {
-      "address": {
-        "city": "Zlín - Prštné",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "Tomáše Bati 532",
-        "latitude": 49.21745,
-        "longitude": 17.629315,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "tř.",
-        "url": ""
-      },
-      "customID": "92967",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-0820-007 ",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R268"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-0820-007 ",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-0820-007 ",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R268"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/07/zlin01_li-20200718-211200.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R268 - Zlín - Samohýl Mercedes Benz - 3",
       "visible": true
     }
   },

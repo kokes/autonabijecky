@@ -12237,10 +12237,10 @@
   },
   "25153": {
     "name": "E.ON Globus Karlovy Vary - Jenišov",
-    "sha1": "c6b4c7949a2bd461ed94e7843124b6edd113a2b5",
+    "sha1": "e76f9b544bb4066ea6a6c1d0473745c5cf6959dd",
     "station": {
       "address": "Obchodní 30",
-      "city": "Karlovy Vary - Jenišov",
+      "city": "Jenišov",
       "coordinates": {
         "latitude": "50.2190275",
         "longitude": "12.8066633"
@@ -12361,7 +12361,30 @@
             "UNLOCK_CAPABLE",
             "CHIP_CARD_SUPPORT"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-08-08T22:01:52.383Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.2190275",
             "longitude": "12.8066633"
@@ -12375,7 +12398,52 @@
         },
         {
           "capabilities": [],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-08-08T22:01:52.383Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-08-08T22:01:52.383Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.2190275",
             "longitude": "12.8066633"
@@ -16316,12 +16384,12 @@
   },
   "33214": {
     "name": "E.ON ČS MOL Vyškov UFC",
-    "sha1": "1e9f4d4f357c6f252ddc1d5555e367ef26aaf2fa",
+    "sha1": "6a58d2ce67b4f32a24d61d39a8b95517c69c66e4",
     "station": {
       "address": "Kroměřížská 709",
       "city": "Vyškov",
       "coordinates": {
-        "latitude": "49.281448",
+        "latitude": "49.28144801",
         "longitude": "17.019908"
       },
       "country": "CZE",
@@ -16362,7 +16430,7 @@
             }
           ],
           "coordinates": {
-            "latitude": "49.281448",
+            "latitude": "49.28144801",
             "longitude": "17.019908"
           },
           "evse_id": "CZ*UFC*E11033214*1",
@@ -16425,7 +16493,7 @@
             }
           ],
           "coordinates": {
-            "latitude": "49.281448",
+            "latitude": "49.28144801",
             "longitude": "17.019908"
           },
           "evse_id": "CZ*UFC*E11033214*2",
@@ -16488,7 +16556,7 @@
             }
           ],
           "coordinates": {
-            "latitude": "49.281448",
+            "latitude": "49.28144801",
             "longitude": "17.019908"
           },
           "evse_id": "CZ*UFC*E11033232*1",
@@ -17266,10 +17334,10 @@
     }
   },
   "33233": {
-    "name": "E.ON ČS MOL Rozvadov UFC 175kW DC",
-    "sha1": "17dfab83667eb4ea3c63ffd7746ea583f39b6306",
+    "name": "E.ON ČS MOL Rozvadov",
+    "sha1": "1b525baae8a20d18595d0f8d8fc8b893f3a75659",
     "station": {
-      "address": "Svatá Kateřina 109",
+      "address": "Svatá Kateřina",
       "city": "Rozvadov",
       "coordinates": {
         "latitude": "49.679327",
@@ -17448,6 +17516,129 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "33233"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-08-08T22:01:52.383Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144",
+                "186",
+                "187",
+                "211",
+                "213"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.679327",
+            "longitude": "12.60337"
+          },
+          "evse_id": "CZ*UFC*E32051528*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51528"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-08-08T22:01:52.383Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.679327",
+            "longitude": "12.60337"
+          },
+          "evse_id": "CZ*UFC*E32051528*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51529"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-08-08T22:01:52.383Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.679327",
+            "longitude": "12.60337"
+          },
+          "evse_id": "CZ*UFC*E32051528*3",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51530"
         }
       ],
       "facilities": [
@@ -17457,7 +17648,7 @@
       ],
       "id": "33233",
       "last_updated": "RESET",
-      "name": "E.ON ČS MOL Rozvadov UFC 175kW DC",
+      "name": "E.ON ČS MOL Rozvadov",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -39503,7 +39694,7 @@
   },
   "55604": {
     "name": "(P) ACR auto a.s.",
-    "sha1": "647d2d30b37451a18fcbf21fd71855f1f2b7a79a",
+    "sha1": "a3bfa9eef004e1f911c12121ba7a03bd33c60142",
     "station": {
       "address": "Okružní ev. č. 49",
       "city": "České Budějovice",
@@ -39584,6 +39775,41 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "177668"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-08-08T22:01:52.383Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "95",
+                "96",
+                "236",
+                "237"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.001183",
+            "longitude": "14.488878"
+          },
+          "evse_id": "CZ*EON*E214290",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "214290"
         },
         {
           "capabilities": [
