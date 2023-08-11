@@ -849,10 +849,10 @@
   },
   "10411": {
     "name": "E.ON Globus Zličín",
-    "sha1": "0e0636927e34a21952a0f408aa72f5e70cdfb411",
+    "sha1": "9a4e78ddea309684e332fde5631fce6a5d030441",
     "station": {
-      "address": "Sárská 133/5",
-      "city": "Praha-Třebonice",
+      "address": "Sárská 5/133",
+      "city": "Praha-Zličín",
       "coordinates": {
         "latitude": "50.05234953",
         "longitude": "14.29573738"
@@ -966,6 +966,110 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "10412"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-08-10T22:01:46.92Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.05234953",
+            "longitude": "14.29573738"
+          },
+          "evse_id": "CZ*UFC*E11051461*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51461"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-08-10T22:01:46.92Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-08-10T22:01:46.92Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.05234953",
+            "longitude": "14.29573738"
+          },
+          "evse_id": "CZ*UFC*E11051461*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51462"
         }
       ],
       "facilities": [
@@ -8025,6 +8129,173 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "177634": {
+    "name": "(P) Hotel Bartoš",
+    "sha1": "11f9a322a63414ff7fa45bdd80f73facf156b8d2",
+    "station": {
+      "address": "Školská čtvrť 1393",
+      "city": "Frenštát pod Radhoštěm",
+      "coordinates": {
+        "latitude": "49.54458986",
+        "longitude": "18.2015686"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-08-10T08:30:19.67Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "282",
+                "283"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.54458986",
+            "longitude": "18.2015686"
+          },
+          "evse_id": "CZ*EON*E177617",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "177617"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-08-10T08:30:19.67Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "282",
+                "283"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.54458986",
+            "longitude": "18.2015686"
+          },
+          "evse_id": "CZ*EON*E177618",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "177618"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-08-10T08:30:19.67Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "282",
+                "283"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.54458986",
+            "longitude": "18.2015686"
+          },
+          "evse_id": "CZ*EON*E177634",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "177634"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-08-10T08:30:19.67Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "282",
+                "283"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.54458986",
+            "longitude": "18.2015686"
+          },
+          "evse_id": "CZ*EON*E177635",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "177635"
+        }
+      ],
+      "id": "177634",
+      "last_updated": "RESET",
+      "name": "(P) Hotel Bartoš",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "Leo Bartoš"
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "time_zone": "Europe/Prague"
+    }
+  },
   "177667": {
     "name": "(P) ACR auto a.s.",
     "sha1": "6e3675ab76c8116a3724bdd0f31dd9791ddef3bc",
@@ -11065,6 +11336,107 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "218167": {
+    "name": "(P) AUTO DOBROVOLNÝ V.M. s.r.o. - ŠKODA Jihlava",
+    "sha1": "ceb4e8e7f4fede5e4f49ef907641677d7f63fd15",
+    "station": {
+      "address": "Okružní 4720/3",
+      "city": "Jihlava",
+      "coordinates": {
+        "latitude": "49.40575",
+        "longitude": "15.59384"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-08-10T11:20:24.887Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "284",
+                "285"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.40575",
+            "longitude": "15.59384"
+          },
+          "evse_id": "CZ*EON*E25214873*1",
+          "last_seen_as_planned": "2023-08-10T11:20:44.617Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "214873"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-08-10T11:20:24.887Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "284",
+                "285"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.40575",
+            "longitude": "15.59384"
+          },
+          "evse_id": "CZ*EON*E25214873*2",
+          "last_seen_as_planned": "2023-08-10T11:20:44.617Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "214874"
+        }
+      ],
+      "id": "218167",
+      "last_updated": "RESET",
+      "name": "(P) AUTO DOBROVOLNÝ V.M. s.r.o. - ŠKODA Jihlava",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "AUTO DOBROVOLNÝ V.M. s.r.o."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "time_zone": "Europe/Prague"
+    }
+  },
   "22223": {
     "name": "E.ON ČS Benzina Rokycany",
     "sha1": "cc113e17a2241b268a339cc04f9ba90e60089414",
@@ -12486,10 +12858,10 @@
   },
   "25171": {
     "name": "E.ON Globus Pardubice",
-    "sha1": "bd501ee53c4df28b94c52bb4df7c87ee8f538503",
+    "sha1": "ebef931fee50b23f661ab11ee4f3dde9e8e4950c",
     "station": {
-      "address": "Poděbradská 293",
-      "city": "Pardubice",
+      "address": "Poděbradská",
+      "city": " Pardubice",
       "coordinates": {
         "latitude": "50.0572344",
         "longitude": "15.7519128"
@@ -12603,6 +12975,110 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "25172"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-08-10T22:01:46.92Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.0572344",
+            "longitude": "15.7519128"
+          },
+          "evse_id": "CZ*UFC*E11051473*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51473"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-08-10T22:01:46.92Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2023-08-10T22:01:46.92Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.0572344",
+            "longitude": "15.7519128"
+          },
+          "evse_id": "CZ*UFC*E11051473*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "51474"
         }
       ],
       "facilities": [
@@ -31105,8 +31581,8 @@
     }
   },
   "51516": {
-    "name": "E.ON Jindřichův Hradec",
-    "sha1": "0dfbc24c790b994deddcc59be2c46f349fed5e11",
+    "name": "E.ON Plavecký bazén Jindřichův Hradec",
+    "sha1": "bf4163113758b2a8d5b1e18279d6c33657b82fbf",
     "station": {
       "address": "Jáchymova 865/3",
       "city": "Jindřichův Hradec",
@@ -31227,7 +31703,7 @@
       ],
       "id": "51516",
       "last_updated": "RESET",
-      "name": "E.ON Jindřichův Hradec",
+      "name": "E.ON Plavecký bazén Jindřichův Hradec",
       "operator": {
         "name": "E.ON Energie, a.s."
       },
