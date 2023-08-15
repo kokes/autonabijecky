@@ -38659,7 +38659,7 @@
   },
   "53852": {
     "name": "E.ON Penny Hradec Králové",
-    "sha1": "9534822657d9aa6c749cc367dfb0f5b24b5576f8",
+    "sha1": "abbb20f061d60a6ecec71f61327483756a057482",
     "station": {
       "address": "Labská louka",
       "city": "Hradec Králové - Třebeš",
@@ -38680,12 +38680,57 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-08-14T22:01:47.997Z",
+              "max_amperage": 125,
+              "max_electric_power": 60000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-08-14T22:01:47.997Z",
+              "max_amperage": 125,
+              "max_electric_power": 60000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.18372614",
             "longitude": "15.82676622"
           },
-          "evse_id": "CZ*EON*E98053852*1",
+          "evse_id": "CZ*UFC*E98053852*1",
           "last_seen_as_planned": "2022-03-22T06:47:47.187Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -38698,12 +38743,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-08-14T22:01:47.997Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.18372614",
             "longitude": "15.82676622"
           },
-          "evse_id": "CZ*EON*E98053852*2",
+          "evse_id": "CZ*UFC*E98053852*2",
           "last_seen_as_planned": "2022-03-22T06:47:47.187Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -38711,12 +38779,57 @@
         },
         {
           "capabilities": [],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-08-14T22:01:47.997Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-08-14T22:01:47.997Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.18372614",
             "longitude": "15.82676622"
           },
-          "evse_id": "",
+          "evse_id": "CZ*UFC*E98053866*1",
           "floor_level": "0",
           "last_seen_as_planned": "2023-01-09T12:43:59.453Z",
           "last_updated": "RESET",
@@ -38725,12 +38838,35 @@
         },
         {
           "capabilities": [],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-08-14T22:01:47.997Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.18372614",
             "longitude": "15.82676622"
           },
-          "evse_id": "",
+          "evse_id": "CZ*UFC*E98053866*2",
           "floor_level": "0",
           "last_seen_as_planned": "2023-01-09T12:44:20.89Z",
           "last_updated": "RESET",
@@ -39091,7 +39227,7 @@
   },
   "53860": {
     "name": "E.ON Penny Benešov",
-    "sha1": "5e660958a79648294f6a8fab78423b7c01c4c972",
+    "sha1": "1382216817cfacf72aaae90b85438d9d2bd40061",
     "station": {
       "address": "Čechova 2126",
       "city": " Benešov",
@@ -39112,12 +39248,57 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-08-14T20:18:10.563Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "212",
+                "210",
+                "184",
+                "185",
+                "142",
+                "141",
+                "63",
+                "60",
+                "5",
+                "2"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-08-14T20:18:10.563Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.78731042",
             "longitude": "14.69577456"
           },
-          "evse_id": "CZ*EON*E98053860*1",
+          "evse_id": "CZ*UFC*E98053860*1",
           "last_seen_as_planned": "2022-03-23T08:06:16.523Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -39130,12 +39311,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-08-14T20:18:10.563Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.78731042",
             "longitude": "14.69577456"
           },
-          "evse_id": "CZ*EON*E98053860*2",
+          "evse_id": "CZ*UFC*E98053860*2",
           "last_seen_as_planned": "2022-03-23T08:06:16.523Z",
           "last_updated": "RESET",
           "status": "RESET",
