@@ -25895,6 +25895,298 @@
       "visible": true
     }
   },
+  "180651": {
+    "name": "R555 - Chotěboř - Parkoviště Krále Jana - 1",
+    "sha1": "6588a4b35cf7963957983fb6c47649d3dbcd4da2",
+    "station": {
+      "address": {
+        "city": "Chotěboř",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Krále Jana",
+        "latitude": 49.7175225,
+        "longitude": 15.6692383,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Parkoviště",
+        "url": ""
+      },
+      "customID": "180651",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R555"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R555"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/2fb3688a-3513-42cd-ae29-05f4bef0449c.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R555 - Chotěboř - Parkoviště Krále Jana - 1",
+      "visible": true
+    }
+  },
+  "180652": {
+    "name": "R556 - Chotěboř - Parkoviště Krále Jana - 2",
+    "sha1": "aaab791a582145980afd875146171343cc5dd16f",
+    "station": {
+      "address": {
+        "city": "Chotěboř",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Krále Jana",
+        "latitude": 49.7175225,
+        "longitude": 15.6692383,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Parkoviště",
+        "url": ""
+      },
+      "customID": "180652",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R556"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R556"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/2fb3688a-3513-42cd-ae29-05f4bef0449c.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R556 - Chotěboř - Parkoviště Krále Jana - 2",
+      "visible": true
+    }
+  },
+  "180655": {
+    "name": "R543 - Dubí - ČS Fill Cínovec - 1",
+    "sha1": "60da257d4db3f0aeee80e7cede4e309b941c437a",
+    "station": {
+      "address": {
+        "city": "Dubí",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Krále Jana",
+        "latitude": 50.7280678,
+        "longitude": 13.7668611,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Parkoviště",
+        "url": ""
+      },
+      "customID": "180655",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R543"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R543"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/img_4111.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R543 - Dubí - ČS Fill Cínovec - 1",
+      "visible": true
+    }
+  },
+  "180656": {
+    "name": "R544 - Dubí - ČS Fill Cínovec - 2",
+    "sha1": "dd70989607ab14af07f5d9f44edfd55866e46f1d",
+    "station": {
+      "address": {
+        "city": "Dubí",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Krále Jana",
+        "latitude": 50.7280678,
+        "longitude": 13.7668611,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Parkoviště",
+        "url": ""
+      },
+      "customID": "180656",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R544"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R544"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/img_4111.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R544 - Dubí - ČS Fill Cínovec - 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
