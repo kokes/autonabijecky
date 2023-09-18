@@ -26,7 +26,7 @@ def pre():
         # hmmm, tady se budou přepisovat přes sebe, protože PRE má víc nabíječek na jednom místě
         # v různých klíčích, ale se stejným csId... ale já to chci mít per místo
         el["csId"]: {
-            "name": el["csName"],
+            "name": el["csName"] if el["csName"] else el["enCsname"],
             "sha1": hashlib.sha1(json.dumps(el).encode()).hexdigest(),
             "station": el,
         }
