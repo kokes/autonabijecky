@@ -8,10 +8,15 @@ tdir = "stanice"
 HTTP_TIMEOUT = 30
 
 # "csStatus": "under_construction"... resolve?
+# curl 'https://chargepre.smatrics.com/cs/map/pois?operator%5B%5D=home-1a31db5e3f98e1f68bca6fa182e6375c' \
+#   -H 'referer: https://chargepre.smatrics.com/cs/' \
+#   -H 'user-agent: ' \
+#   --compressed
 def pre():
     url = "https://chargepre.smatrics.com/cs/map/pois?operator%5B%5D=home-1a31db5e3f98e1f68bca6fa182e6375c"
     req = Request(url)
     req.add_header("Referer", "https://chargepre.smatrics.com/cs/")
+    req.add_header("user-agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36")
     with urlopen(req, timeout=HTTP_TIMEOUT) as r:
         raw = json.load(r)
 
@@ -78,6 +83,7 @@ if __name__ == "__main__":
     total = 0
 
     for func in funcs:
+        logging.info("Stahuji %s", func.__name__)
         tfn = os.path.join(tdir, func.__name__ + ".json")
         existing = dict()
         if os.path.isfile(tfn):
