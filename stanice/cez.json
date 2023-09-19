@@ -13445,79 +13445,6 @@
       "visible": true
     }
   },
-  "161604": {
-    "name": "R428 - Plzeň - OC Olympia Plzeň - 9",
-    "sha1": "5019d8c926f362a9b59c4a95704f7f6f39eb6c6b",
-    "station": {
-      "address": {
-        "city": "Plzeň",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "972/1",
-        "latitude": 49.7018022,
-        "longitude": 13.4278747,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Písecká",
-        "url": ""
-      },
-      "customID": "161604",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-4821-027",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R428"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-4821-027",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-4821-027",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R428"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R428 - Plzeň - OC Olympia Plzeň - 9",
-      "visible": true
-    }
-  },
   "161612": {
     "name": "R427 - Plzeň - OC Olympia Plzeň - 8",
     "sha1": "47c6d5d60ade58416f704ef99d641e7f416e2b06",
@@ -13885,7 +13812,7 @@
   },
   "161618": {
     "name": "R444 - Uherské Hradiště - Kaufland",
-    "sha1": "bf87178a96ab293edc25567e77e95276b77df5a3",
+    "sha1": "d75cb864c77765616f819e975279791cb928d188",
     "station": {
       "address": {
         "city": "Uherské Hradiště",
@@ -13948,7 +13875,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/4-20230918-154153.jpg"
         }
       ],
       "instructions": null,
@@ -14678,20 +14605,20 @@
     }
   },
   "161687": {
-    "name": "R431 - Benešov - Kaufland",
-    "sha1": "5c8541ccb9a54547c3c1dab442a03b1d1d06f8cc",
+    "name": "R522 - Luby",
+    "sha1": "54b8025011c5040569355fc0b57778d35a149bc5",
     "station": {
       "address": {
-        "city": "Benešov",
+        "city": "Luby",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "Vršky 2217",
-        "latitude": 49.7936656,
-        "longitude": 14.6824458,
+        "houseNumber": "5. května",
+        "latitude": 50.2539692,
+        "longitude": 12.406336,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "Červené",
+        "street": "Náměstí",
         "url": ""
       },
       "customID": "161687",
@@ -14706,7 +14633,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "T54-HU1-4821-029",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -14714,13 +14641,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "R431"
+          "physicalReference": "R522"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T54-HU1-4821-029",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -14729,7 +14656,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "T54-HU1-4821-029",
+              "chargePointIdentity": "",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -14737,16 +14664,16 @@
               "voltage": null
             }
           ],
-          "physicalReference": "R431"
+          "physicalReference": "R522"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/img_20220414_130922.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_1374.jpeg"
         }
       ],
       "instructions": null,
-      "name": "R431 - Benešov - Kaufland",
+      "name": "R522 - Luby",
       "visible": true
     }
   },
@@ -16591,79 +16518,6 @@
       ],
       "instructions": null,
       "name": "UR109 - Šlovice směr Rozvadov - Benzina 4",
-      "visible": true
-    }
-  },
-  "164991": {
-    "name": "R429 - Plzeň - OC Olympia Plzeň - 10",
-    "sha1": "47130842ef4782041efbe51770939d4df8114c5a",
-    "station": {
-      "address": {
-        "city": "Plzeň",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "972/1",
-        "latitude": 49.7018022,
-        "longitude": 13.4278747,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Písecká",
-        "url": ""
-      },
-      "customID": "164991",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-3721-019",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R429"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3721-019",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3721-019",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R429"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R429 - Plzeň - OC Olympia Plzeň - 10",
       "visible": true
     }
   },
@@ -26184,6 +26038,1238 @@
       ],
       "instructions": null,
       "name": "R544 - Dubí - ČS Fill Cínovec - 2",
+      "visible": true
+    }
+  },
+  "181886": {
+    "name": "R140 - Praha 9 - Vysočany - Auto Poly",
+    "sha1": "b286003b6782af15d8e58bdd70f0c94de0c5670b",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Harfou 904/1",
+        "latitude": 50.10403,
+        "longitude": 14.5041181,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pod",
+        "url": ""
+      },
+      "customID": "181886",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R140"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R140"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_4579.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R140 - Praha 9 - Vysočany - Auto Poly",
+      "visible": true
+    }
+  },
+  "181889": {
+    "name": "R569 - Litoměřice - Kaufland - 1",
+    "sha1": "93bd53f848e543ae35c205fb0048304faf504ec5",
+    "station": {
+      "address": {
+        "city": "Litoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kocandě 2201/35",
+        "latitude": 50.5359426,
+        "longitude": 14.1465463,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Na",
+        "url": ""
+      },
+      "customID": "181889",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R569"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R569"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_3036.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R569 - Litoměřice - Kaufland - 1",
+      "visible": true
+    }
+  },
+  "181890": {
+    "name": "R570 - Litoměřice - Kaufland - 2",
+    "sha1": "02e6a666dee4a3640522a71530140f6317cf7309",
+    "station": {
+      "address": {
+        "city": "Litoměřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kocandě 2201/35",
+        "latitude": 50.5359426,
+        "longitude": 14.1465463,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Na",
+        "url": ""
+      },
+      "customID": "181890",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R570"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R570"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_3036.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R570 - Litoměřice - Kaufland - 2",
+      "visible": true
+    }
+  },
+  "181891": {
+    "name": "R574 - Roudnice nad Labem - Kaufland - 2",
+    "sha1": "ef4f4155cae2d674a960398801ada0dd955d5980",
+    "station": {
+      "address": {
+        "city": "Roudnice nad Labem",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "17. listopadu 2720",
+        "latitude": 50.424594,
+        "longitude": 14.2367563,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Alej",
+        "url": ""
+      },
+      "customID": "181891",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R574"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R574"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/1-20230918-161700.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R574 - Roudnice nad Labem - Kaufland - 2",
+      "visible": true
+    }
+  },
+  "181892": {
+    "name": "R571 - Liberec - Frýdlantská - 1",
+    "sha1": "ab589e174b4321f52434958083c859c983973255",
+    "station": {
+      "address": {
+        "city": "Liberec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "- parkoviště Rybářská",
+        "latitude": 50.7717047,
+        "longitude": 15.055225,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Frýdlantská",
+        "url": ""
+      },
+      "customID": "181892",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R571"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R571"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_4445.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R571 - Liberec - Frýdlantská - 1",
+      "visible": true
+    }
+  },
+  "181893": {
+    "name": "R575 - Kadaň - Kaufland",
+    "sha1": "d0d69d056d5427edb1d91d1d097ff567e458fc1d",
+    "station": {
+      "address": {
+        "city": "Kadaň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Průtahu 1960",
+        "latitude": 50.3831472,
+        "longitude": 13.2747867,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Na",
+        "url": ""
+      },
+      "customID": "181893",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R575"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R575"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img_1433.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R575 - Kadaň - Kaufland",
+      "visible": true
+    }
+  },
+  "181894": {
+    "name": "R579 - Sokolov - Kaufland",
+    "sha1": "357a699f04499b7ca2c9ae16b008caa596c7c47f",
+    "station": {
+      "address": {
+        "city": "Sokolov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Havlíčka Borovského 2087",
+        "latitude": 50.1764547,
+        "longitude": 12.6763906,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Karla",
+        "url": ""
+      },
+      "customID": "181894",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R579"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R579"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/1-20220803-125509.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R579 - Sokolov - Kaufland",
+      "visible": true
+    }
+  },
+  "181895": {
+    "name": "R578 - Kopřivnice - Kaufland - 2",
+    "sha1": "f59b4796eb2d47f6a61bd228857130a276a61be0",
+    "station": {
+      "address": {
+        "city": "Kopřivnice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1410/18d",
+        "latitude": 49.6008541,
+        "longitude": 18.1490845,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Štefánikova",
+        "url": ""
+      },
+      "customID": "181895",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R578"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R578"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220526-wa0002.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R578 - Kopřivnice - Kaufland - 2",
+      "visible": true
+    }
+  },
+  "181905": {
+    "name": "R553 - Praha 4 Chodov - Burger King - 1",
+    "sha1": "48ca844780cedca6e01c506915faa86a808ab06f",
+    "station": {
+      "address": {
+        "city": "Praha 4",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Stojanu 2422/2",
+        "latitude": 50.0404764,
+        "longitude": 14.4889261,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "U",
+        "url": ""
+      },
+      "customID": "181905",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R553"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R553"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/4-20230918-154153.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R553 - Praha 4 Chodov - Burger King - 1",
+      "visible": true
+    }
+  },
+  "181906": {
+    "name": "R554 - Praha 4 Chodov - Burger King - 2",
+    "sha1": "f5fa03f92f3309c3257e62d717d02fb7e8ab4c4c",
+    "station": {
+      "address": {
+        "city": "Praha 4",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Stojanu 2422/2",
+        "latitude": 50.0404764,
+        "longitude": 14.4889261,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "U",
+        "url": ""
+      },
+      "customID": "181906",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R554"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R554"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/4-20230918-154153.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R554 - Praha 4 Chodov - Burger King - 2",
+      "visible": true
+    }
+  },
+  "181907": {
+    "name": "R541 - Opava - Benzina",
+    "sha1": "ffa13eacc816c513b8efb770381a18a1b04bbde9",
+    "station": {
+      "address": {
+        "city": "Opava",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.92752,
+        "longitude": 17.89882,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Hradecká",
+        "url": ""
+      },
+      "customID": "181907",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R541"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R541"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/2-20230918-154814.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R541 - Opava - Benzina",
+      "visible": true
+    }
+  },
+  "181908": {
+    "name": "UR123 - Zlín - Samohýl Mercedes Benz - 3",
+    "sha1": "02b7605a9efaf5ce05e05c04bac6d078230ed595",
+    "station": {
+      "address": {
+        "city": "Zlín - Prštné",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Tomáše Bati 532",
+        "latitude": 49.2174,
+        "longitude": 17.629315,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "tř.",
+        "url": ""
+      },
+      "customID": "181908",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR123"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 120,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR123"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_0046.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR123 - Zlín - Samohýl Mercedes Benz - 3",
+      "visible": true
+    }
+  },
+  "181909": {
+    "name": "R524 - Jablonec nad Jizerou - Auto Belda",
+    "sha1": "d0756c65311b0b646943a62d2088b5c51ddc1a71",
+    "station": {
+      "address": {
+        "city": "Jablonec nad Jizerou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "nad Jizerou 800",
+        "latitude": 50.699763,
+        "longitude": 15.4341906,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jablonec",
+        "url": ""
+      },
+      "customID": "181909",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R524"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R524"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/227f435f-1128-46aa-bb5e-794313cc2d0f.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R524 - Jablonec nad Jizerou - Auto Belda",
+      "visible": true
+    }
+  },
+  "181910": {
+    "name": "R573 - Roudnice nad Labem - Kaufland - 1",
+    "sha1": "f395372c25e1addf15500b071c2bc38b153b0b88",
+    "station": {
+      "address": {
+        "city": "Roudnice nad Labem",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "17. listopadu 2720",
+        "latitude": 50.424594,
+        "longitude": 14.2367563,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Alej",
+        "url": ""
+      },
+      "customID": "181910",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R573"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R573"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/1-20230918-161700.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R573 - Roudnice nad Labem - Kaufland - 1",
+      "visible": true
+    }
+  },
+  "181911": {
+    "name": "R572 - Liberec - Frýdlantská - 2",
+    "sha1": "3aa9fbcc9cbc565d58c3f5eb16a610ee73ab98aa",
+    "station": {
+      "address": {
+        "city": "Liberec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "- parkoviště Rybářská",
+        "latitude": 50.7717047,
+        "longitude": 15.055225,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Frýdlantská",
+        "url": ""
+      },
+      "customID": "181911",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R572"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R572"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_4445.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R572 - Liberec - Frýdlantská - 2",
+      "visible": true
+    }
+  },
+  "181912": {
+    "name": "R576 - Židenice - Kaufland",
+    "sha1": "cf4c603fc5803a6a92869bc17893da7982670b06",
+    "station": {
+      "address": {
+        "city": "Židenice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "4405/1",
+        "latitude": 49.2022533,
+        "longitude": 16.6363196,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Bubeníčkova",
+        "url": ""
+      },
+      "customID": "181912",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R576"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R576"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/1642061639181.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R576 - Židenice - Kaufland",
+      "visible": true
+    }
+  },
+  "181913": {
+    "name": "R577 - Kopřivnice - Kaufland - 1",
+    "sha1": "2edb3532cd55c54f11f182742e6a0e8a4e3258df",
+    "station": {
+      "address": {
+        "city": "Kopřivnice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1410/18d",
+        "latitude": 49.6008541,
+        "longitude": 18.1490845,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Štefánikova",
+        "url": ""
+      },
+      "customID": "181913",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R577"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R577"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/1-20220803-125526.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R577 - Kopřivnice - Kaufland - 1",
       "visible": true
     }
   },
@@ -40999,8 +42085,8 @@
     }
   },
   "92966": {
-    "name": "R267 - Zlín - Samohýl Mercedes Benz - 2",
-    "sha1": "d9a0285a326aef54eec8880ef66ecba89379494a",
+    "name": "UR123 - Zlín - Samohýl Mercedes Benz - 3",
+    "sha1": "5d300b09d16465ac946e9111c8cab5a05d671488",
     "station": {
       "address": {
         "city": "Zlín - Prštné",
@@ -41026,48 +42112,39 @@
         {
           "connectors": [
             {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-0820-004 ",
+              "amperage": null,
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
             }
           ],
-          "physicalReference": "R267"
+          "physicalReference": "UR123"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T54-HU1-0820-004 ",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-0820-004 ",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
+              "powerOutput": 120,
               "standard": "CCS_COMBO",
               "voltage": null
             }
           ],
-          "physicalReference": "R267"
+          "physicalReference": "UR123"
         }
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/07/zlin01_li-20200718-210951.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_0053.jpeg"
         }
       ],
       "instructions": null,
-      "name": "R267 - Zlín - Samohýl Mercedes Benz - 2",
+      "name": "UR123 - Zlín - Samohýl Mercedes Benz - 3",
       "visible": true
     }
   },
