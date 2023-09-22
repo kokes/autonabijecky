@@ -7979,7 +7979,7 @@
   },
   "177268": {
     "name": "(P) Fabrika hotel Humpolec DC",
-    "sha1": "f829f06d6637100de91c194bc483344692a6aa80",
+    "sha1": "042fddd282b4881b7c9270acf9bcbdd68f5cee19",
     "station": {
       "address": "Školní 511",
       "city": "Humpolec",
@@ -8004,16 +8004,13 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-04-06T07:14:58.82Z",
+              "last_updated": "2023-09-21T22:02:17.003Z",
               "max_amperage": 125,
-              "max_electric_power": 150000,
+              "max_electric_power": 100000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": [
-                "242",
-                "243"
-              ]
+              "tariff_ids": []
             }
           ],
           "coordinates": {
@@ -10493,10 +10490,10 @@
   },
   "206836": {
     "name": "E.ON Kaufland Praha Hloubětín",
-    "sha1": "9253bd8057cdf6aa77d63b9c7fdce2dfaa7f89e9",
+    "sha1": "f71b1174eb9dc77ba0a235ab57288970213ffece",
     "station": {
-      "address": "Kolbenova, Praha 14",
-      "city": "Praha",
+      "address": "Kolbenova 1141/35",
+      "city": "Praha 9",
       "coordinates": {
         "latitude": "50.1090525",
         "longitude": "14.54497421"

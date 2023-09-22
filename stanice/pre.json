@@ -6809,9 +6809,9 @@
   },
   "CZ1003270": {
     "name": "TS 3115 Ledvinova",
-    "sha1": "f1bc07ee282cc8a3ebe7194ddce314e475a4b27c",
+    "sha1": "b0af38e82b97834557ebb90dc2597e404b6a6a56",
     "station": {
-      "additionalInfo": "Bei der Transformatorenstation TS 3115\r\nDie Ladestation befindet sich auf dem kostenpflichtigen Parkplatz.",
+      "additionalInfo": "Bei der Transformatorenstation TS 3115\nDie Ladestation befindet sich auf dem kostenpflichtigen Parkplatz.",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -6825,7 +6825,7 @@
       "csName": "TS 3115 Ledvinova",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the transformation station TS 3115\r\nCharging station is located at paid parking area. The entrance is possible by using the help button.",
+      "enAdditionalInfo": "By the transformation station TS 3115\nCharging station is located at paid parking area. The entrance is possible by using the help button.",
       "enCsname": "TS 3115 Ledvinova",
       "evseId": "CZ*PRE*E1S8104*2",
       "geoCoord": {
