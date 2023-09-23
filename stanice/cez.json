@@ -15236,7 +15236,7 @@
   },
   "163176": {
     "name": "R460 - Kolín - OC Futurum Kolín - 1",
-    "sha1": "ed80915f47aecc12d6927c619f5181ba54c3ac5c",
+    "sha1": "fceae366bfc24a13c77cbe40c49dd21a411a7239",
     "station": {
       "address": {
         "city": "Kolín",
@@ -15299,7 +15299,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img_1433.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_4755.jpeg"
         }
       ],
       "instructions": null,
@@ -26407,8 +26407,8 @@
     }
   },
   "181893": {
-    "name": "R575 - Kadaň - Kaufland",
-    "sha1": "d0d69d056d5427edb1d91d1d097ff567e458fc1d",
+    "name": "R575 - Kadaň - Kaufland - 1",
+    "sha1": "d9a569031d3f81afb83337fa4a58eed03eea38bc",
     "station": {
       "address": {
         "city": "Kadaň",
@@ -26471,17 +26471,17 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img_1433.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_4755.jpeg"
         }
       ],
       "instructions": null,
-      "name": "R575 - Kadaň - Kaufland",
+      "name": "R575 - Kadaň - Kaufland - 1",
       "visible": true
     }
   },
   "181894": {
     "name": "R579 - Sokolov - Kaufland",
-    "sha1": "357a699f04499b7ca2c9ae16b008caa596c7c47f",
+    "sha1": "81c084d6d0a2de73246cd3aa7fc9e22c720112ce",
     "station": {
       "address": {
         "city": "Sokolov",
@@ -26544,7 +26544,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/1-20220803-125509.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_4755.jpeg"
         }
       ],
       "instructions": null,
@@ -27270,6 +27270,143 @@
       ],
       "instructions": null,
       "name": "R577 - Kopřivnice - Kaufland - 1",
+      "visible": true
+    }
+  },
+  "182014": {
+    "name": "R592 - Kadaň - Kaufland - 2",
+    "sha1": "d90d1007416b8c1efd4e9c0896279c99c7a8fa53",
+    "station": {
+      "address": {
+        "city": "Kadaň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Průtahu 1960",
+        "latitude": 50.3831472,
+        "longitude": 13.2747867,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Na",
+        "url": ""
+      },
+      "customID": "182014",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R592"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R592"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_4755.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R592 - Kadaň - Kaufland - 2",
+      "visible": true
+    }
+  },
+  "182019": {
+    "name": "UR122 - Jilemnice - Čerpací stanice GBO",
+    "sha1": "beea551ef0b796542a875e278477232f68a9c14b",
+    "station": {
+      "address": {
+        "city": "Jilemnice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.6214499,
+        "longitude": 15.5146453,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Vrchlabská",
+        "url": ""
+      },
+      "customID": "182019",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 130,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR122"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 130,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR122"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/a62c39c1-91d0-4cfa-a557-f67b1afdc56c.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR122 - Jilemnice - Čerpací stanice GBO",
       "visible": true
     }
   },
