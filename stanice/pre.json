@@ -18747,7 +18747,7 @@
   },
   "CZ8142276": {
     "name": "Corso Court Karlín",
-    "sha1": "6bb0246fd72e80dc4a4841ee5a399c65a4872f8c",
+    "sha1": "2a565f1ad80c01c74c852c67f522fb8a1ef4f127",
     "station": {
       "branch": "Unbekannt",
       "chargingFacilities": {
@@ -18770,6 +18770,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/650029437444ab2795ebed3b/1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/650029437444ab2795ebed3b/2.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -19833,9 +19845,9 @@
   },
   "CZ8526290": {
     "name": "Benzina Strakonická",
-    "sha1": "106ce6f17458ab4f2870c2ee24f2726bb7755376",
+    "sha1": "55f2288980fd35f28a931479e89736aae5d201bb",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"

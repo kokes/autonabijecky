@@ -17458,7 +17458,7 @@
   },
   "33214": {
     "name": "E.ON ČS MOL Vyškov UFC",
-    "sha1": "9052b6c2a9535551d592be63e70cf323180ec380",
+    "sha1": "7e17872391cdd2563e1d66d5b372adac19587eba",
     "station": {
       "address": "Priprava",
       "city": "Priprava",
@@ -17534,6 +17534,69 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "214901"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-09-26T22:01:57.873Z",
+              "max_amperage": 125,
+              "max_electric_power": 175000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144",
+                "186",
+                "187",
+                "211",
+                "213"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-09-26T22:01:57.873Z",
+              "max_amperage": 125,
+              "max_electric_power": 175000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144",
+                "186",
+                "187",
+                "211",
+                "213"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.28144801",
+            "longitude": "17.019908"
+          },
+          "evse_id": "CZ*UFC*E11214902*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "214902"
         },
         {
           "capabilities": [
