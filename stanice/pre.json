@@ -17800,13 +17800,13 @@
   },
   "CZ8002602": {
     "name": "Mercedes Ostrava",
-    "sha1": "92dff201725cb360be7ce8495a31b5f6a909ea28",
+    "sha1": "9096edf5b6b0b8ab0a7c787495ab23e683104b32",
     "station": {
       "additionalInfo": "Parkplatz AVION SP Ostrava.",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤50kW"
+          "DC Charging ≤150kW"
         ]
       },
       "city": "Ostrava",
@@ -17818,7 +17818,7 @@
       "csType": "",
       "enAdditionalInfo": "Parking AVION SP Ostrava.",
       "enCsname": "Mercedes Ostrava",
-      "evseId": "CZ*PRE*E1R0007*3",
+      "evseId": "CZ*PRE*E1R0007*2",
       "geoCoord": {
         "latitude": "49.806038",
         "longitude": "18.268409"
@@ -22729,9 +22729,10 @@
   },
   "CZ9853734": {
     "name": "ZOO Praha",
-    "sha1": "e636de82d5a4b590a1fa69c52fcf6ceb9dae3d00",
+    "sha1": "7739876f05449ea82ddd6171201aa17305c3a46a",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "ZOO poplatek za parkování 300 Kč/den",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -22744,6 +22745,7 @@
       "csName": "",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "ZOO parking fee 300 CZK/day",
       "enCsname": "ZOO Praha",
       "evseId": "CZ*PRE*E1S8239*8",
       "geoCoord": {
