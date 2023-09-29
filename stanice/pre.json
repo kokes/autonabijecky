@@ -14504,7 +14504,7 @@
   },
   "CZ4102792": {
     "name": "Hotel Agricola",
-    "sha1": "599692bbf7f798ccdb3524da7dc00e68c05f60f1",
+    "sha1": "5920a020e6101a6f9fc965ecb0b00e0ca35ff3c8",
     "station": {
       "additionalInfo": "In der Garage des Hotels",
       "branch": "Hotel",
@@ -14518,7 +14518,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ4102792",
       "csName": "Hotel Agricola",
-      "csStatus": "operable",
+      "csStatus": "under_construction",
       "csType": "",
       "enAdditionalInfo": "In the garages of the hotel",
       "enCsname": "Hotel Agricola",
@@ -17800,9 +17800,9 @@
   },
   "CZ8002602": {
     "name": "Mercedes Ostrava",
-    "sha1": "9096edf5b6b0b8ab0a7c787495ab23e683104b32",
+    "sha1": "8d179baee2eb8fcbb85b7dff4a643505ced44254",
     "station": {
-      "additionalInfo": "Parkplatz AVION SP Ostrava.",
+      "additionalInfo": "Parking at the car dealership Centrum Moravia",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -17816,7 +17816,7 @@
       "csName": "Mercedes Ostrava",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Parking AVION SP Ostrava.",
+      "enAdditionalInfo": "Parking at the car dealership Centrum Moravia",
       "enCsname": "Mercedes Ostrava",
       "evseId": "CZ*PRE*E1R0007*2",
       "geoCoord": {
@@ -19194,6 +19194,50 @@
       "postalCode": "18100",
       "region": "Hlavní město Praha",
       "street": "Gdaňská"
+    }
+  },
+  "CZ8280333": {
+    "name": "Hornbach Hradec Králové",
+    "sha1": "5edf52798e28f87af34de116105231899d6604da",
+    "station": {
+      "additionalInfo": "Parkování na parkovišti Hornbach",
+      "branch": "Unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Hradec Králové",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8280333",
+      "csName": "",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "Hornbach hobby market parking lots",
+      "enCsname": "Hornbach Hradec Králové",
+      "evseId": "CZ*PRE*E1R5036*2",
+      "geoCoord": {
+        "latitude": "50.181501",
+        "longitude": "15.800631"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "500 02",
+      "region": "Královéhradecký kraj",
+      "street": "Rovná"
     }
   },
   "CZ8306733": {
@@ -22627,6 +22671,48 @@
       "postalCode": "15500",
       "region": "Hlavní město Praha",
       "street": "Vlachova 87"
+    }
+  },
+  "CZ9786594": {
+    "name": "Automechanika HQ",
+    "sha1": "90d0f68773eea6905d9b4c4201edba4cc9844f12",
+    "station": {
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤16A"
+        ]
+      },
+      "city": "Kralice na Hané",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9786594",
+      "csName": "",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Automechanika HQ",
+      "evseId": "CZ*PRE*E1S8257*1",
+      "geoCoord": {
+        "latitude": "49.468394",
+        "longitude": "17.149773"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "798 12",
+      "region": "Olomoucký kraj",
+      "street": "Háj 365"
     }
   },
   "CZ9828596": {
