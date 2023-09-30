@@ -26627,7 +26627,7 @@
   },
   "181905": {
     "name": "R553 - Praha 4 Chodov - Burger King - 1",
-    "sha1": "48ca844780cedca6e01c506915faa86a808ab06f",
+    "sha1": "89dbc120d24a128690546f7485b953f83aae1bb1",
     "station": {
       "address": {
         "city": "Praha 4",
@@ -26653,13 +26653,13 @@
         {
           "connectors": [
             {
-              "amperage": 32,
+              "amperage": null,
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": null,
+              "powerOutput": 22,
               "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
+              "voltage": null
             }
           ],
           "physicalReference": "R553"
@@ -26700,7 +26700,7 @@
   },
   "181906": {
     "name": "R554 - Praha 4 Chodov - Burger King - 2",
-    "sha1": "f5fa03f92f3309c3257e62d717d02fb7e8ab4c4c",
+    "sha1": "91a0b3693d839ca9cf2e479947864b022eb6346e",
     "station": {
       "address": {
         "city": "Praha 4",
@@ -26726,13 +26726,13 @@
         {
           "connectors": [
             {
-              "amperage": 32,
+              "amperage": null,
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": null,
+              "powerOutput": 22,
               "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
+              "voltage": null
             }
           ],
           "physicalReference": "R554"
@@ -27274,8 +27274,8 @@
     }
   },
   "182014": {
-    "name": "R592 - Kadaň - Kaufland - 2",
-    "sha1": "d90d1007416b8c1efd4e9c0896279c99c7a8fa53",
+    "name": "R592 - Kadaň - Kaufland",
+    "sha1": "2203ceaaa9ddf7cdbb840e97ce0fdc7b5d1a6077",
     "station": {
       "address": {
         "city": "Kadaň",
@@ -27342,13 +27342,13 @@
         }
       ],
       "instructions": null,
-      "name": "R592 - Kadaň - Kaufland - 2",
+      "name": "R592 - Kadaň - Kaufland",
       "visible": true
     }
   },
   "182019": {
-    "name": "UR122 - Jilemnice - Čerpací stanice GBO",
-    "sha1": "beea551ef0b796542a875e278477232f68a9c14b",
+    "name": "UR122 - Jilemnice - GBO čerpací stanice",
+    "sha1": "269166d9f66a837325893ec6bbe3c4ac23963263",
     "station": {
       "address": {
         "city": "Jilemnice",
@@ -27406,7 +27406,290 @@
         }
       ],
       "instructions": null,
-      "name": "UR122 - Jilemnice - Čerpací stanice GBO",
+      "name": "UR122 - Jilemnice - GBO čerpací stanice",
+      "visible": true
+    }
+  },
+  "182307": {
+    "name": "UR124 - Pec pod Sněžkou - KM PRONA",
+    "sha1": "f0515b70aee933697949a055659e4bf8d303bb6f",
+    "station": {
+      "address": {
+        "city": "Pec pod Sněžkou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Úpa 330",
+        "latitude": 50.6933117,
+        "longitude": 15.7466844,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Velká",
+        "url": ""
+      },
+      "customID": "182307",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 165,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR124"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 165,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR124"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/afd18f6b-cfc7-4d21-9787-a3c40b6cc42c.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR124 - Pec pod Sněžkou - KM PRONA",
+      "visible": true
+    }
+  },
+  "182309": {
+    "name": "R590 - Chomutov - Hotel Arena - 1",
+    "sha1": "11f78dbf61323684889a546b76cc0f0c3c3ad34b",
+    "station": {
+      "address": {
+        "city": "Chomutov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "5900",
+        "latitude": 50.4689928,
+        "longitude": 13.4277833,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Mostecká",
+        "url": ""
+      },
+      "customID": "182309",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R590"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R590"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_4715.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R590 - Chomutov - Hotel Arena - 1",
+      "visible": true
+    }
+  },
+  "182310": {
+    "name": "R591 - Chomutov - Hotel Arena - 2",
+    "sha1": "dc501ce6827193d29c32ab0c28c7ee5ccb7daa14",
+    "station": {
+      "address": {
+        "city": "Chomutov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "5900",
+        "latitude": 50.4689928,
+        "longitude": 13.4277833,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Mostecká",
+        "url": ""
+      },
+      "customID": "182310",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R591"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R591"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_4715.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R591 - Chomutov - Hotel Arena - 2",
+      "visible": true
+    }
+  },
+  "182311": {
+    "name": "R589 - Chomutov - Kaufland",
+    "sha1": "d5963da36a39337235424560a5988f35d9d08b06",
+    "station": {
+      "address": {
+        "city": "Chomutov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "5894",
+        "latitude": 50.4648228,
+        "longitude": 13.4209764,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Mostecká",
+        "url": ""
+      },
+      "customID": "182311",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R589"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R589"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_4743.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R589 - Chomutov - Kaufland",
       "visible": true
     }
   },
