@@ -19198,7 +19198,7 @@
   },
   "CZ8280333": {
     "name": "Hornbach Hradec Králové",
-    "sha1": "5edf52798e28f87af34de116105231899d6604da",
+    "sha1": "5ae92cf55423bb994eb13e04e1ae1aa935236974",
     "station": {
       "additionalInfo": "Parkování na parkovišti Hornbach",
       "branch": "Unbekannt",
@@ -19223,6 +19223,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6513e7e598e4b100b8d2e49c/2.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6513e7e598e4b100b8d2e49c/1.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
