@@ -16395,7 +16395,7 @@
   },
   "164316": {
     "name": "UR107 - Unčovice - McDonald´s - 4",
-    "sha1": "915b95db62f0460dd85ffb310293543a974e2549",
+    "sha1": "163248134f301e91efb38c3f6deeaf09da3ff811",
     "station": {
       "address": {
         "city": "Litovel",
@@ -16425,7 +16425,7 @@
               "chargePointIdentity": "CHARGER E1 CCS",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 225,
+              "powerOutput": 300,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -16439,7 +16439,7 @@
               "chargePointIdentity": "CHARGER E1 CCS",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 225,
+              "powerOutput": 300,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -16459,7 +16459,7 @@
   },
   "164990": {
     "name": "UR109 - Šlovice směr Rozvadov - Benzina 4",
-    "sha1": "e15098ee8203196e597cda9aa13750bec02fc841",
+    "sha1": "55de9a8b55f28c0a3d701430f3fe7c1a8186264b",
     "station": {
       "address": {
         "city": "Dobřany - Šlovice 321 00",
@@ -16489,7 +16489,7 @@
               "chargePointIdentity": "HYC_300_21BZ2986B",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 150,
+              "powerOutput": 300,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -16503,7 +16503,7 @@
               "chargePointIdentity": "HYC_300_21BZ2986B",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 150,
+              "powerOutput": 300,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -21492,7 +21492,7 @@
   },
   "174594": {
     "name": "UR115 - Mladá Boleslav - OC Olympia - 7",
-    "sha1": "3a4e2f08e2bb14a79516a97550096b8b5bf74437",
+    "sha1": "e0c491fa831c897992fb158af3c98cb5a8a13e62",
     "station": {
       "address": {
         "city": "Mladá Boleslav",
@@ -21522,7 +21522,7 @@
               "chargePointIdentity": "T365-IT1-4022-121",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 50,
+              "powerOutput": 360,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -21536,7 +21536,7 @@
               "chargePointIdentity": "T365-IT1-4022-121",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 50,
+              "powerOutput": 360,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -27690,6 +27690,79 @@
       ],
       "instructions": null,
       "name": "R589 - Chomutov - Kaufland",
+      "visible": true
+    }
+  },
+  "182393": {
+    "name": "R267 - Zlín - Samohýl Mercedes Benz - 2",
+    "sha1": "a4eca687d3ef16f5db0dbd5085e824da8def2172",
+    "station": {
+      "address": {
+        "city": "Zlín - Prštné",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Tomáše Bati 532",
+        "latitude": 49.217508,
+        "longitude": 17.629315,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "tř.",
+        "url": ""
+      },
+      "customID": "182393",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R267"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R267"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2020/07/zlin01_li.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R267 - Zlín - Samohýl Mercedes Benz - 2",
       "visible": true
     }
   },
@@ -42501,70 +42574,6 @@
       ],
       "instructions": null,
       "name": "R266 - Zlín - Samohýl Mercedes Benz - 1",
-      "visible": true
-    }
-  },
-  "92966": {
-    "name": "UR123 - Zlín - Samohýl Mercedes Benz - 3",
-    "sha1": "5d300b09d16465ac946e9111c8cab5a05d671488",
-    "station": {
-      "address": {
-        "city": "Zlín - Prštné",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "Tomáše Bati 532",
-        "latitude": 49.2174,
-        "longitude": 17.629315,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "tř.",
-        "url": ""
-      },
-      "customID": "92966",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 180,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "UR123"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 120,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "UR123"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_0053.jpeg"
-        }
-      ],
-      "instructions": null,
-      "name": "UR123 - Zlín - Samohýl Mercedes Benz - 3",
       "visible": true
     }
   },
