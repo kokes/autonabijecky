@@ -12014,7 +12014,7 @@
   },
   "157925": {
     "name": "R406 - Lipník nad Bečvou",
-    "sha1": "84980f4867ab00fd72269ce6e1d774c68899e1f8",
+    "sha1": "cf480c16d9ebd543fb4cd966bacf387b57f978c0",
     "station": {
       "address": {
         "city": "Lipník nad Bečvou",
@@ -12077,7 +12077,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/12/3-20221227-164114.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
         }
       ],
       "instructions": null,
@@ -26554,7 +26554,7 @@
   },
   "181895": {
     "name": "R578 - Kopřivnice - Kaufland - 2",
-    "sha1": "f59b4796eb2d47f6a61bd228857130a276a61be0",
+    "sha1": "19a2f23af1fbcdd6228df553f595bdad4541d154",
     "station": {
       "address": {
         "city": "Kopřivnice",
@@ -26617,7 +26617,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220526-wa0002.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/img_4743-20231003-093122.jpeg"
         }
       ],
       "instructions": null,
@@ -27202,7 +27202,7 @@
   },
   "181913": {
     "name": "R577 - Kopřivnice - Kaufland - 1",
-    "sha1": "2edb3532cd55c54f11f182742e6a0e8a4e3258df",
+    "sha1": "323d67e897777e624152569a4cb166e40ff427c9",
     "station": {
       "address": {
         "city": "Kopřivnice",
@@ -27265,7 +27265,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/1-20220803-125526.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/img_4743.jpeg"
         }
       ],
       "instructions": null,
@@ -27763,6 +27763,152 @@
       ],
       "instructions": null,
       "name": "R267 - Zlín - Samohýl Mercedes Benz - 2",
+      "visible": true
+    }
+  },
+  "182457": {
+    "name": "UR126 - Plzeň - OC Olympia Plzeň - 10",
+    "sha1": "0ed450c38ee2139078dbb9cb98003fd235288997",
+    "station": {
+      "address": {
+        "city": "Plzeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "972/1",
+        "latitude": 49.7018022,
+        "longitude": 13.4278747,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Písecká",
+        "url": ""
+      },
+      "customID": "182457",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR126"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR126"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR126 - Plzeň - OC Olympia Plzeň - 10",
+      "visible": true
+    }
+  },
+  "182491": {
+    "name": "UR125 - Plzeň - OC Olympia Plzeň - 9",
+    "sha1": "0b1f98b4ec0a97ed29a453dbf47a0e170e868060",
+    "station": {
+      "address": {
+        "city": "Plzeň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "972/1",
+        "latitude": 49.7018022,
+        "longitude": 13.4278747,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Písecká",
+        "url": ""
+      },
+      "customID": "182491",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR125"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR125"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR125 - Plzeň - OC Olympia Plzeň - 9",
       "visible": true
     }
   },
@@ -36597,79 +36743,6 @@
       ],
       "instructions": null,
       "name": "R163 - Praha - Evropská - McDonald's 1",
-      "visible": true
-    }
-  },
-  "59566": {
-    "name": "R169 - Karviná - Kaufland",
-    "sha1": "9100dc81ca8a181f1860d2fb23c4c569db28f055",
-    "station": {
-      "address": {
-        "city": "Karviná",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "2015/2",
-        "latitude": 49.86288,
-        "longitude": 18.55305,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Leonovova",
-        "url": ""
-      },
-      "customID": "59566",
-      "description": [
-        {
-          "language": "cs",
-          "text": "UPOZORNĚNÍ PRO ZÁKAZNÍKY: DOBÍJENÍ ZDARMA NEPLATÍ PRO ZÁKAZNÍKY PARTNERSKÝCH POSKYTOVATELŮ SLUŽBY DOBÍJENÍ TZV.ROAMINGOVÉ ZÁKAZNÍKY, KTERÝM CENY URČUJÍ JEJICH POSKYTOVATELÉ SLUŽBY DOBÍJENÍ."
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-IT1-3318-006 ",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R169"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-IT1-3318-006 ",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-IT1-3318-006 ",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R169"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/urds-karvina.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R169 - Karviná - Kaufland",
       "visible": true
     }
   },
