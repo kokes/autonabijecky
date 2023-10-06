@@ -9175,7 +9175,7 @@
   },
   "CZ1003596": {
     "name": "Tenis Nad Hliníkem",
-    "sha1": "c078b5d2d9d3a8330969f94e1050b5c5d11582b8",
+    "sha1": "f2479b6f62a0175021541e03d12f8a6b37019bae",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -9193,8 +9193,8 @@
       "enCsname": "Tenis Nad Hliníkem",
       "evseId": "CZ*PRE*E1S8073*2",
       "geoCoord": {
-        "latitude": "50.064145",
-        "longitude": "14.347467"
+        "latitude": "50.064165",
+        "longitude": "14.347487"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -9756,7 +9756,7 @@
   },
   "CZ1004445": {
     "name": "TS 5047 Rakovského",
-    "sha1": "acda8a303655d2448d4e4255cf2171109830f427",
+    "sha1": "31c44d044c53fc07f5ef7207b029a24ca0fc73b7",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -9774,8 +9774,8 @@
       "enCsname": "TS 5047 Rakovského",
       "evseId": "CZ*PRE*E1S8138*1",
       "geoCoord": {
-        "latitude": "50.043640",
-        "longitude": "14.422600"
+        "latitude": "50.009893",
+        "longitude": "14.423855"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -10586,7 +10586,7 @@
   },
   "CZ1004473": {
     "name": "Národní 1",
-    "sha1": "417a5b9ed9c49053993d916391ea47ab843c9de3",
+    "sha1": "e16433640e62645f27bb2e0c710d7f7c6a01a0fd",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -10604,8 +10604,8 @@
       "enCsname": "Národní 1",
       "evseId": "CZ*PRE*E1S8217*2",
       "geoCoord": {
-        "latitude": "50.082720",
-        "longitude": "14.420630"
+        "latitude": "50.082755",
+        "longitude": "14.421242"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -10628,7 +10628,7 @@
   },
   "CZ1004481": {
     "name": "Norma Přátelství",
-    "sha1": "66d861c450cecd48763c920d3ac1c4be7888e696",
+    "sha1": "0b904aaacf9765211232d422f5a58fe09bbcc34e",
     "station": {
       "branch": "Lebensmitteleinzelhandel",
       "chargingFacilities": {
@@ -10647,8 +10647,8 @@
       "enCsname": "Norma Přátelství",
       "evseId": "CZ*PRE*E1S8065*2",
       "geoCoord": {
-        "latitude": "50.032800",
-        "longitude": "14.596900"
+        "latitude": "50.032732",
+        "longitude": "14.596820"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -10762,7 +10762,7 @@
   },
   "CZ1004502": {
     "name": "Městská knihovna v Praze Modřany",
-    "sha1": "0c33035876d43b453282037b040c59b45d4f7ce4",
+    "sha1": "2aaf874af5285563f194ad92a34b427228147fb8",
     "station": {
       "additionalInfo": "Neben der öffentlichen Bibliothek",
       "branch": "Parken",
@@ -10782,8 +10782,8 @@
       "enCsname": "Městská knihovna v Praze Modřany",
       "evseId": "CZ*PRE*E1S8161*2",
       "geoCoord": {
-        "latitude": "50.005800",
-        "longitude": "14.435500"
+        "latitude": "50.005555",
+        "longitude": "14.434779"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -10813,7 +10813,7 @@
   },
   "CZ1004503": {
     "name": "Gymnázium Jana Keplera",
-    "sha1": "6a849001972a9da48a512dc17dbf746fa0617019",
+    "sha1": "3683a27fb46516c3891158785f99e3c177e43db9",
     "station": {
       "additionalInfo": "Neben dem Gymnasium",
       "branch": "unbekannt",
@@ -10833,8 +10833,8 @@
       "enCsname": "Gymnázium Jana Keplera",
       "evseId": "CZ*PRE*E1S8158*2",
       "geoCoord": {
-        "latitude": "50.087700",
-        "longitude": "14.387400"
+        "latitude": "50.087609",
+        "longitude": "14.386561"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -10857,7 +10857,7 @@
   },
   "CZ1004504": {
     "name": "Stadion Slávie - parkoviště",
-    "sha1": "aad860907041ed05038810c19f0cf2db1bbe1f74",
+    "sha1": "4d6263e2813093a5bdf451f26d811be549ac47d4",
     "station": {
       "additionalInfo": "Next to the stadium",
       "branch": "Parken",
@@ -10879,8 +10879,8 @@
       "evseId": "CZ*PRE*E1S8150*2",
       "extra": "Auf einem Privatgrundstück, Parken 30min kostenlos",
       "geoCoord": {
-        "latitude": "50.068100",
-        "longitude": "14.476300"
+        "latitude": "50.068129",
+        "longitude": "14.475999"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -11113,7 +11113,7 @@
   },
   "CZ1004592": {
     "name": "Churchill Square",
-    "sha1": "0f16e64f953a6f8709db3cb26a73d8aa3737efd9",
+    "sha1": "705c02189d47177f02e10a5cb3555d58889e93fe",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -11131,8 +11131,8 @@
       "enCsname": "Churchill Square",
       "evseId": "CZ*PRE*E1S8176*2",
       "geoCoord": {
-        "latitude": "50.084000",
-        "longitude": "14.439700"
+        "latitude": "50.084440",
+        "longitude": "14.439629"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -11162,7 +11162,7 @@
   },
   "CZ1004603": {
     "name": "OREA Pyramida II",
-    "sha1": "ff80ea0a6636545890b158556089b085274d6988",
+    "sha1": "6f9d1c68e7fda6f194dd3490d8a60aa49885baae",
     "station": {
       "branch": "Hotel",
       "chargingFacilities": {
@@ -11182,8 +11182,8 @@
       "evseId": "CZ*PRE*E1S8163*2",
       "extra": "Free of charge for hotel customers, otherwise a parking fee 50CZK/h or 400CZK/day",
       "geoCoord": {
-        "latitude": "50.085800",
-        "longitude": "14.380200"
+        "latitude": "50.086185",
+        "longitude": "14.379745"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -18801,9 +18801,9 @@
   },
   "CZ8154428": {
     "name": "Žižkovo náměstí",
-    "sha1": "52dbca6793d4b7ec802dc00ef04ab8becdaaedee",
+    "sha1": "e64430a246304414a352dab0e00f038fc05782ee",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -18819,8 +18819,8 @@
       "enCsname": "Žižkovo náměstí",
       "evseId": "CZ*PRE*E1S8235*2",
       "geoCoord": {
-        "latitude": "50.081006",
-        "longitude": "14.455603"
+        "latitude": "50.081571",
+        "longitude": "14.455326"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -19450,9 +19450,9 @@
   },
   "CZ8378464": {
     "name": "Koupaliště Šutka",
-    "sha1": "5016306847bb7f059b1697a7801437c6895d7a81",
+    "sha1": "a1c27c20ce7d734f795edd521bd723771de4732f",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -19468,8 +19468,8 @@
       "enCsname": "Koupaliště Šutka",
       "evseId": "CZ*PRE*E1S8254*2",
       "geoCoord": {
-        "latitude": "50.126116",
-        "longitude": "14.436379"
+        "latitude": "50.126450",
+        "longitude": "14.437305"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -19992,9 +19992,9 @@
   },
   "CZ8625571": {
     "name": "TS 3037 Tererova",
-    "sha1": "2e96459025a857674aea31e6a5db0c554cf8ab48",
+    "sha1": "74065a8a3f69a098c10e94673e0415f95ef14e65",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -20010,8 +20010,8 @@
       "enCsname": "TS 3037 Tererova",
       "evseId": "CZ*PRE*E1S8193*1",
       "geoCoord": {
-        "latitude": "50.024086",
-        "longitude": "14.520538"
+        "latitude": "50.024014",
+        "longitude": "14.520760"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -20142,9 +20142,9 @@
   },
   "CZ8736457": {
     "name": "ZŠ a MŠ Smolkova",
-    "sha1": "ad84ebc5e3943bcbbc2ac2c95194da8fe45e998c",
+    "sha1": "371df58fed8d4f77aa3a58d573735bf964718097",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -20160,8 +20160,8 @@
       "enCsname": "ZŠ a MŠ Smolkova",
       "evseId": "CZ*PRE*E1S8220*2",
       "geoCoord": {
-        "latitude": "50.008315",
-        "longitude": "14.455377"
+        "latitude": "50.008667",
+        "longitude": "14.449535"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -20527,9 +20527,9 @@
   },
   "CZ8975285": {
     "name": "Squashpark Cibulka",
-    "sha1": "e534115712c989927eb5171aa583c79963fb1580",
+    "sha1": "33326a240ce7a6287356e81e404011d7917f2850",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -20545,8 +20545,8 @@
       "enCsname": "Squashpark Cibulka",
       "evseId": "CZ*PRE*E1S8252*2",
       "geoCoord": {
-        "latitude": "50.066031",
-        "longitude": "14.367240"
+        "latitude": "50.066254",
+        "longitude": "14.366257"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -21540,9 +21540,9 @@
   },
   "CZ9193999": {
     "name": "Kunínova",
-    "sha1": "7d42c7ae9932dff1039e076d047977848cb3f676",
+    "sha1": "846b11f6d2c1fd4540a7d6f396a075b378d702ff",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -21558,8 +21558,8 @@
       "enCsname": "Kunínova",
       "evseId": "CZ*PRE*E1S8255*2",
       "geoCoord": {
-        "latitude": "50.036747",
-        "longitude": "14.500072"
+        "latitude": "50.037534",
+        "longitude": "14.499908"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -21722,9 +21722,9 @@
   },
   "CZ9297279": {
     "name": "TS 2981 Stehlíkova",
-    "sha1": "2b81d9bf0284cc37ceceb2df940924ffe680dca5",
+    "sha1": "0b8dfa478220e41976f8e113182d83ca25c765be",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -21740,8 +21740,8 @@
       "enCsname": "TS 2981 Stehlíkova",
       "evseId": "CZ*PRE*E1S8207*1",
       "geoCoord": {
-        "latitude": "50.140948",
-        "longitude": "14.375077"
+        "latitude": "50.134434",
+        "longitude": "14.375720"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -21820,7 +21820,7 @@
   },
   "CZ9354989": {
     "name": "Fakulta Humanitních studií Univerzity Karlovy",
-    "sha1": "90f0f7d6924064e9ca90180a422f1115fd7c95e3",
+    "sha1": "4673ef8364688b67f6bdf10d1d824cedc5455226",
     "station": {
       "branch": "Parking",
       "chargingFacilities": {
@@ -21838,8 +21838,8 @@
       "enCsname": "Fakulta Humanitních studií Univerzity Karlovy",
       "evseId": "CZ*PRE*E1S8162*2",
       "geoCoord": {
-        "latitude": "50.054161",
-        "longitude": "14.368817"
+        "latitude": "50.054183",
+        "longitude": "14.367940"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -22638,9 +22638,9 @@
   },
   "CZ9770201": {
     "name": "TS 4457 Vlachova",
-    "sha1": "e3bdd29a57dc2a6fd9aaed25fe2cd7039f26b958",
+    "sha1": "f977fb70bca28465451e4a0ffaf5284cd95a8e4f",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -22656,8 +22656,8 @@
       "enCsname": "TS 4457 Vlachova",
       "evseId": "CZ*PRE*E1S8196*1",
       "geoCoord": {
-        "latitude": "50.047451",
-        "longitude": "14.309041"
+        "latitude": "50.049246",
+        "longitude": "14.309688"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -22981,9 +22981,9 @@
   },
   "CZ9967287": {
     "name": "Újezd Zborovská",
-    "sha1": "4d642659787b2f717c48ea39b26f88c57070b124",
+    "sha1": "6e2548720bc189dd2b556f50014c4c50e77c263d",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -22999,8 +22999,8 @@
       "enCsname": "Újezd Zborovská",
       "evseId": "CZ*PRE*E1S8229*2",
       "geoCoord": {
-        "latitude": "50.081038",
-        "longitude": "14.407295"
+        "latitude": "50.080529",
+        "longitude": "14.406873"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
