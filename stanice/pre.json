@@ -53,50 +53,6 @@
       "street": "Oddechová"
     }
   },
-  "CZ1002102": {
-    "name": "[TEST] PRE",
-    "sha1": "4d1b1698e98d3a383cc3957797c0a57a89a05b26",
-    "station": {
-      "branch": "TEST",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
-        ]
-      },
-      "city": "Prag",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ1002102",
-      "csName": "[TEST] PRE",
-      "csStatus": "operable",
-      "csType": "",
-      "enCsname": "[TEST] PRE",
-      "enExtra": "PRE Test charging station",
-      "evseId": "CZ*PRE*EPRE0002*2",
-      "extra": "PRE Testladestation",
-      "geoCoord": {
-        "latitude": "50.069259",
-        "longitude": "14.481055"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "isHome": true,
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "isRoaming": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "connectorFormat": "Socket",
-          "connectorStandard": "IEC-62196-T2",
-          "plug": "Type 2 Outlet"
-        }
-      ],
-      "postalCode": "10000",
-      "region": "Hlavní město Praha",
-      "street": "Na Hroudě 1492/4"
-    }
-  },
   "CZ1002593": {
     "name": "Hotel Diplomat",
     "sha1": "4b17a5bb8929f9e581db3b6b7cf4b9a30b751b9f",
@@ -10586,7 +10542,7 @@
   },
   "CZ1004473": {
     "name": "Národní 1",
-    "sha1": "e16433640e62645f27bb2e0c710d7f7c6a01a0fd",
+    "sha1": "5130adc20f17a1b93a742a3e43764edd10aa8ffe",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -10602,7 +10558,7 @@
       "csStatus": "operable",
       "csType": "",
       "enCsname": "Národní 1",
-      "evseId": "CZ*PRE*E1S8217*2",
+      "evseId": "CZ*PRE*E1S8154*2",
       "geoCoord": {
         "latitude": "50.082755",
         "longitude": "14.421242"
@@ -15942,7 +15898,7 @@
   },
   "CZ5204415": {
     "name": "Orea Špindlerův Mlýn",
-    "sha1": "d96c367fb6ef78f59650bff76a1f81c5ff9dae17",
+    "sha1": "83497adc14061db32e480258de903111986da289",
     "station": {
       "branch": "Hotel",
       "chargingFacilities": {
@@ -15965,6 +15921,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365355f4b8a750ff79a95e/1.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -19047,6 +19010,57 @@
       "postalCode": "14200",
       "region": "Hlavní město Praha",
       "street": "Novodvorská 1947/82"
+    }
+  },
+  "CZ8229367": {
+    "name": "Parkoviště u Prioru",
+    "sha1": "1d9ae2b318561df34a447cfa76e766111b8640ac",
+    "station": {
+      "additionalInfo": "Prior parking lots",
+      "branch": "unbekannt",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8229367",
+      "csName": "Parkoviště u Prioru",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "Prior parking lots",
+      "enCsname": "Parkoviště u Prioru",
+      "evseId": "CZ*PRE*E1S8217*2",
+      "geoCoord": {
+        "latitude": "50.005163",
+        "longitude": "14.418642"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/647de78ae1bbcd128fce3016/imgonline-com-ua-resize-kAUJkvzEOiaa.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "143 00",
+      "region": "Hlavní město Praha",
+      "street": "Gen. Šišky"
     }
   },
   "CZ8234794": {
@@ -22687,9 +22701,9 @@
   },
   "CZ9786594": {
     "name": "Automechanika HQ",
-    "sha1": "90d0f68773eea6905d9b4c4201edba4cc9844f12",
+    "sha1": "cca482b8468feb7e6a0652b0ba5e08ca022b5d74",
     "station": {
-      "branch": "unbekannt",
+      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤16A"
