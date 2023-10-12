@@ -4037,14 +4037,14 @@
     }
   },
   "127586": {
-    "name": "E.ON Nýřany",
-    "sha1": "479839b3360eea95704b34964a789f7947a66fdb",
+    "name": "E.ON Paráda Hodonín",
+    "sha1": "3b8696f81d310245b22998c39d132b5bef8690e3",
     "station": {
-      "address": "U Mexika",
-      "city": "Nýřany",
+      "address": "Krátká 4225/4",
+      "city": "Hodonín",
       "coordinates": {
-        "latitude": "49.70737092",
-        "longitude": "13.22626157"
+        "latitude": "48.85240699",
+        "longitude": "17.11705779"
       },
       "country": "CZE",
       "country_code": "CZ",
@@ -4059,12 +4059,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-10-11T19:02:31.17Z",
+              "max_amperage": 125,
+              "max_electric_power": 90000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212",
+                "2",
+                "5"
+              ]
+            }
+          ],
           "coordinates": {
-            "latitude": "49.70737092",
-            "longitude": "13.22626157"
+            "latitude": "48.85240699",
+            "longitude": "17.11705779"
           },
-          "evse_id": "CZ*EON*E127586",
+          "evse_id": "CZ*UFC*E98127586*1",
           "last_seen_as_planned": "2022-04-08T12:46:56.023Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -4077,12 +4100,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-10-11T19:02:31.17Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "210",
+                "212",
+                "184",
+                "185",
+                "141",
+                "142",
+                "60",
+                "63"
+              ]
+            }
+          ],
           "coordinates": {
-            "latitude": "49.70737092",
-            "longitude": "13.22626157"
+            "latitude": "48.85240699",
+            "longitude": "17.11705779"
           },
-          "evse_id": "CZ*EON*E127587",
+          "evse_id": "CZ*UFC*E98127586*2",
           "last_seen_as_planned": "2022-04-08T12:46:56.023Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -4095,21 +4141,47 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-10-11T19:02:31.17Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209",
+                "1",
+                "4"
+              ]
+            }
+          ],
           "coordinates": {
-            "latitude": "49.70737092",
-            "longitude": "13.22626157"
+            "latitude": "48.85240699",
+            "longitude": "17.11705779"
           },
-          "evse_id": "CZ*EON*E127588",
+          "evse_id": "CZ*UFC*E98127586*3",
           "last_seen_as_planned": "2022-04-08T12:46:56.023Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "127588"
         }
       ],
+      "facilities": [
+        "MALL"
+      ],
       "id": "127586",
       "last_updated": "RESET",
-      "name": "E.ON Nýřany",
+      "name": "E.ON Paráda Hodonín",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -4121,7 +4193,6 @@
       },
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
-      "postal_code": "330 23",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
@@ -10259,7 +10330,7 @@
   },
   "206830": {
     "name": "E.ON Kaufland Kolín",
-    "sha1": "f6289c94074b0b7734f0a5c5a88c9e7c1d194ba9",
+    "sha1": "fdcd4718509d6cc9502c024ab60b3f8a1c936daa",
     "station": {
       "address": "Benešova 1000",
       "city": "Kolín",
@@ -10284,13 +10355,16 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-06-16T11:05:02.857Z",
+              "last_updated": "2023-10-11T06:13:05.627Z",
               "max_amperage": 125,
               "max_electric_power": 75000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": []
+              "tariff_ids": [
+                "295",
+                "298"
+              ]
             }
           ],
           "coordinates": {
@@ -10314,24 +10388,30 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2023-06-20T22:01:46.423Z",
+              "last_updated": "2023-10-11T06:10:01.263Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
-              "tariff_ids": []
+              "tariff_ids": [
+                "294",
+                "297"
+              ]
             },
             {
               "format": "SOCKET",
               "id": "3",
-              "last_updated": "2023-06-18T22:01:53.02Z",
+              "last_updated": "2023-10-11T06:10:01.263Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
-              "tariff_ids": []
+              "tariff_ids": [
+                "294",
+                "297"
+              ]
             }
           ],
           "coordinates": {
@@ -10368,7 +10448,7 @@
   },
   "206833": {
     "name": "E.ON Kaufland Jablonec nad Nisou",
-    "sha1": "f74b2494ce0425c5744ad1aed96b82bcb827573a",
+    "sha1": "8840711bb240acfc8ad40c89324a99e67d160184",
     "station": {
       "address": "U Kostela 4754/37",
       "city": "Jablonec nad Nisou",
@@ -10400,16 +10480,8 @@
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "218",
-                "215",
-                "191",
-                "190",
-                "148",
-                "147",
-                "69",
-                "66",
-                "8",
-                "11"
+                "295",
+                "298"
               ]
             }
           ],
@@ -10441,16 +10513,8 @@
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
               "tariff_ids": [
-                "7",
-                "10",
-                "65",
-                "68",
-                "145",
-                "146",
-                "188",
-                "189",
-                "214",
-                "217"
+                "294",
+                "297"
               ]
             }
           ],
@@ -10472,25 +10536,22 @@
       "last_updated": "RESET",
       "name": "E.ON Kaufland Jablonec nad Nisou",
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "E.ON Drive Infrastructure, s.r.o."
       },
       "owner": {
-        "name": "E.ON Energie, a.s."
+        "name": "E.ON Drive Infrastructure, s.r.o."
       },
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "466 04 ",
       "publish": true,
       "state": "Česká republika",
-      "suboperator": {
-        "name": "E.ON Energie, a.s."
-      },
       "time_zone": "Europe/Prague"
     }
   },
   "206836": {
     "name": "E.ON Kaufland Praha Hloubětín",
-    "sha1": "f71b1174eb9dc77ba0a235ab57288970213ffece",
+    "sha1": "06819fd9ade7f90101d3097cca128f2c78d6633f",
     "station": {
       "address": "Kolbenova 1141/35",
       "city": "Praha 9",
@@ -10515,13 +10576,16 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-09-01T07:15:03.823Z",
+              "last_updated": "2023-10-11T06:13:05.627Z",
               "max_amperage": 125,
               "max_electric_power": 75000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": []
+              "tariff_ids": [
+                "295",
+                "298"
+              ]
             }
           ],
           "coordinates": {
@@ -10545,13 +10609,16 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2023-09-01T07:15:03.823Z",
+              "last_updated": "2023-10-11T06:10:01.263Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
-              "tariff_ids": []
+              "tariff_ids": [
+                "294",
+                "297"
+              ]
             }
           ],
           "coordinates": {
@@ -11446,7 +11513,7 @@
   },
   "215883": {
     "name": "E.ON Kaufland Šternberk",
-    "sha1": "610c82db3de05f04cfcc5123af19879b680c37b1",
+    "sha1": "e549e36d25245f4ade0f43172d7edea80e7e167e",
     "station": {
       "address": "Průmyslová 2699/1",
       "city": "Šternberk",
@@ -11478,16 +11545,8 @@
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "218",
-                "215",
-                "191",
-                "190",
-                "148",
-                "147",
-                "69",
-                "66",
-                "8",
-                "11"
+                "295",
+                "298"
               ]
             }
           ],
@@ -11519,16 +11578,8 @@
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "8",
-                "11",
-                "66",
-                "69",
-                "147",
-                "148",
-                "190",
-                "191",
-                "215",
-                "218"
+                "295",
+                "298"
               ]
             }
           ],
@@ -11550,18 +11601,15 @@
       "last_updated": "RESET",
       "name": "E.ON Kaufland Šternberk",
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "E.ON Drive Infrastructure, s.r.o."
       },
       "owner": {
-        "name": "E.ON Energie, a.s."
+        "name": "E.ON Drive Infrastructure, s.r.o."
       },
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "publish": true,
       "state": "Česká republika",
-      "suboperator": {
-        "name": "E.ON Energie, a.s."
-      },
       "time_zone": "Europe/Prague"
     }
   },
