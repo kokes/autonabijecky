@@ -24652,7 +24652,7 @@
   },
   "42076": {
     "name": "E.ON Lovosice",
-    "sha1": "380b9741459504c5335241c476cea33fb0494b5c",
+    "sha1": "983f6060a7b40485d3ed4b689fbb3092e0c9fb2d",
     "station": {
       "address": "Siřejovická",
       "city": "Lovosice",
@@ -24666,6 +24666,88 @@
         "is_green_energy": true
       },
       "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-10-12T22:02:08.553Z",
+              "max_amperage": 125,
+              "max_electric_power": 400000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144",
+                "186",
+                "187",
+                "211",
+                "213"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.5046",
+            "longitude": "14.051669"
+          },
+          "evse_id": "CZ*UFC*E32214895*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "214895"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-10-12T22:02:08.553Z",
+              "max_amperage": 125,
+              "max_electric_power": 400000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144",
+                "186",
+                "187",
+                "211",
+                "213"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.5046",
+            "longitude": "14.051669"
+          },
+          "evse_id": "CZ*UFC*E32214895*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "214896"
+        },
         {
           "capabilities": [
             "CONTACTLESS_CARD_SUPPORT",
