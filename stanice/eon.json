@@ -11613,6 +11613,118 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "217234": {
+    "name": "(P) Hotel Vinice Hnanice",
+    "sha1": "b667c70cdcbdc6000da3964ee3430a0cb7dfaa72",
+    "station": {
+      "address": "Hnanice 132",
+      "city": "Hnanice",
+      "coordinates": {
+        "latitude": "48.8046811",
+        "longitude": "15.9812222"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-10-13T12:44:52.427Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "300",
+                "301"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.8046811",
+            "longitude": "15.9812222"
+          },
+          "evse_id": "CZ*EON*E22184125*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "184125"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-10-13T12:44:52.427Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "300",
+                "301"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.8046811",
+            "longitude": "15.9812222"
+          },
+          "evse_id": "CZ*EON*E22184126*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "184126"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "SPORT",
+        "NATURE",
+        "PARKING_LOT"
+      ],
+      "id": "217234",
+      "last_updated": "RESET",
+      "name": "(P) Hotel Vinice Hnanice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "VINICE - HNÁNICE s.r.o."
+      },
+      "owner": {
+        "name": "VINICE - HNÁNICE s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "218167": {
     "name": "(P) AUTO DOBROVOLNÝ V.M. s.r.o. - ŠKODA Jihlava",
     "sha1": "ceb4e8e7f4fede5e4f49ef907641677d7f63fd15",
@@ -12140,6 +12252,115 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "33701",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "229483": {
+    "name": "(P) Horácké autodružstvo",
+    "sha1": "0d97425b792aa44d581e81ba63843b0d4badc09c",
+    "station": {
+      "address": "Brněnská 123",
+      "city": "Třebíč",
+      "coordinates": {
+        "latitude": "49.2150767",
+        "longitude": "15.9115725"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-10-13T14:01:01.56Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "302",
+                "303"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.2150767",
+            "longitude": "15.9115725"
+          },
+          "evse_id": "CZ*EON*E219078",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "219078"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-10-13T14:01:01.56Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "302",
+                "303"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.2150767",
+            "longitude": "15.9115725"
+          },
+          "evse_id": "CZ*EON*E219079",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "219079"
+        }
+      ],
+      "facilities": [
+        "BUS_STOP",
+        "PARKING_LOT",
+        "FUEL_STATION",
+        "WIFI"
+      ],
+      "id": "229483",
+      "last_updated": "RESET",
+      "name": "(P) Horácké autodružstvo",
+      "operator": {
+        "name": "Horácké autodružstvo"
+      },
+      "owner": {
+        "name": "Horácké autodružstvo"
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "674 01",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
