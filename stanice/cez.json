@@ -14460,7 +14460,7 @@
   },
   "161635": {
     "name": "R445 - Ostrava - RELY servis HYUNDAI",
-    "sha1": "54d1258b43e795011102dd9f980aaf283755b3ce",
+    "sha1": "42f34b6846d06b5c6b4f9f41d4d9654f0a24ec2c",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -14523,7 +14523,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/06/img_1772.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/2bb889b7-b78c-404f-a41b-6c4692aa23b5.jpg"
         }
       ],
       "instructions": null,
@@ -19022,7 +19022,7 @@
   },
   "169608": {
     "name": "UR116 - Praha - McDonald´s Kbelská",
-    "sha1": "f443fdc85021d513ab23cb384c4a5e3aff3c1cee",
+    "sha1": "ff6e9416cc5083d6ffaa83b157e85252dac02f4c",
     "station": {
       "address": {
         "city": "Praha 9",
@@ -19052,7 +19052,7 @@
               "chargePointIdentity": "HYC_300_21BZ1700B",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 220,
+              "powerOutput": 300,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -19066,7 +19066,7 @@
               "chargePointIdentity": "HYC_300_21BZ1700B",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 220,
+              "powerOutput": 300,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -23807,7 +23807,7 @@
   },
   "178292": {
     "name": "UR121 - Hradec Králové - Retail park HK - 1",
-    "sha1": "4a4746cb5942ec321bc8c7ba7c16d9b2cdafda89",
+    "sha1": "c7589a0122c0b9e09f7e04f26b805361410b4a19",
     "station": {
       "address": {
         "city": "Hradec Králové",
@@ -23837,7 +23837,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 200,
+              "powerOutput": 160,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -23851,7 +23851,7 @@
               "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 200,
+              "powerOutput": 160,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -27912,6 +27912,909 @@
       "visible": true
     }
   },
+  "182927": {
+    "name": "N228 - Stochov - Městský úřad",
+    "sha1": "bbb511a59073d393c18bfd4f24bd36acbbf805f7",
+    "station": {
+      "address": {
+        "city": "Stochov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Šípka 486",
+        "latitude": 50.1475669,
+        "longitude": 13.9565064,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jaroslava",
+        "url": ""
+      },
+      "customID": "182927",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N228"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N228"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/img_1978.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N228 - Stochov - Městský úřad",
+      "visible": true
+    }
+  },
+  "183038": {
+    "name": "N238 - Temelín - Jaderná elektrárna - 2",
+    "sha1": "1239465aa4d2e40360d91242cfe272c34d26a031",
+    "station": {
+      "address": {
+        "city": "Temelín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.182015,
+        "longitude": 14.3832092,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Temelín",
+        "url": ""
+      },
+      "customID": "183038",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N238"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N238"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/36034955.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "N238 - Temelín - Jaderná elektrárna - 2",
+      "visible": true
+    }
+  },
+  "183039": {
+    "name": "R567 - Teplice - Kaufland - Bohosudovská - 1",
+    "sha1": "94f94d70207663da212c0a99edff942a90289a2a",
+    "station": {
+      "address": {
+        "city": "Teplice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1882",
+        "latitude": 50.6556494,
+        "longitude": 13.8463339,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Bohosudovská",
+        "url": ""
+      },
+      "customID": "183039",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R567"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R567"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/2bb889b7-b78c-404f-a41b-6c4692aa23b5.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R567 - Teplice - Kaufland - Bohosudovská - 1",
+      "visible": true
+    }
+  },
+  "183040": {
+    "name": "R568 - Teplice - Kaufland - Bohosudovská - 2",
+    "sha1": "b52e2f4069c2b2e19dc9a4f24946c9428f59050d",
+    "station": {
+      "address": {
+        "city": "Teplice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1882",
+        "latitude": 50.6556494,
+        "longitude": 13.8463339,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Bohosudovská",
+        "url": ""
+      },
+      "customID": "183040",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R568"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R568"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/2bb889b7-b78c-404f-a41b-6c4692aa23b5.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R568 - Teplice - Kaufland - Bohosudovská - 2",
+      "visible": true
+    }
+  },
+  "183041": {
+    "name": "WB001 - Kopřivná - Horský hotel Kopřivná - 2",
+    "sha1": "f0e914f7394b5a9aca9d12fa0527a6655de2f7d8",
+    "station": {
+      "address": {
+        "city": "Malá Morávka",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Morávka 288",
+        "latitude": 50.0346522,
+        "longitude": 17.3069858,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Malá",
+        "url": ""
+      },
+      "customID": "183041",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB001"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/75fc1fd3-8928-4d8a-b448-fd4212681142.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB001 - Kopřivná - Horský hotel Kopřivná - 2",
+      "visible": true
+    }
+  },
+  "183042": {
+    "name": "R011 - Bravantice - McDonald´s - 1",
+    "sha1": "03eae5976cc5414be07252505ceb01fe5b2ac23e",
+    "station": {
+      "address": {
+        "city": "Bravantice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "314",
+        "latitude": 49.7541,
+        "longitude": 18.0926,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Bravantice",
+        "url": ""
+      },
+      "customID": "183042",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R011"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R011"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/217805b8-2b7d-43e1-97d1-43cda2e87b93.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R011 - Bravantice - McDonald´s - 1",
+      "visible": true
+    }
+  },
+  "183043": {
+    "name": "R012 - Bravantice - McDonald´s - 2",
+    "sha1": "c29863680eb3c336c7f4b0dedb0c08f64c733c67",
+    "station": {
+      "address": {
+        "city": "Bravantice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "314",
+        "latitude": 49.7541,
+        "longitude": 18.0926,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Bravantice",
+        "url": ""
+      },
+      "customID": "183043",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R012"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R012"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/217805b8-2b7d-43e1-97d1-43cda2e87b93.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R012 - Bravantice - McDonald´s - 2",
+      "visible": true
+    }
+  },
+  "183044": {
+    "name": "WB002 - Příchovice - Skiareál u Čápa - 1",
+    "sha1": "84c2c556e5effe0e4a321cd693207ec9df921c84",
+    "station": {
+      "address": {
+        "city": "Příchovice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1",
+        "latitude": 50.7414636,
+        "longitude": 15.3469617,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Příchovice",
+        "url": ""
+      },
+      "customID": "183044",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB002"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/img_4951.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB002 - Příchovice - Skiareál u Čápa - 1",
+      "visible": true
+    }
+  },
+  "183075": {
+    "name": "R496 - Temelín - Jaderná elektrárna - 1",
+    "sha1": "44070913cfc7a314cd1fee5768d988b3fb2a169a",
+    "station": {
+      "address": {
+        "city": "Temelín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.182015,
+        "longitude": 14.3832092,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Temelín",
+        "url": ""
+      },
+      "customID": "183075",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R496"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R496"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/36034955.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R496 - Temelín - Jaderná elektrárna - 1",
+      "visible": true
+    }
+  },
+  "183076": {
+    "name": "R538 - Brno - Renocar",
+    "sha1": "914039eaa3abff94032f00bfabb16c22e00dcecd",
+    "station": {
+      "address": {
+        "city": "Brno",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "449/109",
+        "latitude": 49.1708417,
+        "longitude": 16.6840969,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Šmahova",
+        "url": ""
+      },
+      "customID": "183076",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R538"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R538"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/9e277517-d7f0-413c-9e06-8a9cd37e96e1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R538 - Brno - Renocar",
+      "visible": true
+    }
+  },
+  "183077": {
+    "name": "N240 - Kopřivná - Horský hotel Kopřivná - 1",
+    "sha1": "f0305031afdbb8535ccc217e87e563d39d4c9a6b",
+    "station": {
+      "address": {
+        "city": "Malá Morávka",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Morávka 288",
+        "latitude": 50.0346522,
+        "longitude": 17.3069858,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Malá",
+        "url": ""
+      },
+      "customID": "183077",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N240"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N240"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/75fc1fd3-8928-4d8a-b448-fd4212681142.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N240 - Kopřivná - Horský hotel Kopřivná - 1",
+      "visible": true
+    }
+  },
+  "183078": {
+    "name": "N241 - Kopřivná - parkoviště Skiareál Kopřivná 1",
+    "sha1": "634f606a37e7181347ac5d8c78ae75e6686fe6fe",
+    "station": {
+      "address": {
+        "city": "Malá Morávka",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Morávka 264",
+        "latitude": 50.0340114,
+        "longitude": 17.3093658,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Malá",
+        "url": ""
+      },
+      "customID": "183078",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N241"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N241"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/4a6f9368-a5f9-4934-8f2e-0bdcc9151017.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N241 - Kopřivná - parkoviště Skiareál Kopřivná 1",
+      "visible": true
+    }
+  },
+  "183079": {
+    "name": "WB003 - Příchovice - Skiareál u Čápa - 2",
+    "sha1": "ef82490f927d77d11c3a5f8bee08a67f489e136a",
+    "station": {
+      "address": {
+        "city": "Příchovice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1",
+        "latitude": 50.7414636,
+        "longitude": 15.3469617,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Příchovice",
+        "url": ""
+      },
+      "customID": "183079",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB003"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/img_4951.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB003 - Příchovice - Skiareál u Čápa - 2",
+      "visible": true
+    }
+  },
+  "183085": {
+    "name": "WB004 - Příchovice - Skiareál u Čápa - 3",
+    "sha1": "c65196c33c60950d30a648e226203bc42a8b09f9",
+    "station": {
+      "address": {
+        "city": "Příchovice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1",
+        "latitude": 50.7414636,
+        "longitude": 15.3469617,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Příchovice",
+        "url": ""
+      },
+      "customID": "183085",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB004"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/img_4951.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB004 - Příchovice - Skiareál u Čápa - 3",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
@@ -30661,79 +31564,6 @@
       "visible": true
     }
   },
-  "59470": {
-    "name": "R141 - Olomouc - Nemilany - 1",
-    "sha1": "19840bb8b1124019184bac0235f31cf1720f6e92",
-    "station": {
-      "address": {
-        "city": "Olomouc",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "novosadská",
-        "latitude": 49.5606,
-        "longitude": 17.2628,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Dolní",
-        "url": ""
-      },
-      "customID": "59470",
-      "description": [
-        {
-          "language": "cs",
-          "text": "Veřejná rychlodobíjecí stanice ABB u dálnice D35 na obchvatu Olomouce."
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T53-IT1-2017-020 ",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R141"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-IT1-2017-020 ",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-IT1-2017-020 ",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R141"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/olo-mala.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R141 - Olomouc - Nemilany - 1",
-      "visible": true
-    }
-  },
   "59471": {
     "name": "N108 - Dvůr Králové - ZOO - 2",
     "sha1": "1fe05f2f529ba31455622f0cb9abcda081667ddd",
@@ -32247,79 +33077,6 @@
       ],
       "instructions": null,
       "name": "R144 - Ostrovačice - Jerex, D1/178. km - 2",
-      "visible": true
-    }
-  },
-  "59499": {
-    "name": "R142 - Olomouc - Nemilany - 2",
-    "sha1": "7780a29192435f8735242ff1c7a2d5260b974dd9",
-    "station": {
-      "address": {
-        "city": "Olomouc",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "novosadská",
-        "latitude": 49.5608,
-        "longitude": 17.2627,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Dolní",
-        "url": ""
-      },
-      "customID": "59499",
-      "description": [
-        {
-          "language": "cs",
-          "text": "Veřejná rychlodobíjecí stanice ABB u dálnice D35 na obchvatu Olomouce."
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T53-IT1-2017-018 ",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R142"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-IT1-2017-018 ",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-IT1-2017-018 ",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R142"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/olo-mala.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R142 - Olomouc - Nemilany - 2",
       "visible": true
     }
   },

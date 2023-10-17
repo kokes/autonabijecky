@@ -12262,7 +12262,7 @@
   },
   "229483": {
     "name": "(P) Horácké autodružstvo",
-    "sha1": "0d97425b792aa44d581e81ba63843b0d4badc09c",
+    "sha1": "b3c46bec0837e9779e5022f9c27505f507405bdc",
     "station": {
       "address": "Brněnská 123",
       "city": "Třebíč",
@@ -12303,7 +12303,7 @@
             "latitude": "49.2150767",
             "longitude": "15.9115725"
           },
-          "evse_id": "CZ*EON*E219078",
+          "evse_id": "CZ*EON*E25219078*1",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -12336,7 +12336,7 @@
             "latitude": "49.2150767",
             "longitude": "15.9115725"
           },
-          "evse_id": "CZ*EON*E219079",
+          "evse_id": "CZ*EON*E25219078*2",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
