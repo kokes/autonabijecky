@@ -6523,7 +6523,7 @@
   },
   "CZ1003239": {
     "name": "ČSOB Výmolova",
-    "sha1": "aa26dcf307e18876db54aa7c46f0846bd7f1f00b",
+    "sha1": "a820c9fc4dcb35324bd5744b816c934362e65f73",
     "station": {
       "additionalInfo": "Dobíjecí stanice je přístupná pouze zákazníkům ČSOB s platným povolením vjezdu",
       "branch": "Parken",
@@ -6540,7 +6540,7 @@
       "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit.",
-      "enCsname": "ČSOB Výmolova",
+      "enCsname": "ČSOB Výmolova HAD",
       "evseId": "CZ*PRE*E0S0003*2",
       "geoCoord": {
         "latitude": "50.056905",
@@ -9420,94 +9420,6 @@
       "street": "Bratří Venclíků 1073/8"
     }
   },
-  "CZ1004377": {
-    "name": "ČSOB Category",
-    "sha1": "42c7c3dbb172a928abe738ae5cd31cbe987135ea",
-    "station": {
-      "additionalInfo": "Die Ladestation ist nur für Kunden der ČSOB mit einer gültigen Einfahrtsgenehmigung zugänglich",
-      "branch": "Parken",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
-        ]
-      },
-      "city": "Praha",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ1004377",
-      "csName": "ČSOB Category",
-      "csStatus": "operable",
-      "csType": "",
-      "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit",
-      "enCsname": "ČSOB Category",
-      "evseId": "CZ*PRE*E0S0017*6",
-      "geoCoord": {
-        "latitude": "50.058817",
-        "longitude": "14.386611"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "isHome": true,
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "isRoaming": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "connectorFormat": "Socket",
-          "connectorStandard": "IEC-62196-T2",
-          "plug": "Type 2 Outlet"
-        }
-      ],
-      "postalCode": "15000",
-      "region": "Hlavní město Praha",
-      "street": "U kostela 333/1"
-    }
-  },
-  "CZ1004378": {
-    "name": "ČSOB NHQ",
-    "sha1": "7130f7d9983ab49b2ab24dc3c585a239c0a9d06f",
-    "station": {
-      "additionalInfo": "Die Ladestation ist nur für Kunden der ČSOB mit einer gültigen Einfahrtsgenehmigung zugänglich",
-      "branch": "Parken",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "DC Charging ≤50kW"
-        ]
-      },
-      "city": "Praha",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ1004378",
-      "csName": "ČSOB NHQ",
-      "csStatus": "operable",
-      "csType": "",
-      "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit",
-      "enCsname": "ČSOB NHQ",
-      "evseId": "CZ*PRE*E0S0019*3",
-      "geoCoord": {
-        "latitude": "50.058684",
-        "longitude": "14.387115"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "isHome": true,
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "isRoaming": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "connectorFormat": "Cable",
-          "connectorStandard": "Chademo",
-          "plug": "CHAdeMO"
-        }
-      ],
-      "postalCode": "15000",
-      "region": "Hlavní město Praha",
-      "street": "U kostela 333/1"
-    }
-  },
   "CZ1004379": {
     "name": "TS 490 Krčmářovská",
     "sha1": "4f62b6a3b360ae20a8ee35f4c9a3ce69902b6492",
@@ -11321,7 +11233,7 @@
   },
   "CZ1004637": {
     "name": "Penny Market Hnězdenská",
-    "sha1": "b35000df6a21f27a846327bb086492fe5a2a2ccd",
+    "sha1": "d09698560f4d67071cca982e1a280513dd31ff5d",
     "station": {
       "branch": "Lebensmitteleinzelhandel",
       "chargingFacilities": {
@@ -11336,6 +11248,7 @@
       "csName": "Penny Market Hnězdenská",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Undergoing reconstruction until the end of 2023",
       "enCsname": "Penny Market Hnězdenská",
       "evseId": "CZ*PRE*E1R0053*3",
       "geoCoord": {
@@ -14229,8 +14142,8 @@
     }
   },
   "CZ3203241": {
-    "name": "ČSOB Plzeň",
-    "sha1": "699249151a3a93ea15c941e5632690912a3e7070",
+    "name": "ČSOB Plzeň HAD",
+    "sha1": "c969f8416f6e2df72f96dd6f293e39bdf94b1cba",
     "station": {
       "additionalInfo": "Dobíjecí stanice je přístupná pouze zákazníkům ČSOB s platným povolením vjezdu",
       "branch": "Parken",
@@ -14243,11 +14156,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ3203241",
-      "csName": "ČSOB Plzeň",
+      "csName": "ČSOB Plzeň HAD",
       "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit",
-      "enCsname": "ČSOB Plzeň",
+      "enCsname": "ČSOB Plzeň HAD",
       "evseId": "CZ*PRE*E0S0026*1",
       "geoCoord": {
         "latitude": "49.742499",
@@ -15853,8 +15766,8 @@
     }
   },
   "CZ5204376": {
-    "name": "ČSOB Hradec Králové",
-    "sha1": "5e3ae7f01b102c6e363d39c58cbeadf286626a2f",
+    "name": "ČSOB Hradec Králové HAD",
+    "sha1": "98479eed55703da408f7d68cf94c82baed53a458",
     "station": {
       "additionalInfo": "Die Ladestation ist nur für Kunden der ČSOB mit einer gültigen Einfahrtsgenehmigung zugänglich",
       "branch": "Parken",
@@ -15867,11 +15780,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ5204376",
-      "csName": "ČSOB Hradec Králové",
+      "csName": "ČSOB Hradec Králové HAD",
       "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit",
-      "enCsname": "ČSOB Hradec Králové",
+      "enCsname": "ČSOB Hradec Králové HAD",
       "evseId": "CZ*PRE*E0S0015*1",
       "geoCoord": {
         "latitude": "50.217014",
@@ -18413,25 +18326,25 @@
     }
   },
   "CZ8003240": {
-    "name": "ČSOB Ostrava",
-    "sha1": "047098ead8e4b20dd871201d857ba7666a005b60",
+    "name": "ČSOB Ostrava HAD",
+    "sha1": "4ae91aa972112403f5399286c064db6d53d4c59b",
     "station": {
       "additionalInfo": "Dobíjecí stanice je přístupná pouze zákazníkům ČSOB s platným povolením vjezdu",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Ostrava",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8003240",
-      "csName": "ČSOB Ostrava",
+      "csName": "ČSOB Ostrava HAD",
       "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit",
-      "enCsname": "ČSOB Ostrava",
+      "enCsname": "ČSOB Ostrava HAD",
       "evseId": "CZ*PRE*E0S0009*2",
       "geoCoord": {
         "latitude": "49.834899",
@@ -21108,15 +21021,14 @@
   },
   "CZ9053605": {
     "name": "TS 1406 Na Dlážděnce",
-    "sha1": "489471f763abe156a6f13b2b5287a57ae45be8e7",
+    "sha1": "610f04183b88bec229c8ca7b564687eaf865eef0",
     "station": {
-      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
         ]
       },
-      "city": "Prag",
+      "city": "Praha",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9053605",
@@ -21150,9 +21062,9 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "18200",
+      "postalCode": "182 00",
       "region": "Hlavní město Praha",
-      "street": "Bulbíkova"
+      "street": "Bublíkova"
     }
   },
   "CZ9076581": {
@@ -21734,6 +21646,48 @@
       "street": "Národní"
     }
   },
+  "CZ9273004": {
+    "name": "SUAS 2",
+    "sha1": "df88f6caa8f3f1edf23ef154cc27bc8409572dc4",
+    "station": {
+      "additionalInfo": "Resort hotel COUNTRY HOUSE",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Tisá",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9273004",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "Resort hotel COUNTRY HOUSE",
+      "enCsname": "SUAS 2",
+      "evseId": "CZ*PRE*E0S0044*2",
+      "geoCoord": {
+        "latitude": "50.785677",
+        "longitude": "14.013733"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "403 36",
+      "region": "Ústecký kraj",
+      "street": "Tisá"
+    }
+  },
   "CZ9297279": {
     "name": "TS 2981 Stehlíkova",
     "sha1": "0b8dfa478220e41976f8e113182d83ca25c765be",
@@ -22039,11 +21993,10 @@
     }
   },
   "CZ9453788": {
-    "name": "ČSOB Pardubice",
-    "sha1": "9eb739adf5022fe6f31ebff97f04001c29eb21dd",
+    "name": "ČSOB Pardubice HAD",
+    "sha1": "727a2450f3fb8598380af48aec1d0963875d82bd",
     "station": {
       "additionalInfo": "Die Ladestation ist nur für Kunden der ČSOB mit einer gültigen Einfahrtsgenehmigung zugänglich.",
-      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -22053,11 +22006,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9453788",
-      "csName": "ČSOB Pardubice",
+      "csName": "ČSOB Pardubice HAD",
       "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "The charging station is accessible only to ČSOB customers with a valid entry permit.",
-      "enCsname": "ČSOB Pardubice",
+      "enCsname": "ČSOB Pardubice HAD",
       "evseId": "CZ*PRE*E0S0047*2",
       "geoCoord": {
         "latitude": "50.037520",
