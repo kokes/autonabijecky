@@ -7,6 +7,7 @@ from urllib.request import urlopen, Request
 tdir = "stanice"
 HTTP_TIMEOUT = 30
 
+
 # "csStatus": "under_construction"... resolve?
 # curl 'https://chargepre.smatrics.com/cs/map/pois?operator%5B%5D=home-1a31db5e3f98e1f68bca6fa182e6375c' \
 #   -H 'referer: https://chargepre.smatrics.com/cs/' \
@@ -16,7 +17,10 @@ def pre():
     url = "https://chargepre.smatrics.com/cs/map/pois?operator%5B%5D=home-1a31db5e3f98e1f68bca6fa182e6375c"
     req = Request(url)
     req.add_header("Referer", "https://chargepre.smatrics.com/cs/")
-    req.add_header("user-agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36")
+    req.add_header(
+        "user-agent",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+    )
     with urlopen(req, timeout=HTTP_TIMEOUT) as r:
         raw = json.load(r)
 
@@ -26,7 +30,7 @@ def pre():
         # hmmm, tady se budou přepisovat přes sebe, protože PRE má víc nabíječek na jednom místě
         # v různých klíčích, ale se stejným csId... ale já to chci mít per místo
         el["csId"]: {
-            "name": el["csName"] if el["csName"] else el["enCsname"],
+            "name": el["csName"] if el.get("csName") else el["enCsname"],
             "sha1": hashlib.sha1(json.dumps(el).encode()).hexdigest(),
             "station": el,
         }
