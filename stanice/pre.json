@@ -18602,6 +18602,46 @@
       "street": "Petržílkova"
     }
   },
+  "CZ8170367": {
+    "name": "Pražačka",
+    "sha1": "525ce5c42bd9574b79983e1a2c923c98265cc27b",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8170367",
+      "csStatus": "operable",
+      "csType": "",
+      "enCsname": "Pražačka",
+      "evseId": "CZ*PRE*E1S0067*2",
+      "geoCoord": {
+        "latitude": "50.093658",
+        "longitude": "14.477473"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "130 00",
+      "region": "Hlavní město Praha",
+      "street": "Kunešova"
+    }
+  },
   "CZ8189567": {
     "name": "Novodvorská 6",
     "sha1": "9b51192c253d46043ff09addf6fbb829ae2ee9aa",
@@ -21139,6 +21179,47 @@
       "postalCode": "14200",
       "region": "Hlavní město Praha",
       "street": "Novodvorská 1947/82"
+    }
+  },
+  "CZ9125942": {
+    "name": "EuroOil Benešov",
+    "sha1": "a4cf10af5d71747dc22ee01471407aba5d3ef846",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Benešov",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9125942",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "Vedle čerpací stanice EuroOil",
+      "enCsname": "EuroOil Benešov",
+      "evseId": "CZ*PRE*E1R0074*2",
+      "geoCoord": {
+        "latitude": "49.780476",
+        "longitude": "14.703307"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "256 01",
+      "region": "Středočeský kraj",
+      "street": "Vlašimská"
     }
   },
   "CZ9162726": {
