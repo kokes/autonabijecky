@@ -11603,7 +11603,7 @@
   },
   "213051": {
     "name": "E.ON Alice Plzeň AC",
-    "sha1": "134b8d4bb79519abadcf14d2cbb33ee9da381a7d",
+    "sha1": "7163e0fb297f3a1b12f23fb176e5cc7da5b3e972",
     "station": {
       "address": "Lábkova 903/38 ",
       "city": "Plzeň 3 ",
@@ -11690,7 +11690,22 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-11-06T23:02:27.393Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "295",
+                "298"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.745664",
             "longitude": "13.3233867"
@@ -11708,7 +11723,22 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-11-06T23:02:27.393Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "295",
+                "298"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.745664",
             "longitude": "13.3233867"

@@ -12014,7 +12014,7 @@
   },
   "157925": {
     "name": "R406 - Lipník nad Bečvou",
-    "sha1": "cf480c16d9ebd543fb4cd966bacf387b57f978c0",
+    "sha1": "88e3fbd3e9eb9db6f01eecde3bad9755d6f6d691",
     "station": {
       "address": {
         "city": "Lipník nad Bečvou",
@@ -12077,7 +12077,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/11/img_2446.jpg"
         }
       ],
       "instructions": null,
@@ -24307,79 +24307,6 @@
       "visible": true
     }
   },
-  "179245": {
-    "name": "R547 - Hradec Králové - OC Futurum - 1",
-    "sha1": "3099adc2abd5844fdd497c7e65fe74eafd9da099",
-    "station": {
-      "address": {
-        "city": "Hradec Králové",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "1825/23A",
-        "latitude": 50.1960432,
-        "longitude": 15.8474567,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Brněnská",
-        "url": ""
-      },
-      "customID": "179245",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R547"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R547"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/07/130e9bc9-9992-45cd-8d38-2c0c8391a8f3.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R547 - Hradec Králové - OC Futurum - 1",
-      "visible": true
-    }
-  },
   "179246": {
     "name": "R534 - Týniště nad Orlicí - Benzina - 1",
     "sha1": "34df15985a0367b576ab5a92876c7a32e87a173a",
@@ -27768,7 +27695,7 @@
   },
   "182457": {
     "name": "UR126 - Plzeň - OC Olympia Plzeň - 10",
-    "sha1": "0ed450c38ee2139078dbb9cb98003fd235288997",
+    "sha1": "e25093dff15d5dbec83ca96e78c74ee0238c00a6",
     "station": {
       "address": {
         "city": "Plzeň",
@@ -27831,7 +27758,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/11/img_2454-20231106-180919.jpg"
         }
       ],
       "instructions": null,
@@ -27841,7 +27768,7 @@
   },
   "182491": {
     "name": "UR125 - Plzeň - OC Olympia Plzeň - 9",
-    "sha1": "0b1f98b4ec0a97ed29a453dbf47a0e170e868060",
+    "sha1": "58cc6ed10525be1d4f7618d0b4d402e72395a32e",
     "station": {
       "address": {
         "city": "Plzeň",
@@ -27904,7 +27831,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/3.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/11/img_2446.jpg"
         }
       ],
       "instructions": null,
@@ -28812,6 +28739,216 @@
       ],
       "instructions": null,
       "name": "WB004 - Příchovice - Skiareál u Čápa - 3",
+      "visible": true
+    }
+  },
+  "184234": {
+    "name": "UR129 - Hradec Králové - OC Futurum - 1",
+    "sha1": "48c331910aef96edcdc720f5c59a3af5cf6fb113",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1825/23A",
+        "latitude": 50.1960432,
+        "longitude": 15.8474567,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Brněnská",
+        "url": ""
+      },
+      "customID": "184234",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR129"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR129"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/07/130e9bc9-9992-45cd-8d38-2c0c8391a8f3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR129 - Hradec Králové - OC Futurum - 1",
+      "visible": true
+    }
+  },
+  "184235": {
+    "name": "UR128 - Olomouc - Nemilany - 2",
+    "sha1": "987d06cfa34eec14ca2f0875f54e962668dd110e",
+    "station": {
+      "address": {
+        "city": "Olomouc",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "novosadská",
+        "latitude": 49.5606,
+        "longitude": 17.2628,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dolní",
+        "url": ""
+      },
+      "customID": "184235",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR128"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR128"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/11/2dab1ac7-a280-4ed4-8873-0ee8b780ba1f.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR128 - Olomouc - Nemilany - 2",
+      "visible": true
+    }
+  },
+  "184258": {
+    "name": "UR127 - Olomouc - Nemilany - 1",
+    "sha1": "2337e0c5051b2981353042c4fb3e89bc41f9a7f8",
+    "station": {
+      "address": {
+        "city": "Olomouc",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "novosadská",
+        "latitude": 49.5606,
+        "longitude": 17.2628,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dolní",
+        "url": ""
+      },
+      "customID": "184258",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR127"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR127"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/11/2dab1ac7-a280-4ed4-8873-0ee8b780ba1f.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR127 - Olomouc - Nemilany - 1",
       "visible": true
     }
   },
