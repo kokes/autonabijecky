@@ -46153,6 +46153,121 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "81662": {
+    "name": "(P) Holice - Holubova",
+    "sha1": "d2259173eb23b855ca027f6d2a9ada621279a708",
+    "station": {
+      "address": "Holubova",
+      "city": "Holice",
+      "coordinates": {
+        "latitude": "50.07154",
+        "longitude": "15.988116"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-11-09T10:15:28.187Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "131",
+                "132"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.07154",
+            "longitude": "15.988116"
+          },
+          "evse_id": "CZ*EON*E31081662*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81662"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-11-09T10:15:28.187Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "131",
+                "132"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.07154",
+            "longitude": "15.988116"
+          },
+          "evse_id": "CZ*EON*E31081662*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "81663"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "SPORT",
+        "RECREATION_AREA",
+        "MUSEUM",
+        "BUS_STOP",
+        "PARKING_LOT",
+        "WIFI"
+      ],
+      "id": "81662",
+      "last_updated": "RESET",
+      "name": "(P) Holice - Holubova",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "RT Investment, s.r.o."
+      },
+      "owner": {
+        "name": "RT Investment, s.r.o."
+      },
+      "party_id": "EON",
+      "postal_code": "534 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "81666": {
     "name": "(P) charge2 s.r.o.",
     "sha1": "fd89663dd674e85650dcfc8bd9ba513bb736df52",
