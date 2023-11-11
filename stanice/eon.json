@@ -11603,7 +11603,7 @@
   },
   "213051": {
     "name": "E.ON Alice Plzeň AC",
-    "sha1": "7163e0fb297f3a1b12f23fb176e5cc7da5b3e972",
+    "sha1": "0c0581573c895a3a61a9c4a44bafb272041ad060",
     "station": {
       "address": "Lábkova 903/38 ",
       "city": "Plzeň 3 ",
@@ -11635,8 +11635,16 @@
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
               "tariff_ids": [
-                "294",
-                "297"
+                "7",
+                "10",
+                "214",
+                "217",
+                "188",
+                "189",
+                "145",
+                "146",
+                "65",
+                "68"
               ]
             }
           ],
@@ -11668,8 +11676,16 @@
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
               "tariff_ids": [
-                "294",
-                "297"
+                "7",
+                "10",
+                "214",
+                "217",
+                "188",
+                "189",
+                "145",
+                "146",
+                "65",
+                "68"
               ]
             }
           ],
@@ -11701,8 +11717,16 @@
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "295",
-                "298"
+                "8",
+                "11",
+                "215",
+                "218",
+                "190",
+                "191",
+                "147",
+                "148",
+                "66",
+                "69"
               ]
             }
           ],
@@ -11734,8 +11758,16 @@
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "295",
-                "298"
+                "8",
+                "11",
+                "215",
+                "218",
+                "190",
+                "191",
+                "147",
+                "148",
+                "66",
+                "69"
               ]
             }
           ],
@@ -11757,10 +11789,10 @@
       "last_updated": "RESET",
       "name": "E.ON Alice Plzeň AC",
       "operator": {
-        "name": "E.ON Drive Infrastructure, s.r.o."
+        "name": "E.ON Energie, a.s."
       },
       "owner": {
-        "name": "E.ON Drive Infrastructure, s.r.o."
+        "name": "E.ON Energie, a.s."
       },
       "parking_type": "PARKING_LOT",
       "party_id": "EON",

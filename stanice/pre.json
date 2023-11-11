@@ -22169,12 +22169,12 @@
   },
   "CZ9624272": {
     "name": "SUAS 1",
-    "sha1": "7c1e2721ad46b16e6fe2a1570667f5665996d5d5",
+    "sha1": "17e77cd7d8471fed413d2ea027ce5d02d418adb3",
     "station": {
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "380 - 480V, 3-Phase ≤16A"
         ]
       },
       "city": "Dolní Rychnov",
@@ -22185,7 +22185,7 @@
       "csStatus": "operable",
       "csType": "",
       "enCsname": "SUAS 1",
-      "evseId": "CZ*PRE*E0S0043*2",
+      "evseId": "CZ*PRE*E0S0054*1",
       "geoCoord": {
         "latitude": "50.159568",
         "longitude": "12.666386"
@@ -22199,9 +22199,9 @@
       "partnerName": "PRE",
       "plugs": [
         {
-          "connectorFormat": "Socket",
+          "connectorFormat": "Cable",
           "connectorStandard": "IEC-62196-T2",
-          "plug": "Type 2 Outlet"
+          "plug": "Type 2 Connector (Cable Attached)"
         }
       ],
       "postalCode": "356 04",
