@@ -1370,7 +1370,7 @@
   },
   "104638": {
     "name": "(P) OC SIKO Jihlava",
-    "sha1": "63bed750a9af2b2a2c04d461cbc7ce8fb787adab",
+    "sha1": "380404e188fc4f6b6df15c40d3b2e86dfa129a25",
     "station": {
       "address": "Brněnská 76",
       "city": "Jihlava",
@@ -1395,9 +1395,9 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-07-13T10:22:55.553Z",
+              "last_updated": "2023-11-13T23:02:32.913Z",
               "max_amperage": 16,
-              "max_electric_power": 11000,
+              "max_electric_power": 22000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
@@ -1428,9 +1428,9 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-07-13T10:22:55.553Z",
+              "last_updated": "2023-11-13T23:02:32.913Z",
               "max_amperage": 16,
-              "max_electric_power": 11000,
+              "max_electric_power": 22000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
@@ -13377,6 +13377,334 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "24127": {
+    "name": "E.ON Vystrkov",
+    "sha1": "58471a00367d3a4cb6efbc67252df25be232a7f0",
+    "station": {
+      "address": "Vystrkov E551",
+      "city": "Vystrkov",
+      "coordinates": {
+        "latitude": "49.52180437",
+        "longitude": "15.34748319"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-11-13T11:25:24.873Z",
+              "max_amperage": 125,
+              "max_electric_power": 300000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "9",
+                "12",
+                "67",
+                "70",
+                "149",
+                "150",
+                "192",
+                "193",
+                "216",
+                "219"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.52180437",
+            "longitude": "15.34748319"
+          },
+          "evse_id": "CZ*UFC*E32214897*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "214897"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-11-13T11:25:24.873Z",
+              "max_amperage": 125,
+              "max_electric_power": 300000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "9",
+                "12",
+                "67",
+                "70",
+                "149",
+                "150",
+                "192",
+                "193",
+                "216",
+                "219"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.52180437",
+            "longitude": "15.34748319"
+          },
+          "evse_id": "CZ*UFC*E32214897*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "214898"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-11-13T11:25:24.873Z",
+              "max_amperage": 125,
+              "max_electric_power": 400000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "9",
+                "12",
+                "67",
+                "70",
+                "149",
+                "150",
+                "192",
+                "193",
+                "216",
+                "219"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.52180437",
+            "longitude": "15.34748319"
+          },
+          "evse_id": "CZ*UFC*E32214899*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "214899"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-11-13T11:25:24.873Z",
+              "max_amperage": 125,
+              "max_electric_power": 400000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "9",
+                "12",
+                "67",
+                "70",
+                "149",
+                "150",
+                "192",
+                "193",
+                "216",
+                "219"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.52180437",
+            "longitude": "15.34748319"
+          },
+          "evse_id": "CZ*UFC*E32214899*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "214900"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-11-13T11:25:24.873Z",
+              "max_amperage": 125,
+              "max_electric_power": 175000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "9",
+                "12",
+                "67",
+                "70",
+                "149",
+                "150",
+                "192",
+                "193",
+                "216",
+                "219"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-11-13T11:25:24.873Z",
+              "max_amperage": 125,
+              "max_electric_power": 175000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "9",
+                "12",
+                "67",
+                "70",
+                "149",
+                "150",
+                "192",
+                "193",
+                "216",
+                "219"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.52180437",
+            "longitude": "15.34748319"
+          },
+          "evse_id": "CZ*UFC*E11214903*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "214903"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-11-13T11:25:24.873Z",
+              "max_amperage": 125,
+              "max_electric_power": 175000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "9",
+                "12",
+                "67",
+                "70",
+                "149",
+                "150",
+                "192",
+                "193",
+                "216",
+                "219"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-11-13T11:25:24.873Z",
+              "max_amperage": 125,
+              "max_electric_power": 175000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "9",
+                "12",
+                "67",
+                "70",
+                "149",
+                "150",
+                "192",
+                "193",
+                "216",
+                "219"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.52180437",
+            "longitude": "15.34748319"
+          },
+          "evse_id": "CZ*UFC*E11024127*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "24127"
+        }
+      ],
+      "id": "24127",
+      "last_updated": "RESET",
+      "name": "E.ON Vystrkov",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Energie, a.s."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "24570": {
     "name": "(P) Hotel Troyer",
     "sha1": "b7145f2127dbb482cdc4c07d3b4d4e43483a80c7",
@@ -22770,8 +23098,8 @@
     }
   },
   "35949": {
-    "name": "E.ON Nové Město na Moravě",
-    "sha1": "70b03c44024b62a3b284e3cdcee7f832c640d10a",
+    "name": "E.ON Nové město na Moravě",
+    "sha1": "7999745985aac0ebd30dc2e5023ec7d92c8318fc",
     "station": {
       "address": "Vratislavovo nám. 4",
       "city": "Nové Město na Moravě",
@@ -22792,12 +23120,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-11-13T15:28:30.037Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.5614251",
             "longitude": "16.07504345"
           },
-          "evse_id": "CZ*EON*E25035931*1",
+          "evse_id": "CZ*UFC*E25035931*1",
           "last_seen_as_planned": "2022-01-18T11:13:53.267Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -22810,57 +23161,44 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2023-11-13T15:28:30.037Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.5614251",
             "longitude": "16.07504345"
           },
-          "evse_id": "CZ*EON*E25035931*2",
+          "evse_id": "CZ*UFC*E25035931*2",
           "last_seen_as_planned": "2022-01-18T11:13:53.267Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "35932"
-        },
-        {
-          "capabilities": [
-            "CONTACTLESS_CARD_SUPPORT",
-            "REMOTE_START_STOP_CAPABLE",
-            "RFID_READER",
-            "UNLOCK_CAPABLE"
-          ],
-          "connectors": [],
-          "coordinates": {
-            "latitude": "49.5614251",
-            "longitude": "16.07504345"
-          },
-          "evse_id": "CZ*EON*E25035949*1",
-          "last_seen_as_planned": "2022-01-18T12:20:32.39Z",
-          "last_updated": "RESET",
-          "status": "RESET",
-          "uid": "35949"
-        },
-        {
-          "capabilities": [
-            "CONTACTLESS_CARD_SUPPORT",
-            "REMOTE_START_STOP_CAPABLE",
-            "RFID_READER",
-            "UNLOCK_CAPABLE"
-          ],
-          "connectors": [],
-          "coordinates": {
-            "latitude": "49.5614251",
-            "longitude": "16.07504345"
-          },
-          "evse_id": "CZ*EON*E25035949*2",
-          "last_seen_as_planned": "2022-01-18T12:20:32.39Z",
-          "last_updated": "RESET",
-          "status": "RESET",
-          "uid": "35950"
         }
       ],
       "id": "35949",
       "last_updated": "RESET",
-      "name": "E.ON Nové Město na Moravě",
+      "name": "E.ON Nové město na Moravě",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -22871,7 +23209,6 @@
         "name": "E.ON Energie, a.s."
       },
       "party_id": "EON",
-      "postal_code": "592 31",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
@@ -33221,7 +33558,7 @@
   },
   "51510": {
     "name": "E.ON Penny České Budějovice",
-    "sha1": "d16c9c25716765b9561bb12afc7e020b53663e57",
+    "sha1": "29c90f091a0d797b4b2fa5fabf746644b5e5c1ae",
     "station": {
       "address": "Novohradská 1810",
       "city": "České Budějovice",
@@ -33287,7 +33624,7 @@
           },
           "evse_id": "CZ*UFC*E32214883*1",
           "floor_level": "0",
-          "last_seen_as_planned": null,
+          "last_seen_as_planned": "2023-11-13T15:03:02.56Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "214883"
@@ -33328,7 +33665,7 @@
             "longitude": "14.49704612"
           },
           "evse_id": "CZ*UFC*E32214883*2",
-          "last_seen_as_planned": null,
+          "last_seen_as_planned": "2023-11-13T15:03:02.56Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "214884"
@@ -33391,7 +33728,7 @@
             "longitude": "14.49704612"
           },
           "evse_id": "CZ*UFC*E32051510*1",
-          "last_seen_as_planned": "2021-08-27T14:14:07.84Z",
+          "last_seen_as_planned": "2023-11-13T15:03:02.56Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51510"
@@ -33450,7 +33787,7 @@
             "longitude": "14.49704612"
           },
           "evse_id": "CZ*UFC*E32051510*3",
-          "last_seen_as_planned": "2021-08-27T14:14:07.84Z",
+          "last_seen_as_planned": "2023-11-13T15:03:02.56Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "51512"
@@ -40984,7 +41321,7 @@
   },
   "53850": {
     "name": "E.ON Penny Chomutov",
-    "sha1": "d8992fbb2b6981a9566b983a577063404d956c2c",
+    "sha1": "5ae82184706ae13f664e9a561adaaa86c1a6c026",
     "station": {
       "address": "Pod Strážištěm 5392",
       "city": "Chomutov",
@@ -41005,12 +41342,57 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-11-13T23:02:32.913Z",
+              "max_amperage": 125,
+              "max_electric_power": 60000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-11-13T23:02:32.913Z",
+              "max_amperage": 125,
+              "max_electric_power": 60000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.47568145",
             "longitude": "13.40810547"
           },
-          "evse_id": "CZ*EON*E98053850*1",
+          "evse_id": "CZ*UFC*E98053850*1",
           "last_seen_as_planned": "2022-03-22T06:40:29.01Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -41023,12 +41405,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-11-13T23:02:32.913Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.47568145",
             "longitude": "13.40810547"
           },
-          "evse_id": "CZ*EON*E98053850*2",
+          "evse_id": "CZ*UFC*E98053850*2",
           "last_seen_as_planned": "2022-03-22T06:40:29.01Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -42428,7 +42833,7 @@
   },
   "53874": {
     "name": "E.ON Penny Olomouc",
-    "sha1": "b9f884760ba1b6ae2ee0c44ca1f32e8c1efa2a11",
+    "sha1": "de723e76eb0b23fb7549436e86c96218dd79ccce",
     "station": {
       "address": "Rooseveltova 520/100",
       "city": " Olomouc",
@@ -42449,12 +42854,57 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-11-13T23:02:32.913Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-11-13T23:02:32.913Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.57726002",
             "longitude": "17.25728676"
           },
-          "evse_id": "CZ*EON*E98053874*1",
+          "evse_id": "CZ*UFC*E98053874*1",
           "last_seen_as_planned": "2022-03-24T12:33:55.287Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -42467,12 +42917,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-11-13T23:02:32.913Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.57726002",
             "longitude": "17.25728676"
           },
-          "evse_id": "CZ*EON*E98053874*2",
+          "evse_id": "CZ*UFC*E98053874*2",
           "last_seen_as_planned": "2022-03-24T12:33:55.287Z",
           "last_updated": "RESET",
           "status": "RESET",
