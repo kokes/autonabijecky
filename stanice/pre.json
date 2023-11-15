@@ -22901,9 +22901,8 @@
   },
   "CZ9990470": {
     "name": "Sokolovna Na Balkáně",
-    "sha1": "7b12cf0ecb5e987f06acf1282d061f49b17106e2",
+    "sha1": "c7e5684afb3c4b25fdc81ba5e413cc83a52e025e",
     "station": {
-      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -22924,13 +22923,6 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
-      "images": [
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/648b38c4f6cf7d59263f4c93/imgonline-com-ua-resize-2h7cNVbmVVfcj.jpg"
-        }
-      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -22943,9 +22935,9 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "13000",
+      "postalCode": "130 00",
       "region": "Hlavní město Praha",
-      "street": "Na Balkáně"
+      "street": "Na balkáně"
     }
   }
 }
