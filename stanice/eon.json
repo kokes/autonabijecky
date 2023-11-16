@@ -13228,6 +13228,205 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "236457": {
+    "name": "E.ON Albert České Budějovice (Levá)",
+    "sha1": "df74e23216ee0a8a5b4d803df641316c6a4acebd",
+    "station": {
+      "address": "Strakonická 1272",
+      "city": "České Budějovice",
+      "coordinates": {
+        "latitude": "48.99299509",
+        "longitude": "14.46908123"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-11-15T17:19:51.353Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.99299509",
+            "longitude": "14.46908123"
+          },
+          "evse_id": "CZ*UFC*E32214887*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "214887"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-11-15T17:19:51.353Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.99299509",
+            "longitude": "14.46908123"
+          },
+          "evse_id": "CZ*UFC*E32214887*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "214888"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-11-15T17:19:51.353Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.99299509",
+            "longitude": "14.46908123"
+          },
+          "evse_id": "CZ*UFC*E32214889*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "214889"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-11-15T17:19:51.353Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.99299509",
+            "longitude": "14.46908123"
+          },
+          "evse_id": "CZ*UFC*E32214889*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "214890"
+        }
+      ],
+      "id": "236457",
+      "last_updated": "RESET",
+      "name": "E.ON Albert České Budějovice (Levá)",
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Energie, a.s."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "23782": {
     "name": "E.ON Globus Ostrava",
     "sha1": "6d25da24447cd2987b9e02f24543c2d99b4811ac",

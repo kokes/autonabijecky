@@ -21029,6 +21029,60 @@
       "street": "Křimická"
     }
   },
+  "CZ9101830": {
+    "name": "DOCK IN",
+    "sha1": "e834d4b167dcfcd3850e00d457bb98e861eea8fb",
+    "station": {
+      "additionalInfo": "Parkování zdarma při nabíjení max 2h, lístek za parkování lze validovat na recepci.",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9101830",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "Charging below 2h is exempt from the obligation to pay a parking fee, a parking ticket can be validated at the reception.",
+      "enCsname": "DOCK IN",
+      "evseId": "CZ*PRE*E1S8256*2",
+      "geoCoord": {
+        "latitude": "50.103964",
+        "longitude": "14.467534"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64f05c543003bf78e0194f17/3.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64f05c543003bf78e0194f17/2.jpeg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "180 00",
+      "region": "Hlavní město Praha",
+      "street": "Boudníkova 2506/1"
+    }
+  },
   "CZ9103515": {
     "name": "OC Soběslav",
     "sha1": "5c0f0b31577cf553cfd013f3d08cad776d9e675f",
