@@ -36576,7 +36576,7 @@
   },
   "53154": {
     "name": "(P) Město Brandýs nad Labem-Stará Boleslav",
-    "sha1": "d88df2e7e1913f45022d63f05241437c01e2df18",
+    "sha1": "0dfe3bd7f5124f0f9e7df30d52ab3a49ef4b47c4",
     "station": {
       "address": "Třebízského 1605",
       "city": "Brandýs nad Labem-Stará Boleslav",
@@ -36601,9 +36601,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-07-31T22:02:07.293Z",
+              "last_updated": "2023-11-20T23:02:43.247Z",
               "max_amperage": 250,
-              "max_electric_power": 75000,
+              "max_electric_power": 22000,
               "max_voltage": 1000,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
