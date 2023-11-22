@@ -13255,7 +13255,7 @@
   },
   "CZ2004752": {
     "name": "Hornbach Čestlice",
-    "sha1": "3997ba89d30a8b11fa084279e42fd186664b1b66",
+    "sha1": "6e16944f25681e87969e13130f69ea1b31604853",
     "station": {
       "branch": "Baumarkt",
       "chargingFacilities": {
@@ -13270,6 +13270,7 @@
       "csName": "Hornbach Čestlice",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Opening hours: Mo-Fr 7:00-21:00, Sat-Sun 8:00-21:00",
       "enCsname": "Hornbach Čestlice",
       "evseId": "CZ*PRE*E1S8183*2",
       "geoCoord": {
@@ -13291,9 +13292,46 @@
         }
       ],
       "isHome": true,
-      "isOpen24Hours": "true",
+      "isOpen24Hours": "false",
       "isPartnerCs": false,
       "isRoaming": false,
+      "openingTimes": [
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "08:00",
+          "to": "21:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "08:00",
+          "to": "21:00",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -22570,7 +22608,7 @@
   },
   "CZ9786594": {
     "name": "Automechanika HQ",
-    "sha1": "5fb4382dfcbe1666295875fb928b4c400d5fce97",
+    "sha1": "82cf7e5130da7208e29f954df3f8a658ba5d68fd",
     "station": {
       "additionalInfo": "Stanice umístěna za závorou, otevírací hodiny: PO-PÁ 7:00-19:00, SO-NE zavřeno",
       "chargingFacilities": {
@@ -22594,9 +22632,36 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "isHome": true,
-      "isOpen24Hours": "true",
+      "isOpen24Hours": "false",
       "isPartnerCs": false,
       "isRoaming": false,
+      "openingTimes": [
+        {
+          "from": "07:00",
+          "to": "19:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "07:00",
+          "to": "19:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "07:00",
+          "to": "19:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "07:00",
+          "to": "19:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "07:00",
+          "to": "19:00",
+          "wDay": "FR"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
