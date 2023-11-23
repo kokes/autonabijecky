@@ -11904,6 +11904,108 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "215887": {
+    "name": "E.ON Kaufland Teplice",
+    "sha1": "d761c55f5107370495208e083a378071891ac07c",
+    "station": {
+      "address": "Čs. dobrovolců 3356",
+      "city": "Teplice 1",
+      "coordinates": {
+        "latitude": "50.638832",
+        "longitude": "13.819528"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-11-22T08:53:51.413Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "295",
+                "298"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.638832",
+            "longitude": "13.819528"
+          },
+          "evse_id": "CZ*UFC*E32215887*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "215887"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-11-22T08:53:51.413Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "295",
+                "298"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.638832",
+            "longitude": "13.819528"
+          },
+          "evse_id": "CZ*UFC*E32215887*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "215888"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET"
+      ],
+      "id": "215887",
+      "last_updated": "RESET",
+      "name": "E.ON Kaufland Teplice",
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Drive Infrastructure, s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "time_zone": "Europe/Prague"
+    }
+  },
   "217234": {
     "name": "(P) Hotel Vinice Hnanice",
     "sha1": "b667c70cdcbdc6000da3964ee3430a0cb7dfaa72",
