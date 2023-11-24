@@ -19277,6 +19277,46 @@
       "street": "Mukařovská"
     }
   },
+  "CZ8337812": {
+    "name": "Residence Nové Modřany",
+    "sha1": "565ac65c3da011539819be0ac56463d5116a7c62",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8337812",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Residence Nové Modřany",
+      "evseId": "CZ*PRE*E1S8237*2",
+      "geoCoord": {
+        "latitude": "49.998169",
+        "longitude": "14.408628"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "143 00",
+      "region": "Hlavní město Praha",
+      "street": "Zlochova"
+    }
+  },
   "CZ8378464": {
     "name": "Koupaliště Šutka",
     "sha1": "a1c27c20ce7d734f795edd521bd723771de4732f",
@@ -21644,8 +21684,8 @@
     }
   },
   "CZ9273004": {
-    "name": "SUAS 2",
-    "sha1": "df88f6caa8f3f1edf23ef154cc27bc8409572dc4",
+    "name": "SUAS 2 Tisá",
+    "sha1": "c78f2295ad3f30f929f3048bd956b2db4ab606dc",
     "station": {
       "additionalInfo": "Resort hotel COUNTRY HOUSE",
       "chargingFacilities": {
@@ -21660,11 +21700,11 @@
       "csStatus": "under_construction",
       "csType": "",
       "enAdditionalInfo": "Resort hotel COUNTRY HOUSE",
-      "enCsname": "SUAS 2",
+      "enCsname": "SUAS 2 Tisá",
       "evseId": "CZ*PRE*E0S0044*2",
       "geoCoord": {
-        "latitude": "50.785677",
-        "longitude": "14.013733"
+        "latitude": "50.785490",
+        "longitude": "14.013599"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -22260,10 +22300,9 @@
     }
   },
   "CZ9624272": {
-    "name": "SUAS 1",
-    "sha1": "7c1e2721ad46b16e6fe2a1570667f5665996d5d5",
+    "name": "SUAS 1 Dolní Rychnov",
+    "sha1": "03605b600e633a5973fcefd81f1d92e8be682a25",
     "station": {
-      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -22273,14 +22312,14 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9624272",
-      "csName": "SUAS 1",
+      "csName": "SUAS 1 Dolní Rychnov",
       "csStatus": "operable",
       "csType": "",
-      "enCsname": "SUAS 1",
+      "enCsname": "SUAS 1 Dolní Rychnov",
       "evseId": "CZ*PRE*E0S0043*2",
       "geoCoord": {
-        "latitude": "50.159568",
-        "longitude": "12.666386"
+        "latitude": "50.159549",
+        "longitude": "12.666391"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -22297,6 +22336,7 @@
         }
       ],
       "postalCode": "356 04",
+      "region": "Czech republic",
       "street": "Ke Golfu"
     }
   },

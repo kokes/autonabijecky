@@ -550,8 +550,8 @@
     }
   },
   "10218": {
-    "name": "E.ON Globus Opava",
-    "sha1": "4255e8f6ab5083af1609b806a92a5b6a57cba048",
+    "name": "E.ON Globus Opava DC",
+    "sha1": "5d85f461ea6dc3ffa71b4789dbb19b7b63e5ee4b",
     "station": {
       "address": "Těšínská 2830/83",
       "city": "Opava",
@@ -677,7 +677,7 @@
       ],
       "id": "10218",
       "last_updated": "RESET",
-      "name": "E.ON Globus Opava",
+      "name": "E.ON Globus Opava DC",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -848,8 +848,8 @@
     }
   },
   "10411": {
-    "name": "E.ON Globus Zličín",
-    "sha1": "9a4e78ddea309684e332fde5631fce6a5d030441",
+    "name": "E.ON Globus Zličín DC",
+    "sha1": "113d09a1dd62729329aedc33f3fb94365ca26447",
     "station": {
       "address": "Sárská 5/133",
       "city": "Praha-Zličín",
@@ -1079,7 +1079,7 @@
       ],
       "id": "10411",
       "last_updated": "RESET",
-      "name": "E.ON Globus Zličín",
+      "name": "E.ON Globus Zličín DC",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -1558,8 +1558,8 @@
     }
   },
   "104650": {
-    "name": "(P) Sportovně rekreační Areál Ráj Srbsko 1",
-    "sha1": "8907a11816a263e94456a35e21e3c722cff870f6",
+    "name": "(P) Sportovně rekreační Areál Ráj Srbsko",
+    "sha1": "637ca1c6871aeeb6a6c96a73bf50d48d4dc9f63f",
     "station": {
       "address": "Srbsko 32",
       "city": "Kněžmost - Srbsko",
@@ -1726,7 +1726,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Sportovně rekreační Areál Ráj Srbsko 1",
+      "name": "(P) Sportovně rekreační Areál Ráj Srbsko",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -2408,8 +2408,8 @@
     }
   },
   "112211": {
-    "name": "(P) Interhotel Zlín",
-    "sha1": "8ea18e353677f474f783a2c3417a89f0412cfe72",
+    "name": "(P) Interhotel Moskva",
+    "sha1": "ec980c70619fb5637b752166b5b899ea44331d88",
     "station": {
       "address": "náměstí Práce 2512",
       "city": "Zlín",
@@ -2482,7 +2482,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Interhotel Zlín",
+      "name": "(P) Interhotel Moskva",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -2504,8 +2504,8 @@
     }
   },
   "112222": {
-    "name": "(P) Vila Jáchymov",
-    "sha1": "793ea3d3e1dd4aff94c008aebb80ee771134e1bf",
+    "name": "Vila Jáchymov",
+    "sha1": "44f9c6075444afb8fe3e06b6eff88404ad6348ff",
     "station": {
       "address": "Lidická 764",
       "city": "Jáchymov",
@@ -2562,7 +2562,7 @@
       ],
       "id": "112222",
       "last_updated": "RESET",
-      "name": "(P) Vila Jáchymov",
+      "name": "Vila Jáchymov",
       "opening_times": {
         "regular_hours": [
           {
@@ -2712,8 +2712,8 @@
     }
   },
   "117357": {
-    "name": "(P) Relaxcentrum Mrkáček Lišov",
-    "sha1": "c36e59ce8a4929ae7a509c9b8fd8419d43cd59ea",
+    "name": "(P) Sporcentrum Mrkáček",
+    "sha1": "01110c2b06ebac656a000da818288c75fd5cf457",
     "station": {
       "address": "Dolní 865",
       "city": "Lišov",
@@ -2811,7 +2811,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Relaxcentrum Mrkáček Lišov",
+      "name": "(P) Sporcentrum Mrkáček",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -2979,8 +2979,8 @@
     }
   },
   "121655": {
-    "name": "(P) Technické služby Opava",
-    "sha1": "35191d7ff31be2dd6b79c8e86fd973f899e9b709",
+    "name": "(P) Terminál Opava",
+    "sha1": "6324c0207d2677f73dad0a28ef4d400a48d7c179",
     "station": {
       "address": "Skladištní",
       "city": "Opava",
@@ -3157,7 +3157,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Technické služby Opava",
+      "name": "(P) Terminál Opava",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -3179,8 +3179,8 @@
     }
   },
   "127563": {
-    "name": "E.ON ČSAD Strakonice (PT)",
-    "sha1": "37ff648c450679535c887a7db021328644905c8c",
+    "name": "E.ON ČSAD Strakonice",
+    "sha1": "1ac5958b4940c769e59344c6eebeda2ee7a98298",
     "station": {
       "address": "U Nádraží 1315",
       "city": "Strakonice",
@@ -3324,7 +3324,7 @@
       ],
       "id": "127563",
       "last_updated": "RESET",
-      "name": "E.ON ČSAD Strakonice (PT)",
+      "name": "E.ON ČSAD Strakonice",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -3771,8 +3771,8 @@
     }
   },
   "127580": {
-    "name": "E.ON Penny Kladno (PT)",
-    "sha1": "b5c28ca32457f08dbe5445658a7bc2acf5a28dbc",
+    "name": "E.ON Penny Kladno",
+    "sha1": "b56713a0b342368088b2209d86209ec1b243cc40",
     "station": {
       "address": "Americká 749",
       "city": "Kladno",
@@ -3915,7 +3915,7 @@
       ],
       "id": "127580",
       "last_updated": "RESET",
-      "name": "E.ON Penny Kladno (PT)",
+      "name": "E.ON Penny Kladno",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -4103,8 +4103,8 @@
     }
   },
   "127586": {
-    "name": "E.ON Paráda Hodonín",
-    "sha1": "3b8696f81d310245b22998c39d132b5bef8690e3",
+    "name": "E.ON DRFG Hodonín",
+    "sha1": "bc060872072745dcc611a8fe845bca57ff0ffb26",
     "station": {
       "address": "Krátká 4225/4",
       "city": "Hodonín",
@@ -4247,7 +4247,7 @@
       ],
       "id": "127586",
       "last_updated": "RESET",
-      "name": "E.ON Paráda Hodonín",
+      "name": "E.ON DRFG Hodonín",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -4724,8 +4724,8 @@
     }
   },
   "139466": {
-    "name": "(P) CS Beton 1",
-    "sha1": "eb4454f2b0239b0166ad5ab9b2519b900902883e",
+    "name": "M5006105-2",
+    "sha1": "ad48c2f4d5554e996a44dc28ca84711be3d7f335",
     "station": {
       "address": "Velké Žernoseky 184",
       "city": "Velké Žernoseky",
@@ -4874,7 +4874,7 @@
       ],
       "id": "139466",
       "last_updated": "RESET",
-      "name": "(P) CS Beton 1",
+      "name": "M5006105-2",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -8002,8 +8002,8 @@
     }
   },
   "176881": {
-    "name": "(P) Veterinární nemocnice CB-vet",
-    "sha1": "5d162160d8e2b7a03dda925a9a8595069092999f",
+    "name": "(P) Veterinární nemocnice CB",
+    "sha1": "bf6a021c3cffe07d152723b3528da82e883e840c",
     "station": {
       "address": "U Lesa 1740/1",
       "city": "české Budějovice",
@@ -8094,7 +8094,7 @@
       ],
       "id": "176881",
       "last_updated": "RESET",
-      "name": "(P) Veterinární nemocnice CB-vet",
+      "name": "(P) Veterinární nemocnice CB",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -8115,8 +8115,8 @@
     }
   },
   "177268": {
-    "name": "(P) Fabrika hotel Humpolec DC",
-    "sha1": "042fddd282b4881b7c9270acf9bcbdd68f5cee19",
+    "name": "(P) Fabrika hotel Humpolec",
+    "sha1": "f129f3d1b39983865208feae813928065d9adc84",
     "station": {
       "address": "Školní 511",
       "city": "Humpolec",
@@ -8243,7 +8243,7 @@
       ],
       "id": "177268",
       "last_updated": "RESET",
-      "name": "(P) Fabrika hotel Humpolec DC",
+      "name": "(P) Fabrika hotel Humpolec",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -9605,8 +9605,8 @@
     }
   },
   "19930": {
-    "name": "(P) Areál Slatina II",
-    "sha1": "362c6c6f3b87ad99229033c88348b412f58b7ad6",
+    "name": "(P) Areál Slatina",
+    "sha1": "dd9ae8c9ddb862b7229634ba1b128619eee76312",
     "station": {
       "address": "Tuřanka 1222/115",
       "city": "Brno",
@@ -10015,7 +10015,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Areál Slatina II",
+      "name": "(P) Areál Slatina",
       "operator": {
         "name": "E.ON Energie, a.s."
       },
@@ -11034,8 +11034,8 @@
     }
   },
   "208758": {
-    "name": "(P) DOBE - CAR, s.r.o. - veřejná levá",
-    "sha1": "2133648805e0af1156e4da94a87e23f13b101a35",
+    "name": "(P) DOBE - CAR, s.r.o.",
+    "sha1": "50a64d535348fc9ae13d6ec28e33eb348a6f0b39",
     "station": {
       "address": "Tovární 1250",
       "city": "Holešov",
@@ -11118,7 +11118,7 @@
       ],
       "id": "208758",
       "last_updated": "RESET",
-      "name": "(P) DOBE - CAR, s.r.o. - veřejná levá",
+      "name": "(P) DOBE - CAR, s.r.o.",
       "operator": {
         "name": "DOBE - CAR s.r.o."
       },
@@ -11135,8 +11135,8 @@
     }
   },
   "208770": {
-    "name": "(P) AUTOKLEVER spol. s r.o.",
-    "sha1": "0c42502ca3324f60f92dccef25e33bc7fa79bf7a",
+    "name": "(P) AUTOKLEVER, spol. s r.o.",
+    "sha1": "0b7671d8007108504d2dd4734c7e156ba084f9b8",
     "station": {
       "address": "Hřbitovní 966/5",
       "city": "Nový Jičín",
@@ -11237,7 +11237,7 @@
       ],
       "id": "208770",
       "last_updated": "RESET",
-      "name": "(P) AUTOKLEVER spol. s r.o.",
+      "name": "(P) AUTOKLEVER, spol. s r.o.",
       "opening_times": {
         "regular_hours": [
           {
@@ -11602,8 +11602,8 @@
     }
   },
   "213051": {
-    "name": "E.ON Alice Plzeň AC",
-    "sha1": "0c0581573c895a3a61a9c4a44bafb272041ad060",
+    "name": "E.ON HYC_50 Priprava 1",
+    "sha1": "b5ca401faf790a85fd0d3dd7d87de714f327970a",
     "station": {
       "address": "Lábkova 903/38 ",
       "city": "Plzeň 3 ",
@@ -11787,7 +11787,7 @@
       ],
       "id": "213051",
       "last_updated": "RESET",
-      "name": "E.ON Alice Plzeň AC",
+      "name": "E.ON HYC_50 Priprava 1",
       "operator": {
         "name": "E.ON Energie, a.s."
       },
@@ -12995,8 +12995,8 @@
     }
   },
   "231704": {
-    "name": "E.ON Kaufland Hustopeče 1",
-    "sha1": "ecabea2625016007e2f92f18361fffa12fb0af96",
+    "name": "E.ON Jindřichův Hradec",
+    "sha1": "44b856e0a8892caa883dab7a31b592121b881045",
     "station": {
       "address": "Brněnská",
       "city": "Hustopeče u Brna",
@@ -13148,7 +13148,7 @@
       ],
       "id": "231704",
       "last_updated": "RESET",
-      "name": "E.ON Kaufland Hustopeče 1",
+      "name": "E.ON Jindřichův Hradec",
       "operator": {
         "name": "E.ON Energie, a.s."
       },
@@ -13331,8 +13331,8 @@
     }
   },
   "236457": {
-    "name": "E.ON Albert České Budějovice (Levá)",
-    "sha1": "df74e23216ee0a8a5b4d803df641316c6a4acebd",
+    "name": "E.ON HYC_50 Priprava 2",
+    "sha1": "0fb71bcd623d6ca4087a05e4b318c5e5a956090e",
     "station": {
       "address": "Strakonická 1272",
       "city": "České Budějovice",
@@ -13513,7 +13513,7 @@
       ],
       "id": "236457",
       "last_updated": "RESET",
-      "name": "E.ON Albert České Budějovice (Levá)",
+      "name": "E.ON HYC_50 Priprava 2",
       "operator": {
         "name": "E.ON Energie, a.s."
       },
@@ -13679,8 +13679,8 @@
     }
   },
   "24127": {
-    "name": "E.ON Vystrkov",
-    "sha1": "58471a00367d3a4cb6efbc67252df25be232a7f0",
+    "name": "E.ON Vystrkov F UFC 175kW DC",
+    "sha1": "03fab623e4e26b34116e574a02d3ad6c1b5fb5e8",
     "station": {
       "address": "Vystrkov E551",
       "city": "Vystrkov",
@@ -13987,7 +13987,7 @@
       ],
       "id": "24127",
       "last_updated": "RESET",
-      "name": "E.ON Vystrkov",
+      "name": "E.ON Vystrkov F UFC 175kW DC",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -15658,8 +15658,8 @@
     }
   },
   "26535": {
-    "name": "(P) Josef HOS s.r.o.",
-    "sha1": "93c4be49ef358c1368d07f79cfc76d91a5490bd8",
+    "name": "(P) Josef HOS, s.r.o.",
+    "sha1": "c3bf975f1b4309b9517380b63f3858d8a584c9f6",
     "station": {
       "address": "Lipno nad Vltavou",
       "city": "Lipno nad Vltavou",
@@ -15715,7 +15715,7 @@
       ],
       "id": "26535",
       "last_updated": "RESET",
-      "name": "(P) Josef HOS s.r.o.",
+      "name": "(P) Josef HOS, s.r.o.",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -17254,8 +17254,8 @@
     }
   },
   "28159": {
-    "name": "E.ON ČS Shell Hustopeče",
-    "sha1": "9e6b4d067202ef7d30269a764ec39352c38358ef",
+    "name": "E.ON ČS Shell Hustopeče DC",
+    "sha1": "4b4a74d42c9573bfd632d1969b55284e619c9905",
     "station": {
       "address": "Bratislavská 15",
       "city": "Hustopeče",
@@ -17379,7 +17379,7 @@
       ],
       "id": "28159",
       "last_updated": "RESET",
-      "name": "E.ON ČS Shell Hustopeče",
+      "name": "E.ON ČS Shell Hustopeče DC",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -18429,8 +18429,8 @@
     }
   },
   "28704": {
-    "name": "E.ON Velké Meziříčí",
-    "sha1": "5b1be09183b9a71385677c8fe89d2de619ff7a5e",
+    "name": "E.ON Velké Meziříčí DC",
+    "sha1": "61d1394bd4150ff7922cdb80d073fc040b8995aa",
     "station": {
       "address": "K Novému nádraží 1229/2",
       "city": "Velké Meziříčí",
@@ -18555,7 +18555,7 @@
       ],
       "id": "28704",
       "last_updated": "RESET",
-      "name": "E.ON Velké Meziříčí",
+      "name": "E.ON Velké Meziříčí DC",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -18577,8 +18577,8 @@
     }
   },
   "29049": {
-    "name": "E.ON ČS MOL Troubsko",
-    "sha1": "2d3268792418129500752a3b40408914cc829935",
+    "name": "E.ON ČS MOL Troubsko DC",
+    "sha1": "5ef55452ed6b644f407daeb0f066ccfa8d61fd74",
     "station": {
       "address": "D1 187 km směr Brno",
       "city": "Troubsko",
@@ -18702,7 +18702,7 @@
       ],
       "id": "29049",
       "last_updated": "RESET",
-      "name": "E.ON ČS MOL Troubsko",
+      "name": "E.ON ČS MOL Troubsko DC",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -18724,8 +18724,8 @@
     }
   },
   "32744": {
-    "name": "(P) JIP potraviny",
-    "sha1": "4f51b5e354cd7ea7332bb45f3b59dd3a62fc1d98",
+    "name": "(P) JIP nápoje",
+    "sha1": "96d8c87f17b8fc9361f5ac1c515f3bf05f7ccf43",
     "station": {
       "address": "Frýdecká 700/475",
       "city": "Ostrava",
@@ -18833,7 +18833,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) JIP potraviny",
+      "name": "(P) JIP nápoje",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -19613,8 +19613,8 @@
     }
   },
   "33222": {
-    "name": "E.ON ČS Benzina Mikulov",
-    "sha1": "499ab5e183524654783358c222034f14661b9921",
+    "name": "E.ON ČS Benzina Mikulov DC",
+    "sha1": "1d2b942866098e3ae3500575a7dfce08282dd442",
     "station": {
       "address": "Brněnská 1532",
       "city": "Mikulov",
@@ -19738,7 +19738,7 @@
       ],
       "id": "33222",
       "last_updated": "RESET",
-      "name": "E.ON ČS Benzina Mikulov",
+      "name": "E.ON ČS Benzina Mikulov DC",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -20059,8 +20059,8 @@
     }
   },
   "33233": {
-    "name": "E.ON ČS MOL Rozvadov",
-    "sha1": "1b525baae8a20d18595d0f8d8fc8b893f3a75659",
+    "name": "E.ON ČS MOL Rozvadov UFC 175kW DC",
+    "sha1": "2cf8ab0dabc35df72cf659fca8220a86ee632e19",
     "station": {
       "address": "Svatá Kateřina",
       "city": "Rozvadov",
@@ -20373,7 +20373,7 @@
       ],
       "id": "33233",
       "last_updated": "RESET",
-      "name": "E.ON ČS MOL Rozvadov",
+      "name": "E.ON ČS MOL Rozvadov UFC 175kW DC",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -20394,8 +20394,8 @@
     }
   },
   "34016": {
-    "name": "(P) Amenity Resort Orlické Hory",
-    "sha1": "e6763883f00e89cd9a6c57b6adc7295045cdee09",
+    "name": "(P) Amenity Orlické Hory",
+    "sha1": "3248f742cbd999ecf4f30036e5772055b393c99e",
     "station": {
       "address": "Deštné v Orlických horách 78",
       "city": "Deštné v Orlických horách",
@@ -20496,7 +20496,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Amenity Resort Orlické Hory",
+      "name": "(P) Amenity Orlické Hory",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -25420,8 +25420,8 @@
     }
   },
   "35984": {
-    "name": "(P) BabyhotelKarolinka.cz",
-    "sha1": "ff18f7881302bac1505b97d7335dd320e0860a2b",
+    "name": "Baby hotel Karolinka",
+    "sha1": "a8ab51d0867204e8257d912bc3ff8ed3afb128f1",
     "station": {
       "address": "Mlýnská 57",
       "city": "Vranov nad Dyjí",
@@ -25584,7 +25584,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) BabyhotelKarolinka.cz",
+      "name": "Baby hotel Karolinka",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -25730,8 +25730,8 @@
     }
   },
   "36614": {
-    "name": "(P) Autodružstvo Znojmo",
-    "sha1": "5b93d1afd9300a846dea09c6e12b02c26eadf5d7",
+    "name": "( P ) Autodružstvo Znojmo",
+    "sha1": "8bbc965079c7ed9c2d47bb9a780f0ce41a7c56e4",
     "station": {
       "address": "Vídeňská tř. 2573",
       "city": "Znojmo",
@@ -25826,7 +25826,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Autodružstvo Znojmo",
+      "name": "( P ) Autodružstvo Znojmo",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -25848,8 +25848,8 @@
     }
   },
   "39572": {
-    "name": "(P) Hotel Augustiniánský dům",
-    "sha1": "a497d368ed7e404e753b2dab89fe3e078274caff",
+    "name": "(P) Hotel Augustiánský dům",
+    "sha1": "e6e3018e1925ae40168843655cb6b1ef33cd15dc",
     "station": {
       "address": "Antonína Václavíka 241",
       "city": "Luhačovice",
@@ -25910,7 +25910,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Hotel Augustiniánský dům",
+      "name": "(P) Hotel Augustiánský dům",
       "operator": {
         "name": "E.ON Energie, a.s."
       },
@@ -25929,8 +25929,8 @@
     }
   },
   "39642": {
-    "name": "(P) Artin - Brno - parking",
-    "sha1": "80ca488d10eec192f889532a14849e8b888cdb6e",
+    "name": "Artin Brno",
+    "sha1": "36ad15c75b768550bf6978142fb8d66e23638b71",
     "station": {
       "address": "ARTIN spol. s.r.o.",
       "city": "Brno - Medlánky",
@@ -26029,7 +26029,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Artin - Brno - parking",
+      "name": "Artin Brno",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -26137,8 +26137,8 @@
     }
   },
   "42076": {
-    "name": "E.ON Lovosice",
-    "sha1": "983f6060a7b40485d3ed4b689fbb3092e0c9fb2d",
+    "name": "E.ON Lovosice 175 kW UFC",
+    "sha1": "ccb9c63ffe3d9b8a7c3db3aaa8ded9ffeae6bd81",
     "station": {
       "address": "Siřejovická",
       "city": "Lovosice",
@@ -26550,7 +26550,7 @@
       ],
       "id": "42076",
       "last_updated": "RESET",
-      "name": "E.ON Lovosice",
+      "name": "E.ON Lovosice 175 kW UFC",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -26572,8 +26572,8 @@
     }
   },
   "42078": {
-    "name": "E.ON ČS Benzina Břeclav",
-    "sha1": "c47c768830755cd3af86f664cb2dda4b6e110ed5",
+    "name": "E.ON ČS Benzina Břeclav DC",
+    "sha1": "f66a4809f0c763cfa78ca961d2b7080df84fab88",
     "station": {
       "address": "Lidická 3121",
       "city": "Břeclav",
@@ -26803,7 +26803,7 @@
       ],
       "id": "42078",
       "last_updated": "RESET",
-      "name": "E.ON ČS Benzina Břeclav",
+      "name": "E.ON ČS Benzina Břeclav DC",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -27114,8 +27114,8 @@
     }
   },
   "45154": {
-    "name": "(P) egoé kovo a.s. - Bílovice",
-    "sha1": "b21c92e9d9ff0838ef6bce2725a5dce26388731c",
+    "name": "Covocité double",
+    "sha1": "b772a2be70b2fa6b03aab709092ffd69070539a9",
     "station": {
       "address": "Bílovice 519",
       "city": "Bílovice",
@@ -27208,7 +27208,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) egoé kovo a.s. - Bílovice",
+      "name": "Covocité double",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -27585,8 +27585,8 @@
     }
   },
   "45162": {
-    "name": "(P) Kněžice",
-    "sha1": "a0962e358d0109ed99a5d6407e5f5d6f49a16dad",
+    "name": "(P) Chalupa",
+    "sha1": "d2c4952c83e867ef0d27ded53eb742c2260eca19",
     "station": {
       "address": "Kněžice 25",
       "city": "Vrchlabí",
@@ -27651,7 +27651,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Kněžice",
+      "name": "(P) Chalupa",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -28404,8 +28404,8 @@
     }
   },
   "51415": {
-    "name": "E.ON Malenovice Zlín Unicars",
-    "sha1": "a58ab0ac0b7e82ab6e3c09d8dcd62ee84e486e0b",
+    "name": "E.ON Malenovice DC Zlín Unicars",
+    "sha1": "98c77d980ce4e05c31c8aaa11d13f62fad0db5d1",
     "station": {
       "address": "Tečovská 1131",
       "city": "Zlín - Malenovice",
@@ -28529,7 +28529,7 @@
       ],
       "id": "51415",
       "last_updated": "RESET",
-      "name": "E.ON Malenovice Zlín Unicars",
+      "name": "E.ON Malenovice DC Zlín Unicars",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -28551,8 +28551,8 @@
     }
   },
   "51417": {
-    "name": "E.ON NC Kučera Prostějov",
-    "sha1": "6d3a6060f4874c8948c62f420059b3c535803a6c",
+    "name": "E.ON NC Kučera Prostějov DC",
+    "sha1": "df829418400d3bc281930c79c8a2fb0ad9601e0d",
     "station": {
       "address": "sídl. Svobody 3576/77,",
       "city": "Prostějov",
@@ -28679,7 +28679,7 @@
       ],
       "id": "51417",
       "last_updated": "RESET",
-      "name": "E.ON NC Kučera Prostějov",
+      "name": "E.ON NC Kučera Prostějov DC",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -31247,8 +31247,8 @@
     }
   },
   "51455": {
-    "name": "E.ON Autoexpert Teplice",
-    "sha1": "383705e7ae2bd304408a9bfaaaf7fea52b25253a",
+    "name": "E.ON Autoexpert Teplice DC",
+    "sha1": "f3510d53a921048fda9565483c8ede01335c074b",
     "station": {
       "address": "Riegrova 2001",
       "city": "Teplice",
@@ -31476,7 +31476,7 @@
       ],
       "id": "51455",
       "last_updated": "RESET",
-      "name": "E.ON Autoexpert Teplice",
+      "name": "E.ON Autoexpert Teplice DC",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -31498,8 +31498,8 @@
     }
   },
   "51459": {
-    "name": "E.ON Globus Trmice 2",
-    "sha1": "a554dfa7b12f3e644df3cb54b524e1461b410006",
+    "name": "E.ON Globus Ústí nad Labem Trmice",
+    "sha1": "1553c88fa216cfac737728dbef58a3289cc835a1",
     "station": {
       "address": "Tyršova 869",
       "city": "Trmice",
@@ -31730,7 +31730,7 @@
       ],
       "id": "51459",
       "last_updated": "RESET",
-      "name": "E.ON Globus Trmice 2",
+      "name": "E.ON Globus Ústí nad Labem Trmice",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -34291,8 +34291,8 @@
     }
   },
   "51516": {
-    "name": "E.ON Plavecký bazén Jindřichův Hradec",
-    "sha1": "bf4163113758b2a8d5b1e18279d6c33657b82fbf",
+    "name": "E.ON Jindřichův Hradec",
+    "sha1": "0dfbc24c790b994deddcc59be2c46f349fed5e11",
     "station": {
       "address": "Jáchymova 865/3",
       "city": "Jindřichův Hradec",
@@ -34413,7 +34413,7 @@
       ],
       "id": "51516",
       "last_updated": "RESET",
-      "name": "E.ON Plavecký bazén Jindřichův Hradec",
+      "name": "E.ON Jindřichův Hradec",
       "operator": {
         "name": "E.ON Energie, a.s."
       },
@@ -35358,8 +35358,8 @@
     }
   },
   "51540": {
-    "name": "E.ON Krupá 1",
-    "sha1": "22e610382ee830c84ad12277aad4da57a3933a05",
+    "name": "E.ON Krupá",
+    "sha1": "384d184877a3acf577d497ba6655abb39f000b7c",
     "station": {
       "address": "Krupá",
       "city": "Krupá",
@@ -35624,7 +35624,7 @@
       ],
       "id": "51540",
       "last_updated": "RESET",
-      "name": "E.ON Krupá 1",
+      "name": "E.ON Krupá",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -36223,8 +36223,8 @@
     }
   },
   "51564": {
-    "name": "E.ON Miličín 1",
-    "sha1": "ff97e8895e8a1772416031cdb124617cac542f13",
+    "name": "E.ON Miličín",
+    "sha1": "aeffa3d3589de753cc2fe7b6f477a074be49f6a3",
     "station": {
       "address": "Miličín 1257/29",
       "city": "Miličín",
@@ -36490,7 +36490,7 @@
       ],
       "id": "51564",
       "last_updated": "RESET",
-      "name": "E.ON Miličín 1",
+      "name": "E.ON Miličín",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -36677,8 +36677,8 @@
     }
   },
   "53154": {
-    "name": "(P) Město Brandýs nad Labem-Stará Boleslav",
-    "sha1": "0dfe3bd7f5124f0f9e7df30d52ab3a49ef4b47c4",
+    "name": "(P) Brandys",
+    "sha1": "4a6bb67556f742888915c586f43190b71e2ef1d5",
     "station": {
       "address": "Třebízského 1605",
       "city": "Brandýs nad Labem-Stará Boleslav",
@@ -36768,7 +36768,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Město Brandýs nad Labem-Stará Boleslav",
+      "name": "(P) Brandys",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -41088,8 +41088,8 @@
     }
   },
   "53840": {
-    "name": "E.ON DRFG Uherské Hradiště (PT)",
-    "sha1": "918170f51c8da41aa8cb0c9eee42806b0686c1f4",
+    "name": "E.ON DRFG Uherské Hradiště",
+    "sha1": "5fbfecb27d91989bd8aebe9f55ea119ab63c5d48",
     "station": {
       "address": "Za Olšávkou 399",
       "city": " Uherské Hradiště",
@@ -41215,7 +41215,7 @@
       ],
       "id": "53840",
       "last_updated": "RESET",
-      "name": "E.ON DRFG Uherské Hradiště (PT)",
+      "name": "E.ON DRFG Uherské Hradiště",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -43553,8 +43553,8 @@
     }
   },
   "55604": {
-    "name": "(P) ACR auto a.s.",
-    "sha1": "a3bfa9eef004e1f911c12121ba7a03bd33c60142",
+    "name": "(P) ACR auto, a.s.",
+    "sha1": "634da6e12195b7eec9cf00571ff84a51ab3c0727",
     "station": {
       "address": "Okružní ev. č. 49",
       "city": "České Budějovice",
@@ -43751,7 +43751,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) ACR auto a.s.",
+      "name": "(P) ACR auto, a.s.",
       "opening_times": {
         "regular_hours": [
           {
@@ -45238,8 +45238,8 @@
     }
   },
   "65928": {
-    "name": "(P) Milan Král a.s.",
-    "sha1": "cbd9f7f5964dd979d3926929241dd30919e73ddf",
+    "name": "(P) Milan Král a.s. 2",
+    "sha1": "107b5ce3203f0809e81bc1d1e3362840648d4694",
     "station": {
       "address": "Pod Stromovkou 201",
       "city": "Litvínovice",
@@ -45332,7 +45332,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Milan Král a.s.",
+      "name": "(P) Milan Král a.s. 2",
       "opening_times": {
         "regular_hours": [
           {
@@ -45391,8 +45391,8 @@
     }
   },
   "65929": {
-    "name": "(P) MNC auto a.s.",
-    "sha1": "228e4a5265a8f30dad26bbd482e24cd111811f6b",
+    "name": "(P) MNC auto, a.s.",
+    "sha1": "33a843a68b6954fea7c3187835733634e95ea719",
     "station": {
       "address": "Nemanická 446/1",
       "city": "České Budějovice",
@@ -45482,7 +45482,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) MNC auto a.s.",
+      "name": "(P) MNC auto, a.s.",
       "opening_times": {
         "regular_hours": [
           {
@@ -45783,8 +45783,8 @@
     }
   },
   "66781": {
-    "name": "(P) ZZN Hospodářské potřeby a.s.",
-    "sha1": "2c09ea1374d506db6e93465952ec693f832ff524",
+    "name": "(P) K-Drives CZ s.r.o. AC",
+    "sha1": "69e086bc6ce912b2ae0fecfdf4e38d4f85980c80",
     "station": {
       "address": "Družstevní 1200/20",
       "city": "Mohelnice",
@@ -45891,7 +45891,7 @@
       ],
       "id": "66781",
       "last_updated": "RESET",
-      "name": "(P) ZZN Hospodářské potřeby a.s.",
+      "name": "(P) K-Drives CZ s.r.o. AC",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -45913,8 +45913,8 @@
     }
   },
   "66854": {
-    "name": "(P) ZTV a.s. DC OC Ohrada",
-    "sha1": "9d4f4aca10898185b39880239b17220ba7aae823",
+    "name": "(P) Zásobování teplem Vsetín a.s.",
+    "sha1": "b1b9c56257b1e822016fb9eb16eac7cf5c30928b",
     "station": {
       "address": "Jasenická 295",
       "city": "Vsetín",
@@ -46008,7 +46008,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) ZTV a.s. DC OC Ohrada",
+      "name": "(P) Zásobování teplem Vsetín a.s.",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -46412,8 +46412,8 @@
     }
   },
   "81650": {
-    "name": "(P) Terno Hradec Králové",
-    "sha1": "d1ed310198e81830512c47bc7803c8682bfdd202",
+    "name": "(P) Terno Hradec Králové 1",
+    "sha1": "5493fd57b5614489a49dc4149cc962c6e33e9904",
     "station": {
       "address": "Bratří Štefanů 994",
       "city": "Hradec Králové - Slezské Předměstí",
@@ -46575,7 +46575,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Terno Hradec Králové",
+      "name": "(P) Terno Hradec Králové 1",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -47190,8 +47190,8 @@
     }
   },
   "81668": {
-    "name": "(P) Terno Olomouc",
-    "sha1": "8230529d4069bd46c459e3b28e6b36c3bfcf0fde",
+    "name": "(P)Terno Olomouc",
+    "sha1": "47e1b52a676b5d505b263ccb990fad6cfa2c3070",
     "station": {
       "address": "Horní Lán 9",
       "city": "Olomouc",
@@ -47347,7 +47347,7 @@
       ],
       "id": "81668",
       "last_updated": "RESET",
-      "name": "(P) Terno Olomouc",
+      "name": "(P)Terno Olomouc",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -47818,8 +47818,8 @@
     }
   },
   "93103": {
-    "name": "(P) Carling Auto",
-    "sha1": "ea9219ca1683882511933ab6452278f36389b319",
+    "name": "EVB G4 P21211841",
+    "sha1": "41da3c2423598f2d4cc632c4f8f3b9f3e9821232",
     "station": {
       "address": "Hviezdoslavova 1308/51",
       "city": "Brno",
@@ -47914,7 +47914,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Carling Auto",
+      "name": "EVB G4 P21211841",
       "operator": {
         "name": "E.ON Energie, a.s."
       },
