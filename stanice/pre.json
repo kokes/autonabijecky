@@ -8330,7 +8330,7 @@
   },
   "CZ1003475": {
     "name": "Kongresové centrum",
-    "sha1": "e84d1392a7654bc27975ec7cb2cb42fe1b70ede6",
+    "sha1": "ce27b548e0dd9cec803e5a1c56b53a092f44394d",
     "station": {
       "additionalInfo": "P+R Kongresové centrum Praha - Jih 1",
       "branch": "Parken",
@@ -8346,7 +8346,7 @@
       "csName": "Kongresové centrum",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "P + R Congress Center Prague - South 1",
+      "enAdditionalInfo": "P + R Congress Center Prague - South 1, 15min free of charge, then parking fee 50Kč/h.",
       "enCsname": "Kongresové centrum",
       "enExtra": "first 15min free of charge, then 50Kč/h a parking fee",
       "evseId": "CZ*PRE*E1S8063*6",
@@ -18588,9 +18588,8 @@
   },
   "CZ8167949": {
     "name": "P+R Nové Butovice",
-    "sha1": "6042432237a405eb8691c0aaa86e8b64b5f4b75c",
+    "sha1": "9b11a389674ae1eca0968c88ebfeb80cc4a1b0ad",
     "station": {
-      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -19464,6 +19463,83 @@
       "street": "Na Dlážděnce"
     }
   },
+  "CZ8414922": {
+    "name": "Hornbach Černý most",
+    "sha1": "42da0aba0853f3f7e63892f73962daddac431a92",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤150kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8414922",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Hornbach Černý most",
+      "evseId": "CZ*PRE*E1R0072*2",
+      "geoCoord": {
+        "latitude": "50.110702",
+        "longitude": "14.580548"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "false",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "openingTimes": [
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "07:00",
+          "to": "21:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "08:00",
+          "to": "21:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "08:00",
+          "to": "21:00",
+          "wDay": "SU"
+        }
+      ],
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "198 00",
+      "region": "Hlavní město Praha",
+      "street": "Chlumecká 2398"
+    }
+  },
   "CZ8434839": {
     "name": "TS 3969 Rezlerova",
     "sha1": "86e699b54756dfb8e56f60905bd40ae19ed79243",
@@ -19667,9 +19743,8 @@
   },
   "CZ8480116": {
     "name": "Jabloňová u polikliniky",
-    "sha1": "2fcc968f0ca39ac0fe2b892fe5a6f0453e4862ed",
+    "sha1": "2010558ae7c57beeeb1f4749572a949ec718d37d",
     "station": {
-      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -19685,8 +19760,8 @@
       "enCsname": "Jabloňová u polikliniky",
       "evseId": "CZ*PRE*E1S8250*2",
       "geoCoord": {
-        "latitude": "50.056440",
-        "longitude": "14.494180"
+        "latitude": "50.056588",
+        "longitude": "14.494121"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
