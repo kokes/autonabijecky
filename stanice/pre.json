@@ -21800,6 +21800,53 @@
       "street": "Tisá"
     }
   },
+  "CZ9283631": {
+    "name": "Policie ČR Kongresová",
+    "sha1": "754e06a277ff65c76d0428421b0ef962ea8602e8",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤75kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9283631",
+      "csStatus": "operable",
+      "csType": "",
+      "enCsname": "Policie ČR Kongresová",
+      "evseId": "CZ*PRE*E1R0071*2",
+      "geoCoord": {
+        "latitude": "50.062174",
+        "longitude": "14.433172"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6566158ab00b887ef007f111/1.jpeg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "140 00",
+      "region": "Hlavní město Praha",
+      "street": "Kongresová 2"
+    }
+  },
   "CZ9297279": {
     "name": "TS 2981 Stehlíkova",
     "sha1": "0b8dfa478220e41976f8e113182d83ca25c765be",
