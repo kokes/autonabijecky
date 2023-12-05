@@ -20618,84 +20618,6 @@
       "visible": true
     }
   },
-  "173610": {
-    "name": "UR113 - Ivanovice na Hané - 2",
-    "sha1": "eafabd29e5173709916280d0c93889e58b1ea2b9",
-    "station": {
-      "address": {
-        "city": "Ivanovice na Hané",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "236",
-        "latitude": 49.290487,
-        "longitude": 17.0973643,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "exit",
-        "url": ""
-      },
-      "customID": "173610",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T184HC-IT1-0422-172",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 180,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "UR113"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T184HC-IT1-0422-172",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 180,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "UR113"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T184HC-IT1-0422-172",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "UR113"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/a477cada-64d0-41af-985d-07b5e2f314e7.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "UR113 - Ivanovice na Hané - 2",
-      "visible": true
-    }
-  },
   "173648": {
     "name": "R520 - Hradec Králové - Orlice park shopping - 1",
     "sha1": "9cb58e458537ff6eebbf3aa7937a17ee40f7e986",
@@ -28888,6 +28810,767 @@
       "visible": true
     }
   },
+  "185416": {
+    "name": "WB006 - Janov nad Nisou - Hotel Královka - 1",
+    "sha1": "fb705fda75b322687ec31f54d579c2b30f1ccc7b",
+    "station": {
+      "address": {
+        "city": "Janov nad Nisou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "nad Nisou 572/1160",
+        "latitude": 50.7918125,
+        "longitude": 15.1590214,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Janov",
+        "url": ""
+      },
+      "customID": "185416",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB006"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/3505125e-8ede-4f9f-af61-530e0f241258.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB006 - Janov nad Nisou - Hotel Královka - 1",
+      "visible": true
+    }
+  },
+  "185417": {
+    "name": "WB009 - Janov nad Nisou - Hotel Královka - 4",
+    "sha1": "d54661e7986e237819cc1c035b20c34e1494bc77",
+    "station": {
+      "address": {
+        "city": "Janov nad Nisou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "nad Nisou 572/1160",
+        "latitude": 50.7918125,
+        "longitude": 15.1590214,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Janov",
+        "url": ""
+      },
+      "customID": "185417",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB009"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/3505125e-8ede-4f9f-af61-530e0f241258.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB009 - Janov nad Nisou - Hotel Královka - 4",
+      "visible": true
+    }
+  },
+  "185418": {
+    "name": "WB010 - Janov nad Nisou - Hotel Královka - 5",
+    "sha1": "b423b2916197d49b05049c495efd131985c42461",
+    "station": {
+      "address": {
+        "city": "Janov nad Nisou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "nad Nisou 572/1160",
+        "latitude": 50.7918125,
+        "longitude": 15.1590214,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Janov",
+        "url": ""
+      },
+      "customID": "185418",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB010"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/3505125e-8ede-4f9f-af61-530e0f241258.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB010 - Janov nad Nisou - Hotel Královka - 5",
+      "visible": true
+    }
+  },
+  "185419": {
+    "name": "R595 - Valašské Meziříčí - Kaufland",
+    "sha1": "9f8d6d05be79c8e7723dae9fd3a5953ce2a25e02",
+    "station": {
+      "address": {
+        "city": "Valašské Meziříčí",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Nákladního nádraží 848",
+        "latitude": 49.4772042,
+        "longitude": 17.9637736,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "U",
+        "url": ""
+      },
+      "customID": "185419",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R595"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R595"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/be448802-eea4-4624-ba11-d8f8f7010d26.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R595 - Valašské Meziříčí - Kaufland",
+      "visible": true
+    }
+  },
+  "185420": {
+    "name": "UR142 - Praha - OC Letňany - venkovní parkoviště - 1",
+    "sha1": "e065fb929a8400746eda40b0d36e9a318a2f16bb",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "663",
+        "latitude": 50.1383511,
+        "longitude": 14.4992125,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Veselská",
+        "url": ""
+      },
+      "customID": "185420",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR142"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR142"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/6dd9b9e5-fa10-4bab-9a36-4d0271c87b44.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR142 - Praha - OC Letňany - venkovní parkoviště - 1",
+      "visible": true
+    }
+  },
+  "185421": {
+    "name": "UR143 - Praha - OC Letňany - venkovní parkoviště - 2",
+    "sha1": "5b61622f90253bbb2fda06bc646349bd192edcb2",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "663",
+        "latitude": 50.1383511,
+        "longitude": 14.4992125,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Veselská",
+        "url": ""
+      },
+      "customID": "185421",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR143"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR143"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/6dd9b9e5-fa10-4bab-9a36-4d0271c87b44-20231204-115302.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR143 - Praha - OC Letňany - venkovní parkoviště - 2",
+      "visible": true
+    }
+  },
+  "185422": {
+    "name": "UR133 - Ivanovice na Hané - 2",
+    "sha1": "4ef67c8a1dc920ec81c76ea76c92e4a282d78ac7",
+    "station": {
+      "address": {
+        "city": "Ivanovice na Hané",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "236",
+        "latitude": 49.290487,
+        "longitude": 17.0973643,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "exit",
+        "url": ""
+      },
+      "customID": "185422",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR133"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR133"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/006eb278-f2b8-41f1-957c-bf0f82484728.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR133 - Ivanovice na Hané - 2",
+      "visible": true
+    }
+  },
+  "185441": {
+    "name": "WB007 - Janov nad Nisou - Hotel Královka - 2",
+    "sha1": "d1645803f7ff068ed3e29d5e801df7321949b21e",
+    "station": {
+      "address": {
+        "city": "Janov nad Nisou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "nad Nisou 572/1160",
+        "latitude": 50.7918125,
+        "longitude": 15.1590214,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Janov",
+        "url": ""
+      },
+      "customID": "185441",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB007"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/3505125e-8ede-4f9f-af61-530e0f241258.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB007 - Janov nad Nisou - Hotel Královka - 2",
+      "visible": true
+    }
+  },
+  "185442": {
+    "name": "WB008 - Janov nad Nisou - Hotel Královka - 3",
+    "sha1": "3a4a609cac1b54689aa4b4f6f45c04a4534f5f8f",
+    "station": {
+      "address": {
+        "city": "Janov nad Nisou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "nad Nisou 572/1160",
+        "latitude": 50.7918125,
+        "longitude": 15.1590214,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Janov",
+        "url": ""
+      },
+      "customID": "185442",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB008"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/3505125e-8ede-4f9f-af61-530e0f241258.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB008 - Janov nad Nisou - Hotel Královka - 3",
+      "visible": true
+    }
+  },
+  "185444": {
+    "name": "UR140 - Ostrovačice - Jerex, D1/178. km - 2",
+    "sha1": "c85cdde632f00be4b7eca2950372b842746a6b93",
+    "station": {
+      "address": {
+        "city": "664 81 Ostrovačice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "210",
+        "latitude": 49.2154555,
+        "longitude": 16.409755,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Veveří",
+        "url": ""
+      },
+      "customID": "185444",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 110,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 110,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR140"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR140"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/26d4f8a1-b458-4ba2-8335-79ce34e2fe4c.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR140 - Ostrovačice - Jerex, D1/178. km - 2",
+      "visible": true
+    }
+  },
+  "185445": {
+    "name": "UR130 - Harrachov - OC Mamut",
+    "sha1": "b8145e62df555e7fb6dd4ac9ab9acf3889bd4bb2",
+    "station": {
+      "address": {
+        "city": "Harrachov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Svět 101",
+        "latitude": 50.7808208,
+        "longitude": 15.4203731,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Nový",
+        "url": ""
+      },
+      "customID": "185445",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 165,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR130"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 165,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR130"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/d52d45e8-6bab-4a75-8303-726d0830e920.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR130 - Harrachov - OC Mamut",
+      "visible": true
+    }
+  },
+  "185446": {
+    "name": "UR132 - Ivanovice na Hané - 1",
+    "sha1": "1a2696cf30c4ee62ced53be8770e630ca2959278",
+    "station": {
+      "address": {
+        "city": "Ivanovice na Hané",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "236",
+        "latitude": 49.290487,
+        "longitude": 17.0973643,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "exit",
+        "url": ""
+      },
+      "customID": "185446",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR132"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR132"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/006eb278-f2b8-41f1-957c-bf0f82484728.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR132 - Ivanovice na Hané - 1",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
@@ -33579,79 +34262,6 @@
       ],
       "instructions": null,
       "name": "R114 - Mělník-Horní Počaply - Elektrárna Mělník",
-      "visible": true
-    }
-  },
-  "59507": {
-    "name": "R122 - Ostrava - Vítkovice - Teplárna Vítkovice",
-    "sha1": "2565dd27102be1673affe19f1a51c3067e695baf",
-    "station": {
-      "address": {
-        "city": "Ostrava",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "1144/103",
-        "latitude": 49.8152601,
-        "longitude": 18.27386219999994,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Výstavní",
-        "url": ""
-      },
-      "customID": "59507",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T53-IT1-3916-017 ",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R122"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-IT1-3916-017 ",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-IT1-3916-017 ",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R122"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/teplarna-vitkovice-mala.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R122 - Ostrava - Vítkovice - Teplárna Vítkovice",
       "visible": true
     }
   },
