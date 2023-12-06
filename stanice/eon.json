@@ -12655,7 +12655,7 @@
   },
   "229483": {
     "name": "(P) Horácké autodružstvo",
-    "sha1": "b3c46bec0837e9779e5022f9c27505f507405bdc",
+    "sha1": "c168f11cc90750411369acb7167f1c37dbe7cb29",
     "station": {
       "address": "Brněnská 123",
       "city": "Třebíč",
@@ -12734,6 +12734,24 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "219079"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.2150767",
+            "longitude": "15.9115725"
+          },
+          "evse_id": "FI*001*E229483",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "229483"
         }
       ],
       "facilities": [
@@ -12996,7 +13014,7 @@
   },
   "231704": {
     "name": "E.ON Jindřichův Hradec",
-    "sha1": "44b856e0a8892caa883dab7a31b592121b881045",
+    "sha1": "32339dd6cf7212df9814116b8e2981c3eb7cf015",
     "station": {
       "address": "Brněnská",
       "city": "Hustopeče u Brna",
@@ -13141,6 +13159,24 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "220835"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "48.9511511",
+            "longitude": "16.7246378"
+          },
+          "evse_id": "FI*001*E231704",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "231704"
         }
       ],
       "facilities": [
