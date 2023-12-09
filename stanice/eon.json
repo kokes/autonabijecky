@@ -5450,7 +5450,7 @@
   },
   "142613": {
     "name": "E.ON P3 Park Olomouc",
-    "sha1": "4e43f0ffd73cddcd3f423716559fa7311667480f",
+    "sha1": "f491da2d15f426bdd049b04a9ed8208db0ca12c6",
     "station": {
       "address": "Dolní Novosadská",
       "city": "Olomouc",
@@ -5471,7 +5471,30 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2023-12-08T23:02:40.233Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.558698",
             "longitude": "17.260628"
@@ -13200,7 +13223,7 @@
   },
   "232416": {
     "name": "E.ON Kaufland Moravská Třebová",
-    "sha1": "3b43a1b7bb6723be19cb5a322a0f649e417698cf",
+    "sha1": "06473affc9a7e8310af30e87cb97daad9b6bb71c",
     "station": {
       "address": "Švestkový sad",
       "city": "Moravská Třebová",
@@ -13345,6 +13368,24 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "220839"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.7574767",
+            "longitude": "16.6460783"
+          },
+          "evse_id": "CZ*EON*E232416",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "232416"
         }
       ],
       "facilities": [
