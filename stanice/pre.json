@@ -7787,8 +7787,9 @@
   },
   "CZ1003382": {
     "name": "Bechyňská",
-    "sha1": "dd1b9a7618fda5d9a1510d3fdcc8ec934c0eabcb",
+    "sha1": "6c0a8ef9e9736cde0795692da288510dc56dbcd3",
     "station": {
+      "additionalInfo": "Po pravé straně od příjezdu z hlavní silnice",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -7802,6 +7803,7 @@
       "csName": "Bechyňská",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Po pravé straně od příjezdu z hlavní silnice / On the right hand side from the main road",
       "enCsname": "Bechyňská",
       "evseId": "CZ*PRE*E1S8040*2",
       "geoCoord": {
@@ -9180,8 +9182,9 @@
   },
   "CZ1003726": {
     "name": "Pivovar Dolní Počernice",
-    "sha1": "f3f0a2438bf4af39a070dc78e625b613c85f9922",
+    "sha1": "823d25b9e7c55f2871016cc95b87331d991251a3",
     "station": {
+      "additionalInfo": "parkoviště v pivovaru",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -9195,6 +9198,7 @@
       "csName": "Pivovar Dolní Počernice",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "parkoviště v pivovaru /  parking lot at the brewery",
       "enCsname": "Pivovar Dolní Počernice",
       "evseId": "CZ*PRE*E1S8098*2",
       "geoCoord": {
@@ -9204,9 +9208,46 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "isHome": true,
-      "isOpen24Hours": "true",
+      "isOpen24Hours": "false",
       "isPartnerCs": false,
       "isRoaming": false,
+      "openingTimes": [
+        {
+          "from": "07:30",
+          "to": "23:59",
+          "wDay": "MO"
+        },
+        {
+          "from": "07:30",
+          "to": "23:59",
+          "wDay": "TU"
+        },
+        {
+          "from": "07:30",
+          "to": "23:59",
+          "wDay": "WE"
+        },
+        {
+          "from": "07:30",
+          "to": "23:59",
+          "wDay": "TH"
+        },
+        {
+          "from": "07:30",
+          "to": "23:59",
+          "wDay": "FR"
+        },
+        {
+          "from": "10:00",
+          "to": "23:59",
+          "wDay": "SA"
+        },
+        {
+          "from": "10:00",
+          "to": "23:59",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -9385,9 +9426,9 @@
   },
   "CZ1004402": {
     "name": "Parvi Cibulka",
-    "sha1": "d150dd6ec72cf1302b360a40b545a30e88ca967d",
+    "sha1": "63eab6e569fded660e565fd1db2941e5a59e974f",
     "station": {
-      "additionalInfo": "Neben dem Parvi Cibulka-Gebäude",
+      "additionalInfo": "Parkoviště Aalto Cibulka",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -9401,7 +9442,7 @@
       "csName": "Parvi Cibulka",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Next to the Parvi Cibulka building",
+      "enAdditionalInfo": "Parkoviště Aalto Cibulka / parking Aalto Cibulka building",
       "enCsname": "Parvi Cibulka",
       "evseId": "CZ*PRE*E1R0042*2",
       "geoCoord": {
@@ -9566,9 +9607,9 @@
   },
   "CZ1004447": {
     "name": "TS 2138 Svojšovická (struhařovská)",
-    "sha1": "3ff55c1a6a57380b8e6cb4102dc987ea97ebdcdc",
+    "sha1": "c76af3f3b0218098b7d611ebfec22c9135428970",
     "station": {
-      "additionalInfo": "Bei der Transformatorenstation TS 2138",
+      "additionalInfo": "u trafostanice TS 2138",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -9582,7 +9623,7 @@
       "csName": "TS 2138 Svojšovická (struhařovská)",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Next to the transformation station number TS 2138",
+      "enAdditionalInfo": "u trafostanice TS 2138/ Next to the transformation station number TS 2138",
       "enCsname": "TS 2138 Svojšovická (struhařovská)",
       "evseId": "CZ*PRE*E1S8141*1",
       "geoCoord": {
@@ -11098,8 +11139,9 @@
   },
   "CZ1004637": {
     "name": "Penny Market Hnězdenská",
-    "sha1": "fa8d545cff978f226cf15c1ffe38648d3ed8da56",
+    "sha1": "5288504327bfdc37e20812027b21905c63ba8f16",
     "station": {
+      "additionalInfo": "Parkoviště před Penny marketem",
       "branch": "Lebensmitteleinzelhandel",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11113,7 +11155,7 @@
       "csName": "Penny Market Hnězdenská",
       "csStatus": "inoperable",
       "csType": "",
-      "enAdditionalInfo": "Undergoing reconstruction until the end of 2023",
+      "enAdditionalInfo": "Parkoviště před Penny marketem / parking lot the Penny market",
       "enCsname": "Penny Market Hnězdenská",
       "evseId": "CZ*PRE*E1R0053*3",
       "geoCoord": {
@@ -11148,8 +11190,9 @@
   },
   "CZ1004638": {
     "name": "Europark I + II, III",
-    "sha1": "0c23e636511f4b0e6a6869a13d04de9da2bc76af",
+    "sha1": "c2502e8049ce8b0990828cd20ecd1443de316a65",
     "station": {
+      "additionalInfo": "parkoviště OC",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11163,6 +11206,7 @@
       "csName": "Europark I + II, III",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "parkoviště OC / parking OC",
       "enCsname": "Europark I + II, III",
       "evseId": "CZ*PRE*E1S8151*6",
       "geoCoord": {
@@ -11629,8 +11673,9 @@
   },
   "CZ1004753": {
     "name": "Benzina Jižní Spojka",
-    "sha1": "802d45279a6786deaeafd2ab1f4a88b121a7abf8",
+    "sha1": "8d1c7afdd3572ebace90e7c225655aeb5b0e9b22",
     "station": {
+      "additionalInfo": "Hned za benzinou",
       "branch": "Baumarkt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11644,6 +11689,7 @@
       "csName": "Benzina Jižní Spojka",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Hned za benzinou / Right behind the gas",
       "enCsname": "Benzina Jižní Spojka",
       "evseId": "CZ*PRE*E1R0050*2",
       "geoCoord": {
@@ -12411,57 +12457,6 @@
       "postalCode": "25724",
       "region": "Středočeský kraj",
       "street": "E65 Odpočívka, Naháč"
-    }
-  },
-  "CZ2003096": {
-    "name": "OMV Vrbová Lhota (jih)",
-    "sha1": "a41764ca7ebe47a0f79cbd9ba4d1fecd18826a57",
-    "station": {
-      "additionalInfo": "Bei der OMV Tankstelle",
-      "branch": "Tankstelle",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "DC Charging ≤50kW"
-        ]
-      },
-      "city": "Vrbová Lhota",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ2003096",
-      "csName": "OMV Vrbová Lhota (jih)",
-      "csStatus": "operable",
-      "csType": "",
-      "enAdditionalInfo": "By the OMV gas station",
-      "enCsname": "OMV Vrbová Lhota (jih)",
-      "evseId": "CZ*PRE*E1R5030*2",
-      "geoCoord": {
-        "latitude": "50.120500",
-        "longitude": "15.081750"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "images": [
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa34/pre_app_omv_vrbova_lhota_jih_2.jpg"
-        }
-      ],
-      "isHome": true,
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "isRoaming": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "connectorFormat": "Cable",
-          "connectorStandard": "Chademo",
-          "plug": "CHAdeMO"
-        }
-      ],
-      "postalCode": "28911",
-      "region": "Středočeský kraj",
-      "street": "Čerpací stanice D11 35.km"
     }
   },
   "CZ2003177": {
@@ -15911,8 +15906,9 @@
   },
   "CZ5304724": {
     "name": "EuroOil Česká Třebová",
-    "sha1": "dfaf6c10684cfd785cd0d7990822e2c5325fbf4b",
+    "sha1": "54ee0d2335863bcf251e01b7841d3a7a0cce6314",
     "station": {
+      "additionalInfo": "Za mycí linkou na benzínce",
       "branch": "Tankstelle",
       "chargingFacilities": {
         "chargingFacility": [
@@ -15926,6 +15922,7 @@
       "csName": "EuroOil Česká Třebová",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Za mycí linkou na benzínce / Behind the washing line at the gas station",
       "enCsname": "EuroOil Česká Třebová",
       "evseId": "CZ*PRE*E1R0056*2",
       "geoCoord": {
@@ -19004,9 +19001,9 @@
   },
   "CZ8333737": {
     "name": "TS 2588 Mukařovská",
-    "sha1": "eace19f78f13a7c3c0470cd9016f2df2ad05f717",
+    "sha1": "f1ee9d8aa447bd97dfb509d77d70d168885b051b",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "u trafostanice",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -19019,6 +19016,7 @@
       "csName": "TS 2588 Mukařovská",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "u trafostanice / by the transformation station",
       "enCsname": "TS 2588 Mukařovská",
       "evseId": "CZ*PRE*E1S8190*2",
       "geoCoord": {
@@ -19192,9 +19190,9 @@
   },
   "CZ8411607": {
     "name": "TS 1406 Na Dlážděnce",
-    "sha1": "4382d08174687bb53bfdeb24eba6ee3e42680696",
+    "sha1": "ca13d9d4d7e25d5883bdb3f12395670e38ff7c82",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "u trafostanice",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -19207,6 +19205,7 @@
       "csName": "TS 1406 Na Dlážděnce",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "u trafostanice / by the tranformation station",
       "enCsname": "TS 1406 Na Dlážděnce",
       "evseId": "CZ*PRE*E1S8206*1",
       "geoCoord": {
@@ -19519,8 +19518,9 @@
   },
   "CZ8480116": {
     "name": "Jabloňová u polikliniky",
-    "sha1": "2010558ae7c57beeeb1f4749572a949ec718d37d",
+    "sha1": "4d9b4edb206392314116578cfc5442945ec279e6",
     "station": {
+      "additionalInfo": "Na rohu křižovatky",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -19533,6 +19533,7 @@
       "csName": "Jabloňová u polikliniky",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Na rohu křižovatky / At the corner of the intersection",
       "enCsname": "Jabloňová u polikliniky",
       "evseId": "CZ*PRE*E1S8250*2",
       "geoCoord": {
@@ -19663,9 +19664,9 @@
   },
   "CZ8567925": {
     "name": "Benzina Kbelská",
-    "sha1": "643cee0c76ea266f0d48b548a7131891f1e5b1b5",
+    "sha1": "32b08a3fc95bc5b0d1fd98afec68179acea46694",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "Hned za benzinou po pravé straně",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -19678,6 +19679,7 @@
       "csName": "Benzina Kbelská",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Hned za benzinou po pravé straně / Just behind the gas station on the right",
       "enCsname": "Benzina Kbelská",
       "evseId": "CZ*PRE*E1R0069*3",
       "geoCoord": {
@@ -19765,6 +19767,47 @@
       "street": "Tererova"
     }
   },
+  "CZ8635878": {
+    "name": "Palác Pardubice",
+    "sha1": "4d38fc3958b209dad7f8d3f74040f910618c33d1",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Pardubice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8635878",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "garáže v obchodním domě Palác / Palác shopping mall garages",
+      "enCsname": "Palác Pardubice",
+      "evseId": "CZ*PRE*E1S8259*6",
+      "geoCoord": {
+        "latitude": "50.036879",
+        "longitude": "15.768839"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "530 02",
+      "region": "Pardubický kraj",
+      "street": "Masarykovo nám."
+    }
+  },
   "CZ8671071": {
     "name": "e-senohraby exhibition",
     "sha1": "403fa2238aa562b1489ddb9de759dbb5df89c196",
@@ -19809,9 +19852,9 @@
   },
   "CZ8685815": {
     "name": "Inspirace nad Rokytkou",
-    "sha1": "4b23a54ba4c2134b62948119d7078be44591b728",
+    "sha1": "76b7c77137c835b78b7a5ab34fcd7d17c8d9cb58",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "Po pravé straně dětské hřiště, na konci slepé uličky",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -19824,6 +19867,7 @@
       "csName": "Inspirace nad Rokytkou",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Po pravé straně dětské hřiště, na konci slepé uličky / Children's playground on the right, at the end of a dead end",
       "enCsname": "Inspirace nad Rokytkou",
       "evseId": "CZ*PRE*E1S8251*2",
       "geoCoord": {
@@ -19909,6 +19953,46 @@
       "postalCode": "14200",
       "region": "Hlavní město Praha",
       "street": "Smolkova"
+    }
+  },
+  "CZ8747449": {
+    "name": "OMV Karlovy Vary",
+    "sha1": "76648ffe5308ebfbffabb1e02a129b9d6b242e58",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Karlovy Vary",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8747449",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "OMV Karlovy Vary",
+      "evseId": "CZ*PRE*E1R5005*2",
+      "geoCoord": {
+        "latitude": "50.232679",
+        "longitude": "12.867690"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "360 05",
+      "region": "Karlovarský kraj",
+      "street": "Pobřežní"
     }
   },
   "CZ8797390": {
@@ -20201,9 +20285,9 @@
   },
   "CZ8959186": {
     "name": "Komunitní centrum Kardašovská",
-    "sha1": "bac0cc5c6691318c392cca026a7bce4602f40c66",
+    "sha1": "f7c97ee9efdcd382053318ba027a9d9dc8487306",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "v obytné zóně",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -20216,6 +20300,7 @@
       "csName": "Komunitní centrum Kardašovská",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "v obytné zóně / In a residential area",
       "enCsname": "Komunitní centrum Kardašovská",
       "evseId": "CZ*PRE*E1S8249*2",
       "geoCoord": {
@@ -20767,8 +20852,9 @@
   },
   "CZ9053605": {
     "name": "TS 1406 Na Dlážděnce",
-    "sha1": "610f04183b88bec229c8ca7b564687eaf865eef0",
+    "sha1": "11fc23279e9d51ab6ab9503b5d363e7f3ef5a7c2",
     "station": {
+      "additionalInfo": "u trafostanice",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -20781,6 +20867,7 @@
       "csName": "TS 1406 Na Dlážděnce",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "u trafostanice / by the transformation station",
       "enCsname": "TS 1406 Na Dlážděnce",
       "evseId": "CZ*PRE*E1S8204*1",
       "geoCoord": {
@@ -20967,9 +21054,9 @@
   },
   "CZ9103515": {
     "name": "OC Soběslav",
-    "sha1": "5c0f0b31577cf553cfd013f3d08cad776d9e675f",
+    "sha1": "cd7ae0592ee5564aa3bb48b219fad8f868174099",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "Na parkovišti vedle Lidlu u lékárny Dr Max",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤150kW"
@@ -20982,6 +21069,7 @@
       "csName": "OC Soběslav",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Na parkovišti vedle Lidlu u lékárny Dr Max / In the parking lot next to Lidl by the Dr Max pharmacy",
       "enCsname": "OC Soběslav",
       "evseId": "CZ*PRE*E1R0070*2",
       "geoCoord": {
@@ -21784,6 +21872,47 @@
       "postalCode": "19000",
       "region": "Hlavní město Praha",
       "street": "Lovosická 640"
+    }
+  },
+  "CZ9429409": {
+    "name": "EuroOil Zdice",
+    "sha1": "0508ff3766f8d1d6c3297061a5c2773a9facfec5",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Zdice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9429409",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "U čerpací stanice EuroOil / By the EuroOil gas station",
+      "enCsname": "EuroOil Zdice",
+      "evseId": "CZ*PRE*E1R0078*2",
+      "geoCoord": {
+        "latitude": "49.905201",
+        "longitude": "13.961853"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "267 51",
+      "region": "Středočeský kraj",
+      "street": "Komenského"
     }
   },
   "CZ9441199": {
@@ -22622,9 +22751,9 @@
   },
   "CZ9830138": {
     "name": "TS 2241 Šalvějová",
-    "sha1": "69ef1294c037b39b8edbd2790f946157d93d86e1",
+    "sha1": "d31eb0ab64512a301f9efeb37207ae2879eed4e9",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "u trafostanice",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -22637,6 +22766,7 @@
       "csName": "TS 2241 Šalvějová",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "u trafostanice / by the transformation station",
       "enCsname": "TS 2241 Šalvějová",
       "evseId": "CZ*PRE*E1S8211*2",
       "geoCoord": {
