@@ -150,50 +150,6 @@
       "street": "Stroupežnického 21"
     }
   },
-  "CZ1002597": {
-    "name": "OC Lužiny",
-    "sha1": "723971e99e1dba0f16b5da512b2ed3e54fbe7b1c",
-    "station": {
-      "additionalInfo": "Am Eingang des Parkplatzes.",
-      "branch": "Parken",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
-        ]
-      },
-      "city": "Praha",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ1002597",
-      "csName": "OC Lužiny",
-      "csStatus": "operable",
-      "csType": "",
-      "enAdditionalInfo": "At the entrance of the parking lot.",
-      "enCsname": "OC Lužiny",
-      "evseId": "CZ*PRE*E1S0051*1",
-      "geoCoord": {
-        "latitude": "50.044083",
-        "longitude": "14.331306"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "isHome": true,
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "isRoaming": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "connectorFormat": "Socket",
-          "connectorStandard": "IEC-62196-T2",
-          "plug": "Type 2 Outlet"
-        }
-      ],
-      "postalCode": "15500",
-      "region": "Hlavní město Praha",
-      "street": "Archeologická 2256/1"
-    }
-  },
   "CZ1002598": {
     "name": "Cinestar Anděl",
     "sha1": "766ed6fd45d38d340f6adb1100c378d02ba0ab3d",
@@ -18254,6 +18210,48 @@
       "street": "Stará náves"
     }
   },
+  "CZ8140336": {
+    "name": "Hornbach Svinov",
+    "sha1": "f2e6347b0395e70b5ad55de0a95e1215f1b5fae7",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Ostrava Svinov",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8140336",
+      "csName": "Hornbach Svinov",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "Hornbach Ostrava Svinov",
+      "enCsname": "Hornbach Svinov",
+      "evseId": "CZ*PRE*E1S8261*2",
+      "geoCoord": {
+        "latitude": "49.825563",
+        "longitude": "18.210142"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "721 00",
+      "region": "Moravskoslezský kraj",
+      "street": "Bílovecká 3"
+    }
+  },
   "CZ8142276": {
     "name": "Corso Court Karlín",
     "sha1": "2a565f1ad80c01c74c852c67f522fb8a1ef4f127",
@@ -18745,6 +18743,48 @@
       "postalCode": "14200",
       "region": "Hlavní město Praha",
       "street": "Novodvorská 1947/82"
+    }
+  },
+  "CZ8252875": {
+    "name": "Vlakové nádraží Praha Vysočany",
+    "sha1": "248c4392eefcfba46236bc3e89a88114288adb12",
+    "station": {
+      "additionalInfo": "Vlakové nádraží Praha Vysočany",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8252875",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "Vlakové nádraží Praha Vysočany / Train station Praha Vysočany",
+      "enCsname": "Vlakové nádraží Praha Vysočany",
+      "evseId": "CZ*PRE*E1S8266*2",
+      "geoCoord": {
+        "latitude": "50.111795",
+        "longitude": "14.498222"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "190 00",
+      "region": "Hlavní město Praha",
+      "street": "Pešlova"
     }
   },
   "CZ8257741": {
@@ -19905,6 +19945,49 @@
       "street": "Ivana Hlinky"
     }
   },
+  "CZ8718815": {
+    "name": "Hornbach Olomouc",
+    "sha1": "030491e8b6de43f601fa4ab92b31eb72cfd5fd5c",
+    "station": {
+      "additionalInfo": "Hornbach Olomouc",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Olomouc",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8718815",
+      "csName": "Hornbach Olomouc",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "Hornbach Olomouc",
+      "enCsname": "Hornbach Olomouc",
+      "evseId": "CZ*PRE*E1S8265*2",
+      "geoCoord": {
+        "latitude": "49.587084",
+        "longitude": "17.288909"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "779 00",
+      "region": "Olomoucký kraj",
+      "street": "Rolsberská"
+    }
+  },
   "CZ8736457": {
     "name": "ZŠ a MŠ Smolkova",
     "sha1": "034a926e020f88710a4556c2fa003431f4e81d12",
@@ -20998,6 +21081,48 @@
       "street": "Křimická"
     }
   },
+  "CZ9100366": {
+    "name": "RS 3820 Dýšinská",
+    "sha1": "0288cdb5a4c45fe2534488c4648dfd3439592740",
+    "station": {
+      "additionalInfo": "Trafostanice na ulici Dýšinská",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9100366",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "Trafostanice na ulici Dýšinská / Substation Dýšisnká st.",
+      "enCsname": "RS 3820 Dýšinská",
+      "evseId": "CZ*PRE*E1S8267*2",
+      "geoCoord": {
+        "latitude": "50.046945",
+        "longitude": "14.554299"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "109 00",
+      "region": "Hlavní město Praha",
+      "street": "Dýšinská"
+    }
+  },
   "CZ9101830": {
     "name": "DOCK IN",
     "sha1": "e834d4b167dcfcd3850e00d457bb98e861eea8fb",
@@ -21616,6 +21741,49 @@
       "postalCode": "403 36",
       "region": "Ústecký kraj",
       "street": "Tisá"
+    }
+  },
+  "CZ9283181": {
+    "name": "Hornbach Brno",
+    "sha1": "fba5f91da534d8acbfe747462f5426404260101b",
+    "station": {
+      "additionalInfo": "Hornbach Brno",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Brno",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9283181",
+      "csName": "Hornbach Brno",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "Hornbach Brno",
+      "enCsname": "Hornbach Brno",
+      "evseId": "CZ*PRE*E1S8263*2",
+      "geoCoord": {
+        "latitude": "49.177952",
+        "longitude": "16.604957"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "639 00",
+      "region": "Jihomoravský kraj",
+      "street": "Heršpická 3"
     }
   },
   "CZ9283631": {
@@ -22579,6 +22747,47 @@
       "postalCode": "10000",
       "region": "Hlavní město Praha",
       "street": "Omská"
+    }
+  },
+  "CZ9751918": {
+    "name": "OMV Jičínská",
+    "sha1": "f4f16faa740053ec1278a1d4e04dd8390d9f02e0",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤75kW"
+        ]
+      },
+      "city": "Mladá Boleslav",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9751918",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "U stanice EuroOil / by the EuroOil gas station",
+      "enCsname": "OMV Jičínská",
+      "evseId": "CZ*PRE*E1R0079*2",
+      "geoCoord": {
+        "latitude": "50.410651",
+        "longitude": "14.935440"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "293 01",
+      "region": "Středočeský kraj",
+      "street": "Jičínská 1355"
     }
   },
   "CZ9770201": {
