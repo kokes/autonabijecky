@@ -194,6 +194,87 @@
       "street": "Radlická 3216/1g"
     }
   },
+  "CZ1002599": {
+    "name": "IKEA Černý Most",
+    "sha1": "9dfbb55de1aaa5f4a8070f82e183895d13536d0c",
+    "station": {
+      "additionalInfo": "Dole pod nákupním centrem v krytém parkovišti",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1002599",
+      "csName": "IKEA Černý Most",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "Dole pod nákupním centrem v krytém parkovišti / Down under the shopping center in the covered car park",
+      "enCsname": "IKEA Černý Most",
+      "evseId": "CZ*PRE*E1R0003*3",
+      "geoCoord": {
+        "latitude": "50.104939",
+        "longitude": "14.587298"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "false",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "openingTimes": [
+        {
+          "from": "09:00",
+          "to": "22:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "09:00",
+          "to": "22:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "09:00",
+          "to": "22:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "09:00",
+          "to": "22:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "09:00",
+          "to": "22:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "09:00",
+          "to": "22:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "09:00",
+          "to": "22:00",
+          "wDay": "SU"
+        }
+      ],
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Chlumecká 664/10"
+    }
+  },
   "CZ1002600": {
     "name": "OC Chodov",
     "sha1": "3e0300cf583482cc90ea4ccbc9de3deb4c256748",
@@ -2626,6 +2707,50 @@
       "postalCode": "16300",
       "region": "Hlavní město Praha",
       "street": "Třanovského"
+    }
+  },
+  "CZ1002662": {
+    "name": "TS 4623 Jiránkova",
+    "sha1": "18cb275a872c68b9ce56f6c94ebc29d3bd992529",
+    "station": {
+      "additionalInfo": "Parkovací místa před trafostanicí",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1002662",
+      "csName": "TS 4623 Jiránkova",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "Parkovací místa před trafostanicí / By the transformation station 4623",
+      "enCsname": "TS 4623 Jiránkova",
+      "evseId": "CZ*PRE*E1S7038*1",
+      "geoCoord": {
+        "latitude": "50.063431",
+        "longitude": "14.308307"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16300",
+      "region": "Hlavní město Praha",
+      "street": "Jiránkova 1135/6"
     }
   },
   "CZ1002663": {
@@ -7334,6 +7459,57 @@
       "street": "Hrusická"
     }
   },
+  "CZ1003334": {
+    "name": "TS 4647 Na Moklině",
+    "sha1": "81f1e780f4159d124256f4c1b009b06e63315d86",
+    "station": {
+      "additionalInfo": "Na trafostanici v odbočce z ulice Na Moklině",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003334",
+      "csName": "TS 4647 Na Moklině",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "Na trafostanici v odbočce z ulice Na Moklině / Next to the transformation station number TS 4647",
+      "enCsname": "TS 4647 Na Moklině",
+      "evseId": "CZ*PRE*E1S8107*1",
+      "geoCoord": {
+        "latitude": "50.069580",
+        "longitude": "14.298896"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365356f4b8a750ff79a9b6/pre_app_ts_4647_na_mokline.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16300",
+      "region": "Hlavní město Praha",
+      "street": "Na Moklině"
+    }
+  },
   "CZ1003335": {
     "name": "TS 4654 Makovského",
     "sha1": "cbd4c1a28c8ef00d3bd6d188aa83bd461c4e4ad9",
@@ -8701,7 +8877,7 @@
   },
   "CZ1003549": {
     "name": "Skanska Reality Čtvrť Emila Kolbena",
-    "sha1": "5934c698498ac73b4ee1984a4a675f9fce9b94f0",
+    "sha1": "6259b2c2fdd37aa9ebde2796dba34e8280f7b07d",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -8745,7 +8921,7 @@
       ],
       "postalCode": "19000",
       "region": "Hlavní město Praha",
-      "street": "Pechmanových"
+      "street": "Pechmanových 1031/6"
     }
   },
   "CZ1003550": {
@@ -11817,6 +11993,50 @@
       "street": "Barákova 237/8"
     }
   },
+  "CZ2002640": {
+    "name": "VTP Roztoky",
+    "sha1": "ae6bc89d1f08c9b7fb4b3185a864b1289feaa7da",
+    "station": {
+      "additionalInfo": "Parkovací místa před VTP Roztoky",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Roztoky",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2002640",
+      "csName": "VTP Roztoky",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "Parkovací místa před VTP Roztoky / Parking spaces in front of VTP Roztoky",
+      "enCsname": "VTP Roztoky",
+      "evseId": "CZ*PRE*E1S0041*1",
+      "geoCoord": {
+        "latitude": "50.160309",
+        "longitude": "14.369014"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "25263",
+      "region": "Středočeský kraj",
+      "street": "Přílepská 1920"
+    }
+  },
   "CZ2002670": {
     "name": "OC Central Kladno",
     "sha1": "061ca51d04bd8b888958ccfa992c112dd68eb520",
@@ -12415,6 +12635,57 @@
       "street": "E65 Odpočívka, Naháč"
     }
   },
+  "CZ2003096": {
+    "name": "OMV Vrbová Lhota (jih)",
+    "sha1": "5cad497803751a0b7008073f4e2e4d438885f18b",
+    "station": {
+      "additionalInfo": "Hned vedle OMV po pravé straně",
+      "branch": "Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Vrbová Lhota",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ2003096",
+      "csName": "OMV Vrbová Lhota (jih)",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "Hned vedle OMV po pravé straně / By the OMV gas station",
+      "enCsname": "OMV Vrbová Lhota (jih)",
+      "evseId": "CZ*PRE*E1R5030*2",
+      "geoCoord": {
+        "latitude": "50.120500",
+        "longitude": "15.081750"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa34/pre_app_omv_vrbova_lhota_jih_2.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "28911",
+      "region": "Středočeský kraj",
+      "street": "Čerpací stanice D11 35.km"
+    }
+  },
   "CZ2003177": {
     "name": "Mníšek parkoviště Pražská",
     "sha1": "016f8c71da516e79b05a4f70fdb6c10c358ce199",
@@ -12772,55 +13043,6 @@
       "street": "D11 35 km (směr Praha)"
     }
   },
-  "CZ2003594": {
-    "name": "Monínec",
-    "sha1": "a26f6a9040b6b301bb3b211272a302d27d030526",
-    "station": {
-      "branch": "Hotel",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
-        ]
-      },
-      "city": "Sedlec-Prčice",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ2003594",
-      "csName": "Monínec",
-      "csStatus": "operable",
-      "csType": "",
-      "enCsname": "Monínec",
-      "evseId": "CZ*PRE*E1S8090*2",
-      "geoCoord": {
-        "latitude": "49.544680",
-        "longitude": "14.516141"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "images": [
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651eff4b8a750ff7993e5/pre_app_moninec.jpg"
-        }
-      ],
-      "isHome": true,
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "isRoaming": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "connectorFormat": "Socket",
-          "connectorStandard": "IEC-62196-T2",
-          "plug": "Type 2 Outlet"
-        }
-      ],
-      "postalCode": "25791",
-      "region": "Středočeský kraj",
-      "street": "Monínec 7"
-    }
-  },
   "CZ2003608": {
     "name": "Zámek Průhonice parkoviště",
     "sha1": "a4b01051c6b738e7f97b6eef93fe24470dba7a1e",
@@ -13069,98 +13291,6 @@
       "postalCode": "46849",
       "region": "Středočeský kraj",
       "street": "Harrachov 520"
-    }
-  },
-  "CZ2004752": {
-    "name": "Hornbach Čestlice",
-    "sha1": "6e16944f25681e87969e13130f69ea1b31604853",
-    "station": {
-      "branch": "Baumarkt",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
-        ]
-      },
-      "city": "Čestlice",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ2004752",
-      "csName": "Hornbach Čestlice",
-      "csStatus": "operable",
-      "csType": "",
-      "enAdditionalInfo": "Opening hours: Mo-Fr 7:00-21:00, Sat-Sun 8:00-21:00",
-      "enCsname": "Hornbach Čestlice",
-      "evseId": "CZ*PRE*E1S8183*2",
-      "geoCoord": {
-        "latitude": "49.996917",
-        "longitude": "14.585500"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "images": [
-        {
-          "class": "locationPhoto",
-          "type": "png",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365356f4b8a750ff79a988/hornbach_cestlice.png"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365356f4b8a750ff79a988/imgonline-com-ua-resize-cJvK61uFn95mD.jpg"
-        }
-      ],
-      "isHome": true,
-      "isOpen24Hours": "false",
-      "isPartnerCs": false,
-      "isRoaming": false,
-      "openingTimes": [
-        {
-          "from": "07:00",
-          "to": "21:00",
-          "wDay": "MO"
-        },
-        {
-          "from": "07:00",
-          "to": "21:00",
-          "wDay": "TU"
-        },
-        {
-          "from": "07:00",
-          "to": "21:00",
-          "wDay": "WE"
-        },
-        {
-          "from": "07:00",
-          "to": "21:00",
-          "wDay": "TH"
-        },
-        {
-          "from": "07:00",
-          "to": "21:00",
-          "wDay": "FR"
-        },
-        {
-          "from": "08:00",
-          "to": "21:00",
-          "wDay": "SA"
-        },
-        {
-          "from": "08:00",
-          "to": "21:00",
-          "wDay": "SU"
-        }
-      ],
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "connectorFormat": "Socket",
-          "connectorStandard": "IEC-62196-T2",
-          "plug": "Type 2 Outlet"
-        }
-      ],
-      "postalCode": "25101",
-      "region": "Středočeský kraj",
-      "street": "Lipová 281"
     }
   },
   "CZ3102615": {
@@ -13754,6 +13884,57 @@
       "postalCode": "34022",
       "region": "Plzeňský kraj",
       "street": "Nádražní"
+    }
+  },
+  "CZ3202877": {
+    "name": "Rentiro SE 2",
+    "sha1": "b16bf93b0dab8277ffe624bf33eb4da7669eb799",
+    "station": {
+      "additionalInfo": "Vedle vjezdu do areálu Škoda",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Plzeň",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ3202877",
+      "csName": "Rentiro SE 2",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "Vedle vjezdu do areálu Škoda / Next to the entrance to the Škoda complex",
+      "enCsname": "Rentiro SE 2",
+      "evseId": "CZ*PRE*E1R5120*2",
+      "geoCoord": {
+        "latitude": "49.737378",
+        "longitude": "13.349382"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a2f4b8a750ff7999fb/pre_app_rentiro_se_2_3.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "31800",
+      "region": "Plzeňský kraj",
+      "street": "Na Pomezí"
     }
   },
   "CZ3202886": {
@@ -16880,6 +17061,50 @@
       "street": "Plumlovská"
     }
   },
+  "CZ7102812": {
+    "name": "OMV Olomouc",
+    "sha1": "bb5b5266bed4b5338b13d325c43adcf8c66ec6fe",
+    "station": {
+      "additionalInfo": "Na parkovišti za budovou čerpací stanice OMV",
+      "branch": "Tankstelle",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Olomouc",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ7102812",
+      "csName": "OMV Olomouc",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "Na parkovišti za budovou čerpací stanice OMV / At the parking lot of the gas station",
+      "enCsname": "OMV Olomouc",
+      "evseId": "CZ*PRE*E1R5065*2",
+      "geoCoord": {
+        "latitude": "49.572954",
+        "longitude": "17.231797"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "77900",
+      "region": "Olomoucký kraj",
+      "street": "Brněnská"
+    }
+  },
   "CZ7103001": {
     "name": "EuroOil Šumperk",
     "sha1": "c78770935f841d4e7d8a0259f09872fa3c0ed78d",
@@ -16973,55 +17198,6 @@
       "postalCode": "79376",
       "region": "Olomoucký kraj",
       "street": "Krnovská 225"
-    }
-  },
-  "CZ7103451": {
-    "name": "Centrum Moravia Mercedes",
-    "sha1": "eb432070787f5ef66b4238234de6fb75773316d4",
-    "station": {
-      "branch": "unbekannt",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "DC Charging ≤75kW"
-        ]
-      },
-      "city": "Olomouc",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ7103451",
-      "csName": "Centrum Moravia Mercedes",
-      "csStatus": "operable",
-      "csType": "",
-      "enCsname": "Centrum Moravia Mercedes",
-      "evseId": "CZ*PRE*E1R0044*2",
-      "geoCoord": {
-        "latitude": "49.574089",
-        "longitude": "17.231840"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "images": [
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f0f4b8a750ff799429/pre_app_centrum_moravia_mercedes_1.jpg"
-        }
-      ],
-      "isHome": true,
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "isRoaming": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "connectorFormat": "Cable",
-          "connectorStandard": "IEC-62196-T2-COMBO",
-          "plug": "CCS Combo 2 Plug (Cable Attached)"
-        }
-      ],
-      "postalCode": "78301",
-      "region": "Olomoucký kraj",
-      "street": "Horní lán 415/3"
     }
   },
   "CZ7103634": {
@@ -18161,6 +18337,48 @@
       "street": "Rudná 2978/11"
     }
   },
+  "CZ8117483": {
+    "name": "Kardausova DC",
+    "sha1": "ff054de464e9a4ffee6829bbad014bf5771112ff",
+    "station": {
+      "additionalInfo": "na ulici Kardausova",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤75kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8117483",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "na ulici Kardausova / Kardausova street",
+      "enCsname": "Kardausova DC",
+      "evseId": "CZ*PRE*E1R0083*1",
+      "geoCoord": {
+        "latitude": "50.066294",
+        "longitude": "14.551836"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "109 00",
+      "region": "Hlavní město Praha",
+      "street": "Kardausova"
+    }
+  },
   "CZ8131682": {
     "name": "Tržiště",
     "sha1": "c94148f5a79e26c76c05cf7fcb1ce89b2a5b0b38",
@@ -18834,6 +19052,47 @@
       "postalCode": "18100",
       "region": "Hlavní město Praha",
       "street": "Gdaňská"
+    }
+  },
+  "CZ8278104": {
+    "name": "Auto Toman Třinec",
+    "sha1": "2150b47ce96cbd2fed8b59e398ea9c385d32dde7",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Třinec",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8278104",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "Auto Toman Třinec / Car Dealership Třinec",
+      "enCsname": "Auto Toman Třinec",
+      "evseId": "CZ*PRE*E1S0072*2",
+      "geoCoord": {
+        "latitude": "49.676579",
+        "longitude": "18.666852"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "739 61",
+      "region": "Moravskoslezský kraj",
+      "street": "Lidická 166"
     }
   },
   "CZ8280333": {
@@ -19848,6 +20107,48 @@
       "street": "Masarykovo nám."
     }
   },
+  "CZ8653262": {
+    "name": "Auto Toman Havířov",
+    "sha1": "90f433fe91da0abea8e91465a41bcb75a00eb53c",
+    "station": {
+      "additionalInfo": "Auto Toman Havířov",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Haviřov",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8653262",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "Auto Toman Havířov / Car Dealership Havířov",
+      "enCsname": "Auto Toman Havířov",
+      "evseId": "CZ*PRE*E1S0073*2",
+      "geoCoord": {
+        "latitude": "49.777823",
+        "longitude": "18.444744"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "736 01",
+      "region": "Moravskoslezský kraj",
+      "street": "Dlouhá tř. 65"
+    }
+  },
   "CZ8671071": {
     "name": "e-senohraby exhibition",
     "sha1": "403fa2238aa562b1489ddb9de759dbb5df89c196",
@@ -19945,6 +20246,48 @@
       "street": "Ivana Hlinky"
     }
   },
+  "CZ8689769": {
+    "name": "Kardausova AC",
+    "sha1": "8e4d81359d046914f61ab45e213e33aa0183c5a5",
+    "station": {
+      "additionalInfo": "na ulici Kardausova vedle autobusové zastávky",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8689769",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "na ulici Kardausova vedle autobusové zastávky / Kardausova street",
+      "enCsname": "Kardausova AC",
+      "evseId": "CZ*PRE*E1S8270*2",
+      "geoCoord": {
+        "latitude": "50.066715",
+        "longitude": "14.553652"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "109 00",
+      "region": "Hlavní město Praha",
+      "street": "Kardausova"
+    }
+  },
   "CZ8718815": {
     "name": "Hornbach Olomouc",
     "sha1": "030491e8b6de43f601fa4ab92b31eb72cfd5fd5c",
@@ -20040,7 +20383,7 @@
   },
   "CZ8747449": {
     "name": "OMV Karlovy Vary",
-    "sha1": "76648ffe5308ebfbffabb1e02a129b9d6b242e58",
+    "sha1": "57353cb94b9a2c9b7f5a5d17757e27edcad9ace8",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -20051,7 +20394,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8747449",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "OMV Karlovy Vary",
       "evseId": "CZ*PRE*E1R5005*2",
@@ -20933,6 +21276,56 @@
       "street": "Lovosická 640"
     }
   },
+  "CZ9034292": {
+    "name": "Loučimská",
+    "sha1": "ac434361e2af12a7ce58e6c2c8103c57b96b5f18",
+    "station": {
+      "additionalInfo": "Parkoviště u fotbalového a basketbalového hřiště",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9034292",
+      "csName": "Loučimská",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "Parkoviště u fotbalového a basketbalového hřiště / Parking by the football and basketball fields",
+      "enCsname": "Loučimská",
+      "evseId": "CZ*PRE*E1S8201*1",
+      "geoCoord": {
+        "latitude": "50.047440",
+        "longitude": "14.521776"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/647de4afe1bbcd128fce3007/imgonline-com-ua-resize-VB2k5x9QGfZsk4hn.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "102 00",
+      "region": "Hlavní město Praha",
+      "street": "Loučimská"
+    }
+  },
   "CZ9053605": {
     "name": "TS 1406 Na Dlážděnce",
     "sha1": "11fc23279e9d51ab6ab9503b5d363e7f3ef5a7c2",
@@ -21083,7 +21476,7 @@
   },
   "CZ9100366": {
     "name": "RS 3820 Dýšinská",
-    "sha1": "0288cdb5a4c45fe2534488c4648dfd3439592740",
+    "sha1": "172f94d8e3535c8e723b1d516c0fd27decde09f6",
     "station": {
       "additionalInfo": "Trafostanice na ulici Dýšinská",
       "chargingFacilities": {
@@ -21097,7 +21490,7 @@
       "csId": "CZ9100366",
       "csStatus": "under_construction",
       "csType": "",
-      "enAdditionalInfo": "Trafostanice na ulici Dýšinská / Substation Dýšisnká st.",
+      "enAdditionalInfo": "Trafostanice na ulici Dýšinská / Substation Dýšinská st.",
       "enCsname": "RS 3820 Dýšinská",
       "evseId": "CZ*PRE*E1S8267*2",
       "geoCoord": {
@@ -21332,7 +21725,7 @@
   },
   "CZ9125942": {
     "name": "EuroOil Benešov",
-    "sha1": "a4cf10af5d71747dc22ee01471407aba5d3ef846",
+    "sha1": "3ae5e2047f869cb28b2e9622344c1758eceb570f",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -21343,7 +21736,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9125942",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "Vedle čerpací stanice EuroOil",
       "enCsname": "EuroOil Benešov",
@@ -21354,6 +21747,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/653fadf6bfed5643ae7e0a48/1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/653fadf6bfed5643ae7e0a48/2.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
