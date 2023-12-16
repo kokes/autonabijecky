@@ -700,7 +700,7 @@
   },
   "10348": {
     "name": "E.ON Globus Čakovice",
-    "sha1": "d3d4cf968df980c10385abda76ea258baa0aa0be",
+    "sha1": "133ea2e38b32907e845d93f7ac32c63dd9b1b173",
     "station": {
       "address": "Kostelecká 823/77",
       "city": "Praha-Čakovice",
@@ -817,6 +817,56 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "10349"
+        },
+        {
+          "capabilities": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-12-15T13:10:11.86Z",
+              "max_amperage": 500,
+              "max_voltage": 920,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": []
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.1514549",
+            "longitude": "14.50793467"
+          },
+          "evse_id": "",
+          "floor_level": "0",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "227536"
+        },
+        {
+          "capabilities": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-12-15T13:12:09.447Z",
+              "max_amperage": 500,
+              "max_voltage": 920,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": []
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.1514549",
+            "longitude": "14.50793467"
+          },
+          "evse_id": "",
+          "floor_level": "0",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "227537"
         }
       ],
       "facilities": [

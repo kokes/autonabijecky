@@ -14460,7 +14460,7 @@
   },
   "161635": {
     "name": "R445 - Ostrava - RELY servis HYUNDAI",
-    "sha1": "42f34b6846d06b5c6b4f9f41d4d9654f0a24ec2c",
+    "sha1": "461afb504870f6a68ce9a75d528eddf4739f6a01",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -14523,7 +14523,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/2bb889b7-b78c-404f-a41b-6c4692aa23b5.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7841.jpg"
         }
       ],
       "instructions": null,
@@ -20545,79 +20545,6 @@
       "visible": true
     }
   },
-  "173474": {
-    "name": "R519 - Příchovice - hotel Příchovice",
-    "sha1": "b7e250622f850de90b7b2132e0839a00c84a80d8",
-    "station": {
-      "address": {
-        "city": "Příchovice",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "378",
-        "latitude": 50.7549911,
-        "longitude": 15.3582175,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Příchovice",
-        "url": ""
-      },
-      "customID": "173474",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-3322-008",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R519"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3322-008",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-3322-008",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R519"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/02/img_1411.jpeg"
-        }
-      ],
-      "instructions": null,
-      "name": "R519 - Příchovice - hotel Příchovice",
-      "visible": true
-    }
-  },
   "173648": {
     "name": "R520 - Hradec Králové - Orlice park shopping - 1",
     "sha1": "9cb58e458537ff6eebbf3aa7937a17ee40f7e986",
@@ -20907,152 +20834,6 @@
       ],
       "instructions": null,
       "name": "R507 - Čestlice - Renocar - 2",
-      "visible": true
-    }
-  },
-  "174589": {
-    "name": "R493 - Mladá Boleslav - OC Olympia - 1",
-    "sha1": "e92f830769bfe8e250bfd6464848925f9a18a68d",
-    "station": {
-      "address": {
-        "city": "Mladá Boleslav",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "1350",
-        "latitude": 50.409155,
-        "longitude": 14.9410561,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Jičínská",
-        "url": ""
-      },
-      "customID": "174589",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-2722-017",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R493"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-2722-017",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-2722-017",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R493"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/2-20230329-115928.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R493 - Mladá Boleslav - OC Olympia - 1",
-      "visible": true
-    }
-  },
-  "174590": {
-    "name": "R494 - Mladá Boleslav - OC Olympia - 2",
-    "sha1": "5335d2c7297775828a27bf3f0732ab3f60bc6649",
-    "station": {
-      "address": {
-        "city": "Mladá Boleslav",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "1350",
-        "latitude": 50.409155,
-        "longitude": 14.9410561,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Jičínská",
-        "url": ""
-      },
-      "customID": "174590",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-2522-013",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R494"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-2522-013",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-2522-013",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R494"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/03/2-20230329-115928.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R494 - Mladá Boleslav - OC Olympia - 2",
       "visible": true
     }
   },
@@ -23162,84 +22943,6 @@
       ],
       "instructions": null,
       "name": "R546 - Žďár nad Sázavou - Bezina - 2",
-      "visible": true
-    }
-  },
-  "178287": {
-    "name": "UR117 - Loket - Bageterie Boulevard - 1",
-    "sha1": "be4c6b896e107b3868270cb7b5b5872ee350372a",
-    "station": {
-      "address": {
-        "city": "Loket",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "exit 66",
-        "latitude": 49.6582408,
-        "longitude": 15.120315,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "D1",
-        "url": ""
-      },
-      "customID": "178287",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 180,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "UR117"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "UR117"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 180,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "UR117"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/08/7.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "UR117 - Loket - Bageterie Boulevard - 1",
       "visible": true
     }
   },
@@ -26120,7 +25823,7 @@
   },
   "181894": {
     "name": "R579 - Sokolov - Kaufland",
-    "sha1": "81c084d6d0a2de73246cd3aa7fc9e22c720112ce",
+    "sha1": "4aebba39708b079a66657756bc54c0efd4544df2",
     "station": {
       "address": {
         "city": "Sokolov",
@@ -26183,7 +25886,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_4755.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7838.jpg"
         }
       ],
       "instructions": null,
@@ -29363,10 +29066,10 @@
   },
   "185444": {
     "name": "UR140 - Ostrovačice - Jerex, D1/178. km - 2",
-    "sha1": "c85cdde632f00be4b7eca2950372b842746a6b93",
+    "sha1": "0103dd20f6657788d417e5d49196b5533cec08ea",
     "station": {
       "address": {
-        "city": "664 81 Ostrovačice",
+        "city": "Ostrovačice",
         "country": "CZE",
         "email": null,
         "floor": null,
@@ -29573,7 +29276,7 @@
   },
   "185510": {
     "name": "PS002 - Kladno - Amond",
-    "sha1": "8be7076d1338c1dcab0f6eb5c0837f81085161ec",
+    "sha1": "55e2a048ec7632108c0c249e735a79d5b5b8f492",
     "station": {
       "address": {
         "city": "Kladno",
@@ -29613,11 +29316,1858 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/09/img_4755.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_8620.jpg"
         }
       ],
       "instructions": null,
       "name": "PS002 - Kladno - Amond",
+      "visible": true
+    }
+  },
+  "186064": {
+    "name": "R580 - Jinočany - Logport - 1",
+    "sha1": "7b91aeb1f4178db231cdbd442162cc46189e7b1e",
+    "station": {
+      "address": {
+        "city": "Jinočany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "spojka",
+        "latitude": 50.0324197,
+        "longitude": 14.2762756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jinočanská",
+        "url": ""
+      },
+      "customID": "186064",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R580"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R580"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7838.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R580 - Jinočany - Logport - 1",
+      "visible": true
+    }
+  },
+  "186089": {
+    "name": "R582 - Jinočany - Logport - 3",
+    "sha1": "5535e5d023febae4bc1afd49cc4a5cdef375417e",
+    "station": {
+      "address": {
+        "city": "Jinočany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "spojka",
+        "latitude": 50.0324197,
+        "longitude": 14.2762756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jinočanská",
+        "url": ""
+      },
+      "customID": "186089",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R582"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R582"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7838.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R582 - Jinočany - Logport - 3",
+      "visible": true
+    }
+  },
+  "186090": {
+    "name": "R583 - Jinočany - Logport - 4",
+    "sha1": "9c8ee9a74514d504ada895e93d371f5b0d72b20b",
+    "station": {
+      "address": {
+        "city": "Jinočany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "spojka",
+        "latitude": 50.0324197,
+        "longitude": 14.2762756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jinočanská",
+        "url": ""
+      },
+      "customID": "186090",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R583"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R583"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7838.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R583 - Jinočany - Logport - 4",
+      "visible": true
+    }
+  },
+  "186091": {
+    "name": "R584 - Jinočany - Logport - 5",
+    "sha1": "9b09e66d3f96b2336735ac940703f0152af8fdc6",
+    "station": {
+      "address": {
+        "city": "Jinočany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "spojka",
+        "latitude": 50.0324197,
+        "longitude": 14.2762756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jinočanská",
+        "url": ""
+      },
+      "customID": "186091",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R584"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R584"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7838.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R584 - Jinočany - Logport - 5",
+      "visible": true
+    }
+  },
+  "186092": {
+    "name": "R585 - Jinočany - Logport - 6",
+    "sha1": "018aec647441056a42c66811fcbb76615cfc329b",
+    "station": {
+      "address": {
+        "city": "Jinočany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "spojka",
+        "latitude": 50.0324197,
+        "longitude": 14.2762756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jinočanská",
+        "url": ""
+      },
+      "customID": "186092",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R585"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R585"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7838.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R585 - Jinočany - Logport - 6",
+      "visible": true
+    }
+  },
+  "186093": {
+    "name": "R586 - Jinočany - Logport - 7",
+    "sha1": "7f1f7167862bf4d8517f3ad0f3807e232601ea82",
+    "station": {
+      "address": {
+        "city": "Jinočany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "spojka",
+        "latitude": 50.0324197,
+        "longitude": 14.2762756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jinočanská",
+        "url": ""
+      },
+      "customID": "186093",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R586"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R586"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7838.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R586 - Jinočany - Logport - 7",
+      "visible": true
+    }
+  },
+  "186094": {
+    "name": "UR151 - Jinočany - Logport - 9",
+    "sha1": "e435ac06a4e14c832afb55757dddcce75a38e77a",
+    "station": {
+      "address": {
+        "city": "Jinočany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "spojka",
+        "latitude": 50.0324197,
+        "longitude": 14.2762756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jinočanská",
+        "url": ""
+      },
+      "customID": "186094",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 350,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR151"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7841.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR151 - Jinočany - Logport - 9",
+      "visible": true
+    }
+  },
+  "186095": {
+    "name": "UR152 - Jinočany - Logport - 10",
+    "sha1": "1def1d1b69baf5ccb9a53f4d74fbae4504fedcb5",
+    "station": {
+      "address": {
+        "city": "Jinočany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "spojka",
+        "latitude": 50.0324197,
+        "longitude": 14.2762756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jinočanská",
+        "url": ""
+      },
+      "customID": "186095",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 350,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR152"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7841.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR152 - Jinočany - Logport - 10",
+      "visible": true
+    }
+  },
+  "186096": {
+    "name": "UR154 - Jinočany - Logport - 12",
+    "sha1": "32283af3a59396f5203c4e8e6fc863b024d0ee3f",
+    "station": {
+      "address": {
+        "city": "Jinočany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "spojka",
+        "latitude": 50.0324197,
+        "longitude": 14.2762756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jinočanská",
+        "url": ""
+      },
+      "customID": "186096",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 350,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR154"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7841.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR154 - Jinočany - Logport - 12",
+      "visible": true
+    }
+  },
+  "186097": {
+    "name": "UR155 - Jinočany - Logport - 13",
+    "sha1": "7b66d02a04fefe9f96423c3959e7d83d1e8f709b",
+    "station": {
+      "address": {
+        "city": "Jinočany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "spojka",
+        "latitude": 50.0324197,
+        "longitude": 14.2762756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jinočanská",
+        "url": ""
+      },
+      "customID": "186097",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 350,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR155"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7841.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR155 - Jinočany - Logport - 13",
+      "visible": true
+    }
+  },
+  "186098": {
+    "name": "UR156 - Jinočany - Logport - 14",
+    "sha1": "561c11ef82128ea35bc319fea795f8178e56bbd5",
+    "station": {
+      "address": {
+        "city": "Jinočany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "spojka",
+        "latitude": 50.0324197,
+        "longitude": 14.2762756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jinočanská",
+        "url": ""
+      },
+      "customID": "186098",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 350,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR156"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7841.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR156 - Jinočany - Logport - 14",
+      "visible": true
+    }
+  },
+  "186099": {
+    "name": "R596 - Kuřim - Golf Jinačovice - 1",
+    "sha1": "e49a89aaa22b385154b401665a2004722933f805",
+    "station": {
+      "address": {
+        "city": "Kuřim",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Golfu 1772/2",
+        "latitude": 49.2777207,
+        "longitude": 16.5272844,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Na",
+        "url": ""
+      },
+      "customID": "186099",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R596"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R596"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/dff371c9-b4d1-41d5-98a7-ca2b49b9cd03.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R596 - Kuřim - Golf Jinačovice - 1",
+      "visible": true
+    }
+  },
+  "186100": {
+    "name": "R597 - Kuřim - Golf Jinačovice - 2",
+    "sha1": "eb7bc15247be9199cbf0ebc73f6f5b34a50c3849",
+    "station": {
+      "address": {
+        "city": "Kuřim",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Golfu 1772/2",
+        "latitude": 49.2777207,
+        "longitude": 16.5272844,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Na",
+        "url": ""
+      },
+      "customID": "186100",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R597"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R597"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/dff371c9-b4d1-41d5-98a7-ca2b49b9cd03.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R597 - Kuřim - Golf Jinačovice - 2",
+      "visible": true
+    }
+  },
+  "186101": {
+    "name": "UR141 - Polička - Retail Park Polička",
+    "sha1": "47ad6d1c2887f3a6ac365fc758209915bd0779ef",
+    "station": {
+      "address": {
+        "city": "Polička",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "47",
+        "latitude": 49.71504,
+        "longitude": 16.26062,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Starohradská",
+        "url": ""
+      },
+      "customID": "186101",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR141"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR141"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/1-20231215-124955.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR141 - Polička - Retail Park Polička",
+      "visible": true
+    }
+  },
+  "186102": {
+    "name": "R604 - Štěrboholy - Městský úřad",
+    "sha1": "00ac54451d4118e12bfb67ed2582a019049a0b61",
+    "station": {
+      "address": {
+        "city": "Praha 10",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Stráni",
+        "latitude": 50.0709328,
+        "longitude": 14.5493033,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ve",
+        "url": ""
+      },
+      "customID": "186102",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R604"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R604"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_6024.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R604 - Štěrboholy - Městský úřad",
+      "visible": true
+    }
+  },
+  "186103": {
+    "name": "R603 - Kaufland - Mariánské Lázně - 2",
+    "sha1": "d9147375b9938a5809ffdc5a382343bc0b11c9b6",
+    "station": {
+      "address": {
+        "city": "Mariánské Lázně",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "713/16A",
+        "latitude": 49.9651129,
+        "longitude": 12.6972339,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Chebská",
+        "url": ""
+      },
+      "customID": "186103",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R603"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R603"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_5969.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R603 - Kaufland - Mariánské Lázně - 2",
+      "visible": true
+    }
+  },
+  "186104": {
+    "name": "UR132 - Ivanovice na Hané - 1",
+    "sha1": "d672657585324a161554730920f737dfc9b2578d",
+    "station": {
+      "address": {
+        "city": "Ivanovice na Hané",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "236",
+        "latitude": 49.290487,
+        "longitude": 17.0973643,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "exit",
+        "url": ""
+      },
+      "customID": "186104",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR132"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR132"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/006eb278-f2b8-41f1-957c-bf0f82484728-20231215-125845.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR132 - Ivanovice na Hané - 1",
+      "visible": true
+    }
+  },
+  "186106": {
+    "name": "R581 - Jinočany - Logport - 2",
+    "sha1": "6c9594d09a1833f55f13e82da4fc707e53e246e9",
+    "station": {
+      "address": {
+        "city": "Jinočany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "spojka",
+        "latitude": 50.0324197,
+        "longitude": 14.2762756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jinočanská",
+        "url": ""
+      },
+      "customID": "186106",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R581"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R581"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7838.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R581 - Jinočany - Logport - 2",
+      "visible": true
+    }
+  },
+  "186107": {
+    "name": "R587 - Jinočany - Logport - 8",
+    "sha1": "f18e1e5c14a8268590004f8ee6028d29d480576d",
+    "station": {
+      "address": {
+        "city": "Jinočany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "spojka",
+        "latitude": 50.0324197,
+        "longitude": 14.2762756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jinočanská",
+        "url": ""
+      },
+      "customID": "186107",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R587"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R587"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7838.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R587 - Jinočany - Logport - 8",
+      "visible": true
+    }
+  },
+  "186108": {
+    "name": "UR153 - Jinočany - Logport - 11",
+    "sha1": "bec610984877e552b993666650172ac2636e75a7",
+    "station": {
+      "address": {
+        "city": "Jinočany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "spojka",
+        "latitude": 50.0324197,
+        "longitude": 14.2762756,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jinočanská",
+        "url": ""
+      },
+      "customID": "186108",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 350,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR153"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7841.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR153 - Jinočany - Logport - 11",
+      "visible": true
+    }
+  },
+  "186109": {
+    "name": "R602 - Kaufland - Mariánské Lázně - 1",
+    "sha1": "3b3beaee7dce31b6c8ef8047c22e86bcd6fd9432",
+    "station": {
+      "address": {
+        "city": "Mariánské Lázně",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "713/16A",
+        "latitude": 49.9651129,
+        "longitude": 12.6972339,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Chebská",
+        "url": ""
+      },
+      "customID": "186109",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R602"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R602"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_5969.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R602 - Kaufland - Mariánské Lázně - 1",
+      "visible": true
+    }
+  },
+  "186110": {
+    "name": "UR145 - Mladá Boleslav - OC Olympia - 2",
+    "sha1": "8d4c7b97cc3c952eb13b2a2ddb4a19cd89649168",
+    "station": {
+      "address": {
+        "city": "Mladá Boleslav",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1350",
+        "latitude": 50.409155,
+        "longitude": 14.9410561,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jičínská",
+        "url": ""
+      },
+      "customID": "186110",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR145"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR145"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_8598.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR145 - Mladá Boleslav - OC Olympia - 2",
+      "visible": true
+    }
+  },
+  "186125": {
+    "name": "UR133 - Ivanovice na Hané - 2",
+    "sha1": "749f343022e20954e3d8265000536a30c1097410",
+    "station": {
+      "address": {
+        "city": "Ivanovice na Hané",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "236",
+        "latitude": 49.290487,
+        "longitude": 17.0973643,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "exit",
+        "url": ""
+      },
+      "customID": "186125",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR133"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR133"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/006eb278-f2b8-41f1-957c-bf0f82484728-20231215-125845.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR133 - Ivanovice na Hané - 2",
+      "visible": true
+    }
+  },
+  "186126": {
+    "name": "UR144 - Mladá Boleslav - OC Olympia - 1",
+    "sha1": "124eb72196217abfc6cf6811bc789b610e1fd462",
+    "station": {
+      "address": {
+        "city": "Mladá Boleslav",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1350",
+        "latitude": 50.409155,
+        "longitude": 14.9410561,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jičínská",
+        "url": ""
+      },
+      "customID": "186126",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR144"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR144"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_8598.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR144 - Mladá Boleslav - OC Olympia - 1",
+      "visible": true
+    }
+  },
+  "186130": {
+    "name": "R607 - Temelín - Jaderná elektrárna - 3",
+    "sha1": "1552007c3811befd7ba6d0b515c89b124a790886",
+    "station": {
+      "address": {
+        "city": "Temelín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.182015,
+        "longitude": 14.3832092,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Temelín",
+        "url": ""
+      },
+      "customID": "186130",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R607"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R607"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/36034955.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R607 - Temelín - Jaderná elektrárna - 3",
+      "visible": true
+    }
+  },
+  "186131": {
+    "name": "R608 - Temelín - Jaderná elektrárna - 4",
+    "sha1": "40a6a79a97f03d102d454b679094fe337f800971",
+    "station": {
+      "address": {
+        "city": "Temelín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.182015,
+        "longitude": 14.3832092,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Temelín",
+        "url": ""
+      },
+      "customID": "186131",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": 32,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": null,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": 400
+            }
+          ],
+          "physicalReference": "R608"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R608"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/36034955.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R608 - Temelín - Jaderná elektrárna - 4",
+      "visible": true
+    }
+  },
+  "186132": {
+    "name": "UR131 - Příchovice - hotel Příchovice",
+    "sha1": "03409fd18a15ccec42a2a432f95036d282c4994c",
+    "station": {
+      "address": {
+        "city": "Příchovice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "378",
+        "latitude": 50.7549911,
+        "longitude": 15.3582175,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Příchovice",
+        "url": ""
+      },
+      "customID": "186132",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR131"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR131"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR131"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_6038.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR131 - Příchovice - hotel Příchovice",
       "visible": true
     }
   },
@@ -30550,70 +32100,6 @@
       ],
       "instructions": null,
       "name": "R164 - Vrchlabí",
-      "visible": true
-    }
-  },
-  "59437": {
-    "name": "N193 - Sedlec-Prčice",
-    "sha1": "a7a8b1e2e3f738b47eb531e63e48218d7aa211ef",
-    "station": {
-      "address": {
-        "city": "Sedlec - Prčice",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "86",
-        "latitude": 49.5752753,
-        "longitude": 14.529917800000021,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Sedlčanská",
-        "url": ""
-      },
-      "customID": "59437",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N193"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N193"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_8266.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "N193 - Sedlec-Prčice",
       "visible": true
     }
   },
