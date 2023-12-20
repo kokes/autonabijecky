@@ -1,9 +1,9 @@
 {
   "AT9189126": {
     "name": "Prague City Golf Zbraslav I + II, III",
-    "sha1": "ac5792abaa56d90e24a1c004ac54a1673b7c19eb",
+    "sha1": "8cdaebcc4a3675db68f8e12f834a1c4ed63de981",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "Parkoviště u Prague City Golfu",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -16,6 +16,7 @@
       "csName": "Prague City Golf Zbraslav I + II, III",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Parkoviště u Prague City Golfu / parking by the Prague City Golf",
       "enCsname": "Prague City Golf Zbraslav I + II, III",
       "evseId": "CZ*PRE*E1S8184*6",
       "geoCoord": {
@@ -431,7 +432,7 @@
   },
   "CZ1002603": {
     "name": "OC Stromovka",
-    "sha1": "6841faf750d46f4c8dd283508d34a3c98016a4cb",
+    "sha1": "0fb2e0c51d9ea711ebbc47abc5214155547bcce9",
     "station": {
       "additionalInfo": "Von der Veletrní Straße, in der Etage 2PP und 3PP",
       "branch": "Parken",
@@ -447,7 +448,7 @@
       "csName": "OC Stromovka",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "From the Veletržní street, in the floor 2PP and 3PP",
+      "enAdditionalInfo": "parkoviště OC Stromovka / From the Veletržní street, in the floor 2PP and 3PP",
       "enCsname": "OC Stromovka",
       "evseId": "CZ*PRE*E1R0009*2",
       "geoCoord": {
@@ -456,44 +457,61 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc90/IMG_2432.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc90/IMG_2435.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc90/IMG_2442.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "false",
       "isPartnerCs": false,
       "isRoaming": false,
       "openingTimes": [
         {
-          "from": "06:00",
-          "to": "22:00",
+          "from": "09:00",
+          "to": "21:00",
           "wDay": "MO"
         },
         {
-          "from": "06:00",
-          "to": "22:00",
+          "from": "09:00",
+          "to": "21:00",
           "wDay": "TU"
         },
         {
-          "from": "06:00",
-          "to": "22:00",
+          "from": "09:00",
+          "to": "21:00",
           "wDay": "WE"
         },
         {
-          "from": "06:00",
-          "to": "22:00",
+          "from": "09:00",
+          "to": "21:00",
           "wDay": "TH"
         },
         {
-          "from": "06:00",
-          "to": "22:00",
+          "from": "09:00",
+          "to": "21:00",
           "wDay": "FR"
         },
         {
-          "from": "06:00",
-          "to": "22:00",
+          "from": "09:00",
+          "to": "21:00",
           "wDay": "SA"
         },
         {
-          "from": "06:00",
-          "to": "22:00",
+          "from": "09:00",
+          "to": "21:00",
           "wDay": "SU"
         }
       ],
@@ -512,7 +530,7 @@
   },
   "CZ1002604": {
     "name": "OC Stromovka",
-    "sha1": "d469b683e9f844ab94f2dcb2c1f50a377667ab28",
+    "sha1": "0cdaa35700413da9face9bb2f95174717d68734f",
     "station": {
       "additionalInfo": "Von der Veletrní Straße, in der Etage 2PP und 3PP",
       "branch": "Parken",
@@ -528,7 +546,7 @@
       "csName": "OC Stromovka",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "From the Veletržní street, in the floor 2PP and 3PP",
+      "enAdditionalInfo": "Parkoviště OC Stromovka / From the Veletržní street, in the floor 2PP and 3PP",
       "enCsname": "OC Stromovka",
       "evseId": "CZ*PRE*E1S7109*2",
       "geoCoord": {
@@ -537,44 +555,61 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365403f4b8a750ff79bdc3/IMG_2432.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365403f4b8a750ff79bdc3/IMG_2435.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365403f4b8a750ff79bdc3/IMG_2442.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "false",
       "isPartnerCs": false,
       "isRoaming": false,
       "openingTimes": [
         {
-          "from": "06:00",
-          "to": "22:00",
+          "from": "09:00",
+          "to": "21:00",
           "wDay": "MO"
         },
         {
-          "from": "06:00",
-          "to": "22:00",
+          "from": "09:00",
+          "to": "21:00",
           "wDay": "TU"
         },
         {
-          "from": "06:00",
-          "to": "22:00",
+          "from": "09:00",
+          "to": "21:00",
           "wDay": "WE"
         },
         {
-          "from": "06:00",
-          "to": "22:00",
+          "from": "09:00",
+          "to": "21:00",
           "wDay": "TH"
         },
         {
-          "from": "06:00",
-          "to": "22:00",
+          "from": "09:00",
+          "to": "21:00",
           "wDay": "FR"
         },
         {
-          "from": "06:00",
-          "to": "22:00",
+          "from": "09:00",
+          "to": "21:00",
           "wDay": "SA"
         },
         {
-          "from": "06:00",
-          "to": "22:00",
+          "from": "09:00",
+          "to": "21:00",
           "wDay": "SU"
         }
       ],
@@ -1307,7 +1342,7 @@
   },
   "CZ1002622": {
     "name": "ČVUT Albertov",
-    "sha1": "09ac792c6d993c921bdd101a0f259733d94c1cc2",
+    "sha1": "f5c0fef25e54eb6ad9a9376234af3a8ab6477876",
     "station": {
       "additionalInfo": "Vor dem Gebäude CVUT",
       "branch": "Parken",
@@ -1323,7 +1358,7 @@
       "csName": "ČVUT Albertov",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Infront of the ČVUT building",
+      "enAdditionalInfo": "před vchodem do ČVUT / Infront of the ČVUT building",
       "enCsname": "ČVUT Albertov",
       "evseId": "CZ*PRE*E1S0012*2",
       "geoCoord": {
@@ -1332,6 +1367,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc25/9B4F3847-6E83-4930-B6E5-1DAB200597CA.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc25/637FDA46-E9F1-4CA6-8A17-C9C4941D5B2F.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -1947,7 +1994,7 @@
   },
   "CZ1002641": {
     "name": "Sconto Stodůlky",
-    "sha1": "cba99d8357be5ed81337f4621fa19de89570bf73",
+    "sha1": "b57ed453187b9ad4d37d1dc7be50e20db954d07d",
     "station": {
       "additionalInfo": "Ladestation am Haupteingang.",
       "branch": "Parken",
@@ -1963,7 +2010,7 @@
       "csName": "Sconto Stodůlky",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Charging station at the main entrance.",
+      "enAdditionalInfo": "před vstupem do Sconto nábytek / Charging station at the main entrance.",
       "enCsname": "Sconto Stodůlky",
       "evseId": "CZ*PRE*E1S0042*2",
       "geoCoord": {
@@ -1972,6 +2019,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc2a/IMG_20231029_171100494.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc2a/IMG_20231029_171107888.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -3222,7 +3281,7 @@
   },
   "CZ1002671": {
     "name": "Radotín K Lázním",
-    "sha1": "4adcc3d87ed84948595610a9d7bb1d161dce91b4",
+    "sha1": "61f7906fea9393f8fec86d75bcd35691df83e64c",
     "station": {
       "additionalInfo": "Beim Eingang zur Schwimmhalle",
       "branch": "Parken",
@@ -3238,7 +3297,7 @@
       "csName": "Radotín K Lázním",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the entrance to the swimming place",
+      "enAdditionalInfo": "parkoviště u beach areny / By the entrance to the swimming place",
       "enCsname": "Radotín K Lázním",
       "evseId": "CZ*PRE*E1S8297*2",
       "geoCoord": {
@@ -3247,6 +3306,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bcf0/20231103_152800.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bcf0/20231103_152818.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -3764,53 +3835,9 @@
       "street": "Radlická 333/150"
     }
   },
-  "CZ1002682": {
-    "name": "Sparta Holešovice",
-    "sha1": "bfee72e7a4e7e32a1fc1a433e51a8f9677f5fc69",
-    "station": {
-      "additionalInfo": "Auf dem Parkplatz beim Sportstadion. Zufahrt zum Parkplatz Bei der  Straße U Výstavite.",
-      "branch": "Parken",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "DC Charging ≤50kW"
-        ]
-      },
-      "city": "Praha",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ1002682",
-      "csName": "Sparta Holešovice",
-      "csStatus": "operable",
-      "csType": "",
-      "enAdditionalInfo": "Parking at the parking lot by the sport stadium. Access to the parking lot via U Výstaviště street.",
-      "enCsname": "Sparta Holešovice",
-      "evseId": "CZ*PRE*E1R0002*3",
-      "geoCoord": {
-        "latitude": "50.106361",
-        "longitude": "14.434639"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "isHome": true,
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "isRoaming": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "connectorFormat": "Cable",
-          "connectorStandard": "Chademo",
-          "plug": "CHAdeMO"
-        }
-      ],
-      "postalCode": "17000",
-      "region": "Hlavní město Praha",
-      "street": "U Výstaviště"
-    }
-  },
   "CZ1002683": {
     "name": "Metropole Zličín",
-    "sha1": "398c885c2158de8f8d8011419dd99fd60f3cac6b",
+    "sha1": "c44d5276b6b21106bc3735c8b0a76ac9b47103dc",
     "station": {
       "additionalInfo": "Am Ende des Parkplatzes",
       "branch": "Parken",
@@ -3826,7 +3853,7 @@
       "csName": "Metropole Zličín",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the end of the parking lot",
+      "enAdditionalInfo": "1h zdarma parkoviště u OC Metropole Zličín /1hour free parking lot at the OC Metropole Zličín",
       "enCsname": "Metropole Zličín",
       "evseId": "CZ*PRE*E1S0006*2",
       "geoCoord": {
@@ -3835,6 +3862,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bd33/IMG_20231029_172145452.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bd33/IMG_20231029_172305654.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -4355,7 +4394,7 @@
   },
   "CZ1002775": {
     "name": "TS 2452 Štětínská",
-    "sha1": "cfe3fb9e7086d67519f2bca18fab6ced4613b13c",
+    "sha1": "e70238340db1125e69e583745707599ab1f5aec3",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2452",
       "branch": "Parken",
@@ -4371,7 +4410,7 @@
       "csName": "TS 2452 Štětínská",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the transformation station 2452",
+      "enAdditionalInfo": "u trafostanice TS 2452 / By the transformation station TS 2452",
       "enCsname": "TS 2452 Štětínská",
       "evseId": "CZ*PRE*E1S8002*1",
       "geoCoord": {
@@ -4380,6 +4419,23 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f1f4b8a750ff799478/IMG_20231030_111027_442.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f1f4b8a750ff799478/IMG_20231030_111047_052.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f1f4b8a750ff799478/IMG_20231030_111110_317.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -4983,7 +5039,7 @@
   },
   "CZ1002789": {
     "name": "TS 1617 Nad Turbovou",
-    "sha1": "e92858ff373c4e9a08003306fa83df02a2b326be",
+    "sha1": "1a82d965a0f4c905f3644ae48708ba32dda71d54",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 1617",
       "branch": "Parken",
@@ -4999,7 +5055,7 @@
       "csName": "TS 1617 Nad Turbovou",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the transformation station 1617",
+      "enAdditionalInfo": "u trafostanice TS 1617 / By the transformation station 1617",
       "enCsname": "TS 1617 Nad Turbovou",
       "evseId": "CZ*PRE*E1S8017*1",
       "geoCoord": {
@@ -5008,6 +5064,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652e9f4b8a750ff79a033/IMG_20231030_124105_622_1.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -5215,7 +5278,7 @@
   },
   "CZ1002795": {
     "name": "TS 4459 Lýskova",
-    "sha1": "1722f240fe256a8f1df986f434b9512f59b41076",
+    "sha1": "f7d29572e8e1e792d93ed3621697d697e74085aa",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4459",
       "branch": "Parken",
@@ -5231,7 +5294,7 @@
       "csName": "TS 4459 Lýskova",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the transformation station 4459",
+      "enAdditionalInfo": "u trafostanice TS 4459 / By the transformation station 4459",
       "enCsname": "TS 4459 Lýskova",
       "evseId": "CZ*PRE*E1S8100*1",
       "geoCoord": {
@@ -5240,6 +5303,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652cbf4b8a750ff799db0/IMG_20231114_121147_022.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652cbf4b8a750ff799db0/IMG_20231114_121431_970.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -5655,7 +5730,7 @@
   },
   "CZ1002840": {
     "name": "Ostrčilovo náměstí",
-    "sha1": "6821a6141355bdfbc35b8df24b43f04222bf65e0",
+    "sha1": "aba268b49a44e5b397f95476add6d9ce56814b7e",
     "station": {
       "additionalInfo": "Beim Ostrčilovo Platz",
       "branch": "Parken",
@@ -5680,6 +5755,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ccf4b8a750ff799e4c/57A85FC0-CBAC-4E98-B616-202EF21259FD.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ccf4b8a750ff799e4c/297E2BC8-002B-4F05-A2DA-8BAC859B73B8.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -12396,7 +12483,7 @@
   },
   "CZ2002640": {
     "name": "VTP Roztoky",
-    "sha1": "ae6bc89d1f08c9b7fb4b3185a864b1289feaa7da",
+    "sha1": "f9591263df5a116b35880c01e34c6ed3066db665",
     "station": {
       "additionalInfo": "Parkovací místa před VTP Roztoky",
       "branch": "Parken",
@@ -12421,6 +12508,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bcf9/IMG_20231029_163020_199.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bcf9/IMG_20231029_163033_872.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -14302,9 +14401,9 @@
   },
   "CZ3202594": {
     "name": "Easy Hotel Plzeň",
-    "sha1": "f3206ad765d596e1c82c1477e0378a16c0e843d8",
+    "sha1": "0bdb33d1aeae5e51bc5d4aa8d75d912524c28ffb",
     "station": {
-      "additionalInfo": "Von der Straße U Prazdroje zu den Garagen des Easy Hotels",
+      "additionalInfo": "garáž u Hotelu Easy Hotel",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -14345,18 +14444,8 @@
           "wDay": "MO"
         },
         {
-          "from": "00:00",
-          "to": "02:00",
-          "wDay": "MO"
-        },
-        {
           "from": "05:30",
           "to": "23:59",
-          "wDay": "TU"
-        },
-        {
-          "from": "00:00",
-          "to": "02:00",
           "wDay": "TU"
         },
         {
@@ -14365,18 +14454,8 @@
           "wDay": "WE"
         },
         {
-          "from": "00:00",
-          "to": "02:00",
-          "wDay": "WE"
-        },
-        {
           "from": "05:30",
           "to": "23:59",
-          "wDay": "TH"
-        },
-        {
-          "from": "00:00",
-          "to": "02:00",
           "wDay": "TH"
         },
         {
@@ -14385,28 +14464,13 @@
           "wDay": "FR"
         },
         {
-          "from": "00:00",
-          "to": "02:00",
-          "wDay": "FR"
-        },
-        {
           "from": "05:30",
           "to": "23:59",
           "wDay": "SA"
         },
         {
-          "from": "00:00",
-          "to": "02:00",
-          "wDay": "SA"
-        },
-        {
           "from": "05:30",
           "to": "23:59",
-          "wDay": "SU"
-        },
-        {
-          "from": "00:00",
-          "to": "02:00",
           "wDay": "SU"
         }
       ],
@@ -14425,7 +14489,7 @@
   },
   "CZ3202719": {
     "name": "OMV Přeštice",
-    "sha1": "a737532177ac8a864876a24d3f9892444e0bd111",
+    "sha1": "f9aa3e57fe3e591904e3598c92a634574aee0928",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "Parken",
@@ -14441,7 +14505,7 @@
       "csName": "OMV Přeštice",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the gas station parking lot",
+      "enAdditionalInfo": "u čerpací stanice OMV / At the gas station parking lot",
       "enCsname": "OMV Přeštice",
       "evseId": "CZ*PRE*E1R5119*2",
       "geoCoord": {
@@ -14450,6 +14514,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365279f4b8a750ff799703/IMG_20231029_155534250_MF_PORTRAIT.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -16343,7 +16414,7 @@
   },
   "CZ5302630": {
     "name": "Alza Pardubice",
-    "sha1": "96d3b350e3c701292689f22ee1460b6c5f9b4818",
+    "sha1": "7e38f3c415dd458756b87b6154512b3c16aa0ec2",
     "station": {
       "additionalInfo": "Vor dem Alza-Geschäft",
       "branch": "Parken",
@@ -16359,7 +16430,7 @@
       "csName": "Alza Pardubice",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "In front of the Alza shop",
+      "enAdditionalInfo": "parkoviště Alza / In front of the Alza shop",
       "enCsname": "Alza Pardubice",
       "evseId": "CZ*PRE*E1S0026*1",
       "geoCoord": {
@@ -16368,6 +16439,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc9c/IMG_20231028_165358.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc9c/IMG_20231028_165412.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -16387,7 +16470,7 @@
   },
   "CZ5302868": {
     "name": "OMV Moravská Třebová",
-    "sha1": "0f7abbf498548e6c89b68a846948a17b2f47bf4c",
+    "sha1": "d5bbafc38dae7711b2b203b224f0520da80457c9",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -16403,7 +16486,7 @@
       "csName": "OMV Moravská Třebová",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the OMV gas station",
+      "enAdditionalInfo": "u čerpací stanice OMV / By the OMV gas station",
       "enCsname": "OMV Moravská Třebová",
       "evseId": "CZ*PRE*E1R5044*2",
       "geoCoord": {
@@ -16412,6 +16495,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365278f4b8a750ff7996a8/IMG_4096.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365278f4b8a750ff7996a8/IMG_4100.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -16431,9 +16526,9 @@
   },
   "CZ5302870": {
     "name": "AUTO IN Pardubice",
-    "sha1": "f6673d77e3f3f4d0cce8d1690ad44ee2f673fa9e",
+    "sha1": "25d7ed2ba604eee62afcf1197171ad2791a20102",
     "station": {
-      "additionalInfo": "Beim AUTO IN Ford  Händler",
+      "additionalInfo": "Nachází se na levé straně při sjezdu od Semtína k AUTO IN Pardubice",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -16447,15 +16542,32 @@
       "csName": "AUTO IN Pardubice",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the Ford AUTO IN dealer",
+      "enAdditionalInfo": "Nachází se na levé straně při sjezdu od Semtína k AUTO IN Pardubice /  It is located on the left at the exit from Semtín to AUTO IN Pardubice",
       "enCsname": "AUTO IN Pardubice",
       "evseId": "CZ*PRE*E1R0029*2",
       "geoCoord": {
-        "latitude": "50.059700",
-        "longitude": "15.750444"
+        "latitude": "50.059692",
+        "longitude": "15.750387"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a3f4b8a750ff799a64/IMG_20231028_170831.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a3f4b8a750ff799a64/IMG_20231028_171359.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a3f4b8a750ff799a64/IMG_20231028_171503.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,

@@ -700,7 +700,7 @@
   },
   "10348": {
     "name": "E.ON Globus Čakovice",
-    "sha1": "133ea2e38b32907e845d93f7ac32c63dd9b1b173",
+    "sha1": "54484ccaa4a9b539d2b6bcc881c7b9f3ac266513",
     "station": {
       "address": "Kostelecká 823/77",
       "city": "Praha-Čakovice",
@@ -824,19 +824,31 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-12-15T13:10:11.86Z",
+              "last_updated": "2023-12-19T12:23:31.86Z",
               "max_amperage": 500,
+              "max_electric_power": 99000,
               "max_voltage": 920,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": []
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
             }
           ],
           "coordinates": {
             "latitude": "50.1514549",
             "longitude": "14.50793467"
           },
-          "evse_id": "",
+          "evse_id": "CZ*UFC*E32227536*1",
           "floor_level": "0",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
@@ -849,24 +861,77 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-12-15T13:12:09.447Z",
+              "last_updated": "2023-12-19T12:23:31.86Z",
               "max_amperage": 500,
+              "max_electric_power": 99000,
               "max_voltage": 920,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": []
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
             }
           ],
           "coordinates": {
             "latitude": "50.1514549",
             "longitude": "14.50793467"
           },
-          "evse_id": "",
+          "evse_id": "CZ*UFC*E32227536*2",
           "floor_level": "0",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "227537"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2023-12-19T12:23:31.86Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.1514549",
+            "longitude": "14.50793467"
+          },
+          "evse_id": "CZ*UFC*E32227536*3",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "228008"
         }
       ],
       "facilities": [
@@ -877,9 +942,6 @@
       "id": "10348",
       "last_updated": "RESET",
       "name": "E.ON Globus Čakovice",
-      "opening_times": {
-        "twentyfourseven": true
-      },
       "operator": {
         "name": "E.ON Energie, a.s."
       },
@@ -26265,7 +26327,7 @@
   },
   "42076": {
     "name": "E.ON Lovosice 175 kW UFC",
-    "sha1": "ccb9c63ffe3d9b8a7c3db3aaa8ded9ffeae6bd81",
+    "sha1": "37bcda7ee465f550b5b95dc833f0a3ffab31afa1",
     "station": {
       "address": "Siřejovická",
       "city": "Lovosice",
@@ -26360,6 +26422,47 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "214896"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2023-12-19T12:23:31.86Z",
+              "max_amperage": 125,
+              "max_electric_power": 300000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144",
+                "186",
+                "187",
+                "211",
+                "213"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.5046",
+            "longitude": "14.051669"
+          },
+          "evse_id": "CZ*UFC*E32226883*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "226883"
         },
         {
           "capabilities": [
