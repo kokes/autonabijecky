@@ -1367,9 +1367,9 @@
   },
   "CZ1002621": {
     "name": "Garáže Letná",
-    "sha1": "34bb21f5296f2bcb65677a2d9bf435258a3ed07b",
+    "sha1": "88842377dcb645158ddaba4bc7a374b5e42cf992",
     "station": {
-      "additionalInfo": "Abschnitt B6",
+      "additionalInfo": "40,-Kč/1h garáže sekce B6",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -1383,7 +1383,7 @@
       "csName": "Garáže Letná",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Section B6",
+      "enAdditionalInfo": "40,-Kč/1h garáže sekce B6 / 40,-Kč/1h Section B6",
       "enCsname": "Garáže Letná",
       "evseId": "CZ*PRE*E1S0011*2",
       "geoCoord": {
@@ -1392,6 +1392,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643653fff4b8a750ff79bc19/IMG_4324.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -1731,7 +1738,7 @@
   },
   "CZ1002631": {
     "name": "ÚMČ Praha 22",
-    "sha1": "687c6d30d0c9b3ac8e2ab0f68ef5a200c84012fb",
+    "sha1": "a5bd138fc7b1824bd646887f6a7d666d769a611a",
     "station": {
       "additionalInfo": "Vor dem Rathaus",
       "branch": "Parken",
@@ -1747,7 +1754,7 @@
       "csName": "ÚMČ Praha 22",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "In front of the city hall",
+      "enAdditionalInfo": "u radnice / In front of the city hall",
       "enCsname": "ÚMČ Praha 22",
       "evseId": "CZ*PRE*E1S0027*2",
       "geoCoord": {
@@ -1756,6 +1763,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bd1b/1702661335140.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bd1b/1702661335157.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -2413,7 +2432,7 @@
   },
   "CZ1002647": {
     "name": "TS 1416 Jílkova",
-    "sha1": "67db92256d2c5225473b98e387a3258d2039324c",
+    "sha1": "bcaa9a999a7a7fb3e0bd84e02f90549ccf03cf4b",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 1416",
       "branch": "Parken",
@@ -2429,7 +2448,7 @@
       "csName": "TS 1416 Jílkova",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the transformation station 1416",
+      "enAdditionalInfo": "u trafostanice TS 1416 / By the transformation station 1416",
       "enCsname": "TS 1416 Jílkova",
       "evseId": "CZ*PRE*E1S7004*2",
       "geoCoord": {
@@ -2438,6 +2457,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc53/IMG_4350.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -2895,7 +2921,7 @@
   },
   "CZ1002656": {
     "name": "TS 3834 Jarní",
-    "sha1": "367ba7cea2eaf55e7072e07693e92af153ef0d6b",
+    "sha1": "9c7828371add47fc9b0d639c096f8bc6a4939654",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3834",
       "branch": "Parken",
@@ -2911,7 +2937,7 @@
       "csName": "TS 3834 Jarní",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the transformation station 3834",
+      "enAdditionalInfo": "u trafostanice TS 3834 / By the transformation station 3834",
       "enCsname": "TS 3834 Jarní",
       "evseId": "CZ*PRE*E1S7025*2",
       "geoCoord": {
@@ -2920,6 +2946,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc4a/IMG_4309.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc4a/IMG_4310.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -3667,7 +3705,7 @@
   },
   "CZ1002672": {
     "name": "SMIGHT Výstaviště",
-    "sha1": "f596a28900617a35880959ac43dd6383a5f538f3",
+    "sha1": "de38676da7f6eeca6b3dcb944c29f230508be49d",
     "station": {
       "additionalInfo": "Neben dem Schwimmbad",
       "branch": "Parken",
@@ -3683,7 +3721,7 @@
       "csName": "SMIGHT Výstaviště",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the swimming pool",
+      "enAdditionalInfo": "u plaveckého bazénu / By the swimming pool",
       "enCsname": "SMIGHT Výstaviště",
       "evseId": "CZ*PRE*E2S0001*2",
       "geoCoord": {
@@ -3692,6 +3730,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bcee/IMG_4331.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -3915,7 +3960,7 @@
   },
   "CZ1002677": {
     "name": "SMIGHT Polská",
-    "sha1": "7712d6d3616fd55acc13a51ca100957b330891db",
+    "sha1": "4dec3e8da11628535215adf4bbfc4f96f2586fb3",
     "station": {
       "additionalInfo": "Bei dem Park",
       "branch": "Parken",
@@ -3931,7 +3976,7 @@
       "csName": "SMIGHT Polská",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the Riegrovy sady",
+      "enAdditionalInfo": "u Riegrových sadů / By the Riegrovy sady",
       "enCsname": "SMIGHT Polská",
       "evseId": "CZ*PRE*E2S0006*2",
       "geoCoord": {
@@ -3940,6 +3985,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bcfd/IMG_20231204_140755542.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -4351,7 +4403,7 @@
   },
   "CZ1002726": {
     "name": "Hotel Ambassador Zlatá Husa",
-    "sha1": "cf96fdc8ae16355c19bf0aa0df60188154551cfe",
+    "sha1": "2de30e31ab89cd5e48c33aafe0ba979a65ade07b",
     "station": {
       "additionalInfo": "In den Hotelgaragen",
       "branch": "Parken",
@@ -4367,7 +4419,7 @@
       "csName": "Hotel Ambassador Zlatá Husa",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "In the hotel garages",
+      "enAdditionalInfo": "parkoviště u hotelu / parking by the Hotel Ambassador",
       "enCsname": "Hotel Ambassador Zlatá Husa",
       "evseId": "CZ*PRE*E1S8075*2",
       "geoCoord": {
@@ -4376,6 +4428,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365278f4b8a750ff7996ad/IMG_4221.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -4933,7 +4992,7 @@
   },
   "CZ1002776": {
     "name": "TS 2977 Vidlicová",
-    "sha1": "9a6c4c5bfc3932963c9f7291aefc8cf0166d6e4a",
+    "sha1": "7e1672d4216ed59f7b34af9e6d8cbe0d2e5a8ce6",
     "station": {
       "additionalInfo": "Bei der Trafostation 2977",
       "branch": "Parken",
@@ -4949,7 +5008,7 @@
       "csName": "TS 2977 Vidlicová",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the tranfsformation station 2977",
+      "enAdditionalInfo": "u trafostanice TS 2977 / By the tranfsformation station 2977",
       "enCsname": "TS 2977 Vidlicová",
       "evseId": "CZ*PRE*E1S7078*1",
       "geoCoord": {
@@ -4958,6 +5017,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365379f4b8a750ff79accd/IMG_4303.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -4977,7 +5043,7 @@
   },
   "CZ1002777": {
     "name": "TS 1020 V Šáreckém údolí",
-    "sha1": "6386ef17ea842ab1a75212b6683626560fd010ef",
+    "sha1": "dcea24c0a0b338c2ac982a21c55d49d2956fa82e",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 1020",
       "branch": "Parken",
@@ -4993,7 +5059,7 @@
       "csName": "TS 1020 V Šáreckém údolí",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the transformation station 1020",
+      "enAdditionalInfo": "u trafostanice TS 1020 / By the transformation station 1020",
       "enCsname": "TS 1020 V Šáreckém údolí",
       "evseId": "CZ*PRE*E1S8013*1",
       "geoCoord": {
@@ -5002,6 +5068,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365309f4b8a750ff79a34b/IMG_4316.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -5291,7 +5364,7 @@
   },
   "CZ1002783": {
     "name": "TS 3823 Na pláni",
-    "sha1": "94bbb430a6df02ae297aa54c23181d5e2e40582b",
+    "sha1": "2ad8915b8b17fd08c4c63407795fb8aa968d57ce",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3823",
       "branch": "Parken",
@@ -5307,7 +5380,7 @@
       "csName": "TS 3823 Na pláni",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the transformation station 3823",
+      "enAdditionalInfo": "u trafostanice TS 3823 / By the transformation station 3823",
       "enCsname": "TS 3823 Na pláni",
       "evseId": "CZ*PRE*E1S8007*1",
       "geoCoord": {
@@ -5316,6 +5389,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f2f4b8a750ff7994a7/IMG_4343.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -8366,7 +8446,7 @@
   },
   "CZ1003309": {
     "name": "TS 3840 Dědinská",
-    "sha1": "36c97f33701610f553034bd45be5793149e2c654",
+    "sha1": "bd489eba1fff705d5626261006b117bbb0358a3b",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3840",
       "branch": "Parken",
@@ -8382,7 +8462,7 @@
       "csName": "TS 3840 Dědinská",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Next to the transformation station number TS 3840",
+      "enAdditionalInfo": "u trafostanice TS 3840 / Next to the transformation station number TS 3840",
       "enCsname": "TS 3840 Dědinská",
       "evseId": "CZ*PRE*E1S8026*1",
       "geoCoord": {
@@ -10151,9 +10231,9 @@
   },
   "CZ1003550": {
     "name": "TS 3689 Ještědská",
-    "sha1": "cf4f46fe08bd3827137211b75075f6873b540f3d",
+    "sha1": "c000f76e6c143b4f3f75259f1d50339d5463e2c0",
     "station": {
-      "additionalInfo": "Bei der Transformatorenstation TS 3689",
+      "additionalInfo": "u trafostanice TS 3689 Ještědská",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -10167,7 +10247,7 @@
       "csName": "TS 3689 Ještědská",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Next to the transformation station TS 3689 Ještědská",
+      "enAdditionalInfo": "u trafostanice TS 3689 Ještědská / Next to the transformation station TS 3689 Ještědská",
       "enCsname": "TS 3689 Ještědská",
       "evseId": "CZ*PRE*E1S8033*2",
       "geoCoord": {
@@ -10176,6 +10256,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ecf4b8a750ff79a12d/20230920_120923.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ecf4b8a750ff79a12d/20230920_120954.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -10495,9 +10587,9 @@
   },
   "CZ1003714": {
     "name": "Sídlo společnosti SNEO",
-    "sha1": "e862a57e6c06ef5c89740297fd59336d69203a5d",
+    "sha1": "bd4c68de613603ab543a0fe1b56510be399f14b8",
     "station": {
-      "additionalInfo": "Bei den SNEO Parkplätzen",
+      "additionalInfo": "Před budovou SNEO",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -10511,7 +10603,7 @@
       "csName": "Sídlo společnosti SNEO",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Next to the SNEO parking lots",
+      "enAdditionalInfo": "Před budovou SNEO / Next to the SNEO parking lots",
       "enCsname": "Sídlo společnosti SNEO",
       "evseId": "CZ*PRE*E1S8134*2",
       "geoCoord": {
@@ -10520,6 +10612,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ccf4b8a750ff799e09/154866B5-2646-4CF3-9D30-E899AB04A3CD.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -10539,7 +10638,7 @@
   },
   "CZ1003726": {
     "name": "Pivovar Dolní Počernice",
-    "sha1": "823d25b9e7c55f2871016cc95b87331d991251a3",
+    "sha1": "c973c5aa6006ccfa18b0f4580d76018421c864a4",
     "station": {
       "additionalInfo": "parkoviště v pivovaru",
       "branch": "Parken",
@@ -10564,6 +10663,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff799092/IMG_20231004_181753_.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "false",
       "isPartnerCs": false,
@@ -10788,7 +10894,7 @@
   },
   "CZ1004402": {
     "name": "Parvi Cibulka",
-    "sha1": "63eab6e569fded660e565fd1db2941e5a59e974f",
+    "sha1": "c93c570ba3b0346ba1744c26fb42f7bde60eeb6f",
     "station": {
       "additionalInfo": "Parkoviště Aalto Cibulka",
       "branch": "Parken",
@@ -10813,6 +10919,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365333f4b8a750ff79a706/IMG_3947.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -10883,7 +10996,7 @@
   },
   "CZ1004445": {
     "name": "TS 5047 Rakovského",
-    "sha1": "83a7833a5ae15b471931d165adc9f6fde4bc8ba0",
+    "sha1": "a0b3832c1d9e5e70e97988a7404a8d8fb36eea40",
     "station": {
       "additionalInfo": "V jednosměrce, ulice Rakovského, u základní školy",
       "branch": "Parken",
@@ -10908,6 +11021,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a5f4b8a750ff799afa/20230920_104511.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a5f4b8a750ff799afa/20230920_105343.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -10927,8 +11052,9 @@
   },
   "CZ1004446": {
     "name": "TS 3843 U Valu",
-    "sha1": "43293326ce3b701e60fa5b13d05aca88808bd301",
+    "sha1": "b4701688ccbaefcddce5a6d44ce12187a1fd966f",
     "station": {
+      "additionalInfo": "u trafostanice",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -10942,6 +11068,7 @@
       "csName": "TS 3843 U Valu",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "u trafostanice / Next to the transformation station",
       "enCsname": "TS 3843 U Valu",
       "evseId": "CZ*PRE*E1S8142*2",
       "geoCoord": {
@@ -10950,6 +11077,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990fa/5D88B9AF-E2B7-42CE-B6A3-F49E3090FC08.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -10969,7 +11103,7 @@
   },
   "CZ1004447": {
     "name": "TS 2138 Svojšovická (struhařovská)",
-    "sha1": "c76af3f3b0218098b7d611ebfec22c9135428970",
+    "sha1": "c3f537ca0d80af879042d858d44eb1fdeb4d14ba",
     "station": {
       "additionalInfo": "u trafostanice TS 2138",
       "branch": "Parken",
@@ -10994,6 +11128,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365357f4b8a750ff79aa01/IMG_20231004_152001.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -11013,8 +11154,9 @@
   },
   "CZ1004448": {
     "name": "Technologie hlavního města Prahy XIII",
-    "sha1": "7cfc99d036dce6e0bc2a75537a2edad259688918",
+    "sha1": "3147d00b96f5f52f6c03ead6d68aa278a9b280f5",
     "station": {
+      "additionalInfo": "na pouliční lampě",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11028,6 +11170,7 @@
       "csName": "Technologie hlavního města Prahy XIII",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "na pouliční lampě /  on a street lamp",
       "enCsname": "Technologie hlavního města Prahy XIII",
       "evseId": "CZ*PRE*ETHMP13*2",
       "geoCoord": {
@@ -11067,8 +11210,9 @@
   },
   "CZ1004449": {
     "name": "Technologie hlavního města Prahy XII",
-    "sha1": "b5b13a4ff46def0bfb0d60509216d6a8f32a35e2",
+    "sha1": "d56f6ff5692a8dad826555606d0245079e93c208",
     "station": {
+      "additionalInfo": "na pouliční lampě",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11082,6 +11226,7 @@
       "csName": "Technologie hlavního města Prahy XII",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "na pouliční lampě / on a street lamp",
       "enCsname": "Technologie hlavního města Prahy XII",
       "evseId": "CZ*PRE*ETHMP12*2",
       "geoCoord": {
@@ -11121,8 +11266,9 @@
   },
   "CZ1004450": {
     "name": "Technologie hlavního města Prahy XI",
-    "sha1": "201641f088a175cdc45d1d5c80775f6e903e25cb",
+    "sha1": "040befec14aae1d7ef228adddfd219deac73d466",
     "station": {
+      "additionalInfo": "na pouliční lampě",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11136,6 +11282,7 @@
       "csName": "Technologie hlavního města Prahy XI",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "na pouliční lampě / on a street lamp",
       "enCsname": "Technologie hlavního města Prahy XI",
       "evseId": "CZ*PRE*ETHMP11*1",
       "geoCoord": {
@@ -11175,8 +11322,9 @@
   },
   "CZ1004451": {
     "name": "Technologie hlavního města Prahy X",
-    "sha1": "21b20a2aea8ad6d6829ec5f86d7952e88cbffd8e",
+    "sha1": "760dddbfeca1d0e7e92408b3889abe8b9802750c",
     "station": {
+      "additionalInfo": "na pouliční lampě",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11190,6 +11338,7 @@
       "csName": "Technologie hlavního města Prahy X",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "na pouliční lampě / on a street lamp",
       "enCsname": "Technologie hlavního města Prahy X",
       "evseId": "CZ*PRE*ETHMP10*2",
       "geoCoord": {
@@ -11229,8 +11378,9 @@
   },
   "CZ1004452": {
     "name": "Technologie hlavního města Prahy VIII",
-    "sha1": "be2936160fade0ec2677d1f2935620d60f8a8483",
+    "sha1": "8a97ccb48c5ac8330e64e9ce56a5e8523e5d1655",
     "station": {
+      "additionalInfo": "na pouliční lampě",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11244,6 +11394,7 @@
       "csName": "Technologie hlavního města Prahy VIII",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "na pouliční lampě / on a street lamp",
       "enCsname": "Technologie hlavního města Prahy VIII",
       "evseId": "CZ*PRE*ETHMP8*2",
       "geoCoord": {
@@ -11283,8 +11434,9 @@
   },
   "CZ1004453": {
     "name": "Technologie hlavního města Prahy VII",
-    "sha1": "63a4a7d7167a5c28fce0d784e1773dafef103f44",
+    "sha1": "86b140a4c349eba43299f56d7335369ec8cb3443",
     "station": {
+      "additionalInfo": "na pouliční lampě",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11298,6 +11450,7 @@
       "csName": "Technologie hlavního města Prahy VII",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "na pouliční lampě /  on a street lamp",
       "enCsname": "Technologie hlavního města Prahy VII",
       "evseId": "CZ*PRE*ETHMP7*2",
       "geoCoord": {
@@ -11337,8 +11490,9 @@
   },
   "CZ1004454": {
     "name": "Technologie hlavního města Prahy VI",
-    "sha1": "6493e4bcafbd50c89a68be073dc599127dec39ee",
+    "sha1": "f213cbd61168578d25c016995dbf3cf080d0d385",
     "station": {
+      "additionalInfo": "na pouliční lampě",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11352,6 +11506,7 @@
       "csName": "Technologie hlavního města Prahy VI",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "na pouliční lampě / on a street lamp",
       "enCsname": "Technologie hlavního města Prahy VI",
       "evseId": "CZ*PRE*ETHMP6*2",
       "geoCoord": {
@@ -11391,8 +11546,9 @@
   },
   "CZ1004455": {
     "name": "Technologie hlavního města Prahy V",
-    "sha1": "93549af5e0a5c657f51b83f259134a91e6e9dac9",
+    "sha1": "9186c88763c9687f09656794ce0a15546d930655",
     "station": {
+      "additionalInfo": "na pouliční lampě",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11406,6 +11562,7 @@
       "csName": "Technologie hlavního města Prahy V",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "na pouliční lampě /  on a street lamp",
       "enCsname": "Technologie hlavního města Prahy V",
       "evseId": "CZ*PRE*ETHMP5*2",
       "geoCoord": {
@@ -11445,8 +11602,9 @@
   },
   "CZ1004456": {
     "name": "Technologie hlavního města Prahy IX",
-    "sha1": "8ab856e1082d2e291a39cd66fd4e244e451f8ce3",
+    "sha1": "45b23353def7a5d9c295e0c31fa0dc0abeb5c407",
     "station": {
+      "additionalInfo": "na pouliční lampě",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11460,6 +11618,7 @@
       "csName": "Technologie hlavního města Prahy IX",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "na pouliční lampě / on a street lamp",
       "enCsname": "Technologie hlavního města Prahy IX",
       "evseId": "CZ*PRE*ETHMP9*2",
       "geoCoord": {
@@ -11499,8 +11658,9 @@
   },
   "CZ1004457": {
     "name": "Technologie hlavního města Prahy IV",
-    "sha1": "800df055ced1d00f77075894952a3810f2492f68",
+    "sha1": "15d8f1c499b9584101e12b0d44f96b1d9be7cdc4",
     "station": {
+      "additionalInfo": "na pouliční lampě",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11514,6 +11674,7 @@
       "csName": "Technologie hlavního města Prahy IV",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "na pouliční lampě /  on a street lamp",
       "enCsname": "Technologie hlavního města Prahy IV",
       "evseId": "CZ*PRE*ETHMP4*2",
       "geoCoord": {
@@ -11553,8 +11714,9 @@
   },
   "CZ1004458": {
     "name": "Technologie hlavního města Prahy III",
-    "sha1": "1378586676e6cded7a0a993dd1fe5c0174cded1a",
+    "sha1": "902963e4aca7743ce0c250fce2e615973bc02808",
     "station": {
+      "additionalInfo": "na pouliční lampě",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11568,6 +11730,7 @@
       "csName": "Technologie hlavního města Prahy III",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "na pouliční lampě / on a street lamp",
       "enCsname": "Technologie hlavního města Prahy III",
       "evseId": "CZ*PRE*ETHMP3*2",
       "geoCoord": {
@@ -11607,8 +11770,9 @@
   },
   "CZ1004459": {
     "name": "Technologie hlavního města Prahy II",
-    "sha1": "ce19ede5cabec044ac3e2deb8900d42e569980d6",
+    "sha1": "ddbfe63ac9f45e50f27c62665acecf38229fc0c5",
     "station": {
+      "additionalInfo": "na pouliční lampě",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11622,6 +11786,7 @@
       "csName": "Technologie hlavního města Prahy II",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "na pouliční lampě / on a street lamp",
       "enCsname": "Technologie hlavního města Prahy II",
       "evseId": "CZ*PRE*ETHMP2*2",
       "geoCoord": {
@@ -11661,8 +11826,9 @@
   },
   "CZ1004460": {
     "name": "Technologie hlavního města Prahy I",
-    "sha1": "046b5fd664bedb44295112795cd13c862d116322",
+    "sha1": "986a6c7b7cd8fea9daf044c6c91e872b702f474d",
     "station": {
+      "additionalInfo": "na pouliční lampě",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -11676,6 +11842,7 @@
       "csName": "Technologie hlavního města Prahy I",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "na pouliční lampě /  on a street lamp",
       "enCsname": "Technologie hlavního města Prahy I",
       "evseId": "CZ*PRE*ETHMP1*2",
       "geoCoord": {
@@ -11715,7 +11882,7 @@
   },
   "CZ1004473": {
     "name": "Národní 1",
-    "sha1": "5ab1147bcf7ca90767d38dad0cbd5383e5c99c76",
+    "sha1": "25f66f97a60a4db3989b2b758592dc2b798d9d29",
     "station": {
       "additionalInfo": "Před pobočkou Pražské plynárenské",
       "branch": "Parken",
@@ -11740,6 +11907,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79ac90/9DF65118-FFAE-4DE8-8E30-D2D45D1E08AB.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -11968,7 +12142,7 @@
   },
   "CZ1004503": {
     "name": "Gymnázium Jana Keplera",
-    "sha1": "61c7bc386a184a14924de342487951326205e71e",
+    "sha1": "8fb323aad2c2deb1220c24e13c030f28c2aec844",
     "station": {
       "additionalInfo": "Naproti vstupu mateřské školy Parléřova",
       "branch": "unbekannt",
@@ -11993,6 +12167,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff799099/IMG_3933.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -12724,8 +12905,9 @@
   },
   "CZ1004640": {
     "name": "TS 4102 Pod Akáty",
-    "sha1": "e022eeb0a65511bc6f4a8353952be6b6705cafa5",
+    "sha1": "3d69758154b36ebaa83528961763287781ac84e1",
     "station": {
+      "additionalInfo": "V jednosměrné ulici Pod Akáty, u základní školy",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -12739,6 +12921,7 @@
       "csName": "TS 4102 Pod Akáty",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "V jednosměrné ulici Pod Akáty, u základní školy / In the one-way street Pod Akáty, near the elementary school",
       "enCsname": "TS 4102 Pod Akáty",
       "evseId": "CZ*PRE*E1S8180*1",
       "geoCoord": {
@@ -12747,6 +12930,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365356f4b8a750ff79a962/20230929_105250.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365356f4b8a750ff79a962/20230929_105350.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -13992,7 +14187,7 @@
   },
   "CZ2002902": {
     "name": "OMV D1 Naháč",
-    "sha1": "a7d22b63964c45455a2885fb13a97849a8fdd573",
+    "sha1": "397eccaa81aa77b7aa110cc3b28ba8679363595b",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -14008,7 +14203,7 @@
       "csName": "OMV D1 Naháč",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the OMV gas station",
+      "enAdditionalInfo": "u čerpací stanice OMV / By the OMV gas station",
       "enCsname": "OMV D1 Naháč",
       "evseId": "CZ*PRE*E1R5098*2",
       "geoCoord": {
@@ -14017,6 +14212,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa3b/IMG_20231209_111621.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa3b/IMG_20231209_111636.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -14291,7 +14498,7 @@
   },
   "CZ2003400": {
     "name": "Benica Benešov",
-    "sha1": "506c5c477ece444579c08765e6ab44b6fcd95e8d",
+    "sha1": "5a5fba2647a90af20bb207b11dce6ab645df5a96",
     "station": {
       "additionalInfo": "Neben dem Hotel Benica",
       "branch": "Hotel",
@@ -14307,7 +14514,7 @@
       "csName": "Benica Benešov",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Next to Hotel Benica",
+      "enAdditionalInfo": "u hotelu Benica / Next to Hotel Benica",
       "enCsname": "Benica Benešov",
       "evseId": "CZ*PRE*E1R5099*3",
       "geoCoord": {
@@ -15262,7 +15469,7 @@
   },
   "CZ3103470": {
     "name": "EuroOil Jindřichův Hradec",
-    "sha1": "16afce82f89ee993c2a5e2a762f4a4108c7d4303",
+    "sha1": "7ed7cf98bc2afe5fa99d84e1a3eb8f21e3485b76",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -15278,7 +15485,7 @@
       "csName": "EuroOil Jindřichův Hradec",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the EuroOil gas station",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / By the EuroOil gas station",
       "enCsname": "EuroOil Jindřichův Hradec",
       "evseId": "CZ*PRE*E1R5092*3",
       "geoCoord": {
@@ -17925,7 +18132,7 @@
   },
   "CZ6302821": {
     "name": "OMV Havlíčkův Brod",
-    "sha1": "ce50dff7531f3fed144701e8cccdd650657903bd",
+    "sha1": "2eb94b642cb1e8ef30a070a07f9de9d5c0fb0e90",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -17941,7 +18148,7 @@
       "csName": "OMV Havlíčkův Brod",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the parking lot of the gas station",
+      "enAdditionalInfo": "u čerpací stanice OMV / At the parking lot of the gas station",
       "enCsname": "OMV Havlíčkův Brod",
       "evseId": "CZ*PRE*E1R5086*3",
       "geoCoord": {
@@ -18071,9 +18278,9 @@
   },
   "CZ6402613": {
     "name": "OMV Hodonín",
-    "sha1": "7ca87afc1d989ba403cc74804ac75f111388142b",
+    "sha1": "dbb84e0bc26d647dcb5a7ba68cf9d54e66a901ef",
     "station": {
-      "additionalInfo": "Am Kreisverkehr zur Dvorákova Straße",
+      "additionalInfo": "u čerpací stanice OMV",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -18087,7 +18294,7 @@
       "csName": "OMV Hodonín",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the roundabout to the Dvořákova street",
+      "enAdditionalInfo": "u čerpací stanice OMV / by the gas station OMV",
       "enCsname": "OMV Hodonín",
       "evseId": "CZ*PRE*E1R5073*2",
       "geoCoord": {
@@ -18166,7 +18373,7 @@
   },
   "CZ6402643": {
     "name": "Alza Brno",
-    "sha1": "8c7fb6ffd6c5b47d1c788f2b9e60ea67085d5006",
+    "sha1": "6cdad1d83eee1e8522afeb9818b5d609c6da731a",
     "station": {
       "additionalInfo": "Parkplatz von Alza.cz",
       "branch": "Parken",
@@ -18182,7 +18389,7 @@
       "csName": "Alza Brno",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Parking lot of Alza.cz",
+      "enAdditionalInfo": "parkoviště u Alza / Parking lot of Alza.cz",
       "enCsname": "Alza Brno",
       "evseId": "CZ*PRE*E1S0044*2",
       "geoCoord": {
@@ -18210,9 +18417,9 @@
   },
   "CZ6402684": {
     "name": "Brno EnergServis",
-    "sha1": "09a65a259861834cef7f2f3aea2d73c5d2cf965b",
+    "sha1": "042a0011b5d885be95215ed4bbc3593cb0e0fb27",
     "station": {
-      "additionalInfo": "Zugang von dem Areal STK Slatina",
+      "additionalInfo": "podél silnice Řípská",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -18226,7 +18433,7 @@
       "csName": "Brno EnergServis",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "In front of the STK Slatina area",
+      "enAdditionalInfo": "podél silnice Řípská / along the road Řípská",
       "enCsname": "Brno EnergServis",
       "evseId": "CZ*PRE*E1R0012*2",
       "geoCoord": {
@@ -18254,7 +18461,7 @@
   },
   "CZ6402723": {
     "name": "OMV Modřice",
-    "sha1": "9f42a67d24981a49e645935d6cb498eb24c9db93",
+    "sha1": "7232d42529a6313532023e1874732c1eecce06a0",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "Parken",
@@ -18270,7 +18477,7 @@
       "csName": "OMV Modřice",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the gas station parking lot",
+      "enAdditionalInfo": "u čerpací stanice OMV / At the gas station parking lot",
       "enCsname": "OMV Modřice",
       "evseId": "CZ*PRE*E1R5079*3",
       "geoCoord": {
@@ -18342,7 +18549,7 @@
   },
   "CZ6402888": {
     "name": "OMV Brno Tuřany",
-    "sha1": "43073cd671dd087f27970396b443845a8088330c",
+    "sha1": "066c9634740f98ee09d5c976a9fc09ce7af6c262",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -18358,7 +18565,7 @@
       "csName": "OMV Brno Tuřany",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the OMV gas station",
+      "enAdditionalInfo": "u čerpací stanice OMV / By the OMV gas station",
       "enCsname": "OMV Brno Tuřany",
       "evseId": "CZ*PRE*E1R5083*2",
       "geoCoord": {
@@ -18367,6 +18574,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436527bf4b8a750ff7997b7/Foto12.07.2021_Tuřany.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -18430,7 +18644,7 @@
   },
   "CZ6403000": {
     "name": "OMV Rohlenka",
-    "sha1": "e77dd8ae3bd21185e1911bf06a5f48fd8983a61e",
+    "sha1": "5ed32e875cd0940a18bee9cc3e95fada38e70b58",
     "station": {
       "additionalInfo": "Hinter der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -18446,7 +18660,7 @@
       "csName": "OMV Rohlenka",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Behind OMV gas station",
+      "enAdditionalInfo": "u čerpací stanice OMV / Behind OMV gas station",
       "enCsname": "OMV Rohlenka",
       "evseId": "CZ*PRE*E1R5080*2",
       "geoCoord": {
@@ -18455,6 +18669,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a3f4b8a750ff799a4e/Foto12.07.2021.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -18474,7 +18695,7 @@
   },
   "CZ6403085": {
     "name": "EuroOil Brno Lesná",
-    "sha1": "c93be39dcc4abaaa4f8eafac52ef5ff5578f1cbd",
+    "sha1": "2709d092aa5ad0ed15db3581479c85b0b64b3c72",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -18490,7 +18711,7 @@
       "csName": "EuroOil Brno Lesná",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the EuroOil gas station",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / By the EuroOil gas station",
       "enCsname": "EuroOil Brno Lesná",
       "evseId": "CZ*PRE*E1R5082*3",
       "geoCoord": {
@@ -18525,7 +18746,7 @@
   },
   "CZ6403105": {
     "name": "OMV Lužice",
-    "sha1": "755138d39d97928936b584d6f69a58c274f1eacc",
+    "sha1": "7fd0505147c985e677313f764d36b6760fed62ec",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -18541,7 +18762,7 @@
       "csName": "OMV Lužice",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the OMV gas station",
+      "enAdditionalInfo": "u čerpací stanice OMV / By the OMV gas station",
       "enCsname": "OMV Lužice",
       "evseId": "CZ*PRE*E1R5074*3",
       "geoCoord": {
@@ -18671,7 +18892,7 @@
   },
   "CZ6403417": {
     "name": "OMV Brno Černovice",
-    "sha1": "45271d3b9f20ac346aa95b0fd3541a8bb0af34b6",
+    "sha1": "46005e01459433ad97a1cedde073df3411ca3855",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -18687,7 +18908,7 @@
       "csName": "OMV Brno Černovice",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the OMV gas station",
+      "enAdditionalInfo": "u čerpací stanice OMV / By the OMV gas station",
       "enCsname": "OMV Brno Černovice",
       "evseId": "CZ*PRE*E1R5081*2",
       "geoCoord": {
@@ -22536,9 +22757,9 @@
   },
   "CZ8907670": {
     "name": "K červenému vrchu",
-    "sha1": "3387fb1edbbe5a4106a36e7a69c679fcc52c9c41",
+    "sha1": "f5fcfc2f1ab2f9b78e283e3885e4d04a5192b27d",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "Na křižovatce ulic K Červenému vrchu a V Nových Vokovicích",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤16A"
@@ -22551,6 +22772,7 @@
       "csName": "K červenému vrchu",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Na křižovatce ulic K Červenému vrchu a V Nových Vokovicích / At the intersection of K Červenému vrchu and V Nových Vokovicích streets",
       "enCsname": "K červenému vrchu",
       "evseId": "CZ*PRE*E2S0021*2",
       "geoCoord": {
@@ -22559,6 +22781,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a0243af6cf7d59263f5391/40B0BEB6-094E-4E87-A174-A08C754361CB.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -22732,10 +22961,9 @@
   },
   "CZ8985363": {
     "name": "Hamr Sport Modřany",
-    "sha1": "ac48fdc218e2311134dd7938953a970344e3134b",
+    "sha1": "e837e06a58177d77b6951bb0c2e57eec883ceb50",
     "station": {
-      "additionalInfo": "test",
-      "branch": "unbekannt",
+      "additionalInfo": "na parkovisku sportovnícho areálu",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -22748,7 +22976,7 @@
       "csName": "Hamr Sport Modřany",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "test",
+      "enAdditionalInfo": "na parkovisku sportovnícho areálu / in the parking lot of the sports complex",
       "enCsname": "Hamr Sport Modřany",
       "evseId": "CZ*PRE*E1S8133*2",
       "geoCoord": {
@@ -22757,6 +22985,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643817bbf4b8a750ff79c02d/96BBE64D-473A-4DD4-ACB6-E2910BDD763C.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643817bbf4b8a750ff79c02d/181684A3-E035-46A6-AE93-6A978F443E85.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -23694,9 +23934,9 @@
   },
   "CZ9162726": {
     "name": "OREA Hotel Santon",
-    "sha1": "14fb4be6c99c37260f7dd8fd119f64e309d905dd",
+    "sha1": "87d89edec4292bff400cd3f4d26f3de1f0e3d9b1",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "u hotelu Santon",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -23709,6 +23949,7 @@
       "csName": "OREA Hotel Santon",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "u hotelu Santon / by the Hotel Santon",
       "enCsname": "OREA Hotel Santon",
       "evseId": "CZ*PRE*E1S8186*2",
       "geoCoord": {
@@ -23940,9 +24181,9 @@
   },
   "CZ9198441": {
     "name": "V Nových Vokovicích 3",
-    "sha1": "dadf1875185e835c2253c3ef08a16baaaa03f5ea",
+    "sha1": "49417441022745729baded64e089c579957c2015",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "Před restaurací U Řezníka",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤16A"
@@ -23955,6 +24196,7 @@
       "csName": "V Nových Vokovicích 3",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Před restaurací U Řezníka / In front of the U Řezníka restaurant",
       "enCsname": "V Nových Vokovicích 3",
       "evseId": "CZ*PRE*E2S0020*2",
       "geoCoord": {
@@ -23963,6 +24205,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a02075f6cf7d59263f5367/CE804399-4420-4131-9CF0-B5E3B347898E.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -23982,9 +24231,9 @@
   },
   "CZ9271891": {
     "name": "Národní 2",
-    "sha1": "46726bd022a2a67a64fcac226c7e993d9259650d",
+    "sha1": "41e6576509aa20ef97724ffbdd9c3b90d47fc3a5",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "Před obchodem Vuch",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -23994,9 +24243,9 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9271891",
-      "csName": "",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Před obchodem Vuch / In front of the shop Vuch",
       "enCsname": "Národní 2",
       "evseId": "CZ*PRE*E1S8155*2",
       "geoCoord": {
@@ -24005,6 +24254,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64feab557444ab2795ebecc0/65D212FC-E9B1-486D-8535-A48CEF235D70.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -24779,9 +25035,9 @@
   },
   "CZ9542130": {
     "name": "V Nových Vokovicích 2",
-    "sha1": "2c429efaeeec9ab21e0199a494e14e10da9545c5",
+    "sha1": "205d9a897ae17511ce56767c0c99a720dfa872c7",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "V ulici V Nových Vokovicích, poblíž TU KAFE",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤16A"
@@ -24794,6 +25050,7 @@
       "csName": "V Nových Vokovicích 2",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "V ulici V Nových Vokovicích, poblíž TU KAFE / In the street V Nový Vokovice, near TU KAFE",
       "enCsname": "V Nových Vokovicích 2",
       "evseId": "CZ*PRE*E2S0019*2",
       "geoCoord": {
@@ -24802,6 +25059,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a02082f6cf7d59263f536a/AFDD6181-AAD4-447D-9094-6C0AB65A5BD8.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -25435,9 +25699,9 @@
   },
   "CZ9876943": {
     "name": "V Nových Vokovicích 1",
-    "sha1": "6a874296a7254de98a8395b1859b0295799cb66b",
+    "sha1": "ef749e1e6d2461c52ef74e5b4d2ee081f5133c29",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "U křižovatky ulic V Nových Vokovicích a K Červenému vrchu",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤16A"
@@ -25450,6 +25714,7 @@
       "csName": "V Nových Vokovicích 1",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "U křižovatky ulic V Nových Vokovicích a K Červenému vrchu / At the intersection of V Nové Vokovice and K Červenu vrch streets",
       "enCsname": "V Nových Vokovicích 1",
       "evseId": "CZ*PRE*E2S0018*2",
       "geoCoord": {
@@ -25458,6 +25723,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a02092f6cf7d59263f536d/CD07FCF4-9EE7-4BC9-9F0C-CA918061EF21.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -25583,9 +25855,9 @@
   },
   "CZ9979120": {
     "name": "Golf Club Hodkovičky, z.s.",
-    "sha1": "014096b0d722115af4c870fc839fba85a85fdff1",
+    "sha1": "a5007bf664bfaee3ab134c6ff902e75cd63bf714",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "na parkovišti Golf Club Hodkovičky",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -25598,6 +25870,7 @@
       "csName": "Golf Club Hodkovičky, z.s.",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "30min zdarma poté 50,-Kč/den, na parkovišti Golf Club Hodkovičky / 30min free next 50,-Kč/1dayin the parking lot of the Golf Club Hodkovičky",
       "enCsname": "Golf Club Hodkovičky, z.s.",
       "evseId": "CZ*PRE*E1S8139*2",
       "geoCoord": {
@@ -25606,6 +25879,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643d7a83f4b8a750ff79c1e4/23218605-E994-42D4-B880-016382EFBD8B.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
