@@ -33393,7 +33393,7 @@
   },
   "51498": {
     "name": "E.ON Dolní Dvořiště",
-    "sha1": "ec709f0de997d90819fbf961b42239dbf26d7be8",
+    "sha1": "4558784990521a8e9a693940e49ac6b3169c4d4e",
     "station": {
       "address": "Dolní Dvořiště 225",
       "city": "Dolní Dvořiště",
@@ -33418,23 +33418,23 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-01-27T07:40:45.067Z",
+              "last_updated": "2023-12-22T23:05:37.1Z",
               "max_amperage": 250,
-              "max_electric_power": 75000,
+              "max_electric_power": 150000,
               "max_voltage": 1000,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "63",
-                "60",
-                "5",
-                "2",
-                "141",
-                "142",
-                "184",
-                "185",
-                "210",
-                "212"
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144",
+                "186",
+                "187",
+                "211",
+                "213"
               ]
             },
             {

@@ -4734,7 +4734,7 @@
   },
   "CZ1002771": {
     "name": "Hamr Záběhlice",
-    "sha1": "a8e61cc86bc978668355c0dbce708950916b762a",
+    "sha1": "d3a1bc8714aa285137fd9856c287ac53c143f81d",
     "station": {
       "additionalInfo": "Auf dem Parkplatz des Sportzentrums",
       "branch": "Parken",
@@ -4750,7 +4750,7 @@
       "csName": "Hamr Záběhlice",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the parking lot of the sports center",
+      "enAdditionalInfo": "parkoviště před sport centrem / At the parking lot of the sports center",
       "enCsname": "Hamr Záběhlice",
       "evseId": "CZ*PRE*E1S0053*2",
       "geoCoord": {
@@ -10078,7 +10078,7 @@
   },
   "CZ1003547": {
     "name": "TS 194 Národních Hrdinů",
-    "sha1": "b1db5682113ed2faa72afafd6cf6deb4742e1220",
+    "sha1": "067519ff17cd0e08289f3a556e6cef06787ae9b6",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 194",
       "branch": "Parken",
@@ -10094,7 +10094,7 @@
       "csName": "TS 194 Národních Hrdinů",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Next to the transformation station  TS 194",
+      "enAdditionalInfo": "u trafostanice TS 194 / Next to the transformation station  TS 194",
       "enCsname": "TS 194 Národních Hrdinů",
       "evseId": "CZ*PRE*E1S8036*2",
       "geoCoord": {
@@ -13017,8 +13017,9 @@
   },
   "CZ1004659": {
     "name": "Na TS 4282",
-    "sha1": "9b7f8657512d7b0b5e735e986617c280ca4fabb8",
+    "sha1": "4e767a27b64809069d45748bf539bf88f165adfa",
     "station": {
+      "additionalInfo": "u trafostanice TS 4282",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -13032,6 +13033,7 @@
       "csName": "Na TS 4282",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "u trafostanice TS 4282 / by the Transformation station TS 4282",
       "enCsname": "Na TS 4282",
       "evseId": "CZ*PRE*E1S8167*1",
       "geoCoord": {
@@ -16908,7 +16910,7 @@
   },
   "CZ4203193": {
     "name": "Alza Chomutov",
-    "sha1": "3afda9354639ca0a1bf13e266e261d265027cc45",
+    "sha1": "4654a06e977955302d35a6240f610fb42dbb5f39",
     "station": {
       "additionalInfo": "Auf dem Parkplatz neben Alza Chomutov",
       "branch": "Parken",
@@ -16924,7 +16926,7 @@
       "csName": "Alza Chomutov",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "On the parking lot next to Alza Chomutov",
+      "enAdditionalInfo": "parkoviště u Alza  / On the parking lot next to Alza Chomutov",
       "enCsname": "Alza Chomutov",
       "evseId": "CZ*PRE*E1S8118*2",
       "geoCoord": {
@@ -17981,8 +17983,9 @@
   },
   "CZ5303546": {
     "name": "Hotel Kraskov",
-    "sha1": "dfa16ebca3e2e1146a5bbd72bc7b1b1820b46770",
+    "sha1": "fece34fc70b8c3f6c95c499693492ac295996f6d",
     "station": {
+      "additionalInfo": "parkoviště u hotelu Kraskov",
       "branch": "Hotel",
       "chargingFacilities": {
         "chargingFacility": [
@@ -17996,6 +17999,7 @@
       "csName": "Hotel Kraskov",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "parkoviště u hotelu Kraskov / parking by the hotel Kraskov",
       "enCsname": "Hotel Kraskov",
       "evseId": "CZ*PRE*E1S8078*2",
       "geoCoord": {
@@ -21751,9 +21755,9 @@
   },
   "CZ8434839": {
     "name": "TS 3969 Rezlerova",
-    "sha1": "86e699b54756dfb8e56f60905bd40ae19ed79243",
+    "sha1": "f9c4ac87e6139b429b218324e002fd6613337b5e",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "u trafostanice TS 3969",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -21766,6 +21770,7 @@
       "csName": "TS 3969 Rezlerova",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "u trafostanice TS 3969 / by the Transformation station TS 3969",
       "enCsname": "TS 3969 Rezlerova",
       "evseId": "CZ*PRE*E1S8209*1",
       "geoCoord": {
@@ -21849,9 +21854,9 @@
   },
   "CZ8468957": {
     "name": "LA Zadov",
-    "sha1": "2e160c63fcf66524a1164e6d2637c2b75b0525f1",
+    "sha1": "c9ca05ad6d97beb3b98d5de113e041e916effda0",
     "station": {
-      "branch": "unbekannt",
+      "additionalInfo": "proti ski centru",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -21864,6 +21869,7 @@
       "csName": "LA Zadov",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "proti ski centru / against the ski center",
       "enCsname": "LA Zadov",
       "evseId": "CZ*PRE*E1S8224*2",
       "geoCoord": {
@@ -24365,8 +24371,9 @@
   },
   "CZ9283631": {
     "name": "Policie ČR Kongresová",
-    "sha1": "754e06a277ff65c76d0428421b0ef962ea8602e8",
+    "sha1": "ef86844b2703ab2f1e1e2fb0f5ea42a2e68394ad",
     "station": {
+      "additionalInfo": "parkoviště u Policie ČR",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤75kW"
@@ -24378,6 +24385,7 @@
       "csId": "CZ9283631",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "parkoviště u Policie ČR / parking by the Police CZE",
       "enCsname": "Policie ČR Kongresová",
       "evseId": "CZ*PRE*E1R0071*2",
       "geoCoord": {
@@ -25279,10 +25287,9 @@
   },
   "CZ9675583": {
     "name": "Oáza Kladno",
-    "sha1": "81f425aedc49f72e8a2095910cae005f264e1e04",
+    "sha1": "ed5d6a9fa7b2a1066a216aa03efc3475091c190f",
     "station": {
       "additionalInfo": "Parken für 3 Stunden kostenlos, danach 30 CZK/Stunde",
-      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -25295,7 +25302,7 @@
       "csName": "Oáza Kladno",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "parking for 3 hours free of charge, then 30 CZK/hour",
+      "enAdditionalInfo": "3h zdarma poté 30,-Kč/1h parkoviště u OC Oáza / parking for 3 hours free of charge, then 30 CZK/hour",
       "enCsname": "Oáza Kladno",
       "evseId": "CZ*PRE*E1S8222*2",
       "geoCoord": {
