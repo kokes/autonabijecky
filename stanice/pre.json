@@ -8127,7 +8127,7 @@
   },
   "CZ1003298": {
     "name": "Radotín - Sídliště",
-    "sha1": "e82675cc428fd0ffbae576f31b076e35273c55fe",
+    "sha1": "4c11f4476bc80d4f73ce68c5a0af0b34e256826a",
     "station": {
       "additionalInfo": "In der Wohnsiedlung Radotín",
       "branch": "Parken",
@@ -8143,7 +8143,7 @@
       "csName": "Radotín - Sídliště",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At Radotín housing development",
+      "enAdditionalInfo": "parkoviště na sídlišti / At Radotín housing development",
       "enCsname": "Radotín - Sídliště",
       "evseId": "CZ*PRE*E1S8095*2",
       "geoCoord": {
@@ -8650,7 +8650,7 @@
   },
   "CZ1003313": {
     "name": "TS 2131 Hrusická",
-    "sha1": "f8f99d727645a5ea6d2aa30c7ffcb3ef83f7ac42",
+    "sha1": "6fc219a351feae3965201ef6cf0c5fe016096045",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2131",
       "branch": "Parken",
@@ -8666,7 +8666,7 @@
       "csName": "TS 2131 Hrusická",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Next to the transformation station number TS 2131",
+      "enAdditionalInfo": "u trafostanice TS 2131 / Next to the transformation station number TS 2131",
       "enCsname": "TS 2131 Hrusická",
       "evseId": "CZ*PRE*E1S8124*1",
       "geoCoord": {
@@ -16004,8 +16004,9 @@
   },
   "CZ3204616": {
     "name": "Orea Železná Ruda I. (Horizont)",
-    "sha1": "32f3c92bd69f28f1873136f029c32f2dcf83189d",
+    "sha1": "67c46e8c920160826b9badf1eca23b71d94a721d",
     "station": {
+      "additionalInfo": "parkoviště u hotelu Orea",
       "branch": "Hotel",
       "chargingFacilities": {
         "chargingFacility": [
@@ -16019,6 +16020,7 @@
       "csName": "Orea Železná Ruda I. (Horizont)",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "parkoviště u hotelu Orea / parking by the hotel Orea",
       "enCsname": "Orea Železná Ruda I. (Horizont)",
       "evseId": "CZ*PRE*E1S8136*2",
       "geoCoord": {
@@ -23488,8 +23490,8 @@
     }
   },
   "CZ9053605": {
-    "name": "TS 1406 Na Dlážděnce",
-    "sha1": "11fc23279e9d51ab6ab9503b5d363e7f3ef5a7c2",
+    "name": "TS 1229 Bublíkova",
+    "sha1": "d665430b0895b25a3ffc357da97d9d331cf5571e",
     "station": {
       "additionalInfo": "u trafostanice",
       "chargingFacilities": {
@@ -23501,11 +23503,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9053605",
-      "csName": "TS 1406 Na Dlážděnce",
+      "csName": "TS 1229 Bublíkova",
       "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "u trafostanice / by the transformation station",
-      "enCsname": "TS 1406 Na Dlážděnce",
+      "enCsname": "TS 1229 Bublíkova",
       "evseId": "CZ*PRE*E1S8204*1",
       "geoCoord": {
         "latitude": "50.120609",
