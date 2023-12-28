@@ -26610,7 +26610,7 @@
   },
   "42076": {
     "name": "E.ON Lovosice 175 kW UFC",
-    "sha1": "942941d685ba89471b45b7df8cfa6e8e653debbb",
+    "sha1": "d65a87752199348693fc32afaf0454258223816f",
     "station": {
       "address": "Siřejovická",
       "city": "Lovosice",
@@ -26862,23 +26862,23 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-01-27T07:40:45.067Z",
+              "last_updated": "2023-12-27T23:05:37.77Z",
               "max_amperage": 125,
-              "max_electric_power": 62500,
+              "max_electric_power": 150000,
               "max_voltage": 500,
               "power_type": "DC",
-              "standard": "CHADEMO",
+              "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "2",
-                "5",
-                "60",
-                "63",
-                "141",
-                "142",
-                "184",
-                "185",
-                "210",
-                "212"
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144",
+                "186",
+                "187",
+                "211",
+                "213"
               ]
             }
           ],
@@ -26985,23 +26985,23 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-12-21T23:05:27.377Z",
+              "last_updated": "2023-12-27T23:05:37.77Z",
               "max_amperage": 125,
-              "max_electric_power": 150000,
+              "max_electric_power": 62500,
               "max_voltage": 500,
               "power_type": "DC",
-              "standard": "IEC_62196_T2_COMBO",
+              "standard": "CHADEMO",
               "tariff_ids": [
-                "3",
-                "6",
-                "61",
-                "64",
-                "143",
-                "144",
-                "186",
-                "187",
-                "211",
-                "213"
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
               ]
             }
           ],
@@ -36450,7 +36450,7 @@
   },
   "51558": {
     "name": "E.ON ČS EuroOil Benátky nad Jizerou",
-    "sha1": "a23b524e68c71bfa64420c0c446f0571e3f44ed5",
+    "sha1": "6a3bef0a504e93bd3fa28b0fb59ef3bbad0e4b50",
     "station": {
       "address": "Mladská 570",
       "city": "Benátky nad Jizerou",
@@ -36534,12 +36534,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-12-27T23:05:37.77Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144",
+                "186",
+                "187",
+                "211",
+                "213"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.28429456",
             "longitude": "14.83067746"
           },
-          "evse_id": "CZ*EON*E32051558*2",
+          "evse_id": "CZ*UFC*E32051558*2",
           "last_seen_as_planned": "2021-08-31T17:07:04.213Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -36737,7 +36760,7 @@
   },
   "51564": {
     "name": "E.ON Miličín",
-    "sha1": "aeffa3d3589de753cc2fe7b6f477a074be49f6a3",
+    "sha1": "c21ca4aafcd172b8c0e1ce46a17bb4c11abfef9f",
     "station": {
       "address": "Miličín 1257/29",
       "city": "Miličín",
@@ -36762,23 +36785,23 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-01-27T07:40:45.067Z",
+              "last_updated": "2023-12-27T23:05:37.77Z",
               "max_amperage": 125,
-              "max_electric_power": 75000,
+              "max_electric_power": 150000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "2",
-                "5",
-                "60",
-                "63",
-                "141",
-                "142",
-                "184",
-                "185",
-                "210",
-                "212"
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144",
+                "186",
+                "187",
+                "211",
+                "213"
               ]
             },
             {
@@ -36821,12 +36844,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2023-12-27T23:05:37.77Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144",
+                "186",
+                "187",
+                "211",
+                "213"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.57265189",
             "longitude": "14.6587234"
           },
-          "evse_id": "CZ*EON*E32051564*2",
+          "evse_id": "CZ*UFC*E32051564*2",
           "last_seen_as_planned": "2021-08-31T17:13:45.093Z",
           "last_updated": "RESET",
           "status": "RESET",
