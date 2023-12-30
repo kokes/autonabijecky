@@ -31285,6 +31285,563 @@
       "visible": true
     }
   },
+  "186682": {
+    "name": "UR149 - Ostrava - Vítkovice - Teplárna Vítkovice",
+    "sha1": "adb9801beb61a23eff00edc13115cff7079ae154",
+    "station": {
+      "address": {
+        "city": "Ostrava",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1144/103",
+        "latitude": 49.8152601,
+        "longitude": 18.27386219999994,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Výstavní",
+        "url": ""
+      },
+      "customID": "186682",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR149"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR149"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/6a73f0ab-55e2-476a-91a6-10b6ac5ab9d8.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR149 - Ostrava - Vítkovice - Teplárna Vítkovice",
+      "visible": true
+    }
+  },
+  "186699": {
+    "name": "R617 - Sedlec - Prčice - MOL",
+    "sha1": "fd9910c1d74fc92bc4cf7716b49ca3a771b237fc",
+    "station": {
+      "address": {
+        "city": "Sedlec - Prčice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "86",
+        "latitude": 49.5752753,
+        "longitude": 14.529917800000021,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Sedlčanská",
+        "url": ""
+      },
+      "customID": "186699",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R617"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 20,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 20,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R617"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/11/2dab1ac7-a280-4ed4-8873-0ee8b780ba1f.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R617 - Sedlec - Prčice - MOL",
+      "visible": true
+    }
+  },
+  "186700": {
+    "name": "UR148 - Loket - Bageterie Boulevard - 1",
+    "sha1": "722dcddd5ecf4c8a5653c804aa67a4cf83fc4f75",
+    "station": {
+      "address": {
+        "city": "Loket",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "exit 66",
+        "latitude": 49.6582408,
+        "longitude": 15.120315,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1",
+        "url": ""
+      },
+      "customID": "186700",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR148"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR148"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/11/2dab1ac7-a280-4ed4-8873-0ee8b780ba1f.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR148 - Loket - Bageterie Boulevard - 1",
+      "visible": true
+    }
+  },
+  "186701": {
+    "name": "R612 - Hradec Králové - Benzina Brněnská",
+    "sha1": "4c76fe77248f47b6b8a26e4bac87609c3f715f4c",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1264",
+        "latitude": 50.2030906,
+        "longitude": 15.8399878,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Brněnská",
+        "url": ""
+      },
+      "customID": "186701",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R612"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 20,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 20,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R612"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/c7df8d7e-84a2-4180-a284-05b987891268.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R612 - Hradec Králové - Benzina Brněnská",
+      "visible": true
+    }
+  },
+  "186702": {
+    "name": "R594 - Rokytno - Fuel Rokytno - 1",
+    "sha1": "1bac4bd1a1174639a2113075a81fcdf116d8f941",
+    "station": {
+      "address": {
+        "city": "Rokytno",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "174",
+        "latitude": 50.1021464,
+        "longitude": 15.8846036,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rokytno",
+        "url": ""
+      },
+      "customID": "186702",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R594"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R594"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R594 - Rokytno - Fuel Rokytno - 1",
+      "visible": true
+    }
+  },
+  "186703": {
+    "name": "UR134 - Rokytno - Fuel Rokytno - 2",
+    "sha1": "13f1a248770622d7d2bebcb4d4606c7ef159b33c",
+    "station": {
+      "address": {
+        "city": "Rokytno",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "174",
+        "latitude": 50.1021464,
+        "longitude": 15.8846036,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rokytno",
+        "url": ""
+      },
+      "customID": "186703",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR134"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR134"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR134 - Rokytno - Fuel Rokytno - 2",
+      "visible": true
+    }
+  },
+  "186704": {
+    "name": "UR135 - Rokytno - Fuel Rokytno - 3",
+    "sha1": "47899956af0c51147b0bc3a880e515576a5f6a9f",
+    "station": {
+      "address": {
+        "city": "Rokytno",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "174",
+        "latitude": 50.1021464,
+        "longitude": 15.8846036,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rokytno",
+        "url": ""
+      },
+      "customID": "186704",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR135"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR135"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR135 - Rokytno - Fuel Rokytno - 3",
+      "visible": true
+    }
+  },
+  "186705": {
+    "name": "UR136 - Rokytno - Fuel Rokytno - 4",
+    "sha1": "077a17c4387f2ff0ab6b9883c19525f143ab4096",
+    "station": {
+      "address": {
+        "city": "Rokytno",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "174",
+        "latitude": 50.1021464,
+        "longitude": 15.8846036,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rokytno",
+        "url": ""
+      },
+      "customID": "186705",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR136"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR136"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR136 - Rokytno - Fuel Rokytno - 4",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
