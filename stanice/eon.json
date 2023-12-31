@@ -35871,8 +35871,8 @@
     }
   },
   "51540": {
-    "name": "E.ON Krupá",
-    "sha1": "2ce2d52dca03842d24f5c7b75ddb7ef86450636b",
+    "name": "E.ON  Krupá 1",
+    "sha1": "842574425c14a9f5c02dbcc3e0cf92edf055703b",
     "station": {
       "address": "Krupá",
       "city": "Krupá",
@@ -35897,23 +35897,23 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-01-27T07:40:45.067Z",
+              "last_updated": "2023-12-30T23:05:52.333Z",
               "max_amperage": 125,
-              "max_electric_power": 75000,
+              "max_electric_power": 150000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "2",
-                "5",
-                "60",
-                "63",
-                "141",
-                "142",
-                "184",
-                "185",
-                "210",
-                "212"
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144",
+                "186",
+                "187",
+                "211",
+                "213"
               ]
             },
             {
@@ -35960,23 +35960,23 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-12-29T23:05:36.34Z",
+              "last_updated": "2023-12-30T23:05:52.333Z",
               "max_amperage": 125,
-              "max_electric_power": 75000,
+              "max_electric_power": 150000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "2",
-                "5",
-                "60",
-                "63",
-                "141",
-                "142",
-                "184",
-                "185",
-                "210",
-                "212"
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144",
+                "186",
+                "187",
+                "211",
+                "213"
               ]
             }
           ],
@@ -36160,7 +36160,7 @@
       ],
       "id": "51540",
       "last_updated": "RESET",
-      "name": "E.ON Krupá",
+      "name": "E.ON  Krupá 1",
       "opening_times": {
         "twentyfourseven": true
       },

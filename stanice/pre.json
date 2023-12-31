@@ -160,7 +160,7 @@
   },
   "CZ1002598": {
     "name": "Cinestar Anděl",
-    "sha1": "766ed6fd45d38d340f6adb1100c378d02ba0ab3d",
+    "sha1": "7ff8fe5bb0f837321ab59bbf4ceecb45d10179a6",
     "station": {
       "additionalInfo": "Von der Straße Radlická, -1 Ebene, Einfahrt möglich mit dem PREpoint-Tag. Bezahltes Parken.",
       "branch": "Parken",
@@ -176,7 +176,7 @@
       "csName": "Cinestar Anděl",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "From the street Radlická, -1 level, entrance possible with the PREpoint tag. Paid parking.",
+      "enAdditionalInfo": "garáže z ulice Radlická -1 / From the street Radlická, -1 level, entrance possible with the PREpoint tag. Paid parking.",
       "enCsname": "Cinestar Anděl",
       "evseId": "CZ*PRE*E1R0001*3",
       "geoCoord": {
@@ -185,6 +185,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc4f/IMG_0424.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -1694,7 +1701,7 @@
   },
   "CZ1002629": {
     "name": "Europark Štěrboholy",
-    "sha1": "148b10fb581b1b4296891c1cadc6fe3b2493ccba",
+    "sha1": "6c6c000a5eefdf171180ebaa261ba1c6ee4852ed",
     "station": {
       "additionalInfo": "Park- und Ladeplätze direkt gegenüber dem Eingang",
       "branch": "Parken",
@@ -1710,7 +1717,7 @@
       "csName": "Europark Štěrboholy",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Parking and charging slots directly opposite the entry",
+      "enAdditionalInfo": "2h zdarma garáže OC Europark Štěrboholy / 2hour free Parking and charging slots directly opposite the entry",
       "enCsname": "Europark Štěrboholy",
       "evseId": "CZ*PRE*E1S0025*1",
       "geoCoord": {
@@ -1719,10 +1726,54 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bcbb/IMG_0439.jpeg"
+        }
+      ],
       "isHome": true,
-      "isOpen24Hours": "true",
+      "isOpen24Hours": "false",
       "isPartnerCs": false,
       "isRoaming": false,
+      "openingTimes": [
+        {
+          "from": "07:00",
+          "to": "23:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "07:00",
+          "to": "23:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "07:00",
+          "to": "23:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "07:00",
+          "to": "23:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "07:00",
+          "to": "23:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "07:00",
+          "to": "23:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "07:00",
+          "to": "23:00",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -4734,9 +4785,9 @@
   },
   "CZ1002771": {
     "name": "Hamr Záběhlice",
-    "sha1": "d3a1bc8714aa285137fd9856c287ac53c143f81d",
+    "sha1": "d4516fa3f4638f06de06ff7b1e08ed63a154d49f",
     "station": {
-      "additionalInfo": "Auf dem Parkplatz des Sportzentrums",
+      "additionalInfo": "parkoviště před sport centrem",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -4759,10 +4810,54 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a3dc/IMG_0435.jpeg"
+        }
+      ],
       "isHome": true,
-      "isOpen24Hours": "true",
+      "isOpen24Hours": "false",
       "isPartnerCs": false,
       "isRoaming": false,
+      "openingTimes": [
+        {
+          "from": "07:00",
+          "to": "23:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "07:00",
+          "to": "23:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "07:00",
+          "to": "23:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "07:00",
+          "to": "23:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "07:00",
+          "to": "23:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "07:00",
+          "to": "23:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "07:00",
+          "to": "23:00",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -5415,7 +5510,7 @@
   },
   "CZ1002784": {
     "name": "TS 4279 Miletická",
-    "sha1": "2ce34fcb8d936a8d26908ff6b1d5227d7630c79e",
+    "sha1": "a02a146fe7780560af8aed5b2b5880ebbabf09b4",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4279",
       "branch": "Parken",
@@ -5431,7 +5526,7 @@
       "csName": "TS 4279 Miletická",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the transformation station 4279",
+      "enAdditionalInfo": "u trafostanice TS 4279 / By the transformation station 4279",
       "enCsname": "TS 4279 Miletická",
       "evseId": "CZ*PRE*E1S8005*1",
       "geoCoord": {
@@ -5440,6 +5535,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365356f4b8a750ff79a96b/IMG_0449.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -5459,7 +5561,7 @@
   },
   "CZ1002785": {
     "name": "TS 4283 Měšínská",
-    "sha1": "f58e149f441c3363b6b3c4e426ffee3f0d1c0fe6",
+    "sha1": "2bb57f1f081d2380886850359da06011b63ff4d6",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4283",
       "branch": "Parken",
@@ -5475,7 +5577,7 @@
       "csName": "TS 4283 Měšínská",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the transformation station 4283",
+      "enAdditionalInfo": "u trafostanice TS 4283 / By the transformation station 4283",
       "enCsname": "TS 4283 Měšínská",
       "evseId": "CZ*PRE*E1S7083*1",
       "geoCoord": {
@@ -5484,6 +5586,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436535af4b8a750ff79ab15/IMG_0446.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -15522,7 +15631,7 @@
   },
   "CZ3103503": {
     "name": "Penny Market Strakonice",
-    "sha1": "6331dd1ddf257228f9bd5180afd742d330d331f0",
+    "sha1": "46e25baa3744c339dbff38547de741262d97a05d",
     "station": {
       "additionalInfo": "Beim Penny Markt",
       "branch": "Einzelhandel",
@@ -15538,7 +15647,7 @@
       "csName": "Penny Market Strakonice",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the Penny market",
+      "enAdditionalInfo": "u Penny Marketu / By the Penny market",
       "enCsname": "Penny Market Strakonice",
       "evseId": "CZ*PRE*E1R5111*3",
       "geoCoord": {
@@ -19580,7 +19689,7 @@
   },
   "CZ8002602": {
     "name": "Mercedes Ostrava",
-    "sha1": "8d179baee2eb8fcbb85b7dff4a643505ced44254",
+    "sha1": "eb01e641d7d45a35596ad95089311bbf5b75bcbd",
     "station": {
       "additionalInfo": "Parking at the car dealership Centrum Moravia",
       "branch": "Parken",
@@ -19596,7 +19705,7 @@
       "csName": "Mercedes Ostrava",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Parking at the car dealership Centrum Moravia",
+      "enAdditionalInfo": "parkoviště u showroom Centrum Moravia / Parking at the car dealership Centrum Moravia",
       "enCsname": "Mercedes Ostrava",
       "evseId": "CZ*PRE*E1R0007*2",
       "geoCoord": {
@@ -19605,6 +19714,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc3a/IMG_7186.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -19624,7 +19740,7 @@
   },
   "CZ8002632": {
     "name": "IKEA Ostrava",
-    "sha1": "2fc5d8272692626918c6a1337bea5b33a3d6e036",
+    "sha1": "35c8b1ec35d264394d6ec3c9dd9a9e0afe0ac742",
     "station": {
       "additionalInfo": "Parkplatz AVION SP Ostrava",
       "branch": "Parken",
@@ -19649,6 +19765,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc5b/IMG_7187.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -19668,7 +19791,7 @@
   },
   "CZ8002637": {
     "name": "OC Nová Karolín",
-    "sha1": "dbefcc7a5b14f8c5855d24ef75a03a2140d98d80",
+    "sha1": "2ebf744f38e58c3ac663dceea8f833400113e5af",
     "station": {
       "additionalInfo": "In der Tiefgarage OC Forum Nová Karolína. Legen Sie den RFID-Tag unter die LED-Leuchte.",
       "branch": "Parken",
@@ -19684,7 +19807,7 @@
       "csName": "OC Nová Karolín",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Undergroud parking OC Forum Nová Karolína. Place the RFID tag under the LED light.",
+      "enAdditionalInfo": "2h zdarma garáže OC  / 2hour free Undergroud parking OC Forum Nová Karolína. Place the RFID tag under the LED light.",
       "enCsname": "OC Nová Karolín",
       "evseId": "CZ*PRE*E1S0038*1",
       "geoCoord": {
@@ -19693,10 +19816,54 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc24/IMG_7183.jpeg"
+        }
+      ],
       "isHome": true,
-      "isOpen24Hours": "true",
+      "isOpen24Hours": "false",
       "isPartnerCs": false,
       "isRoaming": false,
+      "openingTimes": [
+        {
+          "from": "09:00",
+          "to": "21:00",
+          "wDay": "MO"
+        },
+        {
+          "from": "09:00",
+          "to": "21:00",
+          "wDay": "TU"
+        },
+        {
+          "from": "09:00",
+          "to": "21:00",
+          "wDay": "WE"
+        },
+        {
+          "from": "09:00",
+          "to": "21:00",
+          "wDay": "TH"
+        },
+        {
+          "from": "09:00",
+          "to": "21:00",
+          "wDay": "FR"
+        },
+        {
+          "from": "09:00",
+          "to": "21:00",
+          "wDay": "SA"
+        },
+        {
+          "from": "09:00",
+          "to": "21:00",
+          "wDay": "SU"
+        }
+      ],
       "partnerName": "PRE",
       "plugs": [
         {
@@ -19844,7 +20011,7 @@
   },
   "CZ8002738": {
     "name": "OMV Havířov",
-    "sha1": "f22f78055c009c26f8b328dec259d4d6c4770a16",
+    "sha1": "9445f658a6c2a218e35003c92ab8f7f397d54a45",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -19860,7 +20027,7 @@
       "csName": "OMV Havířov",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the gas station parking lot",
+      "enAdditionalInfo": "u čerpací stanice OMV / At the gas station parking lot",
       "enCsname": "OMV Havířov",
       "evseId": "CZ*PRE*E1R5052*3",
       "geoCoord": {
@@ -19869,6 +20036,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990cf/IMG_7191.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -19888,7 +20062,7 @@
   },
   "CZ8002739": {
     "name": "EuroOil Havířov",
-    "sha1": "a8f0829157d9d9d7ccf8d6b8f2d272684c5a89c3",
+    "sha1": "d61b984fe0d5bbb897a8a92f90c06848ec7e7b6b",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -19904,7 +20078,7 @@
       "csName": "EuroOil Havířov",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the gas station parking lot",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / At the gas station parking lot",
       "enCsname": "EuroOil Havířov",
       "evseId": "CZ*PRE*E1R5053*2",
       "geoCoord": {
