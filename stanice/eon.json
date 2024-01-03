@@ -27983,7 +27983,7 @@
   },
   "45161": {
     "name": "(P) Samohýl group",
-    "sha1": "daf0e323669e08f53181496b55d5c1cc8361f305",
+    "sha1": "ab1ced8e33b1b76081a8e5904b1f45be9fe1f9cb",
     "station": {
       "address": "Smetanova 1058",
       "city": "Lomnice nad Popelkou",
@@ -28008,9 +28008,9 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2022-04-08T11:37:39.967Z",
+              "last_updated": "2024-01-02T23:05:35.487Z",
               "max_amperage": 16,
-              "max_electric_power": 11000,
+              "max_electric_power": 22000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
