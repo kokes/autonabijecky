@@ -21328,22 +21328,22 @@
     }
   },
   "CZ8278104": {
-    "name": "Auto Toman Třinec",
-    "sha1": "eb0d00c4394eb428048e9ebbcad5af91e3d796c6",
+    "name": "Auto Toman Trinec",
+    "sha1": "3f7d7c2dcbe02bec94d821a2102abf6e3cc2b030",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "380 - 480V, 3-Phase =32A"
         ]
       },
-      "city": "Třinec",
+      "city": "Trinec",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8278104",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Auto Toman Třinec / Car Dealership Třinec",
-      "enCsname": "Auto Toman Třinec",
+      "enAdditionalInfo": "Auto Toman Trinec / Car Dealership Trinec",
+      "enCsname": "Auto Toman Trinec",
       "evseId": "CZ*PRE*E1S0072*1",
       "geoCoord": {
         "latitude": "49.676579",
@@ -22427,23 +22427,23 @@
     }
   },
   "CZ8653262": {
-    "name": "Auto Toman Havířov",
-    "sha1": "90f433fe91da0abea8e91465a41bcb75a00eb53c",
+    "name": "Auto Toman Havírov",
+    "sha1": "dcfce21a370f5848717c793f3ba1b81dde47b155",
     "station": {
-      "additionalInfo": "Auto Toman Havířov",
+      "additionalInfo": "Auto Toman Havírov",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "380 - 480V, 3-Phase =32A"
         ]
       },
-      "city": "Haviřov",
+      "city": "Havirov",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8653262",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Auto Toman Havířov / Car Dealership Havířov",
-      "enCsname": "Auto Toman Havířov",
+      "enAdditionalInfo": "Auto Toman Havírov / Car Dealership Havírov",
+      "enCsname": "Auto Toman Havírov",
       "evseId": "CZ*PRE*E1S0073*2",
       "geoCoord": {
         "latitude": "49.777823",
@@ -22465,7 +22465,7 @@
       ],
       "postalCode": "736 01",
       "region": "Moravskoslezský kraj",
-      "street": "Dlouhá tř. 65"
+      "street": "Dlouhá tr. 65"
     }
   },
   "CZ8671071": {
