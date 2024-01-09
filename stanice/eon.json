@@ -45974,7 +45974,7 @@
   },
   "65929": {
     "name": "(P) MNC auto, a.s.",
-    "sha1": "33a843a68b6954fea7c3187835733634e95ea719",
+    "sha1": "e476c0f543b67e96091d4594f895f1f832dd3465",
     "station": {
       "address": "Nemanická 446/1",
       "city": "České Budějovice",
@@ -46065,46 +46065,6 @@
       ],
       "last_updated": "RESET",
       "name": "(P) MNC auto, a.s.",
-      "opening_times": {
-        "regular_hours": [
-          {
-            "period_begin": "18:00",
-            "period_end": "7:00",
-            "weekday": 1
-          },
-          {
-            "period_begin": "18:00",
-            "period_end": "7:00",
-            "weekday": 2
-          },
-          {
-            "period_begin": "18:00",
-            "period_end": "7:00",
-            "weekday": 3
-          },
-          {
-            "period_begin": "18:00",
-            "period_end": "7:00",
-            "weekday": 4
-          },
-          {
-            "period_begin": "18:00",
-            "period_end": "7:00",
-            "weekday": 5
-          },
-          {
-            "period_begin": "0:00",
-            "period_end": "0:00",
-            "weekday": 6
-          },
-          {
-            "period_begin": "0:00",
-            "period_end": "0:00",
-            "weekday": 7
-          }
-        ],
-        "twentyfourseven": false
-      },
       "operator": {
         "name": "E.ON Energie, a.s."
       },

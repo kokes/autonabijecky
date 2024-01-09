@@ -13470,9 +13470,9 @@
   },
   "CZ2002608": {
     "name": "Klecany",
-    "sha1": "1b117dba79b5c58194273f463f0f47e29292ea3f",
+    "sha1": "dcddb7aa18eede6d2298b37059fdef18a5040d02",
     "station": {
-      "additionalInfo": "In der Lucní Straße",
+      "additionalInfo": "In der Lucní Straße bei der PhotoRobot",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -13486,7 +13486,7 @@
       "csName": "Klecany",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "In the Luční street",
+      "enAdditionalInfo": "v ulici Luční u PhotoRobot / In the Luční street by the PhotoRobot",
       "enCsname": "Klecany",
       "evseId": "CZ*PRE*E1R0015*2",
       "geoCoord": {
@@ -13928,7 +13928,7 @@
   },
   "CZ2002725": {
     "name": "Benzina Roudnice nad Labem",
-    "sha1": "92e6a1bf5c4f8390eb11875c0aed9065b403f8ee",
+    "sha1": "3c60547f8839eea1fd1c81eeb0ffd25c792f34ec",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "Parken",
@@ -13944,7 +13944,7 @@
       "csName": "Benzina Roudnice nad Labem",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the gas station parking lot",
+      "enAdditionalInfo": "u čerpací stanice Benzina / At the gas station parking lot",
       "enCsname": "Benzina Roudnice nad Labem",
       "evseId": "CZ*PRE*E1R5018*3",
       "geoCoord": {
@@ -14660,7 +14660,7 @@
   },
   "CZ2003418": {
     "name": "EuroOil Kozojedy",
-    "sha1": "e3a2997a2f9a2d878e7ceb8660b54082b60b3fd5",
+    "sha1": "fe15a2447df77b62738a7ce7b6da1147e1f3a39e",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -14676,7 +14676,7 @@
       "csName": "EuroOil Kozojedy",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the EuroOil gas station",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / By the EuroOil gas station",
       "enCsname": "EuroOil Kozojedy",
       "evseId": "CZ*PRE*E1R5123*2",
       "geoCoord": {
@@ -15529,7 +15529,7 @@
   },
   "CZ3103217": {
     "name": "OMV Český Krumlov",
-    "sha1": "5a7b3f35538dd9ae617a1c3cc4b1bb25a8132bf0",
+    "sha1": "8da8d42e490b696c132c15b63468de9b367d12e2",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -15545,7 +15545,7 @@
       "csName": "OMV Český Krumlov",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the OMV gas station",
+      "enAdditionalInfo": "u čerpací stanice OMV / By the OMV gas station",
       "enCsname": "OMV Český Krumlov",
       "evseId": "CZ*PRE*E1R5117*2",
       "geoCoord": {
@@ -15821,7 +15821,7 @@
   },
   "CZ3202743": {
     "name": "OMV Nýrsko",
-    "sha1": "e962809ac4247bd0d50d7d72e8ca713754ba826e",
+    "sha1": "89f6e4accfbfc7c02a453f2755169f6c872d532c",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -15837,7 +15837,7 @@
       "csName": "OMV Nýrsko",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the gas station parking lot",
+      "enAdditionalInfo": "u čerpací stanice OMV / At the OMV gas station parking lot",
       "enCsname": "OMV Nýrsko",
       "evseId": "CZ*PRE*E1R5118*2",
       "geoCoord": {
@@ -15967,7 +15967,7 @@
   },
   "CZ3202905": {
     "name": "EuroOil Manětín",
-    "sha1": "3468e0bb7c9995c636ba7fa3f06886ab72fd3088",
+    "sha1": "f667a37e780218d8cac16c9d73b7f1573791d698",
     "station": {
       "additionalInfo": "Die Ladestation befindet bei der EuroOil-Tankstelle.",
       "branch": "Tankstelle",
@@ -15983,7 +15983,7 @@
       "csName": "EuroOil Manětín",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the EuroOil gas station.",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / By the EuroOil gas station.",
       "enCsname": "EuroOil Manětín",
       "evseId": "CZ*PRE*E1R5122*2",
       "geoCoord": {
@@ -15992,6 +15992,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79acbf/foto10.06.2021.png"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -16327,7 +16334,7 @@
   },
   "CZ4103498": {
     "name": "OMV Sokolov",
-    "sha1": "a3ae623d6d3d7018a0c51846b0b6ac0619a0bb93",
+    "sha1": "e96e9ba8d10f9109dbc34bf342325788d3ecef51",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -16343,7 +16350,7 @@
       "csName": "OMV Sokolov",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the OMV gas station",
+      "enAdditionalInfo": "u čerpací stanice OMV / By the OMV gas station",
       "enCsname": "OMV Sokolov",
       "evseId": "CZ*PRE*E1R5003*2",
       "geoCoord": {
@@ -16378,8 +16385,9 @@
   },
   "CZ4104508": {
     "name": "Penny Market Karlovy Vary",
-    "sha1": "2bd150367fd0650355c02d612eda135498db9230",
+    "sha1": "4038b7026a961463ff8cb8f52817ed7219f6951c",
     "station": {
+      "additionalInfo": "Neben dem Penny Markt",
       "branch": "Lebensmitteleinzelhandel",
       "chargingFacilities": {
         "chargingFacility": [
@@ -16393,7 +16401,7 @@
       "csName": "Penny Market Karlovy Vary",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "",
+      "enAdditionalInfo": "parkoviště Penny Market / Next to Penny food market",
       "enCsname": "Penny Market Karlovy Vary",
       "evseId": "CZ*PRE*E1R0054*3",
       "geoCoord": {
@@ -16428,9 +16436,9 @@
   },
   "CZ4202612": {
     "name": "EuroOil Varnsdorf",
-    "sha1": "b4dc2f38804948e1e5ec9bbcfd7852d7c9169799",
+    "sha1": "e18960613c18faee153d128c847ed3aca200510d",
     "station": {
-      "additionalInfo": "Von der Plzenská Straße",
+      "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -16444,7 +16452,7 @@
       "csName": "EuroOil Varnsdorf",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "From Plzeňská street",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / By the EuroOil gas station",
       "enCsname": "EuroOil Varnsdorf",
       "evseId": "CZ*PRE*E1R5021*2",
       "geoCoord": {
@@ -16472,7 +16480,7 @@
   },
   "CZ4202720": {
     "name": "EuroOil Duchcov",
-    "sha1": "eff4a28e9ebab15e52adcd5fc99e0d2b20c948e0",
+    "sha1": "0b491b8c32c533fea58b60a9ff7bac9dcbdc669a",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "Parken",
@@ -16488,7 +16496,7 @@
       "csName": "EuroOil Duchcov",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the gas station parking lot",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / At the EuroOil gas station parking lot",
       "enCsname": "EuroOil Duchcov",
       "evseId": "CZ*PRE*E1R5014*3",
       "geoCoord": {
@@ -16516,7 +16524,7 @@
   },
   "CZ4202722": {
     "name": "EuroOil Kadaň",
-    "sha1": "e9edc016679de138506f74f4307d958bd9234d4e",
+    "sha1": "763f117649404801d45590a76886c9eaac028b84",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "Parken",
@@ -16532,7 +16540,7 @@
       "csName": "EuroOil Kadaň",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the gas station parking lot",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / At the EuroOil gas station parking lot",
       "enCsname": "EuroOil Kadaň",
       "evseId": "CZ*PRE*E1R5009*3",
       "geoCoord": {
@@ -16560,7 +16568,7 @@
   },
   "CZ4202733": {
     "name": "Benzina Most (jih)",
-    "sha1": "25d94f454d5b28324d25f41ac9b9b16433180ea2",
+    "sha1": "cc3620527d17bf2bde4a12bb19d6891c782a1049",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -16576,7 +16584,7 @@
       "csName": "Benzina Most (jih)",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the gas station parking lot",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / At the EuroOil gas station parking lot",
       "enCsname": "Benzina Most (jih)",
       "evseId": "CZ*PRE*E1R5011*3",
       "geoCoord": {
@@ -16604,7 +16612,7 @@
   },
   "CZ4202734": {
     "name": "Benzina Most (sever)",
-    "sha1": "c0c72abbd8f65cd9aa4b01171762d50fb71051fa",
+    "sha1": "9ef3a6c6723ad4b3056180788a64210d1f0336a2",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -16620,7 +16628,7 @@
       "csName": "Benzina Most (sever)",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the gas station parking lot",
+      "enAdditionalInfo": "u čerpací stanice Benzina / At the Benzina gas station parking lot",
       "enCsname": "Benzina Most (sever)",
       "evseId": "CZ*PRE*E1R5012*3",
       "geoCoord": {
@@ -16648,7 +16656,7 @@
   },
   "CZ4202801": {
     "name": "EuroOil Děčín",
-    "sha1": "9ddd41af70795b78878e6ae990983c7741a0487e",
+    "sha1": "18dcd2a1a068003ced5fc6bb3fb35e6ce4d0a253",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -16664,7 +16672,7 @@
       "csName": "EuroOil Děčín",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "In the parking lot of the gas station",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / In the parking lot of the gas station",
       "enCsname": "EuroOil Děčín",
       "evseId": "CZ*PRE*E1R5020*3",
       "geoCoord": {
@@ -16692,7 +16700,7 @@
   },
   "CZ4202803": {
     "name": "Benzina Ústí nad Labem",
-    "sha1": "eec0a479f3e5cc456cfb01a69ee2109ff4b83c58",
+    "sha1": "387e39b101f8fb11c8461f244d6bf68a241e2ffd",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -16708,7 +16716,7 @@
       "csName": "Benzina Ústí nad Labem",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the parking lot of the gas station",
+      "enAdditionalInfo": "u čerpací stanice Benzina / At the parking lot of the gas station",
       "enCsname": "Benzina Ústí nad Labem",
       "evseId": "CZ*PRE*E1R5016*2",
       "geoCoord": {
@@ -16787,7 +16795,7 @@
   },
   "CZ4202809": {
     "name": "EuroOil Všebořice",
-    "sha1": "338d92e6763e6d555a8feed573809d09a2fec366",
+    "sha1": "1582a2193b7842d16ca70f00c5a7d7f137611afe",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "unbekannt",
@@ -16803,7 +16811,7 @@
       "csName": "EuroOil Všebořice",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the parking lot of the gas station",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / At the parking lot of the gas station",
       "enCsname": "EuroOil Všebořice",
       "evseId": "CZ*PRE*E1R5015*3",
       "geoCoord": {
@@ -16812,6 +16820,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365334f4b8a750ff79a72f/Foto_Všebořice.png"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -16831,7 +16846,7 @@
   },
   "CZ4202810": {
     "name": "EuroOil Litoměřice",
-    "sha1": "3e949fdc32b99307f56569fd3224c8c0eade22b4",
+    "sha1": "c0e018abc990b29aed5f9a4e1a9e275c35e785f3",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -16847,7 +16862,7 @@
       "csName": "EuroOil Litoměřice",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the parking lot of the gas station",
+      "enAdditionalInfo": "u čerpací stanice EuriOil / At the parking lot of the gas station",
       "enCsname": "EuroOil Litoměřice",
       "evseId": "CZ*PRE*E1R5017*3",
       "geoCoord": {
@@ -16856,6 +16871,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ebf4b8a750ff79a0ee/Foto.png"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -16875,7 +16897,7 @@
   },
   "CZ4203002": {
     "name": "EuroOil Louny",
-    "sha1": "fdde6b7c1490c236e1b701ae38626edca89890e3",
+    "sha1": "7bdd01b52b9c0808e12792d0f3238254728e2d1d",
     "station": {
       "additionalInfo": "Neben der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -16891,7 +16913,7 @@
       "csName": "EuroOil Louny",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Next to the EuroOil gas station",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / Next to the EuroOil gas station",
       "enCsname": "EuroOil Louny",
       "evseId": "CZ*PRE*E1R5008*3",
       "geoCoord": {
@@ -16926,7 +16948,7 @@
   },
   "CZ4203055": {
     "name": "Benzina Úštěk",
-    "sha1": "7b9f3ad0cd61b98fc11f12b58ca060b080d5dbbc",
+    "sha1": "c1aea481d9fb2d7d39073c0385c4bd93dac99778",
     "station": {
       "additionalInfo": "Bei der Benzina Tankstelle",
       "branch": "Tankstelle",
@@ -16942,7 +16964,7 @@
       "csName": "Benzina Úštěk",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the Benzina gas station",
+      "enAdditionalInfo": "u čerpací stanice Benzina / By the Benzina gas station",
       "enCsname": "Benzina Úštěk",
       "evseId": "CZ*PRE*E1R5019*2",
       "geoCoord": {
@@ -16951,6 +16973,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436537af4b8a750ff79ad79/Foto.png"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -16970,7 +16999,7 @@
   },
   "CZ4203153": {
     "name": "Penny Market Teplice",
-    "sha1": "1a9650fb05a8f36fe6eada8042027588a7292aad",
+    "sha1": "c64f66db26f5ee21aa5f0ab247c440520ec49eaf",
     "station": {
       "additionalInfo": "Beim Penny Markt",
       "branch": "Einzelhandel",
@@ -16986,7 +17015,7 @@
       "csName": "Penny Market Teplice",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the Penny market",
+      "enAdditionalInfo": "parkoviště Penny Market / By the Penny market",
       "enCsname": "Penny Market Teplice",
       "evseId": "CZ*PRE*E1R5013*3",
       "geoCoord": {
@@ -17072,7 +17101,7 @@
   },
   "CZ5102596": {
     "name": "Česká Lípa Fehrer",
-    "sha1": "5e57a4251a2249b1a051860ec7d41cf11266bb49",
+    "sha1": "e1740a9e21649adce022403315d2e87f8c26724d",
     "station": {
       "additionalInfo": "Auf dem Parkplatz vor dem Areal Fehrer.",
       "branch": "Parken",
@@ -17088,7 +17117,7 @@
       "csName": "Česká Lípa Fehrer",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the parking in front of the Fehrer area.",
+      "enAdditionalInfo": "parkoviště Areálu Fehrer / At the parking in front of the Fehrer area.",
       "enCsname": "Česká Lípa Fehrer",
       "evseId": "CZ*PRE*E1R0018*2",
       "geoCoord": {
@@ -17948,7 +17977,7 @@
   },
   "CZ5302890": {
     "name": "OMV Česká Třebová",
-    "sha1": "01b74ef548239c52189c219c42c86a0d9dabbb56",
+    "sha1": "577307dcdb3864b31d5e623a979d42e98cd18f51",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -17964,7 +17993,7 @@
       "csName": "OMV Česká Třebová",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the OMV gas station",
+      "enAdditionalInfo": "u čerpací stanice OMV / By the OMV gas station",
       "enCsname": "OMV Česká Třebová",
       "evseId": "CZ*PRE*E1R5042*3",
       "geoCoord": {
@@ -17973,6 +18002,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652c9f4b8a750ff799d00/Foto.png"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -18620,7 +18656,7 @@
   },
   "CZ6402853": {
     "name": "OMV Dyjákovičky",
-    "sha1": "de0b07b4b056630fb54bf802c89cb81c53b6054e",
+    "sha1": "6e5a7b05eafe955a7df4aa1e783b5bfa068e0da6",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -18636,7 +18672,7 @@
       "csName": "OMV Dyjákovičky",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Next to the gas station OMV",
+      "enAdditionalInfo": "u čerpací stanice OMV / Next to the gas station OMV",
       "enCsname": "OMV Dyjákovičky",
       "evseId": "CZ*PRE*E1R5085*2",
       "geoCoord": {
@@ -18645,6 +18681,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365278f4b8a750ff7996b5/Foto.png"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -18715,7 +18758,7 @@
   },
   "CZ6402898": {
     "name": "OMV Vyškov",
-    "sha1": "2322d78fc5905218a9cd1d29494450b935bc5fb2",
+    "sha1": "7c6915e8284374823e13483fe69425a39910ec23",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -18731,7 +18774,7 @@
       "csName": "OMV Vyškov",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the OMV gas station",
+      "enAdditionalInfo": "u čerpací stanice OMV / By the OMV gas station",
       "enCsname": "OMV Vyškov",
       "evseId": "CZ*PRE*E1R5075*3",
       "geoCoord": {
@@ -18740,6 +18783,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436527af4b8a750ff79972d/Foto.png"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -18912,7 +18962,7 @@
   },
   "CZ6403163": {
     "name": "Benzina Mramotice",
-    "sha1": "655a7c195141a91e2423cf7e051203de60ace441",
+    "sha1": "90b787dd9188e61bf9c4e567772eccab05bbb971",
     "station": {
       "additionalInfo": "Bei der Benzina Tankstelle",
       "branch": "Tankstelle",
@@ -18928,7 +18978,7 @@
       "csName": "Benzina Mramotice",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the Benzina gas station",
+      "enAdditionalInfo": "u čerpací stanice Benzina / By the Benzina gas station",
       "enCsname": "Benzina Mramotice",
       "evseId": "CZ*PRE*E1R5084*3",
       "geoCoord": {
@@ -18937,6 +18987,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a2f4b8a750ff7999e2/pre_app_Benzina_Mramotice.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -18956,7 +19013,7 @@
   },
   "CZ6403401": {
     "name": "Benzina Lipůvka",
-    "sha1": "972145f7dc47c03c514e50d0f11208a866f14abf",
+    "sha1": "132f801dd577504b091a67c937a93910d14caf71",
     "station": {
       "additionalInfo": "Bei der Benzina Tankstelle",
       "branch": "Tankstelle",
@@ -18972,7 +19029,7 @@
       "csName": "Benzina Lipůvka",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the Benzina gas station",
+      "enAdditionalInfo": "u čerpací stanice Benzina / By the Benzina gas station",
       "enCsname": "Benzina Lipůvka",
       "evseId": "CZ*PRE*E1R5078*3",
       "geoCoord": {
@@ -18986,6 +19043,11 @@
           "class": "locationPhoto",
           "type": "jpg",
           "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff7990c2/pre_app_lipuvka.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff7990c2/pre_app_Lipůvka_1.jpg"
         }
       ],
       "isHome": true,
@@ -19109,8 +19171,9 @@
   },
   "CZ6404726": {
     "name": "EuroOil Moravský Krumlov",
-    "sha1": "2e624fa90fbd1e8ad6a6d242ae89b0207eef3d2c",
+    "sha1": "6c772951e95c75095111f1115645c986a86501b4",
     "station": {
+      "additionalInfo": "u čerpací stanice EuroOil",
       "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
@@ -19124,6 +19187,7 @@
       "csName": "EuroOil Moravský Krumlov",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / By the Gas station",
       "enCsname": "EuroOil Moravský Krumlov",
       "evseId": "CZ*PRE*E1R0057*2",
       "geoCoord": {
@@ -19158,7 +19222,7 @@
   },
   "CZ7102740": {
     "name": "OMV Prostějov",
-    "sha1": "bd12e25824187c3921ffa60a7651141c3b491c14",
+    "sha1": "73742f1d3b236ba685ae5427b0535ed9626c8b22",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -19174,7 +19238,7 @@
       "csName": "OMV Prostějov",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the gas station parking lot",
+      "enAdditionalInfo": "u čerpací stanice OMV / At the gas station parking lot",
       "enCsname": "OMV Prostějov",
       "evseId": "CZ*PRE*E1R5077*2",
       "geoCoord": {
@@ -19258,7 +19322,7 @@
   },
   "CZ7103001": {
     "name": "EuroOil Šumperk",
-    "sha1": "c78770935f841d4e7d8a0259f09872fa3c0ed78d",
+    "sha1": "84a4907768958a9bed61faeacb801907db8495ee",
     "station": {
       "additionalInfo": "Neben der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -19274,7 +19338,7 @@
       "csName": "EuroOil Šumperk",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Next to the EuroOil gas station",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / Next to the EuroOil gas station",
       "enCsname": "EuroOil Šumperk",
       "evseId": "CZ*PRE*E1R5045*2",
       "geoCoord": {
@@ -19283,6 +19347,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652e9f4b8a750ff79a017/Foto.png"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -19302,7 +19373,7 @@
   },
   "CZ7103194": {
     "name": "EuroOil Zlaté Hory",
-    "sha1": "11583065e62bf7b275b079caa9aec53275a84891",
+    "sha1": "be1e8186b00ff7301abf45bc8260dd7585e53fab",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -19318,7 +19389,7 @@
       "csName": "EuroOil Zlaté Hory",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Next to the EuroOil gas station",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / Next to the EuroOil gas station",
       "enCsname": "EuroOil Zlaté Hory",
       "evseId": "CZ*PRE*E1R5046*2",
       "geoCoord": {
@@ -19455,7 +19526,7 @@
   },
   "CZ7202811": {
     "name": "OMV Rožnov pod Radhoštěm",
-    "sha1": "aee8edc4bffefd3fca0cc0408909a9528ed06b8d",
+    "sha1": "bd67210ad5c0fbffc7b13661ea78ebe410c54c04",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -19471,7 +19542,7 @@
       "csName": "OMV Rožnov pod Radhoštěm",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the parking lot of the gas station",
+      "enAdditionalInfo": "u čerpací stanice OMV / At the parking lot of the gas station",
       "enCsname": "OMV Rožnov pod Radhoštěm",
       "evseId": "CZ*PRE*E1R5061*3",
       "geoCoord": {
@@ -19480,6 +19551,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365277f4b8a750ff799699/Foto.png"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -19499,7 +19577,7 @@
   },
   "CZ7202822": {
     "name": "OMV Uherské Hradiště",
-    "sha1": "2bb4d86d91dc81ba1eadcb5ea8cf05baf81b0135",
+    "sha1": "9d7f31e900e450f2e9177b9d8b1a2a68f3b5259c",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -19515,7 +19593,7 @@
       "csName": "OMV Uherské Hradiště",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the parking lot of the gas station",
+      "enAdditionalInfo": "u čerpací stanice OMV / At the parking lot of the OMV gas station",
       "enCsname": "OMV Uherské Hradiště",
       "evseId": "CZ*PRE*E1R5069*3",
       "geoCoord": {
@@ -19543,7 +19621,7 @@
   },
   "CZ7202900": {
     "name": "EuroOil Vsetín",
-    "sha1": "bdd7cf839bb1d9410294fa91c2482807758d7549",
+    "sha1": "4b5ed81c3d96b1097564d19fcf9fb234d7ca899b",
     "station": {
       "additionalInfo": "By the EuroOil gas station",
       "branch": "Tankstelle",
@@ -19559,7 +19637,7 @@
       "csName": "EuroOil Vsetín",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Bei der EuroOil Tankstelle",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / Bei der EuroOil Tankstelle",
       "enCsname": "EuroOil Vsetín",
       "evseId": "CZ*PRE*E1R5062*3",
       "geoCoord": {
@@ -19568,6 +19646,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436527cf4b8a750ff79982a/Foto.png"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -19587,7 +19672,7 @@
   },
   "CZ7202998": {
     "name": "Penny Market Kroměříž",
-    "sha1": "141c004928f7bab3926fae6e3a4e6cdb98f522c5",
+    "sha1": "4753b76953d232ec9c40b1604bda5fb1ccc71975",
     "station": {
       "additionalInfo": "Neben dem Penny Markt",
       "branch": "Parken",
@@ -19603,7 +19688,7 @@
       "csName": "Penny Market Kroměříž",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Next to Penny food market",
+      "enAdditionalInfo": "parkoviště Penny Market / Next to Penny food market",
       "enCsname": "Penny Market Kroměříž",
       "evseId": "CZ*PRE*E1R5068*3",
       "geoCoord": {
@@ -19638,7 +19723,7 @@
   },
   "CZ7203184": {
     "name": "EuroOil Napajedla",
-    "sha1": "a6e704706ca30001aa169be4e6aa192326faedd7",
+    "sha1": "7ef0e2a12d4f66480ea2ebc7418512b3aa57c65c",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "Tankstelle",
@@ -19654,7 +19739,7 @@
       "csName": "EuroOil Napajedla",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Next to the EuroOil gas station",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / Next to the EuroOil gas station",
       "enCsname": "EuroOil Napajedla",
       "evseId": "CZ*PRE*E1R5070*3",
       "geoCoord": {
@@ -19879,7 +19964,7 @@
   },
   "CZ8002717": {
     "name": "EuroOil Bílovec",
-    "sha1": "66ecd8ad6ea9422ff05c82213c286d8380849453",
+    "sha1": "e11642e5732ba94d9dcdad28f502737dca8a1744",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "Parken",
@@ -19895,7 +19980,7 @@
       "csName": "EuroOil Bílovec",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the gas station parking lot",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / At the gas station parking lot",
       "enCsname": "EuroOil Bílovec",
       "evseId": "CZ*PRE*E1R5060*3",
       "geoCoord": {
@@ -19923,7 +20008,7 @@
   },
   "CZ8002736": {
     "name": "EuroOil Vítkov",
-    "sha1": "b019f851b4d78f6f3b1e3157f7ca32e85e5cb655",
+    "sha1": "86a419f35e5721375917269293bc1bf8e33ebb90",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -19939,7 +20024,7 @@
       "csName": "EuroOil Vítkov",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the gas station parking lot",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / At the gas station parking lot",
       "enCsname": "EuroOil Vítkov",
       "evseId": "CZ*PRE*E1R5048*2",
       "geoCoord": {
@@ -19967,7 +20052,7 @@
   },
   "CZ8002737": {
     "name": "EuroOil Ostrava",
-    "sha1": "a44246fb86a9cc678538137277066ab6097dce16",
+    "sha1": "86bd5a158571d102ef88dd75a2ea064eb7ab30b3",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Parken",
@@ -19983,7 +20068,7 @@
       "csName": "EuroOil Ostrava",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the gas station parking lot",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / At the gas station parking lot",
       "enCsname": "EuroOil Ostrava",
       "evseId": "CZ*PRE*E1R5049*3",
       "geoCoord": {
@@ -20113,9 +20198,9 @@
   },
   "CZ8002804": {
     "name": "OMV Bruntál",
-    "sha1": "7eecc23f68b408ea5fd6d27a06b5f8fb4ce968bf",
+    "sha1": "8857c464accaf96cf61ecbfb1b3c8b82bf201fd7",
     "station": {
-      "additionalInfo": "Station out of service due to the reconstruction of the gas station",
+      "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
       "chargingFacilities": {
         "chargingFacility": [
@@ -20129,7 +20214,7 @@
       "csName": "OMV Bruntál",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Station out of service due to the reconstruction of the gas station",
+      "enAdditionalInfo": "u čerpací stanice OMV / By the OMV gas station",
       "enCsname": "OMV Bruntál",
       "evseId": "CZ*PRE*E1R5047*2",
       "geoCoord": {
@@ -20164,7 +20249,7 @@
   },
   "CZ8002805": {
     "name": "EuroOil Petřvald",
-    "sha1": "c746f39222b7fcb64b28c3024877edc3dcef79a8",
+    "sha1": "d1cbf307adf758a6bff793beaa383b51190a83a6",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -20180,7 +20265,7 @@
       "csName": "EuroOil Petřvald",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "At the parking lot of the gas station",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / At the parking lot of the gas station",
       "enCsname": "EuroOil Petřvald",
       "evseId": "CZ*PRE*E1R5059*2",
       "geoCoord": {
@@ -20189,6 +20274,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ebf4b8a750ff79a0eb/Foto.png"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -20208,7 +20300,7 @@
   },
   "CZ8002841": {
     "name": "EuroOil Karviná",
-    "sha1": "a7777edd668d8cb9ed31b30d298d7539bdca2aa6",
+    "sha1": "7a8ab88d8b6105befd45c1b8adc384d42f80fb04",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -20224,7 +20316,7 @@
       "csName": "EuroOil Karviná",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "In the parking lot of the gas station",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / In the parking lot of the gas station",
       "enCsname": "EuroOil Karviná",
       "evseId": "CZ*PRE*E1R5054*3",
       "geoCoord": {
@@ -20252,7 +20344,7 @@
   },
   "CZ8002869": {
     "name": "OMV Frýdek-Místek",
-    "sha1": "918bd7c959ac9d8e574cd2b7ba744992735711c8",
+    "sha1": "8a8141813a49b4725ac05c9f15005c64eb52b107",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "Tankstelle",
@@ -20268,7 +20360,7 @@
       "csName": "OMV Frýdek-Místek",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the OMV gas station",
+      "enAdditionalInfo": "u čerpací stanice OMV / By the OMV gas station",
       "enCsname": "OMV Frýdek-Místek",
       "evseId": "CZ*PRE*E1R5057*2",
       "geoCoord": {
@@ -20303,7 +20395,7 @@
   },
   "CZ8003140": {
     "name": "Penny Market Třinec",
-    "sha1": "2b179bf23b39d449b61756cc3e3c0a6c7ca00906",
+    "sha1": "598b2cfaf0f19c364586424d0cbe40f9cfa75203",
     "station": {
       "additionalInfo": "Auf dem Penny Parkplatz",
       "branch": "Einzelhandel",
@@ -20319,7 +20411,7 @@
       "csName": "Penny Market Třinec",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "On the Penny Parking lot",
+      "enAdditionalInfo": "parkoviště Penny Market / On the Penny Parking lot",
       "enCsname": "Penny Market Třinec",
       "evseId": "CZ*PRE*E1R5055*2",
       "geoCoord": {
@@ -20405,8 +20497,9 @@
   },
   "CZ8003243": {
     "name": "Alza Opava",
-    "sha1": "ae0be6910ec3890a2ff88c180a5b2e503192ccb1",
+    "sha1": "8b83a716d50e7c008c6052f4e78f8c95f6904352",
     "station": {
+      "additionalInfo": "parkoviště u obchodu Alza",
       "branch": "Einzelhandel",
       "chargingFacilities": {
         "chargingFacility": [
@@ -20420,6 +20513,7 @@
       "csName": "Alza Opava",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "parkoviště u obchodu Alza / parking lot at shopping Alza",
       "enCsname": "Alza Opava",
       "evseId": "CZ*PRE*E1S8169*2",
       "geoCoord": {
@@ -20454,7 +20548,7 @@
   },
   "CZ8003276": {
     "name": "EuroOil Sviadnov",
-    "sha1": "71c3a76187b910b558895ab57820d8685d18f53d",
+    "sha1": "80f30d6ecf2597733763c2f3b5d9361ba1bb3d88",
     "station": {
       "additionalInfo": "Bei der EuriOil Tankstelle",
       "branch": "Tankstelle",
@@ -20470,7 +20564,7 @@
       "csName": "EuroOil Sviadnov",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "By the EuroOil gas station",
+      "enAdditionalInfo": "u čerpací stanice EuroOil / By the EuroOil gas station",
       "enCsname": "EuroOil Sviadnov",
       "evseId": "CZ*PRE*E1R5056*2",
       "geoCoord": {
@@ -21238,7 +21332,7 @@
   },
   "CZ8252875": {
     "name": "Vlakové nádraží Praha Vysočany",
-    "sha1": "248c4392eefcfba46236bc3e89a88114288adb12",
+    "sha1": "45ddad22828e361862f8056670a2ec1b876a555f",
     "station": {
       "additionalInfo": "Vlakové nádraží Praha Vysočany",
       "chargingFacilities": {
@@ -21250,7 +21344,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8252875",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "Vlakové nádraží Praha Vysočany / Train station Praha Vysočany",
       "enCsname": "Vlakové nádraží Praha Vysočany",
@@ -21328,22 +21422,22 @@
     }
   },
   "CZ8278104": {
-    "name": "Auto Toman Trinec",
-    "sha1": "3f7d7c2dcbe02bec94d821a2102abf6e3cc2b030",
+    "name": "Auto Toman Třinec",
+    "sha1": "c5e0fcadfc419f4e8d107a2de0090536c18ccd0d",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase =32A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
-      "city": "Trinec",
+      "city": "Třinec",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8278104",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Auto Toman Trinec / Car Dealership Trinec",
-      "enCsname": "Auto Toman Trinec",
+      "enAdditionalInfo": "Auto Toman Třinec / Car Dealership Třinec",
+      "enCsname": "Auto Toman Třinec",
       "evseId": "CZ*PRE*E1S0072*1",
       "geoCoord": {
         "latitude": "49.676579",
@@ -22280,6 +22374,45 @@
       "street": "Strakonická"
     }
   },
+  "CZ8558420": {
+    "name": "Segro Hostivice",
+    "sha1": "b13524514259e460fdd4f59f0d5d0725481d51ca",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤75kW"
+        ]
+      },
+      "city": "Hostivice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8558420",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Segro Hostivice",
+      "evseId": "CZ*PRE*E1R0084*2",
+      "geoCoord": {
+        "latitude": "50.082744",
+        "longitude": "14.271362"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "25301",
+      "street": "Hostivice"
+    }
+  },
   "CZ8567925": {
     "name": "Benzina Kbelská",
     "sha1": "32b08a3fc95bc5b0d1fd98afec68179acea46694",
@@ -22387,7 +22520,7 @@
   },
   "CZ8635878": {
     "name": "Palác Pardubice",
-    "sha1": "c86bd69fc6e12cc9ec8a5fe9ca61d79ada06c151",
+    "sha1": "bfff2f184d89e3c7807ce28d85b185f6fcda6df9",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -22398,7 +22531,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8635878",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "garáže v obchodním domě Palác / Palác shopping mall garages",
       "enCsname": "Palác Pardubice",
@@ -22427,23 +22560,23 @@
     }
   },
   "CZ8653262": {
-    "name": "Auto Toman Havírov",
-    "sha1": "dcfce21a370f5848717c793f3ba1b81dde47b155",
+    "name": "Auto Toman Havířov",
+    "sha1": "a92b7531cc4190539506ce3bbe28aa3385b9faba",
     "station": {
-      "additionalInfo": "Auto Toman Havírov",
+      "additionalInfo": "Auto Toman Havířov",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase =32A"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
-      "city": "Havirov",
+      "city": "Haviřov",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8653262",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Auto Toman Havírov / Car Dealership Havírov",
-      "enCsname": "Auto Toman Havírov",
+      "enAdditionalInfo": "Auto Toman Havířov / Car Dealership Havířov",
+      "enCsname": "Auto Toman Havířov",
       "evseId": "CZ*PRE*E1S0073*2",
       "geoCoord": {
         "latitude": "49.777823",
@@ -22465,7 +22598,7 @@
       ],
       "postalCode": "736 01",
       "region": "Moravskoslezský kraj",
-      "street": "Dlouhá tr. 65"
+      "street": "Dlouhá tř. 65"
     }
   },
   "CZ8671071": {
@@ -23361,10 +23494,9 @@
   },
   "CZ9010237": {
     "name": "OREA Devět Skal",
-    "sha1": "77d7fbd493c4812ea2ce8c8b58276b1539e646d8",
+    "sha1": "763c71c14ab5f13ef576a4522e374b50dbc92351",
     "station": {
       "additionalInfo": "10min kostenlos, dann 30CZK/Stunde, für OREA-Hotelkunden Info an der Rezeption",
-      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -23377,7 +23509,7 @@
       "csName": "OREA Devět Skal",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "10min free of charge, then 30CZK/hour, for OREA hotel customers info at the reception",
+      "enAdditionalInfo": "10min zdarma poté 30,-Kč/1h  pro zákazníky OREA hotelu info na recepci / 10min free of charge, then 30CZK/hour, for OREA hotel customers info at the reception",
       "enCsname": "OREA Devět Skal",
       "evseId": "CZ*PRE*E1S8245*2",
       "geoCoord": {
@@ -25269,8 +25401,9 @@
   },
   "CZ9624272": {
     "name": "SUAS 1 Dolní Rychnov",
-    "sha1": "03605b600e633a5973fcefd81f1d92e8be682a25",
+    "sha1": "e8763da80161a6816532951b3f9db259d5e1aa80",
     "station": {
+      "additionalInfo": "parkoviště Golf Sokolov",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -25283,6 +25416,7 @@
       "csName": "SUAS 1 Dolní Rychnov",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "parkoviště Golf Sokolov / parking by the Golf Sokolov",
       "enCsname": "SUAS 1 Dolní Rychnov",
       "evseId": "CZ*PRE*E0S0043*2",
       "geoCoord": {
