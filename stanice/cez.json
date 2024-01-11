@@ -31842,6 +31842,225 @@
       "visible": true
     }
   },
+  "187626": {
+    "name": "R600 - Protivín - Benzina - 1",
+    "sha1": "29a1b2dd83fc9513a7e31ab161fbf77bdea98536",
+    "station": {
+      "address": {
+        "city": "Protivín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Školce 913",
+        "latitude": 49.1986119,
+        "longitude": 14.2110636,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "187626",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R600"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R600"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/01/2642b3fa-0e36-4c25-9816-b52f76837736.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R600 - Protivín - Benzina - 1",
+      "visible": true
+    }
+  },
+  "187627": {
+    "name": "R601 - Protivín - Benzina - 2",
+    "sha1": "f57054baaecfeda1b050f0bcaead72b0bd57ee77",
+    "station": {
+      "address": {
+        "city": "Protivín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Školce 913",
+        "latitude": 49.1986119,
+        "longitude": 14.2110636,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ke",
+        "url": ""
+      },
+      "customID": "187627",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R601"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R601"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/01/2642b3fa-0e36-4c25-9816-b52f76837736.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R601 - Protivín - Benzina - 2",
+      "visible": true
+    }
+  },
+  "187647": {
+    "name": "R599 - Lnáře - Benzina",
+    "sha1": "484dfc80d7cae2c5f44303124d01e6440b752dac",
+    "station": {
+      "address": {
+        "city": "Lnáře",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "252",
+        "latitude": 49.4569906,
+        "longitude": 13.7820617,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Lnáře",
+        "url": ""
+      },
+      "customID": "187647",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R599"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R599"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/01/a9176f0c-91d7-49c7-a9f4-a717278f73ac.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R599 - Lnáře - Benzina",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",

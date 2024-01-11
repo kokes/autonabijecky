@@ -10531,7 +10531,7 @@
   },
   "206830": {
     "name": "E.ON Kaufland Kolín",
-    "sha1": "fdcd4718509d6cc9502c024ab60b3f8a1c936daa",
+    "sha1": "31938bd28bdad6d861246db1f2e1f2ced646fc61",
     "station": {
       "address": "Benešova 1000",
       "city": "Kolín",
@@ -10580,30 +10580,16 @@
         },
         {
           "capabilities": [
-            "RFID_READER",
-            "UNLOCK_CAPABLE",
             "CONTACTLESS_CARD_SUPPORT",
-            "REMOTE_START_STOP_CAPABLE"
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
           ],
           "connectors": [
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2023-10-11T06:10:01.263Z",
-              "max_amperage": 32,
-              "max_electric_power": 22000,
-              "max_voltage": 400,
-              "power_type": "AC_3_PHASE",
-              "standard": "IEC_62196_T2",
-              "tariff_ids": [
-                "294",
-                "297"
-              ]
-            },
-            {
-              "format": "SOCKET",
-              "id": "3",
-              "last_updated": "2023-10-11T06:10:01.263Z",
+              "last_updated": "2024-01-10T23:05:58.157Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -10620,7 +10606,6 @@
             "longitude": "15.18448151"
           },
           "evse_id": "CZ*UFC*E32206830*3",
-          "floor_level": "0",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
