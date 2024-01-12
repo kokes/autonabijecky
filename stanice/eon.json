@@ -19440,10 +19440,10 @@
   },
   "33214": {
     "name": "E.ON ČS MOL Vyškov UFC",
-    "sha1": "7e17872391cdd2563e1d66d5b372adac19587eba",
+    "sha1": "327e9eb8e7b79cf72aee74b1a0ac6a1a31202f92",
     "station": {
-      "address": "Priprava",
-      "city": "Priprava",
+      "address": "Kroměřížská 709",
+      "city": "Vyškov",
       "coordinates": {
         "latitude": "49.28144801",
         "longitude": "17.019908"
@@ -19579,110 +19579,6 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "214902"
-        },
-        {
-          "capabilities": [
-            "CONTACTLESS_CARD_SUPPORT",
-            "REMOTE_START_STOP_CAPABLE",
-            "RFID_READER",
-            "UNLOCK_CAPABLE"
-          ],
-          "connectors": [
-            {
-              "format": "CABLE",
-              "id": "1",
-              "last_updated": "2023-01-26T10:03:01.3Z",
-              "max_amperage": 63,
-              "max_electric_power": 43000,
-              "max_voltage": 400,
-              "power_type": "AC_3_PHASE",
-              "standard": "IEC_62196_T2",
-              "tariff_ids": [
-                "1",
-                "4",
-                "59",
-                "62",
-                "139",
-                "140",
-                "182",
-                "183",
-                "208",
-                "209"
-              ]
-            }
-          ],
-          "coordinates": {
-            "latitude": "49.28144801",
-            "longitude": "17.019908"
-          },
-          "evse_id": "CZ*UFC*E11033214*1",
-          "last_seen_as_planned": "2021-10-27T20:18:11.247Z",
-          "last_updated": "RESET",
-          "status": "RESET",
-          "uid": "33214"
-        },
-        {
-          "capabilities": [
-            "CONTACTLESS_CARD_SUPPORT",
-            "REMOTE_START_STOP_CAPABLE",
-            "RFID_READER",
-            "UNLOCK_CAPABLE"
-          ],
-          "connectors": [
-            {
-              "format": "CABLE",
-              "id": "2",
-              "last_updated": "2023-01-27T07:40:45.067Z",
-              "max_amperage": 125,
-              "max_electric_power": 50000,
-              "max_voltage": 500,
-              "power_type": "DC",
-              "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": [
-                "2",
-                "5",
-                "60",
-                "63",
-                "141",
-                "142",
-                "184",
-                "185",
-                "210",
-                "212"
-              ]
-            },
-            {
-              "format": "CABLE",
-              "id": "3",
-              "last_updated": "2023-01-27T07:40:45.067Z",
-              "max_amperage": 125,
-              "max_electric_power": 50000,
-              "max_voltage": 500,
-              "power_type": "DC",
-              "standard": "CHADEMO",
-              "tariff_ids": [
-                "2",
-                "5",
-                "60",
-                "63",
-                "141",
-                "142",
-                "184",
-                "185",
-                "210",
-                "212"
-              ]
-            }
-          ],
-          "coordinates": {
-            "latitude": "49.28144801",
-            "longitude": "17.019908"
-          },
-          "evse_id": "CZ*UFC*E11033214*2",
-          "last_seen_as_planned": "2021-10-27T20:18:11.247Z",
-          "last_updated": "RESET",
-          "status": "RESET",
-          "uid": "33215"
         },
         {
           "capabilities": [

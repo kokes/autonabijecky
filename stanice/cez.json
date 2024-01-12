@@ -12451,8 +12451,8 @@
     }
   },
   "158691": {
-    "name": "N188 - Loučeň - Zámek Loučeň - 1",
-    "sha1": "d84554541375d8de07fb37f944edf666e2d7a06e",
+    "name": "N243 - Loučeň - Zámek Loučeň - 1",
+    "sha1": "96ea2b09714c8314def9b4a44d045550fbae44e8",
     "station": {
       "address": {
         "city": "Loučeň",
@@ -12487,7 +12487,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N188"
+          "physicalReference": "N243"
         },
         {
           "connectors": [
@@ -12501,7 +12501,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N188"
+          "physicalReference": "N243"
         }
       ],
       "images": [
@@ -12510,13 +12510,13 @@
         }
       ],
       "instructions": null,
-      "name": "N188 - Loučeň - Zámek Loučeň - 1",
+      "name": "N243 - Loučeň - Zámek Loučeň - 1",
       "visible": true
     }
   },
   "158692": {
-    "name": "N189 - Loučeň - Zámek Loučeň - 2",
-    "sha1": "dc336f16f0b32ba3da9f6b85904b7884e1f9c9fa",
+    "name": "N244 - Loučeň - Zámek Loučeň - 2",
+    "sha1": "d70bcc7de74c12b0be54b16e8094e57c09f9ec27",
     "station": {
       "address": {
         "city": "Loučeň",
@@ -12551,7 +12551,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N189"
+          "physicalReference": "N244"
         },
         {
           "connectors": [
@@ -12565,7 +12565,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N189"
+          "physicalReference": "N244"
         }
       ],
       "images": [
@@ -12574,7 +12574,7 @@
         }
       ],
       "instructions": null,
-      "name": "N189 - Loučeň - Zámek Loučeň - 2",
+      "name": "N244 - Loučeň - Zámek Loučeň - 2",
       "visible": true
     }
   },
