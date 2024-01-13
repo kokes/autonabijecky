@@ -28185,7 +28185,7 @@
   },
   "49020": {
     "name": "(P) POHODA-SERVIS",
-    "sha1": "1a09030ec566af92b44f05dcc3f057c89f272132",
+    "sha1": "16092bae9b658f8155f7742861d54341d4c9060e",
     "station": {
       "address": "Orlická",
       "city": "Týn nad Vltavou",
@@ -28210,9 +28210,9 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2023-05-02T04:43:10.827Z",
+              "last_updated": "2024-01-12T23:06:02.763Z",
               "max_amperage": 16,
-              "max_electric_power": 11000,
+              "max_electric_power": 22000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
@@ -37254,7 +37254,7 @@
   },
   "53782": {
     "name": "E.ON Penny Náchod",
-    "sha1": "eb786156782c934eacc02c9e9d07f4df98370e1a",
+    "sha1": "821df16573b865b48a9ba207cc8309924883e766",
     "station": {
       "address": "Pražská 373",
       "city": "Náchod",
@@ -37364,7 +37364,7 @@
             {
               "format": "SOCKET",
               "id": "3",
-              "last_updated": "2023-01-26T10:03:01.3Z",
+              "last_updated": "2024-01-12T23:06:02.763Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
