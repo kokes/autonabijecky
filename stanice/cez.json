@@ -32061,6 +32061,216 @@
       "visible": true
     }
   },
+  "187889": {
+    "name": "UR147 - Pňov - Lotos Caffé",
+    "sha1": "53b278a762f0470201d55316cc5a3508ef6c9483",
+    "station": {
+      "address": {
+        "city": "Pňov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "106",
+        "latitude": 50.0896236,
+        "longitude": 15.1471517,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Předhradí",
+        "url": ""
+      },
+      "customID": "187889",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 130,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR147"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 130,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR147"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/01/ab73cbd6-a181-4553-9e7d-0c6733ef5d34.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR147 - Pňov - Lotos Caffé",
+      "visible": true
+    }
+  },
+  "187925": {
+    "name": "R605 - Žatec - Kaufland - 1",
+    "sha1": "cfc98347fe31a55984eca1fbc1415d60e2004303",
+    "station": {
+      "address": {
+        "city": "Žatec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3034",
+        "latitude": 50.3238481,
+        "longitude": 13.5303154,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Kadaňská",
+        "url": ""
+      },
+      "customID": "187925",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R605"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R605"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/01/6eb0b6cd-1039-4372-a0a7-7b4c73952291.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R605 - Žatec - Kaufland - 1",
+      "visible": true
+    }
+  },
+  "187926": {
+    "name": "R606 - Žatec - Kaufland - 2",
+    "sha1": "ffa660d7a8e6b770066fd986ff513df3ab819414",
+    "station": {
+      "address": {
+        "city": "Žatec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3034",
+        "latitude": 50.3238481,
+        "longitude": 13.5303154,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Kadaňská",
+        "url": ""
+      },
+      "customID": "187926",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R606"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R606"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/01/6eb0b6cd-1039-4372-a0a7-7b4c73952291.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R606 - Žatec - Kaufland - 2",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
