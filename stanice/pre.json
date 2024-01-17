@@ -24937,11 +24937,11 @@
   },
   "CZ9429409": {
     "name": "EuroOil Zdice",
-    "sha1": "0508ff3766f8d1d6c3297061a5c2773a9facfec5",
+    "sha1": "d2c5e85c1a1a0e29d7ae6ba6104709b4818fb1a7",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤50kW"
+          "DC Charging ≤150kW"
         ]
       },
       "city": "Zdice",
@@ -24967,8 +24967,8 @@
       "plugs": [
         {
           "connectorFormat": "Cable",
-          "connectorStandard": "Chademo",
-          "plug": "CHAdeMO"
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
         }
       ],
       "postalCode": "267 51",

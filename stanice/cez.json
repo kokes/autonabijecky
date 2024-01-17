@@ -32271,6 +32271,84 @@
       "visible": true
     }
   },
+  "187997": {
+    "name": "R014 - Úvaly - Retail park",
+    "sha1": "f7347370f689a866d5ab2528b3373aee693047c6",
+    "station": {
+      "address": {
+        "city": "Úvaly",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.0717203,
+        "longitude": 14.7060303,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pražská",
+        "url": ""
+      },
+      "customID": "187997",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R014"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R014"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "OTHER",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R014"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/01/4.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R014 - Úvaly - Retail park",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
