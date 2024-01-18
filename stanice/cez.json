@@ -32125,152 +32125,6 @@
       "visible": true
     }
   },
-  "187925": {
-    "name": "R605 - Žatec - Kaufland - 1",
-    "sha1": "cfc98347fe31a55984eca1fbc1415d60e2004303",
-    "station": {
-      "address": {
-        "city": "Žatec",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "3034",
-        "latitude": 50.3238481,
-        "longitude": 13.5303154,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Kadaňská",
-        "url": ""
-      },
-      "customID": "187925",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R605"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R605"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/01/6eb0b6cd-1039-4372-a0a7-7b4c73952291.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R605 - Žatec - Kaufland - 1",
-      "visible": true
-    }
-  },
-  "187926": {
-    "name": "R606 - Žatec - Kaufland - 2",
-    "sha1": "ffa660d7a8e6b770066fd986ff513df3ab819414",
-    "station": {
-      "address": {
-        "city": "Žatec",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "3034",
-        "latitude": 50.3238481,
-        "longitude": 13.5303154,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Kadaňská",
-        "url": ""
-      },
-      "customID": "187926",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R606"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R606"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/01/6eb0b6cd-1039-4372-a0a7-7b4c73952291.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R606 - Žatec - Kaufland - 2",
-      "visible": true
-    }
-  },
   "187997": {
     "name": "R014 - Úvaly - Retail park",
     "sha1": "f7347370f689a866d5ab2528b3373aee693047c6",
@@ -32346,6 +32200,152 @@
       ],
       "instructions": null,
       "name": "R014 - Úvaly - Retail park",
+      "visible": true
+    }
+  },
+  "188009": {
+    "name": "R609 - Jindřichův Hradec - Kaufland - 1",
+    "sha1": "1f925c5e4557eb8b6f3d2cd819208c6aef1c426a",
+    "station": {
+      "address": {
+        "city": "Jindřichův Hradec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "903",
+        "latitude": 49.1428406,
+        "longitude": 15.0204389,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jáchymova",
+        "url": ""
+      },
+      "customID": "188009",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R609"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R609"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/01/0af931a4-0c68-43fb-923f-2bb531ffcfdb.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R609 - Jindřichův Hradec - Kaufland - 1",
+      "visible": true
+    }
+  },
+  "188010": {
+    "name": "R610 - Jindřichův Hradec - Kaufland - 2",
+    "sha1": "13b15cde2e36ec5eecaad7fbd03415c58d47d874",
+    "station": {
+      "address": {
+        "city": "Jindřichův Hradec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "903",
+        "latitude": 49.1428406,
+        "longitude": 15.0204389,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jáchymova",
+        "url": ""
+      },
+      "customID": "188010",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R610"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R610"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/01/0af931a4-0c68-43fb-923f-2bb531ffcfdb.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R610 - Jindřichův Hradec - Kaufland - 2",
       "visible": true
     }
   },
