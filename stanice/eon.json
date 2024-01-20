@@ -13865,6 +13865,250 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "237757": {
+    "name": "(P) Krajská správa silnic Libereckého kraje ",
+    "sha1": "ad05c8a8b4485d273c9cfcc1abc6c0468eea0fe5",
+    "station": {
+      "address": "Náchodská 680/2",
+      "city": "Liberec IV – Perštýn",
+      "coordinates": {
+        "latitude": "50.7642778",
+        "longitude": "15.0544772"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-01-19T07:21:08.117Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "304",
+                "305"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.7642778",
+            "longitude": "15.0544772"
+          },
+          "evse_id": "CZ*EON*E22171052*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "171052"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-01-19T07:21:08.117Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "304",
+                "305"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.7642778",
+            "longitude": "15.0544772"
+          },
+          "evse_id": "CZ*EON*E22171053*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "171053"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-01-19T07:21:08.117Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "304",
+                "305"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.7642778",
+            "longitude": "15.0544772"
+          },
+          "evse_id": "CZ*EON*E22171054*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "171054"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-01-19T07:21:08.117Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "304",
+                "305"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.7642778",
+            "longitude": "15.0544772"
+          },
+          "evse_id": "CZ*EON*E22171055*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "171055"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2024-01-19T07:54:30.85Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "306",
+                "307"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.7642778",
+            "longitude": "15.0544772"
+          },
+          "evse_id": "CZ*EON*E98232179*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "232179"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2024-01-19T07:54:30.85Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "306",
+                "307"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.7642778",
+            "longitude": "15.0544772"
+          },
+          "evse_id": "CZ*EON*E98232179*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "232180"
+        }
+      ],
+      "facilities": [
+        "MALL",
+        "SUPERMARKET",
+        "BUS_STOP",
+        "PARKING_LOT",
+        "WIFI"
+      ],
+      "id": "237757",
+      "last_updated": "RESET",
+      "name": "(P) Krajská správa silnic Libereckého kraje ",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Krajská správa silnic Libereckého kraje, příspěvková organizace"
+      },
+      "owner": {
+        "name": "Krajská správa silnic Libereckého kraje, příspěvková organizace"
+      },
+      "party_id": "EON",
+      "postal_code": "46180",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "23782": {
     "name": "E.ON Globus Ostrava",
     "sha1": "6d25da24447cd2987b9e02f24543c2d99b4811ac",
