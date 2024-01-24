@@ -3960,9 +3960,9 @@
   },
   "CZ1002676": {
     "name": "SMIGHT Jugoslávská",
-    "sha1": "b5f2a0cfd822d7deec66ff1d51b2b0016327d75b",
+    "sha1": "87f358d310d0f9f18ec8069092c319fef0d69098",
     "station": {
-      "additionalInfo": "Vor dem Rathaus",
+      "additionalInfo": "před ÚMČ",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -22376,7 +22376,7 @@
   },
   "CZ8558420": {
     "name": "Segro Hostivice",
-    "sha1": "52cad15fa1ad700d15d124e3e0e97f8ff390035d",
+    "sha1": "3d9717f88d369ad343dea8a1350da81d7ffbe386",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -22397,6 +22397,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/659670b2b00b887ef007feff/20240104_140306.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/659670b2b00b887ef007feff/20240104_140324.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
