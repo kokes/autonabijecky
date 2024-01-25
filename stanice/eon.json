@@ -3024,13 +3024,13 @@
   },
   "117363": {
     "name": "(P) Apartmány Florián",
-    "sha1": "e4441292dcbcde03a6ecae64456394437edba8ea",
+    "sha1": "c7d65a717344e8f484f05ee12f58d9a286177085",
     "station": {
       "address": "Kvilda 206",
       "city": "Kvilda",
       "coordinates": {
-        "latitude": "49.0181011",
-        "longitude": "13.5787608"
+        "latitude": "49.0180914",
+        "longitude": "13.5789581"
       },
       "country": "CZE",
       "country_code": "CZ",
@@ -3064,8 +3064,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "49.0181011",
-            "longitude": "13.5787608"
+            "latitude": "49.0180914",
+            "longitude": "13.5789581"
           },
           "evse_id": "CZ*EON*E22117363*1",
           "floor_level": "0",
@@ -3298,6 +3298,116 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "746 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "124461": {
+    "name": " (P) Mokrá u koupaliště",
+    "sha1": "311bd084e5017e7c6f8ed8d243f93d2402a2f1f8",
+    "station": {
+      "address": "Mokrá 239",
+      "city": "Mokrá-Horákov - Mokrá",
+      "coordinates": {
+        "latitude": "49.2207658",
+        "longitude": "16.7504081"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-01-24T08:06:54.157Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "308",
+                "309"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.2207658",
+            "longitude": "16.7504081"
+          },
+          "evse_id": "CZ*EON*E31124461*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "124461"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-01-24T08:06:54.157Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "308",
+                "309"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.2207658",
+            "longitude": "16.7504081"
+          },
+          "evse_id": "CZ*EON*E31124461*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "124462"
+        }
+      ],
+      "facilities": [
+        "RECREATION_AREA",
+        "PARKING_LOT"
+      ],
+      "id": "124461",
+      "last_updated": "RESET",
+      "name": " (P) Mokrá u koupaliště",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Martin Musil"
+      },
+      "owner": {
+        "name": "Martin Musil"
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "664 04",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {

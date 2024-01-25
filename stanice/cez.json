@@ -32349,6 +32349,79 @@
       "visible": true
     }
   },
+  "188207": {
+    "name": "R613 - Nová Ves - Benzina",
+    "sha1": "fcac20a29c4baea287cb16230f9a40b129b942e2",
+    "station": {
+      "address": {
+        "city": "Nová Ves",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Ves",
+        "latitude": 50.3099464,
+        "longitude": 14.3125531,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Nová",
+        "url": ""
+      },
+      "customID": "188207",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R613"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R613"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/01/img_1954.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R613 - Nová Ves - Benzina",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
