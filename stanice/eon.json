@@ -3308,7 +3308,7 @@
   },
   "124461": {
     "name": " (P) Mokrá u koupaliště",
-    "sha1": "311bd084e5017e7c6f8ed8d243f93d2402a2f1f8",
+    "sha1": "6e281bba336e3c5d4b1daef5aebc30837c618b49",
     "station": {
       "address": "Mokrá 239",
       "city": "Mokrá-Horákov - Mokrá",
@@ -3331,9 +3331,9 @@
           ],
           "connectors": [
             {
-              "format": "SOCKET",
+              "format": "CABLE",
               "id": "1",
-              "last_updated": "2024-01-24T08:06:54.157Z",
+              "last_updated": "2024-01-25T07:13:19.623Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -13992,8 +13992,8 @@
     }
   },
   "237757": {
-    "name": "(P) Krajská správa silnic Libereckého kraje ",
-    "sha1": "d4baa177e24202814313a20dd1c752dd043cb4aa",
+    "name": "(P) Parkovací dům LK",
+    "sha1": "50d0108f697df05091e02f40ed883f6c84b9dfe0",
     "station": {
       "address": "Náchodská 680/2",
       "city": "Liberec IV – Perštýn",
@@ -14215,7 +14215,7 @@
       ],
       "id": "237757",
       "last_updated": "RESET",
-      "name": "(P) Krajská správa silnic Libereckého kraje ",
+      "name": "(P) Parkovací dům LK",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -36766,7 +36766,7 @@
   },
   "51558": {
     "name": "E.ON ČS EuroOil Benátky nad Jizerou",
-    "sha1": "6a3bef0a504e93bd3fa28b0fb59ef3bbad0e4b50",
+    "sha1": "338d866c9b4ac68e57951d56fdbc6e4bc74200d4",
     "station": {
       "address": "Mladská 570",
       "city": "Benátky nad Jizerou",
@@ -36791,23 +36791,23 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-01-27T07:40:45.067Z",
+              "last_updated": "2024-01-25T23:01:29.87Z",
               "max_amperage": 125,
-              "max_electric_power": 75000,
+              "max_electric_power": 150000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "2",
-                "5",
-                "60",
-                "63",
-                "141",
-                "142",
-                "184",
-                "185",
-                "210",
-                "212"
+                "3",
+                "6",
+                "61",
+                "64",
+                "143",
+                "144",
+                "186",
+                "187",
+                "211",
+                "213"
               ]
             },
             {
