@@ -13928,9 +13928,9 @@
   },
   "CZ2002725": {
     "name": "Benzina Roudnice nad Labem",
-    "sha1": "3c60547f8839eea1fd1c81eeb0ffd25c792f34ec",
+    "sha1": "49d5034856ba9df94510d22aa0ed993abf92233b",
     "station": {
-      "additionalInfo": "Auf dem Tankstellenparkplatz",
+      "additionalInfo": "u čerpací stanice Benzina",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -13953,6 +13953,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365278f4b8a750ff7996df/20210107_102512.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365278f4b8a750ff7996df/20210107_102829.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -15821,9 +15833,9 @@
   },
   "CZ3202743": {
     "name": "OMV Nýrsko",
-    "sha1": "89f6e4accfbfc7c02a453f2755169f6c872d532c",
+    "sha1": "1c9cc99cea55f4a7f9134b8100541a9f89fb3122",
     "station": {
-      "additionalInfo": "Auf dem Parkplatz der Tankstelle",
+      "additionalInfo": "u čerpací stanice OMV",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -15846,6 +15858,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990f7/20210127_092612.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990f7/20210127_092629.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -16436,9 +16460,9 @@
   },
   "CZ4202612": {
     "name": "EuroOil Varnsdorf",
-    "sha1": "e18960613c18faee153d128c847ed3aca200510d",
+    "sha1": "77831d07fac35236e8a30d5ec9095127decb1a30",
     "station": {
-      "additionalInfo": "Bei der OMV Tankstelle",
+      "additionalInfo": "u čerpací stanice EuroOil",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -16461,6 +16485,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bcfa/20200904_093236.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -16480,9 +16511,9 @@
   },
   "CZ4202720": {
     "name": "EuroOil Duchcov",
-    "sha1": "0b491b8c32c533fea58b60a9ff7bac9dcbdc669a",
+    "sha1": "8e3594e390e5231a1897ebbe6a7f18fd702cabb0",
     "station": {
-      "additionalInfo": "Auf dem Tankstellenparkplatz",
+      "additionalInfo": "u čerpací stanice EuroOil",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -16505,6 +16536,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436527bf4b8a750ff7997c4/20201106_132235.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -16524,9 +16562,9 @@
   },
   "CZ4202722": {
     "name": "EuroOil Kadaň",
-    "sha1": "763f117649404801d45590a76886c9eaac028b84",
+    "sha1": "5ef1a4f6f94f11509e2ae7468be0797d51ac9d3c",
     "station": {
-      "additionalInfo": "Auf dem Tankstellenparkplatz",
+      "additionalInfo": "u čerpací stanice EuroOil",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -16549,6 +16587,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436527cf4b8a750ff799805/20201216_115905.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -16568,9 +16613,9 @@
   },
   "CZ4202733": {
     "name": "Benzina Most (jih)",
-    "sha1": "cc3620527d17bf2bde4a12bb19d6891c782a1049",
+    "sha1": "694b20cc9d12e8bd5ac4d20b04af765e7e83d904",
     "station": {
-      "additionalInfo": "Auf dem Parkplatz der Tankstelle",
+      "additionalInfo": "u čerpací stanice EuroOil",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -16593,6 +16638,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f0f4b8a750ff799411/20210126_123947.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -16612,9 +16664,9 @@
   },
   "CZ4202734": {
     "name": "Benzina Most (sever)",
-    "sha1": "9ef3a6c6723ad4b3056180788a64210d1f0336a2",
+    "sha1": "4c0dcd78cd6e397423e6cbcb80389b77507d9bfc",
     "station": {
-      "additionalInfo": "Auf dem Parkplatz der Tankstelle",
+      "additionalInfo": "u čerpací stanice Benzina",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -16637,6 +16689,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f0f4b8a750ff79941d/Sever3.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -16656,9 +16715,9 @@
   },
   "CZ4202801": {
     "name": "EuroOil Děčín",
-    "sha1": "18dcd2a1a068003ced5fc6bb3fb35e6ce4d0a253",
+    "sha1": "e3e5e2445027cae26bb36a70fa550c3e53cd1dac",
     "station": {
-      "additionalInfo": "Auf dem Parkplatz der Tankstelle",
+      "additionalInfo": "u čerpací stanice EuroOil",
       "branch": "Tankstelle",
       "chargingFacilities": {
         "chargingFacility": [
@@ -16681,6 +16740,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365309f4b8a750ff79a35f/20210222_115153.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -18283,9 +18349,9 @@
   },
   "CZ6302821": {
     "name": "OMV Havlíčkův Brod",
-    "sha1": "2eb94b642cb1e8ef30a070a07f9de9d5c0fb0e90",
+    "sha1": "00e363a1a4fc713aebd9e898bb3c923423362745",
     "station": {
-      "additionalInfo": "Auf dem Parkplatz der Tankstelle",
+      "additionalInfo": "u čerpací stanice OMV",
       "branch": "Tankstelle",
       "chargingFacilities": {
         "chargingFacility": [
@@ -18308,6 +18374,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79ac98/20210209_105451.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -18429,7 +18502,7 @@
   },
   "CZ6402613": {
     "name": "OMV Hodonín",
-    "sha1": "dbb84e0bc26d647dcb5a7ba68cf9d54e66a901ef",
+    "sha1": "d8ca5e31822b69af227512f2ece79d378409fab8",
     "station": {
       "additionalInfo": "u čerpací stanice OMV",
       "branch": "Parken",
@@ -18454,6 +18527,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bd27/20201027_100200.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -18612,9 +18692,9 @@
   },
   "CZ6402723": {
     "name": "OMV Modřice",
-    "sha1": "7232d42529a6313532023e1874732c1eecce06a0",
+    "sha1": "5269a9ecbe26db627d7d7e76f2394f623b5a6065",
     "station": {
-      "additionalInfo": "Auf dem Tankstellenparkplatz",
+      "additionalInfo": "u čerpací stanice OMV",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -18637,6 +18717,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436527cf4b8a750ff7997f7/20201012_144647.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -19222,9 +19309,9 @@
   },
   "CZ7102740": {
     "name": "OMV Prostějov",
-    "sha1": "73742f1d3b236ba685ae5427b0535ed9626c8b22",
+    "sha1": "85513fdbfcb2b17121cd8bf1cc210c7f2543bb51",
     "station": {
-      "additionalInfo": "Auf dem Parkplatz der Tankstelle",
+      "additionalInfo": "u čerpací stanice OMV",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -19247,6 +19334,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff79908a/20220404_112400.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff79908a/20220404_112416.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -19577,9 +19676,9 @@
   },
   "CZ7202822": {
     "name": "OMV Uherské Hradiště",
-    "sha1": "9d7f31e900e450f2e9177b9d8b1a2a68f3b5259c",
+    "sha1": "ef20f8684bdc7460053bc04d0e097a7f74a81334",
     "station": {
-      "additionalInfo": "Auf dem Parkplatz der Tankstelle",
+      "additionalInfo": "u čerpací stanice OMV",
       "branch": "Tankstelle",
       "chargingFacilities": {
         "chargingFacility": [
@@ -19602,6 +19701,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365278f4b8a750ff7996c4/20210210_130640.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -19964,9 +20070,9 @@
   },
   "CZ8002717": {
     "name": "EuroOil Bílovec",
-    "sha1": "e11642e5732ba94d9dcdad28f502737dca8a1744",
+    "sha1": "76ca2a3561899fe687df992ef05b9bbbc60899be",
     "station": {
-      "additionalInfo": "Auf dem Tankstellenparkplatz",
+      "additionalInfo": "u čerpací stanice EuroOil",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -19989,6 +20095,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a1f4b8a750ff7999c4/20220303_095136.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a1f4b8a750ff7999c4/20220303_095153.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -20008,9 +20126,9 @@
   },
   "CZ8002736": {
     "name": "EuroOil Vítkov",
-    "sha1": "86a419f35e5721375917269293bc1bf8e33ebb90",
+    "sha1": "9ec8866566d68217df165ca9ca7a1a493eded4cf",
     "station": {
-      "additionalInfo": "Auf dem Parkplatz der Tankstelle",
+      "additionalInfo": "u čerpací stanice EuroOil",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -20033,6 +20151,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651edf4b8a750ff799383/20210125_140956.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -20052,9 +20177,9 @@
   },
   "CZ8002737": {
     "name": "EuroOil Ostrava",
-    "sha1": "86bd5a158571d102ef88dd75a2ea064eb7ab30b3",
+    "sha1": "26b9b4c8a265ff9fdebbba6678177d40b53b8c14",
     "station": {
-      "additionalInfo": "Auf dem Parkplatz der Tankstelle",
+      "additionalInfo": "u čerpací stanice EuroOil",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -20077,6 +20202,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990ff/20210125_160029.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990ff/20210125_161223.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -20300,9 +20437,9 @@
   },
   "CZ8002841": {
     "name": "EuroOil Karviná",
-    "sha1": "7a8ab88d8b6105befd45c1b8adc384d42f80fb04",
+    "sha1": "d0d55711955dbbe3d97a7912222a52542afc65d3",
     "station": {
-      "additionalInfo": "Auf dem Parkplatz der Tankstelle",
+      "additionalInfo": "u čerpací stanice EuroOil",
       "branch": "Tankstelle",
       "chargingFacilities": {
         "chargingFacility": [
@@ -20325,6 +20462,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365309f4b8a750ff79a35e/20220303_084801.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365309f4b8a750ff79a35e/20220303_084818.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
