@@ -44429,7 +44429,7 @@
   },
   "55604": {
     "name": "(P) ACR auto, a.s.",
-    "sha1": "634da6e12195b7eec9cf00571ff84a51ab3c0727",
+    "sha1": "c2b411eb3c73d962d8ead31089fb01443e6d47c2",
     "station": {
       "address": "Okružní ev. č. 49",
       "city": "České Budějovice",
@@ -44615,6 +44615,41 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "55605"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-01-29T23:01:18.387Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "95",
+                "96",
+                "236",
+                "237"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.001183",
+            "longitude": "14.488878"
+          },
+          "evse_id": "CZ*EON*E22055604*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "88492"
         }
       ],
       "id": "55604",
