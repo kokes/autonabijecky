@@ -44156,7 +44156,7 @@
   },
   "53876": {
     "name": "E.ON Penny Dobrá",
-    "sha1": "32d3bfc59874ae26ace1b4496dca475a240882bc",
+    "sha1": "d947344bf58dfd44e05da46b549621ad0dce3465",
     "station": {
       "address": "Dobrá 15",
       "city": "Frýdek Místek - Dobrá",
@@ -44229,7 +44229,7 @@
           },
           "evse_id": "CZ*UFC*E98053878*2",
           "floor_level": "0",
-          "last_seen_as_planned": null,
+          "last_seen_as_planned": "2024-01-30T07:33:39.873Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53879"
@@ -44429,7 +44429,7 @@
   },
   "55604": {
     "name": "(P) ACR auto, a.s.",
-    "sha1": "c2b411eb3c73d962d8ead31089fb01443e6d47c2",
+    "sha1": "3b78bf3e17aae2b04ca62d9a3b79c17443fd5fb2",
     "station": {
       "address": "Okružní ev. č. 49",
       "city": "České Budějovice",
@@ -44663,44 +44663,7 @@
       "last_updated": "RESET",
       "name": "(P) ACR auto, a.s.",
       "opening_times": {
-        "regular_hours": [
-          {
-            "period_begin": "18:00",
-            "period_end": "7:00",
-            "weekday": 1
-          },
-          {
-            "period_begin": "18:00",
-            "period_end": "7:00",
-            "weekday": 2
-          },
-          {
-            "period_begin": "18:00",
-            "period_end": "7:00",
-            "weekday": 3
-          },
-          {
-            "period_begin": "18:00",
-            "period_end": "7:00",
-            "weekday": 4
-          },
-          {
-            "period_begin": "18:00",
-            "period_end": "7:00",
-            "weekday": 5
-          },
-          {
-            "period_begin": "0:00",
-            "period_end": "0:00",
-            "weekday": 6
-          },
-          {
-            "period_begin": "0:00",
-            "period_end": "0:00",
-            "weekday": 7
-          }
-        ],
-        "twentyfourseven": false
+        "twentyfourseven": true
       },
       "operator": {
         "name": "E.ON Energie, a.s."
