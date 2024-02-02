@@ -13794,7 +13794,7 @@
   },
   "236457": {
     "name": "E.ON HYC_50 Priprava 2",
-    "sha1": "0fb71bcd623d6ca4087a05e4b318c5e5a956090e",
+    "sha1": "7846fbcc92aa1ac1b81b0971aad053a00a676992",
     "station": {
       "address": "Strakonická 1272",
       "city": "České Budějovice",
@@ -13971,6 +13971,47 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "214890"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-02-01T23:01:22.703Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.99299509",
+            "longitude": "14.46908123"
+          },
+          "evse_id": "FI*001*E236457",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "236457"
         }
       ],
       "id": "236457",

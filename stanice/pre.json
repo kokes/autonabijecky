@@ -15327,9 +15327,9 @@
   },
   "CZ3102741": {
     "name": "EuroOil České Budějovice",
-    "sha1": "b74284e359b8f1061d833e0cf339cf2e2e0a1b3a",
+    "sha1": "4cc1f60e13883184d02a277db2843da6e02bf91e",
     "station": {
-      "additionalInfo": "Auf dem Parkplatz der Tankstelle",
+      "additionalInfo": "U čerpací stanice EuroOil",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -15347,8 +15347,8 @@
       "enCsname": "EuroOil České Budějovice",
       "evseId": "CZ*PRE*E1R5113*2",
       "geoCoord": {
-        "latitude": "48.980320",
-        "longitude": "14.500750"
+        "latitude": "48.980552",
+        "longitude": "14.501180"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -22097,7 +22097,7 @@
   },
   "CZ8414922": {
     "name": "Hornbach Černý most",
-    "sha1": "42da0aba0853f3f7e63892f73962daddac431a92",
+    "sha1": "b9c5fb80f24aadaac8688a1233f2f81418fa5e62",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -22108,7 +22108,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8414922",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Hornbach Černý most",
       "evseId": "CZ*PRE*E1R0072*2",
