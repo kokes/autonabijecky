@@ -14034,7 +14034,7 @@
   },
   "237757": {
     "name": "(P) Parkovací dům LK",
-    "sha1": "50d0108f697df05091e02f40ed883f6c84b9dfe0",
+    "sha1": "340a4dbc14fa5a0e77deaf87099957cf3912c9d5",
     "station": {
       "address": "Náchodská 680/2",
       "city": "Liberec IV – Perštýn",
@@ -14245,6 +14245,24 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "232180"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "50.7642778",
+            "longitude": "15.0544772"
+          },
+          "evse_id": "FI*001*E237757",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "237757"
         }
       ],
       "facilities": [
@@ -36807,13 +36825,13 @@
   },
   "51558": {
     "name": "E.ON ČS EuroOil Benátky nad Jizerou",
-    "sha1": "338d866c9b4ac68e57951d56fdbc6e4bc74200d4",
+    "sha1": "a7786c59d82dba0a07be07c5b8db12895471d029",
     "station": {
       "address": "Mladská 570",
       "city": "Benátky nad Jizerou",
       "coordinates": {
-        "latitude": "50.28429456",
-        "longitude": "14.83067746"
+        "latitude": "50.28428426",
+        "longitude": "14.83064376"
       },
       "country": "CZE",
       "country_code": "CZ",
@@ -36875,8 +36893,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "50.28429456",
-            "longitude": "14.83067746"
+            "latitude": "50.28428426",
+            "longitude": "14.83064376"
           },
           "evse_id": "CZ*UFC*E32051558*1",
           "last_seen_as_planned": "2023-01-26T07:38:25.33Z",
@@ -36916,8 +36934,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "50.28429456",
-            "longitude": "14.83067746"
+            "latitude": "50.28428426",
+            "longitude": "14.83064376"
           },
           "evse_id": "CZ*UFC*E32051558*2",
           "last_seen_as_planned": "2021-08-31T17:07:04.213Z",
@@ -36957,8 +36975,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "50.28429456",
-            "longitude": "14.83067746"
+            "latitude": "50.28428426",
+            "longitude": "14.83064376"
           },
           "evse_id": "CZ*UFC*E32051558*3",
           "last_seen_as_planned": "2023-01-26T07:38:25.33Z",
@@ -37020,8 +37038,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "50.28429456",
-            "longitude": "14.83067746"
+            "latitude": "50.28428426",
+            "longitude": "14.83064376"
           },
           "evse_id": "CZ*UFC*E32051561*1",
           "last_seen_as_planned": "2023-01-26T07:38:25.33Z",
@@ -37038,8 +37056,8 @@
           ],
           "connectors": [],
           "coordinates": {
-            "latitude": "50.28429456",
-            "longitude": "14.83067746"
+            "latitude": "50.28428426",
+            "longitude": "14.83064376"
           },
           "evse_id": "CZ*EON*E32051561*2",
           "last_seen_as_planned": "2021-08-31T17:07:04.213Z",
@@ -37079,8 +37097,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "50.28429456",
-            "longitude": "14.83067746"
+            "latitude": "50.28428426",
+            "longitude": "14.83064376"
           },
           "evse_id": "CZ*UFC*E32051561*3",
           "last_seen_as_planned": "2023-01-26T07:38:25.33Z",

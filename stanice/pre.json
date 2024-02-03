@@ -25096,6 +25096,47 @@
       "street": "Lovosická 640"
     }
   },
+  "CZ9375261": {
+    "name": "YIT Lappi Hloubětín",
+    "sha1": "8233c261e90e19270aa59f8a5a0433d254764ee9",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha 9",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9375261",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "V rámci nové zástavby YIT / YIT apartments",
+      "enCsname": "YIT Lappi Hloubětín",
+      "evseId": "CZ*PRE*E1S8273*2",
+      "geoCoord": {
+        "latitude": "50.109683",
+        "longitude": "14.527205"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19800",
+      "region": "Hlavní město Praha",
+      "street": "Sobí"
+    }
+  },
   "CZ9429409": {
     "name": "EuroOil Zdice",
     "sha1": "d2c5e85c1a1a0e29d7ae6ba6104709b4818fb1a7",
