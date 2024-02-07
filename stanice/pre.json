@@ -12765,7 +12765,7 @@
   },
   "CZ1004637": {
     "name": "Penny Market Hnězdenská",
-    "sha1": "5288504327bfdc37e20812027b21905c63ba8f16",
+    "sha1": "ff535824768e8e8e6865ec797a2bbe0f56f7b18d",
     "station": {
       "additionalInfo": "Parkoviště před Penny marketem",
       "branch": "Lebensmitteleinzelhandel",
@@ -12779,7 +12779,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1004637",
       "csName": "Penny Market Hnězdenská",
-      "csStatus": "inoperable",
+      "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "Parkoviště před Penny marketem / parking lot the Penny market",
       "enCsname": "Penny Market Hnězdenská",
@@ -22046,7 +22046,7 @@
   },
   "CZ8414922": {
     "name": "Hornbach Černý most",
-    "sha1": "b9c5fb80f24aadaac8688a1233f2f81418fa5e62",
+    "sha1": "13ae4fd7e2681182939bb964b4184e909e4d3180",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -22067,6 +22067,28 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/655b5478b00b887ef007ecf0/1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/655b5478b00b887ef007ecf0/2.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/655b5478b00b887ef007ecf0/3.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/655b5478b00b887ef007ecf0/4.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "false",
       "isPartnerCs": false,
@@ -24056,7 +24078,7 @@
   },
   "CZ9100366": {
     "name": "RS 3820 Dýšinská",
-    "sha1": "80232cc3c4a446faec996535e2c5345e636cbf48",
+    "sha1": "0c04b5cf3733a5cba2655163c35b138a303d2023",
     "station": {
       "additionalInfo": "Trafostanice na ulici Dýšinská",
       "chargingFacilities": {
@@ -24079,6 +24101,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65785af0b00b887ef007f73a/1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65785af0b00b887ef007f73a/2.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -25047,7 +25081,7 @@
   },
   "CZ9375261": {
     "name": "YIT Lappi Hloubětín",
-    "sha1": "8233c261e90e19270aa59f8a5a0433d254764ee9",
+    "sha1": "0742055c02cf125aacf444f8b5186b217589d41a",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -25058,7 +25092,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9375261",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "V rámci nové zástavby YIT / YIT apartments",
       "enCsname": "YIT Lappi Hloubětín",
@@ -25069,6 +25103,33 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65ba17c00a64080f17bacb18/1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65ba17c00a64080f17bacb18/2.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65ba17c00a64080f17bacb18/3.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65ba17c00a64080f17bacb18/4.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65ba17c00a64080f17bacb18/5.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
