@@ -12901,7 +12901,7 @@
   },
   "227371": {
     "name": "E.ON Aventin Pohořelice",
-    "sha1": "2190275c45325a6b2b87eb6c7e4a0ba16f6758e5",
+    "sha1": "2d745bd0a550381cdcb3fdaabfdb7d3a105888fe",
     "station": {
       "address": "Znojemská 1149",
       "city": "Pohořelice",
@@ -12926,23 +12926,23 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-12-23T09:25:05.96Z",
+              "last_updated": "2024-02-07T23:01:27.437Z",
               "max_amperage": 125,
-              "max_electric_power": 99000,
+              "max_electric_power": 150000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "8",
-                "11",
-                "66",
-                "69",
-                "147",
-                "148",
-                "190",
-                "191",
-                "215",
-                "218"
+                "9",
+                "12",
+                "67",
+                "70",
+                "149",
+                "150",
+                "192",
+                "193",
+                "216",
+                "219"
               ]
             }
           ],
@@ -12967,23 +12967,23 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-12-23T09:25:05.96Z",
+              "last_updated": "2024-02-07T23:01:27.437Z",
               "max_amperage": 125,
-              "max_electric_power": 99000,
+              "max_electric_power": 150000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "8",
-                "11",
-                "66",
-                "69",
-                "147",
-                "148",
-                "190",
-                "191",
-                "215",
-                "218"
+                "9",
+                "12",
+                "67",
+                "70",
+                "149",
+                "150",
+                "192",
+                "193",
+                "216",
+                "219"
               ]
             }
           ],
