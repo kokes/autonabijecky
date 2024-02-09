@@ -8271,7 +8271,7 @@
   },
   "153360": {
     "name": "UR105 - Praha - Průhonice – PUMPA - 3",
-    "sha1": "2df36602a2a880c72cfa268fef8387356645d099",
+    "sha1": "11f4eaf5dcc557007987a6454d0372a7fa68f3c9",
     "station": {
       "address": {
         "city": "Průhonice",
@@ -8298,7 +8298,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T184-IT1-3421-083",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 180,
@@ -8307,10 +8307,10 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "T184-IT1-3421-083",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 180,
+              "powerOutput": 100,
               "standard": "CHADEMO",
               "voltage": null
             }
@@ -8330,7 +8330,7 @@
   },
   "153361": {
     "name": "UR106 - Praha - Průhonice – PUMPA - 4",
-    "sha1": "ef157b643266040964d8ac822c893ba48dcf3920",
+    "sha1": "d16cdc083d9395e171e50983aa3e925a79398251",
     "station": {
       "address": {
         "city": "Průhonice",
@@ -8357,20 +8357,25 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T184-IT1-3421-097",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 180,
               "standard": "CCS_COMBO",
               "voltage": null
-            },
+            }
+          ],
+          "physicalReference": "UR106"
+        },
+        {
+          "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T184-IT1-3421-097",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 180,
-              "standard": "CHADEMO",
+              "standard": "CCS_COMBO",
               "voltage": null
             }
           ],
@@ -8535,7 +8540,7 @@
   },
   "153367": {
     "name": "UR103 - Praha - Průhonice – PUMPA - 1",
-    "sha1": "b363cabf2a028781d4722d262d96ee48f2420a00",
+    "sha1": "c41e15106e71d78b78c4845c3e7d05244bb32e41",
     "station": {
       "address": {
         "city": "Průhonice",
@@ -8562,20 +8567,25 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T184-IT1-3521-228",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 180,
               "standard": "CCS_COMBO",
               "voltage": null
-            },
+            }
+          ],
+          "physicalReference": "UR103"
+        },
+        {
+          "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T184-IT1-3521-228",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 180,
-              "standard": "CHADEMO",
+              "standard": "CCS_COMBO",
               "voltage": null
             }
           ],
@@ -8594,7 +8604,7 @@
   },
   "153368": {
     "name": "UR104 - Praha - Průhonice – PUMPA - 2",
-    "sha1": "1acc38963078b0d35e517c123aa4dc101ebcadf7",
+    "sha1": "2b875809f3a989a7ee454914534ef31cf3114f0c",
     "station": {
       "address": {
         "city": "Praha - Průhonice",
@@ -8621,7 +8631,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T184-IT1-3321-151",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 180,
@@ -8630,10 +8640,10 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "T184-IT1-3321-151",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 180,
+              "powerOutput": 100,
               "standard": "CHADEMO",
               "voltage": null
             }
@@ -13885,7 +13895,7 @@
   },
   "161626": {
     "name": "UR108 - Plzeň - OC Olympia Plzeň - 11",
-    "sha1": "a54a5fb5419e81bcfa293137deea52905fe246b8",
+    "sha1": "2a0a056d3b6155debf4ceec7d6477b00e3f59e5f",
     "station": {
       "address": {
         "city": "Plzeň",
@@ -13912,7 +13922,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "HYC_300_22BZ1372B",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 300,
@@ -13926,7 +13936,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "HYC_300_22BZ1372B",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 300,
@@ -16395,7 +16405,7 @@
   },
   "164316": {
     "name": "UR107 - Unčovice - McDonald´s - 4",
-    "sha1": "163248134f301e91efb38c3f6deeaf09da3ff811",
+    "sha1": "0eb7662542f625d980a2cc0be6d62feb3756393f",
     "station": {
       "address": {
         "city": "Litovel",
@@ -16422,7 +16432,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "CHARGER E1 CCS",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 300,
@@ -16436,7 +16446,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "CHARGER E1 CCS",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 300,
@@ -16459,7 +16469,7 @@
   },
   "164990": {
     "name": "UR109 - Šlovice směr Rozvadov - Benzina 4",
-    "sha1": "55de9a8b55f28c0a3d701430f3fe7c1a8186264b",
+    "sha1": "fd07e069536e91ff5ef70cd6d0ee371ddf98ed4d",
     "station": {
       "address": {
         "city": "Dobřany - Šlovice 321 00",
@@ -16486,7 +16496,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "HYC_300_21BZ2986B",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 300,
@@ -16500,7 +16510,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "HYC_300_21BZ2986B",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 300,
@@ -18876,7 +18886,7 @@
   },
   "169608": {
     "name": "UR116 - Praha - McDonald´s Kbelská",
-    "sha1": "ff6e9416cc5083d6ffaa83b157e85252dac02f4c",
+    "sha1": "f078f67f8769f24b8d726e9b71b415d22847131b",
     "station": {
       "address": {
         "city": "Praha 9",
@@ -18903,7 +18913,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "HYC_300_21BZ1700B",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 300,
@@ -18917,7 +18927,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "HYC_300_21BZ1700B",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 300,
@@ -20985,7 +20995,7 @@
   },
   "174594": {
     "name": "UR115 - Mladá Boleslav - OC Olympia - 7",
-    "sha1": "e0c491fa831c897992fb158af3c98cb5a8a13e62",
+    "sha1": "97c9a18734b8b9bf0c5fd04028fea851ed4048db",
     "station": {
       "address": {
         "city": "Mladá Boleslav",
@@ -21012,7 +21022,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T365-IT1-4022-121",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": 360,
@@ -21026,7 +21036,7 @@
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T365-IT1-4022-121",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 360,
@@ -22555,7 +22565,7 @@
   },
   "177345": {
     "name": "UR114 - Mikulov - Levandulový Hotel Marcinčák - 5",
-    "sha1": "199e185696e8c45225432464a09505fef156b7b0",
+    "sha1": "2f371bacd7c1a841c94424568ae66bde6c517646",
     "station": {
       "address": {
         "city": "Mikulov",
@@ -22585,7 +22595,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 180,
+              "powerOutput": 360,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -22599,7 +22609,7 @@
               "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 180,
+              "powerOutput": 360,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -29066,7 +29076,7 @@
   },
   "185444": {
     "name": "UR140 - Ostrovačice - Jerex, D1/178. km - 2",
-    "sha1": "0103dd20f6657788d417e5d49196b5533cec08ea",
+    "sha1": "3700e0b02eac820aba85a4b8311843ccab5cb838",
     "station": {
       "address": {
         "city": "Ostrovačice",
@@ -29105,7 +29115,7 @@
               "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 110,
+              "powerOutput": 100,
               "standard": "CHADEMO",
               "voltage": null
             }
@@ -32707,7 +32717,7 @@
   },
   "59411": {
     "name": "UR101 - Praha - ČEZ - Duhová 3",
-    "sha1": "f7ad765b86094dc629e50022ae98b7cba3eb623f",
+    "sha1": "40aa675674fda13c1087e530e7c9383d4e0d6932",
     "station": {
       "address": {
         "city": "Praha 4",
@@ -32733,35 +32743,21 @@
         {
           "connectors": [
             {
-              "amperage": 32,
-              "chargePointIdentity": "T53-IT1-2516-022 ",
+              "amperage": null,
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "UR101"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-IT1-2516-022 ",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 150,
-              "standard": "CHADEMO",
+              "powerOutput": 175,
+              "standard": "CCS_COMBO",
               "voltage": null
             },
             {
               "amperage": null,
-              "chargePointIdentity": "T53-IT1-2516-022 ",
-              "connectorID": 3,
+              "chargePointIdentity": "",
+              "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 150,
-              "standard": "CCS_COMBO",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
               "voltage": null
             }
           ],
