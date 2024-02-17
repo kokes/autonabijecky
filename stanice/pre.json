@@ -20804,7 +20804,7 @@
   },
   "CZ8117483": {
     "name": "Kardausova DC",
-    "sha1": "ff054de464e9a4ffee6829bbad014bf5771112ff",
+    "sha1": "e74a5c9965b1fb015e03bc854ec1088a6ad77235",
     "station": {
       "additionalInfo": "na ulici Kardausova",
       "chargingFacilities": {
@@ -20820,7 +20820,7 @@
       "csType": "",
       "enAdditionalInfo": "na ulici Kardausova / Kardausova street",
       "enCsname": "Kardausova DC",
-      "evseId": "CZ*PRE*E1R0083*1",
+      "evseId": "CZ*PRE*EE1R0083*2",
       "geoCoord": {
         "latitude": "50.066294",
         "longitude": "14.551836"
@@ -22832,7 +22832,7 @@
   },
   "CZ8689769": {
     "name": "Kardausova AC",
-    "sha1": "8e4d81359d046914f61ab45e213e33aa0183c5a5",
+    "sha1": "0ab4bec964c0a946f329828abd5743dcb57db35f",
     "station": {
       "additionalInfo": "na ulici Kardausova vedle autobusové zastávky",
       "chargingFacilities": {
@@ -22844,7 +22844,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8689769",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "na ulici Kardausova vedle autobusové zastávky / Kardausova street",
       "enCsname": "Kardausova AC",
