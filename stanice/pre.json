@@ -23877,6 +23877,46 @@
       "street": "Lovosická 640"
     }
   },
+  "CZ9029422": {
+    "name": "MČ Praha Slivenec",
+    "sha1": "ec2250eec6bd342b32bb35a9e6a991972666f25c",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9029422",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "MČ Praha Slivenec",
+      "evseId": "CZ*PRE*E1S8274*2",
+      "geoCoord": {
+        "latitude": "50.020149",
+        "longitude": "14.351588"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "154000",
+      "region": "Hlavní město Praha",
+      "street": "Ke Smíchovu"
+    }
+  },
   "CZ9034292": {
     "name": "Loučimská",
     "sha1": "ac434361e2af12a7ce58e6c2c8103c57b96b5f18",
