@@ -20804,7 +20804,7 @@
   },
   "CZ8117483": {
     "name": "Kardausova DC",
-    "sha1": "e74a5c9965b1fb015e03bc854ec1088a6ad77235",
+    "sha1": "26203fdc7cabb6289ab16b3c4af52f68221f0046",
     "station": {
       "additionalInfo": "na ulici Kardausova",
       "chargingFacilities": {
@@ -20827,6 +20827,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/657ac7b1b00b887ef007f7e5/1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/657ac7b1b00b887ef007f7e5/2.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -21945,6 +21957,46 @@
       "street": "Čimická"
     }
   },
+  "CZ8392692": {
+    "name": "TS 4141 Bezová",
+    "sha1": "34bb36fa200cf5ade3c1dbbcbc5da1d962138677",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8392692",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "TS 4141 Bezová",
+      "evseId": "CZ*PRE*E1S8280*1",
+      "geoCoord": {
+        "latitude": "50.033911",
+        "longitude": "14.410765"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "147 00",
+      "region": "Hlavní město Praha",
+      "street": "Bezová"
+    }
+  },
   "CZ8402207": {
     "name": "TS 3141 U Polikliniky",
     "sha1": "4a0327ce892ceac05f30513a913b05b995a5293e",
@@ -22832,7 +22884,7 @@
   },
   "CZ8689769": {
     "name": "Kardausova AC",
-    "sha1": "0ab4bec964c0a946f329828abd5743dcb57db35f",
+    "sha1": "00cd726ccfa4ff043c215c764b46acc0472c28cf",
     "station": {
       "additionalInfo": "na ulici Kardausova vedle autobusové zastávky",
       "chargingFacilities": {
@@ -22855,6 +22907,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/657accb7b00b887ef007f7f0/1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/657accb7b00b887ef007f7f0/2.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -23200,6 +23264,46 @@
       "postalCode": "30100",
       "region": "Plzeňský kraj",
       "street": "Inženýrská"
+    }
+  },
+  "CZ8901519": {
+    "name": "TS 5065 Božetická",
+    "sha1": "f4d7b91d25240aa7e020e4007d281aadbd4112a5",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8901519",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "TS 5065 Božetická",
+      "evseId": "CZ*PRE*E1S8281*2",
+      "geoCoord": {
+        "latitude": "50.000952",
+        "longitude": "14.430736"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "143 00",
+      "region": "Hlavní město Praha",
+      "street": "Božetická"
     }
   },
   "CZ8907670": {
@@ -24430,6 +24534,46 @@
       "street": "Vlašimská"
     }
   },
+  "CZ9147519": {
+    "name": "TS 4783 U Slovanky",
+    "sha1": "b77fe6a425bf9054c3f12eb1309a36f8f528655b",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9147519",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "TS 4783 U Slovanky",
+      "evseId": "CZ*PRE*E1S8276*2",
+      "geoCoord": {
+        "latitude": "50.125493",
+        "longitude": "14.470408"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "182 00",
+      "region": "Hlavní město Praha",
+      "street": "U Slovanky"
+    }
+  },
   "CZ9162726": {
     "name": "OREA Hotel Santon",
     "sha1": "87d89edec4292bff400cd3f4d26f3de1f0e3d9b1",
@@ -24816,6 +24960,46 @@
       "postalCode": "403 36",
       "region": "Ústecký kraj",
       "street": "Tisá"
+    }
+  },
+  "CZ9282934": {
+    "name": "TS 5032 Koterovská",
+    "sha1": "bd318426426a45620bca219e7a800ee3b5b34e56",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha Řeporyje",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9282934",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "TS 5032 Koterovská",
+      "evseId": "CZ*PRE*E1S8277*2",
+      "geoCoord": {
+        "latitude": "50.035765",
+        "longitude": "14.322835"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "155 00",
+      "region": "Hlavní město Praha",
+      "street": "Koterovská"
     }
   },
   "CZ9283181": {
@@ -25951,6 +26135,46 @@
       "street": "Omská"
     }
   },
+  "CZ9711680": {
+    "name": "TS 3131 Mikulova",
+    "sha1": "cec4ab25e1202eafdc79903ddda116dbe00127be",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9711680",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "TS 3131 Mikulova",
+      "evseId": "CZ*PRE*E1S8275*2",
+      "geoCoord": {
+        "latitude": "50.029850",
+        "longitude": "14.515598"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "149 00",
+      "region": "Hlavní město Praha",
+      "street": "Mikulova"
+    }
+  },
   "CZ9751918": {
     "name": "OMV Jičínská",
     "sha1": "f4f16faa740053ec1278a1d4e04dd8390d9f02e0",
@@ -26314,6 +26538,46 @@
       "postalCode": "16000",
       "region": "Hlavní město Praha",
       "street": "V Nových Vokovicích"
+    }
+  },
+  "CZ9931493": {
+    "name": "TS 3668 Brodského",
+    "sha1": "3730b503a3705f7787176339cd259422ca8e9dba",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9931493",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "TS 3668 Brodského",
+      "evseId": "CZ*PRE*E1S8279*2",
+      "geoCoord": {
+        "latitude": "50.037712",
+        "longitude": "14.503441"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "149 00",
+      "region": "Hlavní město Praha",
+      "street": "Brodského"
     }
   },
   "CZ9942351": {
