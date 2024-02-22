@@ -16291,6 +16291,82 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "252321": {
+    "name": "(P) GUMEX spol. s r.o. - Brno",
+    "sha1": "ac50c3106597d91d3d7cf2edc9db8a96d711c5e4",
+    "station": {
+      "address": "Kaštanová 555/125d",
+      "city": "Brno",
+      "coordinates": {
+        "latitude": "49.1593692",
+        "longitude": "16.6388586"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-02-21T11:38:49.2Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "310",
+                "311"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.1593692",
+            "longitude": "16.6388586"
+          },
+          "evse_id": "CZ*EON*E12131011*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "131011"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET",
+        "PARKING_LOT"
+      ],
+      "id": "252321",
+      "last_updated": "RESET",
+      "name": "(P) GUMEX spol. s r.o. - Brno",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "GUMEX, spol. s r.o."
+      },
+      "owner": {
+        "name": "GUMEX, spol. s r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "26527": {
     "name": "(P) Autoservis Jindra",
     "sha1": "8662fd062e5ea5adc0410ecf1219534f404c2530",
