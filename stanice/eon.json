@@ -3106,6 +3106,82 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "117366": {
+    "name": "(P) KKCIG s.r.o.",
+    "sha1": "eaa441a6354ccf65ffb9bbeec58e364bd9fa2efa",
+    "station": {
+      "address": "Českolipská",
+      "city": "Mimoň",
+      "coordinates": {
+        "latitude": "50.661154",
+        "longitude": "14.7223965"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-02-23T11:42:03.333Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": []
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.661154",
+            "longitude": "14.7223965"
+          },
+          "evse_id": "CZ*EON*E22117366*1",
+          "last_seen_as_planned": "2024-02-23T11:52:05.893Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "117366"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "MALL",
+        "SUPERMARKET"
+      ],
+      "id": "117366",
+      "last_updated": "RESET",
+      "name": "(P) KKCIG s.r.o.",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Prima, k.s."
+      },
+      "owner": {
+        "name": "Prima, k.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "471 24",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "121655": {
     "name": "(P) Terminál Opava",
     "sha1": "6324c0207d2677f73dad0a28ef4d400a48d7c179",
@@ -6576,6 +6652,252 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "38101",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "15066": {
+    "name": "E.ON Krajský úřad Jihlava A",
+    "sha1": "ea335bc62663ac585c9aa931d9f6de7fae2d7efd",
+    "station": {
+      "address": "Ke Skalce 5907/47",
+      "city": "Jihlava",
+      "coordinates": {
+        "latitude": "49.3930486",
+        "longitude": "15.57820289"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2024-02-23T08:54:59.667Z",
+              "max_amperage": 63,
+              "max_electric_power": 43000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.3930486",
+            "longitude": "15.57820289"
+          },
+          "evse_id": "CZ*UFC*E11015066*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "15066"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2024-02-23T08:54:59.667Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2024-02-23T08:54:59.667Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.3930486",
+            "longitude": "15.57820289"
+          },
+          "evse_id": "CZ*UFC*E11015066*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "15067"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2024-02-23T08:54:59.667Z",
+              "max_amperage": 63,
+              "max_electric_power": 43000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.3930486",
+            "longitude": "15.57820289"
+          },
+          "evse_id": "CZ*UFC*E11016977*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "16977"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2024-02-23T08:54:59.667Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "3",
+              "last_updated": "2024-02-23T08:54:59.667Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "8",
+                "11",
+                "66",
+                "69",
+                "147",
+                "148",
+                "190",
+                "191",
+                "215",
+                "218"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.3930486",
+            "longitude": "15.57820289"
+          },
+          "evse_id": "CZ*UFC*E11016977*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "16978"
+        }
+      ],
+      "id": "15066",
+      "last_updated": "RESET",
+      "name": "E.ON Krajský úřad Jihlava A",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Energie, a.s."
+      },
+      "party_id": "EON",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
@@ -12150,6 +12472,108 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "215885": {
+    "name": "E.ON Kaufland Karviná",
+    "sha1": "e2a29f29fc8b6caccf3166a47d123effefc30498",
+    "station": {
+      "address": "Leonovova 2015/2",
+      "city": "Karviná - Hranice",
+      "coordinates": {
+        "latitude": "49.8628708",
+        "longitude": "18.5530611"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2024-02-23T08:13:08.687Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "295",
+                "298"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.8628708",
+            "longitude": "18.5530611"
+          },
+          "evse_id": "CZ*UFC*E32215885*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "215885"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2024-02-23T08:13:08.687Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "295",
+                "298"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.8628708",
+            "longitude": "18.5530611"
+          },
+          "evse_id": "CZ*UFC*E32215885*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "215886"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET"
+      ],
+      "id": "215885",
+      "last_updated": "RESET",
+      "name": "E.ON Kaufland Karviná",
+      "operator": {
+        "name": "E.ON Drive Infrastructure, s.r.o."
+      },
+      "owner": {
+        "name": "E.ON Drive Infrastructure, s.r.o."
+      },
+      "party_id": "EON",
+      "postal_code": "733 01",
+      "publish": true,
+      "state": "Česká republika",
+      "time_zone": "Europe/Prague"
+    }
+  },
   "215887": {
     "name": "E.ON Kaufland Teplice",
     "sha1": "d761c55f5107370495208e083a378071891ac07c",
@@ -14893,6 +15317,177 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "244612": {
+    "name": "E.ON Kaufland Hustopeče",
+    "sha1": "1b146f4c8a3d4d434dc8c74c3e925fe130aaf04e",
+    "station": {
+      "address": "Brněnská",
+      "city": "Hustopeče u Brna",
+      "coordinates": {
+        "latitude": "48.9511511",
+        "longitude": "16.7246378"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2024-02-23T08:16:49.867Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "295",
+                "298"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.9511511",
+            "longitude": "16.7246378"
+          },
+          "evse_id": "CZ*UFC*E32220832*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "220832"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-02-23T08:16:49.867Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "294",
+                "297"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.9511511",
+            "longitude": "16.7246378"
+          },
+          "evse_id": "CZ*UFC*E32220832*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "220833"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2024-02-23T08:16:49.867Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "296",
+                "299"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.9511511",
+            "longitude": "16.7246378"
+          },
+          "evse_id": "CZ*UFC*E32220834*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "220834"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2024-02-23T08:16:49.867Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "296",
+                "299"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.9511511",
+            "longitude": "16.7246378"
+          },
+          "evse_id": "CZ*UFC*E32220834*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "220835"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET"
+      ],
+      "id": "244612",
+      "last_updated": "RESET",
+      "name": "E.ON Kaufland Hustopeče",
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Drive Infrastructure, s.r.o."
+      },
+      "party_id": "EON",
+      "postal_code": "693 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "24570": {
     "name": "(P) Hotel Troyer",
     "sha1": "b7145f2127dbb482cdc4c07d3b4d4e43483a80c7",
@@ -15025,6 +15620,87 @@
       "state": "Česká republika",
       "suboperator": {
         "name": "COM Electric s.r.o."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "250965": {
+    "name": "Škoda - Olfincar Palace DONASTAVIT",
+    "sha1": "d44e8768ded4946fd98616c86b645273be38b41f",
+    "station": {
+      "address": "Na  Rybárně 203/5",
+      "city": "Hradec Králové",
+      "coordinates": {
+        "latitude": "50.19628",
+        "longitude": "15.81253"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-02-23T13:52:12.837Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "316",
+                "317"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.19628",
+            "longitude": "15.81253"
+          },
+          "evse_id": "CZ*EON*E12232460*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "232460"
+        }
+      ],
+      "facilities": [
+        "MALL",
+        "SUPERMARKET",
+        "SPORT",
+        "BUS_STOP",
+        "PARKING_LOT",
+        "FUEL_STATION"
+      ],
+      "id": "250965",
+      "last_updated": "RESET",
+      "name": "Škoda - Olfincar Palace DONASTAVIT",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Olfin Car Palace s.r.o."
+      },
+      "owner": {
+        "name": "Olfin Car Palace s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "500 02",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
       },
       "time_zone": "Europe/Prague"
     }
@@ -16359,6 +17035,140 @@
       },
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "253380": {
+    "name": "(P) PTA Servis - Olomouc",
+    "sha1": "9fceb7850794c50ea96dddb5adccb489fd854532",
+    "station": {
+      "address": "Kožušany 159",
+      "city": "Kožušany-Tážaly",
+      "coordinates": {
+        "latitude": "49.5390669",
+        "longitude": "17.2587036"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2024-02-23T13:22:12.483Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "314",
+                "315"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2024-02-23T13:22:12.483Z",
+              "max_amperage": 125,
+              "max_electric_power": 50000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "314",
+                "315"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.5390669",
+            "longitude": "17.2587036"
+          },
+          "evse_id": "CZ*EON*E21240236*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "240236"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2024-02-23T13:22:12.483Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "312",
+                "313"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.5390669",
+            "longitude": "17.2587036"
+          },
+          "evse_id": "CZ*EON*E21240236*3",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "240237"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "MALL",
+        "SUPERMARKET",
+        "SPORT",
+        "RECREATION_AREA",
+        "NATURE",
+        "BUS_STOP",
+        "PARKING_LOT",
+        "FUEL_STATION",
+        "WIFI"
+      ],
+      "id": "253380",
+      "last_updated": "RESET",
+      "name": "(P) PTA Servis - Olomouc",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "PTA Servis Olomouc s.r.o."
+      },
+      "owner": {
+        "name": "PTA Servis Olomouc s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "783 75",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {

@@ -25004,12 +25004,12 @@
   },
   "CZ9283181": {
     "name": "Hornbach Brno",
-    "sha1": "fba5f91da534d8acbfe747462f5426404260101b",
+    "sha1": "09e9ee28a5772fd295096e970a881822b15c13c9",
     "station": {
       "additionalInfo": "Hornbach Brno",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "380 - 480V, 3-Phase ≤16A"
         ]
       },
       "city": "Brno",
@@ -25021,7 +25021,7 @@
       "csType": "",
       "enAdditionalInfo": "Hornbach Brno",
       "enCsname": "Hornbach Brno",
-      "evseId": "CZ*PRE*E1S8263*2",
+      "evseId": "CZ*PRE*E1R0081*3",
       "geoCoord": {
         "latitude": "49.177952",
         "longitude": "16.604957"
