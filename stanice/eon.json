@@ -10189,9 +10189,9 @@
   },
   "19930": {
     "name": "(P) Areál Slatina",
-    "sha1": "dd9ae8c9ddb862b7229634ba1b128619eee76312",
+    "sha1": "bcefc15087fe81cc2ab9e767eb454a492a033a33",
     "station": {
-      "address": "Tuřanka 1222/115",
+      "address": "Tuřanka 115",
       "city": "Brno",
       "coordinates": {
         "latitude": "49.16759",
@@ -14458,7 +14458,7 @@
   },
   "237757": {
     "name": "(P) Parkovací dům LK",
-    "sha1": "340a4dbc14fa5a0e77deaf87099957cf3912c9d5",
+    "sha1": "d6b52a08d75b77d424420350719db3ced7e45f19",
     "station": {
       "address": "Náchodská 680/2",
       "city": "Liberec IV – Perštýn",
@@ -14615,9 +14615,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2024-01-19T07:54:30.85Z",
+              "last_updated": "2024-02-26T23:01:42.903Z",
               "max_amperage": 125,
-              "max_electric_power": 150000,
+              "max_electric_power": 180000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
@@ -14648,16 +14648,13 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2024-01-19T07:54:30.85Z",
+              "last_updated": "2024-02-26T23:01:42.903Z",
               "max_amperage": 125,
-              "max_electric_power": 150000,
+              "max_electric_power": 120000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": [
-                "306",
-                "307"
-              ]
+              "tariff_ids": []
             }
           ],
           "coordinates": {
