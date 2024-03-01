@@ -12790,7 +12790,7 @@
   },
   "218167": {
     "name": "(P) AUTO DOBROVOLNÝ V.M. s.r.o. - ŠKODA Jihlava",
-    "sha1": "ceb4e8e7f4fede5e4f49ef907641677d7f63fd15",
+    "sha1": "3a019686ab26283f3d8fd88c881a7c635cee8f2d",
     "station": {
       "address": "Okružní 4720/3",
       "city": "Jihlava",
@@ -12869,6 +12869,24 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "214874"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.40575",
+            "longitude": "15.59384"
+          },
+          "evse_id": "DE*PFW*E218167",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "218167"
         }
       ],
       "id": "218167",
@@ -17166,6 +17184,287 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "783 75",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "254240": {
+    "name": "E.ON Dačice",
+    "sha1": "655474ccce9e27635a9b7d38b85628451bf6d6aa",
+    "station": {
+      "address": "Palackého nám. 44",
+      "city": "Dačice",
+      "coordinates": {
+        "latitude": "49.079337",
+        "longitude": "15.437396"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-02-29T23:01:45.797Z",
+              "max_amperage": 32,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.079337",
+            "longitude": "15.437396"
+          },
+          "evse_id": "CZ*UFC*E31213053*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "213053"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-02-29T08:36:03.22Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.079337",
+            "longitude": "15.437396"
+          },
+          "evse_id": "CZ*UFC*E31213053*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "213054"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-02-29T08:36:03.22Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.079337",
+            "longitude": "15.437396"
+          },
+          "evse_id": "CZ*UFC*E31213055*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "213055"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-02-29T08:36:03.22Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.079337",
+            "longitude": "15.437396"
+          },
+          "evse_id": "CZ*UFC*E31213059*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "213059"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-02-29T08:36:03.22Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.079337",
+            "longitude": "15.437396"
+          },
+          "evse_id": "CZ*UFC*E31213061*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "213061"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2024-02-29T08:36:03.22Z",
+              "max_amperage": 125,
+              "max_electric_power": 200000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "9",
+                "12",
+                "67",
+                "70",
+                "149",
+                "150",
+                "192",
+                "193",
+                "216",
+                "219"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.079337",
+            "longitude": "15.437396"
+          },
+          "evse_id": "CZ*UFC*E98220339*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "220339"
+        }
+      ],
+      "id": "254240",
+      "last_updated": "RESET",
+      "name": "E.ON Dačice",
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "E.ON Energie, a.s."
+      },
+      "party_id": "EON",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
