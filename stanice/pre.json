@@ -21107,14 +21107,14 @@
   },
   "CZ8170367": {
     "name": "Pražačka",
-    "sha1": "525ce5c42bd9574b79983e1a2c923c98265cc27b",
+    "sha1": "85a12a951a8c9f651d66d131c07f4086317b8f1a",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
         ]
       },
-      "city": "Praha",
+      "city": "Praha 3",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8170367",
@@ -21142,7 +21142,7 @@
       ],
       "postalCode": "130 00",
       "region": "Hlavní město Praha",
-      "street": "Kunešova"
+      "street": "Za Žižkovskou vozovnou 2716/19"
     }
   },
   "CZ8189567": {
@@ -23983,7 +23983,7 @@
   },
   "CZ9029422": {
     "name": "MČ Praha Slivenec",
-    "sha1": "ec2250eec6bd342b32bb35a9e6a991972666f25c",
+    "sha1": "2903778c05e84c3c8de9960e8b830e6c23646459",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -23994,7 +23994,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9029422",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "MČ Praha Slivenec",
       "evseId": "CZ*PRE*E1S8274*2",

@@ -7854,6 +7854,120 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "167837": {
+    "name": "(P) Sonnentor Čejkovice",
+    "sha1": "1805ce205db18f373cff5f59dbff5928092309d4",
+    "station": {
+      "address": "Příhon 943",
+      "city": "Čejkovice",
+      "coordinates": {
+        "latitude": "48.9022758",
+        "longitude": "16.9466708"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-03-01T13:12:51.19Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "322",
+                "323"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.9022758",
+            "longitude": "16.9466708"
+          },
+          "evse_id": "CZ*EON*E22167837*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "167837"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-03-01T13:12:51.19Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "322",
+                "323"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.9022758",
+            "longitude": "16.9466708"
+          },
+          "evse_id": "CZ*EON*E22167837*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "167838"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "RECREATION_AREA",
+        "NATURE",
+        "PARKING_LOT"
+      ],
+      "id": "167837",
+      "last_updated": "RESET",
+      "name": "(P) Sonnentor Čejkovice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Sonnentor s.r.o."
+      },
+      "owner": {
+        "name": "Sonnentor s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "696 15",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "17051": {
     "name": "E.ON Globus Brno",
     "sha1": "1ae1b1d4e286c28519f484d08ee6af9a08e5ea08",
@@ -11603,7 +11717,7 @@
   },
   "208758": {
     "name": "(P) DOBE - CAR, s.r.o.",
-    "sha1": "50a64d535348fc9ae13d6ec28e33eb348a6f0b39",
+    "sha1": "b26db771e9afa713e44f8318bc0187cc30e4bba1",
     "station": {
       "address": "Tovární 1250",
       "city": "Holešov",
@@ -11628,7 +11742,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2023-06-12T11:14:45.763Z",
+              "last_updated": "2024-03-01T06:29:20.587Z",
               "max_amperage": 16,
               "max_electric_power": 11000,
               "max_voltage": 400,
@@ -11636,7 +11750,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "260",
-                "261"
+                "261",
+                "320",
+                "321"
               ]
             }
           ],
@@ -11661,7 +11777,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2023-06-12T11:14:45.763Z",
+              "last_updated": "2024-03-01T06:29:20.587Z",
               "max_amperage": 16,
               "max_electric_power": 11000,
               "max_voltage": 400,
@@ -11669,7 +11785,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "260",
-                "261"
+                "261",
+                "320",
+                "321"
               ]
             }
           ],
@@ -15640,8 +15758,8 @@
     }
   },
   "250965": {
-    "name": "Škoda - Olfincar Palace DONASTAVIT",
-    "sha1": "d44e8768ded4946fd98616c86b645273be38b41f",
+    "name": "Škoda - Olfincar Palace",
+    "sha1": "4b0aecc52e7cc5a6817749bdf8a269cc4c9c9aab",
     "station": {
       "address": "Na  Rybárně 203/5",
       "city": "Hradec Králové",
@@ -15699,7 +15817,7 @@
       ],
       "id": "250965",
       "last_updated": "RESET",
-      "name": "Škoda - Olfincar Palace DONASTAVIT",
+      "name": "Škoda - Olfincar Palace",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -29278,7 +29396,7 @@
   },
   "45157": {
     "name": "(P) Apartmány Antonínov",
-    "sha1": "b81f41437fba7b0ae8c72c80bb79c6c37c259d76",
+    "sha1": "f6532444ab283b1ba52a6f0abe07e9ea2e164f5e",
     "station": {
       "address": "Antonínov 70",
       "city": "Josefův Důl",
@@ -29303,7 +29421,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2021-10-08T18:49:53.99Z",
+              "last_updated": "2024-03-01T06:06:17.503Z",
               "max_amperage": 16,
               "max_electric_power": 11000,
               "max_voltage": 400,
@@ -29311,7 +29429,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "107",
-                "108"
+                "108",
+                "318",
+                "319"
               ]
             }
           ],
