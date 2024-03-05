@@ -15758,8 +15758,8 @@
     }
   },
   "250965": {
-    "name": "Škoda - Olfincar Palace",
-    "sha1": "4b0aecc52e7cc5a6817749bdf8a269cc4c9c9aab",
+    "name": "Škoda - Olfincar Palace DONASTAVIT",
+    "sha1": "d44e8768ded4946fd98616c86b645273be38b41f",
     "station": {
       "address": "Na  Rybárně 203/5",
       "city": "Hradec Králové",
@@ -15817,7 +15817,7 @@
       ],
       "id": "250965",
       "last_updated": "RESET",
-      "name": "Škoda - Olfincar Palace",
+      "name": "Škoda - Olfincar Palace DONASTAVIT",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -17312,7 +17312,7 @@
   },
   "254240": {
     "name": "E.ON Dačice",
-    "sha1": "655474ccce9e27635a9b7d38b85628451bf6d6aa",
+    "sha1": "6e2552c6d0c32cd7e2bc53da023019ea043b3c88",
     "station": {
       "address": "Palackého nám. 44",
       "city": "Dačice",
@@ -17444,6 +17444,7 @@
             "longitude": "15.437396"
           },
           "evse_id": "CZ*UFC*E31213055*1",
+          "floor_level": "0",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -17485,6 +17486,7 @@
             "longitude": "15.437396"
           },
           "evse_id": "CZ*UFC*E31213059*1",
+          "floor_level": "0",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -17526,6 +17528,7 @@
             "longitude": "15.437396"
           },
           "evse_id": "CZ*UFC*E31213061*1",
+          "floor_level": "0",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -17567,6 +17570,7 @@
             "longitude": "15.437396"
           },
           "evse_id": "CZ*UFC*E98220339*1",
+          "floor_level": "0",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
