@@ -3107,8 +3107,8 @@
     }
   },
   "117366": {
-    "name": "(P) KKCIG s.r.o.",
-    "sha1": "eaa441a6354ccf65ffb9bbeec58e364bd9fa2efa",
+    "name": "(P) Prima k.s. - Automyčka Mimoň",
+    "sha1": "d51ba40ce4aed60d9bc064c102065866859b15e7",
     "station": {
       "address": "Českolipská",
       "city": "Mimoň",
@@ -3133,13 +3133,16 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2024-02-23T11:42:03.333Z",
+              "last_updated": "2024-03-06T11:02:32.54Z",
               "max_amperage": 16,
               "max_electric_power": 11000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
-              "tariff_ids": []
+              "tariff_ids": [
+                "324",
+                "325"
+              ]
             }
           ],
           "coordinates": {
@@ -3161,7 +3164,7 @@
       ],
       "id": "117366",
       "last_updated": "RESET",
-      "name": "(P) KKCIG s.r.o.",
+      "name": "(P) Prima k.s. - Automyčka Mimoň",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -13027,7 +13030,7 @@
   },
   "218657": {
     "name": "(P) Město Podbořany",
-    "sha1": "5d2efe845e698074dd11c64087cb594edc302a63",
+    "sha1": "04aef8c5a7eec20b5acf195d7cf163200ab7122a",
     "station": {
       "address": "Mírová 615",
       "city": "Podbořany",
@@ -13048,13 +13051,29 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-03-06T10:46:47.34Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "292",
+                "293"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.22815013",
             "longitude": "13.40730996"
           },
           "evse_id": "CZ*EON*E22184119*1",
-          "last_seen_as_planned": "2023-08-23T11:11:44.097Z",
+          "floor_level": "0",
+          "last_seen_as_planned": "2024-03-06T10:46:47.34Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "184119"
@@ -13066,13 +13085,29 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-03-06T10:46:47.34Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "292",
+                "293"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "50.22815013",
             "longitude": "13.40730996"
           },
           "evse_id": "CZ*EON*E22184119*2",
-          "last_seen_as_planned": "2023-08-23T11:11:44.097Z",
+          "floor_level": "0",
+          "last_seen_as_planned": "2024-03-06T10:46:47.34Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "184120"
@@ -13208,13 +13243,13 @@
   },
   "220295": {
     "name": "(P) VAKU STAV",
-    "sha1": "1eaeebcda95bc5ef85ad796b6702fa9374295e8d",
+    "sha1": "fb916c76296a7f4a908e36e4d878529693064d5d",
     "station": {
       "address": "Zavadilská 3195",
       "city": "Tábor",
       "coordinates": {
-        "latitude": "49.41444902",
-        "longitude": "14.68491883"
+        "latitude": "49.41436900",
+        "longitude": "14.68460400"
       },
       "country": "CZE",
       "country_code": "CZ",
@@ -13246,11 +13281,12 @@
             }
           ],
           "coordinates": {
-            "latitude": "49.41444902",
-            "longitude": "14.68491883"
+            "latitude": "49.41436900",
+            "longitude": "14.68460400"
           },
           "evse_id": "CZ*EON*E32214973*1",
-          "last_seen_as_planned": "2023-08-23T08:08:20.363Z",
+          "floor_level": "0",
+          "last_seen_as_planned": "2024-03-06T10:22:39.223Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "214973"
@@ -13279,10 +13315,11 @@
             }
           ],
           "coordinates": {
-            "latitude": "49.41444902",
-            "longitude": "14.68491883"
+            "latitude": "49.41436900",
+            "longitude": "14.68460400"
           },
           "evse_id": "CZ*EON*E32214973*2",
+          "floor_level": "0",
           "last_seen_as_planned": "2023-08-23T08:08:20.363Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -13306,9 +13343,14 @@
       "owner": {
         "name": "VAKU STAV s.r.o."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
+      "postal_code": "390 02",
       "publish": true,
       "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
       "time_zone": "Europe/Prague"
     }
   },
@@ -15758,8 +15800,8 @@
     }
   },
   "250965": {
-    "name": "Škoda - Olfincar Palace DONASTAVIT",
-    "sha1": "d44e8768ded4946fd98616c86b645273be38b41f",
+    "name": "(P) Olfin Car Palace s.r.o.",
+    "sha1": "769cd46f00f815fee5848331f6c414c9856ee63d",
     "station": {
       "address": "Na  Rybárně 203/5",
       "city": "Hradec Králové",
@@ -15817,7 +15859,7 @@
       ],
       "id": "250965",
       "last_updated": "RESET",
-      "name": "Škoda - Olfincar Palace DONASTAVIT",
+      "name": "(P) Olfin Car Palace s.r.o.",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -42565,7 +42607,7 @@
   },
   "53828": {
     "name": "E.ON Obec Tábor",
-    "sha1": "33073f91cf2240d69f668e5c66a5e14b4ab2b5af",
+    "sha1": "97cc3833d2d3bbc31b902927165494503de97337",
     "station": {
       "address": "Volgogradská",
       "city": "Tábor",
@@ -42590,9 +42632,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-05-19T22:01:45.473Z",
+              "last_updated": "2024-03-06T23:02:04.66Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
@@ -42612,9 +42654,9 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-05-19T22:01:45.473Z",
+              "last_updated": "2024-03-06T23:02:04.66Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "CHADEMO",
@@ -44011,7 +44053,7 @@
   },
   "53852": {
     "name": "E.ON Penny Hradec Králové",
-    "sha1": "abbb20f061d60a6ecec71f61327483756a057482",
+    "sha1": "0f9952bf795e746d4a5ac5f74fa1523595d4e3c0",
     "station": {
       "address": "Labská louka",
       "city": "Hradec Králové - Třebeš",
@@ -44135,9 +44177,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-08-14T22:01:47.997Z",
+              "last_updated": "2024-03-06T23:02:04.66Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
@@ -44157,9 +44199,9 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-08-14T22:01:47.997Z",
+              "last_updated": "2024-03-06T23:02:04.66Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "CHADEMO",
@@ -45143,7 +45185,7 @@
   },
   "53872": {
     "name": "E.ON OC Hana Olomouc",
-    "sha1": "eba64da6da98f9a6afdf50d8f09ef3b6c7210588",
+    "sha1": "e56088cd9fd8122b6b88f00f5bc6654c69006dd5",
     "station": {
       "address": "Kafkova 1223/8",
       "city": "Olomouc",
@@ -45250,9 +45292,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-06-22T07:43:02.07Z",
+              "last_updated": "2024-03-06T23:02:04.66Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
@@ -45272,9 +45314,9 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-06-22T07:43:02.07Z",
+              "last_updated": "2024-03-06T23:02:04.66Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "CHADEMO",
