@@ -32724,6 +32724,280 @@
       "visible": true
     }
   },
+  "189363": {
+    "name": "R015 - Praha 9 - NC Fénix - 2. pp - 1.",
+    "sha1": "a344bd93ff22cb9112298449027a773d3616b48a",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "945/35",
+        "latitude": 50.1091672,
+        "longitude": 14.5006944,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Freyova",
+        "url": ""
+      },
+      "customID": "189363",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R015"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R015"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/03/img_9583.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R015 - Praha 9 - NC Fénix - 2. pp - 1.",
+      "visible": true
+    }
+  },
+  "189364": {
+    "name": "R016 - Praha 9 - NC Fénix - 2. pp - 2.",
+    "sha1": "2424d865ce53e9c3ea24a5fa8ba4b852610f628f",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "945/35",
+        "latitude": 50.1091672,
+        "longitude": 14.5006944,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Freyova",
+        "url": ""
+      },
+      "customID": "189364",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R016"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R016"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/03/img_9583.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R016 - Praha 9 - NC Fénix - 2. pp - 2.",
+      "visible": true
+    }
+  },
+  "189365": {
+    "name": "N245 - Praha 9 - NC Fénix - Hotel Clarion - 3. pp - 1",
+    "sha1": "daf9ecba25eb9291a2a4e9d8f7eed0ca7efb78eb",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "945/35",
+        "latitude": 50.1091672,
+        "longitude": 14.5006944,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Freyova",
+        "url": ""
+      },
+      "customID": "189365",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N245"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N245"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/03/img_9602.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N245 - Praha 9 - NC Fénix - Hotel Clarion - 3. pp - 1",
+      "visible": true
+    }
+  },
+  "189366": {
+    "name": "N246 - Praha 9 - NC Fénix - Hotel Clarion - 3. pp - 2.",
+    "sha1": "07374b314274977b3f226fc63bc3c470986808f4",
+    "station": {
+      "address": {
+        "city": "Praha 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "945/35",
+        "latitude": 50.1091672,
+        "longitude": 14.5006944,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Freyova",
+        "url": ""
+      },
+      "customID": "189366",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N246"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N246"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/03/img_9602.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N246 - Praha 9 - NC Fénix - Hotel Clarion - 3. pp - 2.",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
