@@ -20804,7 +20804,7 @@
   },
   "CZ8117483": {
     "name": "Kardausova DC",
-    "sha1": "26203fdc7cabb6289ab16b3c4af52f68221f0046",
+    "sha1": "7942eece1f9cf0d9025666c9ef064ffc9dd77b2c",
     "station": {
       "additionalInfo": "na ulici Kardausova",
       "chargingFacilities": {
@@ -20816,11 +20816,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8117483",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "na ulici Kardausova / Kardausova street",
       "enCsname": "Kardausova DC",
-      "evseId": "CZ*PRE*EE1R0083*2",
+      "evseId": "CZ*PRE*E1R0083*2",
       "geoCoord": {
         "latitude": "50.066294",
         "longitude": "14.551836"
@@ -22700,6 +22700,46 @@
       "postalCode": "14900",
       "region": "Hlavní město Praha",
       "street": "Tererova"
+    }
+  },
+  "CZ8626146": {
+    "name": "Anastázova - parkoviště",
+    "sha1": "1e1b646ff30a55f33eaa109be270f4f3a6cc0e9e",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8626146",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Anastázova - parkoviště",
+      "evseId": "CZ*PRE*E1S8287*2",
+      "geoCoord": {
+        "latitude": "50.085373",
+        "longitude": "14.363219"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "169 00",
+      "region": "Hlavní město Praha",
+      "street": "Anastázova"
     }
   },
   "CZ8635878": {
@@ -25596,6 +25636,46 @@
       "postalCode": "19600",
       "region": "Hlavní město Praha",
       "street": "Schoellerova"
+    }
+  },
+  "CZ9457035": {
+    "name": "Chaplinovo náměstí Barrandov",
+    "sha1": "d8cd2324010123b8e0ea5241afbc12b20f426cc8",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9457035",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Chaplinovo náměstí Barrandov",
+      "evseId": "CZ*PRE*E1S8288*2",
+      "geoCoord": {
+        "latitude": "50.036810",
+        "longitude": "14.378579"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "152 00",
+      "region": "Hlavní město Praha",
+      "street": "Lohniského"
     }
   },
   "CZ9459660": {
