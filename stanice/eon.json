@@ -47517,6 +47517,107 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "65927": {
+    "name": "(P) Milan Král a.s.",
+    "sha1": "06d170fe1e58779ba3d2d89b765ba4a2642f551f",
+    "station": {
+      "address": "Pod Stromovkou 201",
+      "city": "Litvínovice",
+      "coordinates": {
+        "latitude": "48.964291",
+        "longitude": "14.458477"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-03-09T15:58:07.813Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "99",
+                "100"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.964291",
+            "longitude": "14.458477"
+          },
+          "evse_id": "CZ*EON*E22065927*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "65927"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-03-09T15:58:07.813Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "99",
+                "100"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.964291",
+            "longitude": "14.458477"
+          },
+          "evse_id": "CZ*EON*E22065928*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "65928"
+        }
+      ],
+      "id": "65927",
+      "last_updated": "RESET",
+      "name": "(P) Milan Král a.s.",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "Milan Král a.s."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "time_zone": "Europe/Prague"
+    }
+  },
   "65928": {
     "name": "(P) Milan Král a.s. 2",
     "sha1": "107b5ce3203f0809e81bc1d1e3362840648d4694",

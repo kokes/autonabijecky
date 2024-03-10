@@ -21442,7 +21442,7 @@
   },
   "CZ8252875": {
     "name": "Vlakové nádraží Praha Vysočany",
-    "sha1": "45ddad22828e361862f8056670a2ec1b876a555f",
+    "sha1": "87736cc528d4fab2498faac45a988a3a3f8be438",
     "station": {
       "additionalInfo": "Vlakové nádraží Praha Vysočany",
       "chargingFacilities": {
@@ -21465,6 +21465,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65785893b00b887ef007f731/1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65785893b00b887ef007f731/2.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
