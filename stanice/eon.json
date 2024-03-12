@@ -14394,6 +14394,110 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "232640": {
+    "name": "(P) Hyundai 1 Pool DC",
+    "sha1": "6719b2481397377541972e160bd0ea14dfe0e4a7",
+    "station": {
+      "address": "Nižní Lhoty",
+      "city": "Nošovice",
+      "coordinates": {
+        "latitude": "49.65731365",
+        "longitude": "18.45387614"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2024-03-11T13:12:22.487Z",
+              "max_amperage": 125,
+              "max_electric_power": 60000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "326"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.65731365",
+            "longitude": "18.45387614"
+          },
+          "evse_id": "CZ*EON*E21235647*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "235647"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2024-03-11T13:12:22.487Z",
+              "max_amperage": 125,
+              "max_electric_power": 60000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "326"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.65731365",
+            "longitude": "18.45387614"
+          },
+          "evse_id": "CZ*EON*E21235647*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "235648"
+        }
+      ],
+      "id": "232640",
+      "last_updated": "RESET",
+      "name": "(P) Hyundai 1 Pool DC",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Hyundai Motor Manufacturing Czech s.r.o."
+      },
+      "owner": {
+        "name": "Hyundai Motor Manufacturing Czech s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "739 51",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "236457": {
     "name": "E.ON HYC_50 Priprava 2",
     "sha1": "7846fbcc92aa1ac1b81b0971aad053a00a676992",
@@ -48372,7 +48476,7 @@
   },
   "66856": {
     "name": "(P) Teplárna Liberec a.s.",
-    "sha1": "5f30248a6668f7f9102566cea29980b50a5d8bf0",
+    "sha1": "567f95fcabdbf862dada369366ef09de234d3e1f",
     "station": {
       "address": "Dr. Milady Horákové 641/34a",
       "city": "Liberec IV-Perštýn",
@@ -48383,7 +48487,7 @@
       "country": "CZE",
       "country_code": "CZ",
       "energy_mix": {
-        "is_green_energy": true
+        "is_green_energy": false
       },
       "evses": [
         {
