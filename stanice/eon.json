@@ -15477,7 +15477,7 @@
   },
   "241822": {
     "name": "E.ON Aventin Znojmo",
-    "sha1": "76fd22465679d1b3b245666eb3a34383a59efbd0",
+    "sha1": "8f4c8f11eb7a2727de507dfc5625e30a9f752f6a",
     "station": {
       "address": "Dobšická 4b,",
       "city": "Znojmo 2",
@@ -15572,6 +15572,47 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "227370"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-03-14T23:01:56.817Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "7",
+                "10",
+                "65",
+                "68",
+                "145",
+                "146",
+                "188",
+                "189",
+                "214",
+                "217"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.85398866",
+            "longitude": "16.07008388"
+          },
+          "evse_id": "FI*001*E241822",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "241822"
         }
       ],
       "facilities": [
@@ -17324,7 +17365,7 @@
   },
   "253380": {
     "name": "(P) PTA Servis - Olomouc",
-    "sha1": "9fceb7850794c50ea96dddb5adccb489fd854532",
+    "sha1": "e939341f399b6b6812ce659503f0796cdfe14ef8",
     "station": {
       "address": "Kožušany 159",
       "city": "Kožušany-Tážaly",
@@ -17396,9 +17437,9 @@
             {
               "format": "SOCKET",
               "id": "3",
-              "last_updated": "2024-02-23T13:22:12.483Z",
+              "last_updated": "2024-03-14T23:01:56.817Z",
               "max_amperage": 32,
-              "max_electric_power": 22000,
+              "max_electric_power": 43000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
