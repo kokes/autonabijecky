@@ -15536,79 +15536,6 @@
       "visible": true
     }
   },
-  "163455": {
-    "name": "R467 - Hradec Králové - Retail park HK - 3",
-    "sha1": "930365bcff90e3bde6a7aa5f6fb895ad7e6fc99f",
-    "station": {
-      "address": {
-        "city": "Hradec Králové",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "třída 1669",
-        "latitude": 50.1887384,
-        "longitude": 15.8053197,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Rašínova",
-        "url": ""
-      },
-      "customID": "163455",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-1522-011",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R467"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-1522-011",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-1522-011",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R467"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/09/1b.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R467 - Hradec Králové - Retail park HK - 3",
-      "visible": true
-    }
-  },
   "163456": {
     "name": "R468 - Hradec Králové - Retail park HK - 4",
     "sha1": "0f335c1d2e504d19ce99aa04bde4f08f1764a6e9",
@@ -32995,6 +32922,70 @@
       ],
       "instructions": null,
       "name": "N246 - Praha 9 - NC Fénix - Hotel Clarion - 3. pp - 2.",
+      "visible": true
+    }
+  },
+  "189589": {
+    "name": "UR120- Hradec Králové - Retail park HK - 3",
+    "sha1": "06c0d24e37d03c4dda5497959744c3cc9da5c6f6",
+    "station": {
+      "address": {
+        "city": "Hradec Králové",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "třída 1669",
+        "latitude": 50.1887384,
+        "longitude": 15.8053197,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rašínova",
+        "url": ""
+      },
+      "customID": "189589",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 240,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR120"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 240,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR120"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/03/9b4ec5b4-375a-4292-b18a-504b24a64c44.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR120- Hradec Králové - Retail park HK - 3",
       "visible": true
     }
   },
