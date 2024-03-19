@@ -49327,7 +49327,7 @@
   },
   "81660": {
     "name": "(P) Sokolí Hnízdo",
-    "sha1": "b4128dee9ff882d465b21cc2f640e9973e9b5092",
+    "sha1": "cad90835af76c13fbe2fcded7c355da1f7ef3f4e",
     "station": {
       "address": "Rampuše 5",
       "city": "Liberk",
@@ -49369,6 +49369,7 @@
             "longitude": "16.375559"
           },
           "evse_id": "CZ*EON*E31081660*1",
+          "floor_level": "0",
           "last_seen_as_planned": "2022-10-04T22:01:01.933Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -49402,6 +49403,7 @@
             "longitude": "16.375559"
           },
           "evse_id": "CZ*EON*E31081660*2",
+          "floor_level": "0",
           "last_seen_as_planned": "2022-10-04T22:01:01.933Z",
           "last_updated": "RESET",
           "status": "RESET",
