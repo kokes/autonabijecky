@@ -32989,6 +32989,152 @@
       "visible": true
     }
   },
+  "189678": {
+    "name": "R622 - Uherské Hradiště - Benzina",
+    "sha1": "c440f5fc506b739021f0b337b2c1b2bd6408fb73",
+    "station": {
+      "address": {
+        "city": "Uherské Hradiště",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Maršála Malinovského 1344",
+        "latitude": 49.0586678,
+        "longitude": 17.4662714,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Tř.",
+        "url": ""
+      },
+      "customID": "189678",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R622"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R622"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/03/b34a54b1-6cc4-4f47-889b-4c2e35856998.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R622 - Uherské Hradiště - Benzina",
+      "visible": true
+    }
+  },
+  "189695": {
+    "name": "R013 - Prostějov Držovice - McDonald´s",
+    "sha1": "0f2dfe566f19b55041ef49b4486b1b38eff48c92",
+    "station": {
+      "address": {
+        "city": "Prostějov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "227/21",
+        "latitude": 49.48269,
+        "longitude": 17.12857,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Konečná",
+        "url": ""
+      },
+      "customID": "189695",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R013"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R013"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/03/spusteni-3.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R013 - Prostějov Držovice - McDonald´s",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",

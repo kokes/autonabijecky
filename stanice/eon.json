@@ -2616,8 +2616,8 @@
     }
   },
   "112222": {
-    "name": "Vila Jáchymov",
-    "sha1": "44f9c6075444afb8fe3e06b6eff88404ad6348ff",
+    "name": "(P) Vila Jáchymov",
+    "sha1": "793ea3d3e1dd4aff94c008aebb80ee771134e1bf",
     "station": {
       "address": "Lidická 764",
       "city": "Jáchymov",
@@ -2674,7 +2674,7 @@
       ],
       "id": "112222",
       "last_updated": "RESET",
-      "name": "Vila Jáchymov",
+      "name": "(P) Vila Jáchymov",
       "opening_times": {
         "regular_hours": [
           {
@@ -4888,6 +4888,121 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "135183": {
+    "name": "(P) Hotel Grid Automotodrom Brno",
+    "sha1": "0f137fd5caccc9f9786546666d10a08eb85c0dcc",
+    "station": {
+      "address": "Masarykův okruh 201",
+      "city": "Ostrovačice",
+      "coordinates": {
+        "latitude": "49.2043031",
+        "longitude": "16.4477547"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-03-19T09:51:31.953Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "286",
+                "287"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.2043031",
+            "longitude": "16.4477547"
+          },
+          "evse_id": "CZ*EON*E31135183*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "135183"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-03-19T09:51:31.953Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "286",
+                "287"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.2043031",
+            "longitude": "16.4477547"
+          },
+          "evse_id": "CZ*EON*E31135183*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "135184"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "SPORT",
+        "RECREATION_AREA",
+        "NATURE",
+        "PARKING_LOT",
+        "WIFI"
+      ],
+      "id": "135183",
+      "last_updated": "RESET",
+      "name": "(P) Hotel Grid Automotodrom Brno",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Automotodrom Brno a.s."
+      },
+      "owner": {
+        "name": "Automotodrom Brno a.s."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "664 81",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "135427": {
     "name": "(P) Tvrz Orlice",
     "sha1": "355ae9a33f90436d8ce87764757bed0b143d1fb1",
@@ -5041,8 +5156,8 @@
     }
   },
   "139466": {
-    "name": "M5006105-2",
-    "sha1": "ad48c2f4d5554e996a44dc28ca84711be3d7f335",
+    "name": "(P) CS Beton",
+    "sha1": "f307943344ad3bd7c2e06bf61a185274243c62e1",
     "station": {
       "address": "Velké Žernoseky 184",
       "city": "Velké Žernoseky",
@@ -5053,7 +5168,7 @@
       "country": "CZE",
       "country_code": "CZ",
       "energy_mix": {
-        "is_green_energy": true
+        "is_green_energy": false
       },
       "evses": [
         {
@@ -5191,7 +5306,7 @@
       ],
       "id": "139466",
       "last_updated": "RESET",
-      "name": "M5006105-2",
+      "name": "(P) CS Beton",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -5201,11 +5316,13 @@
       "owner": {
         "name": "CS-BETON s.r.o."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
+      "postal_code": "412 01",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
-        "name": "COM Electric s.r.o."
+        "name": "E.ON Energie, a.s."
       },
       "time_zone": "Europe/Prague"
     }
@@ -13133,7 +13250,7 @@
   },
   "219046": {
     "name": "(P) Hotel Grid Automotodrom Brno",
-    "sha1": "ce1af7b932aa36bd2e525604b12fe79dbff61936",
+    "sha1": "84bda403276ba34f81bebbf99b4631418fa57801",
     "station": {
       "address": "Masarykův okruh 201",
       "city": "Ostrovačice",
@@ -13144,7 +13261,7 @@
       "country": "CZE",
       "country_code": "CZ",
       "energy_mix": {
-        "is_green_energy": true
+        "is_green_energy": false
       },
       "evses": [
         {
@@ -13175,7 +13292,7 @@
             "longitude": "16.4429028"
           },
           "evse_id": "CZ*EON*E31135183*1",
-          "last_seen_as_planned": "2023-08-24T12:11:08.327Z",
+          "last_seen_as_planned": "2024-03-19T09:53:16.593Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "135183"
@@ -13208,20 +13325,11 @@
             "longitude": "16.4429028"
           },
           "evse_id": "CZ*EON*E31135183*2",
-          "last_seen_as_planned": "2023-08-24T12:11:08.327Z",
+          "last_seen_as_planned": "2024-03-19T09:53:16.593Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "135184"
         }
-      ],
-      "facilities": [
-        "HOTEL",
-        "RESTAURANT",
-        "SPORT",
-        "RECREATION_AREA",
-        "NATURE",
-        "PARKING_LOT",
-        "WIFI"
       ],
       "id": "219046",
       "last_updated": "RESET",
@@ -13236,8 +13344,12 @@
         "name": "Automotodrom Brno a.s."
       },
       "party_id": "EON",
-      "publish": true,
+      "postal_code": "664 81",
+      "publish": false,
       "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
       "time_zone": "Europe/Prague"
     }
   },
@@ -49207,7 +49319,7 @@
   },
   "81658": {
     "name": "(P) Zdobnice Centrum",
-    "sha1": "a875552c25a8bb5119d5f8c67b5c8fd5e8f46e9c",
+    "sha1": "fc63c58755f33337a1b365617dbf17eb188e8510",
     "station": {
       "address": "Zdobnice Parkoviště",
       "city": "Zdobnice",
@@ -49249,6 +49361,7 @@
             "longitude": "16.407952"
           },
           "evse_id": "CZ*EON*E31081658*1",
+          "floor_level": "0",
           "last_seen_as_planned": "2022-10-04T22:01:01.933Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -49282,6 +49395,7 @@
             "longitude": "16.407952"
           },
           "evse_id": "CZ*EON*E31081658*2",
+          "floor_level": "0",
           "last_seen_as_planned": "2022-10-04T22:01:01.933Z",
           "last_updated": "RESET",
           "status": "RESET",
