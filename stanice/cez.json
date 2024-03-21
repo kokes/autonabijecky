@@ -33135,6 +33135,79 @@
       "visible": true
     }
   },
+  "189719": {
+    "name": "R611 - Telč - Benzina",
+    "sha1": "e84318d0479ef1a657e5ffff23d90e2dabb41b8d",
+    "station": {
+      "address": {
+        "city": "Telč",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "609",
+        "latitude": 49.1842153,
+        "longitude": 15.4405936,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Hradecká",
+        "url": ""
+      },
+      "customID": "189719",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R611"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R611"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/03/f531b19c-2e9f-4530-8b5f-07ce3a5ed48d.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R611 - Telč - Benzina",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",

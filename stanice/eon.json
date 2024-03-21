@@ -15749,6 +15749,130 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "242009": {
+    "name": "(P) UNICAR Ostrava",
+    "sha1": "b48749dfeaa5802af6d11f3f961e9d29744996bd",
+    "station": {
+      "address": "Vítkovická 2744/36",
+      "city": "Ostrava",
+      "coordinates": {
+        "latitude": "49.826085",
+        "longitude": "18.2775478"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": false
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-03-18T09:46:35.317Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "328",
+                "329"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.826085",
+            "longitude": "18.2775478"
+          },
+          "evse_id": "CZ*EON*E25242009*1",
+          "floor_level": "0",
+          "last_seen_as_planned": "2024-03-20T13:25:44.037Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "242009"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-03-18T09:46:35.317Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "328",
+                "329"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.826085",
+            "longitude": "18.2775478"
+          },
+          "evse_id": "CZ*EON*E25242009*2",
+          "floor_level": "0",
+          "last_seen_as_planned": "2024-03-20T13:30:32.643Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "242010"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "MALL",
+        "SUPERMARKET",
+        "SPORT",
+        "MUSEUM",
+        "BIKE_SHARING",
+        "BUS_STOP",
+        "TAXI_STAND",
+        "TRAM_STOP",
+        "TRAIN_STATION",
+        "PARKING_LOT",
+        "FUEL_STATION",
+        "WIFI"
+      ],
+      "id": "242009",
+      "last_updated": "RESET",
+      "name": "(P) UNICAR Ostrava",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "UNICAR, spol. s r.o."
+      },
+      "owner": {
+        "name": "UNICAR, spol. s r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "702 00",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "244612": {
     "name": "E.ON Kaufland Hustopeče",
     "sha1": "1b146f4c8a3d4d434dc8c74c3e925fe130aaf04e",
@@ -29293,7 +29417,7 @@
   },
   "42349": {
     "name": "(P) Unicars",
-    "sha1": "ddd08b4e104ccdcb96aed0c6bd41fbf655e0d4e8",
+    "sha1": "d286cc15458e3eea3fc6d1c3956cbbb7ec799232",
     "station": {
       "address": "Tečovská 1052",
       "city": "Zlín",
@@ -29400,7 +29524,7 @@
       "last_updated": "RESET",
       "name": "(P) Unicars",
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "UNICAR, spol. s r.o."
       },
       "owner": {
         "name": "UNICARS CZ s.r.o."
@@ -29411,7 +29535,7 @@
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
-        "name": "COM Electric s.r.o."
+        "name": "E.ON Energie, a.s."
       },
       "time_zone": "Europe/Prague"
     }
