@@ -26269,18 +26269,18 @@
   },
   "CZ9751918": {
     "name": "OMV Jičínská",
-    "sha1": "f4f16faa740053ec1278a1d4e04dd8390d9f02e0",
+    "sha1": "bf7b93b441f0af8162d792c1d5b4aef19337af63",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤75kW"
+          "DC Charging ≤50kW"
         ]
       },
       "city": "Mladá Boleslav",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9751918",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "U stanice EuroOil / by the EuroOil gas station",
       "enCsname": "OMV Jičínská",
@@ -26291,6 +26291,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6578383ab00b887ef007f6e4/5.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
