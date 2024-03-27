@@ -23121,6 +23121,46 @@
       "street": "Pobřežní"
     }
   },
+  "CZ8791907": {
+    "name": "Karlštejn parkoviště",
+    "sha1": "604d3562ced10459957cd0b3d042996415ee2acb",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Karlštejn",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8791907",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Karlštejn parkoviště",
+      "evseId": "CZ*PRE*E1S8290*2",
+      "geoCoord": {
+        "latitude": "49.933390",
+        "longitude": "14.184392"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "267 18",
+      "region": "Středočeský kraj",
+      "street": "silnice 116"
+    }
+  },
   "CZ8797390": {
     "name": "Lovosická 4",
     "sha1": "017df5bed75dd89cbcdb559906562712b271336e",
