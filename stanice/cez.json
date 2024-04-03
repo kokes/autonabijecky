@@ -33208,6 +33208,79 @@
       "visible": true
     }
   },
+  "190075": {
+    "name": "R018 - Kvasiny",
+    "sha1": "f6d9f45c2ce79bfd4ea137f4bf18ad645da09d9a",
+    "station": {
+      "address": {
+        "city": "Kvasiny",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "500",
+        "latitude": 50.2136953,
+        "longitude": 16.2630842,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Kvasiny",
+        "url": ""
+      },
+      "customID": "190075",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R018"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R018"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/04/ff05b8de-b942-4518-b244-c52d7b14c72d.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R018 - Kvasiny",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",

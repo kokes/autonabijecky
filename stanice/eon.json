@@ -5005,7 +5005,7 @@
   },
   "135427": {
     "name": "(P) Tvrz Orlice",
-    "sha1": "355ae9a33f90436d8ce87764757bed0b143d1fb1",
+    "sha1": "1c455aceddbd0a944317ebe2f8608eb0b373de07",
     "station": {
       "address": "Orlice 1",
       "city": "Letohrad",
@@ -5016,7 +5016,7 @@
       "country": "CZE",
       "country_code": "CZ",
       "energy_mix": {
-        "is_green_energy": true
+        "is_green_energy": false
       },
       "evses": [
         {
@@ -9082,7 +9082,7 @@
   },
   "177634": {
     "name": "(P) Hotel Bartoš",
-    "sha1": "11f9a322a63414ff7fa45bdd80f73facf156b8d2",
+    "sha1": "6b36db80c635aa4a44b425ab71f978c7927eaaf2",
     "station": {
       "address": "Školská čtvrť 1393",
       "city": "Frenštát pod Radhoštěm",
@@ -9107,7 +9107,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2023-08-10T08:30:19.67Z",
+              "last_updated": "2024-04-02T06:42:14.707Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -9115,7 +9115,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "282",
-                "283"
+                "283",
+                "330",
+                "331"
               ]
             }
           ],
@@ -9140,7 +9142,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2023-08-10T08:30:19.67Z",
+              "last_updated": "2024-04-02T06:42:14.707Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -9148,7 +9150,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "282",
-                "283"
+                "283",
+                "330",
+                "331"
               ]
             }
           ],
@@ -9173,7 +9177,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2023-08-10T08:30:19.67Z",
+              "last_updated": "2024-04-02T06:42:14.707Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -9181,7 +9185,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "282",
-                "283"
+                "283",
+                "330",
+                "331"
               ]
             }
           ],
@@ -9206,7 +9212,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2023-08-10T08:30:19.67Z",
+              "last_updated": "2024-04-02T06:42:14.707Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -9214,7 +9220,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "282",
-                "283"
+                "283",
+                "330",
+                "331"
               ]
             }
           ],
