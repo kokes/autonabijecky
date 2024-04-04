@@ -8933,7 +8933,7 @@
   },
   "177268": {
     "name": "(P) Fabrika hotel Humpolec",
-    "sha1": "f129f3d1b39983865208feae813928065d9adc84",
+    "sha1": "bcebafa55462a0a3439f1cb16294d880e3060b47",
     "station": {
       "address": "Školní 511",
       "city": "Humpolec",
@@ -8958,13 +8958,16 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-09-21T22:02:17.003Z",
+              "last_updated": "2024-04-03T08:36:08.267Z",
               "max_amperage": 125,
               "max_electric_power": 100000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": []
+              "tariff_ids": [
+                "336",
+                "337"
+              ]
             }
           ],
           "coordinates": {
@@ -8988,7 +8991,7 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-04-06T07:14:58.82Z",
+              "last_updated": "2024-04-03T08:04:02.94Z",
               "max_amperage": 125,
               "max_electric_power": 150000,
               "max_voltage": 500,
@@ -8996,7 +8999,9 @@
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
                 "242",
-                "243"
+                "243",
+                "332",
+                "333"
               ]
             }
           ],
@@ -9021,7 +9026,7 @@
             {
               "format": "SOCKET",
               "id": "3",
-              "last_updated": "2023-04-06T06:30:29.597Z",
+              "last_updated": "2024-04-03T08:08:42.153Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -9029,7 +9034,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "244",
-                "245"
+                "245",
+                "334",
+                "335"
               ]
             }
           ],
@@ -45010,7 +45017,7 @@
   },
   "53860": {
     "name": "E.ON Penny Benešov",
-    "sha1": "1382216817cfacf72aaae90b85438d9d2bd40061",
+    "sha1": "4c2fdf0bc467f72a3a310d31d20b5b9f0e1983e9",
     "station": {
       "address": "Čechova 2126",
       "city": " Benešov",
@@ -45035,9 +45042,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-08-14T20:18:10.563Z",
+              "last_updated": "2024-04-03T22:02:09.813Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
@@ -45057,9 +45064,9 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-08-14T20:18:10.563Z",
+              "last_updated": "2024-04-03T22:02:09.813Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 60000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "CHADEMO",
