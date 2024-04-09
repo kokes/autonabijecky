@@ -18035,7 +18035,7 @@
   },
   "26527": {
     "name": "(P) Autoservis Jindra",
-    "sha1": "8662fd062e5ea5adc0410ecf1219534f404c2530",
+    "sha1": "2f59bca418a4d72fe1ea2f0f62c9e5b6e77f8ae5",
     "station": {
       "address": "Mrázkova 801",
       "city": "Soběslav",
@@ -18060,7 +18060,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2020-12-16T13:06:43.203Z",
+              "last_updated": "2024-04-08T16:28:40.78Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -18068,7 +18068,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "21",
-                "22"
+                "22",
+                "340",
+                "341"
               ]
             }
           ],
