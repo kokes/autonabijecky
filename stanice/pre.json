@@ -20906,6 +20906,46 @@
       "street": "Stará náves"
     }
   },
+  "CZ8135268": {
+    "name": "Hotel Hybernská",
+    "sha1": "1f0c7470d1b70a785fca3acdabef9ee1788b197d",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤75kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8135268",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Hotel Hybernská",
+      "evseId": "CZ*PRE*E1R0087*2",
+      "geoCoord": {
+        "latitude": "50.087157",
+        "longitude": "14.436621"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "110 00",
+      "region": "Hlavní město Praha",
+      "street": "Hybernská"
+    }
+  },
   "CZ8140336": {
     "name": "Hornbach Svinov",
     "sha1": "f2e6347b0395e70b5ad55de0a95e1215f1b5fae7",
@@ -23756,6 +23796,46 @@
       "street": "Chudenická"
     }
   },
+  "CZ9001721": {
+    "name": "Park Holiday Hotel Benice",
+    "sha1": "0ecacff768cee59e85d19dafae2fd5feeb0bca69",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha Benice",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9001721",
+      "csStatus": "ready",
+      "csType": "",
+      "enCsname": "Park Holiday Hotel Benice",
+      "evseId": "CZ*PRE*E1S8293*2",
+      "geoCoord": {
+        "latitude": "50.012183",
+        "longitude": "14.603809"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "103 00",
+      "region": "Hlavní město Praha",
+      "street": "Květnového povstání"
+    }
+  },
   "CZ9005838": {
     "name": "Power Point Pankrác",
     "sha1": "c8be041335b2bad681b5c8335897b25eb2a40b76",
@@ -25012,6 +25092,46 @@
       "street": "Národní"
     }
   },
+  "CZ9272773": {
+    "name": "Pečovatelská služba",
+    "sha1": "99a38c9961e3975a8d6fecf68bd1f30d3121814c",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha 3",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9272773",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Pečovatelská služba",
+      "evseId": "CZ*PRE*E1S8298*2",
+      "geoCoord": {
+        "latitude": "50.086567",
+        "longitude": "14.456448"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "130 00",
+      "region": "Hlavní město Praha",
+      "street": "Komenského nám."
+    }
+  },
   "CZ9273004": {
     "name": "SUAS 2 Tisá",
     "sha1": "c78f2295ad3f30f929f3048bd956b2db4ab606dc",
@@ -25779,6 +25899,46 @@
       "street": "Novodvorská 1947/82"
     }
   },
+  "CZ9474828": {
+    "name": "Botanická zahrada",
+    "sha1": "162d6ddbd2a617bdb18dd8b811232cf046fa4b50",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha 8",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9474828",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Botanická zahrada",
+      "evseId": "CZ*PRE*E1S8292*2",
+      "geoCoord": {
+        "latitude": "50.124656",
+        "longitude": "14.420291"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "K Pazderkám"
+    }
+  },
   "CZ9483995": {
     "name": "TS 2139 Holčovická",
     "sha1": "e71fda107ae28c11bb34bae2110ef4599e446113",
@@ -25917,6 +26077,46 @@
       "street": "Podolské nábř. 3"
     }
   },
+  "CZ9536865": {
+    "name": "Tenisové kurty - Nad Statkem",
+    "sha1": "4a4024a2c18d8f276a63df8af4e2857beccf74a1",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9536865",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Tenisové kurty - Nad Statkem",
+      "evseId": "CZ*PRE*E1S8299*2",
+      "geoCoord": {
+        "latitude": "50.010702",
+        "longitude": "14.543841"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "149 00",
+      "region": "Hlavní město Praha",
+      "street": "Nad Statkem"
+    }
+  },
   "CZ9542130": {
     "name": "V Nových Vokovicích 2",
     "sha1": "205d9a897ae17511ce56767c0c99a720dfa872c7",
@@ -26008,6 +26208,46 @@
       "postalCode": "356 04",
       "region": "Czech republic",
       "street": "Ke Golfu"
+    }
+  },
+  "CZ9628125": {
+    "name": "Sídliště Zahradní Město -Jasmínová",
+    "sha1": "9b909bbac18c9f56d4b1f0c15bffd12916bf1ba5",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9628125",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Sídliště Zahradní Město -Jasmínová",
+      "evseId": "CZ*PRE*E1S8291*2",
+      "geoCoord": {
+        "latitude": "50.053970",
+        "longitude": "14.508226"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "106 00",
+      "region": "Hlavní město Praha",
+      "street": "Jasmínová"
     }
   },
   "CZ9636510": {
@@ -26305,6 +26545,86 @@
       "postalCode": "149 00",
       "region": "Hlavní město Praha",
       "street": "Mikulova"
+    }
+  },
+  "CZ9740461": {
+    "name": "V Rozvětu",
+    "sha1": "26cd9ed0987fb7cbf657fe6c5f516fab1bd40b30",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9740461",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "V Rozvětu",
+      "evseId": "CZ*PRE*E1S8296*2",
+      "geoCoord": {
+        "latitude": "50.088260",
+        "longitude": "14.489125"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "130 00",
+      "region": "Hlavní město Praha",
+      "street": "V Rozkvětu"
+    }
+  },
+  "CZ9749182": {
+    "name": "Zahradní Město - Sněženková",
+    "sha1": "51b725d5e3c83cc3ed65b3e85d288ee73bb56352",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9749182",
+      "csStatus": "ready",
+      "csType": "",
+      "enCsname": "Zahradní Město - Sněženková",
+      "evseId": "CZ*PRE*E1S8300*2",
+      "geoCoord": {
+        "latitude": "50.054317",
+        "longitude": "14.503806"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "106 00",
+      "region": "Hlavní město Praha",
+      "street": "Hvozdíková"
     }
   },
   "CZ9751918": {
@@ -26677,6 +26997,46 @@
       "postalCode": "16000",
       "region": "Hlavní město Praha",
       "street": "V Nových Vokovicích"
+    }
+  },
+  "CZ9903960": {
+    "name": "Lighthouse Holešovice",
+    "sha1": "4a52d65308793ecf305e87a3cc6a148fa83b558a",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9903960",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Lighthouse Holešovice",
+      "evseId": "CZ*PRE*E1S8295*2",
+      "geoCoord": {
+        "latitude": "50.102850",
+        "longitude": "14.457513"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "170 00",
+      "region": "Hlavní město Praha",
+      "street": "Bubenské nábřeží"
     }
   },
   "CZ9931493": {

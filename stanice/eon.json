@@ -18033,6 +18033,130 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "259660": {
+    "name": "(P) Parking Centrum Tábor",
+    "sha1": "b7cb7e94fdc81edc149d5775176fefae8bd34334",
+    "station": {
+      "address": "Jordánská 3112",
+      "city": "Tábor",
+      "coordinates": {
+        "latitude": "49.4138336",
+        "longitude": "14.6622742"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-04-05T14:43:31.59Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "338",
+                "339"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.4138336",
+            "longitude": "14.6622742"
+          },
+          "evse_id": "CZ*EON*E22184151*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "184151"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-04-05T14:43:31.59Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "338",
+                "339"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.4138336",
+            "longitude": "14.6622742"
+          },
+          "evse_id": "CZ*EON*E22184151*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "184152"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "SUPERMARKET",
+        "NATURE",
+        "MUSEUM",
+        "BUS_STOP",
+        "TAXI_STAND",
+        "PARKING_LOT"
+      ],
+      "id": "259660",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpeg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/262686/3145521712327354.jpeg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) Parking Centrum Tábor",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Technické služby Tábor s.r.o."
+      },
+      "owner": {
+        "name": "Technické služby Tábor s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "390 03",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "26527": {
     "name": "(P) Autoservis Jindra",
     "sha1": "2f59bca418a4d72fe1ea2f0f62c9e5b6e77f8ae5",

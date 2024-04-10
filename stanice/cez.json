@@ -33281,6 +33281,165 @@
       "visible": true
     }
   },
+  "190181": {
+    "name": "WB016 - Ostrava - OC Koksovna - 2",
+    "sha1": "f12ffeb54af76cecfa0b4cbd3bfbb2a37ed151b0",
+    "station": {
+      "address": {
+        "city": "Ostrava",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Lávce",
+        "latitude": 49.8547661,
+        "longitude": 18.2747418,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K",
+        "url": ""
+      },
+      "customID": "190181",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB016"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7838.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB016 - Ostrava - OC Koksovna - 2",
+      "visible": true
+    }
+  },
+  "190215": {
+    "name": "WB015 - Ostrava - OC Koksovna - 1",
+    "sha1": "86b073e2c9d0131645453ecc373344125447b40f",
+    "station": {
+      "address": {
+        "city": "Ostrava",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Lávce",
+        "latitude": 49.8547661,
+        "longitude": 18.2747418,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K",
+        "url": ""
+      },
+      "customID": "190215",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB015"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img_1311.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB015 - Ostrava - OC Koksovna - 1",
+      "visible": true
+    }
+  },
+  "190218": {
+    "name": "WB017 - Ostrava - OC Koksovna - 3",
+    "sha1": "f35253392857a0fdc2b5890d383623a55d820ba3",
+    "station": {
+      "address": {
+        "city": "Ostrava",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Lávce",
+        "latitude": 49.8547661,
+        "longitude": 18.2747418,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "K",
+        "url": ""
+      },
+      "customID": "190218",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB017"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/11/img_2446.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB017 - Ostrava - OC Koksovna - 3",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
