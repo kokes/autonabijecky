@@ -3805,6 +3805,50 @@
       "street": "Výstaviště 67"
     }
   },
+  "CZ1002673": {
+    "name": "SMIGHT Pražská energetika 19",
+    "sha1": "317c6bb6bc58c1b616aa3e6458a7372dc5300016",
+    "station": {
+      "additionalInfo": "u budovy PRE",
+      "branch": "Parken",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "200 - 240V, 1-Phase ≤16A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1002673",
+      "csName": "SMIGHT Pražská energetika 19",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "u budovy PRE / In front of the Pražská energetika building",
+      "enCsname": "SMIGHT Pražská energetika 19",
+      "evseId": "CZ*PRE*E2S0002*2",
+      "geoCoord": {
+        "latitude": "50.070167",
+        "longitude": "14.481806"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "DOMESTIC-F",
+          "plug": "Type F Schuko"
+        }
+      ],
+      "postalCode": "11000",
+      "region": "Hlavní město Praha",
+      "street": "Na Hroudě 2149/19"
+    }
+  },
   "CZ1002674": {
     "name": "Pražská energetika, a.s. 3",
     "sha1": "9865b6ad09a668390e6cbc1bb1838c17a6c8068f",

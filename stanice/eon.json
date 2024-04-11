@@ -2946,13 +2946,13 @@
   },
   "117362": {
     "name": "(P) Zámeček Skrytín",
-    "sha1": "119fa06706365d0341986d35a656e1c300bb8752",
+    "sha1": "ff69f64fcd66ffae6491f7a4c6b145c5ea186d54",
     "station": {
       "address": "Dobkovice 40",
       "city": "Dobkovice",
       "coordinates": {
-        "latitude": "50.695171",
-        "longitude": "14.189635"
+        "latitude": "50.6944844",
+        "longitude": "14.1876231"
       },
       "country": "CZE",
       "country_code": "CZ",
@@ -2984,8 +2984,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "50.695171",
-            "longitude": "14.189635"
+            "latitude": "50.6944844",
+            "longitude": "14.1876231"
           },
           "evse_id": "CZ*EON*E22117362*1",
           "last_seen_as_planned": "2022-08-24T06:42:39.693Z",
@@ -7976,7 +7976,7 @@
   },
   "167837": {
     "name": "(P) Sonnentor Čejkovice",
-    "sha1": "1805ce205db18f373cff5f59dbff5928092309d4",
+    "sha1": "9aec3771464d89be09fdb5816583dd6b2058746b",
     "station": {
       "address": "Příhon 943",
       "city": "Čejkovice",
@@ -8055,6 +8055,72 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "167838"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-04-10T22:01:52.787Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "322",
+                "323"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.9022758",
+            "longitude": "16.9466708"
+          },
+          "evse_id": "CZ*EON*E22184149*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "184149"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-04-10T22:01:52.787Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "322",
+                "323"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.9022758",
+            "longitude": "16.9466708"
+          },
+          "evse_id": "CZ*EON*E22184149*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "184150"
         }
       ],
       "facilities": [

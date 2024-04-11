@@ -33283,7 +33283,7 @@
   },
   "190181": {
     "name": "WB016 - Ostrava - OC Koksovna - 2",
-    "sha1": "f12ffeb54af76cecfa0b4cbd3bfbb2a37ed151b0",
+    "sha1": "64e071746853749bf9818975d07ce298a2d41aa6",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -33332,7 +33332,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/img_7838.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/04/img_9987.jpg"
         }
       ],
       "instructions": null,
@@ -33437,6 +33437,106 @@
       ],
       "instructions": null,
       "name": "WB017 - Ostrava - OC Koksovna - 3",
+      "visible": true
+    }
+  },
+  "190234": {
+    "name": "PS001 - Žďár nad Sázavou - Auto . . ., s.r.o.",
+    "sha1": "aad28238d84c6e80793bcd9818b56b750d3948f3",
+    "station": {
+      "address": {
+        "city": "Žďár nad Sázavou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2118/67",
+        "latitude": 49.555536,
+        "longitude": 15.939091,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Nádražní",
+        "url": ""
+      },
+      "customID": "190234",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "PS001"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/04/img_9987.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "PS001 - Žďár nad Sázavou - Auto . . ., s.r.o.",
+      "visible": true
+    }
+  },
+  "190235": {
+    "name": "PS003 - Olomouc - Auto Hégr",
+    "sha1": "76c5c072b49c8f76cea0316aa437b7f9f0842d53",
+    "station": {
+      "address": {
+        "city": "Olomouc 9",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.5855208,
+        "longitude": 17.2274969,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rošického",
+        "url": ""
+      },
+      "customID": "190235",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "PS003"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/04/ps003.png"
+        }
+      ],
+      "instructions": null,
+      "name": "PS003 - Olomouc - Auto Hégr",
       "visible": true
     }
   },
