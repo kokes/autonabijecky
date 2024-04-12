@@ -22800,7 +22800,7 @@
   },
   "CZ8626146": {
     "name": "Anastázova - parkoviště",
-    "sha1": "1e1b646ff30a55f33eaa109be270f4f3a6cc0e9e",
+    "sha1": "9b5e81195a00aa30a2442ef949018006b9cbe9bb",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -22821,6 +22821,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65e9836b0a64080f17bad817/1.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,

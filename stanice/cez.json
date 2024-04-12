@@ -33540,6 +33540,152 @@
       "visible": true
     }
   },
+  "190297": {
+    "name": "R624 - Vyškov - Kaufland I.",
+    "sha1": "9fe9a83c6ac17e01a874af07e41d93e59995fbd9",
+    "station": {
+      "address": {
+        "city": "Vyškov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "492/4",
+        "latitude": 49.2742706,
+        "longitude": 16.9950606,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Cukrovarská",
+        "url": ""
+      },
+      "customID": "190297",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R624"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R624"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/04/decc2790-afcf-4123-a841-0162a40b75a9-20240412-000726.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R624 - Vyškov - Kaufland I.",
+      "visible": true
+    }
+  },
+  "190298": {
+    "name": "R625 - Vyškov - Kaufland II.",
+    "sha1": "3e6d9f21e8a528cdadfc378d8bc68b7c7b18595c",
+    "station": {
+      "address": {
+        "city": "Vyškov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "492/4",
+        "latitude": 49.2742706,
+        "longitude": 16.9950606,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Cukrovarská",
+        "url": ""
+      },
+      "customID": "190298",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R625"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R625"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/04/decc2790-afcf-4123-a841-0162a40b75a9.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R625 - Vyškov - Kaufland II.",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
