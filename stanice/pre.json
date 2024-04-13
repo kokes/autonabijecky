@@ -12604,7 +12604,7 @@
   },
   "CZ1004603": {
     "name": "OREA Pyramida II",
-    "sha1": "cfdebf56e6b4ad5db1cfd7639495f432f60cd200",
+    "sha1": "284ed572571700353cf9505f4babf2b02172fde5",
     "station": {
       "additionalInfo": "Parkoviště hotelu Pyramida",
       "branch": "Hotel",
@@ -12620,7 +12620,7 @@
       "csName": "OREA Pyramida II",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Parkoviště hotelu Pyramida / Parking hotel Pyramida",
+      "enAdditionalInfo": "parking fee 50CZK/h or 350CZK/day",
       "enCsname": "OREA Pyramida II",
       "enExtra": "Free of charge for hotel customers, otherwise a parking fee 50CZK/h or 400CZK/day",
       "evseId": "CZ*PRE*E1S8163*2",
@@ -12635,12 +12635,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a4f4b8a750ff799abc/imgonline-com-ua-resize-ahfiu7ppq6agu.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a4f4b8a750ff799abc/imgonline-com-ua-resize-dfyjax1uuvbymdv.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a4f4b8a750ff799abc/imgonline-com-ua-resize-dfyjax1uuvbymdv.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a4f4b8a750ff799abc/imgonline-com-ua-resize-ahfiu7ppq6agu.jpg"
         }
       ],
       "isHome": true,
@@ -22289,6 +22289,46 @@
       "postalCode": "198 00",
       "region": "Hlavní město Praha",
       "street": "Chlumecká 2398"
+    }
+  },
+  "CZ8422641": {
+    "name": "SUAS 3 Sokolov",
+    "sha1": "33bf3453c3fd1c913e820d7afc6cfb2bccd67e7f",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Sokolov",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8422641",
+      "csStatus": "operable",
+      "csType": "",
+      "enCsname": "SUAS 3 Sokolov",
+      "evseId": "CZ*PRE*E1S0070*1",
+      "geoCoord": {
+        "latitude": "50.166207",
+        "longitude": "12.635388"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Connector (Cable Attached)"
+        }
+      ],
+      "postalCode": "356 01",
+      "region": "Karlovarský kraj",
+      "street": "Chebská"
     }
   },
   "CZ8434839": {
