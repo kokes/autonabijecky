@@ -12604,9 +12604,9 @@
   },
   "CZ1004603": {
     "name": "OREA Pyramida II",
-    "sha1": "284ed572571700353cf9505f4babf2b02172fde5",
+    "sha1": "de18ae6b9d92b2de94167a693c8488d8db5e010a",
     "station": {
-      "additionalInfo": "Parkoviště hotelu Pyramida",
+      "additionalInfo": "Parkoviště hotelu Pyramida - parking fee 50CZK/h or 350CZK/day",
       "branch": "Hotel",
       "chargingFacilities": {
         "chargingFacility": [
@@ -12622,9 +12622,7 @@
       "csType": "",
       "enAdditionalInfo": "parking fee 50CZK/h or 350CZK/day",
       "enCsname": "OREA Pyramida II",
-      "enExtra": "Free of charge for hotel customers, otherwise a parking fee 50CZK/h or 400CZK/day",
       "evseId": "CZ*PRE*E1S8163*2",
-      "extra": "Free of charge for hotel customers, otherwise a parking fee 50CZK/h or 400CZK/day",
       "geoCoord": {
         "latitude": "50.086185",
         "longitude": "14.379745"
@@ -19873,13 +19871,13 @@
   },
   "CZ8002602": {
     "name": "Mercedes Ostrava",
-    "sha1": "eb01e641d7d45a35596ad95089311bbf5b75bcbd",
+    "sha1": "98ddeaaf767cbc366abb9317b76e8c8d5e53a242",
     "station": {
       "additionalInfo": "Parking at the car dealership Centrum Moravia",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤150kW"
+          "DC Charging ≤75kW"
         ]
       },
       "city": "Ostrava",
@@ -22430,6 +22428,47 @@
       "street": "Novodvorská 1947/82"
     }
   },
+  "CZ8463636": {
+    "name": "Penta Waltrovka",
+    "sha1": "467d0eaff37b4402c7ebac01dac9958d699ee716",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤75kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8463636",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "Pentra Waltrovka",
+      "enCsname": "Penta Waltrovka",
+      "evseId": "CZ*PRE*E1R0088*2",
+      "geoCoord": {
+        "latitude": "50.057518",
+        "longitude": "14.384886"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "158 00",
+      "region": "Hlavní město Praha",
+      "street": "Radlická 365/154"
+    }
+  },
   "CZ8468957": {
     "name": "LA Zadov",
     "sha1": "c9ca05ad6d97beb3b98d5de113e041e916effda0",
@@ -24334,6 +24373,46 @@
       "street": "Loučimská"
     }
   },
+  "CZ9042128": {
+    "name": "Petřiny",
+    "sha1": "d0deb3ef3fff64411f2eb3c1b6e4840dc33f3f47",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9042128",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Petřiny",
+      "evseId": "CZ*PRE*E1S8152*2",
+      "geoCoord": {
+        "latitude": "50.086787",
+        "longitude": "14.345087"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "162 00",
+      "region": "Hlavní město Praha",
+      "street": "Brunclíkova"
+    }
+  },
   "CZ9053605": {
     "name": "TS 1229 Bublíkova",
     "sha1": "d665430b0895b25a3ffc357da97d9d331cf5571e",
@@ -25445,6 +25524,46 @@
       "postalCode": "16500",
       "region": "Hlavní město Praha",
       "street": "Stehlíkova"
+    }
+  },
+  "CZ9299373": {
+    "name": "Poliklinika Studenský Dům",
+    "sha1": "4369aa2248ccabb15d121cc0236fabac29cd0060",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9299373",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Poliklinika Studenský Dům",
+      "evseId": "CZ*PRE*E1S8240*2",
+      "geoCoord": {
+        "latitude": "50.106092",
+        "longitude": "14.388876"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "160 00",
+      "region": "Hlavní město Praha",
+      "street": "Bechyňova"
     }
   },
   "CZ9334395": {

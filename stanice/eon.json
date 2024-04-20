@@ -2946,13 +2946,13 @@
   },
   "117362": {
     "name": "(P) Zámeček Skrytín",
-    "sha1": "ff69f64fcd66ffae6491f7a4c6b145c5ea186d54",
+    "sha1": "3b93f5f76bf1715b1a68943d1a2cd79353dabd18",
     "station": {
       "address": "Dobkovice 40",
       "city": "Dobkovice",
       "coordinates": {
-        "latitude": "50.6944844",
-        "longitude": "14.1876231"
+        "latitude": "50.6944128",
+        "longitude": "14.1865219"
       },
       "country": "CZE",
       "country_code": "CZ",
@@ -2971,7 +2971,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2023-02-20T23:01:00.683Z",
+              "last_updated": "2024-04-16T18:06:39.963Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -2979,13 +2979,15 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "194",
-                "195"
+                "195",
+                "342",
+                "343"
               ]
             }
           ],
           "coordinates": {
-            "latitude": "50.6944844",
-            "longitude": "14.1876231"
+            "latitude": "50.6944128",
+            "longitude": "14.1865219"
           },
           "evse_id": "CZ*EON*E22117362*1",
           "last_seen_as_planned": "2022-08-24T06:42:39.693Z",
