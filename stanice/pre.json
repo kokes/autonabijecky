@@ -27004,6 +27004,46 @@
       "street": "Letecká 2"
     }
   },
+  "CZ9807912": {
+    "name": "Černý Most - Bryksova",
+    "sha1": "adb388762b47e403855a12d4382a77bf214fa250",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9807912",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Černý Most - Bryksova",
+      "evseId": "CZ*PRE*E1S8241*2",
+      "geoCoord": {
+        "latitude": "50.104354",
+        "longitude": "14.585402"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "198 00",
+      "region": "Hlavní město Praha",
+      "street": "Bryksova"
+    }
+  },
   "CZ9828596": {
     "name": "Lovosická 2",
     "sha1": "fb20c215f21518cc789cd8b36d463b31f6778c21",

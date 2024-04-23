@@ -17608,7 +17608,7 @@
   },
   "252321": {
     "name": "(P) GUMEX spol. s r.o. - Brno",
-    "sha1": "ac50c3106597d91d3d7cf2edc9db8a96d711c5e4",
+    "sha1": "e91389b4b8ba3c79b126873dd1777040e80bd9ba",
     "station": {
       "address": "Kaštanová 555/125d",
       "city": "Brno",
@@ -17664,7 +17664,34 @@
       "last_updated": "RESET",
       "name": "(P) GUMEX spol. s r.o. - Brno",
       "opening_times": {
-        "twentyfourseven": true
+        "regular_hours": [
+          {
+            "period_begin": "6:00",
+            "period_end": "18:00",
+            "weekday": 1
+          },
+          {
+            "period_begin": "6:00",
+            "period_end": "18:00",
+            "weekday": 2
+          },
+          {
+            "period_begin": "6:00",
+            "period_end": "18:00",
+            "weekday": 3
+          },
+          {
+            "period_begin": "6:00",
+            "period_end": "18:00",
+            "weekday": 4
+          },
+          {
+            "period_begin": "6:00",
+            "period_end": "18:00",
+            "weekday": 5
+          }
+        ],
+        "twentyfourseven": false
       },
       "operator": {
         "name": "GUMEX, spol. s r.o."
