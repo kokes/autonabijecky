@@ -40561,11 +40561,11 @@
     }
   },
   "53792": {
-    "name": "E.ON Penny Litomyšl",
-    "sha1": "9b166fd12f786faca7ffc3545626af596a3d0a03",
+    "name": "E.ON Penny Litomyšl 2",
+    "sha1": "ec4e7eee6ab57f00f1a1a270f86613386b49cd5f",
     "station": {
       "address": "Sokolovská 1166",
-      "city": "Litomyšl-Město",
+      "city": "Litomyšl - Město",
       "coordinates": {
         "latitude": "49.8753783",
         "longitude": "16.305855"
@@ -40633,7 +40633,7 @@
             "latitude": "49.8753783",
             "longitude": "16.305855"
           },
-          "evse_id": "CZ*EON*E98053792*1",
+          "evse_id": "CZ*UFC*E98053792*1",
           "last_seen_as_planned": "2021-03-31T10:55:20.217Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -40674,11 +40674,115 @@
             "latitude": "49.8753783",
             "longitude": "16.305855"
           },
-          "evse_id": "CZ*EON*E98053792*2",
+          "evse_id": "CZ*UFC*E98053792*2",
           "last_seen_as_planned": "2021-03-26T08:38:23.98Z",
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "53793"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2024-04-24T22:01:49.737Z",
+              "max_amperage": 125,
+              "max_electric_power": 60000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            },
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2024-04-24T22:01:49.737Z",
+              "max_amperage": 125,
+              "max_electric_power": 60000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.8753783",
+            "longitude": "16.305855"
+          },
+          "evse_id": "CZ*UFC*E98053868*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53868"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2024-04-24T22:01:49.737Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.8753783",
+            "longitude": "16.305855"
+          },
+          "evse_id": "CZ*UFC*E98053868*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "53869"
         }
       ],
       "facilities": [
@@ -40687,7 +40791,7 @@
       ],
       "id": "53792",
       "last_updated": "RESET",
-      "name": "E.ON Penny Litomyšl",
+      "name": "E.ON Penny Litomyšl 2",
       "opening_times": {
         "twentyfourseven": true
       },
