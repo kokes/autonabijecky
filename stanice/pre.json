@@ -24285,7 +24285,7 @@
   },
   "CZ9029422": {
     "name": "MČ Praha Slivenec",
-    "sha1": "2903778c05e84c3c8de9960e8b830e6c23646459",
+    "sha1": "7a1fe0f2a478825a99063b77120fbc8021527d74",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -24306,6 +24306,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cdd7bf0a64080f17bad0e4/1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cdd7bf0a64080f17bad0e4/2.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
