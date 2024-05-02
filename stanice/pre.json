@@ -25805,6 +25805,46 @@
       "street": "Sobí"
     }
   },
+  "CZ9429238": {
+    "name": "Parkoviště Poliklinika Prosek",
+    "sha1": "5a00e4396b8c00e8d4afd6b3d0c8444c42c1d40a",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha 9",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9429238",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Parkoviště Poliklinika Prosek",
+      "evseId": "CZ*PRE*E1S8303*2",
+      "geoCoord": {
+        "latitude": "50.127668",
+        "longitude": "14.490991"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "190 00",
+      "region": "Hlavní město Praha",
+      "street": "Lovosická 440"
+    }
+  },
   "CZ9429409": {
     "name": "EuroOil Zdice",
     "sha1": "d2c5e85c1a1a0e29d7ae6ba6104709b4818fb1a7",
@@ -26727,6 +26767,46 @@
       "postalCode": "10000",
       "region": "Hlavní město Praha",
       "street": "Omská"
+    }
+  },
+  "CZ9703820": {
+    "name": "MŠ Šebelova",
+    "sha1": "46b5321db57958d896f64bc8711d1a0e09ae9d0f",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9703820",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "MŠ Šebelova",
+      "evseId": "CZ*PRE*E1S8304*2",
+      "geoCoord": {
+        "latitude": "50.105204",
+        "longitude": "14.571082"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "198 00",
+      "region": "Hlavní město Praha",
+      "street": "Šebelova 2"
     }
   },
   "CZ9711680": {

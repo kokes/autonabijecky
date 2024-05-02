@@ -16129,7 +16129,7 @@
   },
   "24570": {
     "name": "(P) Hotel Troyer",
-    "sha1": "b7145f2127dbb482cdc4c07d3b4d4e43483a80c7",
+    "sha1": "76a5883b861468e52cba6c866539377f691157ce",
     "station": {
       "address": "Trojanovice 530",
       "city": "Frenštát po Radhoštěm",
@@ -16154,7 +16154,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2020-12-16T13:06:48.043Z",
+              "last_updated": "2024-05-01T11:37:56.98Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -16162,7 +16162,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "41",
-                "42"
+                "42",
+                "344",
+                "345"
               ]
             }
           ],
@@ -16187,7 +16189,7 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2020-12-16T13:06:48.043Z",
+              "last_updated": "2024-05-01T11:37:56.98Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -16195,7 +16197,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "41",
-                "42"
+                "42",
+                "344",
+                "345"
               ]
             }
           ],
