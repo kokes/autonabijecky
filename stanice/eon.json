@@ -49097,7 +49097,7 @@
   },
   "66856": {
     "name": "(P) Teplárna Liberec a.s.",
-    "sha1": "567f95fcabdbf862dada369366ef09de234d3e1f",
+    "sha1": "a8f39f9b670f7b03a7a52ea7e73e470502975bc2",
     "station": {
       "address": "Dr. Milady Horákové 641/34a",
       "city": "Liberec IV-Perštýn",
@@ -49121,19 +49121,44 @@
           "connectors": [
             {
               "format": "CABLE",
+              "id": "3",
+              "last_updated": "2024-05-02T22:01:59.09Z",
+              "max_amperage": 125,
+              "max_electric_power": 150000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": []
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.758022",
+            "longitude": "15.059655"
+          },
+          "evse_id": "CZ*EON*E32066856*3",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "246196"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
               "id": "1",
-              "last_updated": "2022-03-25T11:11:15.173Z",
+              "last_updated": "2024-05-02T22:01:59.09Z",
               "max_amperage": 250,
-              "max_electric_power": 75000,
+              "max_electric_power": 150000,
               "max_voltage": 1000,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": [
-                "110",
-                "112",
-                "158",
-                "159"
-              ]
+              "tariff_ids": []
             }
           ],
           "coordinates": {
