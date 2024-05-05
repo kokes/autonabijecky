@@ -49097,7 +49097,7 @@
   },
   "66856": {
     "name": "(P) Teplárna Liberec a.s.",
-    "sha1": "a8f39f9b670f7b03a7a52ea7e73e470502975bc2",
+    "sha1": "c89f053c90480d87fa7aad14f1197e2be7ef88f1",
     "station": {
       "address": "Dr. Milady Horákové 641/34a",
       "city": "Liberec IV-Perštýn",
@@ -49122,13 +49122,18 @@
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2024-05-02T22:01:59.09Z",
+              "last_updated": "2024-05-04T22:01:48.8Z",
               "max_amperage": 125,
-              "max_electric_power": 150000,
+              "max_electric_power": 22000,
               "max_voltage": 500,
-              "power_type": "DC",
-              "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": []
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "109",
+                "111",
+                "156",
+                "157"
+              ]
             }
           ],
           "coordinates": {
@@ -49182,18 +49187,13 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2022-03-25T11:07:39.197Z",
+              "last_updated": "2024-05-04T22:01:48.8Z",
               "max_amperage": 32,
-              "max_electric_power": 22000,
+              "max_electric_power": 150000,
               "max_voltage": 400,
-              "power_type": "AC_3_PHASE",
-              "standard": "IEC_62196_T2",
-              "tariff_ids": [
-                "109",
-                "111",
-                "156",
-                "157"
-              ]
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": []
             }
           ],
           "coordinates": {
