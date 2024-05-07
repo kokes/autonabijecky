@@ -9575,6 +9575,129 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "184153": {
+    "name": "(P) Zvíkov Village Kemp",
+    "sha1": "e27d879afe81bc3a7a63ca1c9601af94eb19a037",
+    "station": {
+      "address": "Zvíkovské Podhradí 8",
+      "city": "Zvíkovské Podhradí",
+      "coordinates": {
+        "latitude": "49.4291011",
+        "longitude": "14.1974094"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-05-06T14:08:21.47Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "346",
+                "347"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.4291011",
+            "longitude": "14.1974094"
+          },
+          "evse_id": "CZ*EON*E22184153*1",
+          "last_seen_as_planned": "2024-05-06T14:08:21.47Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "184153"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-05-06T14:08:21.47Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "346",
+                "347"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.4291011",
+            "longitude": "14.1974094"
+          },
+          "evse_id": "CZ*EON*E22184153*2",
+          "last_seen_as_planned": "2024-05-06T14:08:21.47Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "184154"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "CAFE",
+        "SPORT",
+        "RECREATION_AREA",
+        "NATURE",
+        "PARKING_LOT",
+        "WIFI"
+      ],
+      "id": "184153",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpeg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/184509/8630751715003708.jpeg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) Zvíkov Village Kemp",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "WFX Direction s.r.o."
+      },
+      "owner": {
+        "name": "WFX Direction s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "39701",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "18874": {
     "name": "(P) Amenity Resort Lipno",
     "sha1": "eb42bad74924f094e7047846a3ff54b0b6a847ee",
