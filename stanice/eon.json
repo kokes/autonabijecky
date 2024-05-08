@@ -24177,7 +24177,7 @@
   },
   "35757": {
     "name": "(P) Autocentrum DAVO CAR Olbramovice",
-    "sha1": "9ec93eeb093ce8b3bea900a7b62a6a3f0fd418e3",
+    "sha1": "20d15e1ce88807c87dae11cf6185cbd2f5b09bd5",
     "station": {
       "address": "Autocenturm DAVO CAR Olbramovice 203",
       "city": "Olbramovice",
@@ -24221,6 +24221,7 @@
             "longitude": "14.6382944"
           },
           "evse_id": "CZ*EON*E32035757*1",
+          "floor_level": "",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -24256,6 +24257,7 @@
             "longitude": "14.6382944"
           },
           "evse_id": "CZ*EON*E32035757*2",
+          "floor_level": "",
           "last_seen_as_planned": null,
           "last_updated": "RESET",
           "status": "RESET",
@@ -24334,7 +24336,8 @@
       ],
       "facilities": [
         "CAFE",
-        "FUEL_STATION"
+        "FUEL_STATION",
+        "PARKING_LOT"
       ],
       "id": "35757",
       "images": [
@@ -24361,6 +24364,36 @@
       ],
       "last_updated": "RESET",
       "name": "(P) Autocentrum DAVO CAR Olbramovice",
+      "opening_times": {
+        "regular_hours": [
+          {
+            "period_begin": "5:00",
+            "period_end": "21:00",
+            "weekday": 1
+          },
+          {
+            "period_begin": "5:00",
+            "period_end": "21:00",
+            "weekday": 2
+          },
+          {
+            "period_begin": "5:00",
+            "period_end": "21:00",
+            "weekday": 3
+          },
+          {
+            "period_begin": "5:00",
+            "period_end": "21:00",
+            "weekday": 4
+          },
+          {
+            "period_begin": "5:00",
+            "period_end": "21:00",
+            "weekday": 5
+          }
+        ],
+        "twentyfourseven": false
+      },
       "operator": {
         "name": "E.ON Energie, a.s."
       },
