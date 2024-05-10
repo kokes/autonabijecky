@@ -20950,7 +20950,7 @@
   },
   "CZ8135268": {
     "name": "Hotel Hybernská",
-    "sha1": "1f0c7470d1b70a785fca3acdabef9ee1788b197d",
+    "sha1": "8ae7bb239dd73c6f831b5c079b68444a3c3148c7",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -20983,14 +20983,14 @@
           "plug": "CCS Combo 2 Plug (Cable Attached)"
         }
       ],
-      "postalCode": "110 00",
+      "postalCode": "11000",
       "region": "Hlavní město Praha",
       "street": "Hybernská"
     }
   },
   "CZ8140336": {
     "name": "Hornbach Svinov",
-    "sha1": "f2e6347b0395e70b5ad55de0a95e1215f1b5fae7",
+    "sha1": "6ad0156fcba93ab4fc204c0a751f7751a9feb8a3",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -21025,16 +21025,15 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "721 00",
+      "postalCode": "72100",
       "region": "Moravskoslezský kraj",
       "street": "Bílovecká 3"
     }
   },
   "CZ8142276": {
     "name": "Corso Court Karlín",
-    "sha1": "2a565f1ad80c01c74c852c67f522fb8a1ef4f127",
+    "sha1": "de569bf428941e1b0c2c098b18c0e2e1329be901",
     "station": {
-      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -21044,7 +21043,6 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8142276",
-      "csName": "",
       "csStatus": "operable",
       "csType": "",
       "enCsname": "Corso Court Karlín",
@@ -21079,7 +21077,7 @@
           "plug": "CHAdeMO"
         }
       ],
-      "postalCode": "186 00",
+      "postalCode": "18600",
       "region": "Hlavní město Praha",
       "street": "Pernerova 697"
     }
@@ -21189,7 +21187,7 @@
   },
   "CZ8170367": {
     "name": "Pražačka",
-    "sha1": "85a12a951a8c9f651d66d131c07f4086317b8f1a",
+    "sha1": "7d523df9060832006d0e0f5287f8c5552ea0a8a4",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -21222,7 +21220,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "130 00",
+      "postalCode": "13000",
       "region": "Hlavní město Praha",
       "street": "Za Žižkovskou vozovnou 2716/19"
     }
@@ -21376,7 +21374,7 @@
   },
   "CZ8229367": {
     "name": "Parkoviště u Prioru",
-    "sha1": "5c060aa44ac0f1a92a4813cd6d56628326a6d43c",
+    "sha1": "46a217b8268796b9bec5ee97864c7f161e36d4bc",
     "station": {
       "additionalInfo": "u vstupu do metra",
       "chargingFacilities": {
@@ -21419,7 +21417,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "143 00",
+      "postalCode": "14300",
       "region": "Hlavní město Praha",
       "street": "Gen. Šišky"
     }
@@ -21524,7 +21522,7 @@
   },
   "CZ8252875": {
     "name": "Vlakové nádraží Praha Vysočany",
-    "sha1": "87736cc528d4fab2498faac45a988a3a3f8be438",
+    "sha1": "2925e7ac3e44b476fc2e32e72047da1413c4fa72",
     "station": {
       "additionalInfo": "Vlakové nádraží Praha Vysočany",
       "chargingFacilities": {
@@ -21571,7 +21569,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "190 00",
+      "postalCode": "19000",
       "region": "Hlavní město Praha",
       "street": "Pešlova"
     }
@@ -21627,7 +21625,7 @@
   },
   "CZ8278104": {
     "name": "Auto Toman Třinec",
-    "sha1": "c5e0fcadfc419f4e8d107a2de0090536c18ccd0d",
+    "sha1": "c84f240669e1534b6017b876ac9f748284c798ab",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -21661,17 +21659,16 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "739 61",
+      "postalCode": "73961",
       "region": "Moravskoslezský kraj",
       "street": "Lidická 166"
     }
   },
   "CZ8280333": {
     "name": "Hornbach Hradec Králové",
-    "sha1": "5ae92cf55423bb994eb13e04e1ae1aa935236974",
+    "sha1": "9efba3781152962bb31df8e325536b46f7c0c9a4",
     "station": {
       "additionalInfo": "Parkování na parkovišti Hornbach",
-      "branch": "Unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -21681,7 +21678,6 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8280333",
-      "csName": "",
       "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "Hornbach hobby market parking lots",
@@ -21717,7 +21713,7 @@
           "plug": "CHAdeMO"
         }
       ],
-      "postalCode": "500 02",
+      "postalCode": "50002",
       "region": "Královéhradecký kraj",
       "street": "Rovná"
     }
@@ -21921,7 +21917,7 @@
   },
   "CZ8337812": {
     "name": "Residence Nové Modřany",
-    "sha1": "a4a15de09f2a05344f4539737fb42ba1b6d01145",
+    "sha1": "d731cb081d456bd60c1a2b453e8d7ff3c81789ee",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -21954,14 +21950,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "143 00",
+      "postalCode": "14300",
       "region": "Hlavní město Praha",
       "street": "Zlochova"
     }
   },
   "CZ8376935": {
     "name": "Parkoviště Pankrác",
-    "sha1": "589c71af236a75f3e52edc2e85916446ffe6b944",
+    "sha1": "07c3852ec718aa9dcab140bce637abf63c94044c",
     "station": {
       "additionalInfo": "Parkoviště naproti Arkády Pankrác",
       "chargingFacilities": {
@@ -21996,7 +21992,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "140 00",
+      "postalCode": "14000",
       "region": "Hlavní město Praha",
       "street": "Hvězdova"
     }
@@ -22053,7 +22049,7 @@
   },
   "CZ8392692": {
     "name": "TS 4141 Bezová",
-    "sha1": "34bb36fa200cf5ade3c1dbbcbc5da1d962138677",
+    "sha1": "5ad0def78169900fecd37b02a927f74592a04eb2",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -22086,7 +22082,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "147 00",
+      "postalCode": "14700",
       "region": "Hlavní město Praha",
       "street": "Bezová"
     }
@@ -22192,7 +22188,7 @@
   },
   "CZ8414922": {
     "name": "Hornbach Černý most",
-    "sha1": "13ae4fd7e2681182939bb964b4184e909e4d3180",
+    "sha1": "a7ff14345e8db58c2451eec33aa94f4a503d15b0",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -22217,22 +22213,22 @@
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/655b5478b00b887ef007ecf0/1.jpeg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpeg",
           "uri": "https://images.smatrics-api.com/public-images/ChargingSite/655b5478b00b887ef007ecf0/2.jpeg"
         },
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/655b5478b00b887ef007ecf0/3.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/655b5478b00b887ef007ecf0/1.jpeg"
         },
         {
           "class": "locationPhoto",
           "type": "jpeg",
           "uri": "https://images.smatrics-api.com/public-images/ChargingSite/655b5478b00b887ef007ecf0/4.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/655b5478b00b887ef007ecf0/3.jpeg"
         }
       ],
       "isHome": true,
@@ -22284,14 +22280,14 @@
           "plug": "CCS Combo 2 Plug (Cable Attached)"
         }
       ],
-      "postalCode": "198 00",
+      "postalCode": "19800",
       "region": "Hlavní město Praha",
       "street": "Chlumecká 2398"
     }
   },
   "CZ8422641": {
     "name": "SUAS 3 Sokolov",
-    "sha1": "33bf3453c3fd1c913e820d7afc6cfb2bccd67e7f",
+    "sha1": "53a40d115d0ab685f04b9881ed0fd0f335342012",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -22324,7 +22320,7 @@
           "plug": "Type 2 Connector (Cable Attached)"
         }
       ],
-      "postalCode": "356 01",
+      "postalCode": "35601",
       "region": "Karlovarský kraj",
       "street": "Chebská"
     }
@@ -22430,7 +22426,7 @@
   },
   "CZ8463636": {
     "name": "Penta Waltrovka",
-    "sha1": "467d0eaff37b4402c7ebac01dac9958d699ee716",
+    "sha1": "61ae2623065fc8fb660e786d6f00ba8e657b3681",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -22464,14 +22460,14 @@
           "plug": "CCS Combo 2 Plug (Cable Attached)"
         }
       ],
-      "postalCode": "158 00",
+      "postalCode": "15800",
       "region": "Hlavní město Praha",
       "street": "Radlická 365/154"
     }
   },
   "CZ8468957": {
     "name": "LA Zadov",
-    "sha1": "c9ca05ad6d97beb3b98d5de113e041e916effda0",
+    "sha1": "6ad075a795cad5d6f3de427a3d813e31a2bf9c46",
     "station": {
       "additionalInfo": "proti ski centru",
       "chargingFacilities": {
@@ -22519,7 +22515,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "384 73",
+      "postalCode": "38473",
       "region": "Jihočeský kraj",
       "street": "Zadov 162"
     }
@@ -22625,7 +22621,7 @@
   },
   "CZ8523914": {
     "name": "ČSOB Hradec Králové 2",
-    "sha1": "2100d36b090816bde0a185e4196433733998bdb9",
+    "sha1": "d6b41ff7c28d0458d8b5d5a7ddb33d5c97c7e76f",
     "station": {
       "additionalInfo": "parkoviště před ČSOB",
       "branch": "Parken",
@@ -22654,12 +22650,12 @@
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/646777bc4fbd383ca8b4341c/csob1.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/646777bc4fbd383ca8b4341c/csob2.jpeg"
         },
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/646777bc4fbd383ca8b4341c/csob2.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/646777bc4fbd383ca8b4341c/csob1.jpeg"
         }
       ],
       "isHome": true,
@@ -22674,7 +22670,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "500 03",
+      "postalCode": "50003",
       "region": "Královéhradecký kraj",
       "street": "Collinova 573"
     }
@@ -22879,7 +22875,7 @@
   },
   "CZ8626146": {
     "name": "Anastázova - parkoviště",
-    "sha1": "232264797a0356006cc4202ed04aff3f76bf5530",
+    "sha1": "133905dc22fe06a0283cccf50cbe388e7be7b153",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -22919,14 +22915,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "169 00",
+      "postalCode": "16900",
       "region": "Hlavní město Praha",
       "street": "Anastázova"
     }
   },
   "CZ8635878": {
     "name": "Palác Pardubice",
-    "sha1": "6b9dd9a48f28eb17bb9db59cfe5421245e86de89",
+    "sha1": "524a1182afb3196b532af55620228aa3846f98dd",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -22960,14 +22956,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "530 02",
+      "postalCode": "53002",
       "region": "Pardubický kraj",
       "street": "Masarykovo nám. 2799"
     }
   },
   "CZ8653262": {
     "name": "Auto Toman Havířov",
-    "sha1": "a92b7531cc4190539506ce3bbe28aa3385b9faba",
+    "sha1": "00ab6f42bb73d3c4a713e839b4506f4b2db621b0",
     "station": {
       "additionalInfo": "Auto Toman Havířov",
       "chargingFacilities": {
@@ -23002,7 +22998,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "736 01",
+      "postalCode": "73601",
       "region": "Moravskoslezský kraj",
       "street": "Dlouhá tř. 65"
     }
@@ -23106,7 +23102,7 @@
   },
   "CZ8689769": {
     "name": "Kardausova AC",
-    "sha1": "00cd726ccfa4ff043c215c764b46acc0472c28cf",
+    "sha1": "486fd7a7472dad5c633b799ece0dabb77db35f57",
     "station": {
       "additionalInfo": "na ulici Kardausova vedle autobusové zastávky",
       "chargingFacilities": {
@@ -23153,14 +23149,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "109 00",
+      "postalCode": "10900",
       "region": "Hlavní město Praha",
       "street": "Kardausova"
     }
   },
   "CZ8718815": {
     "name": "Hornbach Olomouc",
-    "sha1": "030491e8b6de43f601fa4ab92b31eb72cfd5fd5c",
+    "sha1": "64f9a69cb74174fd51e9ab2f03b5d4e46b31a0f5",
     "station": {
       "additionalInfo": "Hornbach Olomouc",
       "chargingFacilities": {
@@ -23196,7 +23192,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "779 00",
+      "postalCode": "77900",
       "region": "Olomoucký kraj",
       "street": "Rolsberská"
     }
@@ -23253,8 +23249,9 @@
   },
   "CZ8747449": {
     "name": "OMV Karlovy Vary",
-    "sha1": "57353cb94b9a2c9b7f5a5d17757e27edcad9ace8",
+    "sha1": "6194acf32ec10f698cbcc335988b46e3ac20771c",
     "station": {
+      "additionalInfo": "Stanice umístěna u OMV čerpací stanice",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -23266,6 +23263,7 @@
       "csId": "CZ8747449",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Stanice umístěna u OMV čerpací stanice / By the OMV gas station",
       "enCsname": "OMV Karlovy Vary",
       "evseId": "CZ*PRE*E1R5005*2",
       "geoCoord": {
@@ -23274,6 +23272,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/655b5840b00b887ef007ed0a/2.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/655b5840b00b887ef007ed0a/1.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -23286,14 +23296,14 @@
           "plug": "CHAdeMO"
         }
       ],
-      "postalCode": "360 05",
+      "postalCode": "36005",
       "region": "Karlovarský kraj",
       "street": "Pobřežní"
     }
   },
   "CZ8791907": {
     "name": "Karlštejn parkoviště",
-    "sha1": "604d3562ced10459957cd0b3d042996415ee2acb",
+    "sha1": "56b35b83b5a7a0a4a1961125bc572b443fb36388",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -23326,7 +23336,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "267 18",
+      "postalCode": "26718",
       "region": "Středočeský kraj",
       "street": "silnice 116"
     }
@@ -23530,7 +23540,7 @@
   },
   "CZ8901519": {
     "name": "TS 5065 Božetická",
-    "sha1": "f4d7b91d25240aa7e020e4007d281aadbd4112a5",
+    "sha1": "ce989cd64799f884a240b3b6ea4a70deb47bd935",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -23563,7 +23573,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "143 00",
+      "postalCode": "14300",
       "region": "Hlavní město Praha",
       "street": "Božetická"
     }
@@ -23878,7 +23888,7 @@
   },
   "CZ8996743": {
     "name": "Chudenická",
-    "sha1": "7236cf5f8bbb69a41744e1dbf6d2fe72d427efb3",
+    "sha1": "4759e250cc58771353ccd24d3e21b5a19420a2a9",
     "station": {
       "additionalInfo": "u trafostanice TS 3617 Chudenická",
       "chargingFacilities": {
@@ -23921,14 +23931,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "102 00",
+      "postalCode": "10200",
       "region": "Hlavní město Praha",
       "street": "Chudenická"
     }
   },
   "CZ9001721": {
     "name": "Park Holiday Hotel Benice",
-    "sha1": "0ecacff768cee59e85d19dafae2fd5feeb0bca69",
+    "sha1": "cc9fbb1fc4ee26403c94ec49e72aad40545e8022",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -23961,7 +23971,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "103 00",
+      "postalCode": "10300",
       "region": "Hlavní město Praha",
       "street": "Květnového povstání"
     }
@@ -24032,9 +24042,9 @@
   },
   "CZ9010237": {
     "name": "OREA Devět Skal",
-    "sha1": "763c71c14ab5f13ef576a4522e374b50dbc92351",
+    "sha1": "23c429da28c3521a784264fc2b7a0a3725f50f13",
     "station": {
-      "additionalInfo": "10min kostenlos, dann 30CZK/Stunde, für OREA-Hotelkunden Info an der Rezeption",
+      "additionalInfo": "10min zdarma poté 30,-Kč/1h  pro zákazníky OREA hotelu info na recepci",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -24060,12 +24070,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649aba35f6cf7d59263f50d0/imgonline-com-ua-resize-evJywYWJab3cAr.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649aba35f6cf7d59263f50d0/imgonline-com-ua-resize-Zyt9SAA9zL9K3xo.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649aba35f6cf7d59263f50d0/imgonline-com-ua-resize-Zyt9SAA9zL9K3xo.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649aba35f6cf7d59263f50d0/imgonline-com-ua-resize-evJywYWJab3cAr.jpg"
         }
       ],
       "isHome": true,
@@ -24080,17 +24090,16 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "592 02",
+      "postalCode": "59202",
       "region": "Kraj Vysočina",
       "street": "Milovy 11"
     }
   },
   "CZ9012327": {
     "name": "Komořanské náměstí",
-    "sha1": "2e351807a69152cf276c4bcff98bf58b6fd32070",
+    "sha1": "111de9827b672029becb1ecef1b0971f53a9b359",
     "station": {
       "additionalInfo": "na horní části Komořanského náměstí",
-      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -24103,7 +24112,7 @@
       "csName": "Komořanské náměstí",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "na horní části Komořanského náměstí",
+      "enAdditionalInfo": "na horní části Komořanského náměstí / on the upper part of Komořanské náměstí",
       "enCsname": "Komořanské náměstí",
       "evseId": "CZ*PRE*E1S8216*2",
       "geoCoord": {
@@ -24131,7 +24140,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "143 00",
+      "postalCode": "14300",
       "region": "Hlavní město Praha",
       "street": "Komořanská"
     }
@@ -24285,7 +24294,7 @@
   },
   "CZ9029422": {
     "name": "MČ Praha Slivenec",
-    "sha1": "7a1fe0f2a478825a99063b77120fbc8021527d74",
+    "sha1": "3145842c153780e376819e78567f55b87fa73fb5",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -24330,14 +24339,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "154000",
+      "postalCode": "15400",
       "region": "Hlavní město Praha",
       "street": "Ke Smíchovu"
     }
   },
   "CZ9034292": {
     "name": "Loučimská",
-    "sha1": "ac434361e2af12a7ce58e6c2c8103c57b96b5f18",
+    "sha1": "b1b23bf7eb18c09d1cd9b40ddf4599cc6ac21192",
     "station": {
       "additionalInfo": "Parkoviště u fotbalového a basketbalového hřiště",
       "chargingFacilities": {
@@ -24380,14 +24389,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "102 00",
+      "postalCode": "10200",
       "region": "Hlavní město Praha",
       "street": "Loučimská"
     }
   },
   "CZ9042128": {
     "name": "Petřiny",
-    "sha1": "d0deb3ef3fff64411f2eb3c1b6e4840dc33f3f47",
+    "sha1": "a78cbe3ca479180e11295b259c28092c9fd50cb8",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -24420,14 +24429,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "162 00",
+      "postalCode": "16200",
       "region": "Hlavní město Praha",
       "street": "Brunclíkova"
     }
   },
   "CZ9053605": {
     "name": "TS 1229 Bublíkova",
-    "sha1": "d665430b0895b25a3ffc357da97d9d331cf5571e",
+    "sha1": "97956fbef85777946c7887622abebcd204dbf6f1",
     "station": {
       "additionalInfo": "u trafostanice",
       "chargingFacilities": {
@@ -24470,7 +24479,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "182 00",
+      "postalCode": "18200",
       "region": "Hlavní město Praha",
       "street": "Bublíkova"
     }
@@ -24576,7 +24585,7 @@
   },
   "CZ9100366": {
     "name": "RS 3820 Dýšinská",
-    "sha1": "0c04b5cf3733a5cba2655163c35b138a303d2023",
+    "sha1": "1adda3772b6a44e8bb285d249a0749a7310df364",
     "station": {
       "additionalInfo": "Trafostanice na ulici Dýšinská",
       "chargingFacilities": {
@@ -24603,12 +24612,12 @@
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65785af0b00b887ef007f73a/1.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65785af0b00b887ef007f73a/2.jpeg"
         },
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65785af0b00b887ef007f73a/2.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65785af0b00b887ef007f73a/1.jpeg"
         }
       ],
       "isHome": true,
@@ -24623,14 +24632,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "109 00",
+      "postalCode": "10900",
       "region": "Hlavní město Praha",
       "street": "Dýšinská"
     }
   },
   "CZ9101830": {
     "name": "DOCK IN",
-    "sha1": "e834d4b167dcfcd3850e00d457bb98e861eea8fb",
+    "sha1": "0d8b2f003eb866c0ba03acc1c0afc3d63b2d013b",
     "station": {
       "additionalInfo": "Parkování zdarma při nabíjení max 2h, lístek za parkování lze validovat na recepci.",
       "chargingFacilities": {
@@ -24677,7 +24686,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "180 00",
+      "postalCode": "18000",
       "region": "Hlavní město Praha",
       "street": "Boudníkova 2506/1"
     }
@@ -24837,7 +24846,7 @@
   },
   "CZ9125942": {
     "name": "EuroOil Benešov",
-    "sha1": "3ae5e2047f869cb28b2e9622344c1758eceb570f",
+    "sha1": "01a462f07ff98c0632427243cff79b80b99badee",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -24863,12 +24872,12 @@
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/653fadf6bfed5643ae7e0a48/1.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/653fadf6bfed5643ae7e0a48/2.jpeg"
         },
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/653fadf6bfed5643ae7e0a48/2.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/653fadf6bfed5643ae7e0a48/1.jpeg"
         }
       ],
       "isHome": true,
@@ -24883,14 +24892,14 @@
           "plug": "CHAdeMO"
         }
       ],
-      "postalCode": "256 01",
+      "postalCode": "25601",
       "region": "Středočeský kraj",
       "street": "Vlašimská"
     }
   },
   "CZ9147519": {
     "name": "TS 4783 U Slovanky",
-    "sha1": "b77fe6a425bf9054c3f12eb1309a36f8f528655b",
+    "sha1": "ac5c1d3fe9df1556b9447a758e369c12ba31e173",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -24923,7 +24932,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "182 00",
+      "postalCode": "18200",
       "region": "Hlavní město Praha",
       "street": "U Slovanky"
     }
@@ -25227,7 +25236,7 @@
   },
   "CZ9271891": {
     "name": "Národní 2",
-    "sha1": "41e6576509aa20ef97724ffbdd9c3b90d47fc3a5",
+    "sha1": "7b67e4c589e7b866bb2adbeac7ed6dd32024aa36",
     "station": {
       "additionalInfo": "Před obchodem Vuch",
       "chargingFacilities": {
@@ -25269,14 +25278,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "110 00",
+      "postalCode": "11000",
       "region": "Hlavní město Praha",
       "street": "Národní"
     }
   },
   "CZ9272773": {
     "name": "Pečovatelská služba",
-    "sha1": "99a38c9961e3975a8d6fecf68bd1f30d3121814c",
+    "sha1": "bf256ba0160f85fdb6357c8d52b8fef34df3c87e",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -25309,14 +25318,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "130 00",
+      "postalCode": "13000",
       "region": "Hlavní město Praha",
       "street": "Komenského nám."
     }
   },
   "CZ9273004": {
     "name": "SUAS 2 Tisá",
-    "sha1": "c78f2295ad3f30f929f3048bd956b2db4ab606dc",
+    "sha1": "da523c79c7af95d7e1b1fd7aaaf6d02f6dadab03",
     "station": {
       "additionalInfo": "Resort hotel COUNTRY HOUSE",
       "chargingFacilities": {
@@ -25351,14 +25360,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "403 36",
+      "postalCode": "40336",
       "region": "Ústecký kraj",
       "street": "Tisá"
     }
   },
   "CZ9282934": {
     "name": "TS 5032 Koterovská",
-    "sha1": "bd318426426a45620bca219e7a800ee3b5b34e56",
+    "sha1": "6f245fc195e573eb2559ec7cc272ac7a0cf4294f",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -25391,14 +25400,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "155 00",
+      "postalCode": "15500",
       "region": "Hlavní město Praha",
       "street": "Koterovská"
     }
   },
   "CZ9283181": {
     "name": "Hornbach Brno",
-    "sha1": "c7c8957e12bd6ba43d0ccb8a87116481da5a8a26",
+    "sha1": "6fbe73d8d779cb633d7b84e029b357973522c7e2",
     "station": {
       "additionalInfo": "Hornbach Brno",
       "chargingFacilities": {
@@ -25434,14 +25443,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "639 00",
+      "postalCode": "63900",
       "region": "Jihomoravský kraj",
       "street": "Heršpická 3"
     }
   },
   "CZ9283631": {
     "name": "Policie ČR Kongresová",
-    "sha1": "ef86844b2703ab2f1e1e2fb0f5ea42a2e68394ad",
+    "sha1": "67eedf8c43d10e7750d38b8250f87dcbf1d8adb9",
     "station": {
       "additionalInfo": "parkoviště u Policie ČR",
       "chargingFacilities": {
@@ -25483,7 +25492,7 @@
           "plug": "CCS Combo 2 Plug (Cable Attached)"
         }
       ],
-      "postalCode": "140 00",
+      "postalCode": "14000",
       "region": "Hlavní město Praha",
       "street": "Kongresová 2"
     }
@@ -25540,7 +25549,7 @@
   },
   "CZ9299373": {
     "name": "Poliklinika Studenský Dům",
-    "sha1": "4369aa2248ccabb15d121cc0236fabac29cd0060",
+    "sha1": "1ebc3eabea0b67d64743f7f6a71bddeddbb8d915",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -25573,7 +25582,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "160 00",
+      "postalCode": "16000",
       "region": "Hlavní město Praha",
       "street": "Bechyňova"
     }
@@ -25807,7 +25816,7 @@
   },
   "CZ9429238": {
     "name": "Parkoviště Poliklinika Prosek",
-    "sha1": "5a00e4396b8c00e8d4afd6b3d0c8444c42c1d40a",
+    "sha1": "76a24fca873cb2a786b42a1a97c238c99f61494e",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -25840,14 +25849,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "190 00",
+      "postalCode": "19000",
       "region": "Hlavní město Praha",
       "street": "Lovosická 440"
     }
   },
   "CZ9429409": {
     "name": "EuroOil Zdice",
-    "sha1": "d2c5e85c1a1a0e29d7ae6ba6104709b4818fb1a7",
+    "sha1": "0fe8659e915c1ab5dd966e93b12792c0cb1bd902",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -25881,7 +25890,7 @@
           "plug": "CCS Combo 2 Plug (Cable Attached)"
         }
       ],
-      "postalCode": "267 51",
+      "postalCode": "26751",
       "region": "Středočeský kraj",
       "street": "Komenského"
     }
@@ -26074,7 +26083,7 @@
   },
   "CZ9457035": {
     "name": "Chaplinovo náměstí Barrandov",
-    "sha1": "d8cd2324010123b8e0ea5241afbc12b20f426cc8",
+    "sha1": "ded6775ae84987758f4864428301e4e1d94c4d39",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -26107,7 +26116,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "152 00",
+      "postalCode": "15200",
       "region": "Hlavní město Praha",
       "street": "Lohniského"
     }
@@ -26253,10 +26262,9 @@
   },
   "CZ9525097": {
     "name": "Žluté lázně",
-    "sha1": "7a8b2fe0e17140ea7109693f9c4b02b66d7679fc",
+    "sha1": "cdcb2bc16123eac0582130e00d55db05f35448d6",
     "station": {
-      "additionalInfo": "Parking fee after 30 min:  30 CZK/hour,  150 CZK over 5 hours",
-      "branch": "unbekannt",
+      "additionalInfo": "30min zdarma poté 30,-Kč/1h nad 5h.150,-Kč, parkoviště u sport.areálu Žluté lázně",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -26269,7 +26277,7 @@
       "csName": "Žluté lázně",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Parking fee after 30 min:  30 CZK/hour,  150 CZK over 5 hours",
+      "enAdditionalInfo": "30min zdarma poté 30,-Kč/1h nad 5h.150,-Kč, parkoviště u sport.areálu Žluté lázně / 30 min. free, 30 CZK/hour,  150 CZK over 5 hours, Parking lot at the sports complex Žluté lázně",
       "enCsname": "Žluté lázně",
       "evseId": "CZ*PRE*E1S8215*2",
       "geoCoord": {
@@ -26334,14 +26342,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "147 00",
+      "postalCode": "14700",
       "region": "Hlavní město Praha",
       "street": "Podolské nábř. 3"
     }
   },
   "CZ9536865": {
     "name": "Tenisové kurty - Nad Statkem",
-    "sha1": "4a4024a2c18d8f276a63df8af4e2857beccf74a1",
+    "sha1": "b53e6f1af883f01fed7a3b2625d5151f789fcce4",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -26374,7 +26382,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "149 00",
+      "postalCode": "14900",
       "region": "Hlavní město Praha",
       "street": "Nad Statkem"
     }
@@ -26431,7 +26439,7 @@
   },
   "CZ9624272": {
     "name": "SUAS 1 Dolní Rychnov",
-    "sha1": "e8763da80161a6816532951b3f9db259d5e1aa80",
+    "sha1": "c6649891dd04a096d05655b81ef5bd358f2f9038",
     "station": {
       "additionalInfo": "parkoviště Golf Sokolov",
       "chargingFacilities": {
@@ -26467,14 +26475,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "356 04",
+      "postalCode": "35604",
       "region": "Czech republic",
       "street": "Ke Golfu"
     }
   },
   "CZ9628125": {
     "name": "Sídliště Zahradní Město -Jasmínová",
-    "sha1": "9b909bbac18c9f56d4b1f0c15bffd12916bf1ba5",
+    "sha1": "eb5e671db93db8a16377b224debbc580475310d0",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -26507,7 +26515,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "106 00",
+      "postalCode": "10600",
       "region": "Hlavní město Praha",
       "street": "Jasmínová"
     }
@@ -26617,7 +26625,7 @@
   },
   "CZ9656800": {
     "name": "Penny Market Bohúňova",
-    "sha1": "0517bb862aad8a5f0dc4ee848b48c9ad3d24a5ed",
+    "sha1": "fad6263144ec493da06d307e7fb2b165e18f63f2",
     "station": {
       "additionalInfo": "na konci parkoviště Penny",
       "chargingFacilities": {
@@ -26660,7 +26668,7 @@
           "plug": "CHAdeMO"
         }
       ],
-      "postalCode": "149 00",
+      "postalCode": "14900",
       "region": "Hlavní město Praha",
       "street": "Bohúňova 1337"
     }
@@ -26771,7 +26779,7 @@
   },
   "CZ9703820": {
     "name": "MŠ Šebelova",
-    "sha1": "46b5321db57958d896f64bc8711d1a0e09ae9d0f",
+    "sha1": "981c68d25ce615536cc9f2e5ce3b444c0f6527a9",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -26804,14 +26812,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "198 00",
+      "postalCode": "19800",
       "region": "Hlavní město Praha",
       "street": "Šebelova 2"
     }
   },
   "CZ9711680": {
     "name": "TS 3131 Mikulova",
-    "sha1": "cec4ab25e1202eafdc79903ddda116dbe00127be",
+    "sha1": "bed805862e2f13a682a9d2980e62b3018c2ad6cc",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -26844,14 +26852,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "149 00",
+      "postalCode": "14900",
       "region": "Hlavní město Praha",
       "street": "Mikulova"
     }
   },
   "CZ9740461": {
     "name": "V Rozvětu",
-    "sha1": "26cd9ed0987fb7cbf657fe6c5f516fab1bd40b30",
+    "sha1": "cb128a33d2c587a24a17e710597183229cdc8eff",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -26884,14 +26892,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "130 00",
+      "postalCode": "13000",
       "region": "Hlavní město Praha",
       "street": "V Rozkvětu"
     }
   },
   "CZ9749182": {
     "name": "Zahradní Město - Sněženková",
-    "sha1": "51b725d5e3c83cc3ed65b3e85d288ee73bb56352",
+    "sha1": "94472d5b2ea8f9f478efde7fe5f386703ce2f10c",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -26924,14 +26932,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "106 00",
+      "postalCode": "10600",
       "region": "Hlavní město Praha",
       "street": "Hvozdíková"
     }
   },
   "CZ9751918": {
     "name": "OMV Jičínská",
-    "sha1": "bf7b93b441f0af8162d792c1d5b4aef19337af63",
+    "sha1": "1074a5d6e2dba24de7c6688d2bcb0ea674506917",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -26972,7 +26980,7 @@
           "plug": "CCS Combo 2 Plug (Cable Attached)"
         }
       ],
-      "postalCode": "293 01",
+      "postalCode": "29301",
       "region": "Středočeský kraj",
       "street": "Jičínská 1355"
     }
@@ -27029,7 +27037,7 @@
   },
   "CZ9786594": {
     "name": "Automechanika HQ",
-    "sha1": "0d9c18fd05fcd8bc5812f73f9ed2450fc9e0e6fb",
+    "sha1": "14e23287dc024a8776c09a2725e23a96f6ec7bab",
     "station": {
       "additionalInfo": "privátní parkoviště, otevírací hodiny: PO-PÁ 7:00-19:00, SO-NE zavřeno",
       "chargingFacilities": {
@@ -27091,14 +27099,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "796 01",
+      "postalCode": "79601",
       "region": "Olomoucký kraj",
       "street": "Letecká 2"
     }
   },
   "CZ9807912": {
     "name": "Černý Most - Bryksova",
-    "sha1": "adb388762b47e403855a12d4382a77bf214fa250",
+    "sha1": "f386ad203478a705e469f28c145fd3a6926b1326",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -27131,7 +27139,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "198 00",
+      "postalCode": "19800",
       "region": "Hlavní město Praha",
       "street": "Bryksova"
     }
@@ -27343,7 +27351,7 @@
   },
   "CZ9903960": {
     "name": "Lighthouse Holešovice",
-    "sha1": "4a52d65308793ecf305e87a3cc6a148fa83b558a",
+    "sha1": "2f175afba77b1680509c5d19f771749246c39cd0",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -27376,14 +27384,14 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "170 00",
+      "postalCode": "17000",
       "region": "Hlavní město Praha",
       "street": "Bubenské nábřeží"
     }
   },
   "CZ9931493": {
     "name": "TS 3668 Brodského",
-    "sha1": "3730b503a3705f7787176339cd259422ca8e9dba",
+    "sha1": "ed33d3922ae65174b1d63afb5bd1ff6edc37e948",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -27416,7 +27424,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "149 00",
+      "postalCode": "14900",
       "region": "Hlavní město Praha",
       "street": "Brodského"
     }
@@ -27579,7 +27587,7 @@
   },
   "CZ9990470": {
     "name": "Sokolovna Na Balkáně",
-    "sha1": "653977a2136f68edc6c15ba1178b9555ffd615cc",
+    "sha1": "2aad6c5124263ffbb71f955a1c43b6d2e8adbbde",
     "station": {
       "additionalInfo": "Naproti hlavnímu vchodu do Sokol Žižkov",
       "chargingFacilities": {
@@ -27622,7 +27630,7 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "130 00",
+      "postalCode": "13000",
       "region": "Hlavní město Praha",
       "street": "Na balkáně"
     }
