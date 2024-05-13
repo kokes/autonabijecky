@@ -8558,6 +8558,107 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "171059": {
+    "name": "(P) ALBENA Stráž pod Ralskem",
+    "sha1": "222c2debfaacf6e771d58e5be2bac4c079f6d661",
+    "station": {
+      "address": "Sklad",
+      "city": "Sklad",
+      "coordinates": {
+        "latitude": "50.6978433",
+        "longitude": "14.8275897"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-05-12T16:25:25.727Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "348",
+                "349"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.6978433",
+            "longitude": "14.8275897"
+          },
+          "evse_id": "CZ*EON*E22117364*1",
+          "last_seen_as_planned": "2024-05-12T16:25:25.727Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "117364"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-05-12T16:25:25.727Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "348",
+                "349"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.6978433",
+            "longitude": "14.8275897"
+          },
+          "evse_id": "CZ*EON*E22171059*1",
+          "last_seen_as_planned": "2024-05-12T16:25:25.727Z",
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "171059"
+        }
+      ],
+      "id": "171059",
+      "last_updated": "RESET",
+      "name": "(P) ALBENA Stráž pod Ralskem",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "owner": {
+        "name": "ALBENA, s.r.o."
+      },
+      "party_id": "EON",
+      "publish": true,
+      "state": "Česká republika",
+      "time_zone": "Europe/Prague"
+    }
+  },
   "171762": {
     "name": "(P) Hošek Motor - Žarošická",
     "sha1": "646732ceee333c28418509cab0797270449c9b19",
