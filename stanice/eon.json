@@ -8560,7 +8560,7 @@
   },
   "171059": {
     "name": "(P) ALBENA Stráž pod Ralskem",
-    "sha1": "222c2debfaacf6e771d58e5be2bac4c079f6d661",
+    "sha1": "80958548f13b37a9ed1ea6336b37d834437e89f2",
     "station": {
       "address": "Sklad",
       "city": "Sklad",
@@ -8641,6 +8641,11 @@
           "uid": "171059"
         }
       ],
+      "facilities": [
+        "NATURE",
+        "BUS_STOP",
+        "PARKING_LOT"
+      ],
       "id": "171059",
       "last_updated": "RESET",
       "name": "(P) ALBENA Stráž pod Ralskem",
@@ -8648,14 +8653,19 @@
         "twentyfourseven": true
       },
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "ALBENA, s.r.o."
       },
       "owner": {
         "name": "ALBENA, s.r.o."
       },
+      "parking_type": "PARKING_LOT",
       "party_id": "EON",
+      "postal_code": "471 27",
       "publish": true,
       "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
       "time_zone": "Europe/Prague"
     }
   },
