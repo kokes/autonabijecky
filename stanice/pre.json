@@ -26083,7 +26083,7 @@
   },
   "CZ9457035": {
     "name": "Chaplinovo náměstí Barrandov",
-    "sha1": "ded6775ae84987758f4864428301e4e1d94c4d39",
+    "sha1": "c17525b83d5d2e0a45050e2e03668c0b1b5dcae9",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -26104,6 +26104,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65e98a310a64080f17bad81f/2.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65e98a310a64080f17bad81f/1.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
