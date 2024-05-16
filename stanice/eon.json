@@ -49354,7 +49354,7 @@
   },
   "66856": {
     "name": "(P) Teplárna Liberec a.s.",
-    "sha1": "c89f053c90480d87fa7aad14f1197e2be7ef88f1",
+    "sha1": "88eb894a3b8469490154ffccd3151d6fe0970962",
     "station": {
       "address": "Dr. Milady Horákové 641/34a",
       "city": "Liberec IV-Perštýn",
@@ -49414,13 +49414,18 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2024-05-02T22:01:59.09Z",
+              "last_updated": "2024-05-15T07:55:30.443Z",
               "max_amperage": 250,
-              "max_electric_power": 150000,
+              "max_electric_power": 100000,
               "max_voltage": 1000,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": []
+              "tariff_ids": [
+                "110",
+                "112",
+                "158",
+                "159"
+              ]
             }
           ],
           "coordinates": {
@@ -49444,13 +49449,18 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2024-05-04T22:01:48.8Z",
+              "last_updated": "2024-05-15T07:55:30.443Z",
               "max_amperage": 32,
-              "max_electric_power": 150000,
+              "max_electric_power": 100000,
               "max_voltage": 400,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": []
+              "tariff_ids": [
+                "110",
+                "112",
+                "158",
+                "159"
+              ]
             }
           ],
           "coordinates": {
@@ -49463,6 +49473,11 @@
           "status": "RESET",
           "uid": "66857"
         }
+      ],
+      "facilities": [
+        "BUS_STOP",
+        "PARKING_LOT",
+        "FUEL_STATION"
       ],
       "id": "66856",
       "images": [
@@ -49485,7 +49500,7 @@
       },
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
-      "postal_code": "46001",
+      "postal_code": "460 01",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
