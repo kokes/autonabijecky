@@ -4890,6 +4890,86 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "131018": {
+    "name": "(P) ŠKODA - AK Auto Kostelec n. Černými lesy",
+    "sha1": "28d968f2e0345899a6db514a208c237a28b980dd",
+    "station": {
+      "address": "Pražská 1110",
+      "city": "Kostelec nad Černými lesy",
+      "coordinates": {
+        "latitude": "49.9923844",
+        "longitude": "14.8460253"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-05-16T10:56:40.243Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "350",
+                "351"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.9923844",
+            "longitude": "14.8460253"
+          },
+          "evse_id": "CZ*EON*E12131018*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "131018"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET",
+        "NATURE",
+        "BUS_STOP",
+        "PARKING_LOT",
+        "FUEL_STATION"
+      ],
+      "id": "131018",
+      "last_updated": "RESET",
+      "name": "(P) ŠKODA - AK Auto Kostelec n. Černými lesy",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "AK Auto Kostelec, s.r.o."
+      },
+      "owner": {
+        "name": "AK Auto Kostelec, s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "281 63",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "135183": {
     "name": "(P) Hotel Grid Automotodrom Brno",
     "sha1": "0f137fd5caccc9f9786546666d10a08eb85c0dcc",
@@ -10740,7 +10820,7 @@
   },
   "19930": {
     "name": "(P) Areál Slatina",
-    "sha1": "bcefc15087fe81cc2ab9e767eb454a492a033a33",
+    "sha1": "cfc6022118fd9a21e3f487b365dfe317f4cbd87c",
     "station": {
       "address": "Tuřanka 115",
       "city": "Brno",
@@ -11105,6 +11185,14 @@
           "uid": "77520"
         }
       ],
+      "facilities": [
+        "CAFE",
+        "MALL",
+        "SUPERMARKET",
+        "BUS_STOP",
+        "TRAIN_STATION",
+        "PARKING_LOT"
+      ],
       "id": "19930",
       "images": [
         {
@@ -11151,7 +11239,7 @@
       "last_updated": "RESET",
       "name": "(P) Areál Slatina",
       "operator": {
-        "name": "E.ON Energie, a.s."
+        "name": "COM Electric s.r.o."
       },
       "owner": {
         "name": "COM Electric s.r.o."
@@ -11162,7 +11250,7 @@
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
-        "name": "COM Electric s.r.o."
+        "name": "E.ON Energie, a.s."
       },
       "time_zone": "Europe/Prague"
     }
@@ -18573,6 +18661,444 @@
       "parking_type": "PARKING_LOT",
       "party_id": "EON",
       "postal_code": "39201",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "265317": {
+    "name": "(P) AREÁL Slatina, Brno",
+    "sha1": "2821c6baca81f7a5e7f7118de1cdea355507ca1d",
+    "station": {
+      "address": "Tuřanka 1222/115",
+      "city": "Brno - Slatina",
+      "coordinates": {
+        "latitude": "49.16759",
+        "longitude": "16.6805219"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-05-16T11:35:22.483Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "25",
+                "26",
+                "83",
+                "84"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.16759",
+            "longitude": "16.6805219"
+          },
+          "evse_id": "CZ*EON*E240189",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "240189"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-05-16T11:35:22.483Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "25",
+                "26",
+                "83",
+                "84"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.16759",
+            "longitude": "16.6805219"
+          },
+          "evse_id": "CZ*EON*E240190",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "240190"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-05-16T11:35:22.483Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "25",
+                "26",
+                "83",
+                "84"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.16759",
+            "longitude": "16.6805219"
+          },
+          "evse_id": "CZ*EON*E240212",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "240212"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-05-16T11:35:22.483Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "25",
+                "26",
+                "83",
+                "84"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.16759",
+            "longitude": "16.6805219"
+          },
+          "evse_id": "CZ*EON*E240213",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "240213"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-05-16T11:35:22.483Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "25",
+                "26",
+                "83",
+                "84"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.16759",
+            "longitude": "16.6805219"
+          },
+          "evse_id": "CZ*EON*E54233",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "54233"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-05-16T11:35:22.483Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "25",
+                "26",
+                "83",
+                "84"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.16759",
+            "longitude": "16.6805219"
+          },
+          "evse_id": "CZ*EON*E54248",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "54248"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "5",
+              "last_updated": "2024-05-16T11:35:22.483Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "25",
+                "26",
+                "83",
+                "84"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.16759",
+            "longitude": "16.6805219"
+          },
+          "evse_id": "CZ*EON*E56014",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "56014"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "4",
+              "last_updated": "2024-05-16T11:35:22.483Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "25",
+                "26",
+                "83",
+                "84"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.16759",
+            "longitude": "16.6805219"
+          },
+          "evse_id": "CZ*EON*E56015",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "56015"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-05-16T11:35:22.483Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "25",
+                "26",
+                "83",
+                "84"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.16759",
+            "longitude": "16.6805219"
+          },
+          "evse_id": "CZ*EON*E68494",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "68494"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-05-16T11:35:22.483Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "25",
+                "26",
+                "83",
+                "84"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.16759",
+            "longitude": "16.6805219"
+          },
+          "evse_id": "CZ*EON*E68495",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "68495"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "MALL",
+        "SUPERMARKET",
+        "BUS_STOP",
+        "TRAIN_STATION",
+        "PARKING_LOT"
+      ],
+      "id": "265317",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/10789/1565031013.jpg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/10789/1565031031.jpg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/10789/1565031041.jpg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/10789/1583497025.jpg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/10789/1583497047.jpg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/10789/1584360539.jpg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/10789/1584360551.jpg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/10789/1584360563.jpg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) AREÁL Slatina, Brno",
+      "operator": {
+        "name": "COM Electric s.r.o."
+      },
+      "owner": {
+        "name": "COM Electric s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "627 00",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {
