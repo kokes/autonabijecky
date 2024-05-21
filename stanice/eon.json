@@ -19350,6 +19350,279 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "265399": {
+    "name": "(P) ŠKODA - AUTO CB Přeštice",
+    "sha1": "1c202f97f80c3c827ad0822dbd03cf84aa69da4e",
+    "station": {
+      "address": "Tř. 1. máje 849",
+      "city": "Přeštice",
+      "coordinates": {
+        "latitude": "49.5795472",
+        "longitude": "13.3270178"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-05-20T18:26:06.343Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "352",
+                "353"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.5795472",
+            "longitude": "13.3270178"
+          },
+          "evse_id": "CZ*EON*ECB25000004*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "225868"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "MALL",
+        "SUPERMARKET",
+        "SPORT",
+        "BUS_STOP",
+        "FUEL_STATION"
+      ],
+      "id": "265399",
+      "last_updated": "RESET",
+      "name": "(P) ŠKODA - AUTO CB Přeštice",
+      "opening_times": {
+        "regular_hours": [
+          {
+            "period_begin": "17:30",
+            "period_end": "6:30",
+            "weekday": 1
+          },
+          {
+            "period_begin": "17:30",
+            "period_end": "6:30",
+            "weekday": 2
+          },
+          {
+            "period_begin": "17:30",
+            "period_end": "6:30",
+            "weekday": 3
+          },
+          {
+            "period_begin": "17:30",
+            "period_end": "6:30",
+            "weekday": 4
+          },
+          {
+            "period_begin": "17:30",
+            "period_end": "6:30",
+            "weekday": 5
+          },
+          {
+            "period_begin": "0:00",
+            "period_end": "0:00",
+            "weekday": 6
+          },
+          {
+            "period_begin": "0:00",
+            "period_end": "0:00",
+            "weekday": 7
+          }
+        ],
+        "twentyfourseven": false
+      },
+      "operator": {
+        "name": "AUTO CB s.r.o."
+      },
+      "owner": {
+        "name": "AUTO CB s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "334 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "265423": {
+    "name": "(P) ŠKODA - AUTO CB Plzeň",
+    "sha1": "3ccde58d36773b53b548d0c5cd5e27b41edb9433",
+    "station": {
+      "address": "Nepomucká 487/119",
+      "city": "Plzeň 2 - Slovany-Koterov",
+      "coordinates": {
+        "latitude": "49.7144408",
+        "longitude": "13.4099267"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-05-20T17:49:10.13Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "352",
+                "353"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.7144408",
+            "longitude": "13.4099267"
+          },
+          "evse_id": "CZ*EON*ECB99000003*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "225866"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-05-20T17:49:10.13Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "352",
+                "353"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.7144408",
+            "longitude": "13.4099267"
+          },
+          "evse_id": "CZ*EON*ECB99000003*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "225867"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "BUS_STOP"
+      ],
+      "id": "265423",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpeg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/268380/2709951716227597.jpeg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) ŠKODA - AUTO CB Plzeň",
+      "opening_times": {
+        "regular_hours": [
+          {
+            "period_begin": "17:30",
+            "period_end": "6:30",
+            "weekday": 1
+          },
+          {
+            "period_begin": "17:30",
+            "period_end": "6:30",
+            "weekday": 2
+          },
+          {
+            "period_begin": "17:30",
+            "period_end": "6:30",
+            "weekday": 3
+          },
+          {
+            "period_begin": "17:30",
+            "period_end": "6:30",
+            "weekday": 4
+          },
+          {
+            "period_begin": "17:30",
+            "period_end": "6:30",
+            "weekday": 5
+          },
+          {
+            "period_begin": "0:00",
+            "period_end": "0:00",
+            "weekday": 6
+          },
+          {
+            "period_begin": "0:00",
+            "period_end": "0:00",
+            "weekday": 7
+          }
+        ],
+        "twentyfourseven": false
+      },
+      "operator": {
+        "name": "AUTO CB s.r.o."
+      },
+      "owner": {
+        "name": "AUTO CB s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "326 00",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "26550": {
     "name": "(P) Kardašova Řečice - Roman Vaníček",
     "sha1": "c6b1aaf9afde3663d5d45ff8be021636623fc75b",
