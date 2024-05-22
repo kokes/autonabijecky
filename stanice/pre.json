@@ -23538,6 +23538,46 @@
       "street": "Inženýrská"
     }
   },
+  "CZ8893560": {
+    "name": "Penny Market Plzeň Lochotín",
+    "sha1": "88302ea9c4c20f682c5d473abcb78b386bf6587e",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Plzeň",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8893560",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Penny Market Plzeň Lochotín",
+      "evseId": "CZ*PRE*E1R0089*3",
+      "geoCoord": {
+        "latitude": "49.767157",
+        "longitude": "13.374287"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "Chademo",
+          "plug": "CHAdeMO"
+        }
+      ],
+      "postalCode": "30100",
+      "region": "Plzeňský kraj",
+      "street": "Lochotínská"
+    }
+  },
   "CZ8901519": {
     "name": "TS 5065 Božetická",
     "sha1": "ce989cd64799f884a240b3b6ea4a70deb47bd935",
@@ -26447,6 +26487,46 @@
       "postalCode": "16000",
       "region": "Hlavní město Praha",
       "street": "V Nových Vokovicích"
+    }
+  },
+  "CZ9575842": {
+    "name": "Bohušovice nad Ohří",
+    "sha1": "48ff34cbec63627e83ccda14e6c8d025a876c887",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Bohušovice nad Ohří",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9575842",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Bohušovice nad Ohří",
+      "evseId": "CZ*PRE*E1S8305*2",
+      "geoCoord": {
+        "latitude": "50.497499",
+        "longitude": "14.150283"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "41156",
+      "region": "Ústecký kraj",
+      "street": "Zahradní"
     }
   },
   "CZ9624272": {
