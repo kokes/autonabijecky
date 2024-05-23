@@ -26489,6 +26489,46 @@
       "street": "V Nových Vokovicích"
     }
   },
+  "CZ9560416": {
+    "name": "Atletická Ladronka",
+    "sha1": "e96295c6dff741937aeeda2213c602e6677c1dc0",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9560416",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Atletická Ladronka",
+      "evseId": "CZ*PRE*E1S8307*2",
+      "geoCoord": {
+        "latitude": "50.080021",
+        "longitude": "14.368086"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16900",
+      "region": "Hlavní město Praha",
+      "street": "Tomanova"
+    }
+  },
   "CZ9575842": {
     "name": "Bohušovice nad Ohří",
     "sha1": "48ff34cbec63627e83ccda14e6c8d025a876c887",

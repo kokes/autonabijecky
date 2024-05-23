@@ -7650,13 +7650,13 @@
   },
   "159669": {
     "name": "(P) Hošek Motor - Vídeňská",
-    "sha1": "a095a175b4fee0ea57d16f482c1707da7afa7f5c",
+    "sha1": "458284904a366f96fa969abe85ced77f11f0b6f5",
     "station": {
       "address": "Vídeňská 132",
       "city": "Brno",
       "coordinates": {
-        "latitude": "0.0002",
-        "longitude": "0"
+        "latitude": "49.153063",
+        "longitude": "16.59962"
       },
       "country": "CZE",
       "country_code": "CZ",
@@ -7688,10 +7688,10 @@
             }
           ],
           "coordinates": {
-            "latitude": "0.0002",
-            "longitude": "0"
+            "latitude": "49.153063",
+            "longitude": "16.59962"
           },
-          "evse_id": "CZ*EON*E159669*1",
+          "evse_id": "CZ*EON*E32159669*1",
           "floor_level": "0",
           "last_seen_as_planned": "2023-05-15T15:32:14.333Z",
           "last_updated": "RESET",
@@ -7722,10 +7722,10 @@
             }
           ],
           "coordinates": {
-            "latitude": "0.0002",
-            "longitude": "0"
+            "latitude": "49.153063",
+            "longitude": "16.59962"
           },
-          "evse_id": "CZ*EON*E159669*2",
+          "evse_id": "CZ*EON*E32159669*2",
           "last_seen_as_planned": "2023-05-15T15:32:14.333Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -7755,10 +7755,10 @@
             }
           ],
           "coordinates": {
-            "latitude": "0.0002",
-            "longitude": "0"
+            "latitude": "49.153063",
+            "longitude": "16.59962"
           },
-          "evse_id": "CZ*EON*E159669*3",
+          "evse_id": "CZ*EON*E32159669*3",
           "last_seen_as_planned": "2023-01-09T06:37:24.83Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -15016,8 +15016,8 @@
     }
   },
   "236457": {
-    "name": "E.ON HYC_50 Priprava 2",
-    "sha1": "7846fbcc92aa1ac1b81b0971aad053a00a676992",
+    "name": "E.ON Albert České Budějovice",
+    "sha1": "e0a9937d61aa60142011697ac6c0f8d18279c2d0",
     "station": {
       "address": "Strakonická 1272",
       "city": "České Budějovice",
@@ -15239,7 +15239,7 @@
       ],
       "id": "236457",
       "last_updated": "RESET",
-      "name": "E.ON HYC_50 Priprava 2",
+      "name": "E.ON Albert České Budějovice",
       "operator": {
         "name": "E.ON Energie, a.s."
       },
@@ -29943,8 +29943,8 @@
     }
   },
   "42076": {
-    "name": "E.ON Lovosice 175 kW UFC",
-    "sha1": "30b12a59c8d45fb7f2953f48d20a8062566bdf97",
+    "name": "E.ON Lovosice UFC",
+    "sha1": "c9777537480fe855310c3d1dbc4feb8c343ca1b7",
     "station": {
       "address": "Siřejovická",
       "city": "Lovosice",
@@ -30438,7 +30438,7 @@
       ],
       "id": "42076",
       "last_updated": "RESET",
-      "name": "E.ON Lovosice 175 kW UFC",
+      "name": "E.ON Lovosice UFC",
       "opening_times": {
         "twentyfourseven": true
       },
@@ -39248,8 +39248,8 @@
     }
   },
   "51540": {
-    "name": "E.ON  Krupá 1",
-    "sha1": "842574425c14a9f5c02dbcc3e0cf92edf055703b",
+    "name": "E.ON Krupá",
+    "sha1": "ce9d9a6ea6e7773affcdf3293d027c434c793547",
     "station": {
       "address": "Krupá",
       "city": "Krupá",
@@ -39537,7 +39537,7 @@
       ],
       "id": "51540",
       "last_updated": "RESET",
-      "name": "E.ON  Krupá 1",
+      "name": "E.ON Krupá",
       "opening_times": {
         "twentyfourseven": true
       },
