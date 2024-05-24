@@ -32442,7 +32442,7 @@
   },
   "51417": {
     "name": "E.ON NC Kučera Prostějov DC",
-    "sha1": "df829418400d3bc281930c79c8a2fb0ad9601e0d",
+    "sha1": "2e5fced4f92e2dab03a1a47ea403a0f4a1f40130",
     "station": {
       "address": "sídl. Svobody 3576/77,",
       "city": "Prostějov",
@@ -32508,12 +32508,12 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-01-27T07:40:45.067Z",
+              "last_updated": "2024-05-23T22:01:55.677Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
               "power_type": "DC",
-              "standard": "CHADEMO",
+              "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
                 "2",
                 "5",
@@ -32530,12 +32530,12 @@
             {
               "format": "CABLE",
               "id": "3",
-              "last_updated": "2023-01-27T07:40:45.067Z",
+              "last_updated": "2024-05-23T22:01:55.677Z",
               "max_amperage": 125,
               "max_electric_power": 50000,
               "max_voltage": 500,
               "power_type": "DC",
-              "standard": "IEC_62196_T2_COMBO",
+              "standard": "CHADEMO",
               "tariff_ids": [
                 "2",
                 "5",
