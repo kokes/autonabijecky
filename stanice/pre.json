@@ -21955,6 +21955,46 @@
       "street": "Zlochova"
     }
   },
+  "CZ8362941": {
+    "name": "Ruská 1",
+    "sha1": "57c26d0a1f7b91cd82e4068d045e9a78e8a3a249",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8362941",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Ruská 1",
+      "evseId": "CZ*PRE*E2S0029*2",
+      "geoCoord": {
+        "latitude": "50.073391",
+        "longitude": "14.468405"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10010",
+      "region": "Hlavní město Praha",
+      "street": "Ruská"
+    }
+  },
   "CZ8376935": {
     "name": "Parkoviště Pankrác",
     "sha1": "07c3852ec718aa9dcab140bce637abf63c94044c",
@@ -24474,6 +24514,48 @@
       "street": "Brunclíkova"
     }
   },
+  "CZ9042130": {
+    "name": "H-park",
+    "sha1": "4a6171c7ac8a916959fdb191cb8b99d1bb377985",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤75kW"
+        ]
+      },
+      "city": "Brno",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9042130",
+      "csName": "H-park",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "Administrativní centrum H-park Brno / H-park Brno offices",
+      "enCsname": "H-park",
+      "evseId": "CZ*PRE*E1R0085*2",
+      "geoCoord": {
+        "latitude": "49.173611",
+        "longitude": "16.603479"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "63900",
+      "region": "Jihomoravský kraj",
+      "street": "Heršpická"
+    }
+  },
   "CZ9053605": {
     "name": "TS 1229 Bublíkova",
     "sha1": "97956fbef85777946c7887622abebcd204dbf6f1",
@@ -24572,6 +24654,46 @@
       "postalCode": "10200",
       "region": "Hlavní město Praha",
       "street": "Libkovská"
+    }
+  },
+  "CZ9083368": {
+    "name": "Poliklinika skalka – Pod Strání",
+    "sha1": "1ceeb21108157529c6844efd6d1c597c26639413",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9083368",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Poliklinika skalka – Pod Strání",
+      "evseId": "CZ*PRE*E1S8309*2",
+      "geoCoord": {
+        "latitude": "50.069337",
+        "longitude": "14.504172"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10000",
+      "region": "Hlavní město Praha",
+      "street": "Pod Strání"
     }
   },
   "CZ9084816": {
@@ -27236,6 +27358,46 @@
       "street": "Letecká 2"
     }
   },
+  "CZ9787221": {
+    "name": "Ruská 3",
+    "sha1": "ff9ef91968bb7c2bcf4856d8c197a435b5c00a37",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9787221",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Ruská 3",
+      "evseId": "CZ*PRE*E2S0031*2",
+      "geoCoord": {
+        "latitude": "50.073391",
+        "longitude": "14.468405"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10010",
+      "region": "Hlavní město Praha",
+      "street": "Ruská"
+    }
+  },
   "CZ9807912": {
     "name": "Černý Most - Bryksova",
     "sha1": "f386ad203478a705e469f28c145fd3a6926b1326",
@@ -27431,6 +27593,46 @@
       "street": "Povltavská"
     }
   },
+  "CZ9858720": {
+    "name": "Úřad Dolní Chabry",
+    "sha1": "c218197326a1f6e062202833dc763f767329abc7",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9858720",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Úřad Dolní Chabry",
+      "evseId": "CZ*PRE*E1S8310*2",
+      "geoCoord": {
+        "latitude": "50.146699",
+        "longitude": "14.446499"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18400",
+      "region": "Hlavní město Praha",
+      "street": "U Rybníčka"
+    }
+  },
   "CZ9876943": {
     "name": "V Nových Vokovicích 1",
     "sha1": "ef749e1e6d2461c52ef74e5b4d2ee081f5133c29",
@@ -27519,6 +27721,46 @@
       "postalCode": "17000",
       "region": "Hlavní město Praha",
       "street": "Bubenské nábřeží"
+    }
+  },
+  "CZ9910109": {
+    "name": "Estonská",
+    "sha1": "5efd00cf56892cc8e07de16f31289c8df793bb9e",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9910109",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Estonská",
+      "evseId": "CZ*PRE*E2S0028*2",
+      "geoCoord": {
+        "latitude": "50.071654",
+        "longitude": "14.453319"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10100",
+      "region": "Hlavní město Praha",
+      "street": "Estonská"
     }
   },
   "CZ9931493": {
@@ -27615,6 +27857,46 @@
       "postalCode": "16300",
       "region": "Hlavní město Praha",
       "street": "Na Chobotě"
+    }
+  },
+  "CZ9956551": {
+    "name": "Ruská 2",
+    "sha1": "f9455cb7d5fbf214d48df35e157925e3f4fe8096",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9956551",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Ruská 2",
+      "evseId": "CZ*PRE*E2S0030*2",
+      "geoCoord": {
+        "latitude": "50.073391",
+        "longitude": "14.468405"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10010",
+      "region": "Hlavní město Praha",
+      "street": "Ruská"
     }
   },
   "CZ9967287": {
