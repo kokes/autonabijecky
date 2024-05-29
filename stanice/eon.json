@@ -3829,8 +3829,8 @@
     }
   },
   "127571": {
-    "name": "E.ON Penny Přerov",
-    "sha1": "b781afb84d46ad77c0ee86a0cf00ba31ae6f1f81",
+    "name": "E.ON Penny Přerov AC",
+    "sha1": "2a45eda1ac6470382dc062da9369f7a0184c9ef6",
     "station": {
       "address": "Ztracená 3176/2",
       "city": " Přerov",
@@ -3851,12 +3851,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2024-05-28T22:01:47.337Z",
+              "max_amperage": 125,
+              "max_electric_power": 90000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.44758295",
             "longitude": "17.45920685"
           },
-          "evse_id": "CZ*EON*E127571",
+          "evse_id": "CZ*UFC*E98127571*1",
           "last_seen_as_planned": "2022-04-08T11:59:48.313Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -3869,12 +3892,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "2",
+              "last_updated": "2024-05-28T22:01:47.337Z",
+              "max_amperage": 125,
+              "max_electric_power": 62500,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "CHADEMO",
+              "tariff_ids": [
+                "2",
+                "5",
+                "60",
+                "63",
+                "141",
+                "142",
+                "184",
+                "185",
+                "210",
+                "212"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.44758295",
             "longitude": "17.45920685"
           },
-          "evse_id": "CZ*EON*E127572",
+          "evse_id": "CZ*UFC*E98127571*2",
           "last_seen_as_planned": "2022-04-08T11:59:48.313Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -3887,12 +3933,35 @@
             "RFID_READER",
             "UNLOCK_CAPABLE"
           ],
-          "connectors": [],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2024-05-28T22:01:47.337Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "1",
+                "4",
+                "59",
+                "62",
+                "139",
+                "140",
+                "182",
+                "183",
+                "208",
+                "209"
+              ]
+            }
+          ],
           "coordinates": {
             "latitude": "49.44758295",
             "longitude": "17.45920685"
           },
-          "evse_id": "CZ*EON*E127573",
+          "evse_id": "CZ*UFC*E98127571*3",
           "last_seen_as_planned": "2022-04-08T11:59:48.313Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -3904,7 +3973,7 @@
       ],
       "id": "127571",
       "last_updated": "RESET",
-      "name": "E.ON Penny Přerov",
+      "name": "E.ON Penny Přerov AC",
       "operator": {
         "name": "E.ON Energie, a.s."
       },

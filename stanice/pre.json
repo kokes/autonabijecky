@@ -22089,18 +22089,18 @@
   },
   "CZ8392692": {
     "name": "TS 4141 Bezová",
-    "sha1": "5ad0def78169900fecd37b02a927f74592a04eb2",
+    "sha1": "d9853643c7aee822459e64b0a3d9d541815a4e93",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "DC Charging ≤20kW"
         ]
       },
       "city": "Praha",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8392692",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "TS 4141 Bezová",
       "evseId": "CZ*PRE*E1S8280*1",
@@ -23619,25 +23619,25 @@
     }
   },
   "CZ8901519": {
-    "name": "TS 5065 Božetická",
-    "sha1": "ce989cd64799f884a240b3b6ea4a70deb47bd935",
+    "name": "TS 3131 Mikulova",
+    "sha1": "c59abdaec3a8be093b0d141f84314e8df64ab40f",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "DC Charging ≤20kW"
         ]
       },
       "city": "Praha",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8901519",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
-      "enCsname": "TS 5065 Božetická",
+      "enCsname": "TS 3131 Mikulova",
       "evseId": "CZ*PRE*E1S8281*2",
       "geoCoord": {
-        "latitude": "50.000952",
-        "longitude": "14.430736"
+        "latitude": "50.029850",
+        "longitude": "14.515598"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -23653,9 +23653,9 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "14300",
+      "postalCode": "14900",
       "region": "Hlavní město Praha",
-      "street": "Božetická"
+      "street": "Mikulova"
     }
   },
   "CZ8907670": {
@@ -25060,25 +25060,25 @@
     }
   },
   "CZ9147519": {
-    "name": "TS 4783 U Slovanky",
-    "sha1": "ac5c1d3fe9df1556b9447a758e369c12ba31e173",
+    "name": "TS 3668 Brodského",
+    "sha1": "12deee44ece893dac14f6adac2978e69525df14e",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "DC Charging ≤20kW"
         ]
       },
       "city": "Praha",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9147519",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
-      "enCsname": "TS 4783 U Slovanky",
+      "enCsname": "TS 3668 Brodského",
       "evseId": "CZ*PRE*E1S8276*2",
       "geoCoord": {
-        "latitude": "50.125493",
-        "longitude": "14.470408"
+        "latitude": "50.037712",
+        "longitude": "14.503441"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -25094,9 +25094,9 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "18200",
+      "postalCode": "14900",
       "region": "Hlavní město Praha",
-      "street": "U Slovanky"
+      "street": "Brodského"
     }
   },
   "CZ9162726": {
@@ -27072,12 +27072,12 @@
     }
   },
   "CZ9711680": {
-    "name": "TS 3131 Mikulova",
-    "sha1": "bed805862e2f13a682a9d2980e62b3018c2ad6cc",
+    "name": "TS 5065 Božetická",
+    "sha1": "4fc25bc9a89ca6a36bf10cce675d42ed642ddd15",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "DC Charging ≤20kW"
         ]
       },
       "city": "Praha",
@@ -27086,11 +27086,11 @@
       "csId": "CZ9711680",
       "csStatus": "under_construction",
       "csType": "",
-      "enCsname": "TS 3131 Mikulova",
+      "enCsname": "TS 5065 Božetická",
       "evseId": "CZ*PRE*E1S8275*2",
       "geoCoord": {
-        "latitude": "50.029850",
-        "longitude": "14.515598"
+        "latitude": "50.000869",
+        "longitude": "14.430807"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -27106,9 +27106,9 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "14900",
+      "postalCode": "14300",
       "region": "Hlavní město Praha",
-      "street": "Mikulova"
+      "street": "Božetická"
     }
   },
   "CZ9740461": {
@@ -27764,12 +27764,12 @@
     }
   },
   "CZ9931493": {
-    "name": "TS 3668 Brodského",
-    "sha1": "ed33d3922ae65174b1d63afb5bd1ff6edc37e948",
+    "name": "TS 4783 U Slovanky",
+    "sha1": "ea16c8f984e60daba604ff197f5d33eb92214317",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "DC Charging ≤20kW"
         ]
       },
       "city": "Praha",
@@ -27778,11 +27778,11 @@
       "csId": "CZ9931493",
       "csStatus": "under_construction",
       "csType": "",
-      "enCsname": "TS 3668 Brodského",
+      "enCsname": "TS 4783 U Slovanky",
       "evseId": "CZ*PRE*E1S8279*2",
       "geoCoord": {
-        "latitude": "50.037712",
-        "longitude": "14.503441"
+        "latitude": "50.125493",
+        "longitude": "14.470408"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -27798,9 +27798,9 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "14900",
+      "postalCode": "18200",
       "region": "Hlavní město Praha",
-      "street": "Brodského"
+      "street": "U Slovanky"
     }
   },
   "CZ9942351": {
