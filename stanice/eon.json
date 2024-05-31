@@ -8709,10 +8709,10 @@
   },
   "171059": {
     "name": "(P) ALBENA Stráž pod Ralskem",
-    "sha1": "80958548f13b37a9ed1ea6336b37d834437e89f2",
+    "sha1": "f22edac11a9f62042141e1a5aaaeed2eb5f93ec0",
     "station": {
-      "address": "Sklad",
-      "city": "Sklad",
+      "address": "Na Vršku 410",
+      "city": "Stráž pod Ralskem",
       "coordinates": {
         "latitude": "50.6978433",
         "longitude": "14.8275897"
@@ -19764,6 +19764,126 @@
       "parking_type": "ON_STREET",
       "party_id": "EON",
       "postal_code": "37821",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
+  "266203": {
+    "name": "(P) UNIBRICK s.r.o. Nepomuk",
+    "sha1": "2b095d181c50091471c8e0d980436ec2d775ec05",
+    "station": {
+      "address": "Kozlovická 418",
+      "city": "Nepomuk",
+      "coordinates": {
+        "latitude": "49.4823047",
+        "longitude": "13.5852119"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-05-30T15:00:41.543Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "354",
+                "355"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.4823047",
+            "longitude": "13.5852119"
+          },
+          "evse_id": "CZ*EON*E22184159*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "184159"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-05-30T15:00:41.543Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "354",
+                "355"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.4823047",
+            "longitude": "13.5852119"
+          },
+          "evse_id": "CZ*EON*E22184159*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "184160"
+        }
+      ],
+      "facilities": [
+        "SUPERMARKET",
+        "NATURE",
+        "BUS_STOP",
+        "PARKING_LOT",
+        "FUEL_STATION"
+      ],
+      "id": "266203",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpeg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/269854/6612111717081352.jpeg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) UNIBRICK s.r.o. Nepomuk",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "UNIBRICK s.r.o."
+      },
+      "owner": {
+        "name": "UNIBRICK s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "335 01",
       "publish": true,
       "state": "Česká republika",
       "suboperator": {

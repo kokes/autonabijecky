@@ -22089,8 +22089,9 @@
   },
   "CZ8392692": {
     "name": "TS 4141 Bezová",
-    "sha1": "d9853643c7aee822459e64b0a3d9d541815a4e93",
+    "sha1": "87aeb83d36dda3605605381b65fc303c59d286fc",
     "station": {
+      "additionalInfo": "u trafostanice TS 4141",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤20kW"
@@ -22102,6 +22103,7 @@
       "csId": "CZ8392692",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "at the TS 4141 transformer station",
       "enCsname": "TS 4141 Bezová",
       "evseId": "CZ*PRE*E1S8280*1",
       "geoCoord": {
@@ -22110,6 +22112,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf29d90a64080f17bad15a/IMG-20240530-WA0006.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf29d90a64080f17bad15a/IMG-20240530-WA0007.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -23239,7 +23253,7 @@
   },
   "CZ8736457": {
     "name": "ZŠ a MŠ Smolkova",
-    "sha1": "034a926e020f88710a4556c2fa003431f4e81d12",
+    "sha1": "d97d64da9dd3d24c8d71a3bf5e9e9a0a5d3bc0ad",
     "station": {
       "additionalInfo": "Nalevo podél ulice Smolkova, směrem k základní škole",
       "chargingFacilities": {
@@ -23258,8 +23272,8 @@
       "enCsname": "ZŠ a MŠ Smolkova",
       "evseId": "CZ*PRE*E1S8220*2",
       "geoCoord": {
-        "latitude": "50.008667",
-        "longitude": "14.449535"
+        "latitude": "50.008674",
+        "longitude": "14.449417"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -23620,8 +23634,9 @@
   },
   "CZ8901519": {
     "name": "TS 3131 Mikulova",
-    "sha1": "c59abdaec3a8be093b0d141f84314e8df64ab40f",
+    "sha1": "8d742c766591037c5aaadc2d02d27f4580dd235d",
     "station": {
+      "additionalInfo": "u trafostanice TS 3131",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤20kW"
@@ -23633,6 +23648,7 @@
       "csId": "CZ8901519",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "at the TS 3131 transformer station",
       "enCsname": "TS 3131 Mikulova",
       "evseId": "CZ*PRE*E1S8281*2",
       "geoCoord": {
@@ -23641,6 +23657,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf2aab0a64080f17bad160/IMG-20240530-WA0002.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf2aab0a64080f17bad160/IMG-20240530-WA0003.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -25061,8 +25089,9 @@
   },
   "CZ9147519": {
     "name": "TS 3668 Brodského",
-    "sha1": "12deee44ece893dac14f6adac2978e69525df14e",
+    "sha1": "5f0fb418f773ef2602231907b670d196f1948472",
     "station": {
+      "additionalInfo": "u trafostanice TS 3668",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤20kW"
@@ -25074,6 +25103,7 @@
       "csId": "CZ9147519",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "at the TS 3668 transformer station",
       "enCsname": "TS 3668 Brodského",
       "evseId": "CZ*PRE*E1S8276*2",
       "geoCoord": {
@@ -25082,6 +25112,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf29130a64080f17bad148/IMG-20240530-WA0004.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf29130a64080f17bad148/IMG-20240530-WA0005.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -25529,19 +25571,21 @@
   },
   "CZ9282934": {
     "name": "TS 5032 Koterovská",
-    "sha1": "6f245fc195e573eb2559ec7cc272ac7a0cf4294f",
+    "sha1": "b1c116743895ab02b78145aab10b59247cd8ace3",
     "station": {
+      "additionalInfo": "u trafostanice TS 5032",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "DC Charging ≤20kW"
         ]
       },
       "city": "Praha Řeporyje",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9282934",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "at the TS 5032 transformer station",
       "enCsname": "TS 5032 Koterovská",
       "evseId": "CZ*PRE*E1S8277*2",
       "geoCoord": {
@@ -25550,6 +25594,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf295a0a64080f17bad14e/IMG-20240530-WA0000.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf295a0a64080f17bad14e/IMG-20240530-WA0001.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -27073,8 +27129,9 @@
   },
   "CZ9711680": {
     "name": "TS 5065 Božetická",
-    "sha1": "4fc25bc9a89ca6a36bf10cce675d42ed642ddd15",
+    "sha1": "7d81d6dac993e063834d9b407aa30c9b6c974ce7",
     "station": {
+      "additionalInfo": "u trafostanice TS 5065",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤20kW"
@@ -27084,8 +27141,9 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9711680",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "at the TS 5065 transformer station",
       "enCsname": "TS 5065 Božetická",
       "evseId": "CZ*PRE*E1S8275*2",
       "geoCoord": {
@@ -27094,6 +27152,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf28ab0a64080f17bad142/IMG-20240530-WA0008.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf28ab0a64080f17bad142/IMG-20240530-WA0009.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -27765,8 +27835,9 @@
   },
   "CZ9931493": {
     "name": "TS 4783 U Slovanky",
-    "sha1": "ea16c8f984e60daba604ff197f5d33eb92214317",
+    "sha1": "b3ffe9778fb73bd249bc6a14765e569ae51e1255",
     "station": {
+      "additionalInfo": "u trafostanice TS 3668",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤20kW"
@@ -27778,6 +27849,7 @@
       "csId": "CZ9931493",
       "csStatus": "under_construction",
       "csType": "",
+      "enAdditionalInfo": "at the TS 3668 transformer station",
       "enCsname": "TS 4783 U Slovanky",
       "evseId": "CZ*PRE*E1S8279*2",
       "geoCoord": {
@@ -27786,6 +27858,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf29960a64080f17bad154/IMG-20240530-WA0004.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf29960a64080f17bad154/IMG-20240530-WA0005.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
