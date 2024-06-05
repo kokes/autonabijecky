@@ -50342,7 +50342,7 @@
   },
   "66856": {
     "name": "(P) Teplárna Liberec a.s.",
-    "sha1": "88eb894a3b8469490154ffccd3151d6fe0970962",
+    "sha1": "93765eed13b6cfa277d9cf85855873ce1638d075",
     "station": {
       "address": "Dr. Milady Horákové 641/34a",
       "city": "Liberec IV-Perštýn",
@@ -50365,12 +50365,12 @@
           ],
           "connectors": [
             {
-              "format": "CABLE",
+              "format": "SOCKET",
               "id": "3",
-              "last_updated": "2024-05-04T22:01:48.8Z",
-              "max_amperage": 125,
+              "last_updated": "2024-06-04T06:48:58.177Z",
+              "max_amperage": 32,
               "max_electric_power": 22000,
-              "max_voltage": 500,
+              "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
               "tariff_ids": [
@@ -50402,18 +50402,13 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2024-05-15T07:55:30.443Z",
+              "last_updated": "2024-06-04T06:50:43.173Z",
               "max_amperage": 250,
-              "max_electric_power": 100000,
+              "max_electric_power": 150000,
               "max_voltage": 1000,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": [
-                "110",
-                "112",
-                "158",
-                "159"
-              ]
+              "tariff_ids": []
             }
           ],
           "coordinates": {
@@ -50435,20 +50430,15 @@
           ],
           "connectors": [
             {
-              "format": "SOCKET",
+              "format": "CABLE",
               "id": "2",
-              "last_updated": "2024-05-15T07:55:30.443Z",
-              "max_amperage": 32,
-              "max_electric_power": 100000,
-              "max_voltage": 400,
+              "last_updated": "2024-06-04T06:51:36.12Z",
+              "max_amperage": 250,
+              "max_electric_power": 150000,
+              "max_voltage": 1000,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
-              "tariff_ids": [
-                "110",
-                "112",
-                "158",
-                "159"
-              ]
+              "tariff_ids": []
             }
           ],
           "coordinates": {
