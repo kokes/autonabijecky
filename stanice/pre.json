@@ -21225,6 +21225,46 @@
       "street": "Za Žižkovskou vozovnou 2716/19"
     }
   },
+  "CZ8182873": {
+    "name": "Na Petřinách 2",
+    "sha1": "f769f1ed03f940d1a20350ac45d2a46030d87b8c",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8182873",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Na Petřinách 2",
+      "evseId": "CZ*PRE*E2S0044*2",
+      "geoCoord": {
+        "latitude": "50.089554",
+        "longitude": "14.349831"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16200",
+      "region": "Hlavní město Praha",
+      "street": "Na Petřinách"
+    }
+  },
   "CZ8189567": {
     "name": "Novodvorská 6",
     "sha1": "9b51192c253d46043ff09addf6fbb829ae2ee9aa",
@@ -21321,6 +21361,86 @@
       "postalCode": "14900",
       "region": "Hlavní město Praha",
       "street": "Radimovická"
+    }
+  },
+  "CZ8196832": {
+    "name": "Eledrova 4",
+    "sha1": "58f765b080b3a28959e46412a840cef351f9ead3",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8196832",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Eledrova 4",
+      "evseId": "CZ*PRE*E2S0040*2",
+      "geoCoord": {
+        "latitude": "50.131828",
+        "longitude": "14.406753"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "Eledrova"
+    }
+  },
+  "CZ8203326": {
+    "name": "Na Petřinách 1",
+    "sha1": "6d1e8f412a6c8881fae86bf9ba253da2f0b28753",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8203326",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Na Petřinách 1",
+      "evseId": "CZ*PRE*E2S0043*2",
+      "geoCoord": {
+        "latitude": "50.089657",
+        "longitude": "14.350241"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16200",
+      "region": "Hlavní město Praha",
+      "street": "Na Petřinách"
     }
   },
   "CZ8222802": {
@@ -22478,6 +22598,46 @@
       "street": "Novodvorská 1947/82"
     }
   },
+  "CZ8460251": {
+    "name": "Na Petřinách 4",
+    "sha1": "dc2ed192f5f27cd8d0939bbbe46220862d06aa2f",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8460251",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Na Petřinách 4",
+      "evseId": "CZ*PRE*E2S0046*2",
+      "geoCoord": {
+        "latitude": "50.088970",
+        "longitude": "14.348450"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16200",
+      "region": "Hlavní město Praha",
+      "street": "Na Petřinách"
+    }
+  },
   "CZ8463636": {
     "name": "Penta Waltrovka",
     "sha1": "61ae2623065fc8fb660e786d6f00ba8e657b3681",
@@ -22771,6 +22931,46 @@
       "street": "Strakonická"
     }
   },
+  "CZ8546862": {
+    "name": "Na Vypichu 2",
+    "sha1": "0202cdf8509335919a1c4e475dbb953bd74c0465",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8546862",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Na Vypichu 2",
+      "evseId": "CZ*PRE*E2S0042*2",
+      "geoCoord": {
+        "latitude": "50.084518",
+        "longitude": "14.339038"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16200",
+      "region": "Hlavní město Praha",
+      "street": "Na Vypichu"
+    }
+  },
   "CZ8558420": {
     "name": "Segro Hostivice",
     "sha1": "3d9717f88d369ad343dea8a1350da81d7ffbe386",
@@ -22870,6 +23070,86 @@
       "postalCode": "19000",
       "region": "Hlavní město Praha",
       "street": "Kbelská 110"
+    }
+  },
+  "CZ8571679": {
+    "name": "Feřtekova 5",
+    "sha1": "9d2cbf256f9ce16e9bca130f5ef9ac75d06563b6",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8571679",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Feřtekova 5",
+      "evseId": "CZ*PRE*E2S0036*2",
+      "geoCoord": {
+        "latitude": "50.132110",
+        "longitude": "14.404421"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "Feřtekova"
+    }
+  },
+  "CZ8593490": {
+    "name": "Na Petřinách 3",
+    "sha1": "dec8baa5cfd5868de9be3bd903bce2ba25ed5bd6",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8593490",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Na Petřinách 3",
+      "evseId": "CZ*PRE*E2S0045*2",
+      "geoCoord": {
+        "latitude": "50.089442",
+        "longitude": "14.349385"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16200",
+      "region": "Hlavní město Praha",
+      "street": "Na Petřinách"
     }
   },
   "CZ8625571": {
@@ -23592,6 +23872,46 @@
       "street": "Inženýrská"
     }
   },
+  "CZ8890790": {
+    "name": "Na Vypichu 1",
+    "sha1": "40c7e945df9d8b0f12f5c8b5c16cd599ead889ab",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8890790",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Na Vypichu 1",
+      "evseId": "CZ*PRE*E2S0041*2",
+      "geoCoord": {
+        "latitude": "50.084374",
+        "longitude": "14.339389"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16200",
+      "region": "Hlavní město Praha",
+      "street": "Na Vypichu"
+    }
+  },
   "CZ8893560": {
     "name": "Penny Market Plzeň Lochotín",
     "sha1": "88302ea9c4c20f682c5d473abcb78b386bf6587e",
@@ -23734,6 +24054,46 @@
       "postalCode": "16000",
       "region": "Hlavní město Praha",
       "street": "K Červenému vrchu"
+    }
+  },
+  "CZ8923446": {
+    "name": "Feřtekova 2",
+    "sha1": "a5f2731324c2164d1669c2d9133149b1e6de3226",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8923446",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Feřtekova 2",
+      "evseId": "CZ*PRE*E2S0033*2",
+      "geoCoord": {
+        "latitude": "50.132063",
+        "longitude": "14.405413"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "Feřtekova"
     }
   },
   "CZ8950988": {
@@ -25240,6 +25600,46 @@
       "street": "Dvouletky"
     }
   },
+  "CZ9181230": {
+    "name": "Feřtekova 3",
+    "sha1": "432f05122f0ef3996c54cbd130c0aa4b9865c5eb",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9181230",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Feřtekova 3",
+      "evseId": "CZ*PRE*E2S0034*2",
+      "geoCoord": {
+        "latitude": "50.132071",
+        "longitude": "14.405098"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "Feřtekova"
+    }
+  },
   "CZ9189668": {
     "name": "Okořská",
     "sha1": "dd2bf4e1c3afff93dc1a1c18196181d43a5c9481",
@@ -25436,6 +25836,86 @@
       "postalCode": "16000",
       "region": "Hlavní město Praha",
       "street": "V Nových Vokovicích"
+    }
+  },
+  "CZ9207423": {
+    "name": "Na Petřinách 6",
+    "sha1": "b2723b9c6b180d534573f242bc8063dcbaf42acd",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9207423",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Na Petřinách 6",
+      "evseId": "CZ*PRE*E2S0048*2",
+      "geoCoord": {
+        "latitude": "50.088740",
+        "longitude": "14.347496"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16200",
+      "region": "Hlavní město Praha",
+      "street": "Na Petřinách"
+    }
+  },
+  "CZ9269817": {
+    "name": "Eledrova 3",
+    "sha1": "d596e95b6aee8342f3814f7de4f84651fed0423f",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9269817",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Eledrova 3",
+      "evseId": "CZ*PRE*E2S0039*2",
+      "geoCoord": {
+        "latitude": "50.131853",
+        "longitude": "14.406279"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "Eledrova"
     }
   },
   "CZ9271891": {
@@ -26032,6 +26512,46 @@
       "street": "Sobí"
     }
   },
+  "CZ9415404": {
+    "name": "Feřtekova 4",
+    "sha1": "d1e1c6f8b51428d58cf07a3746590695b3d5a720",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9415404",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Feřtekova 4",
+      "evseId": "CZ*PRE*E2S0035*2",
+      "geoCoord": {
+        "latitude": "50.132091",
+        "longitude": "14.404747"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "Feřtekova"
+    }
+  },
   "CZ9429238": {
     "name": "Parkoviště Poliklinika Prosek",
     "sha1": "76a24fca873cb2a786b42a1a97c238c99f61494e",
@@ -26490,6 +27010,46 @@
       "street": "Holčovická"
     }
   },
+  "CZ9498016": {
+    "name": "Feřtekova 1",
+    "sha1": "99ab0e1886409c23819335dcb30bc1d6e2c859f3",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9498016",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Feřtekova 1",
+      "evseId": "CZ*PRE*E2S0032*2",
+      "geoCoord": {
+        "latitude": "50.132115",
+        "longitude": "14.406456"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "Feřtekova"
+    }
+  },
   "CZ9525097": {
     "name": "Žluté lázně",
     "sha1": "cdcb2bc16123eac0582130e00d55db05f35448d6",
@@ -26745,6 +27305,46 @@
       "postalCode": "41156",
       "region": "Ústecký kraj",
       "street": "Zahradní"
+    }
+  },
+  "CZ9610961": {
+    "name": "Eledrova 1",
+    "sha1": "378e74be8b1891005e8b6de26de2e3b6d97efeb4",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9610961",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Eledrova 1",
+      "evseId": "CZ*PRE*E2S0037*2",
+      "geoCoord": {
+        "latitude": "50.131853",
+        "longitude": "14.406998"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "Eledrova"
     }
   },
   "CZ9624272": {
@@ -27221,6 +27821,46 @@
       "street": "V Rozkvětu"
     }
   },
+  "CZ9743034": {
+    "name": "Eledrova 2",
+    "sha1": "b8e060abc96a04d72e13d1f3dfcda64a4b4321fb",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9743034",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Eledrova 2",
+      "evseId": "CZ*PRE*E2S0038*2",
+      "geoCoord": {
+        "latitude": "50.131627",
+        "longitude": "14.406970"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "Eledrova"
+    }
+  },
   "CZ9749182": {
     "name": "Zahradní Město - Sněženková",
     "sha1": "94472d5b2ea8f9f478efde7fe5f386703ce2f10c",
@@ -27506,6 +28146,46 @@
       "postalCode": "19800",
       "region": "Hlavní město Praha",
       "street": "Bryksova"
+    }
+  },
+  "CZ9825781": {
+    "name": "Na Petřinách 5",
+    "sha1": "bde0fdf689c3c417660cb240ecc66a52f4611147",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤20kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9825781",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Na Petřinách 5",
+      "evseId": "CZ*PRE*E2S0047*2",
+      "geoCoord": {
+        "latitude": "50.088854",
+        "longitude": "14.347964"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16200",
+      "region": "Hlavní město Praha",
+      "street": "Na Petřinách"
     }
   },
   "CZ9828596": {
