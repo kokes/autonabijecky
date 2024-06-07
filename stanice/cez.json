@@ -35973,6 +35973,134 @@
       "visible": true
     }
   },
+  "191922": {
+    "name": "N271 - Liberec - Vaňurova - 2",
+    "sha1": "bae3c3ecbd87e4f87f7dd2fdcf6e5559a44b8f85",
+    "station": {
+      "address": {
+        "city": "Liberec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.7635539,
+        "longitude": 15.0478736,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Vaňurova",
+        "url": ""
+      },
+      "customID": "191922",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N271"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N271"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N271 - Liberec - Vaňurova - 2",
+      "visible": true
+    }
+  },
+  "191977": {
+    "name": "N270 - Liberec - Vaňurova - 1",
+    "sha1": "819117c4c969652535b29de62883a10b1773ad5d",
+    "station": {
+      "address": {
+        "city": "Liberec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.7635539,
+        "longitude": 15.0478736,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Vaňurova",
+        "url": ""
+      },
+      "customID": "191977",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N270"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N270"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N270 - Liberec - Vaňurova - 1",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
