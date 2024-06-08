@@ -3807,13 +3807,13 @@
   },
   "CZ1002673": {
     "name": "SMIGHT Pražská energetika 19",
-    "sha1": "317c6bb6bc58c1b616aa3e6458a7372dc5300016",
+    "sha1": "a6b52afed23cac7817c91d58bdef9adb3536ae9c",
     "station": {
       "additionalInfo": "u budovy PRE",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "200 - 240V, 1-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤16A"
         ]
       },
       "city": "Praha",
