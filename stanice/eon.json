@@ -19892,6 +19892,132 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "268311": {
+    "name": "(P) Wienerberger s.r.o. - Novosedly",
+    "sha1": "3776ea105f9f1be429475e2dd4c3d761cc6adb62",
+    "station": {
+      "address": "Novosedly 509",
+      "city": "Novosedly",
+      "coordinates": {
+        "latitude": "48.8356939",
+        "longitude": "16.5115669"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-06-11T16:00:29.407Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "356",
+                "357"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.8356939",
+            "longitude": "16.5115669"
+          },
+          "evse_id": "CZ*EON*E220109573*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "109573"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-06-11T16:00:29.407Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "356",
+                "357"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.8356939",
+            "longitude": "16.5115669"
+          },
+          "evse_id": "CZ*EON*E220109574*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "109574"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "RECREATION_AREA",
+        "NATURE",
+        "BUS_STOP",
+        "PARKING_LOT"
+      ],
+      "id": "268311",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpeg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/270763/5221081718120193.jpeg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpeg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/270763/8827301718120194.jpeg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) Wienerberger s.r.o. - Novosedly",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Wienerberger s.r.o."
+      },
+      "owner": {
+        "name": "Wienerberger s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "691 82",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "26970": {
     "name": "E.ON Český Krumlov P3",
     "sha1": "7c06d7d87b3f0c220fed34c2e10e5ad69cf1abeb",
