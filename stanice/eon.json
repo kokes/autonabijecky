@@ -47842,7 +47842,7 @@
   },
   "55601": {
     "name": "(P) Líšenský dvůr",
-    "sha1": "09ad790a5d876e306f9b276ab5ace09fdb579f52",
+    "sha1": "22795e98c30874a8da89c789be4a4407c0f45107",
     "station": {
       "address": "Líšná 23",
       "city": "Líšná",
@@ -47867,9 +47867,9 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2021-07-14T16:20:39.613Z",
+              "last_updated": "2024-06-12T22:01:48.437Z",
               "max_amperage": 16,
-              "max_electric_power": 11000,
+              "max_electric_power": 22000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
