@@ -3108,6 +3108,90 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "117365": {
+    "name": "(P) Metropole Teplice",
+    "sha1": "454ce8826a0504178e767c8aef6d3b4fc03ab98a",
+    "station": {
+      "address": "Josefská 1979",
+      "city": "Teplice - Trnovany",
+      "coordinates": {
+        "latitude": "50.6513861",
+        "longitude": "13.8380256"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-06-13T14:51:55.93Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "358",
+                "359"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "50.6513861",
+            "longitude": "13.8380256"
+          },
+          "evse_id": "CZ*EON*E22117365*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "117365"
+        }
+      ],
+      "facilities": [
+        "RESTAURANT",
+        "CAFE",
+        "MALL",
+        "SUPERMARKET",
+        "SPORT",
+        "RECREATION_AREA",
+        "BUS_STOP",
+        "PARKING_LOT",
+        "WIFI"
+      ],
+      "id": "117365",
+      "last_updated": "RESET",
+      "name": "(P) Metropole Teplice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Xsport s.r.o."
+      },
+      "owner": {
+        "name": "Xsport s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "415 01",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "117366": {
     "name": "(P) Prima k.s. - Automyčka Mimoň",
     "sha1": "d51ba40ce4aed60d9bc064c102065866859b15e7",
@@ -47841,8 +47925,8 @@
     }
   },
   "55601": {
-    "name": "(P) Líšenský dvůr",
-    "sha1": "22795e98c30874a8da89c789be4a4407c0f45107",
+    "name": "(P) Hotel Líšenský Dvůr",
+    "sha1": "a3ba0b24f4bbb6ca0af9d8a881a68403d5363108",
     "station": {
       "address": "Líšná 23",
       "city": "Líšná",
@@ -47901,12 +47985,17 @@
       "images": [
         {
           "category": "OTHER",
-          "type": "jpg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/73489/3136401626279790.jpg"
+          "type": "jpeg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/73489/1569351718310781.jpeg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpeg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/73489/3560501718310781.jpeg"
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Líšenský dvůr",
+      "name": "(P) Hotel Líšenský Dvůr",
       "opening_times": {
         "twentyfourseven": true
       },
