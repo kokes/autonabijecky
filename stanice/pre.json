@@ -17499,9 +17499,9 @@
   },
   "CZ5202830": {
     "name": "Office Space Trutnov",
-    "sha1": "45998a8f847e6a2ae8484f5e68eb753aa7b63406",
+    "sha1": "2c1722d54714475bb5fe01b9b04daa1653d5c0da",
     "station": {
-      "additionalInfo": "Bei der Komerční Banka",
+      "additionalInfo": "u Komerční banky",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
@@ -17528,12 +17528,12 @@
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365334f4b8a750ff79a75e/IMG_4163.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365334f4b8a750ff79a75e/IMG_4164.jpeg"
         },
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365334f4b8a750ff79a75e/IMG_4164.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365334f4b8a750ff79a75e/IMG_4163.jpeg"
         }
       ],
       "isHome": true,
@@ -26105,12 +26105,12 @@
   },
   "CZ9283181": {
     "name": "Hornbach Brno",
-    "sha1": "6fbe73d8d779cb633d7b84e029b357973522c7e2",
+    "sha1": "d5fd55c13e8bea024544fed4711a7f73bab5e94d",
     "station": {
       "additionalInfo": "Hornbach Brno",
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "200 - 240V, 1-Phase >32A"
         ]
       },
       "city": "Brno",
@@ -26129,6 +26129,23 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6578421eb00b887ef007f70d/Image2024-06-14at10.54.11.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6578421eb00b887ef007f70d/Image2024-06-14at10.52.40.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6578421eb00b887ef007f70d/Image2024-06-14at10.12.39%282%29.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
