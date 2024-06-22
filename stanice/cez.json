@@ -36101,6 +36101,152 @@
       "visible": true
     }
   },
+  "192455": {
+    "name": "R639 - Opava - Kaufland I.",
+    "sha1": "6b482427618d5e621ba035dc851bf0b5b1beb709",
+    "station": {
+      "address": {
+        "city": "Opava - Předměstí",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2995/121",
+        "latitude": 49.9314436,
+        "longitude": 17.8752259,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Olomoucká",
+        "url": ""
+      },
+      "customID": "192455",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R639"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R639"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/3-20240621-102734.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R639 - Opava - Kaufland I.",
+      "visible": true
+    }
+  },
+  "192474": {
+    "name": "R640 - Opava - Kaufland II.",
+    "sha1": "99896aca89c1198401b07138851d2afdfe210b02",
+    "station": {
+      "address": {
+        "city": "Opava - Předměstí",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2995/121",
+        "latitude": 49.9314436,
+        "longitude": 17.8752259,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Olomoucká",
+        "url": ""
+      },
+      "customID": "192474",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R640"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R640"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/3-20240621-102734.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R640 - Opava - Kaufland II.",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
