@@ -106,7 +106,7 @@
   },
   "CZ1002595": {
     "name": "Vienna House Andel’s Prague",
-    "sha1": "3ae51482bc15cb6a996794b39cb04c6b38642dd9",
+    "sha1": "e35b69dd262c9aea5b138b3f76cfec58f86016f4",
     "station": {
       "additionalInfo": "Von der Straße Stroupeznickeho, Ebene -2. Nach der Einfahrt in den öffentlichen Teil biegen Sie rechts ab und fahren in den Hotelteil. Das Parkticket muss vor der Hotelgarage erneut gescannt werden.",
       "branch": "Parken",
@@ -124,7 +124,9 @@
       "csType": "",
       "enAdditionalInfo": "From the street Stroupeznickeho, -2 level. After entering public part of the garage, turn right and access hotel part. Parking ticket needs to be scanned again in front of the hotel garage.",
       "enCsname": "Vienna House Andel’s Prague",
+      "enExtra": "Paid parking as per hotel’s pricelist, parking ticket will be validated at the hotel reception.",
       "evseId": "CZ*PRE*E1S0048*1",
+      "extra": "Bezahltes Parken laut Preisliste des Hotels, das Parkticket wird an der Hotelrezeption entwertet.",
       "geoCoord": {
         "latitude": "50.071162",
         "longitude": "14.402629"
@@ -7530,7 +7532,7 @@
   },
   "CZ1003183": {
     "name": "P+R Černý Most",
-    "sha1": "0437b4d536a0df0ecd221bd2a9b5868d5d1f2067",
+    "sha1": "85c4a76465184d3abf9f91c3dbedcc7452808344",
     "station": {
       "additionalInfo": "P+R Černý Most, nach dem Eingangstor.",
       "branch": "Parken",
@@ -7548,7 +7550,9 @@
       "csType": "",
       "enAdditionalInfo": "P+R Černý Most, after entrance gate. Free time component for 12 hours \n",
       "enCsname": "P+R Černý Most",
+      "enExtra": "Volná časová složka po dobu 12 hodin\n\n",
       "evseId": "CZ*PRE*E1S0061*2",
+      "extra": "Volná časová složka po dobu 12 hodin\n\n",
       "geoCoord": {
         "latitude": "50.110235",
         "longitude": "14.579391"

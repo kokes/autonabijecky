@@ -26408,7 +26408,7 @@
   },
   "181912": {
     "name": "R576 - Židenice - Kaufland",
-    "sha1": "5efc4f4f2bef344b61eb3afb402c1d80dc08e61c",
+    "sha1": "41a4ee6122207d93236a1c744bb7679a01aa239c",
     "station": {
       "address": {
         "city": "Židenice",
@@ -26471,7 +26471,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/12/3505125e-8ede-4f9f-af61-530e0f241258.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/img_7318.jpeg"
         }
       ],
       "instructions": null,
@@ -34660,7 +34660,7 @@
   },
   "190330": {
     "name": "WB011 - Popovičky - Nebřenice - OAKS Prague Chateau - I.",
-    "sha1": "50be11ede5cfb4bb87125ca6caaf44bbdc95397f",
+    "sha1": "f7fd24c199c1264a12eb4ac0699322abb922804f",
     "station": {
       "address": {
         "city": "Povovičky - Nebřenice",
@@ -34700,7 +34700,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/img_0239.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/img_7318.jpeg"
         }
       ],
       "instructions": null,
@@ -34710,7 +34710,7 @@
   },
   "190332": {
     "name": "WB013 - Popovičky - Nebřenice - OAKS Prague Chateau - III.",
-    "sha1": "6b30cbe5f1d96e69df5e99cc2e4dd8f4fb5e84df",
+    "sha1": "d310db45d9869c1c5af540bf3a0bfff191ac373d",
     "station": {
       "address": {
         "city": "Povovičky - Nebřenice",
@@ -34750,7 +34750,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/img_0239.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/img_7318.jpeg"
         }
       ],
       "instructions": null,
@@ -36244,6 +36244,215 @@
       ],
       "instructions": null,
       "name": "R640 - Opava - Kaufland II.",
+      "visible": true
+    }
+  },
+  "193134": {
+    "name": "WB021 - Karlovy Vary - Hotel Thermal - II.",
+    "sha1": "73068adab58621579ef72edc8a5d6ab8e5315c72",
+    "station": {
+      "address": {
+        "city": "Karlovy Vary",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "P. Pavlova 2001/11",
+        "latitude": 50.2288094,
+        "longitude": 12.8764981,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "I.",
+        "url": ""
+      },
+      "customID": "193134",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB021"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/img_7318.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB021 - Karlovy Vary - Hotel Thermal - II.",
+      "visible": true
+    }
+  },
+  "193135": {
+    "name": "WB022 - Karlovy Vary - Hotel Thermal - III.",
+    "sha1": "0839e14c6579a7a73c3d6a67bd66fe30f7ab917e",
+    "station": {
+      "address": {
+        "city": "Karlovy Vary",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "P. Pavlova 2001/11",
+        "latitude": 50.2288094,
+        "longitude": 12.8764981,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "I.",
+        "url": ""
+      },
+      "customID": "193135",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB022"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/img_7318.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB022 - Karlovy Vary - Hotel Thermal - III.",
+      "visible": true
+    }
+  },
+  "193165": {
+    "name": "WB020 - Karlovy Vary - Hotel Thermal - I.",
+    "sha1": "aed32ca2e11b08aaf07d962c2ff66916cf4a186e",
+    "station": {
+      "address": {
+        "city": "Karlovy Vary",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "P. Pavlova 2001/11",
+        "latitude": 50.2288094,
+        "longitude": 12.8764981,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "I.",
+        "url": ""
+      },
+      "customID": "193165",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB020"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/img_7318.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB020 - Karlovy Vary - Hotel Thermal - I.",
+      "visible": true
+    }
+  },
+  "193166": {
+    "name": "WB023 - Karlovy Vary - Hotel Thermal - IV.",
+    "sha1": "b69da5946b0f277b4b765f9adbaaf1621b3cab0b",
+    "station": {
+      "address": {
+        "city": "Karlovy Vary",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "P. Pavlova 2001/11",
+        "latitude": 50.2288094,
+        "longitude": 12.8764981,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "I.",
+        "url": ""
+      },
+      "customID": "193166",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 24,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB023"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/img_7318.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB023 - Karlovy Vary - Hotel Thermal - IV.",
       "visible": true
     }
   },
