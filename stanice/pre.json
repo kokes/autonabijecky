@@ -6441,7 +6441,7 @@
   },
   "CZ1002832": {
     "name": "Skanska Park View",
-    "sha1": "b036af66c6a5e81e9ceed8edb6cade1c80aaf107",
+    "sha1": "f358fac464a11944673b2cd74964dbadf829ea3e",
     "station": {
       "additionalInfo": "In der Pujmanova Straße",
       "branch": "Parken",
@@ -6466,6 +6466,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ccf4b8a750ff799e23/Foto_Parkview.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -16856,7 +16863,7 @@
   },
   "CZ4202808": {
     "name": "Benzina Chomutov",
-    "sha1": "539e0558f85975a870996e865098ba4051d8d09d",
+    "sha1": "31f3750d5168be806b1d3b8a6972d8195a974d1f",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "Tankstelle",
@@ -16881,6 +16888,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff7990bd/Foto.png"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -18633,7 +18647,7 @@
   },
   "CZ6402643": {
     "name": "Alza Brno",
-    "sha1": "6cdad1d83eee1e8522afeb9818b5d609c6da731a",
+    "sha1": "fbdfc509a61e8456bfa3f0a66f807bc072b4727f",
     "station": {
       "additionalInfo": "Parkplatz von Alza.cz",
       "branch": "Parken",
@@ -18658,6 +18672,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc83/obr%C3%A1zek.png"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -18677,7 +18698,7 @@
   },
   "CZ6402684": {
     "name": "Brno EnergServis",
-    "sha1": "8c5e864c63209f0f880840d15c299b3fd6c86448",
+    "sha1": "ae8162912717b2531368e5bed0c5a3367e90f7ad",
     "station": {
       "branch": "Parken",
       "chargingFacilities": {
@@ -18701,6 +18722,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc48/PREpoint.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -23265,7 +23293,7 @@
   },
   "CZ8635878": {
     "name": "Palác Pardubice",
-    "sha1": "598fba7824cdc26bada012c7bd1d58520c54a2f6",
+    "sha1": "cb8fbf07d17e63f62afbfd4ac75f23f725f63446",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -23287,6 +23315,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6572d2eab00b887ef007f5e0/20231220_122413_resized.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6572d2eab00b887ef007f5e0/20231220_122424_resized.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -24399,7 +24439,7 @@
   },
   "CZ9001721": {
     "name": "Park Holiday Hotel Benice",
-    "sha1": "34402aeb8cdcc58e33bf00b3f152b3c021746de9",
+    "sha1": "2ea41b31b77b876fa3bbb1d03847c974cc7d9c60",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -24420,6 +24460,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jfif",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/660bbbf22d95e30899999f3b/1.jfif"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jfif",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/660bbbf22d95e30899999f3b/2.jfif"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
