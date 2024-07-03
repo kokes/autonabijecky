@@ -8904,7 +8904,7 @@
   },
   "171762": {
     "name": "(P) Hošek Motor - Žarošická",
-    "sha1": "646732ceee333c28418509cab0797270449c9b19",
+    "sha1": "9c9ef67a8b92881c468ad3b57827aed9feba8567",
     "station": {
       "address": "Žarošická 4315/17",
       "city": "Brno",
@@ -8929,15 +8929,15 @@
             {
               "format": "CABLE",
               "id": "1",
-              "last_updated": "2023-01-03T08:17:55.877Z",
+              "last_updated": "2024-07-02T11:12:22.22Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 150000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "203",
-                "205"
+                "206",
+                "207"
               ]
             }
           ],
@@ -8945,7 +8945,7 @@
             "latitude": "49.20826385",
             "longitude": "16.66382171"
           },
-          "evse_id": "CZ*EON*E159672*1",
+          "evse_id": "CZ*EON*E32159672*1",
           "last_seen_as_planned": "2023-07-17T14:18:39.283Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -8962,15 +8962,15 @@
             {
               "format": "CABLE",
               "id": "2",
-              "last_updated": "2023-01-03T08:17:55.877Z",
+              "last_updated": "2024-07-02T11:12:22.22Z",
               "max_amperage": 125,
-              "max_electric_power": 50000,
+              "max_electric_power": 150000,
               "max_voltage": 500,
               "power_type": "DC",
               "standard": "IEC_62196_T2_COMBO",
               "tariff_ids": [
-                "203",
-                "205"
+                "206",
+                "207"
               ]
             }
           ],
@@ -8978,7 +8978,7 @@
             "latitude": "49.20826385",
             "longitude": "16.66382171"
           },
-          "evse_id": "CZ*EON*E159672*2",
+          "evse_id": "CZ*EON*E32159672*2",
           "last_seen_as_planned": "2023-07-17T14:18:39.283Z",
           "last_updated": "RESET",
           "status": "RESET",
@@ -9011,7 +9011,7 @@
             "latitude": "49.20826385",
             "longitude": "16.66382171"
           },
-          "evse_id": "CZ*EON*E159672*3",
+          "evse_id": "CZ*EON*E32159672*3",
           "last_seen_as_planned": "2023-07-17T14:18:39.283Z",
           "last_updated": "RESET",
           "status": "RESET",
