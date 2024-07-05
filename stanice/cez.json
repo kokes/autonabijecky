@@ -22136,7 +22136,7 @@
   },
   "177301": {
     "name": "N229 - Pěnčín - Kozí farma",
-    "sha1": "411eb9f729f108a1883c99a2d55ed178748d35fe",
+    "sha1": "b6f86f0942c0accc52fc7bdb86486b6811e8ed78",
     "station": {
       "address": {
         "city": "Pěnčín",
@@ -22190,7 +22190,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/06/87669365-1388-4042-a532-6dfc2637713c.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
         }
       ],
       "instructions": null,
@@ -36456,6 +36456,1778 @@
       "visible": true
     }
   },
+  "193370": {
+    "name": "UR175 - D1, 96km směr Praha - Herálec - II.",
+    "sha1": "907796293a3211243771f4cb16bf13e7f211a23a",
+    "station": {
+      "address": {
+        "city": "Herálec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "96 km směr Praha, odpočívka Mikulášov",
+        "latitude": 49.51564,
+        "longitude": 15.41627,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1,",
+        "url": ""
+      },
+      "customID": "193370",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 160,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR175"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR175"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR175 - D1, 96km směr Praha - Herálec - II.",
+      "visible": true
+    }
+  },
+  "193371": {
+    "name": "UR176 - D1, 96km směr Praha - Herálec - III.",
+    "sha1": "13bbb667c7239e8e1b115b3e4a83f1239a5da07f",
+    "station": {
+      "address": {
+        "city": "Herálec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "96 km směr Praha, odpočívka Mikulášov",
+        "latitude": 49.51564,
+        "longitude": 15.41627,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1,",
+        "url": ""
+      },
+      "customID": "193371",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 160,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR176"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR176"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR176 - D1, 96km směr Praha - Herálec - III.",
+      "visible": true
+    }
+  },
+  "193372": {
+    "name": "UR211 - D1, 96km směr Praha - Herálec - X.",
+    "sha1": "82b310db5b12e53eb3c7e9f66108eb6654673798",
+    "station": {
+      "address": {
+        "city": "Herálec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "96 km směr Praha, odpočívka Mikulášov",
+        "latitude": 49.51564,
+        "longitude": 15.41627,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1,",
+        "url": ""
+      },
+      "customID": "193372",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR211"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR211 - D1, 96km směr Praha - Herálec - X.",
+      "visible": true
+    }
+  },
+  "193373": {
+    "name": "UR206 - Rakovník - Kaufland",
+    "sha1": "9f04ce27c46c6f1a91de4efd5dad7d2e42f212f7",
+    "station": {
+      "address": {
+        "city": "Rakovník",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.1096,
+        "longitude": 13.7369,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Luženská",
+        "url": ""
+      },
+      "customID": "193373",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR206"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR206"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_7483.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR206 - Rakovník - Kaufland",
+      "visible": true
+    }
+  },
+  "193374": {
+    "name": "R630 - Ústí nad Labem - Retros - I.",
+    "sha1": "79a30e04f632d9c08a46d9a0006f5a12c4035955",
+    "station": {
+      "address": {
+        "city": "Ústí nad Labem",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "966/226",
+        "latitude": 50.67457,
+        "longitude": 14.0166803,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Masarykova",
+        "url": ""
+      },
+      "customID": "193374",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R630"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R630"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R630 - Ústí nad Labem - Retros - I.",
+      "visible": true
+    }
+  },
+  "193375": {
+    "name": "R631 - Ústí nad Labem - Retros - II.",
+    "sha1": "8d80ec3180d23ed5fa68d341c930cc6af4aa166e",
+    "station": {
+      "address": {
+        "city": "Ústí nad Labem",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "966/226",
+        "latitude": 50.67457,
+        "longitude": 14.0166803,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Masarykova",
+        "url": ""
+      },
+      "customID": "193375",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R631"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R631"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R631 - Ústí nad Labem - Retros - II.",
+      "visible": true
+    }
+  },
+  "193376": {
+    "name": "R632 - Kraslice - Albert",
+    "sha1": "f67c451032b25445f87b880b492cbf9366eac123",
+    "station": {
+      "address": {
+        "city": "Kraslice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Čecha 1913",
+        "latitude": 50.3324419,
+        "longitude": 12.5026811,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Svatopluka",
+        "url": ""
+      },
+      "customID": "193376",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R632"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R632"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R632 - Kraslice - Albert",
+      "visible": true
+    }
+  },
+  "193377": {
+    "name": "R634 - Bor u Tachova - Automyčka - II.",
+    "sha1": "d1aa1f499ea6447dfc962c035ac1aef40a007e61",
+    "station": {
+      "address": {
+        "city": "Bor",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.7096969,
+        "longitude": 12.7727061,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Přimdská",
+        "url": ""
+      },
+      "customID": "193377",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R634"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R634"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/3-20240621-102734.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R634 - Bor u Tachova - Automyčka - II.",
+      "visible": true
+    }
+  },
+  "193378": {
+    "name": "R647 - Nový Bor - Kaufland - III.",
+    "sha1": "b12da6a71f9b8b4c5eebbfa42ddc5bfe3c0feca1",
+    "station": {
+      "address": {
+        "city": "Nový Bor",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Egermanna 881",
+        "latitude": 50.7655356,
+        "longitude": 14.5440453,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "B.",
+        "url": ""
+      },
+      "customID": "193378",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R647"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R647"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/02/58e7967f-d86a-489f-add2-353a76ce7781.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R647 - Nový Bor - Kaufland - III.",
+      "visible": true
+    }
+  },
+  "193390": {
+    "name": "R629 - D1, 96km směr Praha - Herálec - I.",
+    "sha1": "fc273cc0daddc8dd4d45e11725848356c1be0774",
+    "station": {
+      "address": {
+        "city": "Herálec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "96 km směr Praha, odpočívka Mikulášov",
+        "latitude": 49.51564,
+        "longitude": 15.41627,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1,",
+        "url": ""
+      },
+      "customID": "193390",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R629"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R629"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R629 - D1, 96km směr Praha - Herálec - I.",
+      "visible": true
+    }
+  },
+  "193391": {
+    "name": "UR177 - D1, 96km směr Praha - Herálec - IV.",
+    "sha1": "539631b2d8ed164bae14db4877dea028acb13d38",
+    "station": {
+      "address": {
+        "city": "Herálec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "96 km směr Praha, odpočívka Mikulášov",
+        "latitude": 49.51564,
+        "longitude": 15.41627,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1,",
+        "url": ""
+      },
+      "customID": "193391",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 160,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR177"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR177 - D1, 96km směr Praha - Herálec - IV.",
+      "visible": true
+    }
+  },
+  "193392": {
+    "name": "UR178 - D1, 96km směr Praha - Herálec - V.",
+    "sha1": "89cb269897d1cf1ded39d1a1669f0bbd09bcd00c",
+    "station": {
+      "address": {
+        "city": "Herálec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "96 km směr Praha, odpočívka Mikulášov",
+        "latitude": 49.51564,
+        "longitude": 15.41627,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1,",
+        "url": ""
+      },
+      "customID": "193392",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 160,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR178"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR178 - D1, 96km směr Praha - Herálec - V.",
+      "visible": true
+    }
+  },
+  "193393": {
+    "name": "UR179 - D1, 96km směr Praha - Herálec - VI.",
+    "sha1": "505425cf5d5a0f0f8dd34f538a7ca89fa60a91ee",
+    "station": {
+      "address": {
+        "city": "Herálec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "96 km směr Praha, odpočívka Mikulášov",
+        "latitude": 49.51564,
+        "longitude": 15.41627,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1,",
+        "url": ""
+      },
+      "customID": "193393",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR179"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR179 - D1, 96km směr Praha - Herálec - VI.",
+      "visible": true
+    }
+  },
+  "193394": {
+    "name": "UR180 - D1, 96km směr Praha - Herálec - VII.",
+    "sha1": "862883554dabf5df5b6729df9f326d3e2ee6f78c",
+    "station": {
+      "address": {
+        "city": "Herálec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "96 km směr Praha, odpočívka Mikulášov",
+        "latitude": 49.51564,
+        "longitude": 15.41627,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1,",
+        "url": ""
+      },
+      "customID": "193394",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR180"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR180 - D1, 96km směr Praha - Herálec - VII.",
+      "visible": true
+    }
+  },
+  "193395": {
+    "name": "UR181 - D1, 96km směr Praha - Herálec - VIII.",
+    "sha1": "0d9e90e54318cf2acff270c490ae6f69e1890634",
+    "station": {
+      "address": {
+        "city": "Herálec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "96 km směr Praha, odpočívka Mikulášov",
+        "latitude": 49.51564,
+        "longitude": 15.41627,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1,",
+        "url": ""
+      },
+      "customID": "193395",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR181"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR181 - D1, 96km směr Praha - Herálec - VIII.",
+      "visible": true
+    }
+  },
+  "193396": {
+    "name": "UR182 - D1, 96km směr Praha - Herálec - IX.",
+    "sha1": "12019cf0f1747aef150895179e5c83e2e88b3811",
+    "station": {
+      "address": {
+        "city": "Herálec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "96 km směr Praha, odpočívka Mikulášov",
+        "latitude": 49.51564,
+        "longitude": 15.41627,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1,",
+        "url": ""
+      },
+      "customID": "193396",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR182"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR182 - D1, 96km směr Praha - Herálec - IX.",
+      "visible": true
+    }
+  },
+  "193397": {
+    "name": "UR212 - D1, 96km směr Praha - Herálec - XI.",
+    "sha1": "adc8f6a1806566561c6a112dc150cb8642eb7d6c",
+    "station": {
+      "address": {
+        "city": "Herálec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "96 km směr Praha, odpočívka Mikulášov",
+        "latitude": 49.51564,
+        "longitude": 15.41627,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1,",
+        "url": ""
+      },
+      "customID": "193397",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR212"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR212 - D1, 96km směr Praha - Herálec - XI.",
+      "visible": true
+    }
+  },
+  "193398": {
+    "name": "UR213 - D1, 96km směr Praha - Herálec - XII.",
+    "sha1": "3acc37bf1274c6f1acfd6a2543fb3cfa73e17faf",
+    "station": {
+      "address": {
+        "city": "Herálec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "96 km směr Praha, odpočívka Mikulášov",
+        "latitude": 49.51564,
+        "longitude": 15.41627,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1,",
+        "url": ""
+      },
+      "customID": "193398",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR213"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR213 - D1, 96km směr Praha - Herálec - XII.",
+      "visible": true
+    }
+  },
+  "193399": {
+    "name": "UR214 - D1, 96km směr Praha - Herálec - XIII.",
+    "sha1": "dd78ef5ce5c38ab0e3655e04b97343140fbe76db",
+    "station": {
+      "address": {
+        "city": "Herálec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "96 km směr Praha, odpočívka Mikulášov",
+        "latitude": 49.51564,
+        "longitude": 15.41627,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1,",
+        "url": ""
+      },
+      "customID": "193399",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR214"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR214 - D1, 96km směr Praha - Herálec - XIII.",
+      "visible": true
+    }
+  },
+  "193400": {
+    "name": "UR215 - D1, 96km směr Praha - Herálec - XIV.",
+    "sha1": "283290ed526440618deca86b9f4e7ca9dbbf8c99",
+    "station": {
+      "address": {
+        "city": "Herálec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "96 km směr Praha, odpočívka Mikulášov",
+        "latitude": 49.51564,
+        "longitude": 15.41627,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "D1,",
+        "url": ""
+      },
+      "customID": "193400",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR215"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR215 - D1, 96km směr Praha - Herálec - XIV.",
+      "visible": true
+    }
+  },
+  "193401": {
+    "name": "R637 - Telč - parkoviště P1",
+    "sha1": "15be07247222943a5ad9f8cab06eeff28f8fa6fd",
+    "station": {
+      "address": {
+        "city": "Telč",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Sádkách - parkoviště",
+        "latitude": 49.18668,
+        "longitude": 15.44862,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Slavatovská/Na",
+        "url": ""
+      },
+      "customID": "193401",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R637"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R637"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1360.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R637 - Telč - parkoviště P1",
+      "visible": true
+    }
+  },
+  "193402": {
+    "name": "UR171 - Přerov",
+    "sha1": "827ed07d0ce4fe021ca68685056ef76aed2da007",
+    "station": {
+      "address": {
+        "city": "Přerov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "243",
+        "latitude": 49.45163,
+        "longitude": 17.454736,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Čechova",
+        "url": ""
+      },
+      "customID": "193402",
+      "description": [
+        {
+          "language": "cs",
+          "text": "U kina Hvězda"
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR171"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR171"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR171 - Přerov",
+      "visible": true
+    }
+  },
+  "193403": {
+    "name": "R635 - Rokycany - Kaufland - I.",
+    "sha1": "6eb100b17e9a0b2e787aee235df75ec2b4a30063",
+    "station": {
+      "address": {
+        "city": "Rokycany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Růžičky 1226",
+        "latitude": 49.7389406,
+        "longitude": 13.600255,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Josefa",
+        "url": ""
+      },
+      "customID": "193403",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R635"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R635"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R635 - Rokycany - Kaufland - I.",
+      "visible": true
+    }
+  },
+  "193404": {
+    "name": "R636 - Rokycany - Kaufland - II.",
+    "sha1": "e5372d7ffbce1e6f2416def7b3c9f002266f7b74",
+    "station": {
+      "address": {
+        "city": "Rokycany",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Růžičky 1226",
+        "latitude": 49.7389406,
+        "longitude": 13.600255,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Josefa",
+        "url": ""
+      },
+      "customID": "193404",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R636"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R636"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R636 - Rokycany - Kaufland - II.",
+      "visible": true
+    }
+  },
+  "193405": {
+    "name": "R633 - Bor u Tachova - Automyčka - I.",
+    "sha1": "481709933fe72f04213dd26fef193a59faf6a8d9",
+    "station": {
+      "address": {
+        "city": "Bor",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.7096969,
+        "longitude": 12.7727061,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Přimdská",
+        "url": ""
+      },
+      "customID": "193405",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R633"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R633"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/04/1fc6bc2b-b6bf-4ba9-b322-4ee2177a1e44-20240412-180127.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R633 - Bor u Tachova - Automyčka - I.",
+      "visible": true
+    }
+  },
+  "193406": {
+    "name": "R645 - Nový Bor - Kaufland - I.",
+    "sha1": "6b31ea319ee90e0159a59665215ffbd48d81b99d",
+    "station": {
+      "address": {
+        "city": "Nový Bor",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Egermanna 881",
+        "latitude": 50.7655356,
+        "longitude": 14.5440453,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "B.",
+        "url": ""
+      },
+      "customID": "193406",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R645"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R645"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_1373-1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R645 - Nový Bor - Kaufland - I.",
+      "visible": true
+    }
+  },
+  "193407": {
+    "name": "R646 - Nový Bor - Kaufland - II.",
+    "sha1": "c0302bba8b32e155465587eb1c82583581696f33",
+    "station": {
+      "address": {
+        "city": "Nový Bor",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Egermanna 881",
+        "latitude": 50.7655356,
+        "longitude": 14.5440453,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "B.",
+        "url": ""
+      },
+      "customID": "193407",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R646"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R646"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/03/img_9602.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R646 - Nový Bor - Kaufland - II.",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
@@ -50424,79 +52196,6 @@
       ],
       "instructions": null,
       "name": "R266 - Zlín - Samohýl Mercedes Benz - 1",
-      "visible": true
-    }
-  },
-  "92968": {
-    "name": "R265 - Přerov",
-    "sha1": "bc45e19366b865421616456797d3705024b4170a",
-    "station": {
-      "address": {
-        "city": "Přerov",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "243",
-        "latitude": 49.45163,
-        "longitude": 17.454736,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Čechova",
-        "url": ""
-      },
-      "customID": "92968",
-      "description": [
-        {
-          "language": "cs",
-          "text": "U kina Hvězda"
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T54-HU1-0820-008",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R265"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-0820-008",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T54-HU1-0820-008",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R265"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/20210817_144152.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R265 - Přerov",
       "visible": true
     }
   },
