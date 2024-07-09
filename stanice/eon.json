@@ -16742,6 +16742,132 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "250189": {
+    "name": "(P) Pivovar Tupadly",
+    "sha1": "6e381345107ca5a393ca3879389dee14f6f0c5c3",
+    "station": {
+      "address": "Tupadly 113",
+      "city": "Tupadly",
+      "coordinates": {
+        "latitude": "49.8690814",
+        "longitude": "15.4026564"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-07-08T11:34:30.02Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "360",
+                "361"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.8690814",
+            "longitude": "15.4026564"
+          },
+          "evse_id": "CZ*EON*E31250189*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "250189"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-07-08T11:34:30.02Z",
+              "max_amperage": 16,
+              "max_electric_power": 11000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "360",
+                "361"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.8690814",
+            "longitude": "15.4026564"
+          },
+          "evse_id": "CZ*EON*E31250189*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "250190"
+        }
+      ],
+      "facilities": [
+        "HOTEL",
+        "RESTAURANT",
+        "NATURE",
+        "BUS_STOP",
+        "PARKING_LOT",
+        "WIFI"
+      ],
+      "id": "250189",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpeg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/273906/1025711720429765.jpeg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpeg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/273906/8905991720429765.jpeg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) Pivovar Tupadly",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "Pivovar Tupadly s.r.o."
+      },
+      "owner": {
+        "name": "Pivovar Tupadly s.r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "285 63",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "250965": {
     "name": "(P) Olfin Car Palace s.r.o.",
     "sha1": "769cd46f00f815fee5848331f6c414c9856ee63d",
@@ -18087,7 +18213,7 @@
   },
   "252321": {
     "name": "(P) GUMEX spol. s r.o. - Brno",
-    "sha1": "e91389b4b8ba3c79b126873dd1777040e80bd9ba",
+    "sha1": "020a645617950d17baa70cb493cd30f9974f6e95",
     "station": {
       "address": "Kaštanová 555/125d",
       "city": "Brno",
@@ -18112,7 +18238,7 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2024-02-21T11:38:49.2Z",
+              "last_updated": "2024-07-08T14:20:04.63Z",
               "max_amperage": 32,
               "max_electric_power": 22000,
               "max_voltage": 400,
@@ -18120,7 +18246,9 @@
               "standard": "IEC_62196_T2",
               "tariff_ids": [
                 "310",
-                "311"
+                "311",
+                "362",
+                "363"
               ]
             }
           ],
