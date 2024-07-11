@@ -24439,7 +24439,7 @@
   },
   "CZ9001721": {
     "name": "Park Holiday Hotel Benice",
-    "sha1": "2ea41b31b77b876fa3bbb1d03847c974cc7d9c60",
+    "sha1": "0b34236f8d299a56f881652c7bd8b6f3ae92156f",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -24450,7 +24450,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9001721",
-      "csStatus": "ready",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Park Holiday Hotel Benice",
       "evseId": "CZ*PRE*E1S8293*2",
@@ -27893,7 +27893,7 @@
   },
   "CZ9749182": {
     "name": "Zahradní Město - Sněženková",
-    "sha1": "94472d5b2ea8f9f478efde7fe5f386703ce2f10c",
+    "sha1": "45599bcb90e88476fbceb31aa665a512b3814899",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -27904,7 +27904,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9749182",
-      "csStatus": "ready",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Zahradní Město - Sněženková",
       "evseId": "CZ*PRE*E1S8300*2",
@@ -28457,25 +28457,25 @@
     }
   },
   "CZ9903960": {
-    "name": "Lighthouse Holešovice",
-    "sha1": "75c9d2f10ea68c621fb48ffd99c3e323ca70aafe",
+    "name": "Park Holiday Hotel Benice",
+    "sha1": "8fef65a2f36c1f1ed6de4c535619f4ed699fee3f",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
         ]
       },
-      "city": "Praha ",
+      "city": "Praha  Benice",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9903960",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
-      "enCsname": "Lighthouse Holešovice",
+      "enCsname": "Park Holiday Hotel Benice",
       "evseId": "CZ*PRE*E1S8295*2",
       "geoCoord": {
-        "latitude": "50.102850",
-        "longitude": "14.457513"
+        "latitude": "50.012183",
+        "longitude": "14.603809"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -28491,9 +28491,9 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "17000",
+      "postalCode": "10300",
       "region": "Hlavní město Praha",
-      "street": "Bubenské nábřeží"
+      "street": "Květnového povstání"
     }
   },
   "CZ9910109": {
