@@ -18213,7 +18213,7 @@
   },
   "252321": {
     "name": "(P) GUMEX spol. s r.o. - Brno",
-    "sha1": "020a645617950d17baa70cb493cd30f9974f6e95",
+    "sha1": "1ce0a3d752d6a370f9515129c1de7af6ef3211e1",
     "station": {
       "address": "Kaštanová 555/125d",
       "city": "Brno",
@@ -18261,6 +18261,41 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "131011"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-07-11T22:01:11.377Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "310",
+                "311",
+                "362",
+                "363"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.1593692",
+            "longitude": "16.6388586"
+          },
+          "evse_id": "FI*001*E252321",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "252321"
         }
       ],
       "facilities": [
@@ -18318,7 +18353,7 @@
   },
   "253380": {
     "name": "(P) PTA Servis - Olomouc",
-    "sha1": "e939341f399b6b6812ce659503f0796cdfe14ef8",
+    "sha1": "a75502b5b9f2cdc2412300ce4a648164bf51308b",
     "station": {
       "address": "Kožušany 159",
       "city": "Kožušany-Tážaly",
@@ -18411,6 +18446,24 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "240237"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [],
+          "coordinates": {
+            "latitude": "49.5390669",
+            "longitude": "17.2587036"
+          },
+          "evse_id": "FI*001*E253380",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "253380"
         }
       ],
       "facilities": [
