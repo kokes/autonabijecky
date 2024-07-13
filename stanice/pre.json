@@ -27424,7 +27424,7 @@
   },
   "CZ9628125": {
     "name": "Sídliště Zahradní Město -Jasmínová",
-    "sha1": "eb5e671db93db8a16377b224debbc580475310d0",
+    "sha1": "5c856d22258b0d695da9f73859aa0ddae02d068e",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -27435,7 +27435,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9628125",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Sídliště Zahradní Město -Jasmínová",
       "evseId": "CZ*PRE*E1S8291*2",
@@ -27893,7 +27893,7 @@
   },
   "CZ9749182": {
     "name": "Zahradní Město - Sněženková",
-    "sha1": "45599bcb90e88476fbceb31aa665a512b3814899",
+    "sha1": "3bf77eda42c62c2fcc24bdb8e85e11cc7d26a7b7",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -27914,6 +27914,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jfif",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/660bb8ed2d95e30899999f2c/5ffd18d5-0f5d-47dd-ae7c-6f5a1b22f673.jfif"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -28138,7 +28145,7 @@
   },
   "CZ9807912": {
     "name": "Černý Most - Bryksova",
-    "sha1": "f386ad203478a705e469f28c145fd3a6926b1326",
+    "sha1": "d6c0341f54188796787cb63e1056077c7c09d641",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -28154,8 +28161,8 @@
       "enCsname": "Černý Most - Bryksova",
       "evseId": "CZ*PRE*E1S8241*2",
       "geoCoord": {
-        "latitude": "50.104354",
-        "longitude": "14.585402"
+        "latitude": "50.102894",
+        "longitude": "14.585084"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
