@@ -15066,7 +15066,7 @@
   },
   "232640": {
     "name": "(P) Hyundai 1 Pool DC",
-    "sha1": "6719b2481397377541972e160bd0ea14dfe0e4a7",
+    "sha1": "55c9fad3664efbb3a377c4fa0c7c8911102b8209",
     "station": {
       "address": "Nižní Lhoty",
       "city": "Nošovice",
@@ -15143,6 +15143,38 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "235648"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "3",
+              "last_updated": "2024-07-16T22:01:20.007Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "327"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.65731365",
+            "longitude": "18.45387614"
+          },
+          "evse_id": "CZ*EON*E21235647*3",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "253636"
         }
       ],
       "id": "232640",

@@ -12024,7 +12024,7 @@
   },
   "157925": {
     "name": "R406 - Lipník nad Bečvou",
-    "sha1": "88e3fbd3e9eb9db6f01eecde3bad9755d6f6d691",
+    "sha1": "8cecee1d172a547ed9d305e43719505ea6facd08",
     "station": {
       "address": {
         "city": "Lipník nad Bečvou",
@@ -12087,7 +12087,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/11/img_2446.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/1-20240716-104221.jpg"
         }
       ],
       "instructions": null,
@@ -27467,7 +27467,7 @@
   },
   "183041": {
     "name": "WB001 - Kopřivná - Horský hotel Kopřivná - 2",
-    "sha1": "f0e914f7394b5a9aca9d12fa0527a6655de2f7d8",
+    "sha1": "bb1128bee544dbd670b2f5800081611a981869c9",
     "station": {
       "address": {
         "city": "Malá Morávka",
@@ -27497,7 +27497,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -27663,7 +27663,7 @@
   },
   "183044": {
     "name": "WB002 - Příchovice - Skiareál u Čápa - 1",
-    "sha1": "84c2c556e5effe0e4a321cd693207ec9df921c84",
+    "sha1": "dbcae0ec7830da8a3ad512640749145014acde18",
     "station": {
       "address": {
         "city": "Příchovice",
@@ -27693,7 +27693,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             },
@@ -27702,7 +27702,7 @@
               "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CHADEMO",
               "voltage": null
             }
@@ -27996,7 +27996,7 @@
   },
   "183079": {
     "name": "WB003 - Příchovice - Skiareál u Čápa - 2",
-    "sha1": "ef82490f927d77d11c3a5f8bee08a67f489e136a",
+    "sha1": "04b3902b953d67fce5b2c3d10c8cd52ffb71f7a0",
     "station": {
       "address": {
         "city": "Příchovice",
@@ -28026,7 +28026,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -28046,7 +28046,7 @@
   },
   "183085": {
     "name": "WB004 - Příchovice - Skiareál u Čápa - 3",
-    "sha1": "c65196c33c60950d30a648e226203bc42a8b09f9",
+    "sha1": "d2787aaa453c929924e6fb918bd80e71225c480f",
     "station": {
       "address": {
         "city": "Příchovice",
@@ -28076,7 +28076,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -28452,7 +28452,7 @@
   },
   "185416": {
     "name": "WB006 - Janov nad Nisou - Hotel Královka - 1",
-    "sha1": "fb705fda75b322687ec31f54d579c2b30f1ccc7b",
+    "sha1": "c01c34ecf6f1d46d5b15ea1f41d30f4872689200",
     "station": {
       "address": {
         "city": "Janov nad Nisou",
@@ -28482,7 +28482,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -28502,7 +28502,7 @@
   },
   "185417": {
     "name": "WB009 - Janov nad Nisou - Hotel Královka - 4",
-    "sha1": "d54661e7986e237819cc1c035b20c34e1494bc77",
+    "sha1": "21d01a908e191ed9ebc7cdad033b5123126d1cd7",
     "station": {
       "address": {
         "city": "Janov nad Nisou",
@@ -28532,7 +28532,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -28552,7 +28552,7 @@
   },
   "185418": {
     "name": "WB010 - Janov nad Nisou - Hotel Královka - 5",
-    "sha1": "b423b2916197d49b05049c495efd131985c42461",
+    "sha1": "23e9733b2e867a5d1e8d1ce22ca995cdffa58368",
     "station": {
       "address": {
         "city": "Janov nad Nisou",
@@ -28582,7 +28582,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -28894,7 +28894,7 @@
   },
   "185441": {
     "name": "WB007 - Janov nad Nisou - Hotel Královka - 2",
-    "sha1": "d1645803f7ff068ed3e29d5e801df7321949b21e",
+    "sha1": "1f980ae5747fa32c9109866546aa08798a30fbe4",
     "station": {
       "address": {
         "city": "Janov nad Nisou",
@@ -28924,7 +28924,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -28944,7 +28944,7 @@
   },
   "185442": {
     "name": "WB008 - Janov nad Nisou - Hotel Královka - 3",
-    "sha1": "3a4a609cac1b54689aa4b4f6f45c04a4534f5f8f",
+    "sha1": "79c5f855f39cbf3ce60798ba1f1851540fbf21a6",
     "station": {
       "address": {
         "city": "Janov nad Nisou",
@@ -28974,7 +28974,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             },
@@ -28983,7 +28983,7 @@
               "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CHADEMO",
               "voltage": null
             }
@@ -33283,7 +33283,7 @@
   },
   "190181": {
     "name": "WB016 - Ostrava - OC Koksovna - 2",
-    "sha1": "64e071746853749bf9818975d07ce298a2d41aa6",
+    "sha1": "71440bf1534e6668ab35ec705cd3eb6efa31dfa6",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -33313,7 +33313,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             },
@@ -33322,7 +33322,7 @@
               "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CHADEMO",
               "voltage": null
             }
@@ -33332,7 +33332,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/04/img_9987.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/1-20240716-104047.jpg"
         }
       ],
       "instructions": null,
@@ -33342,7 +33342,7 @@
   },
   "190215": {
     "name": "WB015 - Ostrava - OC Koksovna - 1",
-    "sha1": "86b073e2c9d0131645453ecc373344125447b40f",
+    "sha1": "1b3bfa91832d3f426fd3e11eb2d5c726d5d094f2",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -33372,7 +33372,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -33382,7 +33382,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img_1311.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/1.jpg"
         }
       ],
       "instructions": null,
@@ -33392,7 +33392,7 @@
   },
   "190218": {
     "name": "WB017 - Ostrava - OC Koksovna - 3",
-    "sha1": "f35253392857a0fdc2b5890d383623a55d820ba3",
+    "sha1": "1c48ca37f1aac21e74837f4bfc067c07b2914b1e",
     "station": {
       "address": {
         "city": "Ostrava",
@@ -33422,7 +33422,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -33432,7 +33432,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/11/img_2446.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/1-20240716-104221.jpg"
         }
       ],
       "instructions": null,
@@ -34094,7 +34094,7 @@
   },
   "190320": {
     "name": "WB012 - Popovičky - Nebřenice - OAKS Prague Chateau - II.",
-    "sha1": "e66d27b711c752f26401ba5a882737cc14acd874",
+    "sha1": "e5645615db9ffd4b4ebfcc10dc741394e780b163",
     "station": {
       "address": {
         "city": "Nová Ves I",
@@ -34124,7 +34124,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 120,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             },
@@ -34133,7 +34133,7 @@
               "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CHADEMO",
               "voltage": null
             }
@@ -34143,7 +34143,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/04/img_6924.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_6972.jpeg"
         }
       ],
       "instructions": null,
@@ -34153,7 +34153,7 @@
   },
   "190321": {
     "name": "WB018 - Horní Podluží - Skiareál - I.",
-    "sha1": "6ea1ea4bf9ae78e8a897fc6b8ab2fa00045fa844",
+    "sha1": "b9ecbee3da3f096f733cd1025589ff5ab4ab3d77",
     "station": {
       "address": {
         "city": "Horní Podluží",
@@ -34183,7 +34183,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             },
@@ -34192,7 +34192,7 @@
               "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CHADEMO",
               "voltage": null
             }
@@ -34660,7 +34660,7 @@
   },
   "190330": {
     "name": "WB011 - Popovičky - Nebřenice - OAKS Prague Chateau - I.",
-    "sha1": "f7fd24c199c1264a12eb4ac0699322abb922804f",
+    "sha1": "ba808013da889e6a978091cb612e425f2ebc42d7",
     "station": {
       "address": {
         "city": "Povovičky - Nebřenice",
@@ -34690,7 +34690,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -34700,7 +34700,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/img_7318.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_6972-20240716-103910.jpeg"
         }
       ],
       "instructions": null,
@@ -34710,7 +34710,7 @@
   },
   "190332": {
     "name": "WB013 - Popovičky - Nebřenice - OAKS Prague Chateau - III.",
-    "sha1": "d310db45d9869c1c5af540bf3a0bfff191ac373d",
+    "sha1": "21939f38942c81fde23f3aade08e1717e5919217",
     "station": {
       "address": {
         "city": "Povovičky - Nebřenice",
@@ -34740,7 +34740,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -34750,7 +34750,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/img_7318.jpeg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/img_6972-20240716-103910.jpeg"
         }
       ],
       "instructions": null,
@@ -34760,7 +34760,7 @@
   },
   "190333": {
     "name": "WB019 - Horní Podluží - Skiareál - II.",
-    "sha1": "99c374a4bda90ab02d60118bca8ce45a98b48fed",
+    "sha1": "a11824e80e3e21094aa6cce2bb1ea07f3d86a798",
     "station": {
       "address": {
         "city": "Horní Podluží",
@@ -34790,7 +34790,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -36249,7 +36249,7 @@
   },
   "193134": {
     "name": "WB021 - Karlovy Vary - Hotel Thermal - II.",
-    "sha1": "73068adab58621579ef72edc8a5d6ab8e5315c72",
+    "sha1": "d366eb5e9c00a64cfde7e2ea80daaf9c682b278b",
     "station": {
       "address": {
         "city": "Karlovy Vary",
@@ -36279,7 +36279,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -36299,7 +36299,7 @@
   },
   "193135": {
     "name": "WB022 - Karlovy Vary - Hotel Thermal - III.",
-    "sha1": "0839e14c6579a7a73c3d6a67bd66fe30f7ab917e",
+    "sha1": "9a0718900857d050dcc9170f58633e7365f989e6",
     "station": {
       "address": {
         "city": "Karlovy Vary",
@@ -36329,7 +36329,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -36349,7 +36349,7 @@
   },
   "193165": {
     "name": "WB020 - Karlovy Vary - Hotel Thermal - I.",
-    "sha1": "aed32ca2e11b08aaf07d962c2ff66916cf4a186e",
+    "sha1": "daf4bbf6a24a48439fb4e77def34e206b77cd9a8",
     "station": {
       "address": {
         "city": "Karlovy Vary",
@@ -36379,7 +36379,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             },
@@ -36388,7 +36388,7 @@
               "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CHADEMO",
               "voltage": null
             }
@@ -36408,7 +36408,7 @@
   },
   "193166": {
     "name": "WB023 - Karlovy Vary - Hotel Thermal - IV.",
-    "sha1": "b69da5946b0f277b4b765f9adbaaf1621b3cab0b",
+    "sha1": "3e0c1c6ee09c3a35a440d8d03e27757d5ff88a9f",
     "station": {
       "address": {
         "city": "Karlovy Vary",
@@ -36438,7 +36438,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 24,
+              "powerOutput": 22,
               "standard": "CCS_COMBO",
               "voltage": null
             }
