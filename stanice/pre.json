@@ -17220,7 +17220,7 @@
   },
   "CZ5102596": {
     "name": "Česká Lípa Fehrer",
-    "sha1": "d14dc7df09e7ee201eaf42d10cd043aef1c2758f",
+    "sha1": "81fa98fea99d9ba433a98c53092cc6862d1e87f7",
     "station": {
       "additionalInfo": "Auf dem Parkplatz vor dem Areal Fehrer.",
       "branch": "Parken",
@@ -17245,6 +17245,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc3c/%C4%8Desk%C3%A1_l%C3%ADpa_fehrer.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -25480,7 +25487,7 @@
   },
   "CZ9147519": {
     "name": "TS 3668 Brodského",
-    "sha1": "7b0d3d1df43871f03de6af6124510abf1e8f5258",
+    "sha1": "a7c37d94bca7e8953bef1fe6015a935f0405e0ad",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -25495,7 +25502,7 @@
       "csType": "",
       "enAdditionalInfo": "at the TS 3668 transformer station",
       "enCsname": "TS 3668 Brodského",
-      "evseId": "CZ*PRE*E1S8276*2",
+      "evseId": "CZ*PRE*E1S8278*1",
       "geoCoord": {
         "latitude": "50.037712",
         "longitude": "14.503441"
@@ -28545,7 +28552,7 @@
   },
   "CZ9931493": {
     "name": "TS 4783 U Slovanky",
-    "sha1": "a43ab7707c1760bbd1dcdd98bc86826927441ec6",
+    "sha1": "fc401e5aa82a4cb2b885aa25f3c78dd87a9f97a7",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -28556,9 +28563,9 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9931493",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "at the TS 3668 transformer station",
+      "enAdditionalInfo": "at the TS 4783 transformer station",
       "enCsname": "TS 4783 U Slovanky",
       "evseId": "CZ*PRE*E1S8279*2",
       "geoCoord": {
@@ -28567,18 +28574,6 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
-      "images": [
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf29960a64080f17bad154/IMG-20240530-WA0004.jpg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf29960a64080f17bad154/IMG-20240530-WA0005.jpg"
-        }
-      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
