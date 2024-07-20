@@ -35975,7 +35975,7 @@
   },
   "191922": {
     "name": "N271 - Liberec - Vaňurova - 2",
-    "sha1": "bae3c3ecbd87e4f87f7dd2fdcf6e5559a44b8f85",
+    "sha1": "d7230dd6133dc986a4d3ae4688411590d7326efd",
     "station": {
       "address": {
         "city": "Liberec",
@@ -36005,7 +36005,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 22,
+              "powerOutput": 11,
               "standard": "MENNEKES_TYPE_2",
               "voltage": null
             }
@@ -36019,7 +36019,7 @@
               "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 22,
+              "powerOutput": 11,
               "standard": "MENNEKES_TYPE_2",
               "voltage": null
             }
@@ -36038,8 +36038,8 @@
     }
   },
   "191977": {
-    "name": "N270 - Liberec - Vaňurova - 1",
-    "sha1": "819117c4c969652535b29de62883a10b1773ad5d",
+    "name": "N272 - Liberec - Vaňurova - 1",
+    "sha1": "d282c9d412151b4c20850ff731e98da6c1987ba2",
     "station": {
       "address": {
         "city": "Liberec",
@@ -36069,12 +36069,12 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 22,
+              "powerOutput": 11,
               "standard": "MENNEKES_TYPE_2",
               "voltage": null
             }
           ],
-          "physicalReference": "N270"
+          "physicalReference": "N272"
         },
         {
           "connectors": [
@@ -36083,12 +36083,12 @@
               "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 22,
+              "powerOutput": 11,
               "standard": "MENNEKES_TYPE_2",
               "voltage": null
             }
           ],
-          "physicalReference": "N270"
+          "physicalReference": "N272"
         }
       ],
       "images": [
@@ -36097,7 +36097,7 @@
         }
       ],
       "instructions": null,
-      "name": "N270 - Liberec - Vaňurova - 1",
+      "name": "N272 - Liberec - Vaňurova - 1",
       "visible": true
     }
   },
@@ -38225,6 +38225,280 @@
       ],
       "instructions": null,
       "name": "R646 - Nový Bor - Kaufland - II.",
+      "visible": true
+    }
+  },
+  "193753": {
+    "name": "UR195 - Nový Jičín - Tesco - I.",
+    "sha1": "c854c009720512355fe7c1660eaf234fe980e1d3",
+    "station": {
+      "address": {
+        "city": "Nový Jičín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "672",
+        "latitude": 49.6017794,
+        "longitude": 18.0063108,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dukelská",
+        "url": ""
+      },
+      "customID": "193753",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 360,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR195"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 360,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR195"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/97110bf8-25d7-421a-8272-88edcd2de529.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR195 - Nový Jičín - Tesco - I.",
+      "visible": true
+    }
+  },
+  "193754": {
+    "name": "UR196 - Nový Jičín - Tesco - II.",
+    "sha1": "f3b6e41a1c16140b0ecc662d57287eb48ff53392",
+    "station": {
+      "address": {
+        "city": "Nový Jičín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "672",
+        "latitude": 49.6017794,
+        "longitude": 18.0063108,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dukelská",
+        "url": ""
+      },
+      "customID": "193754",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR196"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR196"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/97110bf8-25d7-421a-8272-88edcd2de529.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR196 - Nový Jičín - Tesco - II.",
+      "visible": true
+    }
+  },
+  "193755": {
+    "name": "UR198 - Nový Jičín - Tesco - IV.",
+    "sha1": "ab464fc654896b8f4c561f3297c70969ed249ac2",
+    "station": {
+      "address": {
+        "city": "Nový Jičín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "672",
+        "latitude": 49.6017794,
+        "longitude": 18.0063108,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dukelská",
+        "url": ""
+      },
+      "customID": "193755",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR198"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR198"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/97110bf8-25d7-421a-8272-88edcd2de529.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR198 - Nový Jičín - Tesco - IV.",
+      "visible": true
+    }
+  },
+  "193775": {
+    "name": "UR197 - Nový Jičín - Tesco - III.",
+    "sha1": "100b48479ba71a4a2b93afce227451e5764b7d30",
+    "station": {
+      "address": {
+        "city": "Nový Jičín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "672",
+        "latitude": 49.6017794,
+        "longitude": 18.0063108,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dukelská",
+        "url": ""
+      },
+      "customID": "193775",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR197"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR197"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/97110bf8-25d7-421a-8272-88edcd2de529.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR197 - Nový Jičín - Tesco - III.",
       "visible": true
     }
   },
