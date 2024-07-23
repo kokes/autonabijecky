@@ -31297,7 +31297,7 @@
   },
   "186699": {
     "name": "R617 - Sedlec - Prčice - MOL",
-    "sha1": "49f6ecd312f0492dfd0b429dcd31de8bcfc88567",
+    "sha1": "ec309cca7c2c8693de03ee7fbafb1a8617a7c0aa",
     "station": {
       "address": {
         "city": "Sedlec - Prčice",
@@ -31341,7 +31341,7 @@
               "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 20,
+              "powerOutput": 50,
               "standard": "CCS_COMBO",
               "voltage": null
             },
@@ -31350,7 +31350,7 @@
               "chargePointIdentity": "",
               "connectorID": 3,
               "format": "CABLE",
-              "powerOutput": 20,
+              "powerOutput": 50,
               "standard": "CHADEMO",
               "voltage": null
             }
@@ -31360,7 +31360,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/01/mol.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/2-20240722-175003.jpg"
         }
       ],
       "instructions": null,
