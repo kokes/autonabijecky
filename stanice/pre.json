@@ -3735,13 +3735,13 @@
   },
   "CZ1002672": {
     "name": "SMIGHT Výstaviště",
-    "sha1": "de38676da7f6eeca6b3dcb944c29f230508be49d",
+    "sha1": "8d7e73d9e0536fdeea9a970e58286f553a899f41",
     "station": {
       "additionalInfo": "Neben dem Schwimmbad",
       "branch": "Parken",
       "chargingFacilities": {
         "chargingFacility": [
-          "200 - 240V, 1-Phase ≤16A"
+          "380 - 480V, 3-Phase ≤16A"
         ]
       },
       "city": "Praha",
@@ -21287,11 +21287,11 @@
   },
   "CZ8182873": {
     "name": "Na Petřinách 2",
-    "sha1": "f769f1ed03f940d1a20350ac45d2a46030d87b8c",
+    "sha1": "da1ae648b8562f17af6d17cc4c311a57cb0ece85",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -21425,11 +21425,11 @@
   },
   "CZ8196832": {
     "name": "Eledrova 4",
-    "sha1": "58f765b080b3a28959e46412a840cef351f9ead3",
+    "sha1": "bea4c5590c5ddc9d040f18e9b23352fcd7d9e0d7",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -21465,11 +21465,11 @@
   },
   "CZ8203326": {
     "name": "Na Petřinách 1",
-    "sha1": "6d1e8f412a6c8881fae86bf9ba253da2f0b28753",
+    "sha1": "5dda5d0ffaa023540fc4c705d271ee0a01905a0b",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -22133,11 +22133,11 @@
   },
   "CZ8362941": {
     "name": "Ruská 1",
-    "sha1": "57c26d0a1f7b91cd82e4068d045e9a78e8a3a249",
+    "sha1": "e21af96ebcfef33f3ea6c11202e569b13bc366e1",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤16A"
         ]
       },
       "city": "Praha",
@@ -22263,11 +22263,11 @@
   },
   "CZ8392692": {
     "name": "TS 4141 Bezová",
-    "sha1": "1523fedbcdd55d469a07bf0d9d411654adf45125",
+    "sha1": "695e348bbdf6f31b732af3fdf19701547970550b",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -22651,11 +22651,11 @@
   },
   "CZ8460251": {
     "name": "Na Petřinách 4",
-    "sha1": "dc2ed192f5f27cd8d0939bbbe46220862d06aa2f",
+    "sha1": "7dfde061b31fae88de45c2edbe7bf44c6252be5b",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -22979,11 +22979,11 @@
   },
   "CZ8546862": {
     "name": "Na Vypichu 2",
-    "sha1": "0202cdf8509335919a1c4e475dbb953bd74c0465",
+    "sha1": "79323b615f7ea5d8deb34cf2659727d5fe812254",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -23119,11 +23119,11 @@
   },
   "CZ8571679": {
     "name": "Feřtekova 5",
-    "sha1": "9d2cbf256f9ce16e9bca130f5ef9ac75d06563b6",
+    "sha1": "3fb3ae316e7c694b37a30e84b7622892c92352ab",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -23159,11 +23159,11 @@
   },
   "CZ8593490": {
     "name": "Na Petřinách 3",
-    "sha1": "dec8baa5cfd5868de9be3bd903bce2ba25ed5bd6",
+    "sha1": "0806ff0c64350568671c8622ae595707526519bd",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -23921,11 +23921,11 @@
   },
   "CZ8890790": {
     "name": "Na Vypichu 1",
-    "sha1": "40c7e945df9d8b0f12f5c8b5c16cd599ead889ab",
+    "sha1": "34e7b84b55eca7730c5de5e6981ba467baad38c8",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -24001,11 +24001,11 @@
   },
   "CZ8901519": {
     "name": "TS 3131 Mikulova ",
-    "sha1": "dbff75479a35416567a5cfa4fd46ce3c4e8c46e7",
+    "sha1": "8e1d348509e9170120ea26c3820ab15f7e343c44",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -24103,11 +24103,11 @@
   },
   "CZ8923446": {
     "name": "Feřtekova 2 ",
-    "sha1": "5c56c4e0e1ef1f1a78518f127a1fe23a5fbf6811",
+    "sha1": "aafb1e0a82d4eedbc67af65e8b3e167f2eab736d",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -24446,11 +24446,11 @@
   },
   "CZ9001721": {
     "name": "Park Holiday Hotel Benice",
-    "sha1": "0b34236f8d299a56f881652c7bd8b6f3ae92156f",
+    "sha1": "dd2b001d2142fed1abf0b05ded79e0080c59b6d4",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha Benice",
@@ -24498,11 +24498,11 @@
   },
   "CZ9005838": {
     "name": "Power Point Pankrác",
-    "sha1": "fa2868df79e8be867652926816489a1509003fd9",
+    "sha1": "79d01d8e60339999c2213bc6a4e72e3539377a48",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≥200kW"
+          "DC Charging ≤150kW"
         ]
       },
       "city": "Praha",
@@ -25087,11 +25087,11 @@
   },
   "CZ9083368": {
     "name": "Poliklinika skalka – Pod Strání",
-    "sha1": "1ceeb21108157529c6844efd6d1c597c26639413",
+    "sha1": "5a05ff8cb8c35e7931ccee5a351b6de63c5f1c5a",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -25487,11 +25487,11 @@
   },
   "CZ9147519": {
     "name": "TS 3668 Brodského",
-    "sha1": "a7c37d94bca7e8953bef1fe6015a935f0405e0ad",
+    "sha1": "7ae776678cfb198d281d09ebca0bf6eedf632e9c",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -25638,11 +25638,11 @@
   },
   "CZ9181230": {
     "name": "Feřtekova 3",
-    "sha1": "432f05122f0ef3996c54cbd130c0aa4b9865c5eb",
+    "sha1": "d9aba89aa70e2e40937d5084e3b35c37ff29880a",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -25875,11 +25875,11 @@
   },
   "CZ9207423": {
     "name": "Na Petřinách 6",
-    "sha1": "b2723b9c6b180d534573f242bc8063dcbaf42acd",
+    "sha1": "6bffc78e571d42c7966a6bbe8d9d1c8ca0e1fec0",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -25915,11 +25915,11 @@
   },
   "CZ9269817": {
     "name": "Eledrova 3",
-    "sha1": "d596e95b6aee8342f3814f7de4f84651fed0423f",
+    "sha1": "e3fa2c93b26eaa740b38df4bb8fe44c96105272f",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -26085,11 +26085,11 @@
   },
   "CZ9282934": {
     "name": "TS 5032 Koterovská",
-    "sha1": "04bc34f8a7e22951fc31a6da44108b89f55cec54",
+    "sha1": "8c9d54e05f614011cd8685a626d5e2c299d0aa26",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha Řeporyje",
@@ -26559,11 +26559,11 @@
   },
   "CZ9415404": {
     "name": "Feřtekova 4",
-    "sha1": "d1e1c6f8b51428d58cf07a3746590695b3d5a720",
+    "sha1": "0f543c46ad360e8f5f744e20be47e1d0cd92d552",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -27054,11 +27054,11 @@
   },
   "CZ9498016": {
     "name": "Feřtekova 1",
-    "sha1": "265905cd283d21cf2643cd65b1b6917e497779ef",
+    "sha1": "c3d8dfc63aa066681fa31d876ef11c513187412a",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha ",
@@ -27269,11 +27269,11 @@
   },
   "CZ9560416": {
     "name": "Atletická Ladronka",
-    "sha1": "e96295c6dff741937aeeda2213c602e6677c1dc0",
+    "sha1": "cb2c5f80b2f5da12f720484309ed423da68c7d3d",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -27309,11 +27309,11 @@
   },
   "CZ9575842": {
     "name": "Bohušovice nad Ohří",
-    "sha1": "48ff34cbec63627e83ccda14e6c8d025a876c887",
+    "sha1": "d3e8e005dbb39ea001025ce047a87af5b5e92630",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Bohušovice nad Ohří",
@@ -27349,11 +27349,11 @@
   },
   "CZ9610961": {
     "name": "Eledrova 1",
-    "sha1": "378e74be8b1891005e8b6de26de2e3b6d97efeb4",
+    "sha1": "c4f88b0a21d5e4dac6e36489f1a05c764cd73a7e",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -27727,11 +27727,11 @@
   },
   "CZ9703820": {
     "name": "MŠ Šebelova",
-    "sha1": "83bae1656a54693ed938395036900cb19e69f193",
+    "sha1": "981c68d25ce615536cc9f2e5ce3b444c0f6527a9",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -27767,11 +27767,11 @@
   },
   "CZ9711680": {
     "name": "TS 5065 Božetická ",
-    "sha1": "036bb7b1dadae57cf40767b0bbbcc8bb198173c5",
+    "sha1": "468e50c14afb5622e7a9aa545baf40e52bf613dc",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -27860,11 +27860,11 @@
   },
   "CZ9743034": {
     "name": "Eledrova 2",
-    "sha1": "b8e060abc96a04d72e13d1f3dfcda64a4b4321fb",
+    "sha1": "217935e4edae465f6d279d331f5399aef8a02170",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -28112,11 +28112,11 @@
   },
   "CZ9787221": {
     "name": "Ruská 3",
-    "sha1": "ff9ef91968bb7c2bcf4856d8c197a435b5c00a37",
+    "sha1": "107012a44837befeb15a5eb40eb8c2e7f6ac91ee",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -28192,11 +28192,11 @@
   },
   "CZ9825781": {
     "name": "Na Petřinách 5",
-    "sha1": "bde0fdf689c3c417660cb240ecc66a52f4611147",
+    "sha1": "739b97d64b6451357778ed2d47d6c229ed1066d8",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -28383,11 +28383,11 @@
   },
   "CZ9858720": {
     "name": "Úřad Dolní Chabry",
-    "sha1": "c218197326a1f6e062202833dc763f767329abc7",
+    "sha1": "3d7ca77699808a81e3f312893782dc82e5059089",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -28472,11 +28472,11 @@
   },
   "CZ9903960": {
     "name": "Park Holiday Hotel Benice",
-    "sha1": "856584f7722637944576b87e3d3bb3737eaaa3ef",
+    "sha1": "8fef65a2f36c1f1ed6de4c535619f4ed699fee3f",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha  Benice",
@@ -28512,11 +28512,11 @@
   },
   "CZ9910109": {
     "name": "Estonská ",
-    "sha1": "c094b753c661faa870314a06353cd2c1c7be4967",
+    "sha1": "fad0d820bab0f2db63b949c4c7cdaf81ee75125a",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -28552,11 +28552,11 @@
   },
   "CZ9931493": {
     "name": "TS 4783 U Slovanky",
-    "sha1": "fc401e5aa82a4cb2b885aa25f3c78dd87a9f97a7",
+    "sha1": "b93e9fb3a45e66c278599247d5e7b67f985376f7",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",
@@ -28647,11 +28647,11 @@
   },
   "CZ9956551": {
     "name": "Ruská 2",
-    "sha1": "f9455cb7d5fbf214d48df35e157925e3f4fe8096",
+    "sha1": "7a63283c90e5c77d41f64e802c23c5289180b0a2",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤20kW"
+          "380 - 480V, 3-Phase ≤32A"
         ]
       },
       "city": "Praha",

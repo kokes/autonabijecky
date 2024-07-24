@@ -38502,6 +38502,70 @@
       "visible": true
     }
   },
+  "193859": {
+    "name": "UR207 - Lišov - Retail Park",
+    "sha1": "11deaa1207a8bcf25f303ebb804405d5576ac1a5",
+    "station": {
+      "address": {
+        "city": "Lišov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "5. května",
+        "latitude": 49.01118,
+        "longitude": 14.59184,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Třída",
+        "url": ""
+      },
+      "customID": "193859",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR207"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 150,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR207"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/12dc8c31-2759-4e21-8023-be5e5c352122.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR207 - Lišov - Retail Park",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
