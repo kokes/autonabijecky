@@ -23392,6 +23392,46 @@
       "street": "Dlouhá tř. 65"
     }
   },
+  "CZ8654109": {
+    "name": "Kodaňská 3",
+    "sha1": "861c5513e03a584a3e9846dd5320d3791b314a55",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8654109",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Kodaňská 3",
+      "evseId": "CZ*PRE*E2S0051*2",
+      "geoCoord": {
+        "latitude": "50.071335",
+        "longitude": "14.454667"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10100",
+      "region": "Hlavní město Praha",
+      "street": "Kodaňská"
+    }
+  },
   "CZ8671071": {
     "name": "e-senohraby exhibition ",
     "sha1": "333b7d2f637cf28bc0b3024f0aa4d530714873f0",
@@ -23821,6 +23861,46 @@
       "street": "Fibichova"
     }
   },
+  "CZ8844099": {
+    "name": "Lucemburská",
+    "sha1": "197b65285fa081867cdaab74553e15048b0e6b2e",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8844099",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Lucemburská",
+      "evseId": "CZ*PRE*E2S0056*2",
+      "geoCoord": {
+        "latitude": "50.079634",
+        "longitude": "14.459533"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "130 00",
+      "region": "Hlavní město Praha",
+      "street": "Lucemburská"
+    }
+  },
   "CZ8851117": {
     "name": "TS 2978 Habrová",
     "sha1": "6f1a35b132d070f9a199325de525313e7654b22f",
@@ -23917,6 +23997,86 @@
       "postalCode": "30100",
       "region": "Plzeňský kraj",
       "street": "Inženýrská"
+    }
+  },
+  "CZ8856499": {
+    "name": "Boční II 3",
+    "sha1": "d8535dda527e5504505a47761685cf77875ec045",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8856499",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Boční II 3",
+      "evseId": "CZ*PRE*E2S0054*2",
+      "geoCoord": {
+        "latitude": "50.044310",
+        "longitude": "14.477313"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "141 00",
+      "region": "Hlavní město Praha",
+      "street": "Boční II"
+    }
+  },
+  "CZ8889708": {
+    "name": "Boční II 1",
+    "sha1": "cafc4bbc6a51fa26a7560e2b947abfa511f1ead1",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8889708",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Boční II 1",
+      "evseId": "CZ*PRE*E2S0052*2",
+      "geoCoord": {
+        "latitude": "50.044723",
+        "longitude": "14.477223"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "141 00",
+      "region": "Hlavní město Praha",
+      "street": "Boční II"
     }
   },
   "CZ8890790": {
@@ -24139,6 +24299,46 @@
       "postalCode": "18100",
       "region": "Hlavní město Praha",
       "street": "Feřtekova"
+    }
+  },
+  "CZ8938972": {
+    "name": "Boční II 2",
+    "sha1": "228183e71c1ff4a4bda3b4503622aa69594d3f24",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8938972",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Boční II 2",
+      "evseId": "CZ*PRE*E2S0053*2",
+      "geoCoord": {
+        "latitude": "50.044566",
+        "longitude": "14.477309"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "141 00",
+      "region": "Hlavní město Praha",
+      "street": "Boční II"
     }
   },
   "CZ8950988": {
@@ -25334,6 +25534,46 @@
       "street": "Obchodní 1000"
     }
   },
+  "CZ9103606": {
+    "name": "Bořivojova",
+    "sha1": "78f5e5c9d6c271daf4c9f1c72d44d51db8aa2019",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9103606",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Bořivojova",
+      "evseId": "CZ*PRE*E2S0055*2",
+      "geoCoord": {
+        "latitude": "50.080472",
+        "longitude": "14.454392"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "130 00",
+      "region": "Hlavní město Praha",
+      "street": "Bořivojova"
+    }
+  },
   "CZ9106285": {
     "name": "Novodvorská 7",
     "sha1": "9b79096715efb8f5896fbfa80490489d1f0c454b",
@@ -26242,6 +26482,46 @@
       "street": "Kongresová 2"
     }
   },
+  "CZ9285843": {
+    "name": "Kodaňská 2",
+    "sha1": "30735e66a7508e1f380b70aefb2fbbdcecb08d37",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9285843",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Kodaňská 2",
+      "evseId": "CZ*PRE*E2S0050*2",
+      "geoCoord": {
+        "latitude": "50.071261",
+        "longitude": "14.452380"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10100",
+      "region": "Hlavní město Praha",
+      "street": "Kodaňská"
+    }
+  },
   "CZ9297279": {
     "name": "TS 2981 Stehlíkova",
     "sha1": "a0beca46aa0988be7a3dc3bd6605b596b7fc8c33",
@@ -27090,6 +27370,46 @@
       "postalCode": "18100",
       "region": "Hlavní město Praha",
       "street": "Feřtekova"
+    }
+  },
+  "CZ9514589": {
+    "name": "Sudoměřská 1",
+    "sha1": "82c2e628d801afb11addc3b1c418d3c702ce391d",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9514589",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Sudoměřská 1",
+      "evseId": "CZ*PRE*E2S0057*2",
+      "geoCoord": {
+        "latitude": "50.079863",
+        "longitude": "14.458761"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Sudoměřská"
     }
   },
   "CZ9525097": {
@@ -28508,6 +28828,46 @@
       "postalCode": "16000",
       "region": "Hlavní město Praha",
       "street": "V Nových Vokovicích"
+    }
+  },
+  "CZ9900202": {
+    "name": "Kodaňská 1",
+    "sha1": "19da302d7613552e4b2924783905437ed11455ec",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9900202",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Kodaňská 1",
+      "evseId": "CZ*PRE*E2S0049*2",
+      "geoCoord": {
+        "latitude": "50.071247",
+        "longitude": "14.452082"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10100",
+      "region": "Hlavní město Praha",
+      "street": "Kodaňská"
     }
   },
   "CZ9903960": {
