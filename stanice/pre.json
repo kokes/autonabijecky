@@ -159,10 +159,10 @@
   },
   "CZ1002598": {
     "name": "Cinestar Anděl",
-    "sha1": "7ff8fe5bb0f837321ab59bbf4ceecb45d10179a6",
+    "sha1": "34fff599198a59a500216c0cdfa8d8b5582694a1",
     "station": {
       "additionalInfo": "Von der Straße Radlická, -1 Ebene, Einfahrt möglich mit dem PREpoint-Tag. Bezahltes Parken.",
-      "branch": "Parken",
+      "branch": "Leisure",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -210,9 +210,9 @@
   },
   "CZ1002599": {
     "name": "IKEA Černý Most",
-    "sha1": "49c2e5994df027ee2d78999b16f50fee5a64ebcb",
+    "sha1": "ed85bca9048423376004ac40fbce98e548b3c10c",
     "station": {
-      "branch": "Parken",
+      "branch": "Destination",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -399,10 +399,10 @@
   },
   "CZ1002601": {
     "name": "Penny Uhříněves",
-    "sha1": "30a743e210849b987bf2ca04fe4ac13b7c77c603",
+    "sha1": "166571d939f11881d65fba4e2c7fc96d1cd03700",
     "station": {
       "additionalInfo": "Via Pratelstvi oder K Uhrinevsi Straße, Penny Markt Parkplatz",
-      "branch": "Parken",
+      "branch": "Food supermarket",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -558,10 +558,10 @@
   },
   "CZ1002604": {
     "name": "OC Stromovka",
-    "sha1": "0cdaa35700413da9face9bb2f95174717d68734f",
+    "sha1": "184b3df0d47ea2c743427fdcfe7f1cd66ecd4d26",
     "station": {
       "additionalInfo": "Von der Veletrní Straße, in der Etage 2PP und 3PP",
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park ",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -880,9 +880,9 @@
   },
   "CZ1002609": {
     "name": "DBK",
-    "sha1": "4ac83e568b487ff9cef709f9dd17341bf21e48a4",
+    "sha1": "ba07b6a0a650c58b94f398296506004ed8ba3ab1",
     "station": {
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -1110,10 +1110,10 @@
   },
   "CZ1002616": {
     "name": "TS Dvouletky",
-    "sha1": "fb9de7a9d8ea6f0b17f28be6092b04339ab6caaf",
+    "sha1": "4d07e3ee50bc356b8ec49da81a475a5bc44ce126",
     "station": {
       "additionalInfo": "Zugang von der Trafostation 7128",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -1166,9 +1166,9 @@
   },
   "CZ1002617": {
     "name": "MČ Šeberov",
-    "sha1": "0cf453072b9d18152d5c561352461ff2f2a960ad",
+    "sha1": "ebacedfcab1489066982180bf579fa3f8f6d5c09",
     "station": {
-      "branch": "Parken",
+      "branch": "Public car parks",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -1216,10 +1216,10 @@
   },
   "CZ1002618": {
     "name": "PRE-Na Hroudě 4",
-    "sha1": "2619bfa0d591b1bec10fcb633b8a7c10c4613505",
+    "sha1": "ce4ef46c52de8f1f21d1c2eedacb0f6bad867de2",
     "station": {
       "additionalInfo": "Hinter dem Gebäude Praská energetika nach der Schranke",
-      "branch": "Parken",
+      "branch": "Public car parks",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -1267,9 +1267,9 @@
   },
   "CZ1002619": {
     "name": "Galerie Butovice",
-    "sha1": "afae64a2df07f7cd731701413fca849d18467db3",
+    "sha1": "11f2da4ad5027115a78206c36de6e099d53c1939",
     "station": {
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -1364,10 +1364,10 @@
   },
   "CZ1002621": {
     "name": "Garáže Letná",
-    "sha1": "f4ff62d55ef18360d4d1838f31444f6d7777251b",
+    "sha1": "94a46904128df2f83365ae71b1e4d03e23b64192",
     "station": {
       "additionalInfo": "Abschnitt B6",
-      "branch": "Parken",
+      "branch": "Tranzit hubs",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -1415,10 +1415,10 @@
   },
   "CZ1002622": {
     "name": "ČVUT Albertov",
-    "sha1": "cf9726b0a7b49afdc478a207f66a527f98032b52",
+    "sha1": "27f69baec8e1df8b05547564bc7b6b18fcfb61bd",
     "station": {
       "additionalInfo": "Vor dem Gebäude CVUT",
-      "branch": "Parken",
+      "branch": "Public car parks",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -1471,9 +1471,9 @@
   },
   "CZ1002623": {
     "name": "TS U Družstva práce",
-    "sha1": "07f908a8a019b9808c0bb7a9330d71dd1cada607",
+    "sha1": "9faff676070683f5953ad8b5c6b8827e12cee5e1",
     "station": {
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -1526,10 +1526,10 @@
   },
   "CZ1002624": {
     "name": "3D Apartment",
-    "sha1": "780c12cc9ab103aa6204c3b5fa95336a8fe550f9",
+    "sha1": "e97236dae56a85d85e9a191e20c63c7a062d5677",
     "station": {
       "additionalInfo": "Im Gebäude 3D Apod.",
-      "branch": "Parken",
+      "branch": "Public car parks",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -1689,10 +1689,10 @@
   },
   "CZ1002629": {
     "name": "Europark Štěrboholy",
-    "sha1": "6c6c000a5eefdf171180ebaa261ba1c6ee4852ed",
+    "sha1": "f229f794df0d0a2c893ff79738bbc76d9fb9ffea",
     "station": {
       "additionalInfo": "Park- und Ladeplätze direkt gegenüber dem Eingang",
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -1777,10 +1777,10 @@
   },
   "CZ1002631": {
     "name": "ÚMČ Praha 22",
-    "sha1": "a5bd138fc7b1824bd646887f6a7d666d769a611a",
+    "sha1": "2ee0e5df877c9501850c0da9f12f312274347950",
     "station": {
       "additionalInfo": "Vor dem Rathaus",
-      "branch": "Parken",
+      "branch": "Public car parks",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -1894,10 +1894,10 @@
   },
   "CZ1002634": {
     "name": "ÚMČ Praha 5",
-    "sha1": "86f582829ee06c254116733e1db11be051da9aa8",
+    "sha1": "c822f133ec30f73f8034f39c7278c7f31a5e8ed0",
     "station": {
       "additionalInfo": "Vor der Stadthalle",
-      "branch": "Parken",
+      "branch": "Public car parks",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2057,9 +2057,9 @@
   },
   "CZ1002638": {
     "name": "Zátiší Rokytka",
-    "sha1": "259eef7759c9b21369b16344b3d70c11b4587b2c",
+    "sha1": "b015b7faefc696c5404bce14219c8043417ea065",
     "station": {
-      "branch": "Parken",
+      "branch": "Street/parking charging",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2112,9 +2112,9 @@
   },
   "CZ1002639": {
     "name": "IKEA Zličín",
-    "sha1": "d6aa7e148689fddf6a8d5796d4950d9da15518f1",
+    "sha1": "283238f857eb377fd02d3bc94dbb7be3ca457808",
     "station": {
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2162,10 +2162,10 @@
   },
   "CZ1002641": {
     "name": "Sconto Stodůlky",
-    "sha1": "b57ed453187b9ad4d37d1dc7be50e20db954d07d",
+    "sha1": "896782a392ad46026967ad71f3e2178c9f735bad",
     "station": {
       "additionalInfo": "Ladestation am Haupteingang.",
-      "branch": "Parken",
+      "branch": "Retailer",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2218,10 +2218,10 @@
   },
   "CZ1002642": {
     "name": "Golf Hostivař",
-    "sha1": "256940bda07e3f03b7b26dc90fa4ae93a2a1e45f",
+    "sha1": "7d6f1d79228db8237151ff4ed95ea3f77762acb5",
     "station": {
       "additionalInfo": "Vor dem Eingang zum Areal",
-      "branch": "Parken",
+      "branch": "Leisure",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2269,10 +2269,10 @@
   },
   "CZ1002644": {
     "name": "Alza Jateční",
-    "sha1": "ab0a6f3dfefb5ff0aaf59df0e87726388c3453b3",
+    "sha1": "080b39ea62f41ce12a3dc47492b7414a60ef4f74",
     "station": {
       "additionalInfo": "Parkplatz von Alza.cz von der Jatecní Straße.",
-      "branch": "Parken",
+      "branch": "Retailer",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3735,10 +3735,10 @@
   },
   "CZ1002672": {
     "name": "SMIGHT Výstaviště",
-    "sha1": "8d7e73d9e0536fdeea9a970e58286f553a899f41",
+    "sha1": "1cdee5c72302a1969eebfac56a2da3cfcfa7f0c1",
     "station": {
       "additionalInfo": "Neben dem Schwimmbad",
-      "branch": "Parken",
+      "branch": "lampy VO",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤16A"
@@ -3786,10 +3786,10 @@
   },
   "CZ1002673": {
     "name": "SMIGHT Pražská energetika 19",
-    "sha1": "a6472e13d19c3ca76ae6bda5792003b10d37f806",
+    "sha1": "9de00c0bb964cf5b9ec4ff43568c65a1c72dd0c2",
     "station": {
       "additionalInfo": "Vor dem Gebäude Praská energetika",
-      "branch": "Parken",
+      "branch": "lampy VO",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤16A"
@@ -3881,9 +3881,9 @@
   },
   "CZ1002675": {
     "name": "SMIGHT Karlovo náměstí",
-    "sha1": "0819553ca60cda54538163438eaf4408cda198d1",
+    "sha1": "6a2169f6b5682e795f0fc410b4f0fd12177878c4",
     "station": {
-      "branch": "Parken",
+      "branch": "lampy VO",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3931,10 +3931,10 @@
   },
   "CZ1002676": {
     "name": "SMIGHT Jugoslávská",
-    "sha1": "b5f2a0cfd822d7deec66ff1d51b2b0016327d75b",
+    "sha1": "5cb9ae5a5039464fabbe8cc74d5b5837f2780a4f",
     "station": {
       "additionalInfo": "Vor dem Rathaus",
-      "branch": "Parken",
+      "branch": "lampy VO",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3956,13 +3956,6 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
-      "images": [
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc93/IMG_20231204_135341923.jpg"
-        }
-      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -3982,10 +3975,10 @@
   },
   "CZ1002677": {
     "name": "SMIGHT Polská",
-    "sha1": "85800a97b51575012539af46aeb0905180b141c4",
+    "sha1": "3755be4e5c957260e0d5f5406381be7acbd067ed",
     "station": {
       "additionalInfo": "Bei dem Park\n",
-      "branch": "Parken",
+      "branch": "lampy VO",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -4033,10 +4026,10 @@
   },
   "CZ1002678": {
     "name": "SMIGHT Šeberov",
-    "sha1": "3fc67ff9161f5d1bb8da80bfcde9e5b193659939",
+    "sha1": "275c68b3635db68f76eb17eb78825d8df4c87311",
     "station": {
       "additionalInfo": "Beim Parkplatz von der K Hrncirum  Straße",
-      "branch": "Parken",
+      "branch": "lampy VO",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -4259,10 +4252,10 @@
   },
   "CZ1002682": {
     "name": "Sparta Holešovice",
-    "sha1": "9561bb1b9630452aaaba96258d45dde7c273eb60",
+    "sha1": "e77a068f27c6d97673a2236f7dc5ada2fba3e194",
     "station": {
       "additionalInfo": "Auf dem Parkplatz beim Sportstadion. Zufahrt zum Parkplatz Bei der  Straße U Výstavite.",
-      "branch": "Parken",
+      "branch": "Leisure",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -4315,10 +4308,10 @@
   },
   "CZ1002683": {
     "name": "Metropole Zličín",
-    "sha1": "c44d5276b6b21106bc3735c8b0a76ac9b47103dc",
+    "sha1": "654c484f5d1209d18ef9654df98f9b6d9f1be8df",
     "station": {
       "additionalInfo": "Am Ende des Parkplatzes",
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -10159,10 +10152,10 @@
   },
   "CZ1003530": {
     "name": "Galerie Harfa ",
-    "sha1": "6c48eaad1e11bf35c75749e5046a198a4091a594",
+    "sha1": "66a69c6ea49ecd8114e4ee3d740df8dea26cdf79",
     "station": {
       "additionalInfo": "In der Galerie Harfa Tiefgarage",
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -13626,10 +13619,10 @@
   },
   "CZ2002620": {
     "name": "Alza Říčany",
-    "sha1": "bc33e6b76d0c210f43ffc1634120dfd35cb6e42d",
+    "sha1": "d14b0a1554d1d38d798a183745f6f4e318112673",
     "station": {
       "additionalInfo": "Im oberen Teil des Parkplatzes OC Lihovar",
-      "branch": "Parken",
+      "branch": "Retailer",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -13677,9 +13670,9 @@
   },
   "CZ2002640": {
     "name": "VTP Roztoky",
-    "sha1": "87f374ee39c1af6b83889cf80a9294f6e9ff3474",
+    "sha1": "078b7be15c81067b9d69a49d2face6863e4b2461",
     "station": {
-      "branch": "Parken",
+      "branch": "Public car parks",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -15271,10 +15264,10 @@
   },
   "CZ3102626": {
     "name": "Alza České Budějovice",
-    "sha1": "dfaf4cddcb6f38a383627211bdf66f1f4a29e497",
+    "sha1": "d2e06eb788c23bb5d1bd414122a3e207dd28a04c",
     "station": {
       "additionalInfo": "Von der Straße Plzenská",
-      "branch": "Parken",
+      "branch": "Retailer",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -17924,10 +17917,10 @@
   },
   "CZ5302630": {
     "name": "Alza Pardubice",
-    "sha1": "7e38f3c415dd458756b87b6154512b3c16aa0ec2",
+    "sha1": "2eb0eae542fd0e6532b700f94585ba9e2dfcf741",
     "station": {
       "additionalInfo": "Vor dem Alza-Geschäft",
-      "branch": "Parken",
+      "branch": "Retailer",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤16A"
@@ -18654,10 +18647,10 @@
   },
   "CZ6402643": {
     "name": "Alza Brno",
-    "sha1": "fbdfc509a61e8456bfa3f0a66f807bc072b4727f",
+    "sha1": "1871748ea592e252ab0982a893606fb55deedaf9",
     "station": {
       "additionalInfo": "Parkplatz von Alza.cz",
-      "branch": "Parken",
+      "branch": "Retailer",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -18705,9 +18698,9 @@
   },
   "CZ6402684": {
     "name": "Brno EnergServis",
-    "sha1": "ae8162912717b2531368e5bed0c5a3367e90f7ad",
+    "sha1": "da6a190bb9c29ec8b3a514b7d5bcce6c9bdc4f8d",
     "station": {
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -19938,10 +19931,10 @@
   },
   "CZ8002602": {
     "name": "Mercedes Ostrava",
-    "sha1": "98ddeaaf767cbc366abb9317b76e8c8d5e53a242",
+    "sha1": "ac265c747ef739a6384fe36b9d4b269f0380d51f",
     "station": {
       "additionalInfo": "Parking at the car dealership Centrum Moravia",
-      "branch": "Parken",
+      "branch": "1st class road",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤75kW"
@@ -19989,10 +19982,10 @@
   },
   "CZ8002632": {
     "name": "IKEA Ostrava",
-    "sha1": "35c8b1ec35d264394d6ec3c9dd9a9e0afe0ac742",
+    "sha1": "41b55a5fb5521dad296ecfd969f1ad5332b0c143",
     "station": {
       "additionalInfo": "Parkplatz AVION SP Ostrava",
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -22884,9 +22877,9 @@
   },
   "CZ8523914": {
     "name": "ČSOB Hradec Králové 2",
-    "sha1": "57e9a715c990c1b19e93aff2a489167bb92219e9",
+    "sha1": "44e6e6ff34046b402177c96768ef67da139507d5",
     "station": {
-      "branch": "Parken",
+      "branch": "Depo – fleet  ",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -24121,7 +24114,7 @@
   },
   "CZ8893560": {
     "name": "Penny Market Plzeň Lochotín",
-    "sha1": "88302ea9c4c20f682c5d473abcb78b386bf6587e",
+    "sha1": "cde65c7e97c6f408f84dcdcff8c50c44db9e9fba",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -24142,6 +24135,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/663de039fc566937fb5d6b52/Lochotin.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
