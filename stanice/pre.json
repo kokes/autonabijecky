@@ -55,10 +55,10 @@
   },
   "CZ1002593": {
     "name": "Hotel Diplomat",
-    "sha1": "71aa743c2e4fa1ea06e1dd9b83e5d52aad46d53c",
+    "sha1": "0eb92648d1cbb0b7f356027ac147e443f93955d3",
     "station": {
       "additionalInfo": "In der gebührenpflichtigen Garage (lt.Preisliste des Hotels) des Hotels Diplomat in der Evropská Straße. Für Einfahrt Ihren RFID-Tag benutzen.",
-      "branch": "Parken",
+      "branch": "Hospitality",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -460,10 +460,10 @@
   },
   "CZ1002603": {
     "name": "OC Stromovka",
-    "sha1": "0fb2e0c51d9ea711ebbc47abc5214155547bcce9",
+    "sha1": "e47d629421b8716b611faff3fc6992b49c3ca8d5",
     "station": {
       "additionalInfo": "Von der Veletrní Straße, in der Etage 2PP und 3PP",
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park ",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -706,9 +706,9 @@
   },
   "CZ1002606": {
     "name": "Lidl Čakovice",
-    "sha1": "5fa652300475de1965d8b4ad85d83a4763ef27a9",
+    "sha1": "c63608968305d194a0a55982a6624bda37dfe952",
     "station": {
-      "branch": "Parken",
+      "branch": "Food supermarket",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -793,9 +793,9 @@
   },
   "CZ1002607": {
     "name": "OC Šestka",
-    "sha1": "9e8269dab7395805b92835835716c1f750b14a1b",
+    "sha1": "40e33df77617fd2abb76c424c32e6f9b44814fad",
     "station": {
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -935,9 +935,9 @@
   },
   "CZ1002610": {
     "name": "Fashion Outlet",
-    "sha1": "f4bff1745a508c7c6695018b3f9f6dc0ddb7d6eb",
+    "sha1": "1e571351ec6d33074e6d64498dc800bf500953d8",
     "station": {
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -1587,9 +1587,9 @@
   },
   "CZ1002627": {
     "name": "Centrum Černý most",
-    "sha1": "83d3c0a39b1535fb66e88c0ba4f58d3646cadaec",
+    "sha1": "f5cccfaa48428ebc78876130421149fdfe879471",
     "station": {
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -1945,10 +1945,10 @@
   },
   "CZ1002635": {
     "name": "ÚMČ Praha 13",
-    "sha1": "55a31bddad8228d7ff817b0c70a0d10ed255fc1d",
+    "sha1": "8578116080ff9f8e77c9e66872805de09781bddb",
     "station": {
       "additionalInfo": "Vor dem Rathaus",
-      "branch": "Parken",
+      "branch": "Public car parks",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2362,9 +2362,9 @@
   },
   "CZ1002645": {
     "name": "TS 108 Hudečkova",
-    "sha1": "95c9759194a41c45b4b47a50ab52c854c177c0da",
+    "sha1": "63c9374f33028cef5ec89ede8853323c1ece85dc",
     "station": {
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2412,10 +2412,10 @@
   },
   "CZ1002646": {
     "name": "TS 443 Rochovská",
-    "sha1": "e3a7b419587315fe8ccf409e5d9becfd8bb16c7a",
+    "sha1": "b5d26d5009068c7d35483b5f31618bcacd03e67f",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 443",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2468,10 +2468,10 @@
   },
   "CZ1002647": {
     "name": "TS 1416 Jílkova",
-    "sha1": "bcaa9a999a7a7fb3e0bd84e02f90549ccf03cf4b",
+    "sha1": "271116438c610dcc76cdaf29c69a3e8f874d2576",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 1416",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2519,9 +2519,9 @@
   },
   "CZ1002648": {
     "name": "TS 1996 Na Větru",
-    "sha1": "c85e0fd6ddb93924ae93739de6e05de1bb58fd6b",
+    "sha1": "738f33cf25502b81cb93a23f00b70b3c2cda65fe",
     "station": {
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2579,10 +2579,10 @@
   },
   "CZ1002649": {
     "name": "TS 2132 Na Chodovci",
-    "sha1": "50dc54af7679f8ccae9c358fca5b4bd7360b66f6",
+    "sha1": "97ac0462b98ecc252e051e8995d2bd853e679622",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2132",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2630,10 +2630,10 @@
   },
   "CZ1002650": {
     "name": "TS 3674 Smotlachova",
-    "sha1": "1e5268399143c6b7b33573dbd85c3cd3d350f403",
+    "sha1": "e48fa88c4671fe34e3e5bb069bc15a3789361a1d",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3674",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2686,9 +2686,9 @@
   },
   "CZ1002651": {
     "name": "TS 2665 Jihlavská",
-    "sha1": "cf5d8445ba93b43eba56fb50a514a8eff6cac89a",
+    "sha1": "04b6536957652610346a83d10dc41edea4b51321",
     "station": {
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2746,10 +2746,10 @@
   },
   "CZ1002652": {
     "name": "TS 2974 Seidlova",
-    "sha1": "a7c12fd206f71f4b994253783a9739da579f634e",
+    "sha1": "1483ff3232a0ff376c9ac19665aaaf5b6d2d7c33",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2974",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2802,10 +2802,10 @@
   },
   "CZ1002653": {
     "name": "TS 2443 Litvínovská",
-    "sha1": "b971c34f463aa4daa1bb2633e1b9f8aebfcead6b",
+    "sha1": "43fc5e18caf8a4146844e1dd90a1c936006fc103",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2443",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2853,10 +2853,10 @@
   },
   "CZ1002654": {
     "name": "TS 4682 Tréglova",
-    "sha1": "2fb271b7e4da169969ef13b831df8cf3f7ecb425",
+    "sha1": "4ea9f9fbd82b830dd96ed25441dbbed6756e93c0",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 4682",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2904,10 +2904,10 @@
   },
   "CZ1002655": {
     "name": "TS 3659 Gončarenkova",
-    "sha1": "8b93bfb170100d001065850a6609bd919890fa36",
+    "sha1": "a3076791bccb732fac74244031731bbb34b9c655",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3659",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2955,10 +2955,10 @@
   },
   "CZ1002656": {
     "name": "TS 3834 Jarní",
-    "sha1": "9c7828371add47fc9b0d639c096f8bc6a4939654",
+    "sha1": "4efdf3010add77973889be2ddeae3170d64381b0",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3834",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3011,9 +3011,9 @@
   },
   "CZ1002657": {
     "name": "TS 3904 Lindavská",
-    "sha1": "ddf8dae4a33c9eb4355f69932bce3cff6f70dee0",
+    "sha1": "b3452d97a4edcb4ebddd6aa1887c075b1a6e9c1d",
     "station": {
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3071,10 +3071,10 @@
   },
   "CZ1002658": {
     "name": "TS 3921 Nad Přehradou",
-    "sha1": "365ebaf3f8f94bc09e7d8f52bc87f950274f8ddc",
+    "sha1": "fbb3e734307a7289d2beec520a2f711662f1c9f8",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3921",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3127,10 +3127,10 @@
   },
   "CZ1002659": {
     "name": "TS 3941 Janovská",
-    "sha1": "60867920bd96bc349ecb67a51675d5c66cc5cf37",
+    "sha1": "fb43964fee210cd08d430f0734c415c85ebd4053",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3941",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3183,9 +3183,9 @@
   },
   "CZ1002660": {
     "name": "TS 3972 Rezlerova",
-    "sha1": "10c7c59abc56225a9d893dc11e7363447c53d790",
+    "sha1": "54d9e5ed8ef93ead3b3a655bbde74242e2670ceb",
     "station": {
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3238,10 +3238,10 @@
   },
   "CZ1002661": {
     "name": "TS 4133 Třanovského",
-    "sha1": "0a94618ed990af5be6f4b0af64d7856edcfde5a5",
+    "sha1": "794700dc038073bb632c99a91e414f419d0e8b3f",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4133",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3294,9 +3294,9 @@
   },
   "CZ1002662": {
     "name": "TS 4623 Jiránkova",
-    "sha1": "e5ff58b8686cf66ac82527e3ea37efa89ff2ae02",
+    "sha1": "dd614056f7cdfb975c6531ba47978ce03ee99324",
     "station": {
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3354,9 +3354,9 @@
   },
   "CZ1002663": {
     "name": "TS 4815 Chotovická",
-    "sha1": "7728780a9adbcd945896f8fa1e48f813569711f1",
+    "sha1": "2feee5812a036a2db04481261fed779edf907643",
     "station": {
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3409,10 +3409,10 @@
   },
   "CZ1002664": {
     "name": "TS 4829 Roudnická",
-    "sha1": "d8722c8cb93a5b37a3348026fcdcc1072fbb4773",
+    "sha1": "5946d931db2c122252c94ebd68b27953d364fb74",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 4829",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3465,10 +3465,10 @@
   },
   "CZ1002665": {
     "name": "TS 5058 Na Cimbále",
-    "sha1": "be5b4d58e883446a724e6dc57093b06009c614b7",
+    "sha1": "a8dd510378c9893c313379c9dcdb593fcb7b4bc2",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 5058",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3521,10 +3521,10 @@
   },
   "CZ1002666": {
     "name": "TS 5354 Kurčatovova",
-    "sha1": "b224bc2ed7cb0759c1063efc54da0c3489be3a88",
+    "sha1": "6a76afcc271d14217b71815e1bb008e2e6242772",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 5354",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3577,10 +3577,10 @@
   },
   "CZ1002667": {
     "name": "TS 5508 Voskovcova",
-    "sha1": "24d5a196eeb51a7f554b6444257e34e58c2f4d56",
+    "sha1": "4aad3e14cd53af4b6c986b9942343614acd28025",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 5508",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3628,10 +3628,10 @@
   },
   "CZ1002668": {
     "name": "TS 5509 Wassermannova",
-    "sha1": "b5a3e6211c7914765b22dcde11c36589cb116c11",
+    "sha1": "b5a3e9b9662f0c96fa33755de35bceee8bf13b33",
     "station": {
       "additionalInfo": "Bei derTransformatorstation 5509",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -3679,10 +3679,10 @@
   },
   "CZ1002671": {
     "name": "Radotín K Lázním",
-    "sha1": "61f7906fea9393f8fec86d75bcd35691df83e64c",
+    "sha1": "331dcc92098ae3f2ef760afca35c4ff07e2e7827",
     "station": {
       "additionalInfo": "Beim Eingang zur Schwimmhalle",
-      "branch": "Parken",
+      "branch": "Leisure",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -4087,9 +4087,9 @@
   },
   "CZ1002679": {
     "name": "SMIGHT Otopašská",
-    "sha1": "603e1f6de61a7ce12405ece1d489003aff007122",
+    "sha1": "ed00cb708d51608aace3617b4a8b892e388ed334",
     "station": {
-      "branch": "Parken",
+      "branch": "lampy VO",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -4147,9 +4147,9 @@
   },
   "CZ1002680": {
     "name": "Horní Počernice",
-    "sha1": "57891410fdb29da7e20ef44d0211cad2dccfd73d",
+    "sha1": "977f73dc097555997ee77313322bea5488e01ac4",
     "station": {
-      "branch": "Parken",
+      "branch": "Public car parks",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -4364,10 +4364,10 @@
   },
   "CZ1002716": {
     "name": "TS 2302 Vítovcova",
-    "sha1": "c300bf57d188c6015dd6155a0a066a12c6e4e7ed",
+    "sha1": "6bba4c25789c210f05c5a6ac47c33157007ba19a",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2302",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -4415,10 +4415,10 @@
   },
   "CZ1002726": {
     "name": "Hotel Ambassador Zlatá Husa",
-    "sha1": "2de30e31ab89cd5e48c33aafe0ba979a65ade07b",
+    "sha1": "6ddca3ad25ea96ac289d880143592c5e53030aa6",
     "station": {
       "additionalInfo": "In den Hotelgaragen",
-      "branch": "Parken",
+      "branch": "Hospitality",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -4466,10 +4466,10 @@
   },
   "CZ1002730": {
     "name": "TS 5068 Urbánkova",
-    "sha1": "6b0168c50085e0854523961e13d2f81aeeeb9189",
+    "sha1": "a4b56a4b49dc4e4903dec73ac22d1064652cbd92",
     "station": {
       "additionalInfo": "Bei der  Transformatorstation TS 5068",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -4522,10 +4522,10 @@
   },
   "CZ1002731": {
     "name": "TS 3391 Machuldova",
-    "sha1": "169d97a102f10c0c2a0afcc433b9fd9298183ed7",
+    "sha1": "f29f12301180526a1cb655c4a9a3590ca38a71a9",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 3391",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -4694,10 +4694,10 @@
   },
   "CZ1002749": {
     "name": "TS 3841 Družicová",
-    "sha1": "5bc34d2798eb51bc12a1b1df90aea75df886242a",
+    "sha1": "295f31168236186256c6a2ea6791d9103f3bec70",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3841",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -4745,10 +4745,10 @@
   },
   "CZ1002771": {
     "name": "Hamr Záběhlice",
-    "sha1": "d56be858772199c46231f745de3082734ee0fbf4",
+    "sha1": "903608df78573ae175d42010d1f94d65433c6e01",
     "station": {
       "additionalInfo": "Auf dem Parkplatz des Sportzentrums",
-      "branch": "Parken",
+      "branch": "Leisure",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -4884,10 +4884,10 @@
   },
   "CZ1002773": {
     "name": "TS 3135 Kytlická",
-    "sha1": "c3ec52ba99e9e52c958e4232b4a82b03a6fde9e5",
+    "sha1": "f5359829a589e89c68c2efc5484fa7fe565becbf",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3135",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -4935,10 +4935,10 @@
   },
   "CZ1002774": {
     "name": "TS 4813 Chotovická",
-    "sha1": "752770a212ba21f61742e4818a74734ed2fae831",
+    "sha1": "2cf597c66988c9cef38ca4aa402b571958713073",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 4813",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -5047,10 +5047,10 @@
   },
   "CZ1002776": {
     "name": "TS 2977 Vidlicová",
-    "sha1": "7e1672d4216ed59f7b34af9e6d8cbe0d2e5a8ce6",
+    "sha1": "c50bc4cccdea951c7b39aa97770628f2eb8fd58a",
     "station": {
       "additionalInfo": "Bei der Trafostation 2977",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -5098,10 +5098,10 @@
   },
   "CZ1002777": {
     "name": "TS 1020 V Šáreckém údolí",
-    "sha1": "dcea24c0a0b338c2ac982a21c55d49d2956fa82e",
+    "sha1": "cea8d42e2ba1cf72af0dde74d7d8c35b6cd849d7",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 1020",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -5149,10 +5149,10 @@
   },
   "CZ1002778": {
     "name": "TS 5299 Arabská",
-    "sha1": "88ec2794972a1cc6cca9a57e93641c7ef429f1e2",
+    "sha1": "df398d5525668e5e98993456c12ed52622ea2be3",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 5299",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -5205,10 +5205,10 @@
   },
   "CZ1002779": {
     "name": "TS 3657 Choceradská",
-    "sha1": "a61fc25b63aa5c361267d1bf6f89ad08ac346ea2",
+    "sha1": "660f2ce29383e5169998352b5abd4081674f6ea4",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 3657",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -5256,10 +5256,10 @@
   },
   "CZ1002780": {
     "name": "TS 3188 Cihlářova",
-    "sha1": "e5350c12c963f60db6c346ef907493da2d364122",
+    "sha1": "ddd1da6943b515b55dc37a551c8e5dad2492b983",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3188",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -5307,9 +5307,9 @@
   },
   "CZ1002781": {
     "name": "TS 3195 Mařatkova",
-    "sha1": "c2a8f863152aa41ad19fd3f3adb3361704cf7791",
+    "sha1": "ab375a6143e2daf350efc85b8124d02047c7d37e",
     "station": {
-      "branch": "unbekannt",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -5362,10 +5362,10 @@
   },
   "CZ1002782": {
     "name": "TS 3665 Za Mlýnem",
-    "sha1": "85dac1ff6341498d0187f847a2a467cf8237b6a6",
+    "sha1": "e04cb6e8150fe093d378e2938e573394ac4b5d71",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3665",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -5469,10 +5469,10 @@
   },
   "CZ1002784": {
     "name": "TS 4279 Miletická",
-    "sha1": "a02a146fe7780560af8aed5b2b5880ebbabf09b4",
+    "sha1": "445b2dd2c58bc7c3f0b30e8b76f1b592cf62e0ff",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4279",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -5520,10 +5520,10 @@
   },
   "CZ1002785": {
     "name": "TS 4283 Měšínská",
-    "sha1": "2bb57f1f081d2380886850359da06011b63ff4d6",
+    "sha1": "af3e7c4e3b465a4856c13d347e7b135f5428f694",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4283",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -5571,9 +5571,9 @@
   },
   "CZ1002786": {
     "name": "TS 175 Náměsí osvoboditelů",
-    "sha1": "21b6b5b206a3ec5f5191a36c94c07319a9f84db6",
+    "sha1": "b2760f2d9a1e83181fcb00dae2554abfc09e6477",
     "station": {
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -5621,10 +5621,10 @@
   },
   "CZ1002787": {
     "name": "TS 4657 Tasovská",
-    "sha1": "f411d0e651061c78abff2b48d161e9ce88d94894",
+    "sha1": "197c3f77b81ec489c47c33807446555876fb4b17",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 4657",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -5677,9 +5677,9 @@
   },
   "CZ1002788": {
     "name": "TS 4452 Hábova",
-    "sha1": "8db76a623add6e1dc8709dca39a34efc2f44053c",
+    "sha1": "1bea280d1483be57cd62b7dc48f97d5a63c73556",
     "station": {
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -5941,10 +5941,10 @@
   },
   "CZ1002794": {
     "name": "TS 5067 Urbánkova",
-    "sha1": "c14bb29cfaf004821011f2d7126789165b9fb3d8",
+    "sha1": "39042fc8ab4d090f65ef185c1ac788f7c1ad7c55",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 5067",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -6155,10 +6155,10 @@
   },
   "CZ1002798": {
     "name": "TS 4487 Mohylová",
-    "sha1": "5640479f79a18d94e5805be57759246d8fed6153",
+    "sha1": "f20c81ad2ef7a42a5e1f3963b2977d3fd4d68b8f",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 4487",
-      "branch": "Parken",
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -13524,10 +13524,10 @@
   },
   "CZ2002608": {
     "name": "Klecany",
-    "sha1": "d404e4cd40762ce798904625f8956940adf5386a",
+    "sha1": "b8ddc0b8186618b73b27af33c905cec80bdf4e21",
     "station": {
       "additionalInfo": "In der Lucní Straße bei der PhotoRobot",
-      "branch": "Parken",
+      "branch": "Street charging",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -13568,10 +13568,10 @@
   },
   "CZ2002614": {
     "name": "OMV Příbram",
-    "sha1": "1478e9711d0c65aded609631f4aede22b7e79ad1",
+    "sha1": "8c869c4d2e1d054868d705ba01db90207fca7ad1",
     "station": {
       "additionalInfo": "bei Tankstelle OMV",
-      "branch": "Parken",
+      "branch": "1st class road",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -13725,9 +13725,9 @@
   },
   "CZ2002670": {
     "name": "OC Central Kladno",
-    "sha1": "ea9eb7427342da990e82bbfac94412654ee9d47e",
+    "sha1": "3903a160b25ff5886a8a5ae2f259bc833a7e46f2",
     "station": {
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park ",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -13868,10 +13868,10 @@
   },
   "CZ2002718": {
     "name": "EuroOil Mladá Boleslav",
-    "sha1": "68aafcfc5c575a75dbb5bb8cb041894631bd5e99",
+    "sha1": "5a72d5f785f927a9c029c118cccdc688264bdb75",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz EuroOil",
-      "branch": "Parken",
+      "branch": "1st class road",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -13924,10 +13924,10 @@
   },
   "CZ2002721": {
     "name": "EuroOil Břežany",
-    "sha1": "9eba0a2b72073a6c9004028d47ed0fbb5fd1cc7a",
+    "sha1": "95fdaa0fc8e3ee548c9329cbf4c5b65cc389fc05",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
-      "branch": "Parken",
+      "branch": "1st class road",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -13980,10 +13980,10 @@
   },
   "CZ2002725": {
     "name": "Benzina Roudnice nad Labem",
-    "sha1": "29e23c7025bfb37cec5605d756f95eb43cadfc5c",
+    "sha1": "9b6358cc83cc4567e94dc7e752b1dbf67baf0430",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
-      "branch": "Parken",
+      "branch": "2nd and 3rd class roads",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -14036,9 +14036,9 @@
   },
   "CZ2002729": {
     "name": "Hotel SEN",
-    "sha1": "05817dba5e83244ae07a98d531b70c609ec9c834",
+    "sha1": "71c3d5daa7b1c86feea2949e0cc01205dcc9d075",
     "station": {
-      "branch": "Parken",
+      "branch": "Hospitality",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -15213,10 +15213,10 @@
   },
   "CZ3102615": {
     "name": "EuroOil Sedlice",
-    "sha1": "ed5d572b2c8c34a45f71fec92584fb065ae72cdf",
+    "sha1": "c50aa968185eea36e6f09f75742dd665e37fe989",
     "station": {
       "additionalInfo": "bei Tankstelle EuroOil",
-      "branch": "Parken",
+      "branch": "1st class road",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -15320,10 +15320,10 @@
   },
   "CZ3102728": {
     "name": "Galerie Písek",
-    "sha1": "0415eca8d744a5082b3724b454ed877a462607d6",
+    "sha1": "e5d6c656287367876918f48ae3641b1d79ec9884",
     "station": {
       "additionalInfo": "In der Parkplatz des Zentrums",
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -15826,10 +15826,10 @@
   },
   "CZ3202719": {
     "name": "OMV Přeštice",
-    "sha1": "87d653ae6b3475c6b28d6bb36d3c533129613363",
+    "sha1": "713964ac8512b8fd84812fbe9064c3a5e450e1ca",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
-      "branch": "Parken",
+      "branch": "1st class road",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -15877,10 +15877,10 @@
   },
   "CZ3202743": {
     "name": "OMV Nýrsko",
-    "sha1": "49b985409902a2a2c4e8c27601592e10a0828735",
+    "sha1": "5bdb15bf0bc034608f8aa8774bfb00985edef30f",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
-      "branch": "Parken",
+      "branch": "2nd and 3rd class roads",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -16236,9 +16236,9 @@
   },
   "CZ4102727": {
     "name": "Hotel Esplanade",
-    "sha1": "abe25b41fcdc5b65eb96b8030996988ffacc4246",
+    "sha1": "57266a30c0eb68414bd0c81adabf298e82edeb23",
     "station": {
-      "branch": "Parken",
+      "branch": "Hospitality",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -16499,10 +16499,10 @@
   },
   "CZ4202612": {
     "name": "EuroOil Varnsdorf",
-    "sha1": "1b570e3ebff631ebfa756df934d2500c6cb3c472",
+    "sha1": "d52da2f491f8220cf0afba6eb83cf39191e16328",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
-      "branch": "Parken",
+      "branch": "2nd and 3rd class roads",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -16550,10 +16550,10 @@
   },
   "CZ4202720": {
     "name": "EuroOil Duchcov",
-    "sha1": "380bfacb392fe9f6a4ae7a7efb2359c8673395df",
+    "sha1": "dfa38099fc43bc92518cd19be044929591ce9447",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
-      "branch": "Parken",
+      "branch": "2nd and 3rd class roads",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -16601,10 +16601,10 @@
   },
   "CZ4202722": {
     "name": "EuroOil Kadaň",
-    "sha1": "6e7e12dd154c19dbf38c85eaf20e2fa0e75435d5",
+    "sha1": "f4eb9ae9a592c798c794e8ef014e4564ebb513a2",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
-      "branch": "Parken",
+      "branch": "2nd and 3rd class road",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -16652,10 +16652,10 @@
   },
   "CZ4202733": {
     "name": "Benzina Most (jih)",
-    "sha1": "6c05b7f5c4ab0acf68fe07d54deb9fb6bbd2715d",
+    "sha1": "1a9259a5d1393bf37c58e9a524466f1f4122c9ea",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
-      "branch": "Parken",
+      "branch": "1st class road",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -16703,10 +16703,10 @@
   },
   "CZ4202734": {
     "name": "Benzina Most (sever)",
-    "sha1": "61c8a46e78558c1bc27411c9d1b25193c3941037",
+    "sha1": "298d755339233236b94b552cdd56fcc9f752854c",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
-      "branch": "Parken",
+      "branch": "1st class road",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -17213,10 +17213,10 @@
   },
   "CZ5102596": {
     "name": "Česká Lípa Fehrer",
-    "sha1": "81fa98fea99d9ba433a98c53092cc6862d1e87f7",
+    "sha1": "659e65566e8643ef231352e85d4db850c5c1086d",
     "station": {
       "additionalInfo": "Auf dem Parkplatz vor dem Areal Fehrer.",
-      "branch": "Parken",
+      "branch": "Public car parks",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -17264,9 +17264,9 @@
   },
   "CZ5102669": {
     "name": "OC Central Jablonec",
-    "sha1": "2b87add5fa6ec329e061a53077e431dc0c4b555d",
+    "sha1": "6fb5084c1ada84d7be3f8e4a57b5acd05dd76187",
     "station": {
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park ",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -17351,9 +17351,9 @@
   },
   "CZ5102724": {
     "name": "EuroOil Jablonec nad Nisou",
-    "sha1": "b731b3e3b968c9f91f3745d7983f4fe576de5df2",
+    "sha1": "9ae0b4a923cbfc5adf84ddd5efd76ac78fa5fa83",
     "station": {
-      "branch": "Parken",
+      "branch": "2nd and 3rd class roads",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -17401,10 +17401,10 @@
   },
   "CZ5102802": {
     "name": "P4 Plaza Liberec",
-    "sha1": "3f0aaa353e176c511609182951549baf1705c5e2",
+    "sha1": "4f2c9737df60115c47c0ac8366733b2919a48d53",
     "station": {
       "additionalInfo": "In der Garage des Einkaufzentrums",
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -18546,10 +18546,10 @@
   },
   "CZ6402613": {
     "name": "OMV Hodonín",
-    "sha1": "475311df11815e2a223029c95b5d317617180880",
+    "sha1": "59a96a2efcb7a02e96cc379015d378fb348fae37",
     "station": {
       "additionalInfo": "bei Tankstelle OMV",
-      "branch": "Parken",
+      "branch": "1st class road",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -18748,10 +18748,10 @@
   },
   "CZ6402723": {
     "name": "OMV Modřice",
-    "sha1": "41c4d83b059dc565e9befd1c52f75ad14be8fd11",
+    "sha1": "fc9259baa453c34c9c7d9cab0a40c92d81890569",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
-      "branch": "Parken",
+      "branch": "1st class road",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -19363,10 +19363,10 @@
   },
   "CZ7102740": {
     "name": "OMV Prostějov",
-    "sha1": "ff09811da4605a6063dd93da754f8f9e05977ebd",
+    "sha1": "33ff51ab445b17f0faa1ee8d4181c8666b4bbb95",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
-      "branch": "Parken",
+      "branch": "2nd and 3rd class roads",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -20121,10 +20121,10 @@
   },
   "CZ8002717": {
     "name": "EuroOil Bílovec",
-    "sha1": "f4adab879484b88621f887083210501193346c67",
+    "sha1": "b383d055f3ff53c97affe82adde79ebd9e70f64b",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
-      "branch": "Parken",
+      "branch": "2nd and 3rd class roads",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -20177,10 +20177,10 @@
   },
   "CZ8002736": {
     "name": "EuroOil Vítkov",
-    "sha1": "0df82ebfa7c0fcddeba83e23994226f1de504577",
+    "sha1": "e50ea87fb6119481db9ff9c136a70bc0ad742eec",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
-      "branch": "Parken",
+      "branch": "2nd and 3rd class roads",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -20228,10 +20228,10 @@
   },
   "CZ8002737": {
     "name": "EuroOil Ostrava",
-    "sha1": "4aad8be9a58fce3043fef1d56282a71f9ae386a1",
+    "sha1": "d9bafac499dc68bc5e81175e86507fc1c80c7d35",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
-      "branch": "Parken",
+      "branch": "2nd and 3rd class roads",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -20900,6 +20900,46 @@
       "street": "Rudná 2978/11"
     }
   },
+  "CZ8107996": {
+    "name": "Borošova 1",
+    "sha1": "b5c031b67d2062771d46d271b51ee918abe4c134",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8107996",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Borošova 1",
+      "evseId": "CZ*PRE*E2S0072*2",
+      "geoCoord": {
+        "latitude": "50.030026",
+        "longitude": "14.537538"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Borošova"
+    }
+  },
   "CZ8117483": {
     "name": "Kardausova DC",
     "sha1": "f129c9d0ea4f663ecfcbd6efb214c630087dc4d3",
@@ -21040,6 +21080,46 @@
       "postalCode": "11000",
       "region": "Hlavní město Praha",
       "street": "Hybernská"
+    }
+  },
+  "CZ8135818": {
+    "name": "Hlavatého 3",
+    "sha1": "5523e9392dc7cd5e2eff4a9b67a1dd8befad6dc7",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8135818",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Hlavatého 3",
+      "evseId": "CZ*PRE*E2S0069*2",
+      "geoCoord": {
+        "latitude": "50.031419",
+        "longitude": "14.534798"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Hlavatého"
     }
   },
   "CZ8140336": {
@@ -21794,6 +21874,46 @@
       "street": "Gdaňská"
     }
   },
+  "CZ8257879": {
+    "name": "Hlavatého 1",
+    "sha1": "909b939842400699e6482fa8791226552ecdfd8b",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8257879",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Hlavatého 1",
+      "evseId": "CZ*PRE*E2S0067*2",
+      "geoCoord": {
+        "latitude": "50.030230",
+        "longitude": "14.535006"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Hlavatého"
+    }
+  },
   "CZ8278104": {
     "name": "Auto Toman Třinec",
     "sha1": "c84f240669e1534b6017b876ac9f748284c798ab",
@@ -22122,6 +22242,46 @@
       "postalCode": "14300",
       "region": "Hlavní město Praha",
       "street": "Zlochova"
+    }
+  },
+  "CZ8339443": {
+    "name": "Radhošťská 4",
+    "sha1": "5f44248f3b0d3d67863d393df585067fef468200",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8339443",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Radhošťská 4",
+      "evseId": "CZ*PRE*E2S0064*2",
+      "geoCoord": {
+        "latitude": "50.079896",
+        "longitude": "14.456163"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Radhošťská"
     }
   },
   "CZ8362941": {
@@ -23061,6 +23221,46 @@
       "street": "Hostivice"
     }
   },
+  "CZ8564251": {
+    "name": "Žižkovo náměstí 1",
+    "sha1": "aaac29b9d0589028e25517d4aed89e74846331e0",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8564251",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Žižkovo náměstí 1",
+      "evseId": "CZ*PRE*E2S0065*2",
+      "geoCoord": {
+        "latitude": "50.080853",
+        "longitude": "14.455494"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Žižkovo náměstí"
+    }
+  },
   "CZ8567925": {
     "name": "Benzina Kbelská",
     "sha1": "bae0856c32ec16b89c23b10964e85ec21fa84adc",
@@ -23150,6 +23350,46 @@
       "street": "Feřtekova"
     }
   },
+  "CZ8589684": {
+    "name": "Hlavatého 2",
+    "sha1": "9817e1cd1a903bf63487257094e0c280f01fac2a",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8589684",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Hlavatého 2",
+      "evseId": "CZ*PRE*E2S0068*2",
+      "geoCoord": {
+        "latitude": "50.031889",
+        "longitude": "14.534613"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Hlavatého"
+    }
+  },
   "CZ8593490": {
     "name": "Na Petřinách 3",
     "sha1": "0806ff0c64350568671c8622ae595707526519bd",
@@ -23188,6 +23428,46 @@
       "postalCode": "16200",
       "region": "Hlavní město Praha",
       "street": "Na Petřinách"
+    }
+  },
+  "CZ8601366": {
+    "name": "Borošova 2",
+    "sha1": "084f8a4630e69a5814b0b06f4fb28a0e5b91d52d",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8601366",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Borošova 2",
+      "evseId": "CZ*PRE*E2S0073*2",
+      "geoCoord": {
+        "latitude": "50.030036",
+        "longitude": "14.537637"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Borošova"
     }
   },
   "CZ8625571": {
@@ -23714,6 +23994,46 @@
       "postalCode": "36005",
       "region": "Karlovarský kraj",
       "street": "Pobřežní"
+    }
+  },
+  "CZ8766053": {
+    "name": "Mejstříkova",
+    "sha1": "7f45ab070d32befa4d5b7d5e82bec7ce1fec88f7",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8766053",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Mejstříkova",
+      "evseId": "CZ*PRE*E2S0074*2",
+      "geoCoord": {
+        "latitude": "50.030367",
+        "longitude": "14.536698"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Mejstříkova"
     }
   },
   "CZ8791907": {
@@ -24545,6 +24865,46 @@
       "postalCode": "14700",
       "region": "Praha",
       "street": "Vltavanů"
+    }
+  },
+  "CZ8986416": {
+    "name": "Sudoměřská 3",
+    "sha1": "4b9d89213b691e78734913f9ddfd1bede36b59b0",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8986416",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Sudoměřská 3",
+      "evseId": "CZ*PRE*E2S0059*2",
+      "geoCoord": {
+        "latitude": "50.080134",
+        "longitude": "14.458727"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Sudoměřská"
     }
   },
   "CZ8989149": {
@@ -25916,6 +26276,46 @@
       "street": "Feřtekova"
     }
   },
+  "CZ9187406": {
+    "name": "Janouchova 2",
+    "sha1": "0d05bd8cffaa2b386a416ae72e23ee834778c08a",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9187406",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Janouchova 2",
+      "evseId": "CZ*PRE*E2S0071*2",
+      "geoCoord": {
+        "latitude": "50.032141",
+        "longitude": "14.536779"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Janouchova"
+    }
+  },
   "CZ9189668": {
     "name": "Okořská",
     "sha1": "cecb4ff3e4e8d02d0cf8fe8ab0a1cd30d4a6a92b",
@@ -27243,6 +27643,46 @@
       "street": "Novodvorská 1947/82"
     }
   },
+  "CZ9463953": {
+    "name": "Radhošťská 1",
+    "sha1": "08ca2e8a0681babf203235101659ed30fb61ff77",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9463953",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Radhošťská 1",
+      "evseId": "CZ*PRE*E2S0061*2",
+      "geoCoord": {
+        "latitude": "50.077658",
+        "longitude": "14.457280"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "130 00",
+      "region": "Hlavní město Praha",
+      "street": "Radhošťská"
+    }
+  },
   "CZ9474828": {
     "name": "Botanická zahrada ",
     "sha1": "538241d77cfda552dcacf55b79eef36e7cb2103c",
@@ -27410,6 +27850,46 @@
       "postalCode": "13000",
       "region": "Hlavní město Praha",
       "street": "Sudoměřská"
+    }
+  },
+  "CZ9516349": {
+    "name": "Žižkovo náměstí 2",
+    "sha1": "fa6884ec4b0d5d2e75c25cbffc630bc7fd08684f",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9516349",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Žižkovo náměstí 2",
+      "evseId": "CZ*PRE*E2S0066*2",
+      "geoCoord": {
+        "latitude": "50.081175",
+        "longitude": "14.455547"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "130 00",
+      "region": "Hlavní město Praha",
+      "street": "Žižkovo nám."
     }
   },
   "CZ9525097": {
@@ -27707,6 +28187,46 @@
       "street": "Eledrova"
     }
   },
+  "CZ9611809": {
+    "name": "Sudoměřská 2",
+    "sha1": "944e8cbe15dc070350947ae30acc139dbb8f0a1d",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9611809",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Sudoměřská 2",
+      "evseId": "CZ*PRE*E2S0058*2",
+      "geoCoord": {
+        "latitude": "50.079863",
+        "longitude": "14.458761"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Sudoměřská"
+    }
+  },
   "CZ9623473": {
     "name": "Kpt. Stránského & Vybíralova",
     "sha1": "05be31e0ddfd1dc9bc8dc2e29fae0440dc57f121",
@@ -27827,6 +28347,46 @@
       "postalCode": "10600",
       "region": "Hlavní město Praha",
       "street": "Jasmínová"
+    }
+  },
+  "CZ9634133": {
+    "name": "Sudoměřská 4",
+    "sha1": "f16c7f9169e7015549e22caa54e84a5010fef47c",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9634133",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Sudoměřská 4",
+      "evseId": "CZ*PRE*E2S0060*2",
+      "geoCoord": {
+        "latitude": "50.079857",
+        "longitude": "14.458835"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Sudoměřská"
     }
   },
   "CZ9636510": {
@@ -27979,6 +28539,46 @@
       "postalCode": "14900",
       "region": "Hlavní město Praha",
       "street": "Bohúňova 1337"
+    }
+  },
+  "CZ9660589": {
+    "name": "Hornbach Řepy",
+    "sha1": "d7e880701c86f5f920a72607af628320d41427f5",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9660589",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Hornbach Řepy",
+      "evseId": "CZ*PRE*E1S8311*2",
+      "geoCoord": {
+        "latitude": "50.075678",
+        "longitude": "14.308663"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "16300",
+      "region": "Hlavní město Praha",
+      "street": "Slánská 2"
     }
   },
   "CZ9675583": {
@@ -28550,6 +29150,46 @@
       "street": "Bryksova"
     }
   },
+  "CZ9817143": {
+    "name": "Janouchova 1",
+    "sha1": "f50db42ca4712729cff448a7bdc45986c36077e0",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9817143",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Janouchova 1",
+      "evseId": "CZ*PRE*E2S0070*2",
+      "geoCoord": {
+        "latitude": "50.031913",
+        "longitude": "14.536840"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Janouchova"
+    }
+  },
   "CZ9825781": {
     "name": "Na Petřinách 5",
     "sha1": "739b97d64b6451357778ed2d47d6c229ed1066d8",
@@ -28686,6 +29326,86 @@
       "postalCode": "10600",
       "region": "Hlavní město Praha",
       "street": "Šalvějová"
+    }
+  },
+  "CZ9835635": {
+    "name": "Radhošťská 2",
+    "sha1": "f6f77aa9fd819f43b15bee0ff4a8dd7edeb0d5e9",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9835635",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Radhošťská 2",
+      "evseId": "CZ*PRE*E2S0062*2",
+      "geoCoord": {
+        "latitude": "50.080604",
+        "longitude": "14.455873"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Radhošťská"
+    }
+  },
+  "CZ9850411": {
+    "name": "Radhošťská 3",
+    "sha1": "8e5ca5b5f38386974faa0b53007f962c68dd6f52",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9850411",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Radhošťská 3",
+      "evseId": "CZ*PRE*E2S0063*2",
+      "geoCoord": {
+        "latitude": "50.080350",
+        "longitude": "14.455978"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "13000",
+      "region": "Hlavní město Praha",
+      "street": "Radhošťská"
     }
   },
   "CZ9853734": {
