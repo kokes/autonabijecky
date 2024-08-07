@@ -38566,6 +38566,143 @@
       "visible": true
     }
   },
+  "194284": {
+    "name": "R616 - Rožnov pod Radhoštěm - I.",
+    "sha1": "e8c65708c60cb3b486f369d6d3bfbacfcb348092",
+    "station": {
+      "address": {
+        "city": "Rožnov pod Radhoštěm",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.4600717,
+        "longitude": 18.1424833,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pionýrská",
+        "url": ""
+      },
+      "customID": "194284",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R616"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R616"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/2b6b858e-b614-45c8-9063-d2af876ca4ca.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R616 - Rožnov pod Radhoštěm - I.",
+      "visible": true
+    }
+  },
+  "194301": {
+    "name": "N247 - Rožnov pod Radhoštěm - II.",
+    "sha1": "3567c7a31815ab7053696969466dbcd7537c5ee2",
+    "station": {
+      "address": {
+        "city": "Rožnov pod Radhoštěm",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.4600717,
+        "longitude": 18.1424833,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pionýrská",
+        "url": ""
+      },
+      "customID": "194301",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N247"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N247"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/2b6b858e-b614-45c8-9063-d2af876ca4ca.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N247 - Rožnov pod Radhoštěm - II.",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
