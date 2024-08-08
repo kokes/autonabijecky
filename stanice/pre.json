@@ -107,10 +107,10 @@
   },
   "CZ1002595": {
     "name": "Vienna House Andel’s Prague",
-    "sha1": "e35b69dd262c9aea5b138b3f76cfec58f86016f4",
+    "sha1": "80d45839048b2bdcdb20768132b1d206f4c371a7",
     "station": {
       "additionalInfo": "Von der Straße Stroupeznickeho, Ebene -2. Nach der Einfahrt in den öffentlichen Teil biegen Sie rechts ab und fahren in den Hotelteil. Das Parkticket muss vor der Hotelgarage erneut gescannt werden.",
-      "branch": "Parken",
+      "branch": "Hospitality",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -303,9 +303,9 @@
   },
   "CZ1002600": {
     "name": "OC Chodov",
-    "sha1": "046113f44e70022f7db56e317a914adfb55f6e22",
+    "sha1": "1f6a53b972f95be22d9fd42587cc95b98288e0f9",
     "station": {
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park ",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -1834,10 +1834,10 @@
   },
   "CZ1002633": {
     "name": "KD Mlejn",
-    "sha1": "f4176916e38bcb0fdb6e1f778b112a846bb6ea29",
+    "sha1": "0e9b653df117bbe751dac9640b8724c8a1ed1d67",
     "station": {
       "additionalInfo": "Vor dem Kulturhaus",
-      "branch": "Parken",
+      "branch": "Leisure",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -2007,10 +2007,10 @@
   },
   "CZ1002636": {
     "name": "K+K Hotel",
-    "sha1": "dd306f62251395870fc02bb1daef70f1b3293ab3",
+    "sha1": "f22c0688851d263e4b7638dc577e95ba2dbb672c",
     "station": {
       "additionalInfo": "In der Hotelgarage K+K Fenix",
-      "branch": "Parken",
+      "branch": "Hospitality",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -18493,9 +18493,9 @@
   },
   "CZ6402625": {
     "name": "IKEA Brno",
-    "sha1": "c13bc4133b7e069e5b9427de809d83a004a1538b",
+    "sha1": "23ef98e83dce263a8a2e709d871f3942082071c9",
     "station": {
-      "branch": "Parken",
+      "branch": "Shopping centre, Retail Park",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -20838,8 +20838,9 @@
   },
   "CZ8117483": {
     "name": "Kardausova DC",
-    "sha1": "f129c9d0ea4f663ecfcbd6efb214c630087dc4d3",
+    "sha1": "8b38cd3af4daff530236ab60efb9857271c4b5c2",
     "station": {
+      "branch": "Street charging",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤75kW"
@@ -22331,8 +22332,9 @@
   },
   "CZ8392692": {
     "name": "TS 4141 Bezová",
-    "sha1": "695e348bbdf6f31b732af3fdf19701547970550b",
+    "sha1": "522009b053d1076045f7ef5f0eabac6adbafc2f3",
     "station": {
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -22484,8 +22486,9 @@
   },
   "CZ8414922": {
     "name": "Hornbach Černý most",
-    "sha1": "bbaee19f39406162f003febfeff4f9cf3036e2ac",
+    "sha1": "0050770144b3b25fff599df8eb43d73bac7a71ee",
     "station": {
+      "branch": "Retailer",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -23095,8 +23098,9 @@
   },
   "CZ8558420": {
     "name": "Segro Hostivice",
-    "sha1": "3d9717f88d369ad343dea8a1350da81d7ffbe386",
+    "sha1": "40484d947c78343dd79d0d61f14e62ce074cc474",
     "station": {
+      "branch": "Retailer",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤75kW"
@@ -23451,8 +23455,9 @@
   },
   "CZ8626146": {
     "name": "Anastázova - parkoviště",
-    "sha1": "133905dc22fe06a0283cccf50cbe388e7be7b153",
+    "sha1": "c755366e84c672dec36efb515bf2d8f7ceaba710",
     "station": {
+      "branch": "Public car parks",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -23769,8 +23774,9 @@
   },
   "CZ8689769": {
     "name": "Kardausova AC",
-    "sha1": "b38708d6771feb6b9b48dfcbf32aaf67ecd7c4a2",
+    "sha1": "5981c516794b801a799e9dc747304361a2312803",
     "station": {
+      "branch": "Street charging",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -24454,8 +24460,9 @@
   },
   "CZ8901519": {
     "name": "TS 3131 Mikulova ",
-    "sha1": "8e1d348509e9170120ea26c3820ab15f7e343c44",
+    "sha1": "f6a51e514a99a31b3fbe8f0fd17ff46d442b3bc3",
     "station": {
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -24986,8 +24993,9 @@
   },
   "CZ9001721": {
     "name": "Park Holiday Congress & Wellness Hotel",
-    "sha1": "ee49da87c7bf22f03dd4f33adce5d6db413b94fe",
+    "sha1": "96d6b0b30eb425900834f65e427b1cf9651e3f6c",
     "station": {
+      "branch": "Hospitality",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -25354,8 +25362,9 @@
   },
   "CZ9029422": {
     "name": "MČ Praha Slivenec",
-    "sha1": "3145842c153780e376819e78567f55b87fa73fb5",
+    "sha1": "8d93a70a991a8ec2107b284beac57c8eeffcbdfe",
     "station": {
+      "branch": "Street charging",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -25495,8 +25504,9 @@
   },
   "CZ9042130": {
     "name": "H-park",
-    "sha1": "d03e69726e5bc2ab089256e8adbb9730a05b8bca",
+    "sha1": "a6e2b2408fd21e8ac232db11ce17cba86d104de4",
     "station": {
+      "branch": "1st class road",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -25726,8 +25736,9 @@
   },
   "CZ9100366": {
     "name": "RS 3820 Dýšinská ",
-    "sha1": "f6f85398cf1418d1c26e344b78fa82333699ad82",
+    "sha1": "2b2002da6b6defe6817327ae6637421319d71673",
     "station": {
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -26082,8 +26093,9 @@
   },
   "CZ9147519": {
     "name": "TS 3668 Brodského",
-    "sha1": "7ae776678cfb198d281d09ebca0bf6eedf632e9c",
+    "sha1": "4e71fd504c99dbec61eaee3c459a5c8315398d93",
     "station": {
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -26726,8 +26738,9 @@
   },
   "CZ9282934": {
     "name": "TS 5032 Koterovská",
-    "sha1": "8c9d54e05f614011cd8685a626d5e2c299d0aa26",
+    "sha1": "c296799bf97dc9a095371cf71a54522edfcdf42d",
     "station": {
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -26779,8 +26792,9 @@
   },
   "CZ9283181": {
     "name": "Hornbach Brno",
-    "sha1": "7c59d38ac763409b8e75726da5af701a90290423",
+    "sha1": "c263abfcff113bfdc1bcbaf695c34faad4b4a711",
     "station": {
+      "branch": "Retailer",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -27176,8 +27190,9 @@
   },
   "CZ9375261": {
     "name": "YIT Lappi Hloubětín ",
-    "sha1": "75d65b4a3b9b2f30ae0708f2c00422412ae673e7",
+    "sha1": "0eca352b278fca9f3eb85f22490a9ca3eca15b71",
     "station": {
+      "branch": "Street charging",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -27552,8 +27567,9 @@
   },
   "CZ9457035": {
     "name": "Chaplinovo náměstí Barrandov",
-    "sha1": "43dffd6ef116c29e444d1ad0fa8c40a949fe515f",
+    "sha1": "e5400e378035c519ecb921bfa11cb1ebce11103e",
     "station": {
+      "branch": "Street charging",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -28705,7 +28721,7 @@
   },
   "CZ9703820": {
     "name": "MŠ Šebelova",
-    "sha1": "0d78c83deccd51bc48777b9fc8807851e37fc8c6",
+    "sha1": "3d041aa764327a2ce7b3d247aa6dc04276c9c02b",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -28726,6 +28742,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6630cab2fc566937fb5d6853/1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6630cab2fc566937fb5d6853/2.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -28745,8 +28773,9 @@
   },
   "CZ9711680": {
     "name": "TS 5065 Božetická ",
-    "sha1": "468e50c14afb5622e7a9aa545baf40e52bf613dc",
+    "sha1": "7ea409011dde49643a4bad251dc3277d592b7130",
     "station": {
+      "branch": "TS",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -28925,8 +28954,9 @@
   },
   "CZ9751918": {
     "name": "OMV Jičínská",
-    "sha1": "14a2f1bfb038f1a52448a125a24a3e98088e73ed",
+    "sha1": "ed2df73ab4034aaee9cd911ff857cef9787bf21f",
     "station": {
+      "branch": "highway",
       "chargingFacilities": {
         "chargingFacility": [
           "DC Charging ≤50kW"
@@ -29616,8 +29646,9 @@
   },
   "CZ9903960": {
     "name": "Park Holiday Congress & Wellness Hotel",
-    "sha1": "bc6e86f0c3f186f45ab38886e0fbd31edcd6855f",
+    "sha1": "24bba2426e76c9b83b994c505bcf65be5fd26cdc",
     "station": {
+      "branch": "Hospitality",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -29696,7 +29727,7 @@
   },
   "CZ9931493": {
     "name": "TS 4783 U Slovanky",
-    "sha1": "b93e9fb3a45e66c278599247d5e7b67f985376f7",
+    "sha1": "d3f843741cc09e9373fe85895076927724218349",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -29718,6 +29749,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf29960a64080f17bad154/WhatsApp_Image2024-07-17.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
