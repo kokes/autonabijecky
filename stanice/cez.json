@@ -38767,6 +38767,329 @@
       "visible": true
     }
   },
+  "196790": {
+    "name": "UR173 - Svitavy - Lačnov - Fa René - I.",
+    "sha1": "de82657e72823ff2555a5bb999a916fe65523afb",
+    "station": {
+      "address": {
+        "city": "Svitavy - Lačnov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.7899032,
+        "longitude": 16.4825103,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Hlavní",
+        "url": ""
+      },
+      "customID": "196790",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR173"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/68c94c54-f861-4bb1-b423-f85a7180301d.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR173 - Svitavy - Lačnov - Fa René - I.",
+      "visible": true
+    }
+  },
+  "196791": {
+    "name": "UR174 - Svitavy - Lačnov - Fa René - II.",
+    "sha1": "49cd575f7f62536919e13e55c6c03f25831cd782",
+    "station": {
+      "address": {
+        "city": "Svitavy - Lačnov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.7899032,
+        "longitude": 16.4825103,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Hlavní",
+        "url": ""
+      },
+      "customID": "196791",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR174"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR174"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/68c94c54-f861-4bb1-b423-f85a7180301d.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR174 - Svitavy - Lačnov - Fa René - II.",
+      "visible": true
+    }
+  },
+  "196792": {
+    "name": "UR245 - Svitavy - Lačnov - Fa René - VI.",
+    "sha1": "c678d8ab59249d4df079587da7eefdad9aaefda3",
+    "station": {
+      "address": {
+        "city": "Svitavy - Lačnov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.7899032,
+        "longitude": 16.4825103,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Hlavní",
+        "url": ""
+      },
+      "customID": "196792",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR245"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/68c94c54-f861-4bb1-b423-f85a7180301d.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR245 - Svitavy - Lačnov - Fa René - VI.",
+      "visible": true
+    }
+  },
+  "196808": {
+    "name": "UR242 - Svitavy - Lačnov - Fa René - III.",
+    "sha1": "487408cdc5981354f7a738942139d9b730cbc0af",
+    "station": {
+      "address": {
+        "city": "Svitavy - Lačnov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.7899032,
+        "longitude": 16.4825103,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Hlavní",
+        "url": ""
+      },
+      "customID": "196808",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR242"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/68c94c54-f861-4bb1-b423-f85a7180301d.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR242 - Svitavy - Lačnov - Fa René - III.",
+      "visible": true
+    }
+  },
+  "196809": {
+    "name": "UR243 - Svitavy - Lačnov - Fa René - IV.",
+    "sha1": "f702a6f5f5915a46707cac61b3883f0b96e3659f",
+    "station": {
+      "address": {
+        "city": "Svitavy - Lačnov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.7899032,
+        "longitude": 16.4825103,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Hlavní",
+        "url": ""
+      },
+      "customID": "196809",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR243"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/68c94c54-f861-4bb1-b423-f85a7180301d.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR243 - Svitavy - Lačnov - Fa René - IV.",
+      "visible": true
+    }
+  },
+  "196810": {
+    "name": "UR244 - Svitavy - Lačnov - Fa René - V.",
+    "sha1": "ca511b6f99b10b0617121c23e43c54f7ea7dcd1d",
+    "station": {
+      "address": {
+        "city": "Svitavy - Lačnov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.7899032,
+        "longitude": 16.4825103,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Hlavní",
+        "url": ""
+      },
+      "customID": "196810",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR244"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/68c94c54-f861-4bb1-b423-f85a7180301d.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR244 - Svitavy - Lačnov - Fa René - V.",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",

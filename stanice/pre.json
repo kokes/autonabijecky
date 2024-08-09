@@ -9965,6 +9965,93 @@
       "street": "Roztylská 2321/19"
     }
   },
+  "CZ1003526": {
+    "name": "OC Westfield Chodov III",
+    "sha1": "d0686dcc56173b24eb2836796d34136e35a57c47",
+    "station": {
+      "branch": "Shopping centre, Retail Park ",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ1003526",
+      "csName": "OC Westfield Chodov III",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "3hod.zdarma poté 50,-Kč/1h, střešní parkoviště OC Westfield Chodov / 3hour free next 50,-Kč/1h.,Rooftop garages OC Westfield Chodov",
+      "enCsname": "OC Westfield Chodov III",
+      "evseId": "CZ*PRE*E1S8071*1",
+      "geoCoord": {
+        "latitude": "50.031473",
+        "longitude": "14.491300"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f0f4b8a750ff799420/pre_app_oc_westfield_chodov_iii_1s8071.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "false",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "openingTimes": [
+        {
+          "from": "06:30",
+          "to": "23:59",
+          "wDay": "MO"
+        },
+        {
+          "from": "06:30",
+          "to": "23:59",
+          "wDay": "TU"
+        },
+        {
+          "from": "06:30",
+          "to": "23:59",
+          "wDay": "WE"
+        },
+        {
+          "from": "06:30",
+          "to": "23:59",
+          "wDay": "TH"
+        },
+        {
+          "from": "06:30",
+          "to": "23:59",
+          "wDay": "FR"
+        },
+        {
+          "from": "06:30",
+          "to": "23:59",
+          "wDay": "SA"
+        },
+        {
+          "from": "06:30",
+          "to": "23:59",
+          "wDay": "SU"
+        }
+      ],
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14800",
+      "region": "Hlavní město Praha",
+      "street": "Roztylská 2321/19"
+    }
+  },
   "CZ1003527": {
     "name": "OC Westfield Chodov II",
     "sha1": "b4a0426c5b4db5bcc3cf6ac923538ab2cbf72288",
@@ -13426,7 +13513,7 @@
   },
   "CZ2002608": {
     "name": "Klecany",
-    "sha1": "b8ddc0b8186618b73b27af33c905cec80bdf4e21",
+    "sha1": "c0f412ae9225e03478fea0b3f93340d728109352",
     "station": {
       "additionalInfo": "In der Lucní Straße bei der PhotoRobot",
       "branch": "Street charging",
@@ -13451,6 +13538,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc94/20220504_082311a.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc94/20220504_082342a.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
