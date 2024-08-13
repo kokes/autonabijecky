@@ -2631,7 +2631,7 @@
   },
   "CZ1002650": {
     "name": "TS 3674 Smotlachova",
-    "sha1": "e48fa88c4671fe34e3e5bb069bc15a3789361a1d",
+    "sha1": "1eeef3b89c183748cf9debd09c091cd694cc0fd6",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3674",
       "branch": "TS",
@@ -2661,11 +2661,6 @@
           "class": "locationPhoto",
           "type": "jpg",
           "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc4d/20231119_094329.jpg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc4d/20231119_094642.jpg"
         }
       ],
       "isHome": true,
@@ -3787,7 +3782,7 @@
   },
   "CZ1002673": {
     "name": "SMIGHT Pražská energetika 19",
-    "sha1": "9de00c0bb964cf5b9ec4ff43568c65a1c72dd0c2",
+    "sha1": "4853f1efdc95e80288aa3cb3acfbf80df44ddc3a",
     "station": {
       "additionalInfo": "Vor dem Gebäude Praská energetika",
       "branch": "lampy VO",
@@ -3812,6 +3807,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc8f/20230804_102815.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -3831,7 +3833,7 @@
   },
   "CZ1002674": {
     "name": "Pražská energetika, a.s. 3",
-    "sha1": "10976a0921a1e822dbed4dd7ea86d5a2adecc688",
+    "sha1": "929b79ffc96931d17b4d38547ce346a5f331e733",
     "station": {
       "additionalInfo": "Im Park vor dem Pražská energetika-Gebäude",
       "branch": "lampy VO",
@@ -3857,6 +3859,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc33/20230804_102815.jpg"
+        },
         {
           "class": "locationPhoto",
           "type": "jpg",
@@ -4746,7 +4753,7 @@
   },
   "CZ1002771": {
     "name": "Hamr Záběhlice",
-    "sha1": "903608df78573ae175d42010d1f94d65433c6e01",
+    "sha1": "b3e0d5032497bcc65b71b40290029ea22b77714a",
     "station": {
       "additionalInfo": "Auf dem Parkplatz des Sportzentrums",
       "branch": "Leisure",
@@ -4774,8 +4781,18 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a3dc/IMG_0435.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a3dc/20221130_074040.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a3dc/20221130_074051.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a3dc/20221130_074102.jpg"
         }
       ],
       "isHome": true,
@@ -6435,7 +6452,7 @@
   },
   "CZ1002832": {
     "name": "Skanska Park View",
-    "sha1": "9d6f047c1935d1c1f9b7e51bf3cef5650b3f9c11",
+    "sha1": "38969289cac48d308906b778dc095c210257e174",
     "station": {
       "additionalInfo": "In der Pujmanova Straße",
       "branch": "Street/parking charging",
@@ -6461,6 +6478,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ccf4b8a750ff799e23/20240226_083123.jpg"
+        },
         {
           "class": "locationPhoto",
           "type": "jpeg",
@@ -6728,7 +6750,7 @@
   },
   "CZ1003039": {
     "name": "Hilton Praha",
-    "sha1": "05f3bba3bf7eef56af643f716e632fe97b8ce090",
+    "sha1": "8524d8bab50d88788ef254dd619f596b6e476c77",
     "station": {
       "additionalInfo": "Beim Hilton Hotel",
       "branch": "Hospitality",
@@ -6756,13 +6778,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436527bf4b8a750ff79979c/IMG_2450.jpeg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436527bf4b8a750ff79979c/IMG_2451.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436527bf4b8a750ff79979c/20240118_080026.jpg"
         },
         {
           "class": "locationPhoto",
@@ -7368,7 +7385,7 @@
   },
   "CZ1003160": {
     "name": "Hotel Stages Praha",
-    "sha1": "e495ae7da18b286784bd26193dfc796b5a7d99dc",
+    "sha1": "38779eb934d3ef3115051bb6adf22303423deb4e",
     "station": {
       "additionalInfo": "Vor dem Stages Hotel",
       "branch": "Hospitality",
@@ -7397,7 +7414,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a3fa/pre_app_hotel_stages.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a3fa/20220624_105605.jpg"
         }
       ],
       "isHome": true,
@@ -8655,7 +8672,7 @@
   },
   "CZ1003312": {
     "name": "TS 3176 Zárubova",
-    "sha1": "06a55c2fb9bd31e4ff740fc95432ad42e939a76a",
+    "sha1": "1ef872a280c7abaf35a3debbaef3cae3b27345b9",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3176",
       "branch": "TS",
@@ -8681,6 +8698,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365335f4b8a750ff79a7a2/20230817_092854.jpg"
+        },
         {
           "class": "locationPhoto",
           "type": "jpg",
@@ -8919,7 +8941,7 @@
   },
   "CZ1003337": {
     "name": "TS 5306 José Martího",
-    "sha1": "f2389443518fb93694413b206f6a13ba954c8402",
+    "sha1": "b0fa61d6e04a0a810d401cc50d9f8d8f6886c87b",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 5306",
       "branch": "TS",
@@ -8945,6 +8967,16 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79acbb/20230808_100109.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79acbb/20240228_083547.jpg"
+        },
         {
           "class": "locationPhoto",
           "type": "png",
@@ -10229,7 +10261,7 @@
   },
   "CZ1003547": {
     "name": "TS 194 Národních Hrdinů",
-    "sha1": "c1dc7ec44fd54961213739ef7fadae1c1e4b9ad0",
+    "sha1": "448a325a4349cb1005b5dc6af564b6804e55a9d1",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 194",
       "branch": "TS",
@@ -10258,7 +10290,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365397f4b8a750ff79afc4/pre_app_ts_194_narodnich_hrdinu.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365397f4b8a750ff79afc4/20230801_070851.jpg"
         }
       ],
       "isHome": true,
@@ -12501,7 +12533,7 @@
   },
   "CZ1004587": {
     "name": "ČVUT FIT",
-    "sha1": "673a10599ed8946ae9002b1dca436638eef69506",
+    "sha1": "2bbe8d57d66dd8e28e1589c3e9c28c9d8c20e29a",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -12525,13 +12557,6 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
-      "images": [
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aac0/imgonline-com-ua-resize-xgyuk2o7iwjh4.jpg"
-        }
-      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -13220,7 +13245,7 @@
   },
   "CZ1004663": {
     "name": "Sídliště Zahradní město - Přesličková",
-    "sha1": "12bef27bdd58f7b4b7124fb9d5110fc911800d95",
+    "sha1": "b564c042e4046ed11cf66916ef2b0f39d38412c9",
     "station": {
       "additionalInfo": "Neben der Waschstraße",
       "branch": "Street/parking charging",
@@ -13249,12 +13274,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652eaf4b8a750ff79a09a/imgonline-com-ua-resize-9sjdqttuneg.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652eaf4b8a750ff79a09a/20230523_110839.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652eaf4b8a750ff79a09a/imgonline-com-ua-resize-wbfneeaup7h3_1.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652eaf4b8a750ff79a09a/imgonline-com-ua-resize-9sjdqttuneg.jpg"
         }
       ],
       "isHome": true,
@@ -15873,7 +15898,7 @@
   },
   "CZ3202743": {
     "name": "OMV Nýrsko",
-    "sha1": "5bdb15bf0bc034608f8aa8774bfb00985edef30f",
+    "sha1": "b6bd357f3e9593b4f8b27845978b8c6276a8cb69",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "2nd and 3rd class roads",
@@ -15902,12 +15927,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990f7/20210127_092612.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990f7/20230824_084152.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990f7/20210127_092629.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990f7/20230824_084225.jpg"
         }
       ],
       "isHome": true,
@@ -16342,7 +16367,7 @@
   },
   "CZ4102792": {
     "name": "Hotel Agricola",
-    "sha1": "cbf1f209d3edfda9efc3984baee5dcb175a424cc",
+    "sha1": "37c36973023a91df5060e26a6a638543b73f1acc",
     "station": {
       "additionalInfo": "In der Garage des Hotels",
       "branch": "Hospitality",
@@ -16371,7 +16396,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365335f4b8a750ff79a7b6/IMG_20231105_150933.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365335f4b8a750ff79a7b6/20230920_124622.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365335f4b8a750ff79a7b6/20230920_124852.jpg"
         }
       ],
       "isHome": true,
@@ -16597,7 +16627,7 @@
   },
   "CZ4202722": {
     "name": "EuroOil Kadaň",
-    "sha1": "f4eb9ae9a592c798c794e8ef014e4564ebb513a2",
+    "sha1": "bc467677cc32e64d74e50830131b7612921f3237",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "2nd and 3rd class road",
@@ -16627,6 +16657,11 @@
           "class": "locationPhoto",
           "type": "jpg",
           "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436527cf4b8a750ff799805/20201216_115905.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436527cf4b8a750ff799805/20230529_090440.jpg"
         }
       ],
       "isHome": true,
@@ -16648,7 +16683,7 @@
   },
   "CZ4202733": {
     "name": "Benzina Most (jih)",
-    "sha1": "1a9259a5d1393bf37c58e9a524466f1f4122c9ea",
+    "sha1": "fae41d6ad06cd91174bd99fff9979bd27fbeabb2",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "1st class road",
@@ -16677,7 +16712,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f0f4b8a750ff799411/20210126_123947.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f0f4b8a750ff799411/20230531_091210.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f0f4b8a750ff799411/20230913_103401.jpg"
         }
       ],
       "isHome": true,
@@ -16852,7 +16892,7 @@
   },
   "CZ4202808": {
     "name": "Benzina Chomutov",
-    "sha1": "cc4304f03c8035127db28f88517b4a8dea8f16bc",
+    "sha1": "c4f56e7a9ab9db338aae99cce4f713039ca6f9b9",
     "station": {
       "branch": "1st class road",
       "chargingFacilities": {
@@ -16877,6 +16917,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff7990bd/20230529_104621.jpg"
+        },
         {
           "class": "locationPhoto",
           "type": "png",
@@ -17208,7 +17253,7 @@
   },
   "CZ5102596": {
     "name": "Česká Lípa Fehrer",
-    "sha1": "659e65566e8643ef231352e85d4db850c5c1086d",
+    "sha1": "4e29572a680e98d315c8e56b437c586ab79e9927",
     "station": {
       "additionalInfo": "Auf dem Parkplatz vor dem Areal Fehrer.",
       "branch": "Public car parks",
@@ -17237,7 +17282,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc3c/%C4%8Desk%C3%A1_l%C3%ADpa_fehrer.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc3c/20240404_103745.jpg"
         }
       ],
       "isHome": true,
@@ -17710,7 +17755,7 @@
   },
   "CZ5203091": {
     "name": "OMV Hradec Králové (sever)",
-    "sha1": "aa46bddf58835be2f66e0ba5d1989cac295f16b2",
+    "sha1": "b1b9ff31f23893362f647a03e4b4d763bec435cd",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "1st class road",
@@ -17739,7 +17784,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a5f4b8a750ff799b45/pre_app_omv_hradec_kralove_sever.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a5f4b8a750ff799b45/20220310_111257_resized.jpg"
         }
       ],
       "isHome": true,
@@ -18388,7 +18433,7 @@
   },
   "CZ6302821": {
     "name": "OMV Havlíčkův Brod",
-    "sha1": "6d3e59efa7e71e6fac62d56359a6ce98504c6370",
+    "sha1": "f7467273a8d9f6abee3a22316a1e9f153c8847e4",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "1st class road",
@@ -18417,7 +18462,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79ac98/20210209_105451.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79ac98/20231017_114233.jpg"
         }
       ],
       "isHome": true,
@@ -18490,7 +18535,7 @@
   },
   "CZ6303484": {
     "name": "OMV Mikulášov",
-    "sha1": "3eb84085f587ca8ee94af9e2509b5fe15939c2e6",
+    "sha1": "cbc643241aa1d16e7a5c7bdf82dcfb69af2419a2",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "1st class road",
@@ -18519,7 +18564,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651edf4b8a750ff799382/pre_app_omv_mikulasov.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651edf4b8a750ff799382/20221121_081917.jpg"
         }
       ],
       "isHome": true,
@@ -18642,7 +18687,7 @@
   },
   "CZ6402643": {
     "name": "Alza Brno",
-    "sha1": "1871748ea592e252ab0982a893606fb55deedaf9",
+    "sha1": "01e580679fdee679be75311824031f0f940e8524",
     "station": {
       "additionalInfo": "Parkplatz von Alza.cz",
       "branch": "Retailer",
@@ -18670,8 +18715,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "png",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc83/obr%C3%A1zek.png"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc83/20220316_101620.jpg"
         }
       ],
       "isHome": true,
@@ -19151,7 +19196,7 @@
   },
   "CZ6403401": {
     "name": "Benzina Lipůvka",
-    "sha1": "9c17aa2e5e7a0256b209db56c415894db71194eb",
+    "sha1": "2c6120fb27a178f36c5389528129aef501d6be1d",
     "station": {
       "additionalInfo": "Bei der Benzina Tankstelle",
       "branch": "1st class road",
@@ -19180,12 +19225,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff7990c2/pre_app_Lipůvka_1.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff7990c2/20231019_095053.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff7990c2/pre_app_lipuvka.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff7990c2/20240220_133325.jpg"
         }
       ],
       "isHome": true,
@@ -19520,7 +19565,7 @@
   },
   "CZ7103194": {
     "name": "EuroOil Zlaté Hory",
-    "sha1": "a6a82ee201f2434fb7444bda7303445ec420a8ef",
+    "sha1": "a3ecdf847f79afb9d756c0acc9d141b8039c2984",
     "station": {
       "additionalInfo": "Bei der EuroOil Tankstelle",
       "branch": "2nd and 3rd class roads",
@@ -19549,7 +19594,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365334f4b8a750ff79a75c/pre_app_eurooil_zlate_hory.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365334f4b8a750ff79a75c/20220331_125517.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365334f4b8a750ff79a75c/20230925_152830.jpg"
         }
       ],
       "isHome": true,
@@ -21320,7 +21370,7 @@
   },
   "CZ8170367": {
     "name": "Pražačka",
-    "sha1": "7d523df9060832006d0e0f5287f8c5552ea0a8a4",
+    "sha1": "998f9603607dd23044157c1bec69703938d19966",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -21341,6 +21391,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65398768bfed5643ae7e0965/20231205_080610.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -22218,7 +22275,7 @@
   },
   "CZ8337812": {
     "name": "Residence Nové Modřany",
-    "sha1": "c7be796b0cb13f15e8fe2b10101c2be9e20c9ff3",
+    "sha1": "b598b5cd324e2d5918f146cd1406797f9c55af4f",
     "station": {
       "branch": "Street charging",
       "chargingFacilities": {
@@ -22240,6 +22297,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/655b79e3b00b887ef007ed4c/20240510_085243.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -23062,7 +23126,7 @@
   },
   "CZ8523914": {
     "name": "ČSOB Hradec Králové 2",
-    "sha1": "44e6e6ff34046b402177c96768ef67da139507d5",
+    "sha1": "511e5c773a147d4f0ae035ac9c51748033ece8ff",
     "station": {
       "branch": "Depo – fleet  ",
       "chargingFacilities": {
@@ -23087,6 +23151,11 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/646777bc4fbd383ca8b4341c/20231102_074048.jpg"
+        },
         {
           "class": "locationPhoto",
           "type": "jpeg",
@@ -24898,7 +24967,7 @@
   },
   "CZ8985363": {
     "name": "Hamr Sport Modřany",
-    "sha1": "d88d22f55227b5c7fd4479d175c37026aba3a9c1",
+    "sha1": "eccea72f34089385f20fb4f7318165e6d2c4f869",
     "station": {
       "branch": "Leisure",
       "chargingFacilities": {
@@ -24925,13 +24994,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643817bbf4b8a750ff79c02d/181684A3-E035-46A6-AE93-6A978F443E85.jpeg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643817bbf4b8a750ff79c02d/96BBE64D-473A-4DD4-ACB6-E2910BDD763C.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643817bbf4b8a750ff79c02d/20230814_102348.jpg"
         }
       ],
       "isHome": true,
@@ -28396,7 +28460,7 @@
   },
   "CZ9624272": {
     "name": "SUAS 1 Dolní Rychnov",
-    "sha1": "bf34dda021171a2831c4ccd332357d697582f87a",
+    "sha1": "9b97576c2c5002f0563e1301582f74cbd0c4f9b9",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -28420,6 +28484,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6437d0bff4b8a750ff79bffd/20230607_085627.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -29152,7 +29223,7 @@
   },
   "CZ9786594": {
     "name": "Automechanika HQ",
-    "sha1": "c55e6602224e43e0cdd5ca12411b9fbd81bdb1e7",
+    "sha1": "c04e3cfe73e1f89b3e864992fc4deaffbf533445",
     "station": {
       "branch": "Retailer",
       "chargingFacilities": {
@@ -29175,6 +29246,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6511657422ba1f3bcb2d9b27/20231129_141610.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "false",
       "isPartnerCs": false,
@@ -30019,7 +30097,7 @@
   },
   "CZ9979120": {
     "name": "Golf Club Hodkovičky, z.s.",
-    "sha1": "e26ae07bbdb8689b414e7f63ffaa6d55275ed077",
+    "sha1": "8b8a0c378def5ec0b0e1d16e4f36273c628c2da7",
     "station": {
       "branch": "Leisure",
       "chargingFacilities": {
@@ -30043,13 +30121,6 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
-      "images": [
-        {
-          "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643d7a83f4b8a750ff79c1e4/23218605-E994-42D4-B880-016382EFBD8B.jpeg"
-        }
-      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,

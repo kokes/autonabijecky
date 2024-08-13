@@ -39090,6 +39090,416 @@
       "visible": true
     }
   },
+  "196833": {
+    "name": "UR183 - Kladno - Tesco I.",
+    "sha1": "6bb0bcfc01b7f71ef3937067d7f912764a5544ad",
+    "station": {
+      "address": {
+        "city": "Kladno",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2777",
+        "latitude": 50.1270114,
+        "longitude": 14.1172044,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Americká",
+        "url": ""
+      },
+      "customID": "196833",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR183"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR183"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/3-20240812-112556.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR183 - Kladno - Tesco I.",
+      "visible": true
+    }
+  },
+  "196834": {
+    "name": "UR185 - Kladno - Tesco III.",
+    "sha1": "cbd1245275f5ca06ec8b2d0f8ad64dd3593c37fe",
+    "station": {
+      "address": {
+        "city": "Kladno",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2777",
+        "latitude": 50.1270114,
+        "longitude": 14.1172044,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Americká",
+        "url": ""
+      },
+      "customID": "196834",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR185"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/3-20240812-112510.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR185 - Kladno - Tesco III.",
+      "visible": true
+    }
+  },
+  "196835": {
+    "name": "UR186 - Kladno - Tesco IV.",
+    "sha1": "201c3b0ce9ae8fdc6bb1bd49cfdf194ff3f38365",
+    "station": {
+      "address": {
+        "city": "Kladno",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2777",
+        "latitude": 50.1270114,
+        "longitude": 14.1172044,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Americká",
+        "url": ""
+      },
+      "customID": "196835",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 120,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR186"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/3-20240812-112510.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR186 - Kladno - Tesco IV.",
+      "visible": true
+    }
+  },
+  "196836": {
+    "name": "UR188 - Kladno - Tesco VI.",
+    "sha1": "2b4aa088c65aabb0d5238f320d956b8e2d2f82b8",
+    "station": {
+      "address": {
+        "city": "Kladno",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2777",
+        "latitude": 50.1270114,
+        "longitude": 14.1172044,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Americká",
+        "url": ""
+      },
+      "customID": "196836",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR188"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR188"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/3-20240812-112510.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR188 - Kladno - Tesco VI.",
+      "visible": true
+    }
+  },
+  "196851": {
+    "name": "UR184 - Kladno - Tesco II.",
+    "sha1": "fdf4676ce06549ea047cafb01749a3158b638387",
+    "station": {
+      "address": {
+        "city": "Kladno",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2777",
+        "latitude": 50.1270114,
+        "longitude": 14.1172044,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Americká",
+        "url": ""
+      },
+      "customID": "196851",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR184"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/3-20240812-112540.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR184 - Kladno - Tesco II.",
+      "visible": true
+    }
+  },
+  "196852": {
+    "name": "UR187 - Kladno - Tesco V.",
+    "sha1": "255d38e378688b4fc0555d90ae152088ae7602ca",
+    "station": {
+      "address": {
+        "city": "Kladno",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2777",
+        "latitude": 50.1270114,
+        "longitude": 14.1172044,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Americká",
+        "url": ""
+      },
+      "customID": "196852",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 120,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR187"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/3-20240812-112510.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR187 - Kladno - Tesco V.",
+      "visible": true
+    }
+  },
+  "196853": {
+    "name": "R652 - Bartošovice",
+    "sha1": "9b30530b4ef2838a5a6652c110076639ebbf0445",
+    "station": {
+      "address": {
+        "city": "Bartošovice v Orlických horách",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "v Orlických horách",
+        "latitude": 50.1630322,
+        "longitude": 16.5499886,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Bartošovice",
+        "url": ""
+      },
+      "customID": "196853",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R652"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R652"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/3-20240812-121927.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R652 - Bartošovice",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
