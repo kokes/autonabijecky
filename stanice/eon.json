@@ -18822,6 +18822,124 @@
       "time_zone": "Europe/Prague"
     }
   },
+  "254782": {
+    "name": "(P) GUMEX Strážnice",
+    "sha1": "29c191fed3903655e155fd6a308eab9290a78b4f",
+    "station": {
+      "address": "Za Drahou 1856",
+      "city": "Strážnice",
+      "coordinates": {
+        "latitude": "48.8924494",
+        "longitude": "17.3052589"
+      },
+      "country": "CZE",
+      "country_code": "CZ",
+      "energy_mix": {
+        "is_green_energy": true
+      },
+      "evses": [
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "CABLE",
+              "id": "1",
+              "last_updated": "2024-08-13T13:33:11.52Z",
+              "max_amperage": 125,
+              "max_electric_power": 75000,
+              "max_voltage": 500,
+              "power_type": "DC",
+              "standard": "IEC_62196_T2_COMBO",
+              "tariff_ids": [
+                "364",
+                "365"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.8924494",
+            "longitude": "17.3052589"
+          },
+          "evse_id": "CZ*EON*E32254782*1",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "254782"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "2",
+              "last_updated": "2024-08-13T13:33:11.52Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "310",
+                "311",
+                "362",
+                "363"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "48.8924494",
+            "longitude": "17.3052589"
+          },
+          "evse_id": "CZ*EON*E32254782*2",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "254783"
+        }
+      ],
+      "facilities": [
+        "HOTEL"
+      ],
+      "id": "254782",
+      "images": [
+        {
+          "category": "OTHER",
+          "type": "jpeg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/277378/1741841722855082.jpeg"
+        }
+      ],
+      "last_updated": "RESET",
+      "name": "(P) GUMEX Strážnice",
+      "opening_times": {
+        "twentyfourseven": true
+      },
+      "operator": {
+        "name": "GUMEX, spol. s r.o."
+      },
+      "owner": {
+        "name": "GUMEX, spol. s r.o."
+      },
+      "parking_type": "PARKING_LOT",
+      "party_id": "EON",
+      "postal_code": "696 62",
+      "publish": true,
+      "state": "Česká republika",
+      "suboperator": {
+        "name": "E.ON Energie, a.s."
+      },
+      "time_zone": "Europe/Prague"
+    }
+  },
   "259660": {
     "name": "(P) Parking Centrum Tábor",
     "sha1": "b7cb7e94fdc81edc149d5775176fefae8bd34334",
