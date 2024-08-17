@@ -21095,7 +21095,7 @@
   },
   "CZ8140336": {
     "name": "Hornbach Svinov",
-    "sha1": "8cee2a46e1064b1f76cb77a5c747c0315af5c068",
+    "sha1": "0d65c8f57be7582601feaaf99bb70ef430b314bb",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -21106,17 +21106,29 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8140336",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "Hornbach Ostrava Svinov",
       "enCsname": "Hornbach Svinov",
-      "evseId": "CZ*PRE*E1S8261*2",
+      "evseId": "CZ*PRE*E1S8260*2",
       "geoCoord": {
         "latitude": "49.825563",
         "longitude": "18.210142"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65783b9eb00b887ef007f6eb/1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65783b9eb00b887ef007f6eb/2.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
