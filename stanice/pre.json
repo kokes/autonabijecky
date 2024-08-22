@@ -21351,6 +21351,46 @@
       "street": "Za Žižkovskou vozovnou 2716/19"
     }
   },
+  "CZ8176049": {
+    "name": "Koupaliště Stírka",
+    "sha1": "c47e46d23d8668847eb9b22ad2f3ab2fa5e163ce",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8176049",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Koupaliště Stírka",
+      "evseId": "CZ*PRE*E1S8312*2",
+      "geoCoord": {
+        "latitude": "50.122572",
+        "longitude": "14.457787"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18200",
+      "region": "Hlavní město Praha",
+      "street": "Pod Statky"
+    }
+  },
   "CZ8182873": {
     "name": "Na Petřinách 2",
     "sha1": "da1ae648b8562f17af6d17cc4c311a57cb0ece85",
@@ -22869,6 +22909,46 @@
       "postalCode": "16200",
       "region": "Hlavní město Praha",
       "street": "Na Petřinách"
+    }
+  },
+  "CZ8462165": {
+    "name": "Roztýlské náměstí",
+    "sha1": "448c2a4ea4cc52f6695f6ac9233a78601f44bece",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8462165",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Roztýlské náměstí",
+      "evseId": "CZ*PRE*E1S8313*2",
+      "geoCoord": {
+        "latitude": "50.047039",
+        "longitude": "14.476120"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14100",
+      "region": "Hlavní město Praha",
+      "street": "Roztylské nám."
     }
   },
   "CZ8463636": {
@@ -27771,6 +27851,46 @@
       "postalCode": "13000",
       "region": "Hlavní město Praha",
       "street": "Radhošťská"
+    }
+  },
+  "CZ9467954": {
+    "name": "Pujmanové ICZ",
+    "sha1": "63f11ae11f4ac465cf1e16868109722065ae7bd8",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9467954",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Pujmanové ICZ",
+      "evseId": "CZ*PRE*E1S8314*2",
+      "geoCoord": {
+        "latitude": "50.051842",
+        "longitude": "14.431982"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14000",
+      "region": "Hlavní město Praha",
+      "street": "Pujmanové"
     }
   },
   "CZ9474828": {
