@@ -657,7 +657,7 @@
   },
   "CZ1002605": {
     "name": "Centrála PRE na Hroudě 4",
-    "sha1": "162b51afeaaef4757440ca2e086aba715e6bf2c4",
+    "sha1": "54cfc92f008b2f7c8c3d0c07bb5f6010340e1489",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -684,8 +684,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643653e9f4b8a750ff79b9cc/imgonline-com-ua-resize-MBdVognGnzXx7.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643653e9f4b8a750ff79b9cc/Centrala_PRE_na_Hroud%C4%9B_4.png"
         }
       ],
       "isHome": true,
@@ -1588,7 +1588,7 @@
   },
   "CZ1002627": {
     "name": "Centrum Černý most",
-    "sha1": "f5cccfaa48428ebc78876130421149fdfe879471",
+    "sha1": "d4fd0c340b1f3d826f37919defea62dae47254c0",
     "station": {
       "branch": "Shopping centre, Retail Park",
       "chargingFacilities": {
@@ -1615,13 +1615,13 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc68/IMG_20231026_135011.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc68/Centrum_%C4%8Cern%C3%BD_Most_1_1.png"
         },
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc68/IMG_20231026_135052.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc68/Centrum_Cerny_Most_2_2.png"
         },
         {
           "class": "locationPhoto",
@@ -12455,7 +12455,7 @@
   },
   "CZ1004587": {
     "name": "ČVUT FIT",
-    "sha1": "31572544f0ca9b7c363ed2519fa695691ee62cda",
+    "sha1": "2c1a09693c731300a7bffe9f0694fdeed5f64d07",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -12482,8 +12482,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aac0/20231031_082652.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aac0/%C4%8CVUT_FIT.png"
         }
       ],
       "isHome": true,
@@ -12560,7 +12560,7 @@
   },
   "CZ1004592": {
     "name": "Churchill Square",
-    "sha1": "9360890f8870c63c039b8b286672652c0695cb55",
+    "sha1": "698e427eff0be8fc7f6de2aa0a5d242e83fceabc",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -12587,8 +12587,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652cdf4b8a750ff799e6a/1080x600_0.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652cdf4b8a750ff799e6a/Churchill_Square.png"
         }
       ],
       "isHome": true,
@@ -13422,7 +13422,7 @@
   },
   "CZ1004753": {
     "name": "Benzina Jižní Spojka",
-    "sha1": "5db338f95d46071abc977a678f3e0d3669e6512e",
+    "sha1": "0be68117c9e292f6fc3b97fcffaeb2f5eef1c249",
     "station": {
       "branch": "1st class road",
       "chargingFacilities": {
@@ -13450,7 +13450,7 @@
         {
           "class": "locationPhoto",
           "type": "png",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a3f4b8a750ff799a60/benzina_jizni_spojka.png"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a3f4b8a750ff799a60/benzinaJS.png"
         }
       ],
       "isHome": true,
@@ -13930,7 +13930,7 @@
   },
   "CZ2002725": {
     "name": "Benzina Roudnice nad Labem",
-    "sha1": "9b6358cc83cc4567e94dc7e752b1dbf67baf0430",
+    "sha1": "f4d3fd646cc9d7fc72ea60267125717241407fb2",
     "station": {
       "additionalInfo": "Auf dem Tankstellenparkplatz",
       "branch": "2nd and 3rd class roads",
@@ -13958,13 +13958,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365278f4b8a750ff7996df/20210107_102512.jpg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365278f4b8a750ff7996df/20210107_102829.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365278f4b8a750ff7996df/BenzinaRoudniceNadLabem.png"
         }
       ],
       "isHome": true,
@@ -15209,7 +15204,7 @@
   },
   "CZ3102626": {
     "name": "Alza České Budějovice",
-    "sha1": "d2e06eb788c23bb5d1bd414122a3e207dd28a04c",
+    "sha1": "df029be69f451076b80087e261aab0c2f43fb4cc",
     "station": {
       "additionalInfo": "Von der Straße Plzenská",
       "branch": "Retailer",
@@ -15238,12 +15233,12 @@
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc95/IMG_2487.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc95/IMG_2489.jpeg"
         },
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc95/IMG_2489.jpeg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc95/img.png"
         }
       ],
       "isHome": true,
@@ -15316,7 +15311,7 @@
   },
   "CZ3102741": {
     "name": "EuroOil České Budějovice",
-    "sha1": "6aacde9fd1c72d9b85c29b007eb10e42352ab779",
+    "sha1": "24e8f0bb9ee9ed939d710f1f8940908097d31d42",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "2nd and 3rd class roads",
@@ -15367,7 +15362,7 @@
       ],
       "postalCode": "37001",
       "region": "Jihočeský kraj",
-      "street": "Rudolfovská t?ída 676"
+      "street": "Rudolfovská třída 676"
     }
   },
   "CZ3102742": {
@@ -16607,7 +16602,7 @@
   },
   "CZ4202733": {
     "name": "Benzina Most (jih)",
-    "sha1": "fae41d6ad06cd91174bd99fff9979bd27fbeabb2",
+    "sha1": "2913b56cd0fc366a992eee95a8cf6d3fcea55896",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "1st class road",
@@ -16636,12 +16631,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f0f4b8a750ff799411/20230531_091210.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f0f4b8a750ff799411/20230913_103401.jpg"
         },
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f0f4b8a750ff799411/20230913_103401.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f0f4b8a750ff799411/BenzinaMostJih.png"
         }
       ],
       "isHome": true,
@@ -16765,7 +16760,7 @@
   },
   "CZ4202803": {
     "name": "Benzina Ústí nad Labem",
-    "sha1": "74426daf5dd7eee4e947c8f62f99dd8e5fa32b02",
+    "sha1": "2cbbf1a45b19a292c9920a9d204c9ee32d6e9d52",
     "station": {
       "additionalInfo": "Auf dem Parkplatz der Tankstelle",
       "branch": "1st class road",
@@ -16793,8 +16788,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a2f4b8a750ff7999e0/pre_app_benzina_usti_nad_labem.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a2f4b8a750ff7999e0/benzina_usti_nad_labem.png"
         }
       ],
       "isHome": true,
@@ -17024,7 +17019,7 @@
   },
   "CZ4203055": {
     "name": "Benzina Úštěk",
-    "sha1": "6536a59ba1bccd9fbcd07e7f1bcedf153300e0f3",
+    "sha1": "63d92093544960d40cc054bd11e59474aaada0de",
     "station": {
       "additionalInfo": "Bei der Benzina Tankstelle",
       "branch": "1st class road",
@@ -17053,7 +17048,7 @@
         {
           "class": "locationPhoto",
           "type": "png",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436537af4b8a750ff79ad79/Foto.png"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436537af4b8a750ff79ad79/Benzina%C3%9A%C5%A1t%C4%9Bk.png"
         }
       ],
       "isHome": true,
@@ -17881,7 +17876,7 @@
   },
   "CZ5302630": {
     "name": "Alza Pardubice",
-    "sha1": "2eb0eae542fd0e6532b700f94585ba9e2dfcf741",
+    "sha1": "f82036ebbc67ad3d5121d9fa83d214547f3c1de5",
     "station": {
       "additionalInfo": "Vor dem Alza-Geschäft",
       "branch": "Retailer",
@@ -17909,8 +17904,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc9c/IMG_20231028_165358.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc9c/alza-Pardubice.png"
         },
         {
           "class": "locationPhoto",
@@ -17993,7 +17988,7 @@
   },
   "CZ5302870": {
     "name": "AUTO IN Pardubice",
-    "sha1": "30a082161df73f2e25aab840db1ffbbb8d657704",
+    "sha1": "c69861a50f4f91fe6a9f4471e17bd4f088a7b000",
     "station": {
       "branch": "1st class road",
       "chargingFacilities": {
@@ -18020,18 +18015,18 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a3f4b8a750ff799a64/IMG_20231028_170831.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a3f4b8a750ff799a64/AUTOINPardubice1.png"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a3f4b8a750ff799a64/AUTOINPardubice2.png"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
           "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a3f4b8a750ff799a64/IMG_20231028_171359.jpg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a3f4b8a750ff799a64/IMG_20231028_171503.jpg"
         }
       ],
       "isHome": true,
@@ -18667,7 +18662,7 @@
   },
   "CZ6402684": {
     "name": "Brno EnergServis",
-    "sha1": "da6a190bb9c29ec8b3a514b7d5bcce6c9bdc4f8d",
+    "sha1": "1fb2b157491db957ba4913e434716473e362cabc",
     "station": {
       "branch": "Shopping centre, Retail Park",
       "chargingFacilities": {
@@ -18694,8 +18689,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc48/PREpoint.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc48/BrnoEnergServis.png"
         }
       ],
       "isHome": true,
@@ -19125,7 +19120,7 @@
   },
   "CZ6403401": {
     "name": "Benzina Lipůvka",
-    "sha1": "2c6120fb27a178f36c5389528129aef501d6be1d",
+    "sha1": "858a60928583a26cd1223a71987ccb9fc8281223",
     "station": {
       "additionalInfo": "Bei der Benzina Tankstelle",
       "branch": "1st class road",
@@ -19154,12 +19149,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff7990c2/20231019_095053.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff7990c2/20240220_133325.jpg"
         },
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff7990c2/20240220_133325.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff7990c2/BenzinaLip%C5%AFvka.png"
         }
       ],
       "isHome": true,
@@ -21148,7 +21143,7 @@
   },
   "CZ8142276": {
     "name": "Corso Court Karlín",
-    "sha1": "b5bf3732d539615d85a56730f0174deb2d502640",
+    "sha1": "447a75176be1ac85e6b9084c556554afea1f27c5",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -21173,13 +21168,13 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/650029437444ab2795ebed3b/1.jpeg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/650029437444ab2795ebed3b/Corso_Court_Karl%C3%ADn_1.png"
         },
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/650029437444ab2795ebed3b/2.jpeg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/650029437444ab2795ebed3b/Corso_Court_Karl%C3%ADn_2.png"
         }
       ],
       "isHome": true,
@@ -23149,7 +23144,7 @@
   },
   "CZ8523914": {
     "name": "ČSOB Hradec Králové 2",
-    "sha1": "511e5c773a147d4f0ae035ac9c51748033ece8ff",
+    "sha1": "633a6fc0c7672af31870592ea6f4a564cf0dcd2f",
     "station": {
       "branch": "Depo – fleet  ",
       "chargingFacilities": {
@@ -23176,13 +23171,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/646777bc4fbd383ca8b4341c/20231102_074048.jpg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/646777bc4fbd383ca8b4341c/csob1.jpeg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/646777bc4fbd383ca8b4341c/csob_Hradec_kr%C3%A1lov%C3%A9_1.png"
         },
         {
           "class": "locationPhoto",
@@ -23381,7 +23371,7 @@
   },
   "CZ8567925": {
     "name": "Benzina Kbelská",
-    "sha1": "2b984c5a275039a5a2e126eb1a21c0f13ef51599",
+    "sha1": "d501d30dc70a8f2eaf2047ad5910fe3f7098465e",
     "station": {
       "branch": "1st class road",
       "chargingFacilities": {
@@ -23408,8 +23398,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6464ee464fbd383ca8b4330d/imgonline-com-ua-resize-Kkk7RGcpZCb0TRw.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6464ee464fbd383ca8b4330d/BenzinaKbelsk%C3%A1.png"
         }
       ],
       "isHome": true,
@@ -24422,7 +24412,7 @@
   },
   "CZ8855001": {
     "name": "Daramis - Unicity",
-    "sha1": "fcd31ed10b1b184d15f482031fb9d4fdddd257a6",
+    "sha1": "30088c9823eb26dc30fc538651023315cfdbdbfc",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -24449,8 +24439,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64624edb6f5fb93f08a13edc/imgonline-com-ua-resize-U1sQTrEWfCvc8r.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64624edb6f5fb93f08a13edc/daramis.png"
         }
       ],
       "isHome": true,
@@ -25964,7 +25954,7 @@
   },
   "CZ9101830": {
     "name": "DOCK IN",
-    "sha1": "1fa269da4ec128ab015ec3b0b0b8f2b8c8fc69c2",
+    "sha1": "5065c0996f556cbb26def037bae09e0fe7171ab3",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -25990,13 +25980,13 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64f05c543003bf78e0194f17/2.jpeg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64f05c543003bf78e0194f17/DOCK_IN_2.png"
         },
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64f05c543003bf78e0194f17/3.jpeg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64f05c543003bf78e0194f17/DOCK_IN.png"
         }
       ],
       "isHome": true,
@@ -27525,7 +27515,7 @@
   },
   "CZ9441199": {
     "name": "Arena Sparta",
-    "sha1": "ceae4080defdc8e27c8c15b423d1df63a481fbb3",
+    "sha1": "96dca6001cefcb9afb66cb4b6a39befbc1cc2a84",
     "station": {
       "branch": "Leisure",
       "chargingFacilities": {
@@ -27552,8 +27542,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649ab5def6cf7d59263f50c3/imgonline-com-ua-resize-9cTEqitGka1AAhyr.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649ab5def6cf7d59263f50c3/imgonline-com-ua-resize-9cTEqitGka1AAhyr.png"
         }
       ],
       "isHome": true,
@@ -27712,7 +27702,7 @@
   },
   "CZ9457035": {
     "name": "Chaplinovo náměstí Barrandov",
-    "sha1": "e5400e378035c519ecb921bfa11cb1ebce11103e",
+    "sha1": "8b353ba645dbaf738357c79eafd47d78da075d51",
     "station": {
       "branch": "Street charging",
       "chargingFacilities": {
@@ -27738,12 +27728,12 @@
         {
           "class": "locationPhoto",
           "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65e98a310a64080f17bad81f/1.jpeg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65e98a310a64080f17bad81f/2.jpeg"
         },
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65e98a310a64080f17bad81f/2.jpeg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65e98a310a64080f17bad81f/Chaplinovo_n%C3%A1m._Barrandov.png"
         }
       ],
       "isHome": true,
@@ -29235,7 +29225,7 @@
   },
   "CZ9786594": {
     "name": "Automechanika HQ",
-    "sha1": "c04e3cfe73e1f89b3e864992fc4deaffbf533445",
+    "sha1": "7b9a9fc112130b971a25722400f9ccf4897087f5",
     "station": {
       "branch": "Retailer",
       "chargingFacilities": {
@@ -29261,8 +29251,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6511657422ba1f3bcb2d9b27/20231129_141610.jpg"
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6511657422ba1f3bcb2d9b27/AutomechanikaHQ.png"
         }
       ],
       "isHome": true,
