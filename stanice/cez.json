@@ -39500,6 +39500,362 @@
       "visible": true
     }
   },
+  "197332": {
+    "name": "R650 - Lysá nad Labem - Sportovní hala - I.",
+    "sha1": "1ae36a5ee5d62323da9d2ef73ad9276c203e2e05",
+    "station": {
+      "address": {
+        "city": "Lysá nad Labem",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2162",
+        "latitude": 50.2062145,
+        "longitude": 14.8390783,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Komenského",
+        "url": ""
+      },
+      "customID": "197332",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R650"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R650"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/51120430.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R650 - Lysá nad Labem - Sportovní hala - I.",
+      "visible": true
+    }
+  },
+  "197333": {
+    "name": "R651 - Lysá nad Labem - Sportovní hala - II.",
+    "sha1": "bec9112f06bf62833a955f3bdafd64c03125a401",
+    "station": {
+      "address": {
+        "city": "Lysá nad Labem",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2162",
+        "latitude": 50.2062145,
+        "longitude": 14.8390783,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Komenského",
+        "url": ""
+      },
+      "customID": "197333",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R651"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R651"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/51120430.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R651 - Lysá nad Labem - Sportovní hala - II.",
+      "visible": true
+    }
+  },
+  "197334": {
+    "name": "N269 - Mladá Boleslav - Billa - I.",
+    "sha1": "88ef37c527b25be0c0fae955b2e7c6e49c518045",
+    "station": {
+      "address": {
+        "city": "Mladá Boleslav",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Hážové",
+        "latitude": 50.4038822,
+        "longitude": 14.9060058,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Mileny",
+        "url": ""
+      },
+      "customID": "197334",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N269"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N269"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/21420078.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "N269 - Mladá Boleslav - Billa - I.",
+      "visible": true
+    }
+  },
+  "197336": {
+    "name": "R627 - Brandýs nad Labem",
+    "sha1": "2c2480284f0bc8e97ab5d1e10286f6f9ad4f7ebe",
+    "station": {
+      "address": {
+        "city": "Brandýs nad Labem",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1777",
+        "latitude": 50.1842194,
+        "longitude": 14.6584194,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pražská",
+        "url": ""
+      },
+      "customID": "197336",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R627"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R627"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/img_8064.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R627 - Brandýs nad Labem",
+      "visible": true
+    }
+  },
+  "197350": {
+    "name": "R638 - Mladá Boleslav - Billa - II.",
+    "sha1": "1348619af6040b06c35ab459ee13efa7fb4459e1",
+    "station": {
+      "address": {
+        "city": "Mladá Boleslav",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Hážové",
+        "latitude": 50.4038822,
+        "longitude": 14.9060058,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Mileny",
+        "url": ""
+      },
+      "customID": "197350",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R638"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R638"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/21420078.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R638 - Mladá Boleslav - Billa - II.",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
