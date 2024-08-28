@@ -1936,7 +1936,7 @@
   },
   "CZ1002635": {
     "name": "ÚMČ Praha 13",
-    "sha1": "8578116080ff9f8e77c9e66872805de09781bddb",
+    "sha1": "ad0215c54834c39f48f1ac069145b055e2dd9e48",
     "station": {
       "additionalInfo": "Vor dem Rathaus",
       "branch": "Public car parks",
@@ -1965,17 +1965,17 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc57/IMG_20231028_155933_952.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc57/%C3%9AM%C4%8C_Praha_13_2.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc57/IMG_20231028_155954_547.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc57/%C3%9AM%C4%8C_Praha_13_3.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc57/IMG_20231028_160034_630.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc57/%C3%9AM%C4%8C_Praha_13.jpg"
         }
       ],
       "isHome": true,
@@ -2153,7 +2153,7 @@
   },
   "CZ1002641": {
     "name": "Sconto Stodůlky",
-    "sha1": "896782a392ad46026967ad71f3e2178c9f735bad",
+    "sha1": "708e32d2c0fac8296dbb2dd88d26fc101cc19715",
     "station": {
       "additionalInfo": "Ladestation am Haupteingang.",
       "branch": "Retailer",
@@ -2182,12 +2182,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc2a/IMG_20231029_171100494.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc2a/sconto_stodulky_1.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc2a/IMG_20231029_171107888.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc2a/sconto_stodulky_2.jpg"
         }
       ],
       "isHome": true,
@@ -2209,7 +2209,7 @@
   },
   "CZ1002642": {
     "name": "Golf Hostivař",
-    "sha1": "1ea4f247484f531b9357ed92bb48238887bd2efb",
+    "sha1": "945470e9c1e27dc487cc0cba7f045e20ea712709",
     "station": {
       "additionalInfo": "Vor dem Eingang zum Areal",
       "branch": "Leisure",
@@ -2237,8 +2237,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "png",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc45/GolfHostiva%C5%99.png"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc45/GolfHostiva%C5%99.jpg"
         }
       ],
       "isHome": true,
@@ -2621,7 +2621,7 @@
   },
   "CZ1002650": {
     "name": "TS 3674 Smotlachova",
-    "sha1": "1eeef3b89c183748cf9debd09c091cd694cc0fd6",
+    "sha1": "8ba2707d4aa46d777a020773aec98fad81d2c19c",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3674",
       "branch": "TS",
@@ -2650,7 +2650,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc4d/20231119_094329.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc4d/TS_3674_Smotlachova.jpg"
         }
       ],
       "isHome": true,
@@ -2672,7 +2672,7 @@
   },
   "CZ1002651": {
     "name": "TS 2665 Jihlavská",
-    "sha1": "04b6536957652610346a83d10dc41edea4b51321",
+    "sha1": "51d8ef89e9c94ff9f520cdc36351e1d132685ea0",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -2709,8 +2709,8 @@
         },
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc2e/500769C9-F1CC-4A87-86E7-0FDB861DFECB_1.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc2e/TS_Jihlavska.jpg"
         }
       ],
       "isHome": true,
@@ -2732,7 +2732,7 @@
   },
   "CZ1002652": {
     "name": "TS 2974 Seidlova",
-    "sha1": "1483ff3232a0ff376c9ac19665aaaf5b6d2d7c33",
+    "sha1": "78ce403a2085351ec93813d5ec3c04b3e7bdeca8",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2974",
       "branch": "TS",
@@ -2765,8 +2765,8 @@
         },
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bcb9/B91F8305-6D9C-4B67-A4C6-7C7B5F1AF0E0.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bcb9/TS_seidlova.jpg"
         }
       ],
       "isHome": true,
@@ -2788,7 +2788,7 @@
   },
   "CZ1002653": {
     "name": "TS 2443 Litvínovská",
-    "sha1": "43fc5e18caf8a4146844e1dd90a1c936006fc103",
+    "sha1": "8ac100e1e823164fa5875941c5601b62663ff0c4",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2443",
       "branch": "TS",
@@ -2817,7 +2817,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bcff/20210510_162803_.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bcff/TS_Litvinovska.jpg"
         }
       ],
       "isHome": true,
@@ -2992,7 +2992,7 @@
   },
   "CZ1002657": {
     "name": "TS 3904 Lindavská",
-    "sha1": "5c2e4e46d41dba9a92df9238aad8bfab5e0cce86",
+    "sha1": "7b5bdadd054d5eb143f6f014a329e37c5d0a91eb",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -3025,7 +3025,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc72/IMG_20231027_180510_978.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc72/TS_3904_Lindavska.jpg"
         }
       ],
       "isHome": true,
@@ -3047,7 +3047,7 @@
   },
   "CZ1002658": {
     "name": "TS 3921 Nad Přehradou",
-    "sha1": "038c08654c267ca9bc97889039bc2128b18528a3",
+    "sha1": "cd394901e577bfb43cd1e23e8ddee7c8fcf735a8",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3921",
       "branch": "TS",
@@ -3076,7 +3076,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc51/IMG_20231115_153641.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc51/TS_3921_Nad_Prehradou.jpg"
         }
       ],
       "isHome": true,
@@ -3098,7 +3098,7 @@
   },
   "CZ1002659": {
     "name": "TS 3941 Janovská",
-    "sha1": "fb43964fee210cd08d430f0734c415c85ebd4053",
+    "sha1": "3bcb968246910f001ce5c97a1f590d260cba05c3",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3941",
       "branch": "TS",
@@ -3127,12 +3127,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc58/20231109_111500.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc58/20231109_111734.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc58/20231109_111734.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc58/TS_3941_Janovska.jpg"
         }
       ],
       "isHome": true,
@@ -3589,7 +3589,7 @@
   },
   "CZ1002668": {
     "name": "TS 5509 Wassermannova",
-    "sha1": "b5a3e9b9662f0c96fa33755de35bceee8bf13b33",
+    "sha1": "331525f6e27a77030bbb0b2f5557c83ad0e3f433",
     "station": {
       "additionalInfo": "Bei derTransformatorstation 5509",
       "branch": "TS",
@@ -3618,7 +3618,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bd32/IMG_20231126_115632014.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bd32/TS_5509_Wassermannova.jpg"
         }
       ],
       "isHome": true,
@@ -3798,7 +3798,7 @@
   },
   "CZ1002674": {
     "name": "Pražská energetika, a.s. 3",
-    "sha1": "929b79ffc96931d17b4d38547ce346a5f331e733",
+    "sha1": "f9d8ce612ed811a27d0527528e5c991f8b3e8dc3",
     "station": {
       "additionalInfo": "Im Park vor dem Pražská energetika-Gebäude",
       "branch": "lampy VO",
@@ -3832,7 +3832,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc33/imgonline-com-ua-resize-Ymc4rW2uyg.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc33/pra%C5%BEsk%C3%A1_energetika_a.s._3.jpg"
         }
       ],
       "isHome": true,
@@ -3854,7 +3854,7 @@
   },
   "CZ1002675": {
     "name": "SMIGHT Karlovo náměstí",
-    "sha1": "aaeb80a4165b4d5fb1fa146495aeb52ca75ca819",
+    "sha1": "83c3ee5b06ccfc9b753e8ffa86fa15656eedad51",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -3882,7 +3882,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bce8/SMIGHTKN.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bce8/SMIGHT_karlovo_namesti_1.jpg"
         }
       ],
       "isHome": true,
@@ -3904,7 +3904,7 @@
   },
   "CZ1002676": {
     "name": "SMIGHT Jugoslávská",
-    "sha1": "2f05ef706ed07836094df1a811bc81d060931a50",
+    "sha1": "c3a925236402e0db4a8bb4c1831fda46828903b1",
     "station": {
       "additionalInfo": "Vor dem Rathaus",
       "branch": "lampy VO",
@@ -3933,12 +3933,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc93/20230825_090529.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc93/SMIGHT_Jugoslavska_1.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc93/20240408_083552.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc93/SMIGHT_Jugoslavska_2_2.jpg"
         }
       ],
       "isHome": true,
@@ -4072,7 +4072,7 @@
   },
   "CZ1002679": {
     "name": "SMIGHT Otopašská",
-    "sha1": "eb02b47221c9dea2732be8881375cdd3eebe6b38",
+    "sha1": "86169c34bad92126785fafce907e1943bef15c6a",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -4100,12 +4100,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc28/IMG_20231028_141852_046.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc28/SMIGHT_Otopasska_1.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc28/IMG_20231028_141908_867_1.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc28/SMIGHT_Otopasska_2.jpg"
         }
       ],
       "isHome": true,
@@ -4609,7 +4609,7 @@
   },
   "CZ1002745": {
     "name": "TS 3298 Binarova",
-    "sha1": "ce525abae33e3a3b5613ec9cd3508c4f37c5be85",
+    "sha1": "4043e1c048cf68fc82f4c208e6ad2269d1e0c60b",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -4637,12 +4637,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990ca/IMG_20231027_162816_999.jpg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990ca/IMG_20231027_162921_907.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990ca/TS_3298_Binarova.jpg"
         }
       ],
       "isHome": true,
@@ -4966,7 +4961,7 @@
   },
   "CZ1002775": {
     "name": "TS 2452 Štětínská",
-    "sha1": "a9a8a6e08d26ade4743173d4e97d5e89062daf02",
+    "sha1": "734851f5c3da653b5c56a7e63576b074e41aaf44",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 2452",
       "branch": "TS",
@@ -4995,17 +4990,17 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f1f4b8a750ff799478/IMG_20231030_111027_442.jpg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
           "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f1f4b8a750ff799478/IMG_20231030_111047_052.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
           "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f1f4b8a750ff799478/IMG_20231030_111110_317.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f1f4b8a750ff799478/TS_Stetinska.jpg"
         }
       ],
       "isHome": true,
@@ -5027,7 +5022,7 @@
   },
   "CZ1002776": {
     "name": "TS 2977 Vidlicová",
-    "sha1": "c50bc4cccdea951c7b39aa97770628f2eb8fd58a",
+    "sha1": "229d488f63ce879f0bfa9f71292ea8a5913b8a08",
     "station": {
       "additionalInfo": "Bei der Trafostation 2977",
       "branch": "TS",
@@ -5055,8 +5050,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365379f4b8a750ff79accd/IMG_4303.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365379f4b8a750ff79accd/TS-vidlicova.jpg"
         }
       ],
       "isHome": true,
@@ -5398,7 +5393,7 @@
   },
   "CZ1002783": {
     "name": "TS 3823 Na pláni",
-    "sha1": "7fc68711bef94dc2fc2edf0db82777a78e33b8e4",
+    "sha1": "7e7b11b0759c0866bb59973ae770a3ec34c9b301",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 3823",
       "branch": "TS",
@@ -5426,8 +5421,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f2f4b8a750ff7994a7/IMG_4343.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643651f2f4b8a750ff7994a7/TS_3823_Na_Pl%C3%A1ni.jpg"
         }
       ],
       "isHome": true,
@@ -5551,7 +5546,7 @@
   },
   "CZ1002786": {
     "name": "TS 175 Náměsí osvoboditelů",
-    "sha1": "b2760f2d9a1e83181fcb00dae2554abfc09e6477",
+    "sha1": "620606bd589e49dee91aef6daef974fa85fd4513",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -5579,7 +5574,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a38a/IMG_20231126_112523215.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530af4b8a750ff79a38a/namesti_osvoboditelu.jpg"
         }
       ],
       "isHome": true,
@@ -5758,7 +5753,7 @@
   },
   "CZ1002790": {
     "name": "TS 4618 Makovského",
-    "sha1": "f7846087d229dca2324b9378f4017d83576d9bfe",
+    "sha1": "540882c08d722581b6d46f3aeafeaa82970dd0c0",
     "station": {
       "additionalInfo": "Bei der Transformatorstation 4618",
       "branch": "TS",
@@ -5787,12 +5782,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365333f4b8a750ff79a6b4/IMG_20231029_113228_796.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365333f4b8a750ff79a6b4/IMG_20231029_113307_330.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365333f4b8a750ff79a6b4/IMG_20231029_113307_330.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365333f4b8a750ff79a6b4/TS-makovskeho.jpg"
         }
       ],
       "isHome": true,
@@ -6348,7 +6343,7 @@
   },
   "CZ1002831": {
     "name": "YIT Rezidence Wassermannova",
-    "sha1": "82d7dabb73c0f77486d43a534454962254fa8daa",
+    "sha1": "ce2877bb76328d7adb596e41173a093a9cf7acef",
     "station": {
       "additionalInfo": "Bei der Rezidence Wassermannova",
       "branch": "Public car parks ",
@@ -6382,7 +6377,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79acb3/IMG_20231126_114721487.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79acb3/YIT_Rezidence_Wassermannova.jpg"
         }
       ],
       "isHome": true,
@@ -6610,7 +6605,7 @@
   },
   "CZ1003038": {
     "name": "Radnice Modřany",
-    "sha1": "91b95d6bb290aa93c00afe9898fd60f3bfe4ad41",
+    "sha1": "f8561be9756da0fc4be48c20bdf56968e7b63564",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -6638,7 +6633,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652e9f4b8a750ff79a021/pre_app_radnice_modrany_1.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652e9f4b8a750ff79a021/radnice_modrany_1%28ID1022%29.jpg"
         }
       ],
       "isHome": true,
@@ -6805,7 +6800,7 @@
   },
   "CZ1003079": {
     "name": "TS 4607 Šímova",
-    "sha1": "c9aa426aad6af44bc9af362c42066cffa3e5089b",
+    "sha1": "200109745972efa5c0db41bae692d24ce058ecf1",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 4607",
       "branch": "TS",
@@ -6834,7 +6829,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ccf4b8a750ff799e29/IMG_20231028_181735_7.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ccf4b8a750ff799e29/TS-simova.jpg"
         }
       ],
       "isHome": true,
@@ -6856,7 +6851,7 @@
   },
   "CZ1003080": {
     "name": "TS 2629 Květinková",
-    "sha1": "1f71547c91fdbd49de8e9fbf10e0a7c611bd9a21",
+    "sha1": "ecd88edf9416d31a7aa80e5f8e3b216f03dc0b1b",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2629",
       "branch": "TS",
@@ -6885,12 +6880,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a2f4b8a750ff7999f9/IMG_20231114_143133_941.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a2f4b8a750ff7999f9/IMG_20231114_143145_407.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a2f4b8a750ff7999f9/IMG_20231114_143145_407.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652a2f4b8a750ff7999f9/TS_Kvetinkova.jpg"
         }
       ],
       "isHome": true,
@@ -7225,7 +7220,7 @@
   },
   "CZ1003151": {
     "name": "TS 3932 Pod Vartou",
-    "sha1": "1b9efd34b5f185228902ad8c84ad8bd1c54ab691",
+    "sha1": "7004d96d2d57a8222feb56ac9cc2d6910d0b48df",
     "station": {
       "additionalInfo": "Bei der Transformatorstation TS 3932",
       "branch": "TS",
@@ -7254,7 +7249,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365279f4b8a750ff799713/pre_app_ts_3932_pod_vartou_1.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365279f4b8a750ff799713/3932_pod_vartou.jpg"
         }
       ],
       "isHome": true,
@@ -7896,7 +7891,7 @@
   },
   "CZ1003269": {
     "name": "Plavecký stadion - Jedenáctka",
-    "sha1": "165964c8779fb6e1a0880b260a3fd4832a4a12d2",
+    "sha1": "d24653563bb212002a6682d1f778fd2dcf78bf09",
     "station": {
       "branch": "Leisure",
       "chargingFacilities": {
@@ -7923,8 +7918,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "png",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652e9f4b8a750ff79a020/pre_app_plavecky_stadion_jedenacka.png"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652e9f4b8a750ff79a020/plavecky_stadion_jedenacka.jpg"
         }
       ],
       "isHome": true,
@@ -8141,7 +8136,7 @@
   },
   "CZ1003298": {
     "name": "Radotín - Sídliště",
-    "sha1": "d96397a95b3add6c56335cf6b3e90a6e50a6e881",
+    "sha1": "626e6b9e7f9553099877c595052981ee2da223a6",
     "station": {
       "additionalInfo": "In der Wohnsiedlung Radotín",
       "branch": "Street/parking charging",
@@ -8170,7 +8165,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436535af4b8a750ff79ab1f/pre_app_radotin_-_sidliste_1.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436535af4b8a750ff79ab1f/radotin_-_sidliste.jpg"
         }
       ],
       "isHome": true,
@@ -8192,7 +8187,7 @@
   },
   "CZ1003299": {
     "name": "TS 751 Šebelova",
-    "sha1": "843c10463610a73465fa641344bbbcf76827faa7",
+    "sha1": "4fa65bdd11bed1fe44ded41fbfa6a02d18c96b9e",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 751",
       "branch": "TS",
@@ -8221,12 +8216,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652eaf4b8a750ff79a0cb/IMG_20231026_161638.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652eaf4b8a750ff79a0cb/pre_app_ts_751_sebelova.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652eaf4b8a750ff79a0cb/pre_app_ts_751_sebelova.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652eaf4b8a750ff79a0cb/TS_751_sebelova.jpg"
         }
       ],
       "isHome": true,
@@ -8248,7 +8243,7 @@
   },
   "CZ1003300": {
     "name": "TS 4760 Bryksova",
-    "sha1": "93f6cd85634baa1165d18034e460759b13f53d69",
+    "sha1": "10dc3dc925ffd5e1dbb581ba6ecb7618fafc5f2d",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4760\n",
       "branch": "TS",
@@ -8277,17 +8272,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365279f4b8a750ff799718/IMG_20231026_155949.jpg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365279f4b8a750ff799718/IMG_20231026_160245.jpg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
           "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365279f4b8a750ff799718/pre_app_ts_4760_bryksova_.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365279f4b8a750ff799718/TS_Bryksova.jpg"
         }
       ],
       "isHome": true,
@@ -8563,7 +8553,7 @@
   },
   "CZ1003311": {
     "name": "TS 2134 Bělčická",
-    "sha1": "a99b8e5477f0bfc68d2cae53abf7f21dc511c7cf",
+    "sha1": "9e8de7bb937bb39a04d9ac60ea03c2f75c77be1e",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 2134",
       "branch": "TS",
@@ -8592,7 +8582,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530cf4b8a750ff79a490/pre_app_ts_2134_belcicka.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436530cf4b8a750ff79a490/ts_2134_belcicka.jpg"
         }
       ],
       "isHome": true,
@@ -8614,7 +8604,7 @@
   },
   "CZ1003312": {
     "name": "TS 3176 Zárubova",
-    "sha1": "1ef872a280c7abaf35a3debbaef3cae3b27345b9",
+    "sha1": "d587692d7c1085749c9ed96d1f3009be16889500",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 3176",
       "branch": "TS",
@@ -8643,12 +8633,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365335f4b8a750ff79a7a2/20230817_092854.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365335f4b8a750ff79a7a2/pre_app_ts_3176_zarubova.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365335f4b8a750ff79a7a2/pre_app_ts_3176_zarubova.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365335f4b8a750ff79a7a2/TS_3176_Zarubova.jpg"
         }
       ],
       "isHome": true,
@@ -8771,7 +8761,7 @@
   },
   "CZ1003335": {
     "name": "TS 4654 Makovského",
-    "sha1": "fe1ee36cf0b07a3f7cb054f4641d2fff4b040765",
+    "sha1": "089c22882973cacbebd8fadba78f48908c41fdfe",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 4654",
       "branch": "TS",
@@ -8800,7 +8790,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365357f4b8a750ff79aa12/IMG_20231029_120228_127.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365357f4b8a750ff79aa12/TS_4654_Makovskeho.jpg"
         }
       ],
       "isHome": true,
@@ -9091,7 +9081,7 @@
   },
   "CZ1003380": {
     "name": "TS 5175 Družná",
-    "sha1": "fa2a34bb688cf021d78f1260b71202fb2a36686f",
+    "sha1": "2973aa6791e2353400fd95e7b16e585216c10d74",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 5175",
       "branch": "TS",
@@ -9120,12 +9110,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365396f4b8a750ff79af98/20220915_081904.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365396f4b8a750ff79af98/20220915_081916.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365396f4b8a750ff79af98/20220915_081916.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365396f4b8a750ff79af98/TS5175_Druzna.jpg"
         }
       ],
       "isHome": true,
@@ -9247,7 +9237,7 @@
   },
   "CZ1003383": {
     "name": "TS 1422 Semilská",
-    "sha1": "c84205b2996173fee43ae0dad7755bcfbf588dd9",
+    "sha1": "bc001580950f9fcc657965b9b0d245e31759330a",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 1422",
       "branch": "TS",
@@ -9275,8 +9265,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff7990b0/ts_1422_1.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365154f4b8a750ff7990b0/ts_1422_1_semilska.jpg"
         }
       ],
       "isHome": true,
@@ -9500,7 +9490,7 @@
   },
   "CZ1003449": {
     "name": "Penny Market Újezd nad Lesy",
-    "sha1": "6646c5403bb6510cbd121d9d418d4e98974f068d",
+    "sha1": "0cf6647e06e27836a2902e18db44e4bb8d2f5d66",
     "station": {
       "branch": "Food supermarket",
       "chargingFacilities": {
@@ -9527,8 +9517,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "png",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365356f4b8a750ff79a991/app_pre_penny_market_ujezd_n_lesy.png"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365356f4b8a750ff79a991/penny_market_ujezd_n_lesy.jpg"
         }
       ],
       "isHome": true,
@@ -10193,7 +10183,7 @@
   },
   "CZ1003547": {
     "name": "TS 194 Národních Hrdinů",
-    "sha1": "448a325a4349cb1005b5dc6af564b6804e55a9d1",
+    "sha1": "53692edd5e62ca27f80a1642ad827a8e5f13b487",
     "station": {
       "additionalInfo": "Bei der Transformatorenstation TS 194",
       "branch": "TS",
@@ -10222,7 +10212,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365397f4b8a750ff79afc4/20230801_070851.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365397f4b8a750ff79afc4/TS_narodn%C3%ADch_hrdinu.jpg"
         }
       ],
       "isHome": true,
@@ -10873,7 +10863,7 @@
   },
   "CZ1004374": {
     "name": "Úřad MČ Praha 14",
-    "sha1": "b06e92dbeaf55621a792c5c6fc15a289d5d72906",
+    "sha1": "af1488e991e109ab117348cc4b17e01210eab3a4",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -10900,13 +10890,13 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990fd/whatsapp_image_2022-10-20_at_10.42.37.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990fd/urad_mc_Praha_14_2.jpg"
         },
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990fd/whatsapp_image_2022-10-20_at_10.42.38.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990fd/urad_mc_Praha_14.jpg"
         }
       ],
       "isHome": true,
@@ -10928,7 +10918,7 @@
   },
   "CZ1004379": {
     "name": "TS 490 Krčmářovská",
-    "sha1": "abd3246cb67bd77099aa676cda8fbec5053efc18",
+    "sha1": "1de0cfe50a5e31f42bfcad995ddeb73d9236d636",
     "station": {
       "additionalInfo": "Bei der Transformatorstation",
       "branch": "TS",
@@ -10957,12 +10947,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa55/IMG_20231114_155246_282.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa55/ts_490_1.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa55/ts_490_1.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa55/TS_490_Krcmarovska.jpg"
         }
       ],
       "isHome": true,
@@ -11034,7 +11024,7 @@
   },
   "CZ1004402": {
     "name": "Parvi Cibulka",
-    "sha1": "6a525468fe8f5df29bfe01c0e60383b568f99d06",
+    "sha1": "bb51ab13d7a6a1a47ddad1e365ccb000318bdc97",
     "station": {
       "branch": "Street/parking charging",
       "chargingFacilities": {
@@ -11061,8 +11051,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365333f4b8a750ff79a706/IMG_3947.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365333f4b8a750ff79a706/Parvi_Cibulka.jpg"
         }
       ],
       "isHome": true,
@@ -11084,7 +11074,7 @@
   },
   "CZ1004404": {
     "name": "TS 3023 Stříbrského",
-    "sha1": "2396289ccc00e8cb62e6535ba5c0399a0a495b80",
+    "sha1": "8c4d508ec2424badeb3a1a4bc5100d2c4440e536",
     "station": {
       "branch": "Street charging",
       "chargingFacilities": {
@@ -11112,7 +11102,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79acc2/pre_app_ts3023_1.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365378f4b8a750ff79acc2/TS_3023_Stribrskeho.jpg"
         }
       ],
       "isHome": true,
@@ -11184,7 +11174,7 @@
   },
   "CZ1004446": {
     "name": "TS 3843 U Valu",
-    "sha1": "01f495d0386542e029825f7cf51cff70743551b1",
+    "sha1": "c4d52e75bf679e7e51348f25806b71f00789748c",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -11211,8 +11201,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990fa/5D88B9AF-E2B7-42CE-B6A3-F49E3090FC08.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365155f4b8a750ff7990fa/TS_3843_U_Valu.jpg"
         }
       ],
       "isHome": true,
@@ -12304,7 +12294,7 @@
   },
   "CZ1004504": {
     "name": "Stadion Slávie - parkoviště",
-    "sha1": "f6b30f9b7ba17411e04d259635edcc77fa952235",
+    "sha1": "ba7010672a5218b25cd37e4eb22f4deb4f5acec0",
     "station": {
       "branch": "Leisure",
       "chargingFacilities": {
@@ -12334,7 +12324,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aa87/imgonline-com-ua-resize-lfawh6x7ipgxtdn.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aa87/stadion_slavie-parkoviste.jpg"
         }
       ],
       "isHome": true,
@@ -13280,7 +13270,7 @@
   },
   "CZ1004686": {
     "name": "TS 2569 Přímetická",
-    "sha1": "3e46d5d48d36018db467248e5c357a7bbf24c2ec",
+    "sha1": "babbf1f36b987b7fd88aa6d804584558b17fac96",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -13308,12 +13298,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436527cf4b8a750ff79981c/20230621_105036.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436527cf4b8a750ff79981c/20240522_073712.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436527cf4b8a750ff79981c/20240522_073712.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6436527cf4b8a750ff79981c/TS_primeticka.jpg"
         }
       ],
       "isHome": true,
@@ -13630,7 +13620,7 @@
   },
   "CZ2002640": {
     "name": "VTP Roztoky",
-    "sha1": "d478ec0bb4758cead005b47a1b0ee6f2afc5ac37",
+    "sha1": "6f92d3a78e42f26a99dd1e37267c598b2d9cde12",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -13658,7 +13648,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bcf9/IMG_20231029_163033_872.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365402f4b8a750ff79bcf9/VTP_Roztoky.jpg"
         }
       ],
       "isHome": true,
@@ -13767,7 +13757,7 @@
   },
   "CZ2002685": {
     "name": "Penny Beroun",
-    "sha1": "555ed402f57a43631c92fb7e7bee453855b57145",
+    "sha1": "ed3a7018f52ff6d1ac7fb09a8d5664ce053ee194",
     "station": {
       "additionalInfo": "Parkplatz des Penny-Marktes",
       "branch": "Food supermarket",
@@ -13796,7 +13786,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aa86/pre_app_penny_beroun_1.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365359f4b8a750ff79aa86/penny_beroun.jpg"
         }
       ],
       "isHome": true,
@@ -14912,7 +14902,7 @@
   },
   "CZ2004476": {
     "name": "Penny Benátky nad Jizerou",
-    "sha1": "5ab03f6bec20b11a2a31f546b58d3254f5370d4f",
+    "sha1": "b7a57aee029634e6d1a41b9bd1184ec2c10912e5",
     "station": {
       "branch": "Food supermarket",
       "chargingFacilities": {
@@ -14939,8 +14929,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "png",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365333f4b8a750ff79a6ce/benatky_nad_jizerou.png"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365333f4b8a750ff79a6ce/benatky_nad_jizerou.jpg"
         }
       ],
       "isHome": true,
@@ -16388,7 +16378,7 @@
   },
   "CZ4104508": {
     "name": "Penny Market Karlovy Vary",
-    "sha1": "e5c4a3c29598a932b28c4b61317acb6a59ad7e21",
+    "sha1": "9b198bd73fb6f9f02df09d3bcb62756a781656b5",
     "station": {
       "additionalInfo": "Neben dem Penny Markt",
       "branch": "Food supermarket",
@@ -16417,7 +16407,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa54/imgonline-com-ua-resize-j2wnvyfxu7.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365358f4b8a750ff79aa54/Penny_Karlovy_Vary.jpg"
         }
       ],
       "isHome": true,
@@ -19159,7 +19149,7 @@
   },
   "CZ6403417": {
     "name": "OMV Brno Černovice",
-    "sha1": "8a96c8fea48779fa7f7f7b448d2293db601737db",
+    "sha1": "3bb9d2c79f47428d334b24f62bdf007b87f77ab0",
     "station": {
       "additionalInfo": "Bei der OMV Tankstelle",
       "branch": "2nd and 3rd class roads",
@@ -19189,6 +19179,11 @@
           "class": "locationPhoto",
           "type": "jpg",
           "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365333f4b8a750ff79a727/app_pre_omv_brno_cernovice.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365333f4b8a750ff79a727/OMV_Brno.jpg"
         }
       ],
       "isHome": true,
@@ -19776,7 +19771,7 @@
   },
   "CZ7202998": {
     "name": "Penny Market Kroměříž",
-    "sha1": "420879153ce4ecf28d236f21db61ac818660f107",
+    "sha1": "981988c9e1a6f91e8851e00040bb6d0f31c75599",
     "station": {
       "additionalInfo": "Neben dem Penny Markt",
       "branch": "Food  supermarket",
@@ -19805,7 +19800,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ecf4b8a750ff79a132/pre_app_penny_market_kromeriz.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/643652ecf4b8a750ff79a132/penny_market_kromeriz.jpg"
         }
       ],
       "isHome": true,
@@ -19980,7 +19975,7 @@
   },
   "CZ8002637": {
     "name": "OC Nová Karolín",
-    "sha1": "ca2f5e14bedda575738194ec99c9f12550603623",
+    "sha1": "4e42d935caa46aebe47d373c9e9676b59e3b2328",
     "station": {
       "additionalInfo": "In der Tiefgarage OC Forum Nová Karolína. Legen Sie den RFID-Tag unter die LED-Leuchte.",
       "branch": "Parken",
@@ -20005,6 +20000,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc24/OC_Nov%C3%A1_Karol%C3%ADn.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "false",
       "isPartnerCs": false,
@@ -21277,7 +21279,7 @@
   },
   "CZ8170367": {
     "name": "Pražačka",
-    "sha1": "998f9603607dd23044157c1bec69703938d19966",
+    "sha1": "e9cace1bd8cc779f0ef3d890d57d0960298d74ea",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -21302,7 +21304,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65398768bfed5643ae7e0965/20231205_080610.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65398768bfed5643ae7e0965/pra%C5%BEa%C4%8Dka.jpg"
         }
       ],
       "isHome": true,
@@ -21783,7 +21785,7 @@
   },
   "CZ8252875": {
     "name": "Vlakové nádraží Praha Vysočany",
-    "sha1": "428997ca5785aaee47027b07642f21cdf0a9c541",
+    "sha1": "043e07533f7803ee5ce9039fdf3a8989e01915cf",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -21809,13 +21811,13 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65785893b00b887ef007f731/1.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65785893b00b887ef007f731/vlak._nadrazi_Praha_Vysocany_2.jpg"
         },
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65785893b00b887ef007f731/2.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65785893b00b887ef007f731/vlak._nadrazi_Praha_Vysocany.jpg"
         }
       ],
       "isHome": true,
@@ -22022,7 +22024,7 @@
   },
   "CZ8306733": {
     "name": "TS 3952 Jakobiho",
-    "sha1": "d8b2c2c97d53a99d6aa9684120276b1ba68f4bfb",
+    "sha1": "2ffbf9b73d57e800984d571cba6a72be9cb41a36",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -22050,7 +22052,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6492ed78f6cf7d59263f4e5e/imgonline-com-ua-resize-JaMfrfXs15V.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6492ed78f6cf7d59263f4e5e/TS_3952_Jakobiho.jpg"
         }
       ],
       "isHome": true,
@@ -22072,7 +22074,7 @@
   },
   "CZ8314657": {
     "name": "Pivnice Modřany",
-    "sha1": "5dcfcc86491f9f715f50baaf8855fc059b35e907",
+    "sha1": "4ef7d065fd65da576b2690a92e1a3007a246b400",
     "station": {
       "branch": "Food service",
       "chargingFacilities": {
@@ -22100,7 +22102,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64873ec9a3c2291d6b512690/20231026_105516.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64873ec9a3c2291d6b512690/pivnice_mod%C5%99any.jpg"
         }
       ],
       "isHome": true,
@@ -22122,7 +22124,7 @@
   },
   "CZ8328581": {
     "name": "Sídliště Malešice - Plaňanská",
-    "sha1": "9b8605c55cf1748f4cd97995e9140097bec75683",
+    "sha1": "4315a5958a95e89b4f79c06a669ef75d2c034739",
     "station": {
       "branch": "Street/parking charging",
       "chargingFacilities": {
@@ -22150,7 +22152,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649abc3df6cf7d59263f50dd/imgonline-com-ua-resize-c7HcwMpTVbo9iTO.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/649abc3df6cf7d59263f50dd/Malesice_plananska.jpg"
         }
       ],
       "isHome": true,
@@ -22442,7 +22444,7 @@
   },
   "CZ8392692": {
     "name": "TS 4141 Bezová",
-    "sha1": "522009b053d1076045f7ef5f0eabac6adbafc2f3",
+    "sha1": "8787e51557918fcc8fc2e9e0d2902bc614e0a553",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -22469,12 +22471,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf29d90a64080f17bad15a/IMG-20240530-WA0006.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf29d90a64080f17bad15a/TS_4141_Bezova.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf29d90a64080f17bad15a/IMG-20240530-WA0007.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf29d90a64080f17bad15a/TS_4141_Bezova2.jpg"
         }
       ],
       "isHome": true,
@@ -22496,7 +22498,7 @@
   },
   "CZ8402207": {
     "name": "TS 3141 U Polikliniky",
-    "sha1": "9239b70b34c8d50168fa91d672596dfdce81dbdc",
+    "sha1": "6edacee56436f59cd23dec1f182601a98f605d45",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -22524,7 +22526,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64c7c572f6cf7d59263f5b8f/20231107_082812.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64c7c572f6cf7d59263f5b8f/TS_3141_U_Polikliniky.jpg"
         }
       ],
       "isHome": true,
@@ -22546,7 +22548,7 @@
   },
   "CZ8411607": {
     "name": "TS 1406 Na Dlážděnce",
-    "sha1": "afe0685c9d9e9f1622594f7b69d8d50de437218a",
+    "sha1": "4b6beb3e7cbc294ae767729acbad28f848339825",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -22574,7 +22576,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6470e5274fbd383ca8b4373a/imgonline-com-ua-resize-G5xo8fBMq5twZ.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6470e5274fbd383ca8b4373a/na_dlazdence.jpg"
         }
       ],
       "isHome": true,
@@ -22744,7 +22746,7 @@
   },
   "CZ8434839": {
     "name": "TS 3969 Rezlerova",
-    "sha1": "9ff41ae7a61fe99ef0783c4e90ec4732a2267385",
+    "sha1": "313c8155fe5ae388d10563fb23df95b12a38bceb",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -22772,7 +22774,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64be79e2f6cf7d59263f5a05/imgonline-com-ua-resize-RVNmhSnkEg.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64be79e2f6cf7d59263f5a05/TS_3969_Rozlerova.jpg"
         }
       ],
       "isHome": true,
@@ -23557,7 +23559,7 @@
   },
   "CZ8625571": {
     "name": "TS 3037 Tererova",
-    "sha1": "1c47053519b0f2d212aaf5a0ddd7fb22e73b4ee8",
+    "sha1": "1649529c336631da3e53cb8ccdcf605f1364a5d3",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -23585,12 +23587,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64cb6f17f6cf7d59263f5bc3/imgonline-com-ua-resize-CLIhQta4uvA33.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64cb6f17f6cf7d59263f5bc3/TS_Tererova_1.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64cb6f17f6cf7d59263f5bc3/imgonline-com-ua-resize-gDZz5eSTcP2.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64cb6f17f6cf7d59263f5bc3/TS_tererova_2.jpg"
         }
       ],
       "isHome": true,
@@ -24026,7 +24028,7 @@
   },
   "CZ8736457": {
     "name": "ZŠ a MŠ Smolkova",
-    "sha1": "f47826516137a134f3b02d2a111e2f5fbcf9b754",
+    "sha1": "1955a20271e2b7542f85ea8d68fb71cafe195d81",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -24054,7 +24056,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/648b3ab7f6cf7d59263f4c9c/imgonline-com-ua-resize-S8mTptLbT3j.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/648b3ab7f6cf7d59263f4c9c/zs_a_ms_Smolkova.jpg"
         }
       ],
       "isHome": true,
@@ -24558,7 +24560,7 @@
   },
   "CZ8893560": {
     "name": "Penny Market Plzeň Lochotín",
-    "sha1": "cde65c7e97c6f408f84dcdcff8c50c44db9e9fba",
+    "sha1": "1d009873419451aa5c7b5ed1a68e3a25525c1bbb",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -24582,8 +24584,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/663de039fc566937fb5d6b52/Lochotin.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/663de039fc566937fb5d6b52/Penny_Lochotin.jpg"
         }
       ],
       "isHome": true,
@@ -24605,7 +24607,7 @@
   },
   "CZ8901519": {
     "name": "TS 3131 Mikulova ",
-    "sha1": "f6a51e514a99a31b3fbe8f0fd17ff46d442b3bc3",
+    "sha1": "4e1d77be0cf9cf9c94e458c733a1cebef46463e3",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -24632,12 +24634,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf2aab0a64080f17bad160/IMG-20240530-WA0002.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf2aab0a64080f17bad160/TS_3131_Mikulova_2.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf2aab0a64080f17bad160/IMG-20240530-WA0003.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf2aab0a64080f17bad160/TS_3131_Mikulova.jpg"
         }
       ],
       "isHome": true,
@@ -24889,7 +24891,7 @@
   },
   "CZ8975285": {
     "name": "Squashpark Cibulka",
-    "sha1": "585ceabd46691b971b8ca0c780fb76c86dec25e9",
+    "sha1": "17baa4a4843cfe64b7c690f488844678a20e2e0f",
     "station": {
       "branch": "Leisure",
       "chargingFacilities": {
@@ -24917,7 +24919,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a0304bf6cf7d59263f53b5/imgonline-com-ua-resize-9BD8IsoaWa.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a0304bf6cf7d59263f53b5/sqash_park_cibulka_1.jpg"
         },
         {
           "class": "locationPhoto",
@@ -25186,7 +25188,7 @@
   },
   "CZ9005838": {
     "name": "Power Point Pankrác",
-    "sha1": "ca9ae5033fb8a85987e22fb4ec30009b4309c490",
+    "sha1": "9d95998c3c3f6c7ce5e10725aaef7921795ea179",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -25219,12 +25221,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6454f84f6f5fb93f08a13b4c/imgonline-com-ua-resize-teT7McDGqTp75g.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6454f84f6f5fb93f08a13b4c/imgonline-com-ua-resize-VgmwoucCwCUWBE.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6454f84f6f5fb93f08a13b4c/imgonline-com-ua-resize-VgmwoucCwCUWBE.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6454f84f6f5fb93f08a13b4c/power_point_pankr%C3%A1c.jpg"
         }
       ],
       "isHome": true,
@@ -25826,7 +25828,7 @@
   },
   "CZ9084816": {
     "name": "TS 3945 Křimická",
-    "sha1": "a20bce6ee411c4108498fb9dba83be3d7df9c93f",
+    "sha1": "80ab9270ae0cc52ba31813396b4440f4d70b383a",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -25854,7 +25856,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6492ed2df6cf7d59263f4e5b/imgonline-com-ua-resize-3UEwIRANjFKCxZxX.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6492ed2df6cf7d59263f4e5b/TS_3945_Krimicka.jpg"
         }
       ],
       "isHome": true,
@@ -26979,7 +26981,7 @@
   },
   "CZ9283631": {
     "name": "Policie ČR Kongresová",
-    "sha1": "cfb430e5f79746663518701b4caf6ad0e2d7990b",
+    "sha1": "6ddacb84e344d691b847b5897a88363ee4c45845",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -27006,7 +27008,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6566158ab00b887ef007f111/20240606_090340.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6566158ab00b887ef007f111/Policie_%C4%8CR_Kongresov%C3%A1.jpg"
         }
       ],
       "isHome": true,
@@ -27158,7 +27160,7 @@
   },
   "CZ9334395": {
     "name": "TS 3820 Ke Klubovně",
-    "sha1": "cc84392c3599fb285dd76753cb60cefe7d33737f",
+    "sha1": "f3f465942c1c46d0acf148f8b4eef909b63e1ef0",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -27186,7 +27188,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64889d94a3c2291d6b51270a/20240802_073153.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64889d94a3c2291d6b51270a/TS_3820_Ke_Klubovne_1.jpg"
         }
       ],
       "isHome": true,
@@ -28071,7 +28073,7 @@
   },
   "CZ9525097": {
     "name": "Žluté lázně",
-    "sha1": "9db9f05c8d4ce55ab04ff6b72af16b27106a9a1d",
+    "sha1": "f9dd053a2945aae34810aeb1d76ab856599a66b9",
     "station": {
       "branch": "Leisure",
       "chargingFacilities": {
@@ -28099,7 +28101,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/645df1a36f5fb93f08a13d72/imgonline-com-ua-resize-JU3B3Yt7cXlP4T.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/645df1a36f5fb93f08a13d72/zlute_lazne.jpg"
         }
       ],
       "isHome": true,
@@ -28448,7 +28450,7 @@
   },
   "CZ9624272": {
     "name": "SUAS 1 Dolní Rychnov",
-    "sha1": "9b97576c2c5002f0563e1301582f74cbd0c4f9b9",
+    "sha1": "41d7f724da86e32337ff8911d8ebc0718b214706",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -28476,7 +28478,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6437d0bff4b8a750ff79bffd/20230607_085627.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6437d0bff4b8a750ff79bffd/SUAS_1_Dolni_Rychnov.jpg"
         }
       ],
       "isHome": true,
@@ -28871,7 +28873,7 @@
   },
   "CZ9678188": {
     "name": "TS 2271 Omská",
-    "sha1": "9ff4e936cdb90903e9a4003b5461188d519edca7",
+    "sha1": "cb4a29e5c9a03adc90d5855881cfafc0c1ac6b7e",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -28899,7 +28901,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6499889ef6cf7d59263f4f34/20231116_103708.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6499889ef6cf7d59263f4f34/TS_omska.jpg"
         }
       ],
       "isHome": true,
@@ -28961,7 +28963,7 @@
   },
   "CZ9711680": {
     "name": "TS 5065 Božetická ",
-    "sha1": "7ea409011dde49643a4bad251dc3277d592b7130",
+    "sha1": "9708687f31114f497a2ca362558976604ef5655f",
     "station": {
       "branch": "TS",
       "chargingFacilities": {
@@ -28988,12 +28990,12 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf28ab0a64080f17bad142/IMG-20240530-WA0008.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf28ab0a64080f17bad142/IMG-20240530-WA0009.jpg"
         },
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf28ab0a64080f17bad142/IMG-20240530-WA0009.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf28ab0a64080f17bad142/TS_5065_Bozeticka.jpg"
         }
       ],
       "isHome": true,
@@ -29657,7 +29659,7 @@
   },
   "CZ9853734": {
     "name": "ZOO Praha",
-    "sha1": "6d40dc44392894652384eabc207e898fefe90ced",
+    "sha1": "d6a5b4acf18916394544bd5b78a5682ca41971c0",
     "station": {
       "branch": "Leisure",
       "chargingFacilities": {
@@ -29683,13 +29685,13 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64f9caee7444ab2795ebec6f/1.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64f9caee7444ab2795ebec6f/zoo_Praha_2.jpg"
         },
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64f9caee7444ab2795ebec6f/2.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64f9caee7444ab2795ebec6f/zoo_Praha.jpg"
         }
       ],
       "isHome": true,
@@ -29751,7 +29753,7 @@
   },
   "CZ9876943": {
     "name": "V Nových Vokovicích 1",
-    "sha1": "09648e2b85affc724afb831de970040f3d63e780",
+    "sha1": "9a3eb0efa821521ad9fef71343ef2b473957499a",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -29778,8 +29780,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a02092f6cf7d59263f536d/CD07FCF4-9EE7-4BC9-9F0C-CA918061EF21.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64a02092f6cf7d59263f536d/V_Novych_Vokovicich_1.jpg"
         }
       ],
       "isHome": true,
@@ -29922,7 +29924,7 @@
   },
   "CZ9931493": {
     "name": "TS 4783 U Slovanky",
-    "sha1": "d3f843741cc09e9373fe85895076927724218349",
+    "sha1": "f2fd7aefafe4aca6b29ff1c1a00e901f6bc7bf58",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -29947,8 +29949,8 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "jpeg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf29960a64080f17bad154/WhatsApp_Image2024-07-17.jpeg"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cf29960a64080f17bad154/TS_4783_U_Slovanky.jpg"
         }
       ],
       "isHome": true,
@@ -30065,7 +30067,7 @@
   },
   "CZ9967287": {
     "name": "Újezd Zborovská",
-    "sha1": "60ed762ee022e1e68d7ad8dd1040494174f1f573",
+    "sha1": "959d250bf235fcfac424e4af8ca8b3399ef349fd",
     "station": {
       "branch": "Street charging",
       "chargingFacilities": {
@@ -30093,7 +30095,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6493094ef6cf7d59263f4e9a/imgonline-com-ua-resize-UxHF1LPI7w7iu50d.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6493094ef6cf7d59263f4e9a/ujezd_zborovska.jpg"
         }
       ],
       "isHome": true,
@@ -30165,7 +30167,7 @@
   },
   "CZ9990470": {
     "name": "Sokolovna Na Balkáně",
-    "sha1": "cc00560bc8a53d51e34d4ed0859565f411955774",
+    "sha1": "b5d4607e39288307aed908ed17e4afbdb694f39a",
     "station": {
       "branch": "Street charging",
       "chargingFacilities": {
@@ -30193,7 +30195,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/648b38c4f6cf7d59263f4c93/imgonline-com-ua-resize-2h7cNVbmVVfcj.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/648b38c4f6cf7d59263f4c93/sokolovna_na_balkane.jpg"
         }
       ],
       "isHome": true,
