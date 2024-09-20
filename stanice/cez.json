@@ -39856,6 +39856,851 @@
       "visible": true
     }
   },
+  "198725": {
+    "name": "UR210 - Ivančice - Tesco II.",
+    "sha1": "09c58947b4bcb2861e9e6295bc57c344454d5540",
+    "station": {
+      "address": {
+        "city": "Ivančice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.10384,
+        "longitude": 16.36485,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Oslavanská",
+        "url": ""
+      },
+      "customID": "198725",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR210"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR210"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/09/c68d0cc9-522b-4f0e-9839-86bb7fa7b240.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR210 - Ivančice - Tesco II.",
+      "visible": true
+    }
+  },
+  "198762": {
+    "name": "UR209 - Ivančice - Tesco I.",
+    "sha1": "72cf85a94311d80bc0e75b825df6579edb7ec4e3",
+    "station": {
+      "address": {
+        "city": "Ivančice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.10384,
+        "longitude": 16.36485,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Oslavanská",
+        "url": ""
+      },
+      "customID": "198762",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR209"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR209"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/09/c68d0cc9-522b-4f0e-9839-86bb7fa7b240.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR209 - Ivančice - Tesco I.",
+      "visible": true
+    }
+  },
+  "198764": {
+    "name": "UR254 - Ivančice - Tesco III.",
+    "sha1": "e4460e0328a8447ea8e0e6c695148ac05c18bba3",
+    "station": {
+      "address": {
+        "city": "Ivančice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.10384,
+        "longitude": 16.36485,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Oslavanská",
+        "url": ""
+      },
+      "customID": "198764",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR254"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR254"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/09/c68d0cc9-522b-4f0e-9839-86bb7fa7b240.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR254 - Ivančice - Tesco III.",
+      "visible": true
+    }
+  },
+  "198787": {
+    "name": "UR255 - Ivančice - Tesco IV.",
+    "sha1": "fce2116a60394b5e6424d35edb37a1ea7f420b2b",
+    "station": {
+      "address": {
+        "city": "Ivančice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.10384,
+        "longitude": 16.36485,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Oslavanská",
+        "url": ""
+      },
+      "customID": "198787",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR255"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR255"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/09/c68d0cc9-522b-4f0e-9839-86bb7fa7b240.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR255 - Ivančice - Tesco IV.",
+      "visible": true
+    }
+  },
+  "199245": {
+    "name": "UR203 - Jihlava - Tesco I.",
+    "sha1": "1e141b96a43cc3e302487a182bb617892c9485ed",
+    "station": {
+      "address": {
+        "city": "Jihlava",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.3970617,
+        "longitude": 15.6097331,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Brněnská 4971/74",
+        "url": ""
+      },
+      "customID": "199245",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR203"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR203"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/09/29ac0e79-45de-4160-bb05-b7c39829c860.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR203 - Jihlava - Tesco I.",
+      "visible": true
+    }
+  },
+  "199246": {
+    "name": "UR205 - Jihlava - Tesco III.",
+    "sha1": "ddd8e49037b93c7e2896fea6bd8ada412f733dfc",
+    "station": {
+      "address": {
+        "city": "Jihlava",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.3970617,
+        "longitude": 15.6097331,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Brněnská 4971/74",
+        "url": ""
+      },
+      "customID": "199246",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR205"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR205"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/09/29ac0e79-45de-4160-bb05-b7c39829c860.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR205 - Jihlava - Tesco III.",
+      "visible": true
+    }
+  },
+  "199269": {
+    "name": "UR204 - Jihlava - Tesco II.",
+    "sha1": "9ccaac2ad3351813e5ad50385a5cda1f60d77f2b",
+    "station": {
+      "address": {
+        "city": "Jihlava",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.3970617,
+        "longitude": 15.6097331,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Brněnská 4971/74",
+        "url": ""
+      },
+      "customID": "199269",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR204"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR204"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/09/29ac0e79-45de-4160-bb05-b7c39829c860.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR204 - Jihlava - Tesco II.",
+      "visible": true
+    }
+  },
+  "199619": {
+    "name": "UR192 - Mělník - Billa IV.",
+    "sha1": "b0dfeb3b43906eb93058bb00098ac8d97a4fe8b1",
+    "station": {
+      "address": {
+        "city": "Mělník",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "4296",
+        "latitude": 50.3428022,
+        "longitude": 14.4906289,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pražská",
+        "url": ""
+      },
+      "customID": "199619",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR192"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR192"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/09/aed48fe2-8059-4475-8b6a-2eb49761aaa2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR192 - Mělník - Billa IV.",
+      "visible": true
+    }
+  },
+  "199623": {
+    "name": "UR193 - Mělník - Billa V.",
+    "sha1": "172d00f40e5c8b367551769aa3284d3a221a1efc",
+    "station": {
+      "address": {
+        "city": "Mělník",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "4296",
+        "latitude": 50.3428022,
+        "longitude": 14.4906289,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pražská",
+        "url": ""
+      },
+      "customID": "199623",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR193"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR193"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/09/aed48fe2-8059-4475-8b6a-2eb49761aaa2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR193 - Mělník - Billa V.",
+      "visible": true
+    }
+  },
+  "199624": {
+    "name": "UR194 - Mělník - Billa VI.",
+    "sha1": "b4a6c9999053e45d2eeda224cd42d815b6cfec51",
+    "station": {
+      "address": {
+        "city": "Mělník",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "4296",
+        "latitude": 50.3428022,
+        "longitude": 14.4906289,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pražská",
+        "url": ""
+      },
+      "customID": "199624",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 360,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR194"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 360,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR194"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/09/8cdd9318-9720-4d87-9e50-465df7cd6196.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR194 - Mělník - Billa VI.",
+      "visible": true
+    }
+  },
+  "199675": {
+    "name": "UR189 - Mělník - Billa I.",
+    "sha1": "08e5aa2ac3f856d2e507c546faa24da61b68d766",
+    "station": {
+      "address": {
+        "city": "Mělník",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "4296",
+        "latitude": 50.3428022,
+        "longitude": 14.4906289,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pražská",
+        "url": ""
+      },
+      "customID": "199675",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR189"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR189"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/09/aed48fe2-8059-4475-8b6a-2eb49761aaa2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR189 - Mělník - Billa I.",
+      "visible": true
+    }
+  },
+  "199678": {
+    "name": "UR190 - Mělník - Billa II.",
+    "sha1": "45b1c332201ca0978d9e4a902355b5cddec40fad",
+    "station": {
+      "address": {
+        "city": "Mělník",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "4296",
+        "latitude": 50.3428022,
+        "longitude": 14.4906289,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pražská",
+        "url": ""
+      },
+      "customID": "199678",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR190"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR190"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/09/aed48fe2-8059-4475-8b6a-2eb49761aaa2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR190 - Mělník - Billa II.",
+      "visible": true
+    }
+  },
+  "199686": {
+    "name": "UR191 - Mělník - Billa III.",
+    "sha1": "b5995120a13b52dd3652a3b8588d0783922a9629",
+    "station": {
+      "address": {
+        "city": "Mělník",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "4296",
+        "latitude": 50.3428022,
+        "longitude": 14.4906289,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Pražská",
+        "url": ""
+      },
+      "customID": "199686",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR191"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/09/aed48fe2-8059-4475-8b6a-2eb49761aaa2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR191 - Mělník - Billa III.",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",

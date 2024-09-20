@@ -3110,7 +3110,7 @@
   },
   "117365": {
     "name": "(P) Metropole Teplice",
-    "sha1": "454ce8826a0504178e767c8aef6d3b4fc03ab98a",
+    "sha1": "f7c847167b28041ce4262edc025289efeb2aded9",
     "station": {
       "address": "Josefská 1979",
       "city": "Teplice - Trnovany",
@@ -3135,9 +3135,9 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2024-06-13T14:51:55.93Z",
+              "last_updated": "2024-09-05T22:01:21.843Z",
               "max_amperage": 32,
-              "max_electric_power": 22000,
+              "max_electric_power": 11000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
@@ -32008,8 +32008,8 @@
     }
   },
   "45159": {
-    "name": "(P) Suzuki servis",
-    "sha1": "0b099ce7c6d6fff5ddbee089bb93b929f7918527",
+    "name": "(P) SUZUKI - Auto Kunc Plzeň",
+    "sha1": "3cf4ac3818338236a965217d4b6def46e76eeefd",
     "station": {
       "address": "Tyršova 1062",
       "city": "Vejprnice",
@@ -32034,9 +32034,9 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2021-02-25T16:08:20Z",
+              "last_updated": "2024-09-12T22:01:38.903Z",
               "max_amperage": 16,
-              "max_electric_power": 11000,
+              "max_electric_power": 22000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
@@ -32066,7 +32066,7 @@
         }
       ],
       "last_updated": "RESET",
-      "name": "(P) Suzuki servis",
+      "name": "(P) SUZUKI - Auto Kunc Plzeň",
       "opening_times": {
         "twentyfourseven": true
       },
