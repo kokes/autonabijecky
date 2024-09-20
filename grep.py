@@ -2,10 +2,11 @@ import hashlib
 import json
 import logging
 import os
-from urllib.request import urlopen, Request
+from urllib.request import Request, urlopen
 
 tdir = "stanice"
 HTTP_TIMEOUT = 30
+DESKTOP_UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
 
 
 # "csStatus": "under_construction"... resolve?
@@ -17,10 +18,7 @@ def pre():
     url = "https://chargepre.smatrics.com/cs/map/pois?operator%5B%5D=home-1a31db5e3f98e1f68bca6fa182e6375c"
     req = Request(url)
     req.add_header("Referer", "https://chargepre.smatrics.com/cs/")
-    req.add_header(
-        "user-agent",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
-    )
+    req.add_header("user-agent", DESKTOP_UA)
     with urlopen(req, timeout=HTTP_TIMEOUT) as r:
         raw = json.load(r)
 
@@ -56,7 +54,9 @@ def cez():
 
 def eon():
     url = "https://www.eon-drive.cz/api/v1/locations"
-    with urlopen(url, timeout=HTTP_TIMEOUT) as r:
+    req = Request(url)
+    req.add_header("user-agent", DESKTOP_UA)
+    with urlopen(req, timeout=HTTP_TIMEOUT) as r:
         data = json.load(r)
 
     data = [j for j in data if j["country_code"] == "CZ"]
