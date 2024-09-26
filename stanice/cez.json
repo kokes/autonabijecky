@@ -40701,6 +40701,143 @@
       "visible": true
     }
   },
+  "200324": {
+    "name": "R626 - Veselí nad Moravou II.",
+    "sha1": "fbdc0597d7397d79d55d30354f8d29f7da248030",
+    "station": {
+      "address": {
+        "city": "Veselí nad Moravou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kajetánka",
+        "latitude": 48.9525967,
+        "longitude": 17.384735,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "U",
+        "url": ""
+      },
+      "customID": "200324",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R626"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R626"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/09/61c48dbf-c818-42fa-a56c-4f4ab1095581.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R626 - Veselí nad Moravou II.",
+      "visible": true
+    }
+  },
+  "200336": {
+    "name": "N274 - Veselí nad Moravou I.",
+    "sha1": "2fda713a978ba004684c4d99194a5be766c5b3f6",
+    "station": {
+      "address": {
+        "city": "Veselí nad Moravou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Kajetánka",
+        "latitude": 48.9525967,
+        "longitude": 17.384735,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "U",
+        "url": ""
+      },
+      "customID": "200336",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N274"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "N274"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/09/61c48dbf-c818-42fa-a56c-4f4ab1095581.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "N274 - Veselí nad Moravou I.",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
