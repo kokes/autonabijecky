@@ -22647,7 +22647,7 @@
   },
   "CZ8414922": {
     "name": "Hornbach Černý most",
-    "sha1": "41aee1bfe79ca879a7f999b9d08f1aeb787853fd",
+    "sha1": "034fcd52ebf098de95f357fd6387a410b0fc6271",
     "station": {
       "branch": "Retailer",
       "chargingFacilities": {
@@ -22661,6 +22661,7 @@
       "csId": "CZ8414922",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "2hours free after 100,-/1h, near the shop Hornbach, ",
       "enCsname": "Hornbach Černý most",
       "evseId": "CZ*PRE*E1S8268*2",
       "geoCoord": {
@@ -29148,7 +29149,7 @@
   },
   "CZ9740461": {
     "name": "V Rozkvětu",
-    "sha1": "c6013a4dc42aff24ef80ac2065f4bdfa80d99ca0",
+    "sha1": "4201221119fe08dc460019b0c879527f3be23006",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -29159,7 +29160,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9740461",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "V Rozkvětu",
       "evseId": "CZ*PRE*E1S8296*2",
