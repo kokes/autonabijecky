@@ -30254,6 +30254,46 @@
       "street": "Zborovská"
     }
   },
+  "CZ9971705": {
+    "name": "Městská knihovna Rubensova",
+    "sha1": "0277f92f14a88521e11626c45b72f0945316c1db",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9971705",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Městská knihovna Rubensova",
+      "evseId": "CZ*PRE*E1S8308*2",
+      "geoCoord": {
+        "latitude": "50.068574",
+        "longitude": "14.510569"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10000",
+      "region": "Hlavní město Praha",
+      "street": "Rubensova"
+    }
+  },
   "CZ9979120": {
     "name": "Golf Club Hodkovičky, z.s.",
     "sha1": "4096103f92bf8d7c17d7bb93ed18f2b4f7c3976f",
