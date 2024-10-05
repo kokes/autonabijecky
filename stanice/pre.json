@@ -28285,7 +28285,7 @@
   },
   "CZ9536865": {
     "name": "Tenisové kurty - Nad Statkem ",
-    "sha1": "4b30fbd15d83f725039c1f6094ce0d6603ea334e",
+    "sha1": "556981769a77e55d9829564cdaa05c29cb120483",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -28306,6 +28306,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jfif",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/660bc7ba2d95e30899999f5b/702db052-edb2-4946-9296-7add4dec6972.jfif"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -29149,7 +29156,7 @@
   },
   "CZ9740461": {
     "name": "V Rozkvětu",
-    "sha1": "4201221119fe08dc460019b0c879527f3be23006",
+    "sha1": "ae3e9443a09f205876d5135cd00bcbbfa147fd48",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -29170,6 +29177,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jfif",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/660bc3002d95e30899999f4e/bc5d9d00-1de6-4fa0-a171-6644697a2396.jfif"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,

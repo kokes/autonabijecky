@@ -23159,7 +23159,7 @@
   },
   "178292": {
     "name": "UR121 - Hradec Králové - Retail park HK - 1",
-    "sha1": "c7589a0122c0b9e09f7e04f26b805361410b4a19",
+    "sha1": "12415e058fddd4c3b459d319e349aa2d644a4480",
     "station": {
       "address": {
         "city": "Hradec Králové",
@@ -23189,7 +23189,7 @@
               "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
-              "powerOutput": 160,
+              "powerOutput": 300,
               "standard": "CCS_COMBO",
               "voltage": null
             }
@@ -23203,7 +23203,7 @@
               "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
-              "powerOutput": 160,
+              "powerOutput": 300,
               "standard": "CCS_COMBO",
               "voltage": null
             }
