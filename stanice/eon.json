@@ -18942,7 +18942,7 @@
   },
   "259660": {
     "name": "(P) Parking Centrum Tábor",
-    "sha1": "b7cb7e94fdc81edc149d5775176fefae8bd34334",
+    "sha1": "bd9a8aa7bf923fb1f869358b960e1d0c3e58e5c6",
     "station": {
       "address": "Jordánská 3112",
       "city": "Tábor",
@@ -19021,6 +19021,39 @@
           "last_updated": "RESET",
           "status": "RESET",
           "uid": "184152"
+        },
+        {
+          "capabilities": [
+            "CONTACTLESS_CARD_SUPPORT",
+            "REMOTE_START_STOP_CAPABLE",
+            "RFID_READER",
+            "UNLOCK_CAPABLE"
+          ],
+          "connectors": [
+            {
+              "format": "SOCKET",
+              "id": "1",
+              "last_updated": "2024-10-08T22:01:29.923Z",
+              "max_amperage": 32,
+              "max_electric_power": 22000,
+              "max_voltage": 400,
+              "power_type": "AC_3_PHASE",
+              "standard": "IEC_62196_T2",
+              "tariff_ids": [
+                "338",
+                "339"
+              ]
+            }
+          ],
+          "coordinates": {
+            "latitude": "49.4138336",
+            "longitude": "14.6622742"
+          },
+          "evse_id": "FI*001*E259660",
+          "last_seen_as_planned": null,
+          "last_updated": "RESET",
+          "status": "RESET",
+          "uid": "259660"
         }
       ],
       "facilities": [

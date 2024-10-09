@@ -12358,7 +12358,7 @@
   },
   "CZ1004520": {
     "name": "Parkoviště u dopravního hřiště - V Olšinách",
-    "sha1": "857fa973b4bdcffc2d33abd495222963c4c3cd58",
+    "sha1": "61caa641179f4c7f9628b1117977c9ac01320bfc",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -12372,7 +12372,7 @@
       "csId": "CZ1004520",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Zhruba uprostřed parkoviště vedle Billy / About the middle of the parking lot next to Billa",
+      "enAdditionalInfo": "Zhruba uprostřed parkoviště vedle Billy / approximately in the middle of the parking area next to Billa store",
       "enCsname": "Parkoviště u dopravního hřiště - V Olšinách",
       "evseId": "CZ*PRE*E1S8148*2",
       "geoCoord": {
@@ -28382,7 +28382,7 @@
   },
   "CZ9560416": {
     "name": "Atletická Ladronka",
-    "sha1": "cb2c5f80b2f5da12f720484309ed423da68c7d3d",
+    "sha1": "44ed7747315e57714f0a170df1d420df73464805",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -28393,7 +28393,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9560416",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Atletická Ladronka",
       "evseId": "CZ*PRE*E1S8307*2",
@@ -29156,7 +29156,7 @@
   },
   "CZ9740461": {
     "name": "V Rozkvětu",
-    "sha1": "ae3e9443a09f205876d5135cd00bcbbfa147fd48",
+    "sha1": "f03647c10673a600fb41310a122451e0718c9ecc",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -29169,6 +29169,7 @@
       "csId": "CZ9740461",
       "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Na lokalitě pouze jedno parkovací stání / Only one parking lot dedicated to charging",
       "enCsname": "V Rozkvětu",
       "evseId": "CZ*PRE*E1S8296*2",
       "geoCoord": {
