@@ -20908,7 +20908,7 @@
   },
   "CZ8117483": {
     "name": "Kardausova DC",
-    "sha1": "22780f0a6a39e8dd0fac3ae4a6cb5b819d9618e0",
+    "sha1": "b7d5df321274208d498eebb0c376083fd98a9d40",
     "station": {
       "branch": "Street charging",
       "chargingFacilities": {
@@ -20955,7 +20955,7 @@
           "plug": "CCS Combo 2 Plug (Cable Attached)"
         }
       ],
-      "postalCode": "11101",
+      "postalCode": "10900",
       "region": "Hlavní město Praha",
       "street": "Kardausova"
     }
@@ -27497,7 +27497,7 @@
   },
   "CZ9429238": {
     "name": "Parkoviště Poliklinika Prosek",
-    "sha1": "76a24fca873cb2a786b42a1a97c238c99f61494e",
+    "sha1": "1ef58096efd145637c32c949268518585ff7fa4b",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -27508,7 +27508,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9429238",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Parkoviště Poliklinika Prosek",
       "evseId": "CZ*PRE*E1S8303*2",
