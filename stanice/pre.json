@@ -26864,7 +26864,7 @@
   },
   "CZ9272773": {
     "name": "Pečovatelská služba ",
-    "sha1": "0023c07e99cd1bee6ba7aced3fe17355a196ddae",
+    "sha1": "f105797a9923bdc9875498685dfe6ca53bbdc67a",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -26885,6 +26885,18 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/660bc3752d95e30899999f54/pecovat.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/660bc3752d95e30899999f54/pecovatelska.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -28542,7 +28554,7 @@
   },
   "CZ9623473": {
     "name": "Kpt. Stránského & Vybíralova",
-    "sha1": "05be31e0ddfd1dc9bc8dc2e29fae0440dc57f121",
+    "sha1": "ea49560d4997f168fcc2c26118540d6c39a17ba0",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -28553,7 +28565,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9623473",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Kpt. Stránského & Vybíralova",
       "evseId": "CZ*PRE*E1S8295*2",

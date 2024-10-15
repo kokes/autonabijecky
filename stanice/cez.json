@@ -41221,6 +41221,152 @@
       "visible": true
     }
   },
+  "201239": {
+    "name": "R656 - Český Krumlov - Kaufland II.",
+    "sha1": "152bca641ef52c54ac14815baae73ff86f2484a1",
+    "station": {
+      "address": {
+        "city": "Český Krumlov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "236",
+        "latitude": 48.8247522,
+        "longitude": 14.3314544,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Urbinská",
+        "url": ""
+      },
+      "customID": "201239",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R656"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R656"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/b6c0f5f3-ea41-48fb-9fc4-1213987552b0-20241014-131948.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R656 - Český Krumlov - Kaufland II.",
+      "visible": true
+    }
+  },
+  "201253": {
+    "name": "R655 - Český Krumlov - Kaufland I.",
+    "sha1": "bbf9b0f772534df41f1999cda3734d7c30aca091",
+    "station": {
+      "address": {
+        "city": "Český Krumlov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "236",
+        "latitude": 48.8247522,
+        "longitude": 14.3314544,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Urbinská",
+        "url": ""
+      },
+      "customID": "201253",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R655"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R655"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/b6c0f5f3-ea41-48fb-9fc4-1213987552b0-20241014-131948.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R655 - Český Krumlov - Kaufland I.",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
