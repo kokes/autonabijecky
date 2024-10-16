@@ -27549,7 +27549,7 @@
   },
   "CZ9429409": {
     "name": "EuroOil Zdice",
-    "sha1": "b6c929cf00aecdc928b0ecdea36f47b8aafee7a0",
+    "sha1": "af15cdede48caf777267938445af5a5c6a98ef70",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -27560,7 +27560,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9429409",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "U čerpací stanice EuroOil / By the EuroOil gas station ",
       "enCsname": "EuroOil Zdice",
@@ -27571,6 +27571,23 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jfif",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6572d935b00b887ef007f600/3.jfif"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jfif",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6572d935b00b887ef007f600/5.jfif"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jfif",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/6572d935b00b887ef007f600/6.jfif"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,

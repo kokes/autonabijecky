@@ -20344,13 +20344,13 @@
   },
   "268311": {
     "name": "(P) Wienerberger s.r.o. - Novosedly",
-    "sha1": "3776ea105f9f1be429475e2dd4c3d761cc6adb62",
+    "sha1": "cd0697548ce64f1b2bcfd0baa2014aba63748577",
     "station": {
       "address": "Novosedly 509",
       "city": "Novosedly",
       "coordinates": {
-        "latitude": "48.8356939",
-        "longitude": "16.5115669"
+        "latitude": "48.8351886",
+        "longitude": "16.5140461"
       },
       "country": "CZE",
       "country_code": "CZ",
@@ -20382,8 +20382,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "48.8356939",
-            "longitude": "16.5115669"
+            "latitude": "48.8351886",
+            "longitude": "16.5140461"
           },
           "evse_id": "CZ*EON*E220109573*1",
           "last_seen_as_planned": null,
@@ -20415,8 +20415,8 @@
             }
           ],
           "coordinates": {
-            "latitude": "48.8356939",
-            "longitude": "16.5115669"
+            "latitude": "48.8351886",
+            "longitude": "16.5140461"
           },
           "evse_id": "CZ*EON*E220109574*1",
           "last_seen_as_planned": null,
@@ -20438,12 +20438,17 @@
         {
           "category": "OTHER",
           "type": "jpeg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/270763/5221081718120193.jpeg"
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/270763/2429991728997907.jpeg"
         },
         {
           "category": "OTHER",
           "type": "jpeg",
-          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/270763/8827301718120194.jpeg"
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/270763/5534811728997907.jpeg"
+        },
+        {
+          "category": "OTHER",
+          "type": "jpeg",
+          "url": "https://b2bui-photo-uploads-production.s3-eu-west-1.amazonaws.com/270763/9637611728997907.jpeg"
         }
       ],
       "last_updated": "RESET",
