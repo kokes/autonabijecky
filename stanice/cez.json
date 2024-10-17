@@ -47025,8 +47025,8 @@
     }
   },
   "59526": {
-    "name": "N107 - Dvůr Králové - ZOO - 1",
-    "sha1": "9357e0f668de3fe15a85b62486696f55e9728fde",
+    "name": "N277 - Dvůr Králové - ZOO - 1",
+    "sha1": "909b7d97cd8c39f14f1e7ae3c542a02fac9739f8",
     "station": {
       "address": {
         "city": "Dvůr Králové",
@@ -47061,7 +47061,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N107"
+          "physicalReference": "N277"
         },
         {
           "connectors": [
@@ -47075,7 +47075,7 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "N107"
+          "physicalReference": "N277"
         }
       ],
       "images": [
@@ -47084,7 +47084,7 @@
         }
       ],
       "instructions": null,
-      "name": "N107 - Dvůr Králové - ZOO - 1",
+      "name": "N277 - Dvůr Králové - ZOO - 1",
       "visible": true
     }
   },
