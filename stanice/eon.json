@@ -16778,7 +16778,7 @@
   },
   "250189": {
     "name": "(P) Pivovar Tupadly",
-    "sha1": "6e381345107ca5a393ca3879389dee14f6f0c5c3",
+    "sha1": "fd0bd0398ca66e8a51dfad9cc096619c02fb5408",
     "station": {
       "address": "Tupadly 113",
       "city": "Tupadly",
@@ -16803,9 +16803,9 @@
             {
               "format": "SOCKET",
               "id": "1",
-              "last_updated": "2024-07-08T11:34:30.02Z",
+              "last_updated": "2024-10-17T22:01:31.11Z",
               "max_amperage": 16,
-              "max_electric_power": 11000,
+              "max_electric_power": 15000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",
@@ -16836,9 +16836,9 @@
             {
               "format": "SOCKET",
               "id": "2",
-              "last_updated": "2024-07-08T11:34:30.02Z",
+              "last_updated": "2024-10-17T22:01:31.11Z",
               "max_amperage": 16,
-              "max_electric_power": 11000,
+              "max_electric_power": 15000,
               "max_voltage": 400,
               "power_type": "AC_3_PHASE",
               "standard": "IEC_62196_T2",

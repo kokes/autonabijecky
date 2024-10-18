@@ -22114,6 +22114,46 @@
       "street": "Jakobiho 432"
     }
   },
+  "CZ8313188": {
+    "name": "Novovysočanská HUB",
+    "sha1": "f415355947d8e08b1fcf12a1607319f2b818df25",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≥200kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8313188",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Novovysočanská HUB",
+      "evseId": "CZ*PRE*E1R0095*2",
+      "geoCoord": {
+        "latitude": "50.098102",
+        "longitude": "14.480851"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Novovysočanská"
+    }
+  },
   "CZ8314657": {
     "name": "Pivnice Modřany",
     "sha1": "4ef7d065fd65da576b2690a92e1a3007a246b400",
@@ -25245,12 +25285,12 @@
   },
   "CZ9005838": {
     "name": "Power Point Pankrác",
-    "sha1": "9d95998c3c3f6c7ce5e10725aaef7921795ea179",
+    "sha1": "b91c01cf67594643999915474ed58a9294c3da28",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤150kW"
+          "DC Charging ≥200kW"
         ]
       },
       "city": "Praha",
