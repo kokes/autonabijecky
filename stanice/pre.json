@@ -22392,6 +22392,46 @@
       "street": "Radhošťská"
     }
   },
+  "CZ8361957": {
+    "name": "Karlínské náměstí",
+    "sha1": "e1ca60a239841a08cee210fb78c4b244e9788bfd",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8361957",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Karlínské náměstí",
+      "evseId": "CZ*PRE*E1S8315*2",
+      "geoCoord": {
+        "latitude": "50.091788",
+        "longitude": "14.447221"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18600",
+      "region": "Hlavní město Praha",
+      "street": "Karlínské nám."
+    }
+  },
   "CZ8362941": {
     "name": "Ruská 1",
     "sha1": "e21af96ebcfef33f3ea6c11202e569b13bc366e1",
@@ -29571,6 +29611,53 @@
       "postalCode": "10010",
       "region": "Hlavní město Praha",
       "street": "Ruská"
+    }
+  },
+  "CZ9790664": {
+    "name": "Nákladové nádřaží Žižkov",
+    "sha1": "b01cf6b4674027a9d6c7e5e5d1b5bc3d0415a5bd",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9790664",
+      "csStatus": "operable",
+      "csType": "",
+      "enCsname": "Nákladové nádřaží Žižkov",
+      "evseId": "CZ*PRE*E1S8263*2",
+      "geoCoord": {
+        "latitude": "50.084968",
+        "longitude": "14.470938"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jfif",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/664b38b9fc566937fb5d985d/cc1595e4-d9a8-48e1-85ea-32f1c9dd6708.jfif"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10000",
+      "region": "Hlavní město Praha",
+      "street": "Šrobárova 1150 /50"
     }
   },
   "CZ9807912": {
