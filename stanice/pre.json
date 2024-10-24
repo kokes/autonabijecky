@@ -30111,6 +30111,46 @@
       "street": "V Nových Vokovicích"
     }
   },
+  "CZ9879398": {
+    "name": "TEST",
+    "sha1": "6f2b68d4e09bf3d2d9d0931abf6e1f606a9b7137",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9879398",
+      "csStatus": "operable",
+      "csType": "",
+      "enCsname": "TEST",
+      "evseId": "CZ*PRE*EPRE0039*1",
+      "geoCoord": {
+        "latitude": "50.070118",
+        "longitude": "14.483227"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "100 00",
+      "region": "Hlavní město Praha",
+      "street": "Na Hroudě"
+    }
+  },
   "CZ9900202": {
     "name": "Kodaňská 1",
     "sha1": "19da302d7613552e4b2924783905437ed11455ec",
