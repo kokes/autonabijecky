@@ -41367,6 +41367,56 @@
       "visible": true
     }
   },
+  "201784": {
+    "name": "WB005 - Horní Branná",
+    "sha1": "99aa39992ad35149a68673e237461d225792b826",
+    "station": {
+      "address": {
+        "city": "Horní Branná",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Branná 262",
+        "latitude": 50.6108606,
+        "longitude": 15.5691022,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Horní",
+        "url": ""
+      },
+      "customID": "201784",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB005"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/3-20241030-121251.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB005 - Horní Branná",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
