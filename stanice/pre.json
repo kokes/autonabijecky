@@ -12769,7 +12769,7 @@
   },
   "CZ1004621": {
     "name": "Hornbach Chuchle",
-    "sha1": "54a4eeb6c1b46c0ddd1bbc08b3457b5b8e9f6ce6",
+    "sha1": "c11b3221502ea2b41885928c8b688e75b381f624",
     "station": {
       "branch": "Retailer",
       "chargingFacilities": {
@@ -12784,7 +12784,7 @@
       "csName": "Hornbach Chuchle",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "Na levém parkovišti u Obi / In the left parking lot near Obi",
+      "enAdditionalInfo": "Na levém parkovišti u Hornbachu / In the left parking lot near Hornbach",
       "enCsname": "Hornbach Chuchle",
       "evseId": "CZ*PRE*E1S8177*2",
       "geoCoord": {
@@ -28923,11 +28923,11 @@
   },
   "CZ9639830": {
     "name": "DOCK 05",
-    "sha1": "64f057d6dc123b3fb4a86df7e66768c67a0fa178",
+    "sha1": "4603068f5d6ecb155ef8570e810d8c5a1ce890d3",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "380 - 480V, 3-Phase ≤16A"
         ]
       },
       "city": "Praha Libeň",
