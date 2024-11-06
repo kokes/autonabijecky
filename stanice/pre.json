@@ -27330,7 +27330,7 @@
   },
   "CZ9299373": {
     "name": "Poliklinika Studenský Dům",
-    "sha1": "1ebc3eabea0b67d64743f7f6a71bddeddbb8d915",
+    "sha1": "5045c809d7b18462ea547561ee36d902ef8a3621",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -27341,7 +27341,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9299373",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Poliklinika Studenský Dům",
       "evseId": "CZ*PRE*E1S8240*2",
@@ -28227,11 +28227,11 @@
   },
   "CZ9498992": {
     "name": "XXXLutz Hradec Králové",
-    "sha1": "5a498d2e3057fd57190ccc2666d6daa50646546e",
+    "sha1": "873f1234cda722ad06c3f1ff8462331a14a969fe",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "DC Charging ≤50kW"
+          "DC Charging ≤150kW"
         ]
       },
       "city": "Hradec Králové",
@@ -28248,6 +28248,23 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/66cdbe1f7ac9a069d10026c8/XXXLutz1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/66cdbe1f7ac9a069d10026c8/XXXLutz2.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/66cdbe1f7ac9a069d10026c8/XXXLutz3.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
