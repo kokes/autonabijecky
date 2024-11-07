@@ -41490,6 +41490,415 @@
       "visible": true
     }
   },
+  "202060": {
+    "name": "UR246 - Mnichovo Hradiště - KM Prona I.",
+    "sha1": "8c9635ba8493dbf9a6066ca6b1871d9c3312f0a7",
+    "station": {
+      "address": {
+        "city": "Mnichovo Hradiště",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1539",
+        "latitude": 50.5168486,
+        "longitude": 14.9856133,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jiráskova",
+        "url": ""
+      },
+      "customID": "202060",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR246"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/0fb7f10f-576e-4fce-8120-071a51d134a5.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR246 - Mnichovo Hradiště - KM Prona I.",
+      "visible": true
+    }
+  },
+  "202061": {
+    "name": "UR247 - Mnichovo Hradiště - KM Prona II.",
+    "sha1": "e8c1bfd0d57c6cd318238a131d9b0655023d88e9",
+    "station": {
+      "address": {
+        "city": "Mnichovo Hradiště",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1539",
+        "latitude": 50.5168486,
+        "longitude": 14.9856133,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jiráskova",
+        "url": ""
+      },
+      "customID": "202061",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR247"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/0fb7f10f-576e-4fce-8120-071a51d134a5.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR247 - Mnichovo Hradiště - KM Prona II.",
+      "visible": true
+    }
+  },
+  "202062": {
+    "name": "UR248 - Mnichovo Hradiště - KM Prona III.",
+    "sha1": "b99fd8fe866c17c62e0c27f426c97a66850e6393",
+    "station": {
+      "address": {
+        "city": "Mnichovo Hradiště",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1539",
+        "latitude": 50.5168486,
+        "longitude": 14.9856133,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jiráskova",
+        "url": ""
+      },
+      "customID": "202062",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR248"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/0fb7f10f-576e-4fce-8120-071a51d134a5.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR248 - Mnichovo Hradiště - KM Prona III.",
+      "visible": true
+    }
+  },
+  "202063": {
+    "name": "UR249 - Mnichovo Hradiště - KM Prona IV.",
+    "sha1": "96c8577221586f0d71c2a8fd45f815339e077992",
+    "station": {
+      "address": {
+        "city": "Mnichovo Hradiště",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1539",
+        "latitude": 50.5168486,
+        "longitude": 14.9856133,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jiráskova",
+        "url": ""
+      },
+      "customID": "202063",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 75,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR249"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/0fb7f10f-576e-4fce-8120-071a51d134a5.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR249 - Mnichovo Hradiště - KM Prona IV.",
+      "visible": true
+    }
+  },
+  "202088": {
+    "name": "UR250 - Mnichovo Hradiště - KM Prona V.",
+    "sha1": "3b0a56eac096926708c3a19cb6e0a4ab4512d3a2",
+    "station": {
+      "address": {
+        "city": "Mnichovo Hradiště",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1539",
+        "latitude": 50.5168486,
+        "longitude": 14.9856133,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jiráskova",
+        "url": ""
+      },
+      "customID": "202088",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR250"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/0fb7f10f-576e-4fce-8120-071a51d134a5.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR250 - Mnichovo Hradiště - KM Prona V.",
+      "visible": true
+    }
+  },
+  "202089": {
+    "name": "UR251 - Mnichovo Hradiště - KM Prona VI.",
+    "sha1": "f5a532441c12762ed8d047d96b2031f8f4d2393a",
+    "station": {
+      "address": {
+        "city": "Mnichovo Hradiště",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1539",
+        "latitude": 50.5168486,
+        "longitude": 14.9856133,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jiráskova",
+        "url": ""
+      },
+      "customID": "202089",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR251"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/0fb7f10f-576e-4fce-8120-071a51d134a5.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR251 - Mnichovo Hradiště - KM Prona VI.",
+      "visible": true
+    }
+  },
+  "202090": {
+    "name": "UR252 - Mnichovo Hradiště - KM Prona VII.",
+    "sha1": "737216541aac0362939f0a9e6155d19c9982978e",
+    "station": {
+      "address": {
+        "city": "Mnichovo Hradiště",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1539",
+        "latitude": 50.5168486,
+        "longitude": 14.9856133,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jiráskova",
+        "url": ""
+      },
+      "customID": "202090",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR252"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/0fb7f10f-576e-4fce-8120-071a51d134a5.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR252 - Mnichovo Hradiště - KM Prona VII.",
+      "visible": true
+    }
+  },
+  "202091": {
+    "name": "UR253 - Mnichovo Hradiště - KM Prona VIII.",
+    "sha1": "be73c8beb089cd8c571f8651182a33a26bc27136",
+    "station": {
+      "address": {
+        "city": "Mnichovo Hradiště",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1539",
+        "latitude": 50.5168486,
+        "longitude": 14.9856133,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Jiráskova",
+        "url": ""
+      },
+      "customID": "202091",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 320,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR253"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/0fb7f10f-576e-4fce-8120-071a51d134a5.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR253 - Mnichovo Hradiště - KM Prona VIII.",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",

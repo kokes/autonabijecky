@@ -28095,46 +28095,6 @@
       "street": "Pujmanové"
     }
   },
-  "CZ9474828": {
-    "name": "Botanická zahrada ",
-    "sha1": "538241d77cfda552dcacf55b79eef36e7cb2103c",
-    "station": {
-      "chargingFacilities": {
-        "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
-        ]
-      },
-      "city": "Praha 8",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ9474828",
-      "csStatus": "under_construction",
-      "csType": "",
-      "enCsname": "Botanická zahrada ",
-      "evseId": "CZ*PRE*E1S8292*2",
-      "geoCoord": {
-        "latitude": "50.124656",
-        "longitude": "14.420291"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "isHome": true,
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "isRoaming": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "connectorFormat": "Socket",
-          "connectorStandard": "IEC-62196-T2",
-          "plug": "Type 2 Outlet"
-        }
-      ],
-      "postalCode": "18100",
-      "region": "Hlavní město Praha",
-      "street": "K Pazderkám"
-    }
-  },
   "CZ9483995": {
     "name": "TS 2139 Holčovická",
     "sha1": "073e3d105d5cdf9252af6ae2de94f5d0b1a3a75f",
@@ -28227,7 +28187,7 @@
   },
   "CZ9498992": {
     "name": "XXXLutz Hradec Králové",
-    "sha1": "873f1234cda722ad06c3f1ff8462331a14a969fe",
+    "sha1": "5312a39d6fb811cf6bcbedafb4986d8baf61fa34",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -28238,7 +28198,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9498992",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "XXXLutz Hradec Králové",
       "evseId": "CZ*PRE*E1R0092*2",
@@ -28249,6 +28209,16 @@
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
       "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/66cdbe1f7ac9a069d10026c8/1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/66cdbe1f7ac9a069d10026c8/2.jpeg"
+        },
         {
           "class": "locationPhoto",
           "type": "jpeg",
@@ -28940,7 +28910,7 @@
   },
   "CZ9639830": {
     "name": "DOCK 05",
-    "sha1": "4603068f5d6ecb155ef8570e810d8c5a1ce890d3",
+    "sha1": "c5506fddc4635cbdaa4034687fabab0b635944a4",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -28951,8 +28921,9 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9639830",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Charging station located in the garages - parking fees apply / stanice umíštěna v garážích - parkovací poplatek dle informaticní tabule",
       "enCsname": "DOCK 05",
       "evseId": "CZ*PRE*E1S8261*2",
       "geoCoord": {
