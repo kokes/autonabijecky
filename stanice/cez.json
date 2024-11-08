@@ -41899,6 +41899,70 @@
       "visible": true
     }
   },
+  "202128": {
+    "name": "UR273 - Čestice Za Humny",
+    "sha1": "686c90a9eb65738d639aae3715104660f5bf139d",
+    "station": {
+      "address": {
+        "city": "Čestice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.1262344,
+        "longitude": 16.141615,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Čestice",
+        "url": ""
+      },
+      "customID": "202128",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 160,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR273"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 160,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR273"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/06b5cc67-e05c-4cac-a08e-78e48f0a208d.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR273 - Čestice Za Humny",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
