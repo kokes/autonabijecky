@@ -81,7 +81,7 @@ if __name__ == "__main__":
     logging.getLogger().setLevel(logging.INFO)
     os.makedirs(tdir, exist_ok=True)
 
-    funcs = [pre, cez, eon]
+    funcs = [pre, cez]  # eon vypnul bulk API, maj jen hodne high level info
     changelog = []
     stats = [0, 0, 0]
     total = 0
