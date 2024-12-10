@@ -107,9 +107,9 @@
   },
   "CZ1002595": {
     "name": "Vienna House Andel’s Prague",
-    "sha1": "80d45839048b2bdcdb20768132b1d206f4c371a7",
+    "sha1": "23d84bdf9596b6c71cabcb45fb95a18408e2119c",
     "station": {
-      "additionalInfo": "Von der Straße Stroupeznickeho, Ebene -2. Nach der Einfahrt in den öffentlichen Teil biegen Sie rechts ab und fahren in den Hotelteil. Das Parkticket muss vor der Hotelgarage erneut gescannt werden.",
+      "additionalInfo": "Von der Straße Stroupeznickeho, Ebene -2. Nach der Einfahrt in den öffentlichen Teil biegen Sie rechts ab und fahren in den Hotelteil. Das Parkticket muss vor der Hotelgarage erneut gescannt werden.Parken laut Hotelpreisliste.",
       "branch": "Hospitality",
       "chargingFacilities": {
         "chargingFacility": [
@@ -123,7 +123,7 @@
       "csName": "Vienna House Andel’s Prague",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "From the street Stroupeznickeho, -2 level. After entering public part of the garage, turn right and access hotel part. Parking ticket needs to be scanned again in front of the hotel garage.",
+      "enAdditionalInfo": "From the street Stroupeznickeho, -2 level. After entering public part of the garage, turn right and access hotel part. Parking ticket needs to be scanned again in front of the hotel garage.Parking according to the hotel price list.",
       "enCsname": "Vienna House Andel’s Prague",
       "enExtra": "Paid parking as per hotel’s pricelist, parking ticket will be validated at the hotel reception.",
       "evseId": "CZ*PRE*E1S0048*1",
@@ -302,8 +302,8 @@
     }
   },
   "CZ1002600": {
-    "name": "OC Chodov",
-    "sha1": "1f6a53b972f95be22d9fd42587cc95b98288e0f9",
+    "name": "OC Westfield Chodov 1",
+    "sha1": "42b6ea68cc66465e86e42e444abefe87ca762d9d",
     "station": {
       "branch": "Shopping centre, Retail Park ",
       "chargingFacilities": {
@@ -315,12 +315,12 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1002600",
-      "csName": "OC Chodov",
+      "csName": "OC Westfield Chodov 1",
       "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "3h zdarma poté 50,-Kč/1h Garáže OC Chodov / 3h free next 50,-Kč/1hour In the garages of OC Chodov",
-      "enCsname": "OC Chodov",
-      "evseId": "CZ*PRE*E1S0031*2",
+      "enCsname": "OC Westfield Chodov 1",
+      "evseId": "CZ*PRE*E1S0001*1",
       "geoCoord": {
         "latitude": "50.031917",
         "longitude": "14.490500"
@@ -21408,7 +21408,7 @@
   },
   "CZ8182873": {
     "name": "Na Petřinách 2",
-    "sha1": "da1ae648b8562f17af6d17cc4c311a57cb0ece85",
+    "sha1": "8005fbc4e492ce2366be7f9a4277b09512341a9a",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -21419,7 +21419,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8182873",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Na Petřinách 2",
       "evseId": "CZ*PRE*E2S0044*2",
@@ -21588,7 +21588,7 @@
   },
   "CZ8203326": {
     "name": "Na Petřinách 1",
-    "sha1": "5dda5d0ffaa023540fc4c705d271ee0a01905a0b",
+    "sha1": "98f3635b285f16f88429c3b32a277ed1de83811d",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -21599,7 +21599,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8203326",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Na Petřinách 1",
       "evseId": "CZ*PRE*E2S0043*2",
@@ -22976,7 +22976,7 @@
   },
   "CZ8460251": {
     "name": "Na Petřinách 4",
-    "sha1": "7dfde061b31fae88de45c2edbe7bf44c6252be5b",
+    "sha1": "483af881f7c0f6952d8b53b896b246fe0a8bde7b",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -22987,7 +22987,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8460251",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Na Petřinách 4",
       "evseId": "CZ*PRE*E2S0046*2",
@@ -23056,7 +23056,7 @@
   },
   "CZ8463636": {
     "name": "Penta Waltrovka",
-    "sha1": "61ae2623065fc8fb660e786d6f00ba8e657b3681",
+    "sha1": "bad00e56c43f161b6b9d932eb5dff2f289296790",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -23078,6 +23078,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jfif",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/661cc958fc566937fb5d61d3/93f4bf4f-377f-4721-a15a-e84c35a0aab8.jfif"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -23347,7 +23354,7 @@
   },
   "CZ8546862": {
     "name": "Na Vypichu 2",
-    "sha1": "79323b615f7ea5d8deb34cf2659727d5fe812254",
+    "sha1": "b5d0b18f7648ce8c3d97a08dd920e808ce8059a1",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -23358,8 +23365,9 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8546862",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Stanice umístěná na pouličním osvětlení / The charger attached to the lamp ",
       "enCsname": "Na Vypichu 2",
       "evseId": "CZ*PRE*E2S0042*2",
       "geoCoord": {
@@ -23529,7 +23537,7 @@
   },
   "CZ8571679": {
     "name": "Feřtekova 5",
-    "sha1": "3fb3ae316e7c694b37a30e84b7622892c92352ab",
+    "sha1": "4a37b7ce0423c3d9482d27afac6ce364508b0c98",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -23540,7 +23548,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8571679",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Feřtekova 5",
       "evseId": "CZ*PRE*E2S0036*2",
@@ -23609,7 +23617,7 @@
   },
   "CZ8593490": {
     "name": "Na Petřinách 3",
-    "sha1": "0806ff0c64350568671c8622ae595707526519bd",
+    "sha1": "a0714f441d7e0319c6319893e6e0cbc466a9a91d",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -23620,7 +23628,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8593490",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Na Petřinách 3",
       "evseId": "CZ*PRE*E2S0045*2",
@@ -24657,7 +24665,7 @@
   },
   "CZ8890790": {
     "name": "Na Vypichu 1",
-    "sha1": "34e7b84b55eca7730c5de5e6981ba467baad38c8",
+    "sha1": "6243a486ddd603347935ee635e1ac106b86be60d",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -24668,8 +24676,9 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8890790",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
+      "enAdditionalInfo": "Stanice umístěná na pouličním osvětlení / The charger attached to the lamp ",
       "enCsname": "Na Vypichu 1",
       "evseId": "CZ*PRE*E2S0041*2",
       "geoCoord": {
@@ -24848,7 +24857,7 @@
   },
   "CZ8923446": {
     "name": "Feřtekova 2 ",
-    "sha1": "aafb1e0a82d4eedbc67af65e8b3e167f2eab736d",
+    "sha1": "54f2767ad86d8d86256b81eda28b911aced8f2dd",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -24859,7 +24868,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8923446",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Feřtekova 2 ",
       "evseId": "CZ*PRE*E2S0033*2",
@@ -24884,6 +24893,47 @@
       "postalCode": "18100",
       "region": "Hlavní město Praha",
       "street": "Feřtekova"
+    }
+  },
+  "CZ8932759": {
+    "name": "OC Westfield Chodov 3",
+    "sha1": "031b542b5a5e1c2a113a590af7ece4f4f21063d8",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8932759",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "3h zdarma poté 50,-Kč/1h Garáže OC Chodov / 3h free next 50,-Kč/1hour In the garages of OC Chodov",
+      "enCsname": "OC Westfield Chodov 3",
+      "evseId": "CZ*PRE*E1S0003*2",
+      "geoCoord": {
+        "latitude": "50.031178",
+        "longitude": "14.491299"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "148 00",
+      "region": "Hlavní město Praha",
+      "street": "Roztylská 2321"
     }
   },
   "CZ8938972": {
@@ -25268,6 +25318,47 @@
       "postalCode": "10200",
       "region": "Hlavní město Praha",
       "street": "Chudenická"
+    }
+  },
+  "CZ9001380": {
+    "name": "OC Westfield Chodov 4",
+    "sha1": "abb3d9ae51ff4a9fe7979d5d91351a92ae185afd",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9001380",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "3h zdarma poté 50,-Kč/1h Garáže OC Chodov / 3h free next 50,-Kč/1hour In the garages of OC Chodov",
+      "enCsname": "OC Westfield Chodov 4",
+      "evseId": "CZ*PRE*E1S0031*2",
+      "geoCoord": {
+        "latitude": "50.031178",
+        "longitude": "14.491299"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "148 00",
+      "region": "Hlavní město Praha",
+      "street": "Roztylská 2321"
     }
   },
   "CZ9001721": {
@@ -26535,7 +26626,7 @@
   },
   "CZ9181230": {
     "name": "Feřtekova 3",
-    "sha1": "d9aba89aa70e2e40937d5084e3b35c37ff29880a",
+    "sha1": "6b24e255ed8a59299900efe706cb3c9a4b2ae4a9",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -26546,7 +26637,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9181230",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Feřtekova 3",
       "evseId": "CZ*PRE*E2S0034*2",
@@ -26984,7 +27075,7 @@
   },
   "CZ9272773": {
     "name": "Pečovatelská služba ",
-    "sha1": "f105797a9923bdc9875498685dfe6ca53bbdc67a",
+    "sha1": "945e2628e301fe9991276935457ab9a85867247f",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -26995,7 +27086,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9272773",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Pečovatelská služba ",
       "evseId": "CZ*PRE*E1S8298*2",
@@ -27589,7 +27680,7 @@
   },
   "CZ9415404": {
     "name": "Feřtekova 4",
-    "sha1": "0f543c46ad360e8f5f744e20be47e1d0cd92d552",
+    "sha1": "d8a86b761b846b72869e88fe150e4816832cace2",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -27600,7 +27691,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9415404",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Feřtekova 4",
       "evseId": "CZ*PRE*E2S0035*2",
@@ -28095,6 +28186,46 @@
       "street": "Pujmanové"
     }
   },
+  "CZ9474828": {
+    "name": "Botanická zahrada ",
+    "sha1": "623fc15fb8a10d3f39f51db202320167ded2601f",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha 8",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9474828",
+      "csStatus": "operable",
+      "csType": "",
+      "enCsname": "Botanická zahrada ",
+      "evseId": "CZ*PRE*E1S8292*2",
+      "geoCoord": {
+        "latitude": "50.124656",
+        "longitude": "14.420291"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18100",
+      "region": "Hlavní město Praha",
+      "street": "K Pazderkám"
+    }
+  },
   "CZ9483995": {
     "name": "TS 2139 Holčovická",
     "sha1": "073e3d105d5cdf9252af6ae2de94f5d0b1a3a75f",
@@ -28147,7 +28278,7 @@
   },
   "CZ9498016": {
     "name": "Feřtekova 1",
-    "sha1": "c3d8dfc63aa066681fa31d876ef11c513187412a",
+    "sha1": "72337703aee5beae51368b0b66dd33fb635e0d81",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -28158,7 +28289,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9498016",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Feřtekova 1",
       "evseId": "CZ*PRE*E2S0032*2",
@@ -28250,6 +28381,47 @@
       "postalCode": "50332",
       "region": "Královéhradecký kraj",
       "street": "Rovná"
+    }
+  },
+  "CZ9510799": {
+    "name": "OC Westfield Chodov 2",
+    "sha1": "62e66237b27e7485fe52b5f19ea1a90048c5f2c0",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9510799",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "3h zdarma poté 50,-Kč/1h Garáže OC Chodov / 3h free next 50,-Kč/1hour In the garages of OC Chodov",
+      "enCsname": "OC Westfield Chodov 2",
+      "evseId": "CZ*PRE*E1S0002*2",
+      "geoCoord": {
+        "latitude": "50.031178",
+        "longitude": "14.491299"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "148 00",
+      "region": "Hlavní město Praha",
+      "street": "Roztylská 2321"
     }
   },
   "CZ9514589": {
@@ -28514,6 +28686,47 @@
       "postalCode": "16000",
       "region": "Hlavní město Praha",
       "street": "V Nových Vokovicích"
+    }
+  },
+  "CZ9545073": {
+    "name": "OC Westfield Chodov 5",
+    "sha1": "5d1f92b5b6c208ccbb6bda8ed432009d58b768a3",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "DC Charging ≤50kW"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9545073",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "3h zdarma poté 50,-Kč/1h Garáže OC Chodov / 3h free next 50,-Kč/1hour In the garages of OC Chodov",
+      "enCsname": "OC Westfield Chodov 5",
+      "evseId": "CZ*PRE*E1R0004*3",
+      "geoCoord": {
+        "latitude": "50.031178",
+        "longitude": "14.491299"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2-COMBO",
+          "plug": "CCS Combo 2 Plug (Cable Attached)"
+        }
+      ],
+      "postalCode": "148 00",
+      "region": "Hlavní město Praha",
+      "street": "Roztylská 2321"
     }
   },
   "CZ9560416": {
@@ -28910,7 +29123,7 @@
   },
   "CZ9639830": {
     "name": "DOCK 05",
-    "sha1": "c5506fddc4635cbdaa4034687fabab0b635944a4",
+    "sha1": "601f20b9dd67359869d526d69348899c2da81101",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -28932,6 +29145,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jfif",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65cccc540a64080f17bacff7/foto.jfif"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -29643,7 +29863,7 @@
   },
   "CZ9790664": {
     "name": "Nákladové nádřaží Žižkov",
-    "sha1": "b01cf6b4674027a9d6c7e5e5d1b5bc3d0415a5bd",
+    "sha1": "9f47645921f4a49d3318aaf6afa39b4f3f0355d2",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -29683,9 +29903,9 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "10000",
+      "postalCode": "13000",
       "region": "Hlavní město Praha",
-      "street": "Šrobárova 1150 /50"
+      "street": "Jana Želivského"
     }
   },
   "CZ9807912": {
@@ -29777,18 +29997,18 @@
   },
   "CZ9825781": {
     "name": "Na Petřinách 5",
-    "sha1": "739b97d64b6451357778ed2d47d6c229ed1066d8",
+    "sha1": "e28c64ed64afbd3a79d6659c499a70f8081c47a0",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
+          "380 - 480V, 3-Phase ≤16A"
         ]
       },
       "city": "Praha",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9825781",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Na Petřinách 5",
       "evseId": "CZ*PRE*E2S0047*2",
@@ -30139,46 +30359,6 @@
       "street": "V Nových Vokovicích"
     }
   },
-  "CZ9879398": {
-    "name": "TEST",
-    "sha1": "6f2b68d4e09bf3d2d9d0931abf6e1f606a9b7137",
-    "station": {
-      "chargingFacilities": {
-        "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
-        ]
-      },
-      "city": "Praha",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ9879398",
-      "csStatus": "operable",
-      "csType": "",
-      "enCsname": "TEST",
-      "evseId": "CZ*PRE*EPRE0039*1",
-      "geoCoord": {
-        "latitude": "50.070118",
-        "longitude": "14.483227"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "isHome": true,
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "isRoaming": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "connectorFormat": "Socket",
-          "connectorStandard": "IEC-62196-T2",
-          "plug": "Type 2 Outlet"
-        }
-      ],
-      "postalCode": "100 00",
-      "region": "Hlavní město Praha",
-      "street": "Na Hroudě"
-    }
-  },
   "CZ9900202": {
     "name": "Kodaňská 1",
     "sha1": "19da302d7613552e4b2924783905437ed11455ec",
@@ -30495,7 +30675,7 @@
   },
   "CZ9971705": {
     "name": "Městská knihovna Rubensova",
-    "sha1": "0277f92f14a88521e11626c45b72f0945316c1db",
+    "sha1": "aa9d67fc5ca9539deebf866cd6072386122ffe3b",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -30506,7 +30686,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9971705",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Městská knihovna Rubensova",
       "evseId": "CZ*PRE*E1S8308*2",

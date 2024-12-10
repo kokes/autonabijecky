@@ -4271,8 +4271,8 @@
     }
   },
   "144686": {
-    "name": "R331 - Ostrava - Mariánské Hory - Kaufland",
-    "sha1": "bcad71505c9b853a1dfdc65b0653617bf90e66d1",
+    "name": "R666 - Ostrava - Mariánské Hory - Kaufland",
+    "sha1": "d310f56c363dd6f3648ceea8510d73856d993d66",
     "station": {
       "address": {
         "city": "Ostrava-Mariánské Hory",
@@ -4299,7 +4299,7 @@
           "connectors": [
             {
               "amperage": 32,
-              "chargePointIdentity": "T54-HU1-4220-009",
+              "chargePointIdentity": "",
               "connectorID": 1,
               "format": "CABLE",
               "powerOutput": null,
@@ -4307,13 +4307,13 @@
               "voltage": 400
             }
           ],
-          "physicalReference": "R331"
+          "physicalReference": "R666"
         },
         {
           "connectors": [
             {
               "amperage": null,
-              "chargePointIdentity": "T54-HU1-4220-009",
+              "chargePointIdentity": "",
               "connectorID": 2,
               "format": "CABLE",
               "powerOutput": 50,
@@ -4322,7 +4322,7 @@
             },
             {
               "amperage": null,
-              "chargePointIdentity": "T54-HU1-4220-009",
+              "chargePointIdentity": "",
               "connectorID": 3,
               "format": "CABLE",
               "powerOutput": 50,
@@ -4330,7 +4330,7 @@
               "voltage": null
             }
           ],
-          "physicalReference": "R331"
+          "physicalReference": "R666"
         }
       ],
       "images": [
@@ -4339,7 +4339,7 @@
         }
       ],
       "instructions": null,
-      "name": "R331 - Ostrava - Mariánské Hory - Kaufland",
+      "name": "R666 - Ostrava - Mariánské Hory - Kaufland",
       "visible": true
     }
   },
@@ -41963,6 +41963,1424 @@
       "visible": true
     }
   },
+  "202490": {
+    "name": "UR261 - Hluboká nad Vltavou - Parkoviště Podskalí",
+    "sha1": "b5a571f7a2671f998db79e180c22d4ff69f2a3b4",
+    "station": {
+      "address": {
+        "city": "Hluboká nad Vltavou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Podskalí",
+        "latitude": 49.0490847,
+        "longitude": 14.4427011,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Parkoviště",
+        "url": ""
+      },
+      "customID": "202490",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 140,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR261"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 140,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR261"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/2ac1f53c-2d5c-4cb6-b6c6-2c3c4d3ac254.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR261 - Hluboká nad Vltavou - Parkoviště Podskalí",
+      "visible": true
+    }
+  },
+  "202492": {
+    "name": "WB025 - Lipno nad Vltavou - Residence Lipno management I.",
+    "sha1": "ae72a8d9e051d73d8b8fa0d6089e1dc72d1b5019",
+    "station": {
+      "address": {
+        "city": "Lipno nad Vltavou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "nad Vltavou 880",
+        "latitude": 48.6368989,
+        "longitude": 14.2018253,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Lipno",
+        "url": ""
+      },
+      "customID": "202492",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB025"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/b041bd05-cc77-4802-8991-f29dca079755.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB025 - Lipno nad Vltavou - Residence Lipno management I.",
+      "visible": true
+    }
+  },
+  "202493": {
+    "name": "WB026 - Lipno nad Vltavou - Residence Lipno management II.",
+    "sha1": "554572c9d4e770d79e74c00da06ed170b1f444e0",
+    "station": {
+      "address": {
+        "city": "Lipno nad Vltavou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "nad Vltavou 880",
+        "latitude": 48.6368989,
+        "longitude": 14.2018253,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Lipno",
+        "url": ""
+      },
+      "customID": "202493",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB026"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/b041bd05-cc77-4802-8991-f29dca079755.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB026 - Lipno nad Vltavou - Residence Lipno management II.",
+      "visible": true
+    }
+  },
+  "202771": {
+    "name": "WB024 - Praha 4 - SOHO",
+    "sha1": "dc896bb291e35fd99be9d278d9f4779f5f63a1b3",
+    "station": {
+      "address": {
+        "city": "Praha 4",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "nábřeží 1108/1",
+        "latitude": 50.0471853,
+        "longitude": 14.4135375,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Podolské",
+        "url": ""
+      },
+      "customID": "202771",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB024"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/1-20241119-152103.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB024 - Praha 4 - SOHO",
+      "visible": true
+    }
+  },
+  "202840": {
+    "name": "UR256 - Boskovice - Kaufland",
+    "sha1": "aad631c2df9151613f4cc599abbc07ec1104b979",
+    "station": {
+      "address": {
+        "city": "Boskovice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2460/4",
+        "latitude": 49.4908886,
+        "longitude": 16.6416122,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rovná",
+        "url": ""
+      },
+      "customID": "202840",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 160,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR256"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR256"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/3-20241120-134315.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR256 - Boskovice - Kaufland",
+      "visible": true
+    }
+  },
+  "202852": {
+    "name": "UR199 - Břeclav - Tesco I.",
+    "sha1": "5287e891a8541ca0b80bfbb1d911180510609f60",
+    "station": {
+      "address": {
+        "city": "Břeclav",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3341/137",
+        "latitude": 48.7807175,
+        "longitude": 16.9033342,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Lidická",
+        "url": ""
+      },
+      "customID": "202852",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR199"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR199"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/9a190274-079c-428b-9a87-78a9e65ce81c.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR199 - Břeclav - Tesco I.",
+      "visible": true
+    }
+  },
+  "202853": {
+    "name": "UR200 - Břeclav - Tesco II.",
+    "sha1": "b5e8cb4955f3af567e090676b456767b83138e6b",
+    "station": {
+      "address": {
+        "city": "Břeclav",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3341/137",
+        "latitude": 48.7807175,
+        "longitude": 16.9033342,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Lidická",
+        "url": ""
+      },
+      "customID": "202853",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR200"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR200"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/9a190274-079c-428b-9a87-78a9e65ce81c.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR200 - Břeclav - Tesco II.",
+      "visible": true
+    }
+  },
+  "202854": {
+    "name": "UR201 - Břeclav - Tesco III.",
+    "sha1": "de9bca02823041091ab6cc21e4f2d5e0421c2fa0",
+    "station": {
+      "address": {
+        "city": "Břeclav",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3341/137",
+        "latitude": 48.7807175,
+        "longitude": 16.9033342,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Lidická",
+        "url": ""
+      },
+      "customID": "202854",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR201"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR201"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/9a190274-079c-428b-9a87-78a9e65ce81c.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR201 - Břeclav - Tesco III.",
+      "visible": true
+    }
+  },
+  "202855": {
+    "name": "UR202 - Břeclav - Tesco IV.",
+    "sha1": "db2fcfed785ed881110201ea526eec54f6693e0c",
+    "station": {
+      "address": {
+        "city": "Břeclav",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3341/137",
+        "latitude": 48.7807175,
+        "longitude": 16.9033342,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Lidická",
+        "url": ""
+      },
+      "customID": "202855",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 360,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR202"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 360,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR202"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/9a190274-079c-428b-9a87-78a9e65ce81c.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR202 - Břeclav - Tesco IV.",
+      "visible": true
+    }
+  },
+  "203063": {
+    "name": "R643 - Vsetín - Kaufland",
+    "sha1": "c663b41b909f276c15cdd3860f3dcf8d4ac62036",
+    "station": {
+      "address": {
+        "city": "Slaný",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 49.3325,
+        "longitude": 18.0066667,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Rabasova",
+        "url": ""
+      },
+      "customID": "203063",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R643"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R643"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/0ee187df-3ceb-48de-9423-0baa2c2a0d1d.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R643 - Vsetín - Kaufland",
+      "visible": true
+    }
+  },
+  "203064": {
+    "name": "R658 - Chřibská II.",
+    "sha1": "ce60a724b196b155da7f1777d10633d30eef13ba",
+    "station": {
+      "address": {
+        "city": "Chřibská",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "23",
+        "latitude": 50.8627592,
+        "longitude": 14.4826714,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Chřibská",
+        "url": ""
+      },
+      "customID": "203064",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R658"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R658"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R658 - Chřibská II.",
+      "visible": true
+    }
+  },
+  "203065": {
+    "name": "WB052 - Praha 10 - Tesco Skalka IV.",
+    "sha1": "b75c60840e56519833c49cf15e15b195b92b02d6",
+    "station": {
+      "address": {
+        "city": "Praha 10",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3295/50",
+        "latitude": 50.0704372,
+        "longitude": 14.5111961,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Přetlucká",
+        "url": ""
+      },
+      "customID": "203065",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB052"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/35e765bb-d49c-4b55-b72d-5939728f87a1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB052 - Praha 10 - Tesco Skalka IV.",
+      "visible": true
+    }
+  },
+  "203066": {
+    "name": "WB054 - Praha 10 - Tesco Skalka VI.",
+    "sha1": "855a7793682e774105191b37447e2268dde85d43",
+    "station": {
+      "address": {
+        "city": "Praha 10",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3295/50",
+        "latitude": 50.0704372,
+        "longitude": 14.5111961,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Přetlucká",
+        "url": ""
+      },
+      "customID": "203066",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB054"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/35e765bb-d49c-4b55-b72d-5939728f87a1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB054 - Praha 10 - Tesco Skalka VI.",
+      "visible": true
+    }
+  },
+  "203076": {
+    "name": "R657 - Chřibská I.",
+    "sha1": "52d8ab9d0bf4daf282b937d353382b932c5bb0a2",
+    "station": {
+      "address": {
+        "city": "Chřibská",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "23",
+        "latitude": 50.8627592,
+        "longitude": 14.4826714,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Chřibská",
+        "url": ""
+      },
+      "customID": "203076",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R657"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R657"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/r401_402.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R657 - Chřibská I.",
+      "visible": true
+    }
+  },
+  "203079": {
+    "name": "R665 - Praha 10 - Tesco Skalka I.",
+    "sha1": "a69a9a4ad500e2f639db8ad3a94c417af6d7fe75",
+    "station": {
+      "address": {
+        "city": "Praha 10",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3295/50",
+        "latitude": 50.0704372,
+        "longitude": 14.5111961,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Přetlucká",
+        "url": ""
+      },
+      "customID": "203079",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R665"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R665"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/r401_402.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R665 - Praha 10 - Tesco Skalka I.",
+      "visible": true
+    }
+  },
+  "203080": {
+    "name": "R667 - Praha 10 - Tesco Skalka II.",
+    "sha1": "11641a1bc79f05d0cbe660832f4b29dd696452a6",
+    "station": {
+      "address": {
+        "city": "Praha 10",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3295/50",
+        "latitude": 50.0704372,
+        "longitude": 14.5111961,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Přetlucká",
+        "url": ""
+      },
+      "customID": "203080",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R667"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R667"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/r401_402.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R667 - Praha 10 - Tesco Skalka II.",
+      "visible": true
+    }
+  },
+  "203081": {
+    "name": "WB051 - Praha 10 - Tesco Skalka III.",
+    "sha1": "4c5e948bfb569ea450d3d29ed6c0bc3013014630",
+    "station": {
+      "address": {
+        "city": "Praha 10",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3295/50",
+        "latitude": 50.0704372,
+        "longitude": 14.5111961,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Přetlucká",
+        "url": ""
+      },
+      "customID": "203081",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB051"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/r401_402.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB051 - Praha 10 - Tesco Skalka III.",
+      "visible": true
+    }
+  },
+  "203082": {
+    "name": "WB053 - Praha 10 - Tesco Skalka V.",
+    "sha1": "8baf2b6e5513b6a8d992f34323df37987756d3f0",
+    "station": {
+      "address": {
+        "city": "Praha 10",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "3295/50",
+        "latitude": 50.0704372,
+        "longitude": 14.5111961,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Přetlucká",
+        "url": ""
+      },
+      "customID": "203082",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB053"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/01/r401_402.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB053 - Praha 10 - Tesco Skalka V.",
+      "visible": true
+    }
+  },
+  "203240": {
+    "name": "UR260 - Benešov - ČEZ II.",
+    "sha1": "86d4c7fca74e535b497b5c4b25f69174e31be247",
+    "station": {
+      "address": {
+        "city": "Benešov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Elektrárny",
+        "latitude": 49.7882289,
+        "longitude": 14.6819986,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "U",
+        "url": ""
+      },
+      "customID": "203240",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR260"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR260"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/12/2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR260 - Benešov - ČEZ II.",
+      "visible": true
+    }
+  },
+  "203251": {
+    "name": "UR259 - Benešov - ČEZ I.",
+    "sha1": "581a875a069cc90e8a36e88a19ecb4b8ddb64229",
+    "station": {
+      "address": {
+        "city": "Benešov",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Elektrárny",
+        "latitude": 49.7882289,
+        "longitude": 14.6819986,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "U",
+        "url": ""
+      },
+      "customID": "203251",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 100,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR259"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR259"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/12/2.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR259 - Benešov - ČEZ I.",
+      "visible": true
+    }
+  },
+  "203516": {
+    "name": "R641 - Loučná nad Desnou - Hotel Červenohorské sedlo I.",
+    "sha1": "b0aecf5e946152a010f187bdc206a4f9f740cfe8",
+    "station": {
+      "address": {
+        "city": "Loučná nad Desnou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "nad Desnou 80",
+        "latitude": 50.1257181,
+        "longitude": 17.1533722,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Kouty",
+        "url": ""
+      },
+      "customID": "203516",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R641"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R641"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/img_1978.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R641 - Loučná nad Desnou - Hotel Červenohorské sedlo I.",
+      "visible": true
+    }
+  },
+  "203543": {
+    "name": "R642 - Loučná nad Desnou - Hotel Červenohorské sedlo II.",
+    "sha1": "02a510a39286efa1cf592d36a0feff7a2f8a855b",
+    "station": {
+      "address": {
+        "city": "Loučná nad Desnou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "nad Desnou 80",
+        "latitude": 50.1257181,
+        "longitude": 17.1533722,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Kouty",
+        "url": ""
+      },
+      "customID": "203543",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R642"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R642"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/be9582ab-7b83-40ad-befa-07df01bb873c-20241003-105620.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R642 - Loučná nad Desnou - Hotel Červenohorské sedlo II.",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
@@ -44138,70 +45556,6 @@
       ],
       "instructions": null,
       "name": "R132 - Kuřim - TOS Kuřim",
-      "visible": true
-    }
-  },
-  "59464": {
-    "name": "N140 - Praha - SOHO",
-    "sha1": "5a5ebd40abb52d372133d87d07be10603477afd0",
-    "station": {
-      "address": {
-        "city": "Praha 4",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "nábřeží 1108/1",
-        "latitude": 50.0471853,
-        "longitude": 14.4135375,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Podolské",
-        "url": ""
-      },
-      "customID": "59464",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N140"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 11,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "N140"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/elektromobilita/dobijeci-stanice/kurim.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "N140 - Praha - SOHO",
       "visible": true
     }
   },
