@@ -106,8 +106,8 @@
     }
   },
   "CZ1002595": {
-    "name": "Vienna House Andel’s Prague",
-    "sha1": "23d84bdf9596b6c71cabcb45fb95a18408e2119c",
+    "name": "Vienna House by Wyndham Andel’s Prague",
+    "sha1": "26c4282bb104cbd161236ed147a25df798658ac3",
     "station": {
       "additionalInfo": "Von der Straße Stroupeznickeho, Ebene -2. Nach der Einfahrt in den öffentlichen Teil biegen Sie rechts ab und fahren in den Hotelteil. Das Parkticket muss vor der Hotelgarage erneut gescannt werden.Parken laut Hotelpreisliste.",
       "branch": "Hospitality",
@@ -120,11 +120,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1002595",
-      "csName": "Vienna House Andel’s Prague",
+      "csName": "Vienna House by Wyndham Andel’s Prague",
       "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "From the street Stroupeznickeho, -2 level. After entering public part of the garage, turn right and access hotel part. Parking ticket needs to be scanned again in front of the hotel garage.Parking according to the hotel price list.",
-      "enCsname": "Vienna House Andel’s Prague",
+      "enCsname": "Vienna House by Wyndham Andel’s Prague",
       "enExtra": "Paid parking as per hotel’s pricelist, parking ticket will be validated at the hotel reception.",
       "evseId": "CZ*PRE*E1S0048*1",
       "extra": "Bezahltes Parken laut Preisliste des Hotels, das Parkticket wird an der Hotelrezeption entwertet.",
@@ -21827,7 +21827,7 @@
   },
   "CZ8252875": {
     "name": "Vlakové nádraží Praha Vysočany",
-    "sha1": "043e07533f7803ee5ce9039fdf3a8989e01915cf",
+    "sha1": "e75082d85293a86e0223593c3abd9e13d34ab178",
     "station": {
       "branch": "Public car parks",
       "chargingFacilities": {
@@ -21854,12 +21854,7 @@
         {
           "class": "locationPhoto",
           "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65785893b00b887ef007f731/vlak._nadrazi_Praha_Vysocany_2.jpg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65785893b00b887ef007f731/vlak._nadrazi_Praha_Vysocany.jpg"
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/65785893b00b887ef007f731/7275137231274405982.jpg"
         }
       ],
       "isHome": true,
