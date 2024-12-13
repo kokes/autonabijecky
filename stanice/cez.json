@@ -42526,19 +42526,19 @@
   },
   "203063": {
     "name": "R643 - Vsetín - Kaufland",
-    "sha1": "c663b41b909f276c15cdd3860f3dcf8d4ac62036",
+    "sha1": "cf81fbac8bf5fef322cd8d0e33a35e02c8435dcf",
     "station": {
       "address": {
-        "city": "Slaný",
+        "city": "Vsetín",
         "country": "CZE",
         "email": null,
         "floor": null,
-        "houseNumber": "",
+        "houseNumber": "311",
         "latitude": 49.3325,
         "longitude": 18.0066667,
         "phoneNumber": null,
         "postalCode": null,
-        "street": "Rabasova",
+        "street": "Jasenická",
         "url": ""
       },
       "customID": "203063",
@@ -43378,6 +43378,152 @@
       ],
       "instructions": null,
       "name": "R642 - Loučná nad Desnou - Hotel Červenohorské sedlo II.",
+      "visible": true
+    }
+  },
+  "203914": {
+    "name": "R648 - Liberec - Kaufland I.",
+    "sha1": "42599c7dbc61c84d8f11880e4aa63d8087ed061e",
+    "station": {
+      "address": {
+        "city": "Liberec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Milady Horákové 586/90a",
+        "latitude": 50.7521222,
+        "longitude": 15.0546928,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dr.",
+        "url": ""
+      },
+      "customID": "203914",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R648"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R648"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/be9582ab-7b83-40ad-befa-07df01bb873c-20241003-105620.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R648 - Liberec - Kaufland I.",
+      "visible": true
+    }
+  },
+  "203915": {
+    "name": "R649 - Liberec - Kaufland II.",
+    "sha1": "e9eb294fe9f2be98d71b04d17b17e58d8ae27f3c",
+    "station": {
+      "address": {
+        "city": "Liberec",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Milady Horákové 586/90a",
+        "latitude": 50.7521222,
+        "longitude": 15.0546928,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Dr.",
+        "url": ""
+      },
+      "customID": "203915",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R649"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R649"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/be9582ab-7b83-40ad-befa-07df01bb873c-20241003-105620.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R649 - Liberec - Kaufland II.",
       "visible": true
     }
   },
