@@ -44509,82 +44509,9 @@
       "visible": true
     }
   },
-  "59441": {
-    "name": "R101 - Praha - Centrála ČEZ, a.s.",
-    "sha1": "59b288e823e255cf80e463b629dc4249361c75e0",
-    "station": {
-      "address": {
-        "city": "Praha 4",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "2",
-        "latitude": 50.0493388,
-        "longitude": 14.4521772,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Duhová",
-        "url": "http://www.cez.cz"
-      },
-      "customID": "59441",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": 32,
-              "chargePointIdentity": "T53-HU1-0416-001 ",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": null,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": 400
-            }
-          ],
-          "physicalReference": "R101"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-HU1-0416-001 ",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "T53-HU1-0416-001 ",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R101"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20210318_175709.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "R101 - Praha - Centrála ČEZ, a.s.",
-      "visible": true
-    }
-  },
   "59442": {
     "name": "N129 - Praha - Chodov Park",
-    "sha1": "f29fdd695440408a1749fc7b423b6ff779b39cc4",
+    "sha1": "c182752529c5045736f7d9c0dc263c433e92ec70",
     "station": {
       "address": {
         "city": "Praha 4 - Chodov",
@@ -44638,7 +44565,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20210318_175709.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/02/img_20200903_162819.jpg"
         }
       ],
       "instructions": null,
@@ -44780,79 +44707,6 @@
       ],
       "instructions": null,
       "name": "N137 - Chrášťany - TNT Express",
-      "visible": true
-    }
-  },
-  "59446": {
-    "name": "R593 - Praha-Radotín - MČ Praha 16",
-    "sha1": "aca37f6b4c373fbbebd83e9ecc3baf7bf789e51b",
-    "station": {
-      "address": {
-        "city": "Praha 16",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "",
-        "latitude": 49.9849744,
-        "longitude": 14.3637467,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Vrážská",
-        "url": ""
-      },
-      "customID": "59446",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "MENNEKES_TYPE_2",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R593"
-        },
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 2,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            },
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 3,
-              "format": "CABLE",
-              "powerOutput": 50,
-              "standard": "CHADEMO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "R593"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/10/2.png"
-        }
-      ],
-      "instructions": null,
-      "name": "R593 - Praha-Radotín - MČ Praha 16",
       "visible": true
     }
   },

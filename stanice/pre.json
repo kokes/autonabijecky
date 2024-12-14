@@ -21455,6 +21455,55 @@
       "street": "Pod Statky"
     }
   },
+  "CZ8176057": {
+    "name": "Technologie hlavního města Prahy 25",
+    "sha1": "21d6760b71a929da246cafa7e9ec560c898d9c93",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8176057",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 25",
+      "evseId": "CZ*PRE*ETHMP25*2",
+      "geoCoord": {
+        "latitude": "50.072285",
+        "longitude": "14.455786"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10100",
+      "region": "Hlavní město Praha",
+      "street": "Ruská"
+    }
+  },
   "CZ8182873": {
     "name": "Na Petřinách 2",
     "sha1": "8005fbc4e492ce2366be7f9a4277b09512341a9a",
@@ -23016,6 +23065,55 @@
       "street": "Chebská"
     }
   },
+  "CZ8432871": {
+    "name": "Technologie hlavního města Prahy 38",
+    "sha1": "ef2d2e47ad28d01bc9ba3c7e5ece7c74e6be95e1",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8432871",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 38",
+      "evseId": "CZ*PRE*ETHMP38*2",
+      "geoCoord": {
+        "latitude": "50.032493",
+        "longitude": "14.538886"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Štichova"
+    }
+  },
   "CZ8434839": {
     "name": "TS 3969 Rezlerova",
     "sha1": "313c8155fe5ae388d10563fb23df95b12a38bceb",
@@ -23245,6 +23343,55 @@
       "street": "Roztylské nám."
     }
   },
+  "CZ8463126": {
+    "name": "Technologie hlavního města Prahy 17",
+    "sha1": "a7dbcde1af412a976296758ef96274164be661b0",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8463126",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 17",
+      "evseId": "CZ*PRE*ETHMP17*2",
+      "geoCoord": {
+        "latitude": "50.090323",
+        "longitude": "14.345059"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "162 00",
+      "region": "Hlavní město Praha",
+      "street": "Na Okraji"
+    }
+  },
   "CZ8463636": {
     "name": "Penta Waltrovka",
     "sha1": "bad00e56c43f161b6b9d932eb5dff2f289296790",
@@ -23398,6 +23545,55 @@
       "street": "Kurčatovova 332"
     }
   },
+  "CZ8471611": {
+    "name": "Technologie hlavního města Prahy 16",
+    "sha1": "54557e674e0e9b9e193c143c74ef792f7cd96b1c",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8471611",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 16",
+      "evseId": "CZ*PRE*ETHMP16*2",
+      "geoCoord": {
+        "latitude": "50.090827",
+        "longitude": "14.347279"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "162 00",
+      "region": "Hlavní město Praha",
+      "street": "Na Okraji"
+    }
+  },
   "CZ8480116": {
     "name": "Jabloňová u polikliniky",
     "sha1": "14d26e0c25df0bd382b0bf9857fa01a21017c546",
@@ -23541,6 +23737,55 @@
       "postalCode": "15000",
       "region": "Hlavní město Praha",
       "street": "Strakonická"
+    }
+  },
+  "CZ8540219": {
+    "name": "Technologie hlavního města Prahy 15",
+    "sha1": "e94f976c0b8671c36f6b54b935e2f234fabe4702",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8540219",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 15",
+      "evseId": "CZ*PRE*ETHMP15*2",
+      "geoCoord": {
+        "latitude": "50.089217",
+        "longitude": "14.346784"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "162 00",
+      "region": "Hlavní město Praha",
+      "street": "Čílova"
     }
   },
   "CZ8546862": {
@@ -23813,6 +24058,55 @@
       "postalCode": "18100",
       "region": "Hlavní město Praha",
       "street": "Feřtekova"
+    }
+  },
+  "CZ8580719": {
+    "name": "Technologie hlavního města Prahy 27",
+    "sha1": "2394297a6794cf07c27fc1efdbfc08d79179fa34",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8580719",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 27",
+      "evseId": "CZ*PRE*ETHMP27*2",
+      "geoCoord": {
+        "latitude": "50.072273",
+        "longitude": "14.459060"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10100",
+      "region": "Hlavní město Praha",
+      "street": "Žitomírská"
     }
   },
   "CZ8589684": {
@@ -25059,6 +25353,104 @@
       "street": "Dygrýnova"
     }
   },
+  "CZ8884856": {
+    "name": "Technologie hlavního města Prahy 24",
+    "sha1": "b6ae461191bb94df68f8e734e13d64a713fc04d8",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8884856",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 24",
+      "evseId": "CZ*PRE*ETHMP24*2",
+      "geoCoord": {
+        "latitude": "50.071273",
+        "longitude": "14.455961"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10100",
+      "region": "Hlavní město Praha",
+      "street": "Kodaňská"
+    }
+  },
+  "CZ8886403": {
+    "name": "Technologie hlavního města Prahy 33",
+    "sha1": "126d02a7bfe29d5ea8bb3e6ab7a0fea3785fa1bf",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8886403",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 33",
+      "evseId": "CZ*PRE*ETHMP33*2",
+      "geoCoord": {
+        "latitude": "50.029782",
+        "longitude": "14.538311"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Rašova"
+    }
+  },
   "CZ8889708": {
     "name": "Boční II 1",
     "sha1": "cafc4bbc6a51fa26a7560e2b947abfa511f1ead1",
@@ -25185,6 +25577,55 @@
       "postalCode": "30100",
       "region": "Plzeňský kraj",
       "street": "Lochotínská"
+    }
+  },
+  "CZ8901417": {
+    "name": "Technologie hlavního města Prahy 20",
+    "sha1": "e7c6f315da0a20fddcb608fd5995bb30c9c93c1e",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8901417",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 20",
+      "evseId": "CZ*PRE*ETHMP20*2",
+      "geoCoord": {
+        "latitude": "50.089233",
+        "longitude": "14.341167"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "162 00",
+      "region": "Hlavní město Praha",
+      "street": "Předvoje"
     }
   },
   "CZ8901472": {
@@ -26610,6 +27051,104 @@
       "street": "Bublíkova"
     }
   },
+  "CZ9055012": {
+    "name": "Technologie hlavního města Prahy 26",
+    "sha1": "9e3069920d5eff9263d8812981cdf6412b082032",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9055012",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 26",
+      "evseId": "CZ*PRE*ETHMP26*2",
+      "geoCoord": {
+        "latitude": "50.071339",
+        "longitude": "14.458087"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10100",
+      "region": "Hlavní město Praha",
+      "street": "Žitomírská"
+    }
+  },
+  "CZ9063909": {
+    "name": "Technologie hlavního města Prahy 37",
+    "sha1": "1c52ae9b1f4821c7ec6bafb391802a77dc5c7487",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9063909",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 37",
+      "evseId": "CZ*PRE*ETHMP37*2",
+      "geoCoord": {
+        "latitude": "50.032275",
+        "longitude": "14.539313"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Otická"
+    }
+  },
   "CZ9076581": {
     "name": "TS 3614 Libkovská",
     "sha1": "7eef4079644d159c3694d5bb43e23571bfa2d303",
@@ -26748,6 +27287,55 @@
       "postalCode": "10900",
       "region": "Hlavní město Praha",
       "street": "Křimická"
+    }
+  },
+  "CZ9087618": {
+    "name": "Technologie hlavního města Prahy 18",
+    "sha1": "7cb69400beefd5cd4da7ea74121f215e8779713d",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9087618",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 18",
+      "evseId": "CZ*PRE*ETHMP18*2",
+      "geoCoord": {
+        "latitude": "50.090135",
+        "longitude": "14.344289"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "162 00",
+      "region": "Hlavní město Praha",
+      "street": "Na Okraji"
     }
   },
   "CZ9100366": {
@@ -27674,6 +28262,104 @@
       "street": "Na Petřinách"
     }
   },
+  "CZ9207536": {
+    "name": "Technologie hlavního města Prahy 36",
+    "sha1": "d668b129e267125ebc84ca76db3000bd5a892366",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9207536",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 36",
+      "evseId": "CZ*PRE*ETHMP36*2",
+      "geoCoord": {
+        "latitude": "50.032331",
+        "longitude": "14.539812"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Otická"
+    }
+  },
+  "CZ9219050": {
+    "name": "Technologie hlavního města Prahy 32",
+    "sha1": "c75ec91863b4adc07bc8a7a8c237d473b83a41b8",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9219050",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 32",
+      "evseId": "CZ*PRE*ETHMP32*2",
+      "geoCoord": {
+        "latitude": "50.032359",
+        "longitude": "14.540061"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Otická"
+    }
+  },
   "CZ9224884": {
     "name": "TS 3917 Pod Balkánem",
     "sha1": "581be40dc51691932eb6756482f51cf6c3470792",
@@ -27810,6 +28496,104 @@
       "postalCode": "19800",
       "region": "Hlavní město Praha",
       "street": "Doležalova"
+    }
+  },
+  "CZ9257714": {
+    "name": "Technologie hlavního města Prahy 23",
+    "sha1": "70be2ec72382becaedacca39642b5bda9d4d16a8",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "PRaha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9257714",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 23",
+      "evseId": "CZ*PRE*ETHMP23*2",
+      "geoCoord": {
+        "latitude": "50.087755",
+        "longitude": "14.343677"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "162 00",
+      "region": "Hlavní město Praha",
+      "street": "Na Petřinách"
+    }
+  },
+  "CZ9261359": {
+    "name": "Technologie hlavního města Prahy 35",
+    "sha1": "70b901bc4e89949d5c203e5b6fa71e5fbfa0213e",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha ",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9261359",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 35",
+      "evseId": "CZ*PRE*ETHMP35*2",
+      "geoCoord": {
+        "latitude": "50.029953",
+        "longitude": "14.539895"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Rašova"
     }
   },
   "CZ9269817": {
@@ -28644,6 +29428,55 @@
       "street": "Feřtekova"
     }
   },
+  "CZ9418004": {
+    "name": "Technologie hlavního města Prahy 34",
+    "sha1": "79932b5db86c78358a9819dec483c4a81092cf9a",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9418004",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 34",
+      "evseId": "CZ*PRE*ETHMP34*2",
+      "geoCoord": {
+        "latitude": "50.029878",
+        "longitude": "14.539171"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14900",
+      "region": "Hlavní město Praha",
+      "street": "Rašova"
+    }
+  },
   "CZ9429238": {
     "name": "Parkoviště Poliklinika Prosek",
     "sha1": "1ef58096efd145637c32c949268518585ff7fa4b",
@@ -28740,6 +29573,55 @@
       "postalCode": "26751",
       "region": "Středočeský kraj",
       "street": "Komenského"
+    }
+  },
+  "CZ9431131": {
+    "name": "Technologie hlavního města Prahy 28",
+    "sha1": "bdc9c18ac2b88645f30d840627c5628b22367403",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9431131",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 28",
+      "evseId": "CZ*PRE*ETHMP28*2",
+      "geoCoord": {
+        "latitude": "50.072155",
+        "longitude": "14.456288"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10100",
+      "region": "Hlavní město Praha",
+      "street": "Finská"
     }
   },
   "CZ9441199": {
@@ -29030,6 +29912,55 @@
       "postalCode": "14200",
       "region": "Hlavní město Praha",
       "street": "Novodvorská 1947/82"
+    }
+  },
+  "CZ9460523": {
+    "name": "Technologie hlavního města Prahy 30",
+    "sha1": "fd2ba8c6881283d582aee80821f9670c61095d48",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9460523",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 30",
+      "evseId": "CZ*PRE*ETHMP30*2",
+      "geoCoord": {
+        "latitude": "50.071717",
+        "longitude": "14.456965"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10100",
+      "region": "Hlavní město Praha",
+      "street": "Bulharská"
     }
   },
   "CZ9463953": {
@@ -29733,6 +30664,55 @@
       "postalCode": "41156",
       "region": "Ústecký kraj",
       "street": "Zahradní"
+    }
+  },
+  "CZ9586142": {
+    "name": "Technologie hlavního města Prahy 40",
+    "sha1": "8b40000d23123b2cd28a0f5f777a82d24fd373e3",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9586142",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 40",
+      "evseId": "CZ*PRE*ETHMP40*2",
+      "geoCoord": {
+        "latitude": "50.021055",
+        "longitude": "14.441844"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14200",
+      "region": "Hlavní město Praha",
+      "street": "Rabyňská"
     }
   },
   "CZ9610961": {
@@ -30486,6 +31466,55 @@
       "street": "Božetická"
     }
   },
+  "CZ9733608": {
+    "name": "Technologie hlavního města Prahy 21",
+    "sha1": "4096e1740ec85d53fa4ffb61c52cc0f157ae2d66",
+    "station": {
+      "branch": "lamyp VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha ",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9733608",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 21",
+      "evseId": "CZ*PRE*ETHMP21*2",
+      "geoCoord": {
+        "latitude": "50.087414",
+        "longitude": "14.341349"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "162 00",
+      "region": "Hlavní město Praha",
+      "street": "Na Petřinách"
+    }
+  },
   "CZ9740461": {
     "name": "V Rozkvětu",
     "sha1": "f03647c10673a600fb41310a122451e0718c9ecc",
@@ -30720,6 +31749,55 @@
       "street": "Vlachova 87"
     }
   },
+  "CZ9781433": {
+    "name": "Technologie hlavního města Prahy 31",
+    "sha1": "4eb7adffc6136bbaa49c71afc737ff06857a40a1",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9781433",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 31",
+      "evseId": "CZ*PRE*ETHMP31*2",
+      "geoCoord": {
+        "latitude": "50.072245",
+        "longitude": "14.457463"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10100",
+      "region": "Hlavní město Praha",
+      "street": "Mexická"
+    }
+  },
   "CZ9786594": {
     "name": "Automechanika HQ",
     "sha1": "7b9a9fc112130b971a25722400f9ccf4897087f5",
@@ -30883,6 +31961,55 @@
       "street": "Jana Želivského"
     }
   },
+  "CZ9803890": {
+    "name": "Technologie hlavního města Prahy 22",
+    "sha1": "9fcca872d8a1f70f74b2286eeb7a0d7fe9fb1e92",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9803890",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 22",
+      "evseId": "CZ*PRE*ETHMP22*2",
+      "geoCoord": {
+        "latitude": "50.087379",
+        "longitude": "14.342089"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "162 00",
+      "region": "Hlavní město Praha",
+      "street": "Na Petřinách"
+    }
+  },
   "CZ9807912": {
     "name": "Černý Most - Bryksova",
     "sha1": "deafeb4cd3d9004703cfff856a2c73aae7a915a7",
@@ -30928,6 +32055,55 @@
       "postalCode": "19800",
       "region": "Hlavní město Praha",
       "street": "Bryksova"
+    }
+  },
+  "CZ9808509": {
+    "name": "Technologie hlavního města Prahy 39",
+    "sha1": "b907de8397451b381ade02b11bd519b1f3b1f406",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9808509",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 39",
+      "evseId": "CZ*PRE*ETHMP39*2",
+      "geoCoord": {
+        "latitude": "50.020849",
+        "longitude": "14.441984"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "14200",
+      "region": "Hlavní město Praha",
+      "street": "Rabyňská"
     }
   },
   "CZ9817143": {
@@ -31108,6 +32284,55 @@
       "postalCode": "10600",
       "region": "Hlavní město Praha",
       "street": "Šalvějová"
+    }
+  },
+  "CZ9830628": {
+    "name": "Technologie hlavního města Prahy 19",
+    "sha1": "8a0f68b64ad89e0ce4b7376e08ccfb329a6e8713",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9830628",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 19",
+      "evseId": "CZ*PRE*ETHMP19*2",
+      "geoCoord": {
+        "latitude": "50.088971",
+        "longitude": "14.341022"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "162 00",
+      "region": "Hlavní město Praha",
+      "street": "Předvoje"
     }
   },
   "CZ9835635": {
@@ -31332,6 +32557,55 @@
       "postalCode": "16000",
       "region": "Hlavní město Praha",
       "street": "V Nových Vokovicích"
+    }
+  },
+  "CZ9882931": {
+    "name": "Technologie hlavního města Prahy 29",
+    "sha1": "f46cfbb53e5bf5d6d2e9610b937fbf598d421c25",
+    "station": {
+      "branch": "lampy VO",
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9882931",
+      "csStatus": "ready",
+      "csType": "",
+      "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
+      "enCsname": "Technologie hlavního města Prahy 29",
+      "evseId": "CZ*PRE*ETHMP29*2",
+      "geoCoord": {
+        "latitude": "50.071494",
+        "longitude": "14.456424"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "otherLogo",
+          "type": "jpg",
+          "uri": "https://smatrics.com/sites/default/files/1000x250_thmp.jpg"
+        }
+      ],
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "10100",
+      "region": "Hlavní město Praha",
+      "street": "Finská"
     }
   },
   "CZ9900202": {
