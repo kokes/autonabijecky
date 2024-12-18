@@ -24191,7 +24191,7 @@
   },
   "CZ8601366": {
     "name": "Borošova 2",
-    "sha1": "084f8a4630e69a5814b0b06f4fb28a0e5b91d52d",
+    "sha1": "aac997dffb7a6da8856ec10b9540bca4d35a6327",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -24202,7 +24202,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8601366",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Borošova 2",
       "evseId": "CZ*PRE*E2S0073*2",
@@ -28498,6 +28498,47 @@
       "street": "Doležalova"
     }
   },
+  "CZ9255730": {
+    "name": "Tesla Hloubětín 1",
+    "sha1": "28a07085c1a86692c4f3e29da7120134ad27685f",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9255730",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "Residential area Tesla Hloubětín / Rezidenční čtvrť Tesla Hloubětín",
+      "enCsname": "Tesla Hloubětín 1",
+      "evseId": "CZ*PRE*E1S8317*2",
+      "geoCoord": {
+        "latitude": "50.102554",
+        "longitude": "14.525091"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "198 00",
+      "region": "Hlavní město Praha",
+      "street": "Hloubětínská vinice"
+    }
+  },
   "CZ9257714": {
     "name": "Technologie hlavního města Prahy 23",
     "sha1": "70be2ec72382becaedacca39642b5bda9d4d16a8",
@@ -31226,7 +31267,7 @@
   },
   "CZ9660589": {
     "name": "Hornbach Řepy",
-    "sha1": "d7e880701c86f5f920a72607af628320d41427f5",
+    "sha1": "05021cc7c557637649589ca2183810bde51178fb",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -31237,7 +31278,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9660589",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Hornbach Řepy",
       "evseId": "CZ*PRE*E1S8311*2",
