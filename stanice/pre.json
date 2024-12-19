@@ -21070,7 +21070,7 @@
   },
   "CZ8135818": {
     "name": "Hlavatého 3",
-    "sha1": "5523e9392dc7cd5e2eff4a9b67a1dd8befad6dc7",
+    "sha1": "9ef1d7ac1f04a031a75ebcdc301a2fe9b7af712f",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -21081,7 +21081,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8135818",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Hlavatého 3",
       "evseId": "CZ*PRE*E2S0069*2",
@@ -22073,7 +22073,7 @@
   },
   "CZ8257879": {
     "name": "Hlavatého 1",
-    "sha1": "909b939842400699e6482fa8791226552ecdfd8b",
+    "sha1": "453b1a718a317e6f46cd6bb681b276bf968d00a8",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -22084,7 +22084,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8257879",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Hlavatého 1",
       "evseId": "CZ*PRE*E2S0067*2",
@@ -24111,7 +24111,7 @@
   },
   "CZ8589684": {
     "name": "Hlavatého 2",
-    "sha1": "9817e1cd1a903bf63487257094e0c280f01fac2a",
+    "sha1": "7eea16337ad98f3a6ba1e7b0f7d762f9ea254901",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -24122,7 +24122,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8589684",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Hlavatého 2",
       "evseId": "CZ*PRE*E2S0068*2",
@@ -24191,7 +24191,7 @@
   },
   "CZ8601366": {
     "name": "Borošova 2",
-    "sha1": "aac997dffb7a6da8856ec10b9540bca4d35a6327",
+    "sha1": "aa2ef133b3e12a9d38d7dc59f37b1fab2d4e202a",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -24212,6 +24212,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/66a77a2b7ac9a069d1ffe36e/6fadcf4b-2f5e-42e3-82c0-764671ea3c7b.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -25266,7 +25273,7 @@
   },
   "CZ8856499": {
     "name": "Boční II 3",
-    "sha1": "d8535dda527e5504505a47761685cf77875ec045",
+    "sha1": "1a9918bb58df8c7b40baacf2e573e77ca5c82afa",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -25277,7 +25284,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8856499",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Boční II 3",
       "evseId": "CZ*PRE*E2S0054*2",
@@ -25287,6 +25294,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/66a75b6b7ac9a069d1ffe218/3_77422177-ee87-4c34-9149-22cfc27a59f8.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -25453,7 +25467,7 @@
   },
   "CZ8889708": {
     "name": "Boční II 1",
-    "sha1": "cafc4bbc6a51fa26a7560e2b947abfa511f1ead1",
+    "sha1": "95f9a62135de4683e5e13d8d071b3e3ceab26a3d",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -25464,7 +25478,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8889708",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Boční II 1",
       "evseId": "CZ*PRE*E2S0052*2",
@@ -25474,6 +25488,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/66a75a8f7ac9a069d1ffe20c/1_9520deed-b7d1-4983-b1d5-2923c036b76f.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -25913,7 +25934,7 @@
   },
   "CZ8938972": {
     "name": "Boční II 2",
-    "sha1": "228183e71c1ff4a4bda3b4503622aa69594d3f24",
+    "sha1": "f37af2ec05744792694bb1f4aefe45d9006b5662",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -25924,7 +25945,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8938972",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Boční II 2",
       "evseId": "CZ*PRE*E2S0053*2",
@@ -25934,6 +25955,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/66a75adf7ac9a069d1ffe212/2_12a97d2f-7da8-41d4-9974-f241cf611657.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -27984,7 +28012,7 @@
   },
   "CZ9187406": {
     "name": "Janouchova 2",
-    "sha1": "0d05bd8cffaa2b386a416ae72e23ee834778c08a",
+    "sha1": "3ccf07d6df327aa1a7705c517d7c131e2183cf06",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -27995,7 +28023,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9187406",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Janouchova 2",
       "evseId": "CZ*PRE*E2S0071*2",
