@@ -43527,6 +43527,649 @@
       "visible": true
     }
   },
+  "204176": {
+    "name": "WB059 - Jablonec nad Nisou - Vrkoslavice - Hotel Petřín II.",
+    "sha1": "52db90aeacb3cd3b7ca0e7e1947f8fb5497dbada",
+    "station": {
+      "address": {
+        "city": "Jablonec nad Nisou - Vrkoslavice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "177/6",
+        "latitude": 50.7116625,
+        "longitude": 15.1705892,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Petřínská",
+        "url": ""
+      },
+      "customID": "204176",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB059"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/be9582ab-7b83-40ad-befa-07df01bb873c-20241003-105620.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB059 - Jablonec nad Nisou - Vrkoslavice - Hotel Petřín II.",
+      "visible": true
+    }
+  },
+  "204177": {
+    "name": "UR269 - Prunéřov - Elektrárna V.",
+    "sha1": "c12f69bd39eba30ca6638d6cb2e1e72a8f8cc85d",
+    "station": {
+      "address": {
+        "city": "Kadaň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.418768,
+        "longitude": 13.255069,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Prunéřov",
+        "url": ""
+      },
+      "customID": "204177",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR269"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR269"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/97110bf8-25d7-421a-8272-88edcd2de529.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR269 - Prunéřov - Elektrárna V.",
+      "visible": true
+    }
+  },
+  "204178": {
+    "name": "UR270 - Prunéřov - Elektrárna VI.",
+    "sha1": "1929539cb4b60ba5180626ed40d0abad7d8c958b",
+    "station": {
+      "address": {
+        "city": "Kadaň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.418768,
+        "longitude": 13.255069,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Prunéřov",
+        "url": ""
+      },
+      "customID": "204178",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR270"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR270"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/97110bf8-25d7-421a-8272-88edcd2de529.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR270 - Prunéřov - Elektrárna VI.",
+      "visible": true
+    }
+  },
+  "204179": {
+    "name": "UR271 - Prunéřov - Elektrárna VII.",
+    "sha1": "2e24eecb7e9b54b273c357b8910c1dd102330061",
+    "station": {
+      "address": {
+        "city": "Kadaň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.418768,
+        "longitude": 13.255069,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Prunéřov",
+        "url": ""
+      },
+      "customID": "204179",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR271"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR271"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/08/68c94c54-f861-4bb1-b423-f85a7180301d.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR271 - Prunéřov - Elektrárna VII.",
+      "visible": true
+    }
+  },
+  "204180": {
+    "name": "WB060 - Pečky - J.A.Komenského I.",
+    "sha1": "e72c92ddaf6b0191521f0505e5f08086a2feceee",
+    "station": {
+      "address": {
+        "city": "Pečky",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "A. Komenského",
+        "latitude": 50.0902678,
+        "longitude": 15.0273886,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "J.",
+        "url": ""
+      },
+      "customID": "204180",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB060"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/be9582ab-7b83-40ad-befa-07df01bb873c-20241003-105620.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB060 - Pečky - J.A.Komenského I.",
+      "visible": true
+    }
+  },
+  "204181": {
+    "name": "PS004 - Libřice - Jan Špatenka a syn, s.r.o.",
+    "sha1": "aae27b74dd8bca87345cf59d9cd945de4319a6aa",
+    "station": {
+      "address": {
+        "city": "Libřice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "90",
+        "latitude": 50.2869551,
+        "longitude": 15.9606469,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Libřice",
+        "url": ""
+      },
+      "customID": "204181",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 90,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "PS004"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 90,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "PS004"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/07/97110bf8-25d7-421a-8272-88edcd2de529.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "PS004 - Libřice - Jan Špatenka a syn, s.r.o.",
+      "visible": true
+    }
+  },
+  "204199": {
+    "name": "WB058 - Jablonec nad Nisou - Vrkoslavice - Hotel Petřín I.",
+    "sha1": "9024424e0fd94e5a95173bff71a1e7940a48b7b9",
+    "station": {
+      "address": {
+        "city": "Jablonec nad Nisou - Vrkoslavice",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "177/6",
+        "latitude": 50.7116625,
+        "longitude": 15.1705892,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Petřínská",
+        "url": ""
+      },
+      "customID": "204199",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB058"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/img-20220815-wa0014.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB058 - Jablonec nad Nisou - Vrkoslavice - Hotel Petřín I.",
+      "visible": true
+    }
+  },
+  "204200": {
+    "name": "UR267 - Prunéřov - Elektrárna III.",
+    "sha1": "4ee7f4ecf4af48881594112d00feaa99f9151361",
+    "station": {
+      "address": {
+        "city": "Kadaň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.418768,
+        "longitude": 13.255069,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Prunéřov",
+        "url": ""
+      },
+      "customID": "204200",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR267"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR267"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/0fb7f10f-576e-4fce-8120-071a51d134a5.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR267 - Prunéřov - Elektrárna III.",
+      "visible": true
+    }
+  },
+  "204201": {
+    "name": "UR268 - Prunéřov - Elektrárna IV.",
+    "sha1": "b357b233a21b12c4cfb5b74d2b1b61b475e4ba25",
+    "station": {
+      "address": {
+        "city": "Kadaň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.418768,
+        "longitude": 13.255069,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Prunéřov",
+        "url": ""
+      },
+      "customID": "204201",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR268"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR268"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/0fb7f10f-576e-4fce-8120-071a51d134a5.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR268 - Prunéřov - Elektrárna IV.",
+      "visible": true
+    }
+  },
+  "204202": {
+    "name": "WB061 - Pečky - J.A.Komenského II.",
+    "sha1": "0439de23a00ebe2365ae04ce6345e10c857dc728",
+    "station": {
+      "address": {
+        "city": "Pečky",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "A. Komenského",
+        "latitude": 50.0902678,
+        "longitude": 15.0273886,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "J.",
+        "url": ""
+      },
+      "customID": "204202",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB061"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/0ee187df-3ceb-48de-9423-0baa2c2a0d1d.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB061 - Pečky - J.A.Komenského II.",
+      "visible": true
+    }
+  },
+  "204203": {
+    "name": "WB062 - Pečky - J.A.Komenského III.",
+    "sha1": "1b32d448ed8938dcf09756eccfe6168d6d4c7ec5",
+    "station": {
+      "address": {
+        "city": "Pečky",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "A. Komenského",
+        "latitude": 50.0902678,
+        "longitude": 15.0273886,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "J.",
+        "url": ""
+      },
+      "customID": "204203",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB062"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/11/0ee187df-3ceb-48de-9423-0baa2c2a0d1d.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB062 - Pečky - J.A.Komenského III.",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
@@ -45140,8 +45783,8 @@
     }
   },
   "59457": {
-    "name": "R107 - Kadaň - Elektrárna Prunéřov",
-    "sha1": "8b3ba3359085818d671f987aa2efaf230e8f018c",
+    "name": "R107 - Kadaň - Elektrárna Prunéřov II.",
+    "sha1": "6e64283ca6c6ef04fa229f999d2c7307f5c00572",
     "station": {
       "address": {
         "city": "Kadaň",
@@ -45208,7 +45851,7 @@
         }
       ],
       "instructions": null,
-      "name": "R107 - Kadaň - Elektrárna Prunéřov",
+      "name": "R107 - Kadaň - Elektrárna Prunéřov II.",
       "visible": true
     }
   },
@@ -48080,8 +48723,8 @@
     }
   },
   "59512": {
-    "name": "N179 - Prunéřov - Elektrárna Prunéřov",
-    "sha1": "8a370f2a5ff573444c7af50215d0981847095d77",
+    "name": "N179 - Kadaň - Elektrárna Prunéřov I.",
+    "sha1": "414d4af8d4b9ce0d142f5df3ff4bd6464cd6ad49",
     "station": {
       "address": {
         "city": "Kadaň",
@@ -48139,7 +48782,7 @@
         }
       ],
       "instructions": null,
-      "name": "N179 - Prunéřov - Elektrárna Prunéřov",
+      "name": "N179 - Kadaň - Elektrárna Prunéřov I.",
       "visible": true
     }
   },

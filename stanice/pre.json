@@ -31295,7 +31295,7 @@
   },
   "CZ9660589": {
     "name": "Hornbach Řepy",
-    "sha1": "05021cc7c557637649589ca2183810bde51178fb",
+    "sha1": "c0da2c7657c4a328cca09715b15383f66eb467fa",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -31316,6 +31316,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/66a9def67ac9a069d1ffe872/9.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
