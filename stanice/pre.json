@@ -21417,7 +21417,7 @@
   },
   "CZ8176049": {
     "name": "Koupaliště Stírka",
-    "sha1": "c47e46d23d8668847eb9b22ad2f3ab2fa5e163ce",
+    "sha1": "6e08bc2f407688b9138c85b41626cf1275ac0618",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -21428,7 +21428,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8176049",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Koupaliště Stírka",
       "evseId": "CZ*PRE*E1S8312*2",
@@ -28479,7 +28479,7 @@
   },
   "CZ9252695": {
     "name": "Technologie hlavního města Prahy 55",
-    "sha1": "fe936e8567cc3d608594b709e9d9f103e9ad6001",
+    "sha1": "1a842a2707225899300017994d9f68fed528e6cc",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -28491,7 +28491,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9252695",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "stanice na pouliční lampě / charger on the street lamp",
       "enCsname": "Technologie hlavního města Prahy 55",
@@ -30074,7 +30074,7 @@
   },
   "CZ9467954": {
     "name": "Pujmanové ICZ",
-    "sha1": "63f11ae11f4ac465cf1e16868109722065ae7bd8",
+    "sha1": "12780453ca8bde71627fc81afe6e28e31a01d57c",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -30085,7 +30085,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9467954",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Pujmanové ICZ",
       "evseId": "CZ*PRE*E1S8314*2",
@@ -33196,7 +33196,7 @@
   },
   "CZ9971705": {
     "name": "Městská knihovna Rubensova",
-    "sha1": "aa9d67fc5ca9539deebf866cd6072386122ffe3b",
+    "sha1": "885b3cf79226cacfcd8da9bd931ffeb32895a5b0",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -33217,6 +33217,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jfif",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/664b3065fc566937fb5d9848/01940684-8066-45b2-8d21-e155c651f481.jfif"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
