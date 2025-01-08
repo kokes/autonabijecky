@@ -44170,6 +44170,143 @@
       "visible": true
     }
   },
+  "204530": {
+    "name": "UR381 - Praha 4 - Centrála ČEZ, a.s.",
+    "sha1": "7c68355528d5bba8adca23deca3e8ea41ccba8dd",
+    "station": {
+      "address": {
+        "city": "Praha 4",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "2",
+        "latitude": 50.0493388,
+        "longitude": 14.4521772,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Duhová",
+        "url": "http://www.cez.cz"
+      },
+      "customID": "204530",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR381"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR381"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/03/img_9583.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR381 - Praha 4 - Centrála ČEZ, a.s.",
+      "visible": true
+    }
+  },
+  "204549": {
+    "name": "R674 - Slaný - Lacinova",
+    "sha1": "f0593507fba8e6f80a4bc07f34b3595a51367a34",
+    "station": {
+      "address": {
+        "city": "Slaný",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1720",
+        "latitude": 50.2253464,
+        "longitude": 14.0684633,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Lacinova",
+        "url": ""
+      },
+      "customID": "204549",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R674"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R674"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/9e60b44e-f302-409e-8de0-b1750db2e005.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R674 - Slaný - Lacinova",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
