@@ -44307,6 +44307,152 @@
       "visible": true
     }
   },
+  "205097": {
+    "name": "R680 - Dolní Poustevna I.",
+    "sha1": "979bd7b88d2f2509c9f6c85d9ab3d0d79e7a5e51",
+    "station": {
+      "address": {
+        "city": "Dolní Poustevna",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.97961,
+        "longitude": 14.28811,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Vilémovská",
+        "url": ""
+      },
+      "customID": "205097",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R680"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R680"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/04/1-20240412-180927.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R680 - Dolní Poustevna I.",
+      "visible": true
+    }
+  },
+  "205113": {
+    "name": "R681 - Dolní Poustevna II",
+    "sha1": "061c56ea29f2ccb326e4047a2599585da4fa0eb9",
+    "station": {
+      "address": {
+        "city": "Dolní Poustevna",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.97961,
+        "longitude": 14.28811,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Vilémovská",
+        "url": ""
+      },
+      "customID": "205113",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R681"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R681"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R681 - Dolní Poustevna II",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",

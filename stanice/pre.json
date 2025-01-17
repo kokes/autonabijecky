@@ -24942,6 +24942,47 @@
       "street": "Mejstříkova"
     }
   },
+  "CZ8767231": {
+    "name": "Hotel Olympik",
+    "sha1": "52e85c57800de019c2afcc0337778f5723e9915c",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8767231",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "parking Hotel Olympik",
+      "enCsname": "Hotel Olympik",
+      "evseId": "CZ*PRE*E1S8318*2",
+      "geoCoord": {
+        "latitude": "50.098739",
+        "longitude": "14.468630"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "18600",
+      "region": "Hlavní město Praha",
+      "street": "Sokolovská 615/138"
+    }
+  },
   "CZ8791907": {
     "name": "Karlštejn parkoviště ",
     "sha1": "402a6cafa1a91ffb7f9a6f168cf71e37259070c5",
@@ -32583,6 +32624,46 @@
       "postalCode": "18400",
       "region": "Hlavní město Praha",
       "street": "U Rybníčka"
+    }
+  },
+  "CZ9862040": {
+    "name": "Daramis Zelené Město",
+    "sha1": "a68edd479ef805ebab5e658a8c5bda8faf88dc79",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9862040",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "Daramis Zelené Město",
+      "evseId": "CZ*PRE*E1S8320*2",
+      "geoCoord": {
+        "latitude": "50.093678",
+        "longitude": "14.499367"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "V Třešňovce"
     }
   },
   "CZ9876943": {
