@@ -32263,6 +32263,46 @@
       "street": "Janouchova"
     }
   },
+  "CZ9819158": {
+    "name": "TS 3479 Žalovská",
+    "sha1": "07cb7f313f3bf819f92e3bcf0a639ef1e9b774e1",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha ",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9819158",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enCsname": "TS 3479 Žalovská",
+      "evseId": "CZ*PRE*E1S8321*2",
+      "geoCoord": {
+        "latitude": "50.142435",
+        "longitude": "14.430407"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "181 00",
+      "region": "Hlavní město Praha",
+      "street": "Žalovská"
+    }
+  },
   "CZ9825781": {
     "name": "Na Petřinách 5",
     "sha1": "e28c64ed64afbd3a79d6659c499a70f8081c47a0",
