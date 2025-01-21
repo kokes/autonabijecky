@@ -44453,6 +44453,215 @@
       "visible": true
     }
   },
+  "205248": {
+    "name": "WB063 - Praha 4 - DBK Budějovická I.",
+    "sha1": "b11a6c8cb5b81fad079a9704cf1508d89ecd3e8e",
+    "station": {
+      "address": {
+        "city": "Praha 4",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1667/64",
+        "latitude": 50.0437222,
+        "longitude": 14.4484467,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Budějovická",
+        "url": ""
+      },
+      "customID": "205248",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB063"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/img-20220829-wa0014.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB063 - Praha 4 - DBK Budějovická I.",
+      "visible": true
+    }
+  },
+  "205249": {
+    "name": "WB064 - Praha 4 - DBK Budějovická II.",
+    "sha1": "02f098c12ac865d3481b1f7d0c6009996ee803f1",
+    "station": {
+      "address": {
+        "city": "Praha 4",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1667/64",
+        "latitude": 50.0437222,
+        "longitude": 14.4484467,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Budějovická",
+        "url": ""
+      },
+      "customID": "205249",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB064"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/be9582ab-7b83-40ad-befa-07df01bb873c-20241003-105620.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB064 - Praha 4 - DBK Budějovická II.",
+      "visible": true
+    }
+  },
+  "205250": {
+    "name": "WB065 - Praha 4 - DBK Budějovická III.",
+    "sha1": "fd13f923a5a76f257bab12d8ef724156c43b1e69",
+    "station": {
+      "address": {
+        "city": "Praha 4",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1667/64",
+        "latitude": 50.0437222,
+        "longitude": 14.4484467,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Budějovická",
+        "url": ""
+      },
+      "customID": "205250",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB065"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/be9582ab-7b83-40ad-befa-07df01bb873c-20241003-105620.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB065 - Praha 4 - DBK Budějovická III.",
+      "visible": true
+    }
+  },
+  "205251": {
+    "name": "WB066 - Praha 4 - DBK Budějovická IV.",
+    "sha1": "785cecb2c91e999d0eea420f8e3f8e385ae0f52c",
+    "station": {
+      "address": {
+        "city": "Praha 4",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1667/64",
+        "latitude": 50.0437222,
+        "longitude": 14.4484467,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Budějovická",
+        "url": ""
+      },
+      "customID": "205251",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB066"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/be9582ab-7b83-40ad-befa-07df01bb873c-20241003-105620.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB066 - Praha 4 - DBK Budějovická IV.",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
