@@ -44453,9 +44453,219 @@
       "visible": true
     }
   },
-  "205248": {
+  "206910": {
+    "name": "R675 - Kadaň - Elektrárna Tušimice I.",
+    "sha1": "7263154bf4192a419b005e4138f62c49aff8d7d4",
+    "station": {
+      "address": {
+        "city": "Kadaň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.3811031,
+        "longitude": 13.3342594,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Tušimice",
+        "url": ""
+      },
+      "customID": "206910",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R675"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R675"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R675 - Kadaň - Elektrárna Tušimice I.",
+      "visible": true
+    }
+  },
+  "206911": {
+    "name": "R676 - Kadaň - Elektrárna Tušimice II.",
+    "sha1": "2ba76ee7683aed83840eb49f09a2287336667986",
+    "station": {
+      "address": {
+        "city": "Kadaň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.3811031,
+        "longitude": 13.3342594,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Tušimice",
+        "url": ""
+      },
+      "customID": "206911",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R676"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R676"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/35e765bb-d49c-4b55-b72d-5939728f87a1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R676 - Kadaň - Elektrárna Tušimice II.",
+      "visible": true
+    }
+  },
+  "206912": {
+    "name": "UR287 - Kadaň - Elektrárna Tušimice IV.",
+    "sha1": "5cf02fabccd39eefd57be3f88aac34aa3d4edc0d",
+    "station": {
+      "address": {
+        "city": "Kadaň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.3811031,
+        "longitude": 13.3342594,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Tušimice",
+        "url": ""
+      },
+      "customID": "206912",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR287"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR287"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR287 - Kadaň - Elektrárna Tušimice IV.",
+      "visible": true
+    }
+  },
+  "206913": {
     "name": "WB063 - Praha 4 - DBK Budějovická I.",
-    "sha1": "b11a6c8cb5b81fad079a9704cf1508d89ecd3e8e",
+    "sha1": "a42b7a47ee610da58a29183514fb0fb19eff3f23",
     "station": {
       "address": {
         "city": "Praha 4",
@@ -44470,7 +44680,7 @@
         "street": "Budějovická",
         "url": ""
       },
-      "customID": "205248",
+      "customID": "206913",
       "description": [
         {
           "language": "cs",
@@ -44495,7 +44705,7 @@
       ],
       "images": [
         {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/img-20220829-wa0014.jpg"
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/03/img_0671.jpg"
         }
       ],
       "instructions": null,
@@ -44503,9 +44713,9 @@
       "visible": true
     }
   },
-  "205249": {
-    "name": "WB064 - Praha 4 - DBK Budějovická II.",
-    "sha1": "02f098c12ac865d3481b1f7d0c6009996ee803f1",
+  "206914": {
+    "name": "WB065 - Praha 4 - DBK Budějovická III.",
+    "sha1": "2c35111cbe2c9a69ebbe94e96c15fea5230eddd0",
     "station": {
       "address": {
         "city": "Praha 4",
@@ -44520,7 +44730,267 @@
         "street": "Budějovická",
         "url": ""
       },
-      "customID": "205249",
+      "customID": "206914",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "WB065"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "WB065 - Praha 4 - DBK Budějovická III.",
+      "visible": true
+    }
+  },
+  "206916": {
+    "name": "R661 - Praha 4 - OC Opatovská II.",
+    "sha1": "bad766125bed2c3af6267c40b6210e0bf5291c36",
+    "station": {
+      "address": {
+        "city": "Praha 4",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1753/12",
+        "latitude": 50.0252075,
+        "longitude": 14.5168775,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Opatovská",
+        "url": ""
+      },
+      "customID": "206916",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R661"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R661"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R661 - Praha 4 - OC Opatovská II.",
+      "visible": true
+    }
+  },
+  "206917": {
+    "name": "R662 - Praha 4 - OC Opatovská III.",
+    "sha1": "4313e6a5e8aa35d9a13d922ae3549db5591f2108",
+    "station": {
+      "address": {
+        "city": "Praha 4",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1753/12",
+        "latitude": 50.0252075,
+        "longitude": 14.5168775,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Opatovská",
+        "url": ""
+      },
+      "customID": "206917",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R662"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R662"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/06/1.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R662 - Praha 4 - OC Opatovská III.",
+      "visible": true
+    }
+  },
+  "206930": {
+    "name": "UR286 - Kadaň - Elektrárna Tušimice III.",
+    "sha1": "27210ccccbd0e63bbb813df1b5074e5db144a26c",
+    "station": {
+      "address": {
+        "city": "Kadaň",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.3811031,
+        "longitude": 13.3342594,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Tušimice",
+        "url": ""
+      },
+      "customID": "206930",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR286"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 180,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR286"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/be9582ab-7b83-40ad-befa-07df01bb873c-20241003-105620.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR286 - Kadaň - Elektrárna Tušimice III.",
+      "visible": true
+    }
+  },
+  "206933": {
+    "name": "WB064 - Praha 4 - DBK Budějovická II.",
+    "sha1": "0a04366e9be461bbb5fda3dbd777945870434ae0",
+    "station": {
+      "address": {
+        "city": "Praha 4",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1667/64",
+        "latitude": 50.0437222,
+        "longitude": 14.4484467,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Budějovická",
+        "url": ""
+      },
+      "customID": "206933",
       "description": [
         {
           "language": "cs",
@@ -44553,59 +45023,9 @@
       "visible": true
     }
   },
-  "205250": {
-    "name": "WB065 - Praha 4 - DBK Budějovická III.",
-    "sha1": "fd13f923a5a76f257bab12d8ef724156c43b1e69",
-    "station": {
-      "address": {
-        "city": "Praha 4",
-        "country": "CZE",
-        "email": null,
-        "floor": null,
-        "houseNumber": "1667/64",
-        "latitude": 50.0437222,
-        "longitude": 14.4484467,
-        "phoneNumber": null,
-        "postalCode": null,
-        "street": "Budějovická",
-        "url": ""
-      },
-      "customID": "205250",
-      "description": [
-        {
-          "language": "cs",
-          "text": ""
-        }
-      ],
-      "evses": [
-        {
-          "connectors": [
-            {
-              "amperage": null,
-              "chargePointIdentity": "",
-              "connectorID": 1,
-              "format": "CABLE",
-              "powerOutput": 22,
-              "standard": "CCS_COMBO",
-              "voltage": null
-            }
-          ],
-          "physicalReference": "WB065"
-        }
-      ],
-      "images": [
-        {
-          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/be9582ab-7b83-40ad-befa-07df01bb873c-20241003-105620.jpg"
-        }
-      ],
-      "instructions": null,
-      "name": "WB065 - Praha 4 - DBK Budějovická III.",
-      "visible": true
-    }
-  },
-  "205251": {
+  "206934": {
     "name": "WB066 - Praha 4 - DBK Budějovická IV.",
-    "sha1": "785cecb2c91e999d0eea420f8e3f8e385ae0f52c",
+    "sha1": "463cfac5738abf0e22ed06b3fc2a4a59aa93a4b0",
     "station": {
       "address": {
         "city": "Praha 4",
@@ -44620,7 +45040,7 @@
         "street": "Budějovická",
         "url": ""
       },
-      "customID": "205251",
+      "customID": "206934",
       "description": [
         {
           "language": "cs",
@@ -44659,6 +45079,79 @@
       ],
       "instructions": null,
       "name": "WB066 - Praha 4 - DBK Budějovická IV.",
+      "visible": true
+    }
+  },
+  "206936": {
+    "name": "R660 - Praha 4 - OC Opatovská I.",
+    "sha1": "0e81b8ee247c21558e7bb37e9878445250cc5c8b",
+    "station": {
+      "address": {
+        "city": "Praha 4",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1753/12",
+        "latitude": 50.0252075,
+        "longitude": 14.5168775,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Opatovská",
+        "url": ""
+      },
+      "customID": "206936",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R660"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R660"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/be9582ab-7b83-40ad-befa-07df01bb873c-20241003-105620.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R660 - Praha 4 - OC Opatovská I.",
       "visible": true
     }
   },

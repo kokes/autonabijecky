@@ -9695,10 +9695,9 @@
     }
   },
   "CZ1003509": {
-    "name": "Driving Range Rohanský Ostrov",
-    "sha1": "7c4ea5443f6296045c231f0c62f566bfe09c1fe1",
+    "name": "TS 475 Týřovická ",
+    "sha1": "b876f47509de3dcf6d2ad0b0603bc46c1faf4ad5",
     "station": {
-      "branch": "Leisure",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
@@ -9708,25 +9707,18 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003509",
-      "csName": "Driving Range Rohanský Ostrov",
-      "csStatus": "operable",
+      "csName": "TS 475 Týřovická ",
+      "csStatus": "under_construction",
       "csType": "",
-      "enAdditionalInfo": "Za budovou Prague city golf Rohan / Behind the Prague city golf Rohan building",
-      "enCsname": "Driving Range Rohanský Ostrov",
-      "evseId": "CZ*PRE*E1S8064*2",
+      "enAdditionalInfo": "u ts 475",
+      "enCsname": "TS 475 Týřovická ",
+      "evseId": "CZ*PRE*E1S8324*2",
       "geoCoord": {
-        "latitude": "50.102908",
-        "longitude": "14.461593"
+        "latitude": "49.978776",
+        "longitude": "14.352213"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
-      "images": [
-        {
-          "class": "locationPhoto",
-          "type": "png",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365309f4b8a750ff79a350/pre_app_driving_range.png"
-        }
-      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -9739,9 +9731,9 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "18000",
+      "postalCode": "15300",
       "region": "Hlavní město Praha",
-      "street": "U Libeňského mostu 1"
+      "street": "Týřovická"
     }
   },
   "CZ1003517": {
@@ -16282,29 +16274,27 @@
     }
   },
   "CZ4102792": {
-    "name": "Hotel Agricola",
-    "sha1": "37c36973023a91df5060e26a6a638543b73f1acc",
+    "name": "RS 1550 Českolipská",
+    "sha1": "b32997184523e664c6d87ece81180ac804249fa3",
     "station": {
-      "additionalInfo": "In der Garage des Hotels",
-      "branch": "Hospitality",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
         ]
       },
-      "city": "Mariánské Lázně",
+      "city": "Praha",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ4102792",
-      "csName": "Hotel Agricola",
-      "csStatus": "operable",
+      "csName": "RS 1550 Českolipská",
+      "csStatus": "under_construction",
       "csType": "",
-      "enAdditionalInfo": "parkoviště hotelu Agricola / parking of the hotel",
-      "enCsname": "Hotel Agricola",
-      "evseId": "CZ*PRE*E1S8077*2",
+      "enAdditionalInfo": "u RS 1550",
+      "enCsname": "RS 1550 Českolipská",
+      "evseId": "CZ*PRE*E1S8323*2",
       "geoCoord": {
-        "latitude": "49.966286",
-        "longitude": "12.695588"
+        "latitude": "50.126103",
+        "longitude": "14.499101"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -16332,9 +16322,9 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "35301",
-      "region": "Karlovarský kraj",
-      "street": "Tyršova 31"
+      "postalCode": "19000",
+      "region": "Hlavní město Praha",
+      "street": "Českolipská"
     }
   },
   "CZ4103498": {
@@ -28431,7 +28421,7 @@
   },
   "CZ9224884": {
     "name": "TS 3917 Pod Balkánem",
-    "sha1": "581be40dc51691932eb6756482f51cf6c3470792",
+    "sha1": "cfaac18d4340478fc85f9efea5d0963ec41f4b5b",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -28442,7 +28432,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9224884",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "TS 3917 Pod Balkánem",
       "evseId": "CZ*PRE*E1S8316*2",
