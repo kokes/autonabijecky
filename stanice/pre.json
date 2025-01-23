@@ -9696,7 +9696,7 @@
   },
   "CZ1003509": {
     "name": "TS 475 Týřovická ",
-    "sha1": "b876f47509de3dcf6d2ad0b0603bc46c1faf4ad5",
+    "sha1": "03256131e905d77306cf517f5a3a8863de5da471",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -9712,7 +9712,7 @@
       "csType": "",
       "enAdditionalInfo": "u ts 475",
       "enCsname": "TS 475 Týřovická ",
-      "evseId": "CZ*PRE*E1S8324*2",
+      "evseId": "CZ*PRE*E1S8324*1",
       "geoCoord": {
         "latitude": "49.978776",
         "longitude": "14.352213"
@@ -21206,7 +21206,7 @@
   },
   "CZ8146443": {
     "name": "Technologie hlavního města Prahy 14",
-    "sha1": "a167255fef26f8489973f1eaa688c58b3cc26518",
+    "sha1": "c0d13ebcbe295ef692184ac02237262cdb695989",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -21240,7 +21240,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -21447,7 +21447,7 @@
   },
   "CZ8176057": {
     "name": "Technologie hlavního města Prahy 25",
-    "sha1": "1d708e244110d1ee6bf8a898c83772a6c61b7dfd",
+    "sha1": "a0ba5636dd2aa2ec80afde264ba4429f03ce0232",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -21481,7 +21481,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -21676,7 +21676,7 @@
   },
   "CZ8202886": {
     "name": "Technologie hlavního města Prahy 44",
-    "sha1": "9a5f1f8f27975157052aa5dfa8e70ad367b0abc1",
+    "sha1": "d383b6cdfb28eb74995f3df520a4e193debf1d81",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -21710,7 +21710,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -22103,7 +22103,7 @@
   },
   "CZ8273603": {
     "name": "Technologie hlavního města Prahy 63",
-    "sha1": "4c216d49801ccbc20c63950cf372f15e159bbdea",
+    "sha1": "7209e4668ffa255114a3a327b699a7e65ac0283b",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -22137,7 +22137,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -23057,7 +23057,7 @@
   },
   "CZ8432871": {
     "name": "Technologie hlavního města Prahy 38",
-    "sha1": "811fef269fa40c6a04ce92768cb5f7fa6e434662",
+    "sha1": "0a7c750c5d59381bb46a9ef0685ccb9f4e9194e2",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -23091,7 +23091,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -23156,7 +23156,7 @@
   },
   "CZ8435048": {
     "name": "Technologie hlavního města Prahy 50",
-    "sha1": "ed365bd0de27fc4f0d9a400d829a33910b1dc01e",
+    "sha1": "fac8aa0797a51c797210abcf984c14c4ce0e2b31",
     "station": {
       "branch": "\tlampy VO",
       "chargingFacilities": {
@@ -23190,7 +23190,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -23335,7 +23335,7 @@
   },
   "CZ8463126": {
     "name": "Technologie hlavního města Prahy 17",
-    "sha1": "48a4dab9cdf50f56d20725f8016fc762d7d4cfbb",
+    "sha1": "0c3a0a9a2cba376c26f560b9576fc1a77a1204d5",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -23369,7 +23369,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -23537,7 +23537,7 @@
   },
   "CZ8471611": {
     "name": "Technologie hlavního města Prahy 16",
-    "sha1": "d046a589a1552d8bc7682ff43ba4426f309a9e36",
+    "sha1": "edd6c244159d41f610bfd6cf7a14def290b7df12",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -23571,7 +23571,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -23731,7 +23731,7 @@
   },
   "CZ8540219": {
     "name": "Technologie hlavního města Prahy 15",
-    "sha1": "c57955d02dfe2d0bac2f68797bacacfc46cdb994",
+    "sha1": "743f01f67d86076af44d474cf1f51e2b4d8d424a",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -23765,7 +23765,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -23873,7 +23873,7 @@
   },
   "CZ8558805": {
     "name": "Technologie hlavního města Prahy 56",
-    "sha1": "ae5127062284d71c880354b807eadab57f79e9f7",
+    "sha1": "426bcb50dc2bb5db2c03a1820af23434ec29733e",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -23907,7 +23907,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -24052,7 +24052,7 @@
   },
   "CZ8580719": {
     "name": "Technologie hlavního města Prahy 27",
-    "sha1": "99e2797943e352014ec1e06aef582849143c7dff",
+    "sha1": "aec45214b4c97c7c5a399f4e94696409ff3304f4",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -24086,7 +24086,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -24228,7 +24228,7 @@
   },
   "CZ8605815": {
     "name": "Technologie hlavního města Prahy 62",
-    "sha1": "cb277179327c1e1e9413b6a3e059d1b6af154c5e",
+    "sha1": "7448d823c29486c7f4941a91e0af8816b49e632d",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -24262,7 +24262,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -24845,7 +24845,7 @@
   },
   "CZ8763234": {
     "name": "Technologie hlavního města Prahy 53",
-    "sha1": "3d34297bb1b18f94f2826b442746811302284e85",
+    "sha1": "cb890b0e16bb6d86a42e914840e8a97776e1f542",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -24879,7 +24879,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -25115,7 +25115,7 @@
   },
   "CZ8838799": {
     "name": "Technologie hlavního města Prahy 52",
-    "sha1": "e977f64e34b26f59b73ff778c46a8976aedb43cb",
+    "sha1": "1b5a4370336a3b6910509f584f0d6f94811dde67",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -25149,7 +25149,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -25351,7 +25351,7 @@
   },
   "CZ8872397": {
     "name": "Technologie hlavního města Prahy 59",
-    "sha1": "aff395a00a05b51f4849644a2fd6ecc76781f2b3",
+    "sha1": "526eef533dfa1ab74d840565ba6dbe3f4b8e9749",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -25385,7 +25385,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -25400,7 +25400,7 @@
   },
   "CZ8884856": {
     "name": "Technologie hlavního města Prahy 24",
-    "sha1": "4f31d52c11f1106ad727a276905fea142dfda898",
+    "sha1": "46e36097eaa2bcc22a28f4890ee8e2327e3f7259",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -25434,7 +25434,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -25449,7 +25449,7 @@
   },
   "CZ8886403": {
     "name": "Technologie hlavního města Prahy 33",
-    "sha1": "11ab9715d2857576ff8f95aae7acf757473dccb6",
+    "sha1": "3c27ac8ed4383403dfb7d28531e6c45e091be94e",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -25483,7 +25483,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -25633,7 +25633,7 @@
   },
   "CZ8901417": {
     "name": "Technologie hlavního města Prahy 20",
-    "sha1": "d2847f4ffbcab02b245a46b83f9306077c793f1b",
+    "sha1": "28cb4a2d1bfab781f7dce6f177cd1b0f456f8126",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -25667,7 +25667,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -25682,7 +25682,7 @@
   },
   "CZ8901472": {
     "name": "Technologie hlavního města Prahy 54",
-    "sha1": "78e9abe77863ac22c22ca8507dba03af3c2582e0",
+    "sha1": "acbd715fe8a7a68c7816c0930b2ccaf114d84eb9",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -25716,7 +25716,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -25785,7 +25785,7 @@
   },
   "CZ8901865": {
     "name": "Technologie hlavního města Prahy 48",
-    "sha1": "86bb69a8b83cac5c5141652602d1871394849d33",
+    "sha1": "48a798b8f5216ca3b065b3688c97ddf59c1b10bf",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -25819,7 +25819,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -26616,7 +26616,7 @@
   },
   "CZ9013141": {
     "name": "Technologie hlavního města Prahy 41",
-    "sha1": "821a265fabd14dfc63c9b8b9494799f20d8753bd",
+    "sha1": "9f5bcb064bba9dbaa3ebee04235a3ca6194cb6ab",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -26650,7 +26650,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -26765,7 +26765,7 @@
   },
   "CZ9027479": {
     "name": "Technologie hlavního města Prahy 47",
-    "sha1": "0b8af3a5753d7819e681100bbaa54d28446e4a92",
+    "sha1": "9c9c5dc8f8bec4338a2055f8c091d6e440f828e3",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -26799,7 +26799,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -27112,7 +27112,7 @@
   },
   "CZ9055012": {
     "name": "Technologie hlavního města Prahy 26",
-    "sha1": "a14cf9e20e2b806f1ff0366a7ac1c4edf27759ef",
+    "sha1": "fa778ce33e930b57ccb7110178e4c5c9d171c114",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -27146,7 +27146,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -27161,7 +27161,7 @@
   },
   "CZ9063909": {
     "name": "Technologie hlavního města Prahy 37",
-    "sha1": "cf9bafb77b94343d1065d891ad9a1921eb4df28f",
+    "sha1": "87eed7b4f71941e2d77e73994a77f00058311da3",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -27195,7 +27195,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -27350,7 +27350,7 @@
   },
   "CZ9087618": {
     "name": "Technologie hlavního města Prahy 18",
-    "sha1": "fddff0b2f90a3b960c5556a7d113938d4236c344",
+    "sha1": "df89039c977f0400dc60e9e41ab01731279acad1",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -27384,7 +27384,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -27805,7 +27805,7 @@
   },
   "CZ9160202": {
     "name": "Technologie hlavního města Prahy 42",
-    "sha1": "15bbbd8b8188f827ba5ca1956e99ee304065e28b",
+    "sha1": "b9c80ec77ee4ae6bb55afb503370a25c494d326b",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -27839,7 +27839,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -27954,7 +27954,7 @@
   },
   "CZ9181192": {
     "name": "Technologie hlavního města Prahy 49",
-    "sha1": "ae2c71b6ab137816dd22b1675e630937d501eb10",
+    "sha1": "fce0177b7e9fcef4c287e53bb3d074080963a408",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -27988,7 +27988,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -28323,7 +28323,7 @@
   },
   "CZ9207536": {
     "name": "Technologie hlavního města Prahy 36",
-    "sha1": "31ea6d489154bdf1c79d3856055a3646bc40b73a",
+    "sha1": "c8b0e2549da3b6a6dfe3d1edb45e1ea7254dd34d",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -28357,7 +28357,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -28372,7 +28372,7 @@
   },
   "CZ9219050": {
     "name": "Technologie hlavního města Prahy 32",
-    "sha1": "7ed67a31a6c088094261ed84e169097964215c8b",
+    "sha1": "bc72002e9a006ae874b718642adee40fe97c167b",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -28406,7 +28406,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -28461,7 +28461,7 @@
   },
   "CZ9225642": {
     "name": "Technologie hlavního města Prahy 43",
-    "sha1": "bab16078ed57a1230844d681dccb7c537cd72ea9",
+    "sha1": "aa4c8b6e8f06a832550bd3111ddd757a8c49f902",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -28495,7 +28495,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -28510,7 +28510,7 @@
   },
   "CZ9252695": {
     "name": "Technologie hlavního města Prahy 55",
-    "sha1": "1a842a2707225899300017994d9f68fed528e6cc",
+    "sha1": "045336792cf3709961887ccf879ccd50bee42278",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -28544,7 +28544,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -28600,7 +28600,7 @@
   },
   "CZ9257714": {
     "name": "Technologie hlavního města Prahy 23",
-    "sha1": "eb2447069047bcb5013c6bae019e83df461f2e4d",
+    "sha1": "a5316e0e8430d298f42c485cf6c44c4bea6f771e",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -28634,7 +28634,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -28649,7 +28649,7 @@
   },
   "CZ9261359": {
     "name": "Technologie hlavního města Prahy 35",
-    "sha1": "01a20cbb1958ba809eedc509bbe5b2a8a1d0dfc9",
+    "sha1": "314f211b879c9ad5b647132a2662e3738cb27c7d",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -28683,7 +28683,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -29173,7 +29173,7 @@
   },
   "CZ9322064": {
     "name": "Technologie hlavního města Prahy 60",
-    "sha1": "575be43b5b020effba954339050972fc76a3a9d9",
+    "sha1": "696f49ca02c66f97b3d6a0c9a76d18ff56d91347",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -29207,7 +29207,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -29332,7 +29332,7 @@
   },
   "CZ9358753": {
     "name": "Technologie hlavního města Prahy 57",
-    "sha1": "7f9d3694f3eca950178fb81fadfbe7dab4b4f83e",
+    "sha1": "f0a08ca2bc67ebd17266c899d11caf8bb3b8e4a2",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -29366,7 +29366,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -29530,7 +29530,7 @@
   },
   "CZ9418004": {
     "name": "Technologie hlavního města Prahy 34",
-    "sha1": "219a2368792cd1f658f0af547ab7e863df1524fb",
+    "sha1": "f7bda5da8f696a38eae1bcad26d4fd108adc2fdb",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -29564,7 +29564,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -29677,7 +29677,7 @@
   },
   "CZ9431131": {
     "name": "Technologie hlavního města Prahy 28",
-    "sha1": "b98044a7fe5e5ec338cce8985f331bc21c678cfb",
+    "sha1": "8719d0d2efea46ef989dcec6aad1305b55e1e4e7",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -29711,7 +29711,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -30016,7 +30016,7 @@
   },
   "CZ9460523": {
     "name": "Technologie hlavního města Prahy 30",
-    "sha1": "c0e79acb3ed9ec3b39d55be7a33dd164a5a2ad12",
+    "sha1": "6f6c4a497bb7ddacae156886c97343b3e44b5320",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -30050,7 +30050,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -30768,7 +30768,7 @@
   },
   "CZ9586142": {
     "name": "Technologie hlavního města Prahy 40",
-    "sha1": "a35f5770bca3a855ef1b17191c543edbfeec57ef",
+    "sha1": "363de09e60b29bac8860b6a8a9e85be45cc52fa6",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -30802,7 +30802,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -31177,7 +31177,7 @@
   },
   "CZ9643483": {
     "name": "Technologie hlavního města Prahy 61",
-    "sha1": "37a9b9c555a16d5d945615249c639a3af78b3ba9",
+    "sha1": "063afb97631c9535011aea4edc741ec3c3d9eb12",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -31211,7 +31211,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -31575,7 +31575,7 @@
   },
   "CZ9733608": {
     "name": "Technologie hlavního města Prahy 21",
-    "sha1": "2d8a4bc927d09d4d10957fa2a9860f71a01e6152",
+    "sha1": "824354eaf0d7c12107b45c7ee6750c03257ad688",
     "station": {
       "branch": "lamyp VO",
       "chargingFacilities": {
@@ -31609,7 +31609,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -31858,7 +31858,7 @@
   },
   "CZ9781433": {
     "name": "Technologie hlavního města Prahy 31",
-    "sha1": "97527ac51f9fbc33a7b9563bf7e83a75990fe857",
+    "sha1": "a8b7987a1a973e26e8faf63850e59d94ce1917a6",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -31892,7 +31892,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -32070,7 +32070,7 @@
   },
   "CZ9803890": {
     "name": "Technologie hlavního města Prahy 22",
-    "sha1": "6c4192360c0c3884858ba96c54367a5cd3a627d9",
+    "sha1": "23ea2eaf1aab6ef1e4de59a27df06f9e33f4caca",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -32104,7 +32104,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -32166,7 +32166,7 @@
   },
   "CZ9808509": {
     "name": "Technologie hlavního města Prahy 39",
-    "sha1": "13bd751c925a22488fc75ebc5d8ad30bca450300",
+    "sha1": "dc20add1665b05bf17f1f0b6e2ee17202de6192f",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -32200,7 +32200,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -32435,7 +32435,7 @@
   },
   "CZ9830628": {
     "name": "Technologie hlavního města Prahy 19",
-    "sha1": "798f08debdb2615c76e1c3fa946c40b6460b9b34",
+    "sha1": "d85a3c10afc74166bc58e86c35fabf5822c212c3",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -32469,7 +32469,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -32748,7 +32748,7 @@
   },
   "CZ9882931": {
     "name": "Technologie hlavního města Prahy 29",
-    "sha1": "c97ac764aab9a0ecce17e26c35305add34a869b7",
+    "sha1": "afaf281e0248d381a74d533c2f57f31024b252ab",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -32782,7 +32782,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -32918,7 +32918,7 @@
   },
   "CZ9927242": {
     "name": "Technologie hlavního města Prahy 51",
-    "sha1": "0528e70f45113dc9ed0069d9441e35c1b3a004be",
+    "sha1": "afce4ec035f89a04bf80aa33685e91d22d02f7b4",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -32952,7 +32952,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -33070,7 +33070,7 @@
   },
   "CZ9952328": {
     "name": "Technologie hlavního města Prahy 45",
-    "sha1": "094f08a22dac9a16f5d8297940d08f5a3ea5bfbb",
+    "sha1": "e20863403e90438eaa47604d21d20d6cdd5f15f7",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -33104,7 +33104,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -33119,7 +33119,7 @@
   },
   "CZ9956327": {
     "name": "Technologie hlavního města Prahy 58",
-    "sha1": "8e212966dc93fe85278b194df618ac8776392c9b",
+    "sha1": "5280f298668137ce0d570a6c320912c2eacfe946",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -33153,7 +33153,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
@@ -33208,7 +33208,7 @@
   },
   "CZ9963013": {
     "name": "Technologie hlavního města Prahy 46",
-    "sha1": "f1a50abec9be6904591dc0ffdfc725394742927a",
+    "sha1": "062cafcdbf82fb20c3b40d0085666439ccd7c018",
     "station": {
       "branch": "lampy VO",
       "chargingFacilities": {
@@ -33242,7 +33242,7 @@
       "isOpen24Hours": "true",
       "isPartnerCs": false,
       "isRoaming": false,
-      "partnerName": "PRE",
+      "partnerName": "THMP",
       "plugs": [
         {
           "connectorFormat": "Socket",
