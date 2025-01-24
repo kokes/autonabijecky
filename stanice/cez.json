@@ -45155,6 +45155,280 @@
       "visible": true
     }
   },
+  "206962": {
+    "name": "UR262 - Mnichovo Hradiště - Poříčská",
+    "sha1": "73b9390b9698d6fb4806e7bfcfa3cecf244bda75",
+    "station": {
+      "address": {
+        "city": "Mnichovo Hradiště",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "",
+        "latitude": 50.5223161,
+        "longitude": 14.972955,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Poříčská",
+        "url": ""
+      },
+      "customID": "206962",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 140,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR262"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 140,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR262"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/08/img-20220829-wa0014.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR262 - Mnichovo Hradiště - Poříčská",
+      "visible": true
+    }
+  },
+  "206964": {
+    "name": "R668 - Mnichovo Hradiště - V Lipách I.",
+    "sha1": "2737d8ed3041fa1003cba6dfedeb5141fd2f65bb",
+    "station": {
+      "address": {
+        "city": "Mnichovo Hradiště",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Lipách",
+        "latitude": 50.5305153,
+        "longitude": 14.9756022,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "V",
+        "url": ""
+      },
+      "customID": "206964",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R668"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R668"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2023/01/img_0693.jpeg"
+        }
+      ],
+      "instructions": null,
+      "name": "R668 - Mnichovo Hradiště - V Lipách I.",
+      "visible": true
+    }
+  },
+  "206965": {
+    "name": "R669 - Mnichovo Hradiště - V Lipách II.",
+    "sha1": "50b6685133cb79c0aced921b0d2e99de2e8b8792",
+    "station": {
+      "address": {
+        "city": "Mnichovo Hradiště",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "Lipách",
+        "latitude": 50.5305153,
+        "longitude": 14.9756022,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "V",
+        "url": ""
+      },
+      "customID": "206965",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 22,
+              "standard": "MENNEKES_TYPE_2",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R669"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            },
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 3,
+              "format": "CABLE",
+              "powerOutput": 50,
+              "standard": "CHADEMO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "R669"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2024/10/be9582ab-7b83-40ad-befa-07df01bb873c-20241003-105620.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "R669 - Mnichovo Hradiště - V Lipách II.",
+      "visible": true
+    }
+  },
+  "207008": {
+    "name": "UR257 - Liberec - KM Prona",
+    "sha1": "ba2dd6d5942bcf8aa338a8853a818acd99f34252",
+    "station": {
+      "address": {
+        "city": "Liberec XXX - Vratislavice nad Nisou",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1140",
+        "latitude": 50.7602858,
+        "longitude": 15.0909939,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Kunratická",
+        "url": ""
+      },
+      "customID": "207008",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 160,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR257"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 160,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR257"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/06/img_1662-20220616-094135.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR257 - Liberec - KM Prona",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
