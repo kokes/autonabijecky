@@ -16275,7 +16275,7 @@
   },
   "CZ4102792": {
     "name": "RS 1550 Českolipská",
-    "sha1": "b32997184523e664c6d87ece81180ac804249fa3",
+    "sha1": "efea35628184ff1c0d4c73876b8a50e8384a723f",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -16298,18 +16298,6 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
-      "images": [
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365335f4b8a750ff79a7b6/20230920_124622.jpg"
-        },
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365335f4b8a750ff79a7b6/20230920_124852.jpg"
-        }
-      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -23922,7 +23910,7 @@
   },
   "CZ8564251": {
     "name": "Žižkovo náměstí 1",
-    "sha1": "aaac29b9d0589028e25517d4aed89e74846331e0",
+    "sha1": "9d280e707854b7f60a1f3b11630911da492d3766",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -23933,7 +23921,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ8564251",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Žižkovo náměstí 1",
       "evseId": "CZ*PRE*E2S0065*2",
@@ -29043,7 +29031,7 @@
   },
   "CZ9285843": {
     "name": "Kodaňská 2",
-    "sha1": "30735e66a7508e1f380b70aefb2fbbdcecb08d37",
+    "sha1": "a303332c1456fda348dd0c2b6b223f29f289d94f",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -29054,7 +29042,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9285843",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Kodaňská 2",
       "evseId": "CZ*PRE*E2S0050*2",
@@ -30423,7 +30411,7 @@
   },
   "CZ9516349": {
     "name": "Žižkovo náměstí 2",
-    "sha1": "fa6884ec4b0d5d2e75c25cbffc630bc7fd08684f",
+    "sha1": "daf08d1533a47d51d230add4ba6ca970815327f3",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -30434,7 +30422,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9516349",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Žižkovo náměstí 2",
       "evseId": "CZ*PRE*E2S0066*2",
@@ -32255,7 +32243,7 @@
   },
   "CZ9819158": {
     "name": "TS 3479 Žalovská",
-    "sha1": "07cb7f313f3bf819f92e3bcf0a639ef1e9b774e1",
+    "sha1": "060ba9f56fba103a0168e35359c8e52c6aeff14a",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -32269,7 +32257,7 @@
       "csStatus": "under_construction",
       "csType": "",
       "enCsname": "TS 3479 Žalovská",
-      "evseId": "CZ*PRE*E1S8321*2",
+      "evseId": "CZ*PRE*E1S8332*1",
       "geoCoord": {
         "latitude": "50.142435",
         "longitude": "14.430407"
@@ -32797,7 +32785,7 @@
   },
   "CZ9900202": {
     "name": "Kodaňská 1",
-    "sha1": "19da302d7613552e4b2924783905437ed11455ec",
+    "sha1": "9a06cb963c771711819083c16a316264b17d8a00",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -32808,7 +32796,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9900202",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Kodaňská 1",
       "evseId": "CZ*PRE*E2S0049*2",
