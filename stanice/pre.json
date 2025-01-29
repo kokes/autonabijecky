@@ -1527,7 +1527,7 @@
   },
   "CZ1002624": {
     "name": "3D Apartment",
-    "sha1": "e97236dae56a85d85e9a191e20c63c7a062d5677",
+    "sha1": "15445fd482ba0c4f836e403db7addf880511b4e3",
     "station": {
       "additionalInfo": "Im Gebäude 3D Apod.",
       "branch": "Public car parks",
@@ -1543,7 +1543,7 @@
       "csName": "3D Apartment",
       "csStatus": "operable",
       "csType": "",
-      "enAdditionalInfo": "4h zdarma poté 50,-Kč/1h Garáže MR.ParkitIn / 4hour free next 50,-Kč/1h Garage the 3D Apod. building",
+      "enAdditionalInfo": "50,-Kč/1h Garáže MR.ParkitIn / 50,-Kč/1h Garage the 3D Apod. building",
       "enCsname": "3D Apartment",
       "evseId": "CZ*PRE*E1S0015*2",
       "geoCoord": {
@@ -4232,7 +4232,7 @@
   },
   "CZ1002682": {
     "name": "Sparta Holešovice",
-    "sha1": "e77a068f27c6d97673a2236f7dc5ada2fba3e194",
+    "sha1": "125cc6a1cf8d08b9a25645c90c7a2e6bf686caa0",
     "station": {
       "additionalInfo": "Auf dem Parkplatz beim Sportstadion. Zufahrt zum Parkplatz Bei der  Straße U Výstavite.",
       "branch": "Leisure",
@@ -4246,7 +4246,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1002682",
       "csName": "Sparta Holešovice",
-      "csStatus": "operable",
+      "csStatus": "inoperable",
       "csType": "",
       "enAdditionalInfo": "Parkoviště u stadionu Fortuna / Parking at the parking lot by the sport stadium. Access to the parking lot via U Výstaviště street.",
       "enCsname": "Sparta Holešovice",
@@ -32243,7 +32243,7 @@
   },
   "CZ9819158": {
     "name": "TS 3479 Žalovská",
-    "sha1": "060ba9f56fba103a0168e35359c8e52c6aeff14a",
+    "sha1": "ec0e26dfaddc4d017d940ca9ee71871f3dbfc0b3",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -32254,7 +32254,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9819158",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "TS 3479 Žalovská",
       "evseId": "CZ*PRE*E1S8332*1",
