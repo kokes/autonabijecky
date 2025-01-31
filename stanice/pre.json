@@ -8003,27 +8003,26 @@
     }
   },
   "CZ1003271": {
-    "name": "Prašná",
-    "sha1": "c0caafe4ba5b2a14c29a9b4b67df9ddda5504dbf",
+    "name": "Auto Opat Nupaky",
+    "sha1": "320922495e763e340feb7c916ef01b87a6014a32",
     "station": {
-      "branch": "unbekannt",
       "chargingFacilities": {
         "chargingFacility": [
           "380 - 480V, 3-Phase ≤32A"
         ]
       },
-      "city": "Praha",
+      "city": "Nupaky",
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1003271",
-      "csName": "Prašná",
+      "csName": "Auto Opat Nupaky",
       "csStatus": "under_construction",
       "csType": "",
-      "enCsname": "Prašná",
-      "evseId": "CZ*PRE*ETBD3*4",
+      "enCsname": "Auto Opat Nupaky",
+      "evseId": "CZ*PRE*E1S8333*2",
       "geoCoord": {
-        "latitude": "50.034160",
-        "longitude": "14.521582"
+        "latitude": "49.990520",
+        "longitude": "14.594328"
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
@@ -8039,9 +8038,9 @@
           "plug": "Type 2 Outlet"
         }
       ],
-      "postalCode": "14900",
-      "region": "Hlavní město Praha",
-      "street": "Prašná"
+      "postalCode": "251 01",
+      "region": "Středočeský kraj",
+      "street": "Komerční"
     }
   },
   "CZ1003272": {
@@ -31357,6 +31356,47 @@
       "postalCode": "16300",
       "region": "Hlavní město Praha",
       "street": "Slánská 2"
+    }
+  },
+  "CZ9664158": {
+    "name": "AD AUTO PRAHA",
+    "sha1": "10ae24c7748e7a71863f2226a2ad7daa3351b6a9",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ9664158",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "Podélné parkování u AD Auto Praha / Parking spot at AD Auto Praha dealership ",
+      "enCsname": "AD AUTO PRAHA",
+      "evseId": "CZ*PRE*E1S0074*1",
+      "geoCoord": {
+        "latitude": "50.039258",
+        "longitude": "14.457338"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Cable",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Connector (Cable Attached)"
+        }
+      ],
+      "postalCode": "14000",
+      "region": "Hlavní město Praha",
+      "street": "Hornokrčská 1947/2"
     }
   },
   "CZ9675583": {
