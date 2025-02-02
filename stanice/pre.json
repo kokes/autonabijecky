@@ -9695,7 +9695,7 @@
   },
   "CZ1003509": {
     "name": "TS 475 Týřovická ",
-    "sha1": "03256131e905d77306cf517f5a3a8863de5da471",
+    "sha1": "7aa7c3febd81776f04693ef066178887956839c5",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -9707,7 +9707,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1003509",
       "csName": "TS 475 Týřovická ",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "u ts 475",
       "enCsname": "TS 475 Týřovická ",
@@ -9718,6 +9718,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "png",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365309f4b8a750ff79a350/TS475_T%C3%BD%C5%99ovick%C3%A1.png"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
@@ -25573,7 +25580,7 @@
   },
   "CZ8893560": {
     "name": "Penny Market Plzeň Lochotín",
-    "sha1": "0088c8c6495ecffd34db391534e76dd8c5ca8c95",
+    "sha1": "8202ae8c5743dac05d2514d670fabc0bd3401868",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -25615,7 +25622,7 @@
       ],
       "postalCode": "30100",
       "region": "Plzeňský kraj",
-      "street": "Lochotínská"
+      "street": "Lidická"
     }
   },
   "CZ8901417": {
@@ -31360,7 +31367,7 @@
   },
   "CZ9664158": {
     "name": "AD AUTO PRAHA",
-    "sha1": "10ae24c7748e7a71863f2226a2ad7daa3351b6a9",
+    "sha1": "482111f6a6def3353274366b7f411c5596f2132b",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -31371,7 +31378,7 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ9664158",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "Podélné parkování u AD Auto Praha / Parking spot at AD Auto Praha dealership ",
       "enCsname": "AD AUTO PRAHA",
