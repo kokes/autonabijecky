@@ -8004,7 +8004,7 @@
   },
   "CZ1003271": {
     "name": "Auto Opat Nupaky",
-    "sha1": "dbadb9516a6697f2d17156db07a5b244bb694dc9",
+    "sha1": "8712acc930af7b85adad0e547530e352313c1325",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -8016,7 +8016,7 @@
       "cpoId": "CZ*PRE",
       "csId": "CZ1003271",
       "csName": "Auto Opat Nupaky",
-      "csStatus": "under_construction",
+      "csStatus": "operable",
       "csType": "",
       "enCsname": "Auto Opat Nupaky",
       "evseId": "CZ*PRE*E1S8334*2",
@@ -9695,7 +9695,7 @@
   },
   "CZ1003509": {
     "name": "TS 475 Týřovická ",
-    "sha1": "7aa7c3febd81776f04693ef066178887956839c5",
+    "sha1": "5ab97177902589b7ea71d18f8ca9fe6b5f8a2144",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -9721,8 +9721,13 @@
       "images": [
         {
           "class": "locationPhoto",
-          "type": "png",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365309f4b8a750ff79a350/TS475_T%C3%BD%C5%99ovick%C3%A1.png"
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365309f4b8a750ff79a350/1.jpg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365309f4b8a750ff79a350/2.jpg"
         }
       ],
       "isHome": true,
@@ -26297,6 +26302,47 @@
       "postalCode": "16300",
       "region": "Hlavní město Praha",
       "street": "Mrkvičkova"
+    }
+  },
+  "CZ8996742": {
+    "name": "Auto Opat Nupaky",
+    "sha1": "37fc182714f00ee9ae521d0680bec18c8dcb72ec",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Nupaky",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8996742",
+      "csStatus": "operable",
+      "csType": "",
+      "enAdditionalInfo": "Auto Opat",
+      "enCsname": "Auto Opat Nupaky",
+      "evseId": "CZ*PRE*E1S8333*2",
+      "geoCoord": {
+        "latitude": "49.990520",
+        "longitude": "14.594328"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "251 01",
+      "region": "Středočeský kraj",
+      "street": "Komerční"
     }
   },
   "CZ8996743": {
