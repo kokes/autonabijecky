@@ -16286,7 +16286,7 @@
   },
   "CZ4102792": {
     "name": "RS 1550 Českolipská",
-    "sha1": "a9ae622abea27ee1e817fb2742fba62ff238069e",
+    "sha1": "9809514d2f44c76d787323b2a40c2dc2bdf30798",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -16309,6 +16309,23 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365335f4b8a750ff79a7b6/1.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365335f4b8a750ff79a7b6/3.jpeg"
+        },
+        {
+          "class": "locationPhoto",
+          "type": "jpeg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365335f4b8a750ff79a7b6/4.jpeg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
