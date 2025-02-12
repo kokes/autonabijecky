@@ -1215,57 +1215,6 @@
       "street": "Osvětová 670"
     }
   },
-  "CZ1002618": {
-    "name": "PRE-Na Hroudě 4",
-    "sha1": "ce4ef46c52de8f1f21d1c2eedacb0f6bad867de2",
-    "station": {
-      "additionalInfo": "Hinter dem Gebäude Praská energetika nach der Schranke",
-      "branch": "Public car parks",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "380 - 480V, 3-Phase ≤32A"
-        ]
-      },
-      "city": "Praha",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ1002618",
-      "csName": "PRE-Na Hroudě 4",
-      "csStatus": "operable",
-      "csType": "",
-      "enAdditionalInfo": "u budovy PRE / Behind the Pražská energetika building and through the bar",
-      "enCsname": "PRE-Na Hroudě 4",
-      "evseId": "CZ*PRE*E1S0007*2",
-      "geoCoord": {
-        "latitude": "50.069028",
-        "longitude": "14.480833"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "images": [
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365400f4b8a750ff79bc27/IMG_20231115_130728.jpg"
-        }
-      ],
-      "isHome": true,
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "isRoaming": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "connectorFormat": "Socket",
-          "connectorStandard": "IEC-62196-T2",
-          "plug": "Type 2 Outlet"
-        }
-      ],
-      "postalCode": "10005",
-      "region": "Hlavní město Praha",
-      "street": "Na Hroudě 1492/4"
-    }
-  },
   "CZ1002619": {
     "name": "Galerie Butovice",
     "sha1": "fec36573183ee95fa1ed49799476875dea8ba85d",
@@ -3745,60 +3694,9 @@
       "street": "Výstaviště 67"
     }
   },
-  "CZ1002673": {
-    "name": "SMIGHT Pražská energetika 19",
-    "sha1": "4853f1efdc95e80288aa3cb3acfbf80df44ddc3a",
-    "station": {
-      "additionalInfo": "Vor dem Gebäude Praská energetika",
-      "branch": "lampy VO",
-      "chargingFacilities": {
-        "chargingFacility": [
-          "380 - 480V, 3-Phase ≤16A"
-        ]
-      },
-      "city": "Praha",
-      "country": "CZE",
-      "cpoId": "CZ*PRE",
-      "csId": "CZ1002673",
-      "csName": "SMIGHT Pražská energetika 19",
-      "csStatus": "operable",
-      "csType": "",
-      "enAdditionalInfo": "u budovy PRE / In front of the Pražská energetika building",
-      "enCsname": "SMIGHT Pražská energetika 19",
-      "evseId": "CZ*PRE*E2S0002*2",
-      "geoCoord": {
-        "latitude": "50.070167",
-        "longitude": "14.481806"
-      },
-      "hotline": "+420733143143",
-      "hubOperatorID": "AT*SMA",
-      "images": [
-        {
-          "class": "locationPhoto",
-          "type": "jpg",
-          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/64365401f4b8a750ff79bc8f/20230804_102815.jpg"
-        }
-      ],
-      "isHome": true,
-      "isOpen24Hours": "true",
-      "isPartnerCs": false,
-      "isRoaming": false,
-      "partnerName": "PRE",
-      "plugs": [
-        {
-          "connectorFormat": "Socket",
-          "connectorStandard": "DOMESTIC-F",
-          "plug": "Type F Schuko"
-        }
-      ],
-      "postalCode": "11000",
-      "region": "Hlavní město Praha",
-      "street": "Na Hroudě 2149/19"
-    }
-  },
   "CZ1002674": {
-    "name": "Pražská energetika, a.s. 3",
-    "sha1": "f9d8ce612ed811a27d0527528e5c991f8b3e8dc3",
+    "name": "Centrála PRE na Hroudě 4 AC",
+    "sha1": "4e2c4ae7ace5c51b407e07bb44c58d059d55c903",
     "station": {
       "additionalInfo": "Im Park vor dem Pražská energetika-Gebäude",
       "branch": "lampy VO",
@@ -3811,11 +3709,11 @@
       "country": "CZE",
       "cpoId": "CZ*PRE",
       "csId": "CZ1002674",
-      "csName": "Pražská energetika, a.s. 3",
+      "csName": "Centrála PRE na Hroudě 4 AC",
       "csStatus": "operable",
       "csType": "",
       "enAdditionalInfo": "na parkovišti PRE / In the park in front of the Pražská energetika building",
-      "enCsname": "Pražská energetika, a.s. 3",
+      "enCsname": "Centrála PRE na Hroudě 4 AC",
       "evseId": "CZ*PRE*E2S0003*2",
       "geoCoord": {
         "latitude": "50.069694",
