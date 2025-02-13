@@ -21677,6 +21677,47 @@
       "street": "Na Petřinách"
     }
   },
+  "CZ8214466": {
+    "name": "Lighthouse Towers",
+    "sha1": "9fcf7111bc7d31b96b23c54daef2a795a4b5198b",
+    "station": {
+      "chargingFacilities": {
+        "chargingFacility": [
+          "380 - 480V, 3-Phase ≤32A"
+        ]
+      },
+      "city": "Praha",
+      "country": "CZE",
+      "cpoId": "CZ*PRE",
+      "csId": "CZ8214466",
+      "csStatus": "under_construction",
+      "csType": "",
+      "enAdditionalInfo": "by the Lighthouse Towers",
+      "enCsname": "Lighthouse Towers",
+      "evseId": "CZ*PRE*E1S8336*2",
+      "geoCoord": {
+        "latitude": "50.102791",
+        "longitude": "14.457464"
+      },
+      "hotline": "+420733143143",
+      "hubOperatorID": "AT*SMA",
+      "isHome": true,
+      "isOpen24Hours": "true",
+      "isPartnerCs": false,
+      "isRoaming": false,
+      "partnerName": "PRE",
+      "plugs": [
+        {
+          "connectorFormat": "Socket",
+          "connectorStandard": "IEC-62196-T2",
+          "plug": "Type 2 Outlet"
+        }
+      ],
+      "postalCode": "170 00",
+      "region": "Hlavní město Praha",
+      "street": "Jankovcova 1566"
+    }
+  },
   "CZ8222802": {
     "name": "Novodvorská 4",
     "sha1": "1a65e8c02fb10ddde83f9dd81f15d70a4aac7ebd",
@@ -25078,7 +25119,7 @@
   },
   "CZ8844099": {
     "name": "Lucemburská",
-    "sha1": "2477e60ccf6c3620930b7fff4e54e5dee7975476",
+    "sha1": "fc4768c76829d5187133f91fdb01da8b51392efd",
     "station": {
       "chargingFacilities": {
         "chargingFacility": [
@@ -25099,6 +25140,13 @@
       },
       "hotline": "+420733143143",
       "hubOperatorID": "AT*SMA",
+      "images": [
+        {
+          "class": "locationPhoto",
+          "type": "jpg",
+          "uri": "https://images.smatrics-api.com/public-images/ChargingSite/66a76f827ac9a069d1ffe274/f96ebb56-3d16-419b-b97e-1c02746f0faa.jpg"
+        }
+      ],
       "isHome": true,
       "isOpen24Hours": "true",
       "isPartnerCs": false,
