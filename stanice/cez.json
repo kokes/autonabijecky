@@ -45200,6 +45200,70 @@
       "visible": true
     }
   },
+  "208673": {
+    "name": "UR258 - Děčín - Tesco",
+    "sha1": "33c84a9c20386aba8012f78bb74c76d2e8c22422",
+    "station": {
+      "address": {
+        "city": "Děčín",
+        "country": "CZE",
+        "email": null,
+        "floor": null,
+        "houseNumber": "1905/8",
+        "latitude": 50.7693717,
+        "longitude": 14.2064583,
+        "phoneNumber": null,
+        "postalCode": null,
+        "street": "Ústecká",
+        "url": ""
+      },
+      "customID": "208673",
+      "description": [
+        {
+          "language": "cs",
+          "text": ""
+        }
+      ],
+      "evses": [
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 1,
+              "format": "CABLE",
+              "powerOutput": 140,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR258"
+        },
+        {
+          "connectors": [
+            {
+              "amperage": null,
+              "chargePointIdentity": "",
+              "connectorID": 2,
+              "format": "CABLE",
+              "powerOutput": 140,
+              "standard": "CCS_COMBO",
+              "voltage": null
+            }
+          ],
+          "physicalReference": "UR258"
+        }
+      ],
+      "images": [
+        {
+          "imageUrl": "https://www.elektromobilita.cz/variant/motiv-emcz-marker/2022/05/img-20220409-wa0002.jpg"
+        }
+      ],
+      "instructions": null,
+      "name": "UR258 - Děčín - Tesco",
+      "visible": true
+    }
+  },
   "59409": {
     "name": "N116 - Ostrava - Úřad Moravskoslezského kraje",
     "sha1": "5b7d555fad5a20b9a7f078b10d928869e39a087c",
